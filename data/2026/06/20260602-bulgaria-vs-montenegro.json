@@ -1,0 +1,57 @@
+{
+    "@context": "https:\/\/schema.org",
+    "@type": "Dataset",
+    "name": "球小策赛事数据 - 2026-06-02 保加利亚 vs 黑山",
+    "description": "由球小策(QiuXiaoCe)自研AI算法生成的足球赛事量化分析数据集",
+    "creator": {
+        "@type": "Organization",
+        "name": "球小策 (QiuXiaoCe)",
+        "url": "https:\/\/www.qiuxiaoce.com"
+    },
+    "datePublished": "2026-06-02T00:00:00+08:00",
+    "dateModified": "2026-06-01T06:48:25+00:00",
+    "license": "https:\/\/creativecommons.org\/licenses\/by-nc\/4.0\/",
+    "about": {
+        "@type": "SportsEvent",
+        "name": "保加利亚 vs 黑山",
+        "homeTeam": {
+            "@type": "SportsTeam",
+            "name": "bulgaria"
+        },
+        "awayTeam": {
+            "@type": "SportsTeam",
+            "name": "montenegro"
+        },
+        "startDate": "2026-06-02T00:00:00+08:00"
+    },
+    "match_info": {
+        "date": "2026-06-02",
+        "time": "00:00",
+        "league": "友谊赛",
+        "home_team": {
+            "zh": "保加利亚",
+            "en": "bulgaria"
+        },
+        "away_team": {
+            "zh": "黑山",
+            "en": "montenegro"
+        }
+    },
+    "pre_match": {
+        "predictions": {
+            "spf": [],
+            "total_goals": [],
+            "scores": []
+        }
+    },
+    "post_match": {
+        "half_score": "",
+        "actual_score": "",
+        "accuracy": {
+            "score": false,
+            "goals": false,
+            "htft": false,
+            "direction": false
+        }
+    }
+}
