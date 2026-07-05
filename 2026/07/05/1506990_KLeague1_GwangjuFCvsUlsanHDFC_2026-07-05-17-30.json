@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1506990",
+        "comp": "K League 1",
+        "teams": "Gwangju FC vs Ulsan HD FC",
+        "time": "2026-07-05 17:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Ulsan HD FC đè bẹp đối thủ với sức mạnh tấn công áp đảo trước hàng thủ khủng hoảng của Gwangju FC.",
+    "directions": [
+        "Kèo Chấp Châu Á: Ulsan HD FC thắng kèo (Khách -1.25) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Cửa Tài (Tài 2.5) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận HT\/FT: Thua-Thua (Khách dẫn H1 - Khách thắng chung cuộc) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Không",
+            "rationale": "Hàng thủ Gwangju FC thủng lưới như phễu sẽ giúp Ulsan HD FC dễ dàng vượt mốc 2.5 bàn, trong khi hàng công tịt ngòi của chủ nhà khó lòng ghi bàn danh dự."
+        },
+        "scoreline": [
+            "0-3",
+            "0-2"
+        ],
+        "halftime": [
+            "0-0",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1506990",
+        "comp": "K League 1",
+        "home": "Gwangju FC",
+        "away": "Ulsan HD FC",
+        "kickoff": "17:30",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1506990,
+        "handicap": {
+            "spread": "-1.25",
+            "pick": "Trên thắng",
+            "note": "Ulsan HD FC vượt trội hoàn toàn và sẽ tận dụng hàng thủ nát bét của Gwangju FC để thắng cách biệt."
+        },
+        "exact": {
+            "pick": [
+                "0:3",
+                "0:2"
+            ],
+            "note": "Chiến thắng 3 sao cho đội khách phản ánh đúng sự chênh lệch về đẳng cấp và phong độ hiện tại."
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Không"
+            ],
+            "note": "Ulsan HD FC một mình gánh mâm Tài, Gwangju FC tịt ngòi."
+        },
+        "htft": {
+            "pick": [
+                "0-0",
+                "1-0"
+            ],
+            "note": "Ulsan HD FC đánh phủ đầu và duy trì lợi thế đến hết trận."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi xG nảy tưng tưng rống họng báo hiệu cục diện hàng thủ Gwangju FC đang ở mức báo động đỏ (xGA > 2.0). Việc mất đi thủ môn số 1 khiến rào chắn sau lưng hở bung toác cống. Chỉ cần đứt dây văng một trái rớt mâm trong hiệp 1, tụt máu kéo nhịp dồn ép là Ulsan HD FC sẽ xăm xăm rửng mỡ lao vào loạn đả vỡ đê.",
+        "outcome": "Trận đấu 4+ bàn nẩy nóc"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                30,
+                10,
+                45,
+                10,
+                30,
+                40
+            ],
+            "awayVal": [
+                85,
+                70,
+                60,
+                75,
+                80,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                10,
+                15,
+                20,
+                25,
+                30,
+                20,
+                10
+            ],
+            "awayTrend": [
+                60,
+                80,
+                70,
+                65,
+                85,
+                90,
+                75
+            ]
+        }
+    }
+}
