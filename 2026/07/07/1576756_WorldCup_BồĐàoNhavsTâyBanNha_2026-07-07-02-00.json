@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1576756",
+        "comp": "World Cup",
+        "teams": "Bồ Đào Nha vs Tây Ban Nha",
+        "time": "2026-07-07 02:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Tây Ban Nha sẽ tận dụng sự vượt trội về kiểm soát tuyến giữa để xuyên phá hàng thủ Bồ Đào Nha, giành chiến thắng sát nút trong 90 phút.",
+    "directions": [
+        "Tây Ban Nha thắng kèo chấp nhờ sức ép liên tục và hàng thủ chưa từng lọt lưới (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Trận đấu bùng nổ bàn thắng khi cả hai đội đều sở hữu hỏa lực mạnh mẽ (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Bồ Đào Nha cầm cự trong hiệp 1 nhưng gục ngã ở hiệp 2 trước sức ép của La Roja (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Dòng tiền đổ mạnh vào cửa Tài kết hợp với xG trung bình cực cao của cả hai đội bảo chứng cho một trận cầu đôi công rực lửa."
+        },
+        "scoreline": [
+            "1-2",
+            "2-2"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1576756",
+        "comp": "World Cup",
+        "home": "Bồ Đào Nha",
+        "away": "Tây Ban Nha",
+        "kickoff": "02:00",
+        "highlight": "Đại Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1576756,
+        "handicap": {
+            "spread": "+0.5",
+            "pick": "Dưới thắng",
+            "note": "Tây Ban Nha áp đảo thế trận và sẽ giành chiến thắng"
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "2-2"
+            ],
+            "note": "Tây Ban Nha thắng sát nút hoặc hòa nhiều bàn thắng"
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Có"
+            ],
+            "note": "Trận đấu cởi mở và cả hai đội đều ghi bàn"
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Tây Ban Nha giải quyết trận đấu trong hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Bồ Đào Nha có nguy cơ vỡ trận ở 15 phút cuối do suy giảm thể lực và áp lực pressing liên tục từ Tây Ban Nha.",
+        "outcome": "Tây Ban Nha ghi bàn quyết định ở cuối trận"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                80,
+                70,
+                75,
+                85,
+                85,
+                95
+            ],
+            "awayVal": [
+                90,
+                95,
+                95,
+                95,
+                90,
+                95
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                40,
+                50,
+                60,
+                75
+            ],
+            "awayTrend": [
+                50,
+                60,
+                65,
+                70,
+                75,
+                85,
+                90
+            ]
+        }
+    }
+}
