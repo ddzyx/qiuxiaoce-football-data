@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1554374",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "Vikingur Reykjavik vs Gyori ETO FC",
+        "time": "2026-07-08 02:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Tài 2.5 là điểm sáng nhất, dựa trên phong độ ghi bàn hủy diệt của chủ nhà và sự chệch choạc nhịp độ của khách.",
+    "directions": [
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Vikingur Reykjavik +0 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Hiệp 1\/Toàn Trận: Hòa-Thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Dòng tiền ép mạnh vào cửa Tài, kết hợp với hàng công đang vào phom của chủ nhà và sự lỏng lẻo của hàng thủ hai bên."
+        },
+        "scoreline": [
+            "2-1",
+            "2-2"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Thắng-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1554374",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "Vikingur Reykjavik",
+        "away": "Gyori ETO FC",
+        "kickoff": "02:00",
+        "highlight": "Đại Chiến Thể Lực",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1554374,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Chủ nhà thắng",
+            "note": "Lợi thế sân nhà và nhịp độ thi đấu liên tục giúp chủ nhà nắm thế chủ động."
+        },
+        "exact": {
+            "pick": [
+                "2:1",
+                "2:2"
+            ],
+            "note": "Chủ nhà nhỉnh hơn về thể lực sẽ có chiến thắng sát nút, nhưng đội khách vẫn đủ sức tìm được bàn danh dự."
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Có"
+            ],
+            "note": "Dòng tiền đổ dồn ép giá cửa Tài xuống thấp, một trận cầu tưng bừng bàn thắng là kịch bản dễ xảy ra nhất."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Hiệp 1 giằng co, sang hiệp 2 khi thể lực đội khách đi xuống, chủ nhà sẽ tung đòn kết liễu."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Đội khách Gyori ETO vừa trải qua kỳ nghỉ dài, nền tảng thể lực chưa đạt 100%. Khi trận đấu bước vào giai đoạn từ phút 70 trở đi, sự hụt hơi sẽ lộ rõ, dễ dẫn đến thẻ phạt hoặc bàn thua muộn.",
+        "outcome": "Nổ bàn thắng muộn ở 15 phút cuối trận"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                70,
+                80,
+                95,
+                75,
+                90
+            ],
+            "awayVal": [
+                80,
+                75,
+                70,
+                60,
+                85,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                95
+            ],
+            "awayTrend": [
+                50,
+                60,
+                55,
+                45,
+                40,
+                30,
+                20
+            ]
+        }
+    }
+}
