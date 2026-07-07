@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1554367",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "Klaksvik vs Atert Bissen",
+        "time": "2026-07-08 01:45"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Klaksvik thang keo chap Chau A voi suc manh va kinh nghiem vuot troi tren san nha.",
+    "directions": [
+        "Keo Chap Chau A: Klaksvik -1.0 (Tin Nhiem Cao, Do Day Gia Tri Cao)",
+        "Keo Tai Xiu: Xiu 2.5 (Tin Nhiem Trung Binh, Do Day Gia Tri Trung Binh)",
+        "Ty So Don Dieu: Klaksvik giu sach luoi (Tin Nhiem Cao, Do Day Gia Tri Trung Binh)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xiu 2.5",
+            "btts": "Khong",
+            "rationale": "Chu nha ap dao nhung choi thuc dung, khach tu thu va hang cong qua yeu de ghi ban."
+        },
+        "scoreline": [
+            "2-0",
+            "1-0"
+        ],
+        "halftime": [
+            "Thang-Thang",
+            "Hoa-Thang"
+        ]
+    },
+    "analysis": {
+        "code": "1554367",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "Klaksvik",
+        "away": "Atert Bissen",
+        "kickoff": "01:45",
+        "highlight": "Kinh Nghiem",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1554367,
+        "handicap": {
+            "spread": "-1.0",
+            "pick": "Tren thang",
+            "note": "Chu nha de bep doi thu non not bang kinh nghiem va loi the san bai."
+        },
+        "exact": {
+            "pick": [
+                "2:0",
+                "1:0"
+            ],
+            "note": "Chien thang cach biet an toan va giu sach luoi cho chu nha."
+        },
+        "overUnder": {
+            "pick": [
+                "Xiu",
+                "Khong"
+            ],
+            "note": "The tran mot chieu, khach kho co co hoi ghi ban."
+        },
+        "htft": {
+            "pick": [
+                "3-3",
+                "1-3"
+            ],
+            "note": "Chu nha don ep va giai quyet tran dau gon gang."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Ban Can Loi Chien Luc 2 Phe",
+            "axis": [
+                "Tan Cong",
+                "Phong Ngu",
+                "Cam Trich",
+                "Phong Do",
+                "Gia Tri Bang Ghe",
+                "Nhiet Dien Tran"
+            ],
+            "homeVal": [
+                75,
+                85,
+                80,
+                70,
+                80,
+                90
+            ],
+            "awayVal": [
+                40,
+                50,
+                30,
+                85,
+                20,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Ban Do Than Kinh Song Dam Luoi Xuyen Tran",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                70,
+                85,
+                60,
+                50,
+                80,
+                60,
+                40
+            ],
+            "awayTrend": [
+                20,
+                15,
+                30,
+                20,
+                10,
+                25,
+                15
+            ]
+        }
+    }
+}
