@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1576805",
+        "comp": "World Cup",
+        "teams": "Thụy Sĩ vs Colombia",
+        "time": "2026-07-08 03:00"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Nằm cửa dưới Thụy Sĩ là phương án đầu tư an toàn và sinh lời cao nhất khi họ sở hữu thông số xG áp đảo và đối thủ mất đi tiền đạo chủ lực.",
+    "directions": [
+        "Thụy Sĩ giăng bẫy phản công, kết liễu đối thủ bằng một bàn thắng duy nhất (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Hai đội thi đấu giằng co, kéo nhau vào hiệp phụ với tỷ số hòa không bàn thắng (Tín Nhiệm Trung, Độ Dày Giá Trị Trung)",
+        "Colombia dính thẻ đỏ, vỡ trận trong hiệp 2 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hai hàng thủ thép đụng độ nhau, cộng thêm việc Colombia mất đi họng pháo chủ lực khiến khả năng nổ Tài là cực kỳ thấp."
+        },
+        "scoreline": [
+            "1-0",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1576805",
+        "comp": "World Cup",
+        "home": "Thụy Sĩ",
+        "away": "Colombia",
+        "kickoff": "03:00",
+        "highlight": "Đại Chiến",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1576805,
+        "handicap": {
+            "spread": "+0.25",
+            "pick": "Dưới thắng",
+            "note": "Thụy Sĩ nắm giữ lợi thế tuyệt đối về mặt dữ liệu và nhân sự, cửa dưới là chân ái."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "0:0"
+            ],
+            "note": "Kịch bản khô hạn bàn thắng, Thụy Sĩ có thể giải quyết trận đấu bằng một khoảnh khắc lóe sáng."
+        },
+        "overUnder": {
+            "pick": [
+                "Xỉu",
+                "Không"
+            ],
+            "note": "Hàng thủ hai bên đều thi đấu cực kỳ tập trung, khó có cơ hội cho các chân sút tỏa sáng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 Thụy Sĩ tăng tốc kết liễu đối thủ."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài I. Barton cực kỳ nghiêm khắc, nguy cơ xuất hiện thẻ đỏ làm thay đổi hoàn toàn cục diện trận đấu là rất cao.",
+        "outcome": "Colombia dính thẻ đỏ và thua cách biệt"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                90,
+                75,
+                85,
+                95,
+                80
+            ],
+            "awayVal": [
+                70,
+                85,
+                80,
+                85,
+                75,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                80,
+                90
+            ],
+            "awayTrend": [
+                40,
+                50,
+                45,
+                40,
+                30,
+                20,
+                10
+            ]
+        }
+    }
+}
