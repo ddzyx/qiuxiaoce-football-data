@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1494696",
+        "comp": "VĐQG Na Uy",
+        "teams": "Rosenborg BK vs Kristiansund BK",
+        "time": "2026-07-12 22:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Cửa dưới Kristiansund BK (+0.75) là lựa chọn an toàn nhất khi chủ nhà đang khủng hoảng phong độ và dứt điểm kém.",
+    "directions": [
+        "Kịch bản 1: Khách tử thủ thành công và phản công ghi bàn (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản 2: Trận đấu bùng nổ bàn thắng do hàng thủ hai bên đều lỏng lẻo (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản 3: Hai đội chia điểm trong một thế trận giằng co bế tắc (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Cả hai đội đều có hàng thủ yếu kém với xGA xấp xỉ 2.0, kết hợp với áp lực khát điểm trụ hạng sẽ tạo ra thế trận đôi công cởi mở."
+        },
+        "scoreline": [
+            "1-2",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1494696",
+        "comp": "VĐQG Na Uy",
+        "home": "Rosenborg BK",
+        "away": "Kristiansund BK",
+        "kickoff": "22:00",
+        "highlight": "Chung Kết Ngược",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1494696,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà phong độ chạm đáy không đủ sức vượt qua mâm chấp sâu trước đối thủ lỳ lợm."
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "1-1"
+            ],
+            "note": "Khách tận dụng tốt cơ hội phản công để giành điểm hoặc chiến thắng sát nút."
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Có"
+            ],
+            "note": "Hàng thủ lỏng lẻo của cả hai là bảo chứng cho một trận cầu nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "Hòa-Hòa",
+                "Hòa-Thua"
+            ],
+            "note": "Hiệp 1 giằng co bế tắc, hiệp 2 khách bung sức kết liễu hoặc giữ vững tỷ số hòa."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ hai bên đều như rây lọc, nếu có bàn thắng sớm, trận đấu sẽ vỡ vụn thành cơn mưa bàn thắng.",
+        "outcome": "Trận đấu có từ 4 bàn thắng trở lên."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                40,
+                70,
+                30,
+                60,
+                90
+            ],
+            "awayVal": [
+                70,
+                35,
+                45,
+                40,
+                50,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                45,
+                60,
+                70,
+                80,
+                85
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                65,
+                75,
+                85,
+                90
+            ]
+        }
+    }
+}
