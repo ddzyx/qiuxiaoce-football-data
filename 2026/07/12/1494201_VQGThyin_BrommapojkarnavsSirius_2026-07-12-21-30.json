@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1494201",
+        "comp": "VĐQG Thụy Điển",
+        "teams": "Brommapojkarna vs Sirius",
+        "time": "2026-07-12 21:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Sirius áp đảo hoàn toàn về thế trận và dữ liệu xG, một chiến thắng cho đội khách là điều tất yếu.",
+    "directions": [
+        "Khách thắng kèo (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Hòa-Thua (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hàng công Sirius mạnh mẽ đối đầu hàng thủ lỏng lẻo của chủ nhà, hứa hẹn nhiều bàn thắng."
+        },
+        "scoreline": [
+            "1-3",
+            "1-2"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1494201",
+        "comp": "VĐQG Thụy Điển",
+        "home": "Brommapojkarna",
+        "away": "Sirius",
+        "kickoff": "21:30",
+        "highlight": "Đỉnh Bảng",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494201,
+        "handicap": {
+            "spread": "+0.75",
+            "pick": "Khách thắng kèo",
+            "note": "Khách thắng kèo"
+        },
+        "exact": {
+            "pick": [
+                "1-3",
+                "1-2"
+            ],
+            "note": "Khách thắng cách biệt"
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Có"
+            ],
+            "note": "Tài và Hai đội ghi bàn"
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Hòa hiệp một, Khách thắng cả trận"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ chủ nhà cực kỳ mỏng manh, dễ vỡ trận sớm.",
+        "outcome": "Khách thắng cách biệt"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                50,
+                45,
+                40,
+                50,
+                60
+            ],
+            "awayVal": [
+                85,
+                75,
+                55,
+                90,
+                70,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                35,
+                45,
+                50,
+                65,
+                70
+            ],
+            "awayTrend": [
+                60,
+                55,
+                70,
+                65,
+                80,
+                75,
+                60
+            ]
+        }
+    }
+}
