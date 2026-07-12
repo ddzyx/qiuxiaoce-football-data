@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1494697",
+        "comp": "VĐQG Na Uy",
+        "teams": "Sandefjord vs HamKam",
+        "time": "2026-07-12 22:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Sandefjord tận dụng lợi thế sân nhà và sự vắng mặt của trụ cột đối phương để giành chiến thắng tối thiểu.",
+    "directions": [
+        "Chủ nhà thắng kèo (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Hòa-Thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng thủ sân nhà của Sandefjord cực kỳ chắc chắn, kết hợp với việc HamKam mất đi nhạc trưởng tuyến giữa khiến trận đấu khó bùng nổ bàn thắng."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1494697",
+        "comp": "VĐQG Na Uy",
+        "home": "Sandefjord",
+        "away": "HamKam",
+        "kickoff": "22:00",
+        "highlight": "Bẫy Sân Nhà",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494697,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Chủ nhà thắng kèo",
+            "note": "Lối đá kiểm soát bóng áp đảo của chủ nhà sẽ bóp nghẹt đối thủ."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "2:0"
+            ],
+            "note": "Chiến thắng tối thiểu phản ánh đúng cục diện giằng co."
+        },
+        "overUnder": {
+            "pick": [
+                "Xỉu",
+                "Không"
+            ],
+            "note": "Thế trận chặt chẽ và sự vô duyên của các chân sút."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà tăng tốc trong hiệp hai để kết liễu trận đấu."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                85,
+                80,
+                60,
+                75,
+                80
+            ],
+            "awayVal": [
+                75,
+                60,
+                50,
+                75,
+                55,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                60,
+                85,
+                75,
+                70
+            ],
+            "awayTrend": [
+                40,
+                30,
+                20,
+                40,
+                50,
+                30,
+                20
+            ]
+        }
+    }
+}
