@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1494203",
+        "comp": "Allsvenskan",
+        "teams": "Gais vs IF Elfsborg",
+        "time": "2026-07-12 21:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Gais tận dụng triệt để lợi thế sân nhà và phong độ sa sút của đối thủ để giành trọn 3 điểm.",
+    "directions": [
+        "Kèo Chấp Châu Á Gais -0.5: Đội chủ nhà áp đảo về xG và thành tích đối đầu, cửa thắng rất sáng. (Độ Tín Nhiệm: Trung Bình, Giá Trị: Cao)",
+        "Kèo Tài Xỉu Tài 2.5: Hàng thủ hai bên đều có lỗ hổng, khả năng trận đấu có nhiều bàn thắng là rất lớn. (Độ Tín Nhiệm: Trung Bình, Giá Trị: Trung Bình)",
+        "Kèo HT\/FT Hòa-Thắng: Gais thường bùng nổ ở hiệp 2, kịch bản giằng co hiệp 1 và giải quyết trận đấu sau giờ nghỉ rất dễ xảy ra. (Độ Tín Nhiệm: Thấp, Giá Trị: Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Chỉ số xG của Gais rất cao kết hợp với hàng thủ không quá chắc chắn của Elfsborg hứa hẹn một trận cầu cởi mở và cả hai đội đều có khả năng ghi bàn."
+        },
+        "scoreline": [
+            "2-1",
+            "3-1"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1494203",
+        "comp": "Allsvenskan",
+        "home": "Gais",
+        "away": "IF Elfsborg",
+        "kickoff": "21:30",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494203,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Chủ nhà thắng kèo",
+            "note": "Gais vượt trội về mọi mặt từ dữ liệu xG đến phong độ thực tế."
+        },
+        "exact": {
+            "pick": [
+                "2-1",
+                "3-1"
+            ],
+            "note": "Gais sẽ có chiến thắng sát nút hoặc cách biệt hai bàn trong một thế trận đôi công."
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Có"
+            ],
+            "note": "Kỳ vọng trận đấu vượt mốc hai bàn rưỡi và cả hai đội đều nổ súng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Gais có thể gặp khó khăn đầu trận nhưng sẽ bứt lên giành chiến thắng chung cuộc."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi xG nảy tưng tưng rống họng báo hiệu cục diện Xỉu trơ xương cực kỳ mỏng manh. Dù cái họng súng hai bên dạo này đang bít ống, nhưng rào chắn sau lưng hở bung toác cống. Chỉ cần đứt dây văng một trái rớt mâm trong hiệp một, tụt máu kéo nhịp dồn ép là xăm xăm rửng mỡ lao vào loạn đả vỡ đê. Mách khéo đai nịnh dứt khoát né màn cặn Xỉu, đề phòng bão bàn thắng ập hầm dội thẳng lật thóp.",
+        "outcome": "Rào giáp đề phòng trận đấu có từ ba bàn trở lên."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                80,
+                70,
+                65,
+                85,
+                75,
+                90
+            ],
+            "awayVal": [
+                60,
+                55,
+                50,
+                40,
+                70,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                70,
+                85,
+                90,
+                95
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                60,
+                50,
+                40,
+                30
+            ]
+        }
+    }
+}
