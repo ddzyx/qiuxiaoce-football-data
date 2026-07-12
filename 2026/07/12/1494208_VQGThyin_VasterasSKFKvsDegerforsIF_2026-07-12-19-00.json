@@ -1,0 +1,130 @@
+{
+    "info": {
+        "code": "1494208",
+        "comp": "VĐQG Thụy Điển",
+        "teams": "Vasteras SK FK vs Degerfors IF",
+        "time": "2026-07-12 19:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Nằm gai nếm mật cùng đội khách Degerfors IF là phương án an toàn nhất khi chủ nhà đang mắc hội chứng sợ sân nhà và tỷ lệ chấp đang bị ép giá thê thảm.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Degerfors IF +0.25) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thua (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hàng thủ hai bên đều mỏng manh như tờ giấy, hứa hẹn một màn rượt đuổi tỷ số mãn nhãn và cả hai đều có khả năng xuyên thủng mành lưới đối phương."
+        },
+        "scoreline": [
+            "1-2",
+            "2-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1494208",
+        "comp": "VĐQG Thụy Điển",
+        "home": "Vasteras SK FK",
+        "away": "Degerfors IF",
+        "kickoff": "19:00",
+        "highlight": "Khách Lấn Lướt",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494208,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà phong độ sân bãi thảm hại, khách phản công sắc lẹm dễ dàng giật điểm."
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "2-2"
+            ],
+            "note": "Kịch bản rượt đuổi tỷ số hấp dẫn, khách nhỉnh hơn ở khả năng dứt điểm cuối trận."
+        },
+        "overUnder": {
+            "pick": [
+                "Tài",
+                "Có"
+            ],
+            "note": "Phòng ngự lỏng lẻo từ cả hai phía tạo điều kiện cho cơn mưa bàn thắng xuất hiện."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Khách bùng nổ hiệp hai hoặc áp đảo ngay từ đầu để gieo sầu cho chủ nhà."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi xG nảy tưng tưng rống họng báo hiệu cục diện cuối trận cực kỳ mong manh. Degerfors IF sở hữu DNA bùng nổ với 40% số bàn thắng được ghi từ phút 76-90.",
+        "outcome": "Khách lật kèo hoặc ghi bàn quyết định ở 15 phút cuối trận."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                40,
+                55,
+                45,
+                50,
+                70
+            ],
+            "awayVal": [
+                60,
+                50,
+                45,
+                55,
+                60,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                50,
+                70,
+                65,
+                55,
+                40,
+                30
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                60,
+                70,
+                85,
+                95
+            ]
+        }
+    }
+}
