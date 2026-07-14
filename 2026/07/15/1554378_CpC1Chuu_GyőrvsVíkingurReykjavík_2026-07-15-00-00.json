@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1554378",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "Győr vs Víkingur Reykjavík",
+        "time": "2026-07-15 00:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Trận đấu bế tắc, hàng công chủ nhà sứt mẻ nghiêm trọng, ưu tiên đánh Xỉu và nằm cửa dưới.",
+    "directions": [
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Víkingur Reykjavík +0.75 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo HT\/FT: Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Chủ nhà mất hai trụ cột tấn công, khách chủ động tử thủ bảo toàn tỷ số lượt đi."
+        },
+        "scoreline": [
+            "0:0",
+            "1:1"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1554378",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "Győr",
+        "away": "Víkingur Reykjavík",
+        "kickoff": "00:00",
+        "highlight": "Bế Tắc",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1554378,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Khách thắng kèo",
+            "note": "Chủ nhà mất tiền đạo chủ lực, khó thắng cách biệt"
+        },
+        "exact": {
+            "pick": [
+                "0:0",
+                "1:1"
+            ],
+            "note": "Thế trận giằng co, đội khách tử thủ"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công chủ nhà sứt mẻ, khách chủ động chơi chậm"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp một bế tắc, hiệp hai khách có thể phản công"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài Mateo Erceg rút thẻ rất rát, nguy cơ thẻ đỏ phá nát trận đấu là cực cao nếu chủ nhà nôn nóng.",
+        "outcome": "Thẻ đỏ xuất hiện, khách thắng ngược"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                60,
+                70,
+                50,
+                65,
+                90
+            ],
+            "awayVal": [
+                65,
+                80,
+                50,
+                95,
+                70,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                50,
+                40,
+                45,
+                65,
+                70,
+                80
+            ],
+            "awayTrend": [
+                30,
+                25,
+                35,
+                40,
+                50,
+                75,
+                85
+            ]
+        }
+    }
+}
