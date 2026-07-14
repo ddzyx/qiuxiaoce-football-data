@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1554387",
+        "comp": "Champions League",
+        "teams": "The New Saints vs Sabah",
+        "time": "2026-07-15 00:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Sabah thang keo chau A va tran dau co it ban thang do chu nha mat nhieu tru cot tan cong.",
+    "directions": [
+        "Kich ban 1: Sabah thang cach biet 2 ban (Tin Nhiem Trung Binh, Do Day Gia Tri Cao)",
+        "Kich ban 2: Tran dau co duoi 3 ban thang (Tin Nhiem Cao, Do Day Gia Tri Trung Binh)",
+        "Kich ban 3: Sabah giu sach luoi (Tin Nhiem Trung Binh, Do Day Gia Tri Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Chu nha mat sach hoa luc tan cong trong khi doi khach chi can thi dau an toan de bao toan loi the."
+        },
+        "scoreline": [
+            "0-2",
+            "0-1"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1554387",
+        "comp": "Champions League",
+        "home": "The New Saints",
+        "away": "Sabah",
+        "kickoff": "00:30",
+        "highlight": "Khách áp đảo",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1554387,
+        "handicap": {
+            "spread": "+1.0",
+            "pick": "Trên thắng",
+            "note": "Sabah vuot troi ve dang cap va se trung phat sai lam cua chu nha."
+        },
+        "exact": {
+            "pick": [
+                "0:2",
+                "0:1"
+            ],
+            "note": "Khach thang nhe nhang va giu sach luoi."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "The tran mot chieu, chu nha be tac."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Khach tang toc o hiep hai hoac ap dao tu dau."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Nguy co the do tu trong tai nghiem khac M. Busquets co the pha vỡ the tran.",
+        "outcome": "The do xuat hien trong hiep hai."
+    },
+    "charts": {
+        "radar": {
+            "name": "Ban Can Loi Chien Luc 2 Phe",
+            "axis": [
+                "Tan Cong",
+                "Phong Ngu",
+                "Cam Trich",
+                "Phong Do",
+                "Gia Tri Bang Ghe",
+                "Nhiet Dien Tran"
+            ],
+            "homeVal": [
+                30,
+                50,
+                30,
+                60,
+                40,
+                70
+            ],
+            "awayVal": [
+                80,
+                80,
+                85,
+                90,
+                75,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Ban Do Than Kinh Song Dam Luoi Xuyen Tran",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                35,
+                45,
+                50,
+                60,
+                70
+            ],
+            "awayTrend": [
+                60,
+                55,
+                70,
+                65,
+                80,
+                85,
+                75
+            ]
+        }
+    }
+}
