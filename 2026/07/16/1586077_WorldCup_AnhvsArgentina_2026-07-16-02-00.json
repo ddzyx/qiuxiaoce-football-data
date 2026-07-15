@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1586077",
+        "comp": "World Cup",
+        "teams": "Anh vs Argentina",
+        "time": "2026-07-16 02:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm Xỉu 2.5, thế trận giằng co nghẹt thở.",
+    "directions": [
+        "Kịch bản Xỉu 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản Hòa kèo Châu Á (Tín Nhiệm Thấp, Độ Dày Giá Trị Thấp)",
+        "Kịch bản Hiệp 1 Hòa (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Tính chất bán kết khiến hai đội thận trọng, nhưng hàng công chất lượng vẫn đủ sức tìm kiếm 1 bàn thắng mỗi bên."
+        },
+        "scoreline": [
+            "1-1",
+            "0-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1586077",
+        "comp": "World Cup",
+        "home": "Anh",
+        "away": "Argentina",
+        "kickoff": "02:00",
+        "highlight": "Bán Kết",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1586077,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Hòa kèo",
+            "note": "Thế trận cân bằng, khả năng hòa trong 90 phút là rất lớn."
+        },
+        "exact": {
+            "pick": [
+                "1:1",
+                "0:1"
+            ],
+            "note": "Kịch bản ít bàn thắng, ưu tiên tỷ số hòa có bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Áp lực bán kết khiến hai đội ưu tiên phòng ngự."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 có thể có đột biến nhỏ."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                70,
+                80,
+                85,
+                90,
+                95
+            ],
+            "awayVal": [
+                90,
+                85,
+                85,
+                95,
+                85,
+                95
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                70,
+                80
+            ],
+            "awayTrend": [
+                40,
+                50,
+                45,
+                55,
+                65,
+                80,
+                85
+            ]
+        }
+    }
+}
