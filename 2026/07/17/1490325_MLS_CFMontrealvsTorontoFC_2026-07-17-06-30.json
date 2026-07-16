@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1490325",
+        "comp": "MLS",
+        "teams": "CF Montreal vs Toronto FC",
+        "time": "2026-07-17 06:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Nằm cửa Tài 2.5, đề phòng kịch bản chủ nhà sập nguồn thể lực trong hiệp 2 dẫn đến lật xe.",
+    "directions": [
+        "Kèo Tài Xỉu: Cửa Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Toronto FC +0.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo HT\/FT: Thắng-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ hai bên đều lỏng lẻo, cộng thêm kịch bản rượt đuổi thể lực hiệp 2 khiến bàn thắng dễ bùng nổ ở cả hai đầu sân."
+        },
+        "scoreline": [
+            "2-2",
+            "1-2"
+        ],
+        "halftime": [
+            "Thắng-Hòa",
+            "Thắng-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1490325",
+        "comp": "MLS",
+        "home": "CF Montreal",
+        "away": "Toronto FC",
+        "kickoff": "06:30",
+        "highlight": "Derby rực lửa",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1490325,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Khách thắng kèo",
+            "note": "Thể lực cạn kiệt khiến chủ nhà dễ sập bẫy"
+        },
+        "exact": {
+            "pick": [
+                "2-2",
+                "1-2"
+            ],
+            "note": "Khách lật ngược thế cờ"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Mưa bàn thắng cuối trận"
+        },
+        "htft": {
+            "pick": [
+                "3-1",
+                "3-0"
+            ],
+            "note": "Chủ nhà sập nguồn hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "CF Montreal có thói quen thủng lưới tồi tệ ở 15 phút cuối, đụng ngay Toronto FC chuyên gia đâm lén giờ chót.",
+        "outcome": "Khách lội ngược dòng hiệp 2"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                40,
+                60,
+                70,
+                50,
+                80
+            ],
+            "awayVal": [
+                65,
+                45,
+                50,
+                30,
+                75,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                70,
+                50,
+                65,
+                40,
+                30,
+                20
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                60,
+                75,
+                85,
+                95
+            ]
+        }
+    }
+}
