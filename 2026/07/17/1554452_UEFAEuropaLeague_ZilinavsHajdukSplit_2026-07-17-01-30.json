@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1554452",
+        "comp": "UEFA Europa League",
+        "teams": "Zilina vs Hajduk Split",
+        "time": "2026-07-17 01:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Hajduk Split sẽ tận dụng sự nôn nóng của Zilina để tung đòn phản công kết liễu, giành chiến thắng thuyết phục ngay trên sân khách.",
+    "directions": [
+        "Kèo Chấp Châu Á: Trên thắng (Hajduk Split -0.25) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Không",
+            "rationale": "Zilina buộc phải dâng cao để hở sườn, tạo điều kiện cho Hajduk Split ghi nhiều bàn thắng, nhưng hàng công tịt ngòi của chủ nhà khó lòng xuyên thủng hàng thủ thép của đội khách."
+        },
+        "scoreline": [
+            "0-3",
+            "0-2"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Thắng-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1554452",
+        "comp": "UEFA Europa League",
+        "home": "Zilina",
+        "away": "Hajduk Split",
+        "kickoff": "01:30",
+        "highlight": "Sinh Tử Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1554452,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Trên thắng",
+            "note": "Đẳng cấp chênh lệch, đội khách phản công sắc bén sẽ trừng phạt sự nôn nóng của chủ nhà."
+        },
+        "exact": {
+            "pick": [
+                "0:3",
+                "0:2"
+            ],
+            "note": "Đội khách thắng đậm và giữ sạch lưới."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Thế trận cởi mở do chủ nhà buộc phải dâng cao tìm bàn gỡ."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Đội khách bứt tốc trong hiệp hai hoặc áp đảo từ đầu đến cuối."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Zilina cực kỳ mỏng manh, nếu vỡ trận sớm có thể dẫn đến cơn mưa bàn thắng tàn nhẫn.",
+        "outcome": "Thắng cách biệt bự"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                30,
+                45,
+                20,
+                40,
+                80
+            ],
+            "awayVal": [
+                85,
+                95,
+                70,
+                95,
+                75,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                30,
+                20,
+                30,
+                40,
+                50
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                60,
+                75,
+                85,
+                90
+            ]
+        }
+    }
+}
