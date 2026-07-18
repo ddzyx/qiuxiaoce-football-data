@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1495734",
+        "comp": "Veikkausliiga",
+        "teams": "AC Oulu vs Gnistan",
+        "time": "2026-07-18 21:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Trận đấu giằng co, khan hiếm bàn thắng. Lựa chọn Xỉu 2.5 là phương án an toàn nhất.",
+    "directions": [
+        "Kèo Tài Xỉu: Cửa Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Gnistan +0.25 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng thủ sân nhà của AC Oulu rất chắc chắn, trong khi Gnistan tấn công yếu kém trên sân khách."
+        },
+        "scoreline": [
+            "1-0",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1495734",
+        "comp": "Veikkausliiga",
+        "home": "AC Oulu",
+        "away": "Gnistan",
+        "kickoff": "21:00",
+        "highlight": "Đòi Nợ Lịch Sử",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1495734,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Khách thắng kèo",
+            "note": "Gnistan có lợi thế tâm lý từ lịch sử đối đầu và lối chơi phòng ngự lùi sâu khó chịu."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "0:0"
+            ],
+            "note": "Trận đấu bế tắc, ít cơ hội nguy hiểm được tạo ra."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thống kê bàn thắng của cả hai đội đều ủng hộ kịch bản khô hạn."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 mới có thể xuất hiện bàn thắng định đoạt."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                85,
+                55,
+                60,
+                70,
+                80
+            ],
+            "awayVal": [
+                55,
+                70,
+                45,
+                75,
+                70,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                65,
+                80,
+                85
+            ],
+            "awayTrend": [
+                40,
+                35,
+                30,
+                45,
+                50,
+                40,
+                35
+            ]
+        }
+    }
+}
