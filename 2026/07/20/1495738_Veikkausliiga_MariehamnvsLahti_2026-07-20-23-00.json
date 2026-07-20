@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1495738",
+        "comp": "Veikkausliiga",
+        "teams": "Mariehamn vs Lahti",
+        "time": "2026-07-20 23:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Đội khách Lahti sẽ tận dụng triệt để sự sụp đổ của hàng thủ Mariehamn để giành chiến thắng cách biệt.",
+    "directions": [
+        "Khách thắng kèo Châu Á với sức ép tấn công liên tục (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Trận đấu bùng nổ bàn thắng do hàng thủ chủ nhà quá lỏng lẻo (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Đội khách áp đảo từ hiệp 1 và duy trì lợi thế đến hết trận (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hàng thủ Mariehamn thủng lưới liên tục kết hợp với sức mạnh tấn công của Lahti sẽ tạo ra cơn mưa bàn thắng, đồng thời chủ nhà có thể tìm được bàn danh dự."
+        },
+        "scoreline": [
+            "1-3",
+            "1-2"
+        ],
+        "halftime": [
+            "0-0",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1495738",
+        "comp": "Veikkausliiga",
+        "home": "Mariehamn",
+        "away": "Lahti",
+        "kickoff": "23:00",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1495738,
+        "handicap": {
+            "spread": "-1.0",
+            "pick": "Khách thắng kèo",
+            "note": "Đội khách vượt trội hoàn toàn về phong độ và chất lượng đội hình"
+        },
+        "exact": {
+            "pick": [
+                "1-3",
+                "1-2"
+            ],
+            "note": "Đội khách ghi nhiều bàn nhưng có thể thủng lưới một bàn"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hàng thủ chủ nhà quá yếu kém dễ dẫn đến vỡ trận"
+        },
+        "htft": {
+            "pick": [
+                "0-0",
+                "1-0"
+            ],
+            "note": "Đội khách áp đảo ngay từ hiệp một và giữ vững lợi thế"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ chủ nhà có nguy cơ vỡ trận sớm nếu nhận bàn thua trong hiệp một, dẫn đến cơn mưa bàn thắng.",
+        "outcome": "Khách thắng cách biệt lớn"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                20,
+                45,
+                10,
+                55,
+                30
+            ],
+            "awayVal": [
+                75,
+                65,
+                60,
+                80,
+                45,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                30,
+                35,
+                40,
+                45,
+                50
+            ],
+            "awayTrend": [
+                50,
+                60,
+                65,
+                70,
+                80,
+                85,
+                90
+            ]
+        }
+    }
+}
