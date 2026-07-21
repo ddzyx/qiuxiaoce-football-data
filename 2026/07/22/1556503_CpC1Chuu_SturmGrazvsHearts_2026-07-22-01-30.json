@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1556503",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "Sturm Graz vs Hearts",
+        "time": "2026-07-22 01:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Nằm cửa Tài 2.5 và tin tưởng Hearts sẽ không thua cách biệt quá 1 bàn nhờ hàng thủ lỏng lẻo của chủ nhà.",
+    "directions": [
+        "Kịch bản 1: Trận đấu bùng nổ bàn thắng do hàng thủ hai bên đều thi đấu thiếu tập trung (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kịch bản 2: Sturm Graz bế tắc trong hiệp 1 và chỉ có thể giải quyết trận đấu bằng chiến thắng sát nút ở hiệp 2 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản 3: Hearts tận dụng tốt cơ hội phản công để giành một trận hòa tưng bừng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ Sturm Graz lọt lưới trung bình 2.29 bàn\/trận, kết hợp với lối chơi cởi mở của cả hai đội sẽ tạo ra cơn mưa bàn thắng."
+        },
+        "scoreline": [
+            "2-1",
+            "2-2"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1556503",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "Sturm Graz",
+        "away": "Hearts",
+        "kickoff": "01:30",
+        "highlight": "Đại Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1556503,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà thắng sát nút, ăn nửa tiền kèo chấp."
+        },
+        "exact": {
+            "pick": [
+                "2:1",
+                "2:2"
+            ],
+            "note": "Tỷ số phản ánh đúng cục diện công làm thủ phá của chủ nhà."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hàng thủ lỏng lẻo của hai bên là cơ sở vững chắc cho cửa Tài."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Chủ nhà gặp khó trong hiệp 1 và chỉ bứt lên ở hiệp 2."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Sturm Graz đang chơi như mơ ngủ, nguy cơ vỡ trận nếu bị dẫn trước là rất cao.",
+        "outcome": "Trận đấu có từ 4 bàn thắng trở lên."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                80,
+                40,
+                70,
+                75,
+                65,
+                85
+            ],
+            "awayVal": [
+                60,
+                50,
+                55,
+                65,
+                50,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                70,
+                50,
+                40,
+                65,
+                80,
+                85
+            ],
+            "awayTrend": [
+                30,
+                40,
+                60,
+                50,
+                45,
+                55,
+                70
+            ]
+        }
+    }
+}
