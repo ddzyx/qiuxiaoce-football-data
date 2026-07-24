@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1495739",
+        "comp": "Veikkausliiga",
+        "teams": "FF Jaro vs SJK",
+        "time": "2026-07-24 23:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "SJK giành chiến thắng nhờ hàng thủ vững chắc và khả năng bùng nổ cuối trận.",
+    "directions": [
+        "Kèo Châu Á: Khách thắng kèo (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Cửa Xỉu (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thua (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Cả hai đội đều có hàng công yếu kém với tỷ lệ bỏ lỡ cơ hội cao, trong khi SJK sở hữu hàng thủ rất kỷ luật."
+        },
+        "scoreline": [
+            "0:1",
+            "0:2"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1495739",
+        "comp": "Veikkausliiga",
+        "home": "FF Jaro",
+        "away": "SJK",
+        "kickoff": "23:00",
+        "highlight": "Chung Kết Ngược",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1495739,
+        "handicap": {
+            "spread": "+0.5",
+            "pick": "Khách thắng kèo",
+            "note": "Dòng tiền thông minh đổ vào SJK nhờ hàng thủ vững chắc và khả năng bùng nổ cuối trận."
+        },
+        "exact": {
+            "pick": [
+                "0:1",
+                "0:2"
+            ],
+            "note": "SJK sẽ giữ sạch lưới và trừng phạt đối thủ bằng những bàn thắng muộn."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công hai đội đều thiếu sắc bén, trận đấu sẽ diễn ra chặt chẽ và ít bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "SJK thường chơi bùng nổ ở hiệp hai để kết liễu đối thủ sau khi hiệp một giằng co."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "SJK có điểm yếu thủng lưới đầu hiệp hai. Nếu FF Jaro ghi bàn trước, trận đấu có thể vỡ trận và nổ Tài.",
+        "outcome": "Chủ nhà dẫn trước và nổ Tài"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                45,
+                47,
+                45,
+                30,
+                39,
+                90
+            ],
+            "awayVal": [
+                52,
+                80,
+                48,
+                40,
+                72,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                40,
+                50,
+                60,
+                30,
+                20
+            ],
+            "awayTrend": [
+                20,
+                30,
+                40,
+                30,
+                40,
+                70,
+                90
+            ]
+        }
+    }
+}
