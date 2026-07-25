@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1510390",
+        "comp": "K League 2",
+        "teams": "Daegu FC vs Suwon FC",
+        "time": "2026-07-25 17:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Nằm cửa dưới Suwon FC và chờ đợi cơn mưa bàn thắng.",
+    "directions": [
+        "Kèo Chấp Châu Á Dưới thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ Số Đơn Điệu Khách thắng sát nút (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hàng thủ hai bên đều mỏng manh và thường xuyên mắc sai lầm, trong khi hàng công lại duy trì hiệu suất ghi bàn ổn định trên 2 bàn\/trận."
+        },
+        "scoreline": [
+            "1-2",
+            "2-2"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1510390",
+        "comp": "K League 2",
+        "home": "Daegu FC",
+        "away": "Suwon FC",
+        "kickoff": "17:30",
+        "highlight": "Vắng Trụ Cột",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1510390,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà mất trụ cột, khách đang có phong độ cao."
+        },
+        "exact": {
+            "pick": [
+                "1:2",
+                "2:2"
+            ],
+            "note": "Khách tận dụng tốt cơ hội phản công."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hai đội đều có xu hướng chơi cởi mở."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Khách bứt lên ở hiệp hai."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi nảy tưng tưng rống họng báo hiệu cục diện hàng thủ Daegu FC cực kỳ mỏng manh ở cuối trận. Dữ liệu chỉ ra họ thường xuyên thủng lưới ở khoảng thời gian 76-90 phút. Chỉ cần đứt dây văng một trái rớt mâm trong hiệp 1, tụt máu kéo nhịp dồn ép là xăm xăm rửng mỡ lao vào loạn đả vỡ đê.",
+        "outcome": "Trận đấu có từ 4 bàn thắng trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                60,
+                65,
+                75,
+                60,
+                80
+            ],
+            "awayVal": [
+                80,
+                65,
+                70,
+                85,
+                75,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                50,
+                40,
+                55,
+                45,
+                30,
+                20
+            ],
+            "awayTrend": [
+                40,
+                55,
+                65,
+                50,
+                70,
+                85,
+                95
+            ]
+        }
+    }
+}
