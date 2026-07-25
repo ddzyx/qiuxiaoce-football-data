@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1507010",
+        "comp": "K League 1",
+        "teams": "Gimcheon Sangmu vs Daejeon Hana Citizen",
+        "time": "2026-07-25 17:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Nằm cửa dưới Gimcheon Sangmu +0.25 và đánh Xỉu 2.5 là phương án an toàn nhất trong thế trận giằng co bế tắc.",
+    "directions": [
+        "Kịch bản 1: Hai đội hòa 1-1, cửa dưới ăn nửa tiền (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản 2: Trận đấu kết thúc 0-0 tẻ nhạt (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản 3: Daejeon thắng sát nút 1-0 nhờ khoảnh khắc lóe sáng cuối trận (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng công hai bên đều cùn mòn nhưng hàng thủ lại hay mắc sai lầm, dễ dẫn đến tỷ số hòa 1-1."
+        },
+        "scoreline": [
+            "1-1",
+            "0-0"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1507010",
+        "comp": "K League 1",
+        "home": "Gimcheon Sangmu",
+        "away": "Daejeon Hana Citizen",
+        "kickoff": "17:30",
+        "highlight": "Đua Trụ Hạng",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1507010,
+        "handicap": {
+            "spread": "+0.25",
+            "pick": "Chủ thắng",
+            "note": "Chủ nhà lỳ lợm, khách bế tắc, nằm dưới an toàn"
+        },
+        "exact": {
+            "pick": [
+                "1:1",
+                "0:0"
+            ],
+            "note": "Thế trận giằng co ít bàn thắng"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công hai đội đều đang sa sút"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 giằng co hoặc khách đâm lén"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                65,
+                75,
+                50,
+                60,
+                80
+            ],
+            "awayVal": [
+                65,
+                75,
+                60,
+                50,
+                70,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                35,
+                45,
+                50,
+                60,
+                70
+            ],
+            "awayTrend": [
+                40,
+                45,
+                50,
+                40,
+                55,
+                65,
+                75
+            ]
+        }
+    }
+}
