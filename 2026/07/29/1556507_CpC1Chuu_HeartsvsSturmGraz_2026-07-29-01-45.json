@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1556507",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "Hearts vs Sturm Graz",
+        "time": "2026-07-29 01:45"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Bỏ qua mâm chấp đầy cạm bẫy, chọn Tài 2.5 là bến đỗ an toàn nhất khi Hearts buộc phải dâng cao tấn công, tạo ra thế trận đôi công cởi mở.",
+    "directions": [
+        "Tài 2.5: Trận đấu buộc Hearts phải dâng cao tấn công tìm bàn gỡ, tạo ra thế trận đôi công cởi mở và nhiều khoảng trống cho Sturm Graz phản công. (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Sturm Graz được chấp +0.75: Đội khách có tâm lý thoải mái và vũ khí phản công sắc bén, đủ sức trừng phạt sự nôn nóng của chủ nhà. (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hòa-Hòa HT\/FT: Hai đội giằng co trong hiệp 1 và tiếp tục ăn miếng trả miếng ở hiệp 2 mà không bên nào tạo ra cách biệt. (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hearts buộc phải ghi bàn danh dự trên sân nhà, trong khi hàng thủ lỏng lẻo của họ khó lòng đứng vững trước sức mạnh phản công của Sturm Graz."
+        },
+        "scoreline": [
+            "2-2",
+            "1-2"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1556507",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "Hearts",
+        "away": "Sturm Graz",
+        "kickoff": "01:45",
+        "highlight": "Tử Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1556507,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Dưới thắng",
+            "note": "Sturm Graz có lợi thế tâm lý và lối đá phản công sắc bén, đủ sức vượt qua tỷ lệ chấp."
+        },
+        "exact": {
+            "pick": [
+                "2:2",
+                "1:2"
+            ],
+            "note": "Thế trận đôi công cởi mở, Sturm Graz tận dụng tốt sai lầm của chủ nhà."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Cả hai đội đều có khả năng ghi bàn cao trong một thế trận không còn gì để mất của chủ nhà."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 Sturm Graz bứt lên hoặc giữ vững thế trận."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Hearts đang hở bung toác cống. Chỉ cần đứt dây văng một trái rớt mâm trong hiệp 1 từ đòn phản công của Sturm Graz, tinh thần Hearts sẽ tụt dốc không phanh, kéo theo một màn vỡ đê thảm khốc.",
+        "outcome": "Trận đấu có từ 4 bàn thắng trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                40,
+                70,
+                50,
+                65,
+                90
+            ],
+            "awayVal": [
+                85,
+                75,
+                40,
+                95,
+                80,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                70,
+                80,
+                60,
+                50,
+                65,
+                85,
+                90
+            ],
+            "awayTrend": [
+                40,
+                50,
+                70,
+                60,
+                80,
+                90,
+                95
+            ]
+        }
+    }
+}
