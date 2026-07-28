@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1547786",
+        "comp": "CONMEBOL Sudamericana",
+        "teams": "Santos FC vs Universidad Cesar Vallejo",
+        "time": "2026-07-29 07:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Chủ nhà cất trụ cột giữ chân do kẹt lịch thi đấu, cửa dưới an toàn vượt ải mâm chấp sâu.",
+    "directions": [
+        "Kèo Chấp Châu Á: Universidad Cesar Vallejo được chấp (+1.5) - Lịch thi đấu ép Santos phải đá đội hình phụ, cửa dưới có dư không gian để thở (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 - Chủ nhà không muốn ghi thêm bàn, khách thì bất lực trong tấn công (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Hiệp 1\/Toàn Trận: Hòa-Thắng - Santos nhởn nhơ hiệp 1 và chỉ tung đòn kết liễu nhẹ nhàng ở hiệp 2 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Đội khách quá yếu để ghi bàn, trong khi chủ nhà chỉ muốn đá ma câu giờ bảo toàn tỷ số."
+        },
+        "scoreline": [
+            "1-0",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1547786",
+        "comp": "CONMEBOL Sudamericana",
+        "home": "Santos FC",
+        "away": "Universidad Cesar Vallejo",
+        "kickoff": "07:30",
+        "highlight": "Giữ Chân",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1547786,
+        "handicap": {
+            "spread": "-1.5",
+            "pick": "Dưới thắng",
+            "note": "Santos cất trụ cột, không bung sức thắng đậm"
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "1:1"
+            ],
+            "note": "Chủ nhà thắng nhẹ nhàng hoặc hòa tẻ nhạt"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận ru ngủ, khô hạn bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 định đoạt hoặc hòa cả trận"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                80,
+                85,
+                75,
+                90,
+                30
+            ],
+            "awayVal": [
+                40,
+                50,
+                35,
+                20,
+                20,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                65,
+                75,
+                60
+            ],
+            "awayTrend": [
+                20,
+                25,
+                30,
+                40,
+                35,
+                20,
+                10
+            ]
+        }
+    }
+}
