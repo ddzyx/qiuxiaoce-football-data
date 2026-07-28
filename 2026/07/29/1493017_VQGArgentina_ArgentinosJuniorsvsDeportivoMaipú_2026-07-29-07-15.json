@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493017",
+        "comp": "VĐQG Argentina",
+        "teams": "Argentinos Juniors vs Deportivo Maipú",
+        "time": "2026-07-29 07:15"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Chủ nhà áp đảo thế trận, dự kiến giành chiến thắng nhọc nhằn trước hàng thủ lùi sâu của khách.",
+    "directions": [
+        "Kèo Chấp Châu Á: Trên thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Đội khách tử thủ với hàng phòng ngự lùi sâu, trong khi chủ nhà kiểm soát bóng nhưng khó tạo ra cơn mưa bàn thắng."
+        },
+        "scoreline": [
+            "2:0",
+            "1:0"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1493017",
+        "comp": "VĐQG Argentina",
+        "home": "Argentinos Juniors",
+        "away": "Deportivo Maipú",
+        "kickoff": "07:15",
+        "highlight": "Công vs Thủ",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1493017,
+        "handicap": {
+            "spread": "-1.0",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà mạnh hơn hẳn, ít nhất sẽ thắng tối thiểu để hòa kèo, cơ hội lớn thắng cách biệt."
+        },
+        "exact": {
+            "pick": [
+                "2:0",
+                "1:0"
+            ],
+            "note": "Chủ nhà giữ sạch lưới và ghi một đến hai bàn."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận bế tắc, khó vượt mốc hai bàn."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà có thể bế tắc hiệp một nhưng sẽ giải quyết trận đấu trong hiệp hai."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi cảnh báo cục diện Xỉu trơ xương. Đội khách lùi sâu đội hình, nếu chủ nhà không có bàn thắng sớm trong hiệp một, áp lực tâm lý sẽ tăng cao.",
+        "outcome": "Chủ nhà thắng muộn trong hiệp hai"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                80,
+                85,
+                70,
+                80,
+                75
+            ],
+            "awayVal": [
+                40,
+                75,
+                30,
+                30,
+                40,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                30,
+                25,
+                20,
+                30,
+                20,
+                15,
+                10
+            ]
+        }
+    }
+}
