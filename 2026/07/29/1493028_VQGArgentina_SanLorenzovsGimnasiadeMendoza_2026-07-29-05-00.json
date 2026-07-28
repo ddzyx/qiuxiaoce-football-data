@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493028",
+        "comp": "VĐQG Argentina",
+        "teams": "San Lorenzo vs Gimnasia de Mendoza",
+        "time": "2026-07-29 05:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm dưới Gimnasia de Mendoza và đánh Xỉu, tận dụng sự bế tắc của chủ nhà.",
+    "directions": [
+        "Kịch bản 1: Gimnasia de Mendoza tử thủ thành công và giật 1 điểm (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kịch bản 2: Trận đấu khô hạn bàn thắng do sự vô duyên của hàng công hai bên (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản 3: Đội khách trừng phạt sai lầm hàng thủ chắp vá của chủ nhà để giành chiến thắng tối thiểu (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công San Lorenzo đang tịt ngòi liên tục, kết hợp với lối chơi phòng ngự lùi sâu của Gimnasia khiến trận đấu khó bùng nổ bàn thắng."
+        },
+        "scoreline": [
+            "0-0",
+            "0-1"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1493028",
+        "comp": "VĐQG Argentina",
+        "home": "San Lorenzo",
+        "away": "Gimnasia de Mendoza",
+        "kickoff": "05:00",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1493028,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà phong độ chạm đáy, khách lỳ lợm đáng tin cậy"
+        },
+        "exact": {
+            "pick": [
+                "0:0",
+                "0:1"
+            ],
+            "note": "Thế trận giằng co, ít bàn thắng được ghi"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công hai bên đều đang gặp vấn đề trong khâu dứt điểm"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 khách có cơ hội trừng phạt"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài F. Echenique rút thẻ rất gắt, nguy cơ thẻ đỏ phá vỡ thế trận giằng co là cực lớn.",
+        "outcome": "Trận đấu bị định đoạt bởi phạt đền hoặc thẻ đỏ muộn"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                55,
+                65,
+                40,
+                70,
+                50
+            ],
+            "awayVal": [
+                65,
+                60,
+                45,
+                80,
+                50,
+                75
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                45,
+                40,
+                60,
+                70,
+                80
+            ],
+            "awayTrend": [
+                30,
+                40,
+                35,
+                50,
+                55,
+                65,
+                75
+            ]
+        }
+    }
+}
