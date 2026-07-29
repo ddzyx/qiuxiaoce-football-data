@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493019",
+        "comp": "VĐQG Argentina",
+        "teams": "Barracas Central vs Aldosivi",
+        "time": "2026-07-30 00:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Trận đấu giằng co bế tắc, cửa Xỉu là lựa chọn an toàn nhất.",
+    "directions": [
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Chấp Châu Á: Aldosivi +0.25 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)",
+        "Hiệp 1\/Toàn Trận: Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công hai đội đều cùn mòn và phụ thuộc bóng chết, khó tạo ra nhiều bàn thắng."
+        },
+        "scoreline": [
+            "0-0",
+            "1-0"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1493019",
+        "comp": "VĐQG Argentina",
+        "home": "Barracas Central",
+        "away": "Aldosivi",
+        "kickoff": "00:30",
+        "highlight": "Giằng Co",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1493019,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "Khách lỳ lợm đủ sức cầm hòa chủ nhà bế tắc."
+        },
+        "exact": {
+            "pick": [
+                "0:0",
+                "1:0"
+            ],
+            "note": "Trận đấu ít bàn thắng, hòa không bàn thắng là khả dĩ nhất."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công hai bên đều yếu kém, khó vượt mốc 2 bàn."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 có thể có bất ngờ nhỏ hoặc tiếp tục bế tắc."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài S. Zunino rút thẻ rất nghiêm khắc, nguy cơ thẻ đỏ phá vỡ thế trận phòng ngự.",
+        "outcome": "Thẻ đỏ xuất hiện làm nổ Tài bất ngờ."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                55,
+                60,
+                65,
+                50,
+                60,
+                50
+            ],
+            "awayVal": [
+                45,
+                65,
+                45,
+                55,
+                50,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                60,
+                70,
+                80
+            ],
+            "awayTrend": [
+                40,
+                35,
+                30,
+                40,
+                45,
+                50,
+                60
+            ]
+        }
+    }
+}
