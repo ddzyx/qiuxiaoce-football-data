@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1492319",
+        "comp": "VĐQG Brazil",
+        "teams": "Vitória vs Palmeiras",
+        "time": "2026-07-30 07:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Palmeiras thể hiện đẳng cấp vượt trội, đập tan pháo đài sân nhà của Vitória.",
+    "directions": [
+        "Khách thắng kèo (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)",
+        "Xỉu 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hòa-Thua (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Chủ nhà tử thủ, khách chơi thực dụng bảo toàn tỷ số."
+        },
+        "scoreline": [
+            "0-1",
+            "0-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1492319",
+        "comp": "VĐQG Brazil",
+        "home": "Vitória",
+        "away": "Palmeiras",
+        "kickoff": "07:30",
+        "highlight": "Đại Chiến",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1492319,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Trên thắng",
+            "note": "Đẳng cấp vượt trội giúp đội khách vượt qua tỷ lệ chấp."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-2"
+            ],
+            "note": "Khách thắng cách biệt tối thiểu."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận chặt chẽ, ít bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Khách giải quyết trận đấu trong hiệp hai."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Palmeiras nổi điên tàn sát, ghi ba bàn trở lên.",
+        "outcome": "Khách thắng đậm"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                61,
+                48,
+                40,
+                52,
+                26,
+                80
+            ],
+            "awayVal": [
+                70,
+                46,
+                56,
+                70,
+                95,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                30,
+                40,
+                30,
+                40,
+                60,
+                70
+            ],
+            "awayTrend": [
+                60,
+                50,
+                40,
+                50,
+                60,
+                80,
+                85
+            ]
+        }
+    }
+}
