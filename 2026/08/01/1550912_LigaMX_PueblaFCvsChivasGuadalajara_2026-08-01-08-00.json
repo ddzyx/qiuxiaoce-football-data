@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1550912",
+        "comp": "Liga MX",
+        "teams": "Puebla FC vs Chivas Guadalajara",
+        "time": "2026-08-01 08:00"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Chivas Guadalajara đè bẹp đối thủ nhờ hỏa lực vượt trội và hàng thủ lỏng lẻo của chủ nhà.",
+    "directions": [
+        "Chivas Guadalajara thắng kèo Châu Á (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Tổng bàn thắng Tài 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ số 1-3 nghiêng về đội khách (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ Puebla quá yếu kém sẽ để lọt lưới nhiều, nhưng họ vẫn có khả năng phản công ghi 1 bàn danh dự trên sân nhà."
+        },
+        "scoreline": [
+            "1-3",
+            "0-2"
+        ],
+        "halftime": [
+            "Thắng-Thắng",
+            "Hòa-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1550912",
+        "comp": "Liga MX",
+        "home": "Puebla FC",
+        "away": "Chivas Guadalajara",
+        "kickoff": "08:00",
+        "highlight": "Khách Áp Đảo",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1550912,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Trên thắng",
+            "note": "Chivas mạnh hơn toàn diện, dễ dàng vượt qua mốc chấp."
+        },
+        "exact": {
+            "pick": [
+                "1-3",
+                "0-2"
+            ],
+            "note": "Khách nã đạn liên tục, chủ nhà vỡ trận."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hàng thủ chủ nhà lỏng lẻo, trận đấu sẽ có nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "3-3",
+                "1-3"
+            ],
+            "note": "Khách áp đảo từ sớm hoặc bùng nổ trong hiệp hai."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                47,
+                48,
+                40,
+                28,
+                60
+            ],
+            "awayVal": [
+                62,
+                59,
+                56,
+                48,
+                100,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                30,
+                40,
+                50,
+                30,
+                20,
+                10
+            ],
+            "awayTrend": [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                95
+            ]
+        }
+    }
+}
