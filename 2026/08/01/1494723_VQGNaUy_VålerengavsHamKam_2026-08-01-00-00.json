@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494723",
+        "comp": "VĐQG Na Uy",
+        "teams": "Vålerenga vs HamKam",
+        "time": "2026-08-01 00:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Đầu tư mạnh vào mâm Tài 2.5 do hàng thủ chủ nhà sứt mẻ nghiêm trọng.",
+    "directions": [
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Châu Á: HamKam +1.0 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Hai Đội Ghi Bàn: Có (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hỏa lực chủ nhà đang thăng hoa nhưng hàng thủ mất trụ cột, tạo thế trận đôi công rực lửa."
+        },
+        "scoreline": [
+            "2-2",
+            "2-1"
+        ],
+        "halftime": [
+            "1-1",
+            "1-3"
+        ]
+    },
+    "analysis": {
+        "code": "1494723",
+        "comp": "VĐQG Na Uy",
+        "home": "Vålerenga",
+        "away": "HamKam",
+        "kickoff": "00:00",
+        "highlight": "Bão Bàn Thắng",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1494723,
+        "handicap": {
+            "spread": "-1.0",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà mất trụ cột phòng ngự, khả năng thắng cách biệt 2 bàn là rất thấp, cửa dưới an toàn hơn."
+        },
+        "exact": {
+            "pick": [
+                "2:2",
+                "2:1"
+            ],
+            "note": "Hàng thủ chắp vá của chủ nhà tạo điều kiện cho trận cầu nhiều bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hỏa lực mạnh gặp hàng thủ lỏng lẻo, mâm Tài là lựa chọn tối ưu."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-3"
+            ],
+            "note": "Hai đội giằng co hiệp 1 và bùng nổ ở hiệp 2."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Vålerenga đứng trước nguy cơ sụp đổ dây chuyền do vắng Finnsson. Chỉ cần đứt dây văng một trái rớt mâm từ những pha phản công chớp nhoáng của HamKam, trận đấu sẽ lập tức biến thành một võ đài đẫm máu.",
+        "outcome": "Trận đấu có từ 3 bàn thắng trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                40,
+                60,
+                80,
+                70,
+                85
+            ],
+            "awayVal": [
+                65,
+                35,
+                40,
+                30,
+                50,
+                75
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                50,
+                60,
+                70,
+                65,
+                80,
+                90,
+                85
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                75,
+                60,
+                50,
+                70
+            ]
+        }
+    }
+}
