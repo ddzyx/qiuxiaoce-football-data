@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1550916",
+        "comp": "Liga MX",
+        "teams": "Atlas FC vs Monterrey",
+        "time": "2026-08-02 08:05"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Trận đấu giằng co nặng tính chiến thuật, ưu tiên chọn Xỉu bàn thắng.",
+    "directions": [
+        "Kịch bản 1: Hai đội thi đấu bế tắc, không có bàn thắng nào được ghi (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản 2: Atlas FC tận dụng lợi thế sân nhà ghi bàn duy nhất (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản 3: Monterrey tỏa sáng cá nhân nhưng không đủ để thắng đậm (Tín Nhiệm Thấp, Độ Dày Giá Trị Thấp)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Sự thận trọng của hai HLV và phong độ phòng ngự tốt của Atlas sẽ bóp nghẹt các cơ hội ghi bàn."
+        },
+        "scoreline": [
+            "1-0",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1550916",
+        "comp": "Liga MX",
+        "home": "Atlas FC",
+        "away": "Monterrey",
+        "kickoff": "08:05",
+        "highlight": "Đại Chiến HLV",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1550916,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Cửa dưới",
+            "note": "Atlas FC có lợi thế sân nhà và phong độ cao, khả năng giữ lại ít nhất 1 điểm là rất lớn."
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Thế trận chặt chẽ, Atlas FC có thể thắng tối thiểu hoặc hòa không bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Cả hai đội đều ưu tiên sự an toàn, khó có nhiều bàn thắng được ghi."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-3"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 Atlas FC có thể tạo ra khác biệt."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                75,
+                60,
+                80,
+                50,
+                85
+            ],
+            "awayVal": [
+                75,
+                65,
+                70,
+                60,
+                85,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                60,
+                75,
+                80
+            ],
+            "awayTrend": [
+                40,
+                50,
+                55,
+                60,
+                50,
+                40,
+                30
+            ]
+        }
+    }
+}
