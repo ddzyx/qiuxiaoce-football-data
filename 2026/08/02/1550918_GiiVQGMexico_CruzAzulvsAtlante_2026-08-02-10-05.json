@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1550918",
+        "comp": "Giải VĐQG Mexico",
+        "teams": "Cruz Azul vs Atlante",
+        "time": "2026-08-02 10:05"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Cruz Azul sứt mẻ lực lượng nghiêm trọng, Atlante tử thủ với chốt chặn Ospina, chọn cửa dưới an toàn.",
+    "directions": [
+        "Kèo Chấp Châu Á: Chọn Atlante +1.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Chọn Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công Cruz Azul mất trụ cột, Atlante chủ động chơi tử thủ và có thủ môn đẳng cấp, thế trận sẽ rất chặt chẽ."
+        },
+        "scoreline": [
+            "1:0",
+            "1:1"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1550918",
+        "comp": "Giải VĐQG Mexico",
+        "home": "Cruz Azul",
+        "away": "Atlante",
+        "kickoff": "10:05",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1550918,
+        "handicap": {
+            "spread": "-1.5",
+            "pick": "Cửa dưới",
+            "note": "Cruz Azul chấp sâu nhưng mất trụ cột, khó thắng cách biệt."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "1:1"
+            ],
+            "note": "Thế trận bế tắc, chủ nhà thắng nhọc hoặc bị cầm hòa."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thị trường đổ dồn về Xỉu, hàng thủ khách được gia cố."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 mới có biến."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài Quirarte Contreras rút thẻ cực gắt, nguy cơ thẻ đỏ phá nát thế trận Xỉu.",
+        "outcome": "Thẻ đỏ làm vỡ trận"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                70,
+                85,
+                90,
+                80,
+                70
+            ],
+            "awayVal": [
+                50,
+                65,
+                40,
+                50,
+                60,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                30,
+                25,
+                20,
+                30,
+                40,
+                35,
+                20
+            ]
+        }
+    }
+}
