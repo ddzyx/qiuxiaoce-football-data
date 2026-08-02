@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493041",
+        "comp": "VĐQG Argentina",
+        "teams": "Newell's Old Boys vs Boca Juniors",
+        "time": "2026-08-03 03:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm cửa dưới Newell's Old Boys, tận dụng sự kiệt quệ thể lực và phong độ sân khách thảm hại của Boca Juniors để chốt lời.",
+    "directions": [
+        "Chủ nhà tử thủ thành công, bóp nghẹt hàng công mệt mỏi của khách (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Trận đấu khô hạn bàn thắng, hai bên giằng co không lối thoát (Tín Nhiệm Cao, Độ Dày Giá Trị Trung)",
+        "Chủ nhà trừng phạt đối thủ bằng đòn hồi mã thương cuối trận (Tín Nhiệm Trung, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công Boca đang tịt ngòi trên sân khách, trong khi Newell's chủ trương đá phòng ngự phản công cực đoan, bàn thắng là thứ vô cùng xa xỉ."
+        },
+        "scoreline": [
+            "0-0",
+            "1-0"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1493041",
+        "comp": "VĐQG Argentina",
+        "home": "Newell's Old Boys",
+        "away": "Boca Juniors",
+        "kickoff": "03:00",
+        "highlight": "Bẫy Tỷ Lệ",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1493041,
+        "handicap": {
+            "spread": "+0.25",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà thắng kèo nhờ lợi thế sân bãi và sự sa sút của khách"
+        },
+        "exact": {
+            "pick": [
+                "0-0",
+                "1-0"
+            ],
+            "note": "Thế trận giằng co không bàn thắng hoặc chủ nhà thắng tối thiểu"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Trận đấu khô hạn bàn thắng do sự bế tắc của hai hàng công"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-3"
+            ],
+            "note": "Hiệp một thăm dò, hiệp hai chủ nhà giữ vững thế trận hoặc kết liễu đối thủ"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                75,
+                65,
+                70,
+                60,
+                85
+            ],
+            "awayVal": [
+                80,
+                70,
+                85,
+                60,
+                90,
+                65
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                35,
+                40,
+                45,
+                55,
+                70,
+                80
+            ],
+            "awayTrend": [
+                60,
+                55,
+                50,
+                45,
+                40,
+                35,
+                30
+            ]
+        }
+    }
+}
