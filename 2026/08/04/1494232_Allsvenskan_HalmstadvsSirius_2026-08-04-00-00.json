@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494232",
+        "comp": "Allsvenskan",
+        "teams": "Halmstad vs Sirius",
+        "time": "2026-08-04 00:00"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Sirius đè bẹp đối thủ, xuyên thủng mâm chấp sâu nhờ sức mạnh tấn công áp đảo và sự sụp đổ tuyến giữa của đội chủ nhà.",
+    "directions": [
+        "Cửa trên thắng kèo Châu Á (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Tổng bàn thắng nổ Tài (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Đội khách giữ sạch lưới (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Hỏa lực của Sirius đủ sức tự mình xé toạc mốc 2.5 bàn, trong khi hàng công cùn mòn của Halmstad khó lòng xuyên thủng hàng thủ vững chắc của đội khách."
+        },
+        "scoreline": [
+            "0-3",
+            "0-2"
+        ],
+        "halftime": [
+            "0-0",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1494232",
+        "comp": "Allsvenskan",
+        "home": "Halmstad",
+        "away": "Sirius",
+        "kickoff": "00:00",
+        "highlight": "Đỉnh Đấu Đáy",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1494232,
+        "handicap": {
+            "spread": "+1.5",
+            "pick": "Cửa trên",
+            "note": "Đội khách áp đảo toàn diện, dễ dàng thắng cách biệt trước đối thủ khủng hoảng lực lượng."
+        },
+        "exact": {
+            "pick": [
+                "0-3",
+                "0-2"
+            ],
+            "note": "Thế trận một chiều, đội khách dội bom không thương tiếc."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Sức mạnh tấn công của đội khách đủ để tự mình vượt mốc bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "0-0",
+                "1-0"
+            ],
+            "note": "Đội khách áp đặt thế trận từ sớm và duy trì lợi thế đến cuối cùng."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                38,
+                41,
+                30,
+                30,
+                80
+            ],
+            "awayVal": [
+                85,
+                80,
+                75,
+                90,
+                85,
+                95
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                15,
+                10,
+                25,
+                15,
+                10,
+                5
+            ],
+            "awayTrend": [
+                60,
+                70,
+                80,
+                75,
+                85,
+                90,
+                95
+            ]
+        }
+    }
+}
