@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493039",
+        "comp": "VĐQG Argentina",
+        "teams": "Huracan vs Atletico Tucuman",
+        "time": "2026-08-04 07:15"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Huracan tận dụng lợi thế sân nhà và tuyến giữa áp đảo để giành chiến thắng nhọc nhằn trước hàng thủ sứt mẻ của đội khách.",
+    "directions": [
+        "Kịch bản 1: Chủ nhà ép sân liên tục và có bàn thắng định đoạt ở hiệp 2 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản 2: Trận đấu chìm trong bế tắc và kết thúc không bàn thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản 3: Đội khách trừng phạt sai lầm bằng đòn phản công chớp nhoáng (Tín Nhiệm Thấp, Độ Dày Giá Trị Thấp)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Cả hai đội đều sở hữu hàng thủ lùi sâu kỷ luật và hàng công thiếu đột biến, kịch bản ít bàn thắng và chỉ một đội ghi bàn là sáng nhất."
+        },
+        "scoreline": [
+            "1-0",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1493039",
+        "comp": "VĐQG Argentina",
+        "home": "Huracan",
+        "away": "Atletico Tucuman",
+        "kickoff": "07:15",
+        "highlight": "Thủ Thép Đụng Độ",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1493039,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Cửa trên",
+            "note": "Chủ nhà nhỉnh hơn về thế trận, đủ sức khoan thủng hàng thủ chắp vá của khách."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "0:0"
+            ],
+            "note": "Thế trận giằng co, chủ nhà thắng sát nút hoặc hòa không bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hai đội đều chơi thực dụng, khó có nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 chủ nhà bung sức hoặc bế tắc toàn tập."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                75,
+                60,
+                60,
+                70,
+                80
+            ],
+            "awayVal": [
+                55,
+                70,
+                45,
+                65,
+                50,
+                75
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                75,
+                85
+            ],
+            "awayTrend": [
+                40,
+                35,
+                30,
+                40,
+                35,
+                25,
+                20
+            ]
+        }
+    }
+}
