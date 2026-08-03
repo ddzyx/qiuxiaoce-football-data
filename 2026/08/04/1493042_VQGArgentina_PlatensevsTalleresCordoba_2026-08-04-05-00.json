@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493042",
+        "comp": "VĐQG Argentina",
+        "teams": "Platense vs Talleres Cordoba",
+        "time": "2026-08-04 05:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Kèo Tài Xỉu - Xỉu 2.5",
+    "directions": [
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Chấp Châu Á: Trên thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hai hàng công đều đang thể hiện phong độ ghi bàn cực kỳ kém cỏi, kết hợp với lối chơi thận trọng sẽ tạo ra một trận cầu khan hiếm bàn thắng."
+        },
+        "scoreline": [
+            "1-0",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1493042",
+        "comp": "VĐQG Argentina",
+        "home": "Platense",
+        "away": "Talleres Cordoba",
+        "kickoff": "05:00",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1493042,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà có lợi thế sân bãi và hàng thủ vững chắc để ít nhất không thua."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "0:0"
+            ],
+            "note": "Kịch bản giằng co và ít bàn thắng là điều dễ xảy ra nhất."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hiệu suất ghi bàn của cả hai đội đều rất thấp."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 chủ nhà có thể tạo đột biến hoặc tiếp tục bế tắc."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài D. Zamora rất nghiêm khắc, nguy cơ thẻ đỏ phá vỡ thế trận là rất cao.",
+        "outcome": "Trận đấu vỡ vụn vì thẻ phạt"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                75,
+                45,
+                50,
+                60,
+                80
+            ],
+            "awayVal": [
+                65,
+                65,
+                55,
+                30,
+                70,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                35,
+                40,
+                45,
+                55,
+                70,
+                80
+            ],
+            "awayTrend": [
+                50,
+                55,
+                45,
+                40,
+                35,
+                30,
+                25
+            ]
+        }
+    }
+}
