@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494227",
+        "comp": "VĐQG Thụy Điển",
+        "teams": "Djurgardens IF vs Vasteras SK FK",
+        "time": "2026-08-04 00:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Djurgardens IF sẽ áp đảo thế trận nhưng khó thắng cách biệt trước một Vasteras lỳ lợm và giỏi phản công. Cửa dưới là lựa chọn đầu tư khôn ngoan nhất.",
+    "directions": [
+        "Vasteras SK FK thắng kèo châu Á nhờ lối chơi phòng ngự phản công sắc bén (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Trận đấu bùng nổ bàn thắng do hàng thủ chắp vá của đội khách và sức ép từ chủ nhà (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Djurgardens IF bế tắc hiệp 1 và chỉ giải quyết trận đấu trong hiệp 2 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Tổng xG hai đội lên tới 3.34, hàng thủ Vasteras sứt mẻ nhưng hàng công vẫn cực kỳ bén nhọn trên sân khách."
+        },
+        "scoreline": [
+            "2-1",
+            "2-2"
+        ],
+        "halftime": [
+            "1-3",
+            "3-1"
+        ]
+    },
+    "analysis": {
+        "code": "1494227",
+        "comp": "VĐQG Thụy Điển",
+        "home": "Djurgardens IF",
+        "away": "Vasteras SK FK",
+        "kickoff": "00:00",
+        "highlight": "Bẫy Chấp Sâu",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1494227,
+        "handicap": {
+            "spread": -1.25,
+            "pick": "Dưới thắng",
+            "note": "Mâm chấp quá sâu so với thực lực và phong độ hiện tại của đội khách."
+        },
+        "exact": {
+            "pick": [
+                "2-1",
+                "2-2"
+            ],
+            "note": "Chủ nhà thắng sát nút hoặc bị cầm hòa trong một trận cầu rượt đuổi tỷ số."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Sức ép liên tục từ chủ nhà và đòn phản công của khách sẽ tạo ra nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-1"
+            ],
+            "note": "Hiệp 1 giằng co hoặc có bất ngờ, hiệp 2 định đoạt cục diện."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Vasteras có thể sụp đổ dây chuyền nếu nhận bàn thua sớm do thiếu vắng trụ cột Nsabiyumva.",
+        "outcome": "Trận đấu có từ 4 bàn thắng trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                80,
+                75,
+                85,
+                70,
+                90,
+                80
+            ],
+            "awayVal": [
+                70,
+                60,
+                50,
+                85,
+                40,
+                95
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                70,
+                65,
+                50,
+                75,
+                85,
+                90
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                60,
+                70,
+                65,
+                80
+            ]
+        }
+    }
+}
