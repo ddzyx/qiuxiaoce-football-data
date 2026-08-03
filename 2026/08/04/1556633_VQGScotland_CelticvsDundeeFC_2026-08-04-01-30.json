@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1556633",
+        "comp": "VĐQG Scotland",
+        "teams": "Celtic vs Dundee FC",
+        "time": "2026-08-04 01:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Cửa dưới Dundee FC (+2.0) là lựa chọn an toàn nhất khi hàng công Celtic sứt mẻ và đối mặt với bức tường phòng ngự lỳ lợm.",
+    "directions": [
+        "Cửa dưới Dundee FC (+2.0) (Tín Nhiệm Trung Bình, Giá Trị Cao)",
+        "Xỉu 2.5 (Tín Nhiệm Cao, Giá Trị Trung Bình)",
+        "Hòa-Thắng (Tín Nhiệm Thấp, Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Thế trận một chiều nhưng bế tắc, Celtic khó tạo mưa bàn thắng trước hàng thủ lùi sâu."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1556633",
+        "comp": "VĐQG Scotland",
+        "home": "Celtic",
+        "away": "Dundee FC",
+        "kickoff": "01:30",
+        "highlight": "Khai Mạc",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1556633,
+        "handicap": {
+            "spread": "-2.0",
+            "pick": "Cửa dưới",
+            "note": "Dundee FC đủ sức tử thủ để tránh một trận thua đậm trước hàng công sứt mẻ của chủ nhà."
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "2-0"
+            ],
+            "note": "Kịch bản thắng sát nút hoặc cách biệt an toàn vừa đủ cho cửa dưới."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Khối bê tông của đội khách sẽ bóp nghẹt số lượng bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 giằng co bế tắc, hiệp 2 mới có thể định đoạt."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Dundee FC thường xuyên hụt hơi ở 15 phút cuối trận, dễ dẫn đến bàn thắng muộn.",
+        "outcome": "Bàn thắng muộn định đoạt tỷ số"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                80,
+                75,
+                90,
+                70,
+                85,
+                80
+            ],
+            "awayVal": [
+                50,
+                80,
+                40,
+                65,
+                50,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                65,
+                75,
+                85,
+                90
+            ],
+            "awayTrend": [
+                30,
+                25,
+                20,
+                15,
+                20,
+                10,
+                5
+            ]
+        }
+    }
+}
