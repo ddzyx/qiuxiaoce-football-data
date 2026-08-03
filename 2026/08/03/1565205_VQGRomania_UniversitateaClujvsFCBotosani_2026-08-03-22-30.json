@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1565205",
+        "comp": "VĐQG Romania",
+        "teams": "Universitatea Cluj vs FC Botosani",
+        "time": "2026-08-03 22:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm dưới FC Botosani và đánh Tài bàn thắng do chủ nhà khủng hoảng hàng thủ và kiệt quệ thể lực.",
+    "directions": [
+        "Kèo Tài Xỉu: Cửa Tài (Tín Nhiệm Trung Bình, Giá Trị Cao)",
+        "Kèo Chấp Châu Á: FC Botosani +0.5 (Tín Nhiệm Thấp, Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thua (Tín Nhiệm Thấp, Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ chủ nhà nát bươm vì chấn thương kết hợp thể lực suy kiệt tạo điều kiện cho cơn mưa bàn thắng."
+        },
+        "scoreline": [
+            "1-2",
+            "2-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1565205",
+        "comp": "VĐQG Romania",
+        "home": "Universitatea Cluj",
+        "away": "FC Botosani",
+        "kickoff": "22:30",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1565205,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà kiệt sức và mất trụ cột phòng ngự, khách dễ dàng có điểm."
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "2-2"
+            ],
+            "note": "Khách tận dụng sai lầm hàng thủ chủ nhà để ghi bàn."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Phòng ngự lỏng lẻo từ hai phía hứa hẹn nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp hai bùng nổ khi chủ nhà xuống sức."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ U Cluj vỡ vụn vì chấn thương, nguy cơ lọt lưới nhiều bàn rất cao.",
+        "outcome": "Trận đấu có từ 3 bàn trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                40,
+                60,
+                65,
+                70,
+                80
+            ],
+            "awayVal": [
+                70,
+                60,
+                55,
+                60,
+                65,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                50,
+                40,
+                45,
+                30,
+                20,
+                15
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                55,
+                70,
+                85,
+                90
+            ]
+        }
+    }
+}
