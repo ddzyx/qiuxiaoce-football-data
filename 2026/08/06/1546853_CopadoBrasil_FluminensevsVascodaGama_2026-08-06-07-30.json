@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1546853",
+        "comp": "Copa do Brasil",
+        "teams": "Fluminense vs Vasco da Gama",
+        "time": "2026-08-06 07:30"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm cửa dưới Vasco da Gama +0.5, đội khách sẽ tử thủ thành công và kéo trận đấu vào thế giằng co khô hạn bàn thắng.",
+    "directions": [
+        "Cửa Dưới Vasco da Gama +0.5: Hàng thủ chắp vá của Fluminense khó lòng xuyên thủng boong-ke của Vasco (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Cửa Xỉu 2.5: Trận đấu bị băm nát bởi sự thận trọng và các pha phạm lỗi (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ số 0-0: Kịch bản hai đội dắt tay nhau vào loạt luân lưu (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hai đội thi đấu thận trọng, Fluminense bế tắc trong tấn công còn Vasco chủ động lùi sâu tử thủ bảo toàn mành lưới."
+        },
+        "scoreline": [
+            "0-0",
+            "0-1"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1546853",
+        "comp": "Copa do Brasil",
+        "home": "Fluminense",
+        "away": "Vasco da Gama",
+        "kickoff": "07:30",
+        "highlight": "Derby Rực Lửa",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1546853,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Dưới thắng",
+            "note": "Vasco da Gama với hàng thủ lỳ lợm sẽ đứng vững trước một Fluminense sứt mẻ lực lượng."
+        },
+        "exact": {
+            "pick": [
+                "0:0",
+                "0:1"
+            ],
+            "note": "Kịch bản khô hạn bàn thắng, cửa dưới có cơ hội đâm lén thành công."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co bế tắc, khó có nhiều bàn thắng được ghi."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 thăm dò tẻ nhạt, hiệp 2 tiếp tục bế tắc hoặc cửa dưới bất ngờ vươn lên."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Fluminense hở bung toác do mất 4 trung vệ, nếu lọt lưới sớm sẽ dễ vỡ trận.",
+        "outcome": "Trận đấu nổ Tài bất ngờ nếu có bàn thắng sớm"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                50,
+                85,
+                60,
+                75,
+                80
+            ],
+            "awayVal": [
+                65,
+                80,
+                45,
+                70,
+                60,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                45,
+                60,
+                55,
+                70,
+                80
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                75,
+                85
+            ]
+        }
+    }
+}
