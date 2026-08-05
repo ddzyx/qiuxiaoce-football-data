@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1508824",
+        "comp": "VĐQG Iceland",
+        "teams": "Keflavik vs KA Akureyri",
+        "time": "2026-08-06 01:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Keflavik tận dụng triệt để điểm tựa sân nhà và hàng thủ lỏng lẻo của khách để giành chiến thắng trong một trận cầu nhiều bàn thắng.",
+    "directions": [
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Cửa trên Keflavik -0.25 (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Cả Trận: Hòa-Thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ hai bên đều để lọt lưới trung bình từ 2 bàn\/trận trở lên, tạo điều kiện lý tưởng cho một thế trận đôi công cởi mở."
+        },
+        "scoreline": [
+            "2-1",
+            "3-1"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1508824",
+        "comp": "VĐQG Iceland",
+        "home": "Keflavik",
+        "away": "KA Akureyri",
+        "kickoff": "01:00",
+        "highlight": "Rượt Đuổi",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1508824,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Trên thắng",
+            "note": "Keflavik đủ sức xuyên phá hàng thủ yếu kém trên sân khách của đối phương."
+        },
+        "exact": {
+            "pick": [
+                "2-1",
+                "3-1"
+            ],
+            "note": "Chủ nhà thắng sát nút hoặc cách biệt hai bàn trong thế trận bùng nổ."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Lối đá cởi mở của cả hai sẽ đẩy tổng số bàn thắng vượt mốc 2.5."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Keflavik bứt lên ở hiệp hai hoặc áp đảo từ đầu đến cuối."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Cả hai đội đều có hàng thủ rất tệ (thủng lưới > 2.0 bàn\/trận). Chỉ cần một bàn thắng sớm, trận đấu sẽ nhanh chóng vỡ vụn thành một màn rượt đuổi tỷ số điên rồ.",
+        "outcome": "Trận đấu có từ 4 bàn thắng trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                45,
+                55,
+                60,
+                65,
+                80
+            ],
+            "awayVal": [
+                65,
+                40,
+                50,
+                55,
+                55,
+                75
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                30,
+                40,
+                50,
+                45,
+                55,
+                65,
+                75
+            ]
+        }
+    }
+}
