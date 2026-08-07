@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493057",
+        "comp": "VĐQG Argentina",
+        "teams": "Rosario Central vs Aldosivi",
+        "time": "2026-08-08 05:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Tài Xỉu: Cửa Xỉu Dưới 2.5 bàn",
+    "directions": [
+        "Cửa Xỉu Dưới 2.5 bàn (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Cửa Trên Rosario Central -1.0 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hòa-Thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Sự bế tắc của hàng công khách cộng với tư tưởng giữ chân của chủ nhà biến cửa Xỉu thành hầm trú ẩn an toàn nhất trận này."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1493057",
+        "comp": "VĐQG Argentina",
+        "home": "Rosario Central",
+        "away": "Aldosivi",
+        "kickoff": "05:30",
+        "highlight": "Giữ Sức",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1493057,
+        "handicap": {
+            "spread": "-1.0",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà áp đảo hoàn toàn nhưng có thể chỉ thắng sát nút để giữ sức. Kịch bản hòa kèo rất dễ xảy ra, nhưng nếu có bàn thứ 2 thì cửa trên sẽ thắng trọn."
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "2-0"
+            ],
+            "note": "Chủ nhà thắng tối thiểu hoặc cách biệt an toàn"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co ít bàn thắng do chủ nhà không muốn bung sức"
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà giải quyết trận đấu trong hiệp hai hoặc áp đảo từ sớm"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                80,
+                85,
+                70,
+                85,
+                60
+            ],
+            "awayVal": [
+                40,
+                65,
+                45,
+                50,
+                30,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                60,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                20,
+                30,
+                40,
+                30,
+                20,
+                10,
+                5
+            ]
+        }
+    }
+}
