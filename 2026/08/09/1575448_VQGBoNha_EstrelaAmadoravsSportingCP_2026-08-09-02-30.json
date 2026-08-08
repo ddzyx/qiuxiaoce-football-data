@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1575448",
+        "comp": "VĐQG Bồ Đào Nha",
+        "teams": "Estrela Amadora vs Sporting CP",
+        "time": "2026-08-09 02:30"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Cửa dưới Estrela Amadora (+1.75) là lựa chọn tối ưu khi dòng tiền đang âm thầm bảo vệ đội chủ nhà trước một Sporting CP sứt mẻ hàng thủ.",
+    "directions": [
+        "Kèo Chấp Châu Á: Cửa dưới Estrela Amadora (Tín Nhiệm Cao, Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Trung Bình, Giá Trị Trung Bình)",
+        "Tỷ Số Đơn Điệu: Sporting CP thắng 1-0 (Tín Nhiệm Trung Bình, Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Estrela Amadora tử thủ, Sporting CP bế tắc, trận đấu khó có nhiều bàn thắng và chủ nhà khó ghi bàn."
+        },
+        "scoreline": [
+            "0-1",
+            "0-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1575448",
+        "comp": "VĐQG Bồ Đào Nha",
+        "home": "Estrela Amadora",
+        "away": "Sporting CP",
+        "kickoff": "02:30",
+        "highlight": "Kèo Lạnh",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1575448,
+        "handicap": {
+            "spread": 1.75,
+            "pick": "Dưới thắng",
+            "note": "Dòng tiền ủng hộ cửa dưới, Sporting CP khó thắng cách biệt 2 bàn."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-2"
+            ],
+            "note": "Kịch bản thực dụng, ít bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận tử thủ, khó vượt mốc 2.5 bàn."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 Sporting CP giải quyết trận đấu."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Nguy cơ nổ bàn thắng muộn ở những phút bù giờ phá vỡ mâm Xỉu.",
+        "outcome": "Sporting CP thắng sát nút 1 bàn."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                75,
+                45,
+                50,
+                20,
+                85
+            ],
+            "awayVal": [
+                90,
+                70,
+                85,
+                80,
+                95,
+                75
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                30,
+                20,
+                40,
+                50,
+                60
+            ],
+            "awayTrend": [
+                60,
+                65,
+                70,
+                60,
+                80,
+                90,
+                95
+            ]
+        }
+    }
+}
