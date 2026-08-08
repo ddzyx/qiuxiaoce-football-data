@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1492326",
+        "comp": "VĐQG Brazil",
+        "teams": "Grêmio vs São Paulo",
+        "time": "2026-08-09 02:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm cửa dưới São Paulo và đánh Xỉu là phương án tối ưu khi chủ nhà bế tắc trong khâu ghi bàn.",
+    "directions": [
+        "São Paulo phòng ngự phản công đâm lén thành công (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Hai đội bế tắc chia điểm không bàn thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Grêmio tận dụng lợi thế sân nhà thắng sát nút (Tín Nhiệm Thấp, Độ Dày Giá Trị Thấp)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công Grêmio quá cùn mòn trong khi São Paulo ưu tiên sự an toàn trên sân khách, dẫn đến thế trận giằng co ít bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "0-0"
+        ],
+        "halftime": [
+            "1-0",
+            "1-1"
+        ]
+    },
+    "analysis": {
+        "code": "1492326",
+        "comp": "VĐQG Brazil",
+        "home": "Grêmio",
+        "away": "São Paulo",
+        "kickoff": "02:00",
+        "highlight": "Sinh Tử Chiến",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1492326,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "Dữ liệu xG ủng hộ đội khách, chủ nhà chấp ảo"
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-0"
+            ],
+            "note": "Thế trận bế tắc, cửa dưới chớp thời cơ"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hai hàng công đều thiếu sắc bén"
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp một giằng co, hiệp hai định đoạt"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                70,
+                65,
+                65,
+                75,
+                90
+            ],
+            "awayVal": [
+                75,
+                75,
+                70,
+                65,
+                70,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                60,
+                70,
+                80
+            ],
+            "awayTrend": [
+                40,
+                45,
+                50,
+                60,
+                70,
+                80,
+                85
+            ]
+        }
+    }
+}
