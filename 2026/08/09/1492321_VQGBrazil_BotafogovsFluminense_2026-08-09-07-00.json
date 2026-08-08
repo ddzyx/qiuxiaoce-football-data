@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1492321",
+        "comp": "VĐQG Brazil",
+        "teams": "Botafogo vs Fluminense",
+        "time": "2026-08-09 07:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Botafogo tận dụng triệt để lợi thế nghỉ ngơi 13 ngày và sự vắng mặt của chân sút chủ lực đối phương để giành chiến thắng tối thiểu.",
+    "directions": [
+        "Kèo Chấp Châu Á: Cửa trên Botafogo (Tín Nhiệm Trung Bình, Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thắng (Tín Nhiệm Trung Bình, Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Fluminense mất họng pháo chủ lực và kiệt sức, trong khi Botafogo sẽ chơi rình rập chờ đối thủ sập nguồn."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1492321",
+        "comp": "VĐQG Brazil",
+        "home": "Botafogo",
+        "away": "Fluminense",
+        "kickoff": "07:00",
+        "highlight": "Đại Chiến Thể Lực",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1492321,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Cửa trên",
+            "note": "Chủ nhà nắm lợi thế tuyệt đối về thể lực và nhân sự."
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "2-0"
+            ],
+            "note": "Chủ nhà thắng sát nút nhờ đòn kết liễu cuối trận."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Trận đấu khan hiếm bàn thắng do đội khách tử thủ."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà tăng tốc trong hiệp hai để định đoạt trận đấu."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Fluminense thường xuyên sụp đổ ở 15 phút cuối trận do cạn kiệt thể lực.",
+        "outcome": "Chủ nhà ghi bàn quyết định sau phút 75."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                85,
+                60,
+                80,
+                85,
+                90
+            ],
+            "awayVal": [
+                50,
+                65,
+                80,
+                40,
+                50,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                65,
+                85,
+                95
+            ],
+            "awayTrend": [
+                60,
+                55,
+                45,
+                40,
+                30,
+                20,
+                10
+            ]
+        }
+    }
+}
