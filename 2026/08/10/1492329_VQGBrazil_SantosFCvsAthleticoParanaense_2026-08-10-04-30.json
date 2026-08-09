@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1492329",
+        "comp": "VĐQG Brazil",
+        "teams": "Santos FC vs Athletico Paranaense",
+        "time": "2026-08-10 04:30"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Santos mất linh hồn Neymar, hàng công tê liệt. Athletico Paranaense lỳ lợm sân khách, sẵn sàng trừng phạt bằng đòn phản công.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Khách +0.25) - Cửa dưới mang lại biên độ an toàn cực cao khi chủ nhà bế tắc. (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 - Hàng công chủ nhà cùn mòn, khách chủ động đá thấp. (Tín Nhiệm Cao, Độ Dày Giá Trị Trung)",
+        "Tỷ Số Đơn Điệu: Khách giữ sạch lưới - Đặt cược vào sự bế tắc toàn tập của hàng công Santos. (Tín Nhiệm Trung, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Santos mất Neymar dẫn đến tịt ngòi, Athletico PR đá thực dụng sân khách bảo toàn mành lưới."
+        },
+        "scoreline": [
+            "0:1",
+            "0:0"
+        ],
+        "halftime": [
+            "1-0",
+            "1-1"
+        ]
+    },
+    "analysis": {
+        "code": "1492329",
+        "comp": "VĐQG Brazil",
+        "home": "Santos FC",
+        "away": "Athletico Paranaense",
+        "kickoff": "04:30",
+        "highlight": "Neymar Vắng",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1492329,
+        "handicap": {
+            "spread": -0.25,
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà mất trụ cột tấn công, khách lỳ lợm phản công sắc bén."
+        },
+        "exact": {
+            "pick": [
+                "0:1",
+                "0:0"
+            ],
+            "note": "Khách đâm lén thành công hoặc hai đội chia điểm tẻ nhạt."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co, thiếu vắng ngôi sao đột phá."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp một thăm dò, hiệp hai khách kết liễu hoặc hòa chung cuộc."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Đừng để trận thua ở Cúp Quốc gia của Athletico Paranaense làm mờ mắt. Họ vẫn là đội bóng top 3 với hàng công sắc bén.",
+        "outcome": "Khách đâm lén thắng cách biệt"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                70,
+                75,
+                80,
+                65,
+                85
+            ],
+            "awayVal": [
+                75,
+                85,
+                70,
+                75,
+                70,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                45,
+                40,
+                35,
+                30,
+                20
+            ],
+            "awayTrend": [
+                30,
+                35,
+                40,
+                50,
+                65,
+                80,
+                90
+            ]
+        }
+    }
+}
