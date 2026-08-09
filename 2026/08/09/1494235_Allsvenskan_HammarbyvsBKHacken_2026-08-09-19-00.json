@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494235",
+        "comp": "Allsvenskan",
+        "teams": "Hammarby vs BK Hacken",
+        "time": "2026-08-09 19:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Châu Á - Dưới thắng (BK Hacken +1.0)",
+    "directions": [
+        "Kèo Châu Á: Dưới thắng (BK Hacken +1.0) - Thể lực bào mòn và tâm lý giữ chân cho cúp Châu Âu của chủ nhà là tấm khiên vững chắc để đội khách bám víu. (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Tài 2.5 - Hỏa lực hai bên đều chạm mốc xG ~2.0, cộng thêm hàng thủ chắp vá của đội khách, bàn thắng sẽ nổ tưng bừng. (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thắng - Chủ nhà bế tắc hiệp 1 và chỉ bung sức kết liễu ở hiệp 2 nhờ sự tỏa sáng cá nhân. (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hoà chung xG của Chủ - Khách đều xấp xỉ 2.0, cộng thêm hàng thủ chắp vá của đội khách và sự suy giảm thể lực của chủ nhà ở hiệp 2, kịch bản đôi công rực lửa là tất yếu."
+        },
+        "scoreline": [
+            "2-1",
+            "2-2"
+        ],
+        "halftime": [
+            "1-3",
+            "3-1"
+        ]
+    },
+    "analysis": {
+        "code": "1494235",
+        "comp": "Allsvenskan",
+        "home": "Hammarby",
+        "away": "BK Hacken",
+        "kickoff": "19:00",
+        "highlight": "Đại Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494235,
+        "handicap": {
+            "spread": -1,
+            "pick": "Dưới thắng",
+            "note": "Thể lực suy giảm do cúp Châu Âu khiến chủ nhà khó thắng cách biệt."
+        },
+        "exact": {
+            "pick": [
+                "2-1",
+                "2-2"
+            ],
+            "note": "Chủ nhà thắng sát nút hoặc bị cầm hòa trong thế trận đôi công."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hỏa lực mạnh mẽ từ cả hai phía đảm bảo một trận cầu nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-1"
+            ],
+            "note": "Thế trận giằng co hiệp 1 hoặc chủ nhà dẫn trước nhưng bị gỡ hòa."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hammarby bị phân tâm bởi trận lượt về Conference League, có thể chủ động giảm nhịp độ nếu có bàn dẫn trước.",
+        "outcome": "Đội khách giật lại 1 điểm ngoạn mục ở hiệp 2."
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                75,
+                80,
+                70,
+                80,
+                85
+            ],
+            "awayVal": [
+                80,
+                60,
+                65,
+                60,
+                65,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                70,
+                60,
+                50,
+                65,
+                75,
+                85,
+                60
+            ],
+            "awayTrend": [
+                40,
+                50,
+                60,
+                55,
+                65,
+                75,
+                85
+            ]
+        }
+    }
+}
