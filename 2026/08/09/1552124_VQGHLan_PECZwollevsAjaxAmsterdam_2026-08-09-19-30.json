@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1552124",
+        "comp": "VĐQG Hà Lan",
+        "teams": "PEC Zwolle vs Ajax Amsterdam",
+        "time": "2026-08-09 19:30"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Ajax đè bẹp đối thủ với sức mạnh áp đảo và đội hình vượt trội.",
+    "directions": [
+        "Ajax thắng cách biệt đâm thủng mâm chấp (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Trận đấu bùng nổ bàn thắng vượt mốc Tài (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Ajax dẫn trước hiệp 1 và thắng chung cuộc (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hỏa lực Ajax quá mạnh đủ sức ghi 3 bàn, trong khi Zwolle có thể cắn trộm 1 bàn danh dự trên sân nhà."
+        },
+        "scoreline": [
+            "1-3",
+            "1-4"
+        ],
+        "halftime": [
+            "Thua-Thua",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1552124",
+        "comp": "VĐQG Hà Lan",
+        "home": "PEC Zwolle",
+        "away": "Ajax Amsterdam",
+        "kickoff": "19:30",
+        "highlight": "Đại Gia Đè",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1552124,
+        "handicap": {
+            "spread": "+1.25",
+            "pick": "Trên thắng",
+            "note": "Ajax sức mạnh vượt trội sẽ nghiền nát chủ nhà mất trụ cột"
+        },
+        "exact": {
+            "pick": [
+                "1-3",
+                "1-4"
+            ],
+            "note": "Hỏa lực đội khách bùng nổ xé nát hàng thủ lỏng lẻo"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Thế trận một chiều với cơn mưa bàn thắng từ cửa trên"
+        },
+        "htft": {
+            "pick": [
+                "Thua-Thua",
+                "Hòa-Thua"
+            ],
+            "note": "Đội khách dồn ép và giải quyết trận đấu gọn gàng"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                48,
+                46,
+                44,
+                40,
+                10,
+                30
+            ],
+            "awayVal": [
+                85,
+                75,
+                80,
+                90,
+                95,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                30,
+                35,
+                40,
+                45,
+                50
+            ],
+            "awayTrend": [
+                70,
+                75,
+                80,
+                85,
+                90,
+                95,
+                95
+            ]
+        }
+    }
+}
