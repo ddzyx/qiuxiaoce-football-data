@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1495752",
+        "comp": "Veikkausliiga",
+        "teams": "AC Oulu vs HJK Helsinki",
+        "time": "2026-08-09 23:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "AC Oulu tận dụng triệt để lợi thế sân nhà và sự kiệt quệ thể lực của HJK Helsinki để giành điểm.",
+    "directions": [
+        "AC Oulu thắng kèo Châu Á (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Tổng bàn thắng Xỉu 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "AC Oulu giữ sạch lưới (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Hàng thủ AC Oulu cực kỳ vững chắc trên sân nhà, trong khi HJK Helsinki không có thể lực tốt nhất để tấn công."
+        },
+        "scoreline": [
+            "1-0",
+            "0-0"
+        ],
+        "halftime": [
+            "1-3",
+            "1-1"
+        ]
+    },
+    "analysis": {
+        "code": "1495752",
+        "comp": "Veikkausliiga",
+        "home": "AC Oulu",
+        "away": "HJK Helsinki",
+        "kickoff": "23:00",
+        "highlight": "Đại Chiến Thể Lực",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1495752,
+        "handicap": {
+            "spread": "+0.25",
+            "pick": "Dưới thắng",
+            "note": "AC Oulu có lợi thế sân nhà và thể lực sung mãn"
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Trận đấu giằng co ít bàn thắng do đội khách giữ sức"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng thủ AC Oulu chơi cực kỳ chắc chắn trên sân nhà"
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 chủ nhà tăng tốc"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "HJK Helsinki sở hữu đội hình đắt giá và có thể bùng nổ nhờ các cá nhân xuất chúng dù đang mệt mỏi.",
+        "outcome": "Đội khách ghi bàn muộn bẻ gãy thế trận"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                64,
+                85,
+                47,
+                45,
+                40,
+                90
+            ],
+            "awayVal": [
+                77,
+                33,
+                54,
+                51,
+                80,
+                40
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                65,
+                80,
+                90
+            ],
+            "awayTrend": [
+                60,
+                55,
+                50,
+                45,
+                35,
+                25,
+                20
+            ]
+        }
+    }
+}
