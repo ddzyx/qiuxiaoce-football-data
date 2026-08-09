@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1576140",
+        "comp": "Giải hạng Nhì Đức",
+        "teams": "Nuremberg vs Dynamo Dresden",
+        "time": "2026-08-09 18:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm dưới Dynamo Dresden (+0.25) là lựa chọn an toàn khi chủ nhà sứt mẻ hàng thủ và dòng tiền đang tháo chạy.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thua (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Trận mở màn thận trọng cộng với sự vô duyên của các chân sút sẽ khiến trận đấu khan hiếm bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1576140",
+        "comp": "Giải hạng Nhì Đức",
+        "home": "Nuremberg",
+        "away": "Dynamo Dresden",
+        "kickoff": "18:30",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1576140,
+        "handicap": {
+            "spread": -0.25,
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà sứt mẻ hàng thủ, khách có cơ hội đoạt điểm."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-0"
+            ],
+            "note": "Kịch bản ít bàn thắng, khách chớp thời cơ."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thị trường ép giá cửa Xỉu, thế trận giằng co."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp 1 bế tắc, hiệp 2 khách đâm lén."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Rào chắn sau lưng hở bung toác cống vì chấn thương, dễ vỡ mâm Xỉu nếu có bàn sớm.",
+        "outcome": "Trận đấu có từ 3 bàn trở lên"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                50,
+                70,
+                80,
+                85,
+                75
+            ],
+            "awayVal": [
+                75,
+                45,
+                70,
+                75,
+                60,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                70,
+                65
+            ],
+            "awayTrend": [
+                25,
+                35,
+                45,
+                55,
+                65,
+                75,
+                80
+            ]
+        }
+    }
+}
