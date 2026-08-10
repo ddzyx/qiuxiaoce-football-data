@@ -13,3 +13,11 @@
 *本文由球小策 AI 分析系统生成，仅供体育数据分析参考。*
 
 [查看完整分析报告](https://www.qiuxiaoce.com/zhou-ri-023-sang-tuo-si-vs-ba-la-na-jing-ji-sai-qian-fen-xi/)
+
+---
+
+## 比赛结果
+
+- 半场比分: 0-2
+- 全场比分: 0-2
+- 预测命中: ✅
