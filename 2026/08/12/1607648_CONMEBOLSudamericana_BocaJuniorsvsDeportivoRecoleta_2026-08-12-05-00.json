@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1607648",
+        "comp": "CONMEBOL Sudamericana",
+        "teams": "Boca Juniors vs Deportivo Recoleta",
+        "time": "2026-08-12 05:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Kèo Tài Xỉu: Cửa Xỉu (Dưới 2.5 bàn) - Lối đá tử thủ của Recoleta và sự bế tắc của hàng công Boca biến đây thành lựa chọn an toàn nhất.",
+    "directions": [
+        "Kèo Tài Xỉu: Cửa Xỉu Dưới 2.5 bàn (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Chấp Châu Á: Cửa Dưới Deportivo Recoleta +1.25 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Tỷ Số Đơn Điệu: Boca Juniors thắng 1-0 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Boca kiểm soát bóng nhưng bế tắc, Recoleta tử thủ lỳ lợm, trận đấu khó có nhiều bàn thắng và khả năng một đội tịt ngòi là rất cao."
+        },
+        "scoreline": [
+            "1:0",
+            "0:0"
+        ],
+        "halftime": [
+            "1-3",
+            "1-1"
+        ]
+    },
+    "analysis": {
+        "code": "1607648",
+        "comp": "CONMEBOL Sudamericana",
+        "home": "Boca Juniors",
+        "away": "Deportivo Recoleta",
+        "kickoff": "05:00",
+        "highlight": "Bê Tông Tập",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1607648,
+        "handicap": {
+            "spread": -1.25,
+            "pick": "Dưới thắng",
+            "note": "Boca chấp sâu nhưng hàng công cùn mòn, Recoleta lỳ lợm dễ thắng kèo chấp."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "0:0"
+            ],
+            "note": "Boca thắng sát nút hoặc hòa không bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận bế tắc, ít bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 Boca mới có thể ghi bàn hoặc hòa cả trận."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                80,
+                85,
+                60,
+                85,
+                70
+            ],
+            "awayVal": [
+                50,
+                85,
+                40,
+                75,
+                40,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                75,
+                85
+            ],
+            "awayTrend": [
+                40,
+                30,
+                25,
+                20,
+                35,
+                20,
+                15
+            ]
+        }
+    }
+}
