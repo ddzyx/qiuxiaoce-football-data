@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1547760",
+        "comp": "Copa Libertadores",
+        "teams": "Fluminense vs Independiente Rivadavia",
+        "time": "2026-08-12 05:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm cửa dưới Independiente Rivadavia, đội khách đủ sức giật ít nhất 1 điểm rời Maracana.",
+    "directions": [
+        "Kèo Chấp Châu Á: Cửa Dưới (Independiente Rivadavia +0.75) (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Cửa Xỉu (Dưới 2.5) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ Số Đơn Điệu: Hòa 1-1 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có",
+            "rationale": "Hàng công chủ nhà cùn mòn nhưng hàng thủ lỏng lẻo, khách phản công sắc bén, dễ dẫn đến kịch bản hai đội cùng ghi bàn nhưng tổng số bàn không vượt quá 2."
+        },
+        "scoreline": [
+            "1-1",
+            "0-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1547760",
+        "comp": "Copa Libertadores",
+        "home": "Fluminense",
+        "away": "Independiente Rivadavia",
+        "kickoff": "05:00",
+        "highlight": "Đại Chiến",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1547760,
+        "handicap": {
+            "spread": -0.75,
+            "pick": "Dưới thắng",
+            "note": "Đội khách lỳ lợm, chủ nhà khủng hoảng, cửa dưới cực sáng."
+        },
+        "exact": {
+            "pick": [
+                "1:1",
+                "0:1"
+            ],
+            "note": "Kịch bản giằng co, khách có cơ hội đâm lén."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận chặt chẽ, ít bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 khách bùng nổ."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Đại gia Fluminense dù tàn tạ nhưng giá trị đội hình vẫn gấp 3 lần đối thủ, cẩn thận kịch bản họ vùng lên phút chót.",
+        "outcome": "Chủ nhà thắng sát nút 1 bàn"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                70,
+                85,
+                40,
+                90,
+                80
+            ],
+            "awayVal": [
+                80,
+                85,
+                40,
+                90,
+                50,
+                95
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                45,
+                50,
+                55,
+                65,
+                80,
+                90
+            ],
+            "awayTrend": [
+                60,
+                50,
+                45,
+                40,
+                55,
+                60,
+                70
+            ]
+        }
+    }
+}
