@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1598829",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "NEC Nijmegen vs Olympiakos",
+        "time": "2026-08-12 00:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Olympiakos dùng bản lĩnh và đội hình đắt giá để trừng phạt hàng thủ chắp vá của chủ nhà.",
+    "directions": [
+        "Kịch bản khách thắng tối thiểu nhờ kinh nghiệm (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản hòa không bàn thắng kéo vào hiệp phụ (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản chủ nhà tử thủ thành công (Tín Nhiệm Thấp, Độ Dày Giá Trị Thấp)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Tính chất sinh tử và sự bế tắc của hàng công chủ nhà ép trận đấu vào thế ít bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "1-1"
+        ],
+        "halftime": [
+            "1-0",
+            "1-1"
+        ]
+    },
+    "analysis": {
+        "code": "1598829",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "NEC Nijmegen",
+        "away": "Olympiakos",
+        "kickoff": "00:30",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1598829,
+        "handicap": {
+            "spread": "0",
+            "pick": "Dưới thắng",
+            "note": "Khách nhỉnh hơn về kinh nghiệm và lực lượng"
+        },
+        "exact": {
+            "pick": [
+                "0:1",
+                "1:1"
+            ],
+            "note": "Khách thắng tối thiểu hoặc hòa"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co ít bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 khách kết liễu hoặc hòa"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                50,
+                70,
+                60,
+                40,
+                80
+            ],
+            "awayVal": [
+                75,
+                80,
+                65,
+                65,
+                85,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                40,
+                35,
+                30,
+                20
+            ],
+            "awayTrend": [
+                40,
+                45,
+                50,
+                60,
+                70,
+                80,
+                85
+            ]
+        }
+    }
+}
