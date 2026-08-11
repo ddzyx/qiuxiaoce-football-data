@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1547759",
+        "comp": "CONMEBOL Libertadores",
+        "teams": "Estudiantes vs Universidad Catolica",
+        "time": "2026-08-12 07:30"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Universidad Catolica từ hòa đến thắng nhờ phong độ sân khách hủy diệt và xG nhỉnh hơn chủ nhà.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Universidad Catolica +0.75) - Đội khách có xG tốt hơn và phong độ sân khách ấn tượng (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 - Cả hai đội đều có xGA quanh mốc 1.0, thế trận giằng co (Tín Nhiệm Cao, Độ Dày Giá Trị Trung)",
+        "Tỷ Số Đơn Điệu: 1-1 - Kịch bản chia điểm hợp lý nhất cho cả hai (Tín Nhiệm Trung, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "xG hai đội thấp ép trận đấu vào thế Xỉu, nhưng hàng thủ chủ nhà sứt mẻ tạo điều kiện cho khách đâm lén."
+        },
+        "scoreline": [
+            "1-1",
+            "0-1"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1547759",
+        "comp": "CONMEBOL Libertadores",
+        "home": "Estudiantes",
+        "away": "Universidad Catolica",
+        "kickoff": "07:30",
+        "highlight": "Bẫy Kèo",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1547759,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Dưới thắng",
+            "note": "Khách có xG tốt hơn và phong độ sân khách ấn tượng, đủ sức thắng kèo được chấp 0.75."
+        },
+        "exact": {
+            "pick": [
+                "1:1",
+                "0:1"
+            ],
+            "note": "Thế trận chặt chẽ, khách phản công sắc bén."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "xG hai đội thấp, thị trường đổ dồn vào cửa Xỉu."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 khách có cơ hội đâm lén hoặc giữ hòa."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Dù Estudiantes đang sa sút thảm hại, nhưng kho máy chém định giá đội hình của họ vẫn gấp 3.5 lần đối thủ. Đừng xem thường đám kép phụ muốn đấm mặt giành vị trí cày.",
+        "outcome": "Chủ nhà thắng sát nút 1-0"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                70,
+                60,
+                40,
+                85,
+                75
+            ],
+            "awayVal": [
+                75,
+                75,
+                45,
+                70,
+                40,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                70,
+                80,
+                60,
+                50
+            ],
+            "awayTrend": [
+                40,
+                60,
+                50,
+                40,
+                50,
+                70,
+                80
+            ]
+        }
+    }
+}
