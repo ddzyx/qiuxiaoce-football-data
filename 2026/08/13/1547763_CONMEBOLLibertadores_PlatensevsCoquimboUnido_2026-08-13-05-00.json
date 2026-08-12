@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1547763",
+        "comp": "CONMEBOL Libertadores",
+        "teams": "Platense vs Coquimbo Unido",
+        "time": "2026-08-13 05:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Coquimbo Unido đủ sức giật điểm nhờ xG vượt trội và bão chấn thương của chủ nhà.",
+    "directions": [
+        "Dưới thắng (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung)",
+        "Hòa-Hòa (Tín Nhiệm Trung, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công Platense sứt mẻ nghiêm trọng, trong khi Coquimbo Unido chủ động chơi chắc chắn, trận đấu khó bùng nổ bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1547763",
+        "comp": "CONMEBOL Libertadores",
+        "home": "Platense",
+        "away": "Coquimbo Unido",
+        "kickoff": "05:00",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": "1547763",
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Dưới thắng",
+            "note": "Coquimbo Unido lỳ lợm trên sân khách, hoàn toàn có thể thắng kèo trước một Platense bế tắc."
+        },
+        "exact": {
+            "pick": [
+                "0:1",
+                "1:1"
+            ],
+            "note": "Kịch bản giằng co, đội khách tận dụng cơ hội tốt hơn."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận chặt chẽ, ít cơ hội nguy hiểm được tạo ra."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 đội khách tung đòn trừng phạt."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài Juan Gabriel Benítez là một hung thần rút thẻ. Với lối đá rát của cả hai đội, thẻ đỏ có thể xuất hiện và phá nát mọi toan tính chiến thuật.",
+        "outcome": "Vỡ trận cuối giờ do thẻ phạt"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                80,
+                50,
+                60,
+                50,
+                70
+            ],
+            "awayVal": [
+                75,
+                75,
+                45,
+                70,
+                60,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                35,
+                45,
+                50,
+                60,
+                65
+            ],
+            "awayTrend": [
+                40,
+                35,
+                45,
+                50,
+                65,
+                75,
+                85
+            ]
+        }
+    }
+}
