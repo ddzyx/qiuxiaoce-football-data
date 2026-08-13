@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1547761",
+        "comp": "Copa Libertadores",
+        "teams": "Mirassol vs LDU de Quito",
+        "time": "2026-08-14 05:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Cửa Xỉu là chân ái khi hàng công chủ nhà sứt mẻ và khách chủ động tử thủ.",
+    "directions": [
+        "Kèo Tài Xỉu: Cửa Xỉu Dưới 2.5 bàn (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: LDU de Quito +0.75 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Tỷ Số Đơn Điệu: 1-1 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Chủ nhà bế tắc nhưng có thể rướn 1 bàn, khách rình rập phản công sắc lẹm."
+        },
+        "scoreline": [
+            "1-1",
+            "1-0"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1547761",
+        "comp": "Copa Libertadores",
+        "home": "Mirassol",
+        "away": "LDU de Quito",
+        "kickoff": "05:00",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1547761,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Dưới thắng",
+            "note": "LDU de Quito với khối bê tông phòng ngự đủ sức cầm chân chủ nhà đang khủng hoảng."
+        },
+        "exact": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Thế trận bế tắc, khan hiếm bàn thắng do chủ nhà mất hỏa lực."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Cửa Xỉu là chân ái khi hàng công chủ nhà sứt mẻ và khách chủ động tử thủ."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 giằng co bế tắc, hiệp 2 khách có thể tung đòn trừng phạt."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "LDU de Quito có thói quen ghi bàn cực khét ở 15 phút cuối trận. Cẩn thận đòn hồi mã thương lật kèo.",
+        "outcome": "Khách thắng ngược dòng"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                75,
+                65,
+                50,
+                40,
+                80
+            ],
+            "awayVal": [
+                65,
+                60,
+                45,
+                70,
+                50,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                45,
+                55,
+                65,
+                70
+            ],
+            "awayTrend": [
+                30,
+                20,
+                35,
+                40,
+                50,
+                75,
+                90
+            ]
+        }
+    }
+}
