@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1607199",
+        "comp": "CONMEBOL Sudamericana",
+        "teams": "Vasco da Gama vs Olimpia",
+        "time": "2026-08-14 05:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Vasco da Gama sẽ tận dụng lợi thế sân nhà để giành chiến thắng tối thiểu trong một thế trận chặt chẽ và khan hiếm bàn thắng.",
+    "directions": [
+        "Kịch bản Xỉu 2.5 nổ ra với xác suất cực cao do sự sứt mẻ lực lượng hàng công của chủ nhà và lối đá tử thủ của khách (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Vasco da Gama vượt qua kèo chấp -0.75 nhờ sự lột xác của hàng thủ dưới thời tân HLV Pedro Emanuel (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Đội chủ nhà giữ sạch lưới thành công trước một Olimpia yếu bóng vía trên sân khách (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công sứt mẻ của Vasco và sự vắng mặt của máy quét Alfaro bên phía Olimpia sẽ biến trận đấu thành màn tra tấn thể lực ở tuyến giữa, bóp nghẹt mọi cơ hội ghi bàn."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1607199",
+        "comp": "CONMEBOL Sudamericana",
+        "home": "Vasco da Gama",
+        "away": "Olimpia",
+        "kickoff": "05:00",
+        "highlight": "Tử Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1607199,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà đủ sức xuyên phá hàng thủ đối phương để thắng kèo"
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "2-0"
+            ],
+            "note": "Chiến thắng tối thiểu cho đội chủ nhà"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co khan hiếm bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà bứt lên ở hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                85,
+                75,
+                80,
+                80,
+                85
+            ],
+            "awayVal": [
+                60,
+                65,
+                50,
+                40,
+                40,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                60,
+                75,
+                85,
+                80
+            ],
+            "awayTrend": [
+                40,
+                30,
+                20,
+                30,
+                20,
+                15,
+                10
+            ]
+        }
+    }
+}
