@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1507031",
+        "comp": "K League 1",
+        "teams": "Bucheon FC 1995 vs Jeonbuk Hyundai Motors",
+        "time": "2026-08-16 17:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Chấp Châu Á: Cửa trên (Jeonbuk Hyundai Motors -0.5)",
+    "directions": [
+        "Kèo Chấp Châu Á: Cửa trên nhai mâm (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu chết dí (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ Số Đơn Điệu: Khách thắng trắng 0-1 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Hàng công Jeonbuk thiếu vắng chủ lực, trong khi Bucheon chủ động tử thủ bảo vệ thủ môn trẻ."
+        },
+        "scoreline": [
+            "0-1",
+            "0-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1507031",
+        "comp": "K League 1",
+        "home": "Bucheon FC 1995",
+        "away": "Jeonbuk Hyundai Motors",
+        "kickoff": "17:30",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1507031,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Trên thắng",
+            "note": "Khủng hoảng thủ môn của chủ nhà là điểm yếu chí mạng để Jeonbuk khai thác."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-2"
+            ],
+            "note": "Jeonbuk áp đảo thế trận và tận dụng sai lầm của hàng thủ chắp vá bên phía Bucheon."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công Jeonbuk thiếu vắng chủ lực, trong khi Bucheon chủ động tử thủ."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Jeonbuk sẽ gặp khó khăn trong hiệp 1 nhưng giải quyết trận đấu ở hiệp 2."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                65,
+                45,
+                70,
+                50,
+                80
+            ],
+            "awayVal": [
+                75,
+                80,
+                85,
+                40,
+                75,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                30,
+                35,
+                40,
+                50,
+                65,
+                70
+            ],
+            "awayTrend": [
+                60,
+                65,
+                70,
+                75,
+                80,
+                85,
+                90
+            ]
+        }
+    }
+}
