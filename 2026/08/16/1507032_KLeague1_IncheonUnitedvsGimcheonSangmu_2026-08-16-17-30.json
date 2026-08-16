@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1507032",
+        "comp": "K League 1",
+        "teams": "Incheon United vs Gimcheon Sangmu",
+        "time": "2026-08-16 17:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Incheon United thắng kèo châu Á (-0.25) và trận đấu có ít bàn thắng (Xỉu 2.5).",
+    "directions": [
+        "Kèo Châu Á: Incheon United -0.25 (Tín Nhiệm Trung Bình, Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Giá Trị Trung Bình)",
+        "Tỷ Số: 2-0 hoặc 1-0 (Tín Nhiệm Trung Bình, Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Đội khách xoay tua lực lượng và chủ động phòng ngự lùi sâu, trong khi chủ nhà cũng bị ảnh hưởng thể lực bởi thời tiết nắng nóng."
+        },
+        "scoreline": [
+            "2-0",
+            "1-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Thắng-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1507032",
+        "comp": "K League 1",
+        "home": "Incheon United",
+        "away": "Gimcheon Sangmu",
+        "kickoff": "17:30",
+        "highlight": "Chủ Nhà Ép",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1507032,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Cửa trên",
+            "note": "Chủ nhà áp đảo sức mạnh hàng công, khách có rủi ro xoay tua đội hình."
+        },
+        "exact": {
+            "pick": [
+                "2-0",
+                "1-0"
+            ],
+            "note": "Dự đoán chủ nhà thắng cách biệt an toàn."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Nhịp độ chậm, khách tử thủ, chủ nhà thắng vừa đủ."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà bứt lên ở hiệp 2 hoặc áp đảo từ sớm."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                70,
+                75,
+                75,
+                60,
+                80
+            ],
+            "awayVal": [
+                50,
+                60,
+                65,
+                65,
+                40,
+                50
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                60,
+                75,
+                85,
+                70
+            ],
+            "awayTrend": [
+                20,
+                30,
+                40,
+                30,
+                20,
+                15,
+                10
+            ]
+        }
+    }
+}
