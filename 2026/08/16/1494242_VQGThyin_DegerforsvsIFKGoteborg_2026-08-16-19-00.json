@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494242",
+        "comp": "VĐQG Thụy Điển",
+        "teams": "Degerfors vs IFK Goteborg",
+        "time": "2026-08-16 19:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Tài 2.5 là điểm sáng chói lọi nhất khi hàng thủ chắp vá của chủ nhà đụng độ đôi chân mỏi mệt của khách.",
+    "directions": [
+        "Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Dưới thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hàng thủ hai bên đều lỏng lẻo (xGA > 1.5), kết hợp với thể lực suy kiệt của khách sẽ tạo ra cơn mưa bàn thắng."
+        },
+        "scoreline": [
+            "2:2",
+            "2:1"
+        ],
+        "halftime": [
+            "1-1",
+            "1-3"
+        ]
+    },
+    "analysis": {
+        "code": "1494242",
+        "comp": "VĐQG Thụy Điển",
+        "home": "Degerfors",
+        "away": "IFK Goteborg",
+        "kickoff": "19:00",
+        "highlight": "Đại Chiến Thể Lực",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494242,
+        "handicap": {
+            "spread": "+0.25",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà tận dụng lợi thế thể lực để giữ lại điểm số"
+        },
+        "exact": {
+            "pick": [
+                "2:2",
+                "2:1"
+            ],
+            "note": "Kịch bản rượt đuổi tỷ số điên rồ khi cả hai đều có tử huyệt phòng ngự"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hàng thủ chắp vá và thể lực cạn kiệt sẽ tạo ra cơn mưa bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-3"
+            ],
+            "note": "Giằng co hiệp một và chủ nhà bung sức kết liễu ở hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hệ thống phòng ngự của cả hai đội đều đang trong tình trạng báo động đỏ (xGA đều vượt mốc 1.5). Đặc biệt, chủ nhà Degerfors mất đi hai hòn đá tảng ở hàng thủ, trong khi IFK Goteborg lại đang bị vắt kiệt thể lực sau chuyến làm khách tại cúp Châu Âu. Sự lỏng lẻo này kết hợp với nhịp độ thi đấu dồn dập sẽ dễ dàng tạo ra một thế trận đôi công rực lửa, nơi những sai lầm cá nhân sẽ liên tục bị trừng phạt. Một kịch bản bùng nổ bàn thắng là điều khó tránh khỏi.",
+        "outcome": "Tổng bàn 4+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                30,
+                45,
+                50,
+                30,
+                80
+            ],
+            "awayVal": [
+                70,
+                50,
+                55,
+                60,
+                60,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                30,
+                40,
+                50,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                80,
+                70,
+                60,
+                50,
+                40,
+                30,
+                20
+            ]
+        }
+    }
+}
