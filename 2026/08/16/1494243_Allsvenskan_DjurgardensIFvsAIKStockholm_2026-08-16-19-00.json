@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494243",
+        "comp": "Allsvenskan",
+        "teams": "Djurgardens IF vs AIK Stockholm",
+        "time": "2026-08-16 19:00"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Djurgardens IF nghiền nát đối thủ nhờ hỏa lực vượt trội và hàng thủ chắp vá của AIK Stockholm",
+    "directions": [
+        "Kèo Chấp Châu Á: Cửa trên nhai mâm (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Tài nổ tung xác (Tín Nhiệm Cao, Độ Dày Giá Trị Trung)",
+        "Hiệp 1\/Toàn Trận HT\/FT: Thắng-Thắng (Tín Nhiệm Trung, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hỏa lực chủ nhà cực mạnh kết hợp với hàng thủ tan hoang của khách sẽ tạo ra cơn mưa bàn thắng, nhưng khách vẫn có khả năng trộm chó thành công."
+        },
+        "scoreline": [
+            "3:1",
+            "2:1"
+        ],
+        "halftime": [
+            "3-3",
+            "1-3"
+        ]
+    },
+    "analysis": {
+        "code": "1494243",
+        "comp": "Allsvenskan",
+        "home": "Djurgardens IF",
+        "away": "AIK Stockholm",
+        "kickoff": "19:00",
+        "highlight": "Derby Rực Lửa",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1494243,
+        "handicap": {
+            "spread": "-1.0",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà thắng kèo"
+        },
+        "exact": {
+            "pick": [
+                "3:1",
+                "2:1"
+            ],
+            "note": "Chủ nhà thắng cách biệt"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Tài"
+        },
+        "htft": {
+            "pick": [
+                "3-3",
+                "1-3"
+            ],
+            "note": "Thắng-Thắng hoặc Hòa-Thắng"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi xG nảy tưng tưng rống họng báo hiệu cục diện 'Xỉu' trơ xương cực kỳ mỏng manh. Dù cái họng súng 2 bên dạo này đang bít ống, nhưng rào chắn sau lưng AIK hở bung toác cống (xGA > 1.6). Chỉ cần đứt dây văng một trái rớt mâm trong hiệp 1, tụt máu kéo nhịp dồn ép là xăm xăm rửng mỡ lao vào loạn đả vỡ đê. Mách khéo đai nịnh dứt khoát né màn cặn Xỉu, đề phòng bão bàn thắng ập hầm dội thẳng 3-1 \/ 4-1 lật thóp.",
+        "outcome": "Tổng bàn 4+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                85,
+                80,
+                75,
+                90,
+                95,
+                80
+            ],
+            "awayVal": [
+                60,
+                40,
+                40,
+                50,
+                20,
+                100
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                70,
+                80,
+                85,
+                90,
+                75,
+                65
+            ],
+            "awayTrend": [
+                30,
+                40,
+                35,
+                20,
+                15,
+                45,
+                50
+            ]
+        }
+    }
+}
