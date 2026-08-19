@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1607650",
+        "comp": "CONMEBOL Sudamericana",
+        "teams": "Santa Fe vs River Plate",
+        "time": "2026-08-20 07:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Tài Xỉu - Xỉu 2.5",
+    "directions": [
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Cửa trên thắng kèo (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ Số Đơn Điệu: Khách giữ sạch lưới (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công River Plate đang cùn mòn nghiêm trọng trong khi hàng thủ của họ lại cực kỳ vững chắc, dẫn đến một thế trận bế tắc ít bàn thắng và khả năng cao chỉ một đội ghi bàn."
+        },
+        "scoreline": [
+            "0-1",
+            "0-0"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1607650",
+        "comp": "CONMEBOL Sudamericana",
+        "home": "Santa Fe",
+        "away": "River Plate",
+        "kickoff": "07:30",
+        "highlight": "Đại Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1607650,
+        "handicap": {
+            "spread": "+0.5",
+            "pick": "Trên thắng",
+            "note": "Đẳng cấp vượt trội của đội khách sẽ giúp họ vượt qua khó khăn và giành chiến thắng tối thiểu."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-0"
+            ],
+            "note": "Kịch bản trận đấu giằng co, đội khách giải quyết trận đấu bằng một khoảnh khắc tỏa sáng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công đội khách đang gặp vấn đề về khâu dứt điểm, trận đấu khó có nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò bế tắc, hiệp 2 đội khách tăng tốc để kết liễu trận đấu."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                51,
+                37,
+                47,
+                71,
+                10,
+                80
+            ],
+            "awayVal": [
+                29,
+                63,
+                64,
+                14,
+                100,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                30,
+                35,
+                40,
+                60,
+                70
+            ],
+            "awayTrend": [
+                40,
+                45,
+                50,
+                60,
+                70,
+                85,
+                90
+            ]
+        }
+    }
+}
