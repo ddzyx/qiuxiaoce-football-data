@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1547765",
+        "comp": "CONMEBOL Libertadores",
+        "teams": "Cerro Porteno vs Palmeiras",
+        "time": "2026-08-20 05:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Palmeiras sẽ dùng sức mạnh áp đảo để khoan thủng hàng thủ lùi sâu của Cerro Porteno, giành chiến thắng tối thiểu trong một thế trận ít bàn thắng.",
+    "directions": [
+        "Kèo Chấp Châu Á: Cửa trên (Palmeiras -0.75) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Tài Xỉu: Cửa Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thua (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Chủ nhà tấn công quá yếu kém với xG 0.77, trong khi khách sẽ vấp phải hàng thủ số đông nên khó tạo ra cơn mưa bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "0-2"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1547765",
+        "comp": "CONMEBOL Libertadores",
+        "home": "Cerro Porteno",
+        "away": "Palmeiras",
+        "kickoff": "05:00",
+        "highlight": "Sinh Tử Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1547765,
+        "handicap": {
+            "spread": "-0.75",
+            "pick": "Cửa trên",
+            "note": "Palmeiras áp đảo hoàn toàn về xG và thế trận, đủ sức xuyên thủng hàng thủ lùi sâu của chủ nhà."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-2"
+            ],
+            "note": "Thế trận một chiều nhưng bế tắc, khách thắng tối thiểu."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Lối đá tử thủ của chủ nhà bóp nghẹt số bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Hiệp 1 giằng co, hiệp 2 đẳng cấp lên tiếng."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Trọng tài Facundo Tello rút thẻ cực gắt, nguy cơ thẻ đỏ phá vỡ thế trận tử thủ.",
+        "outcome": "HT\/FT: Hòa-Thua"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                30,
+                75,
+                40,
+                40,
+                20,
+                85
+            ],
+            "awayVal": [
+                85,
+                70,
+                80,
+                60,
+                90,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                15,
+                10,
+                25,
+                15,
+                10,
+                5
+            ],
+            "awayTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                90
+            ]
+        }
+    }
+}
