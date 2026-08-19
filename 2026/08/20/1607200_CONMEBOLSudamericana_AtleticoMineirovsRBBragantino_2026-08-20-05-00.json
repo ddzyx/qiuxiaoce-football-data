@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1607200",
+        "comp": "CONMEBOL Sudamericana",
+        "teams": "Atletico Mineiro vs RB Bragantino",
+        "time": "2026-08-20 05:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Tài Xỉu: Xỉu 2.5",
+    "directions": [
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Chấp Châu Á: Trên thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Đội khách mất tiền đạo chủ lực, chủ nhà đá giữ chân bảo toàn tỷ số lượt đi."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1607200",
+        "comp": "CONMEBOL Sudamericana",
+        "home": "Atletico Mineiro",
+        "away": "RB Bragantino",
+        "kickoff": "05:00",
+        "highlight": "Đại Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1607200,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà kiểm soát thế trận và giành chiến thắng tối thiểu"
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "2-0"
+            ],
+            "note": "Chủ nhà thắng cách biệt nhỏ"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Trận đấu chặt chẽ, ít bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà giải quyết trận đấu trong hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                85,
+                60,
+                90,
+                80,
+                70
+            ],
+            "awayVal": [
+                50,
+                70,
+                65,
+                40,
+                60,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                75,
+                85
+            ],
+            "awayTrend": [
+                20,
+                30,
+                40,
+                50,
+                60,
+                40,
+                30
+            ]
+        }
+    }
+}
