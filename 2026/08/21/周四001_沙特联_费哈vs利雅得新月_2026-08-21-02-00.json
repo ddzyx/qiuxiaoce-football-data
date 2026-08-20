@@ -129,5 +129,15 @@
                 85
             ]
         }
+    },
+    "result": {
+        "half_score": "0-1",
+        "actual_score": "0-3",
+        "score_hit": true,
+        "goals_hit": true,
+        "htft_hit": true,
+        "direction_hit": true,
+        "is_correct": true,
+        "is_wrong": false
     }
 }
