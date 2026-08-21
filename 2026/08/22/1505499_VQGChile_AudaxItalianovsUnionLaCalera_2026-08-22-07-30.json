@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1505499",
+        "comp": "VĐQG Chile",
+        "teams": "Audax Italiano vs Union La Calera",
+        "time": "2026-08-22 07:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Kèo Châu Á - Dưới thắng.",
+    "directions": [
+        "Kèo Châu Á (Dưới thắng) - Dòng tiền đang tháo chạy khỏi chủ nhà, cộng thêm sự bế tắc trong khâu tổ chức tấn công khiến việc nằm cửa dưới được chấp nửa trái là tấm khiên an toàn nhất. (Độ Tín Nhiệm: Thấp, Giá Trị: Trung Bình)",
+        "Kèo Tài Xỉu (Xỉu 2.5) - Hai hàng công đều cùn mòn và thiếu sáng tạo, kịch bản khô hạn bàn thắng là điều dễ hiểu. (Độ Tín Nhiệm: Trung Bình, Giá Trị: Trung Bình)",
+        "Tỷ Số Đơn Điệu (Hòa 1-1) - Kịch bản chia điểm phản ánh đúng cục diện bế tắc của cả hai bên. (Độ Tín Nhiệm: Thấp, Giá Trị: Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có",
+            "rationale": "Hoà chung nhịp độ tấn công rệu rã của cả hai, máy đẻ ra mốc bàn thắng bung nắp 2.5 nhưng dòng tiền lại đổ dồn vào cửa Xỉu, tuy nhiên sai lầm hàng thủ vẫn có thể giúp cả hai cùng nổ súng."
+        },
+        "scoreline": [
+            "1-1",
+            "0-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1505499",
+        "comp": "VĐQG Chile",
+        "home": "Audax Italiano",
+        "away": "Union La Calera",
+        "kickoff": "07:30",
+        "highlight": "Chung Kết Ngược",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1505499,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Dưới thắng",
+            "note": "Dòng tiền tháo chạy khỏi chủ nhà, cửa dưới an toàn hơn."
+        },
+        "exact": {
+            "pick": [
+                "1-1",
+                "0-1"
+            ],
+            "note": "Thế trận bế tắc, kịch bản chia điểm hoặc khách thắng tối thiểu rất dễ xảy ra."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công hai đội đều thiếu sáng tạo, khó vượt mốc 2 bàn."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp một thăm dò, hiệp hai định đoạt bằng sai lầm cá nhân."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                60,
+                70,
+                75,
+                65,
+                80
+            ],
+            "awayVal": [
+                60,
+                55,
+                65,
+                50,
+                50,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                45,
+                50,
+                40,
+                55,
+                60,
+                65
+            ],
+            "awayTrend": [
+                30,
+                35,
+                40,
+                45,
+                50,
+                65,
+                80
+            ]
+        }
+    }
+}
