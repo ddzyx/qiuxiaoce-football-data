@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493081",
+        "comp": "VĐQG Argentina",
+        "teams": "Estudiantes de Rio Cuarto vs San Lorenzo",
+        "time": "2026-08-22 06:00"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm cửa Dưới (Chủ nhà) và đánh Xỉu, tận dụng sự sứt mẻ lực lượng nghiêm trọng của đội khách.",
+    "directions": [
+        "Kịch bản 1: Hai đội thi đấu bế tắc, không bên nào ghi được bàn thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản 2: Chủ nhà tận dụng sai lầm hàng thủ chắp vá của khách để vươn lên dẫn trước (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)",
+        "Kịch bản 3: Khách bế tắc trong tấn công và dính đòn hồi mã thương ở cuối trận (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công hai đội đều cùn mòn, cộng thêm lối chơi thận trọng sợ thua sẽ bóp nghẹt số bàn thắng."
+        },
+        "scoreline": [
+            "0-0",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1493081",
+        "comp": "VĐQG Argentina",
+        "home": "Estudiantes de Rio Cuarto",
+        "away": "San Lorenzo",
+        "kickoff": "06:00",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1493081,
+        "handicap": {
+            "spread": "+0.25",
+            "pick": "Dưới thắng",
+            "note": "Chủ nhà đủ sức cầm chân đội khách đang khủng hoảng lực lượng"
+        },
+        "exact": {
+            "pick": [
+                "0-0",
+                "1-1"
+            ],
+            "note": "Kịch bản khô hạn bàn thắng là rõ ràng nhất"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hai đội đều yếu kém trong khâu dứt điểm"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Thế trận giằng co từ đầu đến cuối"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                31,
+                56,
+                46,
+                42,
+                30,
+                70
+            ],
+            "awayVal": [
+                49,
+                54,
+                51,
+                60,
+                50,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                35,
+                30,
+                40,
+                50,
+                60
+            ],
+            "awayTrend": [
+                30,
+                40,
+                35,
+                45,
+                55,
+                65,
+                50
+            ]
+        }
+    }
+}
