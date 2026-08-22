@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1552736",
+        "comp": "Ligue 1",
+        "teams": "Toulouse FC vs Olympique Lyon",
+        "time": "2026-08-23 01:45"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm vùng Toulouse FC đồng banh (+0) là bến đỗ an toàn nhất khi Lyon đang bị vắt kiệt sức và khủng hoảng nhân sự trục dọc.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Toulouse FC +0) (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "HT\/FT: Hòa-Thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Sự mệt mỏi của Lyon và lối đá thực dụng của Toulouse sẽ bóp nghẹt không gian, khiến trận đấu khan hiếm bàn thắng và khó có kịch bản cả hai cùng ghi bàn."
+        },
+        "scoreline": [
+            "1-0",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1552736",
+        "comp": "Ligue 1",
+        "home": "Toulouse FC",
+        "away": "Olympique Lyon",
+        "kickoff": "01:45",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1552736,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Dưới thắng",
+            "note": "Dòng tiền tháo chạy khỏi đội khách do thể lực suy kiệt, chủ nhà từ hòa đến thắng."
+        },
+        "exact": {
+            "pick": [
+                "1:0",
+                "1:1"
+            ],
+            "note": "Chủ nhà kết liễu đối thủ vào cuối trận hoặc chia điểm tẻ nhạt."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hỏa lực hai bên đều sứt mẻ, thế trận giằng co bế tắc."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Hiệp một thăm dò, hiệp hai chủ nhà bung sức hoặc hòa nhạt nhẽo."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                75,
+                60,
+                65,
+                50,
+                85
+            ],
+            "awayVal": [
+                80,
+                65,
+                85,
+                70,
+                80,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                65,
+                85,
+                95
+            ],
+            "awayTrend": [
+                60,
+                65,
+                55,
+                50,
+                40,
+                30,
+                20
+            ]
+        }
+    }
+}
