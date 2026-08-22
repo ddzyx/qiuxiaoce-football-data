@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1570352",
+        "comp": "La Liga",
+        "teams": "Valencia vs Celta Vigo",
+        "time": "2026-08-23 00:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Celta Vigo từ hòa đến thắng nhờ bão chấn thương tàn phá hàng công Valencia.",
+    "directions": [
+        "Celta Vigo thắng kèo nhờ lợi thế lực lượng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Trận đấu khan hiếm bàn thắng do chủ nhà tịt ngòi (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản hòa tẻ nhạt nếu hai bên bế tắc (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công chủ nhà sứt mẻ nghiêm trọng, khó tạo ra đột biến, trận đấu dễ rơi vào thế bế tắc ít bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1570352",
+        "comp": "La Liga",
+        "home": "Valencia",
+        "away": "Celta Vigo",
+        "kickoff": "00:30",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1570352,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "Celta Vigo nắm lợi thế lớn khi chủ nhà mất sạch hỏa lực."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "1-1"
+            ],
+            "note": "Khách chớp thời cơ đâm lén hoặc chia điểm tẻ nhạt."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co, chủ nhà tịt ngòi."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 khách kết liễu."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                60,
+                55,
+                50,
+                45,
+                70
+            ],
+            "awayVal": [
+                65,
+                55,
+                50,
+                60,
+                60,
+                65
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                35,
+                40,
+                45,
+                50,
+                55,
+                60
+            ],
+            "awayTrend": [
+                40,
+                45,
+                50,
+                55,
+                65,
+                75,
+                80
+            ]
+        }
+    }
+}
