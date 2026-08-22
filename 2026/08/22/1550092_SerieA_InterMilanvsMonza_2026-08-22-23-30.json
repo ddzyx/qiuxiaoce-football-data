@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1550092",
+        "comp": "Serie A",
+        "teams": "Inter Milan vs Monza",
+        "time": "2026-08-22 23:30"
+    },
+    "level": "Cao (Solid Banker)",
+    "mainPick": "Inter Milan sẽ tận dụng triệt để cơn bão chấn thương của Monza để giành một chiến thắng hủy diệt trên sân nhà.",
+    "directions": [
+        "Kịch bản Inter Milan thắng cách biệt từ 3 bàn trở lên (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kịch bản trận đấu có từ 3 bàn thắng trở lên (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản Inter Milan dẫn trước trong hiệp 1 và thắng chung cuộc (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Không",
+            "rationale": "Sức mạnh tấn công áp đảo của Inter sẽ tạo ra nhiều bàn thắng, trong khi hàng công sứt mẻ của Monza khó lòng xuyên thủng mành lưới chủ nhà."
+        },
+        "scoreline": [
+            "3-0",
+            "4-0"
+        ],
+        "halftime": [
+            "Thắng-Thắng",
+            "Hòa-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1550092",
+        "comp": "Serie A",
+        "home": "Inter Milan",
+        "away": "Monza",
+        "kickoff": "23:30",
+        "highlight": "Đại Chiến",
+        "confidence": "Cao (Solid Banker)",
+        "fid": 1550092,
+        "handicap": {
+            "spread": "-2.0",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà áp đảo hoàn toàn và sẽ thắng đậm."
+        },
+        "exact": {
+            "pick": [
+                "3-0",
+                "4-0"
+            ],
+            "note": "Inter Milan ghi nhiều bàn và giữ sạch lưới."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Trận đấu sẽ có nhiều bàn thắng từ phía chủ nhà."
+        },
+        "htft": {
+            "pick": [
+                "3-3",
+                "1-3"
+            ],
+            "note": "Chủ nhà chiếm ưu thế từ sớm."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi xG nảy tưng tưng rống họng báo hiệu cục diện 'Xỉu' trơ xương cực kỳ mỏng manh. Dù cái họng súng Monza đang bít ống, nhưng rào chắn sau lưng hở bung toác cống. Chỉ cần đứt dây văng một trái rớt mâm trong hiệp 1, tụt máu kéo nhịp dồn ép là xăm xăm rửng mỡ lao vào loạn đả vỡ đê.",
+        "outcome": "Thắng cách biệt 3+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                90,
+                85,
+                80,
+                90,
+                95,
+                85
+            ],
+            "awayVal": [
+                40,
+                45,
+                35,
+                30,
+                20,
+                50
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                60,
+                75,
+                85,
+                70,
+                80,
+                90,
+                95
+            ],
+            "awayTrend": [
+                30,
+                25,
+                20,
+                25,
+                15,
+                10,
+                5
+            ]
+        }
+    }
+}
