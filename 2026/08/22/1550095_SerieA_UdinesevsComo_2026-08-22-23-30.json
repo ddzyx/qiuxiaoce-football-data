@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1550095",
+        "comp": "Serie A",
+        "teams": "Udinese vs Como",
+        "time": "2026-08-22 23:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Kèo Tài Xỉu: Xỉu 2.5",
+    "directions": [
+        "Kèo Tài Xỉu: Xỉu 2.5 - Bãi lầy phòng ngự của Como kết hợp với hàng công thiếu đột biến của Udinese biến cửa Xỉu thành hầm trú ẩn an toàn nhất. (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Chấp Châu Á: Cửa dưới (Como -0.75) - Đẳng cấp vượt trội và khả năng kiểm soát bóng sẽ giúp Como bóp nghẹt chủ nhà. (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thua - Udinese có thể tử thủ thành công trong hiệp 1, nhưng sẽ gục ngã ở hiệp 2. (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Hàng công Udinese bế tắc trước bức tường phòng ngự của Como, trận đấu khó vượt mốc 2 bàn và khả năng cao chỉ một đội ghi bàn."
+        },
+        "scoreline": [
+            "0-1",
+            "0-2"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1550095",
+        "comp": "Serie A",
+        "home": "Udinese",
+        "away": "Como",
+        "kickoff": "23:30",
+        "highlight": "Khai Màn Rực Lửa",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1550095,
+        "handicap": {
+            "spread": "+0.75",
+            "pick": "Cửa dưới",
+            "note": "Como áp đảo hoàn toàn tuyến giữa và sở hữu hàng thủ thép, đủ sức xuyên phá khối bê tông của chủ nhà để thắng kèo."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-2"
+            ],
+            "note": "Thế trận một chiều nhưng ít bàn thắng, Como sẽ giải quyết trận đấu bằng cách biệt tối thiểu."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hàng công Udinese bế tắc trước bức tường phòng ngự của Como, trận đấu khó vượt mốc 2 bàn."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Udinese tử thủ hiệp 1 nhưng sẽ gục ngã trước sức ép liên tục của Como trong hiệp 2."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                55,
+                45,
+                58,
+                40,
+                70
+            ],
+            "awayVal": [
+                75,
+                85,
+                80,
+                58,
+                85,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                30,
+                35,
+                40,
+                45,
+                50
+            ],
+            "awayTrend": [
+                40,
+                50,
+                60,
+                65,
+                75,
+                85,
+                90
+            ]
+        }
+    }
+}
