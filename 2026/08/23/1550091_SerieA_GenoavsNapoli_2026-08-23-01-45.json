@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1550091",
+        "comp": "Serie A",
+        "teams": "Genoa vs Napoli",
+        "time": "2026-08-23 01:45"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Napoli sẽ giành chiến thắng nhọc nhằn trong một thế trận kiểm soát chặt chẽ và khô hạn bàn thắng.",
+    "directions": [
+        "Kèo Tài Xỉu: Cửa Xỉu (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Chấp Châu Á: Cửa trên thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "HT\/FT: Hòa-Thua (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Genoa tấn công quá yếu ớt trong khi Napoli ưu tiên kiểm soát an toàn, dẫn đến thế trận ít bàn thắng và khó có chuyện cả hai cùng ghi bàn."
+        },
+        "scoreline": [
+            "0-1",
+            "0-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1550091",
+        "comp": "Serie A",
+        "home": "Genoa",
+        "away": "Napoli",
+        "kickoff": "01:45",
+        "highlight": "Kỷ Nguyên Mới",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1550091,
+        "handicap": {
+            "spread": "+0.5",
+            "pick": "Cửa trên",
+            "note": "Napoli vượt trội về đẳng cấp và hỏa lực, đủ sức xuyên phá khối bê tông của đội chủ nhà để thắng kèo chấp."
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "0-2"
+            ],
+            "note": "Chiến thắng tối thiểu hoặc cách biệt hai bàn cho đội khách trong thế trận một chiều."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Lối đá tử thủ của chủ nhà và sự thận trọng của khách sẽ bóp nghẹt số bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Hiệp một giằng co bế tắc, hiệp hai đội khách bung sức kết liễu trận đấu."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                40,
+                65,
+                45,
+                50,
+                40,
+                70
+            ],
+            "awayVal": [
+                85,
+                60,
+                80,
+                75,
+                85,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                20,
+                25,
+                30,
+                20,
+                35,
+                40,
+                45
+            ],
+            "awayTrend": [
+                50,
+                60,
+                65,
+                70,
+                80,
+                85,
+                90
+            ]
+        }
+    }
+}
