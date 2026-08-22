@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1570347",
+        "comp": "La Liga",
+        "teams": "Espanyol vs Real Madrid",
+        "time": "2026-08-23 02:30"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm dưới Espanyol +1.25, Kền Kền Trắng khó lòng tạo ra chiến thắng hủy diệt với hàng thủ chắp vá.",
+    "directions": [
+        "Kịch bản Espanyol tử thủ thành công và chỉ thua sát nút (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kịch bản trận đấu bùng nổ bàn thắng do sai lầm hàng thủ (Tín Nhiệm Cao, Độ Dày Giá Trị Trung)",
+        "Kịch bản Real Madrid bế tắc hiệp 1 và bùng nổ hiệp 2 (Tín Nhiệm Trung, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ Real Madrid tan hoang vì chấn thương, trong khi hỏa lực tấn công của họ vẫn cực mạnh, tạo điều kiện cho một trận cầu đôi công cởi mở."
+        },
+        "scoreline": [
+            "1-2",
+            "2-2"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Thua-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1570347",
+        "comp": "La Liga",
+        "home": "Espanyol",
+        "away": "Real Madrid",
+        "kickoff": "02:30",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1570347,
+        "handicap": {
+            "spread": 1.25,
+            "pick": "Dưới thắng",
+            "note": "Hàng thủ Real Madrid sứt mẻ nghiêm trọng, Espanyol đủ sức giữ lại lợi thế kèo chấp trên sân nhà."
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "2-2"
+            ],
+            "note": "Real Madrid thắng nhọc nhằn sát nút hoặc bị cầm hòa."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hàng thủ hai bên đều có vấn đề, hứa hẹn trận cầu nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "0-3"
+            ],
+            "note": "Real Madrid bế tắc hiệp 1 nhưng giải quyết trận đấu trong hiệp 2."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Real Madrid mất đi hàng loạt trụ cột, nguy cơ thủng lưới sớm và dẫn đến một trận cầu rượt đuổi tỷ số điên rồ là rất cao.",
+        "outcome": "Tổng bàn 4+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                55,
+                45,
+                70,
+                40,
+                85
+            ],
+            "awayVal": [
+                95,
+                40,
+                80,
+                85,
+                90,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                45,
+                60,
+                75,
+                80
+            ],
+            "awayTrend": [
+                60,
+                70,
+                65,
+                80,
+                85,
+                95,
+                90
+            ]
+        }
+    }
+}
