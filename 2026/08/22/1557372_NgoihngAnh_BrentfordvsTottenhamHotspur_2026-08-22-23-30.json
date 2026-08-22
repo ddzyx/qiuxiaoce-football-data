@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1557372",
+        "comp": "Ngoại hạng Anh",
+        "teams": "Brentford vs Tottenham Hotspur",
+        "time": "2026-08-22 23:30"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Đầu tư vào Brentford với kèo đồng banh (+0) là lựa chọn an toàn nhất khi Tottenham đang khủng hoảng lực lượng nghiêm trọng.",
+    "directions": [
+        "Brentford tận dụng lợi thế sân nhà và đội hình sứt mẻ của đối thủ để giành chiến thắng sát nút (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Hai đội cống hiến một trận cầu đôi công rực lửa với nhiều bàn thắng được ghi (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1 giằng co và Brentford bứt lên trong hiệp 2 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "Hàng thủ chắp vá của Tottenham khó lòng đứng vững trước sức ép của Brentford, nhưng triết lý tấn công của De Zerbi vẫn đảm bảo khả năng ghi bàn cho đội khách."
+        },
+        "scoreline": [
+            "2-1",
+            "2-2"
+        ],
+        "halftime": [
+            "1-3",
+            "3-3"
+        ]
+    },
+    "analysis": {
+        "code": "1557372",
+        "comp": "Ngoại hạng Anh",
+        "home": "Brentford",
+        "away": "Tottenham Hotspur",
+        "kickoff": "23:30",
+        "highlight": "Bão Chấn Thương",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1557372,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Trên thắng",
+            "note": "Brentford nắm giữ lợi thế tuyệt đối về mặt nhân sự và phong độ sân nhà."
+        },
+        "exact": {
+            "pick": [
+                "2-1",
+                "2-2"
+            ],
+            "note": "Kịch bản rượt đuổi tỷ số với phần thắng nghiêng về chủ nhà."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hệ thống phòng ngự lỏng lẻo của hai bên hứa hẹn một trận cầu nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Brentford sẽ tăng tốc và giải quyết trận đấu trong hiệp hai."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Hàng thủ Spurs mất đi tốc độ của Van de Ven và sự tinh quái của Porro, đối mặt với những mũi khoan phá tốc độ của Brentford. Nếu vỡ trận sớm, kịch bản rượt đuổi tỷ số điên rồ hoàn toàn có thể xảy ra.",
+        "outcome": "Tổng bàn 4+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                65,
+                50,
+                70,
+                60,
+                85
+            ],
+            "awayVal": [
+                70,
+                45,
+                65,
+                60,
+                75,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                60,
+                55,
+                50,
+                65,
+                50,
+                40,
+                30
+            ]
+        }
+    }
+}
