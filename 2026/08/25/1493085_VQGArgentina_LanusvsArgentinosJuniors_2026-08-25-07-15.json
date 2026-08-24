@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493085",
+        "comp": "VĐQG Argentina",
+        "teams": "Lanus vs Argentinos Juniors",
+        "time": "2026-08-25 07:15"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Nằm cửa dưới Argentinos Juniors là lựa chọn an toàn và sáng giá nhất.",
+    "directions": [
+        "Kèo Chấp Châu Á Dưới thắng (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu Xỉu 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "HT\/FT Hòa-Thua (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Lanus mất nhạc trưởng sáng tạo, Argentinos Juniors phòng ngự lỳ lợm, trận đấu khó có nhiều bàn thắng."
+        },
+        "scoreline": [
+            "0-1",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1493085",
+        "comp": "VĐQG Argentina",
+        "home": "Lanus",
+        "away": "Argentinos Juniors",
+        "kickoff": "07:15",
+        "highlight": "Khắc Tinh",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1493085,
+        "handicap": {
+            "spread": "0",
+            "pick": "Dưới thắng",
+            "note": "Đội khách từ hòa đến thắng"
+        },
+        "exact": {
+            "pick": [
+                "0-1",
+                "1-1"
+            ],
+            "note": "Dự đoán tỷ số"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Trận đấu ít bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "0-1",
+                "1-1"
+            ],
+            "note": "Dự đoán hiệp 1 và cả trận"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Dữ liệu vân tay thời gian chỉ ra Lanus cực kỳ mong manh ở giai đoạn từ phút 76-90. Nếu thế trận giằng co đến cuối, một cú sập hầm muộn màng dành cho đội chủ nhà là điều hoàn toàn có thể lường trước.",
+        "outcome": "HT\/FT: Hòa-Thua"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                45,
+                55,
+                40,
+                65,
+                70
+            ],
+            "awayVal": [
+                65,
+                75,
+                60,
+                80,
+                70,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                45,
+                50,
+                45,
+                35,
+                25,
+                20
+            ],
+            "awayTrend": [
+                30,
+                35,
+                40,
+                55,
+                65,
+                80,
+                85
+            ]
+        }
+    }
+}
