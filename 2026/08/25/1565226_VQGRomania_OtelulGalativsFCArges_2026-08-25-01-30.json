@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1565226",
+        "comp": "VĐQG Romania",
+        "teams": "Otelul Galati vs FC Arges",
+        "time": "2026-08-25 01:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm cửa dưới FC Arges +0.25, thế trận phòng ngự phản công sẽ lên ngôi.",
+    "directions": [
+        "Kèo Châu Á: Dưới thắng (FC Arges +0.25) (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Kèo HT\/FT: Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Sự bế tắc của hàng công chủ nhà đối đầu với khối bê tông lùi sâu của đội khách sẽ bóp nghẹt mọi cơ hội ghi bàn."
+        },
+        "scoreline": [
+            "0-0",
+            "0-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1565226",
+        "comp": "VĐQG Romania",
+        "home": "Otelul Galati",
+        "away": "FC Arges",
+        "kickoff": "01:30",
+        "highlight": "Giằng Co",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1565226,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "FC Arges có phong độ cao và hàng thủ lỳ lợm, đủ sức cầm hòa hoặc thắng ngược."
+        },
+        "exact": {
+            "pick": [
+                "0-0",
+                "0-1"
+            ],
+            "note": "Thế trận bế tắc, khô hạn bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Hai đội chơi chặt chẽ, khó có nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 tiếp tục giằng co."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                69,
+                64,
+                57,
+                44,
+                50,
+                60
+            ],
+            "awayVal": [
+                79,
+                52,
+                49,
+                52,
+                50,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                40,
+                30,
+                60,
+                70
+            ],
+            "awayTrend": [
+                40,
+                50,
+                40,
+                30,
+                40,
+                60,
+                80
+            ]
+        }
+    }
+}
