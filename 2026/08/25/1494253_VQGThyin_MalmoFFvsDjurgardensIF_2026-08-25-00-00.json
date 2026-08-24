@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1494253",
+        "comp": "VĐQG Thụy Điển",
+        "teams": "Malmo FF vs Djurgardens IF",
+        "time": "2026-08-25 00:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Djurgardens IF từ hòa đến thắng nhờ hỏa lực sân khách áp đảo và hàng thủ chắp vá của chủ nhà.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Djurgardens IF +0) (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thua (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ Malmo FF sứt mẻ nghiêm trọng đối đầu với hỏa lực xG 2.01 của Djurgardens IF đảm bảo một trận cầu nhiều bàn thắng."
+        },
+        "scoreline": [
+            "1-2",
+            "2-2"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Thua-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1494253",
+        "comp": "VĐQG Thụy Điển",
+        "home": "Malmo FF",
+        "away": "Djurgardens IF",
+        "kickoff": "00:00",
+        "highlight": "Đại Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1494253,
+        "handicap": {
+            "spread": "+0",
+            "pick": "Dưới thắng",
+            "note": "Djurgardens IF tận dụng tốt lỗ hổng hàng thủ chủ nhà"
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "2-2"
+            ],
+            "note": "Khách áp đảo hỏa lực"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Phòng ngự lỏng lẻo từ hai phía"
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Khách bứt tốc hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi xG nảy tưng tưng rống họng báo hiệu cục diện 'Xỉu' trơ xương cực kỳ mỏng manh. Dù Malmo FF có lợi thế sân nhà, nhưng rào chắn sau lưng hở bung toác cống (xGA > 1.5). Chỉ cần đứt dây văng một trái rớt mâm trong hiệp 1, tụt máu kéo nhịp dồn ép là xăm xăm rửng mỡ lao vào loạn đả vỡ đê.",
+        "outcome": "Tổng bàn 4+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                50,
+                80,
+                60,
+                75,
+                80
+            ],
+            "awayVal": [
+                85,
+                65,
+                75,
+                70,
+                60,
+                85
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                45,
+                60,
+                55,
+                70,
+                65
+            ],
+            "awayTrend": [
+                30,
+                45,
+                60,
+                50,
+                75,
+                85,
+                90
+            ]
+        }
+    }
+}
