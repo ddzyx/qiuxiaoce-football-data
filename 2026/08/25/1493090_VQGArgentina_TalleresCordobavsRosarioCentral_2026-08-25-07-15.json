@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1493090",
+        "comp": "VĐQG Argentina",
+        "teams": "Talleres Cordoba vs Rosario Central",
+        "time": "2026-08-25 07:15"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Nằm cửa dưới Rosario Central và đánh Xỉu là chiến lược tối ưu dựa trên sự lỳ lợm của hàng thủ đội khách và sự bế tắc của chủ nhà.",
+    "directions": [
+        "Kịch bản Xỉu 2.5 bàn (Tín Nhiệm Cao, Độ Dày Giá Trị Trung Bình)",
+        "Kịch bản Rosario Central +0 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Kịch bản Tỷ số 0-1 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không (BTTS-No)",
+            "rationale": "Hàng công sứt mẻ của chủ nhà khó xuyên thủng hàng thủ thép của khách, trong khi khách cũng mệt mỏi không mặn mà ghi nhiều bàn."
+        },
+        "scoreline": [
+            "0-1",
+            "1-1"
+        ],
+        "halftime": [
+            "Hòa-Thua",
+            "Hòa-Hòa"
+        ]
+    },
+    "analysis": {
+        "code": "1493090",
+        "comp": "VĐQG Argentina",
+        "home": "Talleres Cordoba",
+        "away": "Rosario Central",
+        "kickoff": "07:15",
+        "highlight": "Khát Điểm",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1493090,
+        "handicap": {
+            "spread": "0",
+            "pick": "Dưới thắng",
+            "note": "Khách phòng ngự phản công sắc bén"
+        },
+        "exact": {
+            "pick": [
+                "0:1",
+                "1:1"
+            ],
+            "note": "Khách chớp thời cơ ghi bàn duy nhất"
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Thế trận giằng co ít bàn thắng"
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "1-1"
+            ],
+            "note": "Khách giải quyết trận đấu hiệp hai"
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                58,
+                38,
+                42,
+                48,
+                30,
+                80
+            ],
+            "awayVal": [
+                51,
+                47,
+                47,
+                50,
+                41,
+                70
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                40,
+                30,
+                20,
+                10
+            ],
+            "awayTrend": [
+                20,
+                30,
+                40,
+                50,
+                60,
+                80,
+                90
+            ]
+        }
+    }
+}
