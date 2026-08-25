@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1507041",
+        "comp": "K League 1",
+        "teams": "Jeju United vs Pohang Steelers",
+        "time": "2026-08-25 17:30"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Jeju United tận dụng lợi thế sân nhà và sự khủng hoảng của Pohang Steelers để giành chiến thắng sát nút.",
+    "directions": [
+        "Kèo Chấp Châu Á: Jeju United -0.25 (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Hiệp 1\/Cả Trận: Hòa-Thắng (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ Pohang đang bộc lộ nhiều sai lầm, trong khi hàng công của họ vẫn có khả năng tạo đột biến để ghi bàn danh dự."
+        },
+        "scoreline": [
+            "2-1",
+            "1-1"
+        ],
+        "halftime": [
+            "1-3",
+            "1-1"
+        ]
+    },
+    "analysis": {
+        "code": "1507041",
+        "comp": "K League 1",
+        "home": "Jeju United",
+        "away": "Pohang Steelers",
+        "kickoff": "17:30",
+        "highlight": "Khủng Hoảng",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1507041,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Trên thắng",
+            "note": "Jeju United có lợi thế sân nhà và tâm lý tốt hơn hẳn đối thủ đang chìm trong khủng hoảng."
+        },
+        "exact": {
+            "pick": [
+                "2-1",
+                "1-1"
+            ],
+            "note": "Jeju United thắng sát nút hoặc bị cầm hòa trong thế trận giằng co."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Hàng thủ lỏng lẻo của Pohang sẽ tạo điều kiện cho một trận cầu nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "1-1"
+            ],
+            "note": "Jeju United tăng tốc ở hiệp hai để kết liễu đối thủ."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                75,
+                40,
+                65,
+                60,
+                80
+            ],
+            "awayVal": [
+                75,
+                45,
+                60,
+                30,
+                70,
+                50
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                50,
+                55,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                50,
+                60,
+                55,
+                45,
+                40,
+                30,
+                20
+            ]
+        }
+    }
+}
