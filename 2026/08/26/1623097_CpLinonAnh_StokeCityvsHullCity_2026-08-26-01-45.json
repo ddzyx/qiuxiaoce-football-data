@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1623097",
+        "comp": "Cúp Liên đoàn Anh",
+        "teams": "Stoke City vs Hull City",
+        "time": "2026-08-26 01:45"
+    },
+    "level": "Thấp (Speculative)",
+    "mainPick": "Nằm cửa Hull City là lựa chọn an toàn nhất khi hàng thủ Stoke City đang khủng hoảng.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Tín Nhiệm Thấp, Giá Trị Trung Bình)",
+        "Kèo Tài Xỉu: Tài 2.5 (Tín Nhiệm Thấp, Giá Trị Trung Bình)",
+        "Hiệp 1\/Toàn Trận: Hòa-Thua (Tín Nhiệm Thấp, Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có (BTTS-Yes)",
+            "rationale": "Hàng thủ Stoke City đang bộc lộ nhiều khoảng trống, trong khi Hull City tấn công sắc bén."
+        },
+        "scoreline": [
+            "1-2",
+            "1-3"
+        ],
+        "halftime": [
+            "1-0",
+            "0-0"
+        ]
+    },
+    "analysis": {
+        "code": "1623097",
+        "comp": "Cúp Liên đoàn Anh",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "kickoff": "01:45",
+        "highlight": "Bầy Hổ Gầm",
+        "confidence": "Thấp (Speculative)",
+        "fid": 1623097,
+        "handicap": {
+            "spread": 0,
+            "pick": "Dưới thắng",
+            "note": "Hull City có phong độ và chất lượng đội hình nhỉnh hơn, đủ sức giành chiến thắng."
+        },
+        "exact": {
+            "pick": [
+                "1-2",
+                "1-3"
+            ],
+            "note": "Hàng thủ Stoke City lỏng lẻo sẽ tạo điều kiện cho Hull City ghi nhiều bàn."
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Cả hai đội đều có xu hướng chơi cởi mở, dễ nổ nhiều bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-0",
+                "0-0"
+            ],
+            "note": "Stoke City có thể cầm cự hiệp một nhưng sẽ gục ngã ở hiệp hai."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực Hai Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                60,
+                50,
+                70,
+                40,
+                65,
+                75
+            ],
+            "awayVal": [
+                75,
+                65,
+                60,
+                80,
+                85,
+                90
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                60,
+                70,
+                80
+            ],
+            "awayTrend": [
+                40,
+                50,
+                60,
+                65,
+                75,
+                85,
+                90
+            ]
+        }
+    }
+}
