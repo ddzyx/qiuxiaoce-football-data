@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1610924",
+        "comp": "Cúp C1 Châu Âu",
+        "teams": "LASK Linz vs Celtic",
+        "time": "2026-08-26 02:00"
+    },
+    "level": "Kèo Lạnh (Value Upset)",
+    "mainPick": "Trận đấu sẽ bùng nổ bàn thắng khi chủ nhà dâng cao và khách phản công sắc lẹm",
+    "directions": [
+        "Tài 2.5 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Celtic +0.5 (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Cao)",
+        "Hòa-Hòa (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Tài 2.5",
+            "btts": "Có",
+            "rationale": "LASK Linz buộc phải tấn công tổng lực để tìm bàn gỡ, tạo khoảng trống cho Celtic khai thác"
+        },
+        "scoreline": [
+            "2-2",
+            "1-2"
+        ],
+        "halftime": [
+            "1-1",
+            "1-0"
+        ]
+    },
+    "analysis": {
+        "code": "1610924",
+        "comp": "Cúp C1 Châu Âu",
+        "home": "LASK Linz",
+        "away": "Celtic",
+        "kickoff": "02:00",
+        "highlight": "Đôi Công",
+        "confidence": "Kèo Lạnh (Value Upset)",
+        "fid": 1610924,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Dưới thắng",
+            "note": "Celtic phản công sắc bén, LASK Linz khó thắng cách biệt"
+        },
+        "exact": {
+            "pick": [
+                "2-2",
+                "1-2"
+            ],
+            "note": "Thế trận đôi công cởi mở, hai đội chia điểm hoặc khách thắng sát nút"
+        },
+        "overUnder": {
+            "pick": "Tài",
+            "line": "2.5",
+            "note": "Chủ nhà dâng cao để lộ khoảng trống, bàn thắng sẽ nổ liên tục"
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Giằng co hiệp 1, bùng nổ hiệp 2"
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Máy nội soi dữ liệu đang réo lên từng hồi khi thị trường Tài Xỉu liên tục bị ép giá xuống. Hàng thủ chắp vá của Celtic cộng với việc LASK Linz dốc toàn lực tấn công sẽ biến khu vực cấm địa thành chảo lửa. Đề phòng bão bàn thắng ập đến.",
+        "outcome": "Tổng bàn 4+"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                70,
+                60,
+                55,
+                75,
+                65,
+                90
+            ],
+            "awayVal": [
+                85,
+                70,
+                65,
+                85,
+                80,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                80,
+                70,
+                60,
+                50,
+                65,
+                85,
+                90
+            ],
+            "awayTrend": [
+                40,
+                50,
+                60,
+                70,
+                80,
+                85,
+                95
+            ]
+        }
+    }
+}
