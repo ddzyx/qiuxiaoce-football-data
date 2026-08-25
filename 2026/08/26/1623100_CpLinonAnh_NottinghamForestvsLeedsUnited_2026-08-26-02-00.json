@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1623100",
+        "comp": "Cúp Liên đoàn Anh",
+        "teams": "Nottingham Forest vs Leeds United",
+        "time": "2026-08-26 02:00"
+    },
+    "level": "Thấp",
+    "mainPick": "Nằm cửa dưới Leeds United an toàn hơn khi chủ nhà Nottingham Forest mất đi nhạc trưởng Gibbs-White và bế tắc trong tấn công.",
+    "directions": [
+        "Kèo Chấp Châu Á: Dưới thắng (Leeds United +0.25) (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)",
+        "Kèo Tài Xỉu: Xỉu 2.5 (Tín Nhiệm Thấp, Độ Dày Giá Trị Trung Bình)",
+        "Tỷ Số Đơn Điệu: Hòa 1-1 (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Có",
+            "rationale": "Thế trận chặt chẽ do xoay tua, nhưng sai lầm cá nhân có thể giúp cả hai đội đều có bàn thắng."
+        },
+        "scoreline": [
+            "1-1",
+            "0-1"
+        ],
+        "halftime": [
+            "Hòa-Hòa",
+            "Hòa-Thua"
+        ]
+    },
+    "analysis": {
+        "code": "1623100",
+        "comp": "Cúp Liên đoàn Anh",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "kickoff": "02:00",
+        "highlight": "Cúp Liên đoàn",
+        "confidence": "Thấp",
+        "fid": 1623100,
+        "handicap": {
+            "spread": "-0.25",
+            "pick": "Dưới thắng",
+            "note": "Leeds United phòng ngự phản công sắc bén, Forest mất nhạc trưởng bế tắc."
+        },
+        "exact": {
+            "pick": [
+                "1-1",
+                "0-1"
+            ],
+            "note": "Thế trận giằng co, ít bàn thắng."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Cả hai xoay tua, hàng công thiếu vắng trụ cột."
+        },
+        "htft": {
+            "pick": [
+                "1-1",
+                "1-0"
+            ],
+            "note": "Hiệp 1 thăm dò, hiệp 2 định đoạt."
+        }
+    },
+    "riskAlert": {
+        "triggered": false,
+        "risk": null,
+        "outcome": null
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                65,
+                70,
+                75,
+                60,
+                80,
+                70
+            ],
+            "awayVal": [
+                75,
+                75,
+                65,
+                85,
+                70,
+                80
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                30,
+                40,
+                45,
+                50,
+                60,
+                75,
+                85
+            ],
+            "awayTrend": [
+                40,
+                45,
+                50,
+                55,
+                65,
+                80,
+                70
+            ]
+        }
+    }
+}
