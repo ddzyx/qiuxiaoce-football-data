@@ -1,0 +1,128 @@
+{
+    "info": {
+        "code": "1623449",
+        "comp": "UEFA Europa League",
+        "teams": "Omonia vs Sint-Truidense",
+        "time": "2026-08-28 00:00"
+    },
+    "level": "Trung Bình (Moderate)",
+    "mainPick": "Omonia tận dụng lợi thế sân nhà và việc đối thủ xoay tua lực lượng để giành chiến thắng, lật ngược thế cờ sau thất bại ở lượt đi.",
+    "directions": [
+        "Omonia dồn ép liên tục và có bàn thắng định đoạt trong hiệp 2 (Tín Nhiệm Cao, Độ Dày Giá Trị Cao)",
+        "Sint-Truidense tử thủ thành công, kéo trận đấu vào thế giằng co ít bàn thắng (Tín Nhiệm Trung Bình, Độ Dày Giá Trị Trung Bình)",
+        "Omonia bế tắc và dính đòn phản công muộn của đội khách (Tín Nhiệm Thấp, Độ Dày Giá Trị Cao)"
+    ],
+    "forecasts": {
+        "ouAndBtts": {
+            "ou": "Xỉu 2.5",
+            "btts": "Không",
+            "rationale": "Omonia dứt điểm kém cỏi trong khi Sint-Truidense chủ động đổ bê tông phòng ngự, khiến trận đấu khó xuất hiện nhiều bàn thắng và kịch bản một đội tịt ngòi rất dễ xảy ra."
+        },
+        "scoreline": [
+            "1-0",
+            "2-0"
+        ],
+        "halftime": [
+            "Hòa-Thắng",
+            "Thắng-Thắng"
+        ]
+    },
+    "analysis": {
+        "code": "1623449",
+        "comp": "UEFA Europa League",
+        "home": "Omonia",
+        "away": "Sint-Truidense",
+        "kickoff": "00:00",
+        "highlight": "Sinh Tử Chiến",
+        "confidence": "Trung Bình (Moderate)",
+        "fid": 1623449,
+        "handicap": {
+            "spread": "-0.5",
+            "pick": "Trên thắng",
+            "note": "Chủ nhà tận dụng lợi thế sân bãi và động lực thi đấu để vượt qua đối thủ đang bị phân tâm."
+        },
+        "exact": {
+            "pick": [
+                "1-0",
+                "2-0"
+            ],
+            "note": "Thế trận giằng co, chủ nhà giải quyết đối thủ bằng cách biệt tối thiểu."
+        },
+        "overUnder": {
+            "pick": "Xỉu",
+            "line": "2.5",
+            "note": "Khách tử thủ bảo vệ thành quả, chủ nhà dứt điểm kém, khó có mưa bàn thắng."
+        },
+        "htft": {
+            "pick": [
+                "1-3",
+                "3-3"
+            ],
+            "note": "Chủ nhà tăng tốc trong hiệp hai để kết liễu trận đấu."
+        }
+    },
+    "riskAlert": {
+        "triggered": true,
+        "risk": "Dữ liệu phân bổ bàn thắng chỉ ra một điểm mù cực kỳ nguy hiểm: Sint-Truidense ghi tới 32.2% số bàn thắng trong khoảng thời gian từ phút 76 đến 90, trong khi Omonia cũng để lọt lưới 30% số bàn thua ở cùng khung giờ này. Nếu Omonia dâng cao đội hình tìm bàn gỡ hoặc mải mê tấn công khi thể lực suy giảm, họ rất dễ dính đòn hồi mã thương chí mạng từ những pha phản công muộn của đội khách.",
+        "outcome": "HT\/FT: Hòa-Thắng"
+    },
+    "charts": {
+        "radar": {
+            "name": "Bàn Cân Lõi Chiến Lực 2 Phe",
+            "axis": [
+                "Tấn Công",
+                "Phòng Ngự",
+                "Cầm Trịch",
+                "Phong Độ",
+                "Giá Trị Băng Ghế",
+                "Nhiệt Điên Trận"
+            ],
+            "homeVal": [
+                75,
+                70,
+                80,
+                60,
+                50,
+                95
+            ],
+            "awayVal": [
+                65,
+                75,
+                40,
+                70,
+                85,
+                60
+            ]
+        },
+        "momentum": {
+            "name": "Bản Đồ Thần Kinh Sóng Đâm Lưới Xuyên Trận",
+            "labels": [
+                "0'",
+                "15'",
+                "30'",
+                "45'",
+                "60'",
+                "75'",
+                "90'"
+            ],
+            "homeTrend": [
+                40,
+                50,
+                60,
+                55,
+                70,
+                85,
+                90
+            ],
+            "awayTrend": [
+                30,
+                25,
+                20,
+                35,
+                40,
+                60,
+                75
+            ]
+        }
+    }
+}
