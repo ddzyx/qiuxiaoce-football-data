@@ -11,7 +11,9 @@ import urllib.parse
 import urllib.request
 
 BASE_URL = "https://www.qiuxiaoce.com/wp-json/abv2-creator/v1"
-USER_AGENT = "QiuXiaoCe-Skill-Agent/2.4.3"
+USER_AGENT = "QiuXiaoCe-Skill-Agent/2.5.0"
+
+from local_store import LocalStore
 
 
 def get_api_key(cli_key=None):
@@ -76,6 +78,9 @@ def main():
         params["date"] = args.date.strip()
 
     response = http_get("/posts", key, params)
+    if isinstance(response, dict) and not response.get("error") and isinstance(response.get("data"), list):
+        # 研报摘要落事实表：已购历史研报构成用户本地复盘数据集
+        LocalStore().save_reports(response["data"])
     print(json.dumps(response, ensure_ascii=False, indent=2))
     return 1 if isinstance(response, dict) and response.get("error") else 0
 

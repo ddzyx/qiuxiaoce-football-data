@@ -20,7 +20,7 @@ from datetime import datetime
 
 VERSION_URL = "https://www.qiuxiaoce.com/wp-json/abv2-creator/v1/skill/version"
 DOWNLOAD_URL = "https://www.qiuxiaoce.com/wp-json/abv2-creator/v1/skill/download"
-USER_AGENT = "QiuXiaoCe-Skill-Updater/2.4.3"
+USER_AGENT = "QiuXiaoCe-Skill-Updater/2.5.0"
 ALLOWED_EXTENSIONS = {".md", ".py", ".json", ".txt"}
 MAX_FILE_BYTES = 2 * 1024 * 1024
 MAX_PACKAGE_BYTES = 20 * 1024 * 1024
@@ -29,8 +29,10 @@ REQUIRED_FILES = {
     "scripts/fetch_match.py",
     "scripts/query_backtest.py",
     "scripts/check_quota.py",
+    "scripts/local_store.py",
     "scripts/update_skill.py",
     "references/api_schema.json",
+    "references/api_endpoints.md",
 }
 STATE_FILENAME = ".qiuxiaoce-manifest.json"
 OVERRIDES_DIRNAME = "local-overrides"
@@ -258,7 +260,7 @@ def apply_update(skill_dir, staged_dir, user_modified, user_extra, remote_versio
 
         write_installed_state(skill_dir, remote_version, manifest)
 
-        for relative in ("scripts/fetch_match.py", "scripts/query_backtest.py", "scripts/check_quota.py", "scripts/update_skill.py"):
+        for relative in ("scripts/fetch_match.py", "scripts/query_backtest.py", "scripts/check_quota.py", "scripts/local_store.py", "scripts/update_skill.py"):
             path = os.path.join(skill_dir, *relative.split("/"))
             if os.path.isfile(path):
                 try:

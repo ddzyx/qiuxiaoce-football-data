@@ -12,7 +12,9 @@ import urllib.request
 from datetime import datetime
 
 BASE_URL = "https://www.qiuxiaoce.com/wp-json/abv2-creator/v1"
-USER_AGENT = "QiuXiaoCe-Skill-Agent/2.4.3"
+USER_AGENT = "QiuXiaoCe-Skill-Agent/2.5.0"
+
+from local_store import LocalStore
 
 
 def get_api_key(cli_key=None):
@@ -118,19 +120,37 @@ def main():
         return 1
 
     if args.pack:
-        response = http_get(f"/match-pack/{args.pack}", key)
+        store = LocalStore()
+        endpoint = f"/match-pack/{args.pack}"
+        response = store.get(endpoint)
+        source = "local"
+        if response is None:
+            response = http_get(endpoint, key)
+            source = "api"
+            if not response.get("error"):
+                store.set(endpoint, response)
+                pack = response.get("pack") if isinstance(response.get("pack"), dict) else {}
+                store.save_fixtures([pack], endpoint)
         if response.get("error"):
             print(json.dumps(response, ensure_ascii=False, indent=2))
             return 1
         output = response if args.raw else compact_pack(response)
+        output["_source"] = source  # local 表示本地缓存命中，未扣点
         print(json.dumps(output, ensure_ascii=False, indent=2))
         return 1 if output.get("error") else 0
 
     target_date = args.date or datetime.now().strftime("%Y-%m-%d")
-    response = http_get("/fixtures", key, {
-        "date": target_date,
-        "lottery_type": args.lottery_type,
-    })
+    store = LocalStore()
+    endpoint = "/fixtures"
+    params = {"date": target_date, "lottery_type": args.lottery_type}
+    response = store.get(endpoint, params)
+    source = "local"
+    if response is None:
+        response = http_get(endpoint, key, params)
+        source = "api"
+        if isinstance(response, dict) and not response.get("error"):
+            store.set(endpoint, response, params)
+            store.save_fixtures(response.get("data") or [], endpoint)
     if response.get("error"):
         print(json.dumps(response, ensure_ascii=False, indent=2))
         return 1
@@ -153,6 +173,7 @@ def main():
         "date": response.get("date", target_date),
         "count": len(fixtures),
         "fixtures": fixtures,
+        "_source": source,  # local 表示本地缓存命中，未扣点
         "note": "球队名称仅用于筛选候选项，后续查询必须使用 fixture_id。",
     }, ensure_ascii=False, indent=2))
     return 0

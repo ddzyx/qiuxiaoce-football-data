@@ -10,7 +10,7 @@ import urllib.error
 import urllib.request
 
 BASE_URL = "https://www.qiuxiaoce.com/wp-json/abv2-creator/v1"
-USER_AGENT = "QiuXiaoCe-Skill-Agent/2.4.3"
+USER_AGENT = "QiuXiaoCe-Skill-Agent/2.5.0"
 
 
 def get_api_key(cli_key=None):

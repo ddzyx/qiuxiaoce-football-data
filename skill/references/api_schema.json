@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "QiuXiaoCe Football Data API",
-    "version": "2.4.3",
+    "version": "2.6.0",
     "description": "球小策足球结构化数据接口。接口返回事实数据、衍生特征、已发布内容与历史样本；分析与表述由调用方模型完成。平台不提供投注建议或结果保证。具体扣点以后台当前配置与接口文档为准。"
   },
   "servers": [
@@ -283,16 +283,61 @@
     },
     "/fixtures": {
       "get": {
-        "summary": "按北京时间自然日查询比赛列表并定位 fixture_id",
+        "summary": "赛程列表，对照 API-Football GET /fixtures。支持 id/date/from+to/league/season/team/round/status/last/next。",
         "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {"type": "integer"}
+          },
           {
             "name": "date",
             "in": "query",
-            "description": "YYYY-MM-DD；缺省为北京时间今天。",
-            "schema": {
-              "type": "string",
-              "format": "date"
-            }
+            "description": "YYYY-MM-DD；无其他定位条件时默认北京时间今天。",
+            "schema": {"type": "string", "format": "date"}
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "schema": {"type": "string", "format": "date"}
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "schema": {"type": "string", "format": "date"}
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {"type": "integer"}
+          },
+          {
+            "$ref": "#/components/parameters/season"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {"type": "integer"}
+          },
+          {
+            "name": "round",
+            "in": "query",
+            "schema": {"type": "string"}
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {"type": "string"}
+          },
+          {
+            "name": "last",
+            "in": "query",
+            "schema": {"type": "integer", "minimum": 1, "maximum": 50}
+          },
+          {
+            "name": "next",
+            "in": "query",
+            "schema": {"type": "integer", "minimum": 1, "maximum": 50}
           },
           {
             "name": "lottery_type",
@@ -300,11 +345,7 @@
             "description": "all / zucai / beidan；默认 all。",
             "schema": {
               "type": "string",
-              "enum": [
-                "all",
-                "zucai",
-                "beidan"
-              ],
+              "enum": ["all", "zucai", "beidan"],
               "default": "all"
             }
           }
@@ -601,6 +642,63 @@
         }
       }
     },
+    "/teams/{team_id}/fixtures": {
+      "get": {
+        "summary": "获取球队逐场赛程历史（2008 年至今，支持赛季/联赛/状态过滤与分页）",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/teamId"
+          },
+          {
+            "$ref": "#/components/parameters/season"
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": ["finished", "upcoming", "all"],
+              "default": "finished"
+            },
+            "description": "finished=已完赛（默认），upcoming=未开赛，all=全部。"
+          },
+          {
+            "name": "league_id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            },
+            "description": "联赛过滤，0=不限。"
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 50,
+              "default": 20
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1000,
+              "default": 0
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "逐场赛程列表（含比分/半场/胜负平视角结果），按时间倒序，total 为过滤后总场数。"
+          }
+        }
+      }
+    },
     "/teams/{team_id}/statistics": {
       "get": {
         "summary": "获取球队赛季统计",
@@ -750,14 +848,39 @@
     },
     "/leagues": {
       "get": {
-        "summary": "获取联赛列表",
+        "summary": "获取联赛列表，支持关键词搜索",
         "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "description": "关键词搜索联赛中文名/英文名/别名（如「英超」），搜索时上限 20。",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "country",
+            "in": "query",
+            "description": "国家过滤（如 England、Spain）。",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "description": "类型过滤：League / Cup。",
+            "schema": {
+              "type": "string",
+              "enum": ["League", "Cup"]
+            }
+          },
           {
             "name": "limit",
             "in": "query",
             "schema": {
               "type": "integer",
-              "maximum": 200,
+              "maximum": 100,
               "default": 50
             }
           },
@@ -804,6 +927,123 @@
             "$ref": "#/components/responses/NotFound"
           }
         }
+      }
+    },
+    "/standings": {
+      "get": {
+        "summary": "积分榜（对照 API-Football GET /standings）",
+        "parameters": [
+          {"name": "league", "in": "query", "required": true, "schema": {"type": "integer"}},
+          {"$ref": "#/components/parameters/season"}
+        ],
+        "responses": {"200": {"description": "积分榜。"}}
+      }
+    },
+    "/leagues/{league_id}/teams": {
+      "get": {
+        "summary": "联赛参赛球队（对照 API-Football GET /teams?league=&season=）",
+        "parameters": [
+          {"$ref": "#/components/parameters/leagueId"},
+          {"$ref": "#/components/parameters/season"}
+        ],
+        "responses": {"200": {"description": "参赛球队列表。"}}
+      }
+    },
+    "/leagues/{league_id}/seasons": {
+      "get": {
+        "summary": "联赛赛季列表",
+        "parameters": [{"$ref": "#/components/parameters/leagueId"}],
+        "responses": {"200": {"description": "赛季列表。"}}
+      }
+    },
+    "/leagues/{league_id}/topscorers": {
+      "get": {
+        "summary": "联赛射手榜（对照 API-Football GET /players/topscorers）",
+        "parameters": [
+          {"$ref": "#/components/parameters/leagueId"},
+          {"$ref": "#/components/parameters/season"},
+          {"name": "limit", "in": "query", "schema": {"type": "integer", "minimum": 1, "maximum": 50, "default": 20}}
+        ],
+        "responses": {"200": {"description": "射手榜。"}}
+      }
+    },
+    "/leagues/{league_id}/topassists": {
+      "get": {
+        "summary": "联赛助攻榜（对照 API-Football GET /players/topassists）",
+        "parameters": [
+          {"$ref": "#/components/parameters/leagueId"},
+          {"$ref": "#/components/parameters/season"},
+          {"name": "limit", "in": "query", "schema": {"type": "integer", "minimum": 1, "maximum": 50, "default": 20}}
+        ],
+        "responses": {"200": {"description": "助攻榜。"}}
+      }
+    },
+    "/leagues/{league_id}/fixtures": {
+      "get": {
+        "summary": "获取联赛赛季逐场赛果（默认最新赛季，支持轮次过滤与分页）",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/leagueId"
+          },
+          {
+            "$ref": "#/components/parameters/season"
+          },
+          {
+            "name": "round",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "description": "轮次过滤（可选，如 Regular Season - 12）。"
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 50,
+              "default": 20
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 2000,
+              "default": 0
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "赛季逐场赛果（按开赛时间升序），season 为实际查询赛季，total 为该过滤条件总场数。"
+          }
+        }
+      }
+    },
+    "/fixtures/{fixture_id}": {
+      "get": {
+        "summary": "获取单场比赛详情（基础信息 + 半场/全场/加时/点球完整比分）",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/fixtureId"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "比赛详情，含场馆、裁判、轮次、赛季与四段比分结构。"
+          }
+        }
+      }
+    },
+    "/fixtures/{fixture_id}/players": {
+      "get": {
+        "summary": "单场球员统计（对照 API-Football GET /fixtures/players）",
+        "parameters": [{"$ref": "#/components/parameters/fixtureId"}],
+        "responses": {"200": {"description": "按球队分组的球员逐场统计。"}}
       }
     },
     "/fixtures/{fixture_id}/stats": {
@@ -858,6 +1098,33 @@
             "$ref": "#/components/responses/NotFound"
           }
         }
+      }
+    },
+    "/fixtures/{fixture_id}/quotes": {
+      "get": {
+        "summary": "单场市场参考值快照（对照 API-Football GET /odds，合规口径）",
+        "description": "返回公开市场参考值（胜平负 / 让球 / 进球数等）。仅供赛事信息研究，不构成投注建议。",
+        "parameters": [
+          {"$ref": "#/components/parameters/fixtureId"},
+          {
+            "name": "group",
+            "in": "query",
+            "schema": {"type": "string", "enum": ["result", "spread", "totals", "both_teams", "score", "halftime", "all"]}
+          }
+        ],
+        "responses": {"200": {"description": "市场参考值快照。"}}
+      }
+    },
+    "/fixtures/{fixture_id}/quotes/history": {
+      "get": {
+        "summary": "单场市场参考值历史",
+        "description": "公开参考值随时间的变化，不构成投注建议。",
+        "parameters": [
+          {"$ref": "#/components/parameters/fixtureId"},
+          {"name": "group", "in": "query", "schema": {"type": "string"}},
+          {"name": "limit", "in": "query", "schema": {"type": "integer", "minimum": 1, "maximum": 200, "default": 80}}
+        ],
+        "responses": {"200": {"description": "市场参考值时间序列。"}}
       }
     },
     "/fixtures/{fixture_id}/market": {
@@ -1048,41 +1315,86 @@
         }
       }
     },
-    "/qa": {
+    "/transfers": {
       "get": {
-        "summary": "获取球队、联赛或球员实体 QA 知识卡",
+        "summary": "转会记录（team / player 二选一必填；team 模式返回转入+转出并附 direction 标记）",
         "parameters": [
           {
-            "name": "entity_type",
+            "name": "team",
             "in": "query",
-            "required": true,
             "schema": {
-              "type": "string",
-              "enum": [
-                "team",
-                "league",
-                "player"
-              ]
+              "type": "integer"
+            },
+            "description": "球队 ID。"
+          },
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "description": "球员 ID。"
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 50
             }
           },
           {
-            "name": "entity_id",
+            "name": "offset",
             "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 500,
+              "default": 0
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "转会记录列表（date/type/season/team_in/team_out）。"
+          }
+        }
+      }
+    },
+    "/coaches/{id}": {
+      "get": {
+        "summary": "教练详情 + 执教履历",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
             "required": true,
             "schema": {
               "type": "integer"
-            }
-          },
+            },
+            "description": "教练 ID（可由 /teams/{id}/coach 获得）。"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "教练档案与 career[] 执教履历（含 is_current）。"
+          }
+        }
+      }
+    },
+    "/referees": {
+      "get": {
+        "summary": "裁判搜索（英文姓名模糊匹配）",
+        "parameters": [
           {
-            "name": "lang",
+            "name": "q",
             "in": "query",
+            "required": true,
             "schema": {
               "type": "string",
-              "enum": [
-                "zh",
-                "vi"
-              ],
-              "default": "zh"
+              "minLength": 2
             }
           },
           {
@@ -1098,7 +1410,28 @@
         ],
         "responses": {
           "200": {
-            "description": "实体 QA 数据。"
+            "description": "裁判列表（referee_id/name/nationality/age/photo）。"
+          }
+        }
+      }
+    },
+    "/referees/{id}": {
+      "get": {
+        "summary": "裁判详情 + 执法数据（场均黄红牌聚合 + 最近 10 场）",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            },
+            "description": "裁判 ID（由 /referees?q= 搜索获得）。"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "裁判档案、career 执法聚合与 recent_matches。"
           }
         }
       }

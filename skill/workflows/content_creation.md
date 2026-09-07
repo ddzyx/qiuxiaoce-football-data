@@ -1,37 +1,47 @@
 # 内容创作（content_creation）
 
-## 适用意图
+## 1. 适用意图与反例
 
-用户要基于球小策数据产出内容：文章、短视频脚本、简报、提示词等。
+适用：基于数据产出可发布内容——文章、短视频脚本、社群简报、复盘报告、定制提示词。"写一篇公众号"、"做个短视频脚本"、"给我今天的赛事简报"。
 
-## 模板路由
+不适用：只要数据事实（直接答，不套模板）；极简赛前分析报告（走 match_query + simple_match_brief.md）。
 
-根据用户要的成品类型加载对应模板，不要一次加载全部：
+## 2. 参数识别
 
-| 用户要的东西 | 加载文件 |
+确认两件事（缺则一次问全）：
+1. **成品类型**：文章 / 视频脚本 / 简报 / 复盘报告 / 提示词；
+2. **内容范围**：具体某场 / 当日综述 / 某主题复盘。
+
+## 3. 取数步骤（本地优先）
+
+| 内容范围 | 取数路径 |
 |:---|:---|
-| 战术与赛前资料整理 | `templates/template_tactical.md` |
-| 短视频信息脚本 | `templates/template_video.md` |
-| 公众号或专栏文章 | `templates/template_article.md` |
-| 社群赛事简报 | `templates/template_bulletin.md` |
-| 历史样本评估报告 | `templates/template_backtest.md` |
-| 定制专属分析提示词 | `prompts/prompt_optimizer.md` |
+| 具体某场 | match_query.md 取 Match-Pack（50 点） |
+| 当日综述 | today_content.md 取 digest（5 点） |
+| 复盘类 | backtest.md 取历史样本 |
 
-## 执行步骤
+数据先于模板：先拿到数据，确认数据量够支撑成品类型，再加载模板。
 
-1. 识别成品类型，加载对应模板；
-2. 识别内容涉及的比赛或主题：
-   - 具体某场 → 按 `match_query.md` 获取 Match-Pack；
-   - 当日综述类 → 按 `today_content.md` 获取摘要与研报；
-   - 复盘类 → 按 `backtest.md` 获取历史样本；
-3. 按模板结构组织内容，只使用接口实际返回的数据；
-4. 完稿检查：
-   - 区分事实、预测字段、衍生评分；
-   - 无博彩黑话、无煽动性话术、无结果承诺；
-   - 文末附来源声明（见 SKILL.md 公共约定）；
-5. 输出前向用户说明数据日期与缺失字段。
+## 4. 模板路由（按需加载一个）
 
-## 注意
+| 成品 | 加载文件 |
+|:---|:---|
+| 公众号/专栏文章 | `templates/template_article.md` |
+| 短视频脚本 | `templates/template_video.md` |
+| 社群简报 | `templates/template_bulletin.md` |
+| 战术资料整理 | `templates/template_tactical.md` |
+| 复盘报告 | `templates/template_backtest.md` |
+| 定制分析提示词 | `prompts/prompt_optimizer.md` |
 
-- 模板是结构框架，不是填空模具；根据实际数据丰俭调整篇幅；
-- 用户要自己风格的提示词时，走 `prompts/prompt_optimizer.md`，不直接替用户发明规则。
+模板是结构框架不是填空模具，按数据丰俭调整篇幅。
+
+## 5. 合规红线
+
+见 SKILL.md 第 6 节。额外：无煽动性话术、无红黑榜、无结果承诺；文末附来源声明。
+
+## 6. 完成自检
+
+- [ ] 只使用了接口实际返回的数据？
+- [ ] 事实 / 预测字段 / 衍生评分已区分？
+- [ ] 来源声明已附？
+- [ ] 数据日期与缺失字段已向用户说明？
