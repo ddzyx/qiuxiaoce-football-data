@@ -1,8 +1,84 @@
 {
   "meta": {
-    "slug": "20260929-spain-vs-croatia",
-    "source_url": "https://xgmind.com/matches/20260929-spain-vs-croatia/"
+    "fixture_id": 1528909,
+    "matchup": "Spain vs Croatia",
+    "home_team": "Spain",
+    "away_team": "Croatia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-29 18:45:00",
+    "source_url": "https://xgmind.com/matches/20260929-spain-vs-croatia/",
+    "terminal": "XG Mind AI"
   },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528909",
+      "matchup": "Spain vs Croatia",
+      "matchTime": "2026-09-29 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Spain will utilize their superior wide attacking depth and sustained territorial control to overcome a depleted Croatian defense in a 2:1 victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Croatia's experienced midfield maintains early equilibrium before Spain's bench depth secures the second-half breakthrough.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Spain's dynamic wing play and squad depth will ultimately wear down Croatia's injury-hit defensive flanks.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "High attacking efficiency from Spain combined with Croatia's counter-punching capacity points to a 2 to 3 goal outcome.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A competitive clash converging on a 2:1 victory as Croatia tests Spain's high line but succumbs to relentless pressure.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528909",
+      "awayTeam": "Croatia",
+      "homeTeam": "Spain",
+      "fixtureId": 1528909,
+      "match_time": "18:45",
+      "ai_confidence": "Moderate",
+      "match_highlight": "World champions Spain host resilient Croatia in Seville showdown"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Spain Full-Time Victory via wide overload penetration (Confidence: Moderate, Value: High)",
+      "Total Goals Over 2.5 driven by transition exchanges (Confidence: Moderate, Value: Moderate)",
+      "Narrow one-goal margin outcome favoring Spain (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:55:03 UTC",
   "result": {
     "fulltime_score": "4-1",
     "halftime_score": "2-1",
