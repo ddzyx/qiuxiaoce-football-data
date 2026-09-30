@@ -1,4 +1,4 @@
-# Scotland U21 vs Azerbaijan U21 — AI Match Intelligence
+# Scotland U21 vs Azerbaijan U21 Prediction & Match Analysis: Tony Docherty Debut & Defensive Resiliency — Scoreline & xG Preview
 
 > **Competition**: UEFA U21 Championship - Qualification
 > **Kickoff**: 2026-10-01 02:30 UTC
