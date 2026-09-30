@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350183,
+    "matchup": "Malta U21 vs Germany U21",
+    "home_team": "Malta U21",
+    "away_team": "Germany U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-30 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-malta-u21-vs-germany-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350183",
+      "matchup": "Malta U21 vs Germany U21",
+      "matchTime": "2026-09-30 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "0:4",
+        "0:3"
+      ],
+      "totalGoals": [
+        "4",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Germany U21 will dominate territory and chance creation to secure an emphatic multi-goal away victory while keeping a clean sheet against Malta U21.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Germany expected to seize territorial control from the opening whistle or break through decisively.",
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Germany U21 possesses overwhelming technical superiority and must win to maintain first place in Group F.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "High German shot volume converging on three to four goals with Malta scoreless.",
+        "selection": [
+          "4",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Germany's 3.65 expected goals against Malta's 4.0 conceded goals per match baseline.",
+        "selection": [
+          "0:4",
+          "0:3"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350183",
+      "awayTeam": "Germany U21",
+      "homeTeam": "Malta U21",
+      "fixtureId": 1350183,
+      "match_time": "16:00",
+      "ai_confidence": "High",
+      "match_highlight": "Germany seeks qualification top spot against bottom-placed Malta U21"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Germany U21 to win with multi-goal margin (Confidence: High, Value: High)",
+      "Total goals over 2.5 with 3 to 4 goals projected (Confidence: High, Value: High)",
+      "Germany U21 clean sheet win (0:3 or 0:4) (Confidence: High, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:59:32 UTC"
+}
