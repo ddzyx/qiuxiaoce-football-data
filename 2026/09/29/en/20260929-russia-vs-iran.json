@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1632350,
+    "matchup": "Russia vs Iran",
+    "home_team": "Russia",
+    "away_team": "Iran",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-29 16:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-russia-vs-iran/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1632350",
+      "matchup": "Russia vs Iran",
+      "matchTime": "2026-09-29 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Russia should capitalize on midfield superiority and home territory in Kazan to edge Iran 2:1.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Iran's initial defensive compactness should hold until halftime before Russia accelerate after the break.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Russia's superior ball circulation and home advantage should narrowly overcome Iran's transitional threat.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Both attacking units possess sufficient efficiency to produce between two and three total goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory represents the prime statistical convergence point, with 1:1 as the tactical hedge.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1632350",
+      "awayTeam": "Iran",
+      "homeTeam": "Russia",
+      "fixtureId": 1632350,
+      "match_time": "16:00",
+      "ai_confidence": "Low",
+      "match_highlight": "Azmoun's Kazan return faces Russia's Golovin-led midfield engine."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Russia victory anchored by central midfield playmaking through Golovin (Confidence: Low, Value: Moderate)",
+      "High chance of both teams finding the scoresheet leading to Over 2.5 goals (Confidence: Low, Value: Moderate)",
+      "Defensive resilience from Iran forcing a 1:1 stalemate if Russian finishing falters (Confidence: Low, Value: Low)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:54:10 UTC"
+}
