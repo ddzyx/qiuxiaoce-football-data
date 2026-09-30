@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1640069,
+    "matchup": "Poland U17 vs Georgia U17",
+    "home_team": "Poland U17",
+    "away_team": "Georgia U17",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 09:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-poland-u17-vs-georgia-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1640069",
+      "matchup": "Poland U17 vs Georgia U17",
+      "matchTime": "2026-09-30 09:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Poland U17 to leverage home advantage and wing-back superiority to secure an outright victory in a high-tempo match.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Georgia will compete hard early before Poland's depth breaks the game open in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Poland's superior tournament form and offensive depth favor an outright home victory.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three goals represent the primary statistical convergence point in open youth tournament play.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 victory reflects the natural convergence of Poland's attacking output and slight defensive vulnerability.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1640069",
+      "awayTeam": "Georgia U17",
+      "homeTeam": "Poland U17",
+      "fixtureId": 1640069,
+      "match_time": "09:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Syrenka Cup final clash featuring Polish wing-back overloads versus Georgian counter-attacks"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Poland U17 regulation victory driven by sustained offensive pressure and superior squad depth (Confidence: Moderate, Value: Moderate)",
+      "Total match goals exceeding 2.5 based on high-tempo transition dynamics and tournament scoring trends (Confidence: Moderate, Value: High)",
+      "Low-scoring draw contingency if Georgian low block frustrates Polish progression (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:57:29 UTC"
+}
