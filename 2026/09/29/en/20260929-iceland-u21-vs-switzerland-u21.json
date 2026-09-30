@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350171,
+    "matchup": "Iceland U21 vs Switzerland U21",
+    "home_team": "Iceland U21",
+    "away_team": "Switzerland U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-29 15:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-iceland-u21-vs-switzerland-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350171",
+      "matchup": "Iceland U21 vs Switzerland U21",
+      "matchTime": "2026-09-29 15:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Switzerland U21's superior defensive resilience and technical control will secure a hard-fought 2:1 away victory over Iceland U21.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey, physical opening half will give way to second-half tactical dominance from Switzerland.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Switzerland U21 hold the decisive structural advantage with an elite defensive record and clinical finishing.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Both teams average 1.90 goals per match, pointing toward an open contest with 3 goals as the primary count.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:2 Swiss victory represents the convergence of high scoring averages and Iceland's defensive vulnerability.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350171",
+      "awayTeam": "Switzerland U21",
+      "homeTeam": "Iceland U21",
+      "fixtureId": 1350171,
+      "match_time": "15:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Switzerland defense (0.60 conceded pg) challenges potent Iceland home attack"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Switzerland U21 win via clinical second-half counter-attacks (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by both sides averaging 1.9 goals per match (Confidence: Moderate, Value: High)",
+      "1:1 stalemate hedge reflecting Iceland's strong home fortitude (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:52:47 UTC"
+}
