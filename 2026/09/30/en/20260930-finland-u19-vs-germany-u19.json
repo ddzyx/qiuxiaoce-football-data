@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642973,
+    "matchup": "Finland U19 vs Germany U19",
+    "home_team": "Finland U19",
+    "away_team": "Germany U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 09:15:00",
+    "source_url": "https://xgmind.com/matches/20260930-finland-u19-vs-germany-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642973",
+      "matchup": "Finland U19 vs Germany U19",
+      "matchTime": "2026-09-30 09:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Germany U19's technical superiority and offensive depth are expected to break through Finland U19's structured defense in a controlled road victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Finland's early discipline creates first-half parity before Germany's second-half surge.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Germany U19 possess the individual quality and tactical depth to secure victory.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Moderate scoring environment typical of competitive youth international fixtures.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A competitive game where Germany's sustained pressure yields a 1-to-2 goal margin.",
+        "selection": [
+          "1:2",
+          "0:2"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642973",
+      "awayTeam": "Germany U19",
+      "homeTeam": "Finland U19",
+      "fixtureId": 1642973,
+      "match_time": "09:00",
+      "ai_confidence": "Low",
+      "match_highlight": "German attacking depth tests Finland's organized low-block defense"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Germany U19 victory driven by territorial dominance and dynamic forward rotation (Confidence: Moderate, Value: Moderate)",
+      "Competitive low-margin contest with Finland U19 maintaining defensive shape into the second half (Confidence: Moderate, Value: High)",
+      "Finland U19 defensive resistance forcing a low-scoring stalemate if German finishing falters (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:57:37 UTC"
+}
