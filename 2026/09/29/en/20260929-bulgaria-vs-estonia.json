@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1528915,
+    "matchup": "Bulgaria vs Estonia",
+    "home_team": "Bulgaria",
+    "away_team": "Estonia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-29 18:45:00",
+    "source_url": "https://xgmind.com/matches/20260929-bulgaria-vs-estonia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528915",
+      "matchup": "Bulgaria vs Estonia",
+      "matchTime": "2026-09-29 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Back Estonia to hold an injury-depleted Bulgaria to a hard-fought 1:1 draw in Plovdiv.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey opening half is expected to preserve parity through both intervals.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Poisson parity and severe Bulgarian attacking absences point directly to a 1:1 stalemate.",
+        "selection": "Draw"
+      },
+      "goals": {
+        "comment": "Two goals lead the distribution at 24.5%, supported by disciplined low-block defensive structures.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 1:1 draw represents the highest model density, while a 2:1 home bounce-back serves as contingency.",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528915",
+      "awayTeam": "Estonia",
+      "homeTeam": "Bulgaria",
+      "fixtureId": 1528915,
+      "match_time": "18:45",
+      "ai_confidence": "Value Upset",
+      "match_highlight": "Depleted Bulgaria face resilient Estonia in critical Plovdiv League C clash"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Value Upset",
+    "possibilityAssessment": [
+      "Draw 1:1 stalemate driven by matched Poisson expected goal ratings of 1.35 and Bulgaria creative absences (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals capitalizing on Estonia compact defensive shape and Bulgaria finishing struggles (Confidence: High, Value: Moderate)",
+      "Bulgaria 2:1 narrow home victory if individual quality edges late set-piece chaos (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:56:11 UTC"
+}
