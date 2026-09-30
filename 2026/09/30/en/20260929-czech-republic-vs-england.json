@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1528910,
+    "matchup": "Czech Republic vs England",
+    "home_team": "Czech Republic",
+    "away_team": "England",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-30 02:45:00",
+    "source_url": "https://xgmind.com/matches/20260929-czech-republic-vs-england/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528910",
+      "matchup": "Czech Republic vs England",
+      "matchTime": "2026-09-29 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "England's superior attacking quality and transitional dynamism should edge past a resilient Czech side in Prague.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "England expected to assert control as second-half defensive fatigue sets in.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "England possess decisive edge in chance creation to secure all three points.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Scoring expected to cluster around 2 to 3 total goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A competitive 1:2 away victory represents the most probable probabilistic outcome.",
+        "selection": [
+          "1:2",
+          "0:2"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528910",
+      "awayTeam": "England",
+      "homeTeam": "Czech Republic",
+      "fixtureId": 1528910,
+      "match_time": "18:45",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Tuchel demands Three Lions response against resilient Czechia in Prague."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "England Away Win in competitive Group A3 rebound (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals driven by open transitions (Confidence: Moderate, Value: High)",
+      "Defensive draw hedge in case of low-block stalemate (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 03:49:53 UTC"
+}
