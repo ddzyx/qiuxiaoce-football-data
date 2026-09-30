@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642974,
+    "matchup": "Republic of Ireland U17 vs Czech Republic U17",
+    "home_team": "Republic of Ireland U17",
+    "away_team": "Czech Republic U17",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 09:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-republic-of-ireland-u17-vs-czech-republic-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642974",
+      "matchup": "Republic of Ireland U17 vs Czech Republic U17",
+      "matchTime": "2026-09-30 09:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Back Republic of Ireland U17 to edge an open, high-variance youth friendly via a 2:1 scoreline.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey opening half is expected before second-half substitutions unlock the contest.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Ireland possesses greater direct transitional punch against an unsettled Czech backline.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three total goals forms the natural statistical center of this multi-goal matchup.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory represents the optimal balance of offensive potency and defensive lapses.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642974",
+      "awayTeam": "Czech Republic U17",
+      "homeTeam": "Republic of Ireland U17",
+      "fixtureId": 1642974,
+      "match_time": "09:00",
+      "ai_confidence": "Low",
+      "match_highlight": "Transitional pace against reshuffled defenses in youth international friendly."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Republic of Ireland U17 Win via transitional flank overloads (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals capitalizing on both sides defensive frailties (Confidence: Moderate, Value: High)",
+      "1:1 Draw game script if defensive lines retreat deep (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:57:46 UTC"
+}
