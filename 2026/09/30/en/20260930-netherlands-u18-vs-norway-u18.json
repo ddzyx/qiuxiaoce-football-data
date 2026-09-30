@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642980,
+    "matchup": "Netherlands U18 vs Norway U18",
+    "home_team": "Netherlands U18",
+    "away_team": "Norway U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 14:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-netherlands-u18-vs-norway-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642980",
+      "matchup": "Netherlands U18 vs Norway U18",
+      "matchTime": "2026-09-30 14:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Netherlands U18 possess superior technical fluency and midfield possession dominance to dismantle Norway U18's defensive block in an open multi-goal friendly.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Norway's early physical resistance should give way to Dutch superiority in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Dutch technical superiority in midfield and creative depth should overcome Norway's compact block.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three goals represents the primary convergence of Dutch scoring pace and friendly game-state variance.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 victory captures Dutch attacking initiative alongside minor transition vulnerability.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642980",
+      "awayTeam": "Norway U18",
+      "homeTeam": "Netherlands U18",
+      "fixtureId": 1642980,
+      "match_time": "14:00",
+      "ai_confidence": "Low",
+      "match_highlight": "Dutch fluid positional play tests Norwegian low block defense"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Netherlands U18 Win via sustained territorial pressure and half-space penetration (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Over 2.5 supported by loose friendly defensive structures (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring stalemate or draw if Norway successfully pack the central box (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:58:39 UTC"
+}
