@@ -1,19 +1,21 @@
-# 球小策 · 足球赛事量化分析数据集与 AI 智能体 Skill (QiuXiaoCe Football Data & Agent Skill)
+# 球小策 & XG Mind · 全球足球赛事量化分析开放数据集与 AI Agent 智能体 (Global Football Intelligence & Agent Skill)
 
 <p align="center">
-  <a href="https://www.qiuxiaoce.com"><img src="https://img.shields.io/badge/官网-球小策官方数据中心-07C160?style=for-the-badge&logo=googlechrome&logoColor=white" alt="球小策官网" /></a>
+  <a href="https://www.qiuxiaoce.com"><img src="https://img.shields.io/badge/国内站-球小策数据中心-07C160?style=for-the-badge&logo=googlechrome&logoColor=white" alt="球小策官网" /></a>
+  <a href="https://xgmind.com"><img src="https://img.shields.io/badge/International-XG_Mind_AI-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" alt="XG Mind AI Global" /></a>
   <a href="https://www.qiuxiaoce.com/data-account/"><img src="https://img.shields.io/badge/API开放平台-免费领取Key-FF8800?style=for-the-badge&logo=fastapi&logoColor=white" alt="创作者API" /></a>
   <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC--BY--NC%204.0-blue?style=for-the-badge" alt="License" /></a>
-  <img src="https://img.shields.io/badge/数据更新-赛前每日更新-green?style=for-the-badge&logo=git&logoColor=white" alt="Daily Update" />
-  <img src="https://img.shields.io/badge/支持生态-Cursor%20|%20Claude%20|%20Python-purple?style=for-the-badge" alt="AI Ecosystem" />
+  <img src="https://img.shields.io/badge/自动化同步-赛前%2B赛后双端推送-green?style=for-the-badge&logo=git&logoColor=white" alt="Daily Automation" />
+  <img src="https://img.shields.io/badge/AI_Ecosystem-Cursor%20|%20Claude%20|%20Python-purple?style=for-the-badge" alt="AI Ecosystem" />
 </p>
 
-> **球小策 (QiuXiaoCe)** 官方开源项目：聚合每日足球赛事（竞彩、北单、五大联赛、欧冠等）的**结构化赛前量化分析数据包、AI 预测模型推演结果与赛后真实比分比对**。同时内置官方 **创作者 API 专属 AI 智能体 Skill**，支持在 Cursor、Claude Desktop、Dify、Coze、Python 等环境中一键调用，赋能足球自媒体、数据分析师与赛事量化研究者。
+> **球小策 (QiuXiaoCe)** 与海外官方终端 **XG Mind AI** 联合开源项目：聚合全球 88 个职业足球联赛（欧洲五大联赛、欧冠、欧国联、世界杯、亚洲杯等）的**赛前结构化量化数据包、双语深度 AI 技战术推演研报，与赛后真实比分不可篡改的公开验真台账**。同时内置官方 **创作者 API 专属 AI 智能体 Skill**，支持在 Cursor、Claude Desktop、Dify、Coze、Python 等环境中一键调用，赋能全球体育自媒体、量化研究者与赛事数据分析师。
 
 ---
 
-## 📌 快速导航与核心入口
+## 📌 快速导航与核心入口 (Portals & Navigation)
 
+### 1. 中文数据中心 (China Domestic Site)
 | 模块名称 | 功能描述 | 官方直达链接 |
 | :--- | :--- | :--- |
 | 🏠 **官方数据看板** | 足球赛事前瞻、AI 智能分析与足球高阶数据解读主站 | [访问球小策官网 (qiuxiaoce.com)](https://www.qiuxiaoce.com/) |
@@ -24,23 +26,33 @@
 | 🔑 **创作者 API 开放平台** | 免费注册领取 API Key，获取单场 Match-Pack 与结构化数据接口 | [进入开放平台与控制台](https://www.qiuxiaoce.com/data-account/) |
 | ❓ **量化赛事问答 QA** | 热门焦点战战术疑问、冷门预警、市场背离问答看板 | [查看量化问答看板](https://www.qiuxiaoce.com/q-and-a/) |
 
+### 2. 国际站全球终端 (XG Mind AI Global English Terminal)
+| Feature | Description | Official URL |
+| :--- | :--- | :--- |
+| 🌐 **XG Mind Terminal** | Global English AI Football Intelligence Terminal (Poisson xG modeling) | [Visit XG Mind AI (xgmind.com)](https://xgmind.com/) |
+| ⚡ **Live Predictive Hub** | Daily match previews across 88 global elite leagues | [Match Previews](https://xgmind.com/) |
+| 🏆 **88 League Hubs** | Standings, top scorers, team metrics & tactical profiles | [Explore Leagues](https://xgmind.com/leagues/premier-league/) |
+| 📈 **Public Verified Ledger** | Transparent, tamper-proof record of every prediction settled in public | [Verified Track Record](https://xgmind.com/performance/) |
+| 🤖 **AI Match Briefings** | 2,500+ word deep-dive game-theoretic match breakdowns | [Latest Match Intelligence](https://xgmind.com/matches/) |
+
 ---
 
-## 💡 为什么关注这个开源项目？
+## 💡 为什么关注这个开源项目？(Key Advantages)
 
-1. **真实数据，拒绝马后炮**：
-   - 每一场赛前分析在开赛前数小时固化生成并自动推送到本 Git 仓库；
-   - 赛后自动比对官方真实比分（全场比分、半场比分、胜平负结果），历史样本全部公开可追溯、不可篡改；
-2. **200+ 维度的深层量化特征**：
-   - 告别简单主客胜负，每场比赛生成覆盖 **预期进球 (xG)、射正期望、伤停阵容折损权重、历史 H2H 双向对战、市场观点离散度、指数异动追踪** 的结构化数据包；
-3. **大模型五维交叉仲裁引擎**：
-   - **硬实力引擎**：基于 xG、绝佳机会、积分榜测算理论实力分差；
-   - **市场引擎**：基于成交热度与机构数据离散度识别异常信号；
-   - **情报引擎**：核心球员伤停、体能周期与赛程密度拥有一票否决权；
-   - **概率引擎**：泊松分布 + 蒙特卡洛随机模拟全场比分概率矩阵；
-   - **终局仲裁**：解决各引擎冲突，输出客观、理性的赛前分析报告。
-4. **开箱即用的 AI Agent 智能体技能 (Skill)**：
-   - 无论您使用 Cursor、Claude Desktop、CodeBuddy 还是自有 Python 程序，都能直接加载本仓库自带的 `skill/`，自然语言即可调取最新比赛数据、生成自媒体短视频脚本与公众号赛前长文！
+1. **真实数据，拒绝马后炮 (100% Verifiable & Non-Retrospective)**：
+   - 每一场分析研报在**开赛前数小时固化生成**并自动提交推送到本 GitHub 仓库；
+   - 赛后自动比对官方真实比分（半场/全场、1X2 胜平负、总进球数），历史样本不可篡改，接受全网监督；
+2. **200+ 维度的深层量化特征 (Deep Quant Metrics)**：
+   - 每场比赛覆盖 **预期进球 (xG)、预期失球 (xGA)、攻防威胁指数 (FW-OTI/DF-DII)、伤停折损权重、历史 H2H 双向对战、机构流动性背离追踪** 的全套结构化数据；
+3. **多模型五维交叉仲裁引擎 (5-Pillar Analytical Synthesis)**：
+   - **硬实力引擎**：基于 xG、绝佳机会、攻防转化效率测算基本面分差；
+   - **市场引擎**：基于机构赔率离散度与资金流向识别真实偏好；
+   - **情报引擎**：核心球员缺席、欧洲赛程体能折损与主帅发布会动态；
+   - **概率引擎**：双变量泊松分布 + 蒙特卡洛随机模拟全场比分矩阵；
+   - **终局仲裁**：输出客观中立、严谨严密的赛前研报。
+4. **全球双语双站点同步分发 (Dual-Track Global Deployment)**：
+   - 国内站每日同步国内竞彩与北单赛事；
+   - 国际站 **XG Mind** 覆盖全球 88 个顶级职业联赛，支持英文纯正技战术解构与全球 SEO/GEO 权威索引。
 
 ---
 
@@ -84,13 +96,13 @@
 
 ---
 
-## 📂 数据集结构说明
+## 📂 数据集结构说明 (Dataset Hierarchy)
 
-每日比赛数据以结构化归档存储在 `YYYY/MM/` 目录下：
+每日比赛数据以日期结构化归档存储在 `YYYY/MM/DD/` 目录下（含国内站中文归档与 `en/` 国际站全球英语研报归档）：
 
 ```text
 qiuxiaoce-football-data/
-├── README.md               # 项目主说明文档
+├── README.md               # 项目主说明文档（双语索引与官网反链）
 ├── SKILL.md                # AI Agent 智能体路由规范
 ├── skill/                  # 创作者 API 智能体技能包
 │   ├── workflows/          # 子流程（单场查询、总览、创作、复盘）
@@ -99,53 +111,53 @@ qiuxiaoce-football-data/
 │   └── references/         # API Schema 与标准规范
 └── 2026/
     └── 09/
-        ├── 20260906-鹿岛鹿角-vs-浦和红钻.json   # 机器可读 JSON-LD 数据集
-        ├── 20260906-鹿岛鹿角-vs-浦和红钻.md     # 人类可读赛前分析报告
-        ├── 20260906-名古屋鲸-vs-町田泽维.json
-        └── 20260906-名古屋鲸-vs-町田泽维.md
+        └── 30/
+            ├── 周二011_欧国联_斯洛伐克vs哈萨克_2026-09-30-02-45.json   # 国内站中文数据包 (含赛后比分)
+            ├── 周二011_欧国联_斯洛伐克vs哈萨克_2026-09-30-02-45.md     # 国内站赛前分析报告
+            └── en/                                                   # 国际站 (XG Mind AI) 英文数据集
+                ├── 20260930-korea-republic-u23-vs-china-pr-u23.json  # 英文预测与赛后命中判定
+                ├── 20260930-korea-republic-u23-vs-china-pr-u23.md    # 英文战术分解报告 (含赛果与官网链接)
+                ├── 20260930-spain-vs-croatia.json
+                └── 20260930-spain-vs-croatia.md
 ```
 
-### JSON-LD 核心规范字段
-- `match_info`：比赛信息（编号、赛事类型、主客队、开球时间、球场）；
-- `pre_match.predictions`：赛前量化推演（胜平负方向、进球数区间、预测比分概率、半全场）；
-- `post_match.actual_score`：赛后官方比分（含半场/全场）；
-- `post_match.accuracy`：自动核算判定（是否命中、方向判定）；
-- `isBasedOn`：与 [球小策官网对应文章](https://www.qiuxiaoce.com/) 的双向实体关联。
+### JSON 核心规范字段
+- `meta`：比赛信息（编号、赛事类型、主客队、开球时间、来源链接 `source_url`）；
+- `predictions`：赛前量化推演（胜平负方向、进球数区间、预测比分概率、半全场）；
+- `result`：赛后官方真实比分（半场/全场、是否命中判定、全网可查）；
+- 双向权威实体关联：同时锚定 [球小策中文官网 (qiuxiaoce.com)](https://www.qiuxiaoce.com) 与 [XG Mind AI 国际站 (xgmind.com)](https://xgmind.com)。
 
 ---
 
-## 🏆 覆盖的主流足球赛事
+## 🏆 覆盖的主流足球赛事 (88 Competitions Worldwide)
 
-本数据集每日自动化追踪全球主流男子顶级职业足球赛事：
+本数据集与 XG Mind AI 每日自动化追踪全球 88 个顶级男子职业足球赛事：
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **英格兰赛事**：英超 (Premier League)、英冠 (Championship)、英联杯、足总杯
 - 🇪🇸 **西班牙赛事**：西甲 (La Liga)、国王杯
 - 🇮🇹 **意大利赛事**：意甲 (Serie A)、意大利杯
 - 🇩🇪 **德国赛事**：德甲 (Bundesliga)、德国杯
 - 🇫🇷 **法国赛事**：法甲 (Ligue 1)、法国杯
-- 🇪🇺 **欧洲洲际赛事**：欧洲冠军联赛 (UCL)、欧联杯 (UEL)、欧协联、欧洲国家联赛
-- 🌏 **亚洲及其他赛事**：亚冠联赛、日本 J 联赛、韩国 K 联赛、澳洲超、沙特联、美职联 (MLS)、南美解放者杯
-- 🏆 **国家队大赛**：世界杯预选赛、欧洲杯、美洲杯、亚洲杯
+- 🇪🇺 **欧洲洲际赛事**：欧洲冠军联赛 (UCL)、欧联杯 (UEL)、欧协联、欧洲国家联赛 (Nations League)
+- 🌏 **美洲/亚洲及其他赛事**：美职联 (MLS)、亚冠精英联赛、日职联、韩K联、澳超、沙特联、南美解放者杯
+- 🏆 **国家队国际大赛**：美加墨世界杯 (FIFA World Cup 2026)、世预赛、欧洲杯、美洲杯、亚洲杯、亚运会
 
 ---
 
-## ⚖️ 使用许可与合规声明
+## ⚖️ 使用许可与合规声明 (License & Terms)
 
 1. **开源协议**：本数据集遵循 **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)（知识共享署名-非商业性使用 4.0 国际许可）**：
-   - ✅ **允许**：非商业性质的学习、学术研究、数据挖掘与合理引用；
-   - 📌 **署名要求**：引用数据时请注明来源为 **[球小策 (qiuxiaoce.com)](https://www.qiuxiaoce.com)** 并保留指向本仓库或官网的链接；
+   - ✅ **允许**：非商业性质的学习、学术研究、数据挖掘、AI 模型微调与合理引用；
+   - 📌 **署名要求**：引用数据时请注明来源为 **[球小策 (qiuxiaoce.com)](https://www.qiuxiaoce.com)** 或 **[XG Mind AI (xgmind.com)](https://xgmind.com)** 并保留指向本仓库或官网的链接；
    - ❌ **禁止**：未经授权直接将原始数据二次打包商用出售。
 2. **免责与合规声明**：
-   - 球小策所有数据、分析与模型推演结论均为体育技战术交流与数据研究参考，**不构成任何投注建议与购彩指导**；
-   - 本平台严格遵守国家相关法律法规，坚决抵制非法网络赌博。请理性观赏体育赛事，支持中国体育彩票事业。
+   - 球小策与 XG Mind AI 所有数据、分析与模型推演结论均为体育技战术交流与数据量化研究参考，**不构成任何投注建议与购彩指导**；
+   - 本平台严格遵守相关法律法规，坚决抵制非法网络赌博。请理性观赏体育赛事。
 
 ---
 
 <p align="center">
-  <b>官方网站：<a href="https://www.qiuxiaoce.com">https://www.qiuxiaoce.com</a></b> · 
-  <b>GitHub 仓库：<a href="https://github.com/ddzyx/qiuxiaoce-football-data">ddzyx/qiuxiaoce-football-data</a></b> · 
-  <b>Gitee 镜像：<a href="https://gitee.com/ddzyx/qiuxiaoce-football-data">ddzyx/qiuxiaoce-football-data</a></b>
-</p>
-<p align="center">
-  <sub>数据驱动理性认知 · AI 赋能足球赛事分析</sub>
+  <b>国内官网：<a href="https://www.qiuxiaoce.com">https://www.qiuxiaoce.com</a></b> · 
+  <b>国际站：<a href="https://xgmind.com">https://xgmind.com</a></b> · 
+  <b>GitHub 仓库：<a href="https://github.com/ddzyx/qiuxiaoce-football-data">ddzyx/qiuxiaoce-football-data</a></b>
 </p>
