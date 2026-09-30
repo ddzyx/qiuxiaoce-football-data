@@ -1,8 +1,84 @@
 {
   "meta": {
-    "slug": "20260930-fiji-vs-new-caledonia",
-    "source_url": "https://xgmind.com/matches/20260930-fiji-vs-new-caledonia/"
+    "fixture_id": 1640510,
+    "matchup": "Fiji vs New Caledonia",
+    "home_team": "Fiji",
+    "away_team": "New Caledonia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 07:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-fiji-vs-new-caledonia/",
+    "terminal": "XG Mind AI"
   },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1640510",
+      "matchup": "Fiji vs New Caledonia",
+      "matchTime": "2026-09-30 07:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Fiji's full-strength squad and high motivation will outlast New Caledonia's fatigued domestic setup to secure an outright home victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "New Caledonia will defend doggedly early before Fiji pulls away in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Fiji possesses superior squad quality and decisive motivation to seal final qualification.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Fiji's defensive discipline and New Caledonia's blunt attack favor a 2 to 3 goal range.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A controlled 2:0 home win is the most probable convergence point of underlying xG.",
+        "selection": [
+          "2:0",
+          "2:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1640510",
+      "awayTeam": "New Caledonia",
+      "homeTeam": "Fiji",
+      "fixtureId": 1640510,
+      "match_time": "07:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Fiji eyes MSG final spot against depleted New Caledonia"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Fiji Outright Win in Regulation (Confidence: High, Value: Moderate)",
+      "Total Goals: Exactly 2 Goals (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:57:02 UTC",
   "result": {
     "fulltime_score": "2-1",
     "halftime_score": "0-1",
