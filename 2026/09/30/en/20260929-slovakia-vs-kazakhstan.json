@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1528913,
+    "matchup": "Slovakia vs Kazakhstan",
+    "home_team": "Slovakia",
+    "away_team": "Kazakhstan",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-30 02:45:00",
+    "source_url": "https://xgmind.com/matches/20260929-slovakia-vs-kazakhstan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528913",
+      "matchup": "Slovakia vs Kazakhstan",
+      "matchTime": "2026-09-29 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "coreRecommendation": "Slovakia's territorial control and defensive stability should translate into a controlled, low-scoring clean-sheet victory over an isolated Kazakh side.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Kazakhstan's disciplined first-half resistance should yield to Slovakia's second-half pressure.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Slovakia hold overwhelming underlying advantages in xG creation and possession dominance.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "A 68.9% cumulative probability for two or fewer goals firmly anchors the total count at 2 or 1.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Poisson distribution and attacking suppression point directly toward a 2:0 or 1:0 host victory.",
+        "selection": [
+          "2:0",
+          "1:0"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528913",
+      "awayTeam": "Kazakhstan",
+      "homeTeam": "Slovakia",
+      "fixtureId": 1528913,
+      "match_time": "18:45",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Slovakia seek revenge as territorial dominance clashes with Kazakh defensive bunker."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Slovakia positional dominance produces a controlled home win (Confidence: Moderate, Value: Moderate)",
+      "Compact defensive low blocks keep total goals Under 2.5 (Confidence: Moderate, Value: High)",
+      "Kazakhstan low-block holds for a cagey low-scoring draw (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 03:50:04 UTC"
+}
