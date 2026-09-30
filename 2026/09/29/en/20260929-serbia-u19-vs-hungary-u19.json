@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1640508,
+    "matchup": "Serbia U19 vs Hungary U19",
+    "home_team": "Serbia U19",
+    "away_team": "Hungary U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-29 14:30:00",
+    "source_url": "https://xgmind.com/matches/20260929-serbia-u19-vs-hungary-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1640508",
+      "matchup": "Serbia U19 vs Hungary U19",
+      "matchTime": "2026-09-29 14:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Serbia U19 to edge Hungary U19 2:1 in a high-tempo, open clash defined by late transition goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey first half gives way to an expansive second period as Hungary chase the win.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Serbia's individual attacking pedigree will narrowly overcome defensive transition frailties on home soil.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Both sides possess 100% BTTS records in tournament play, pointing toward a 3-goal environment.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory represents the primary convergence of attacking volume and defensive transition risk.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1640508",
+      "awayTeam": "Hungary U19",
+      "homeTeam": "Serbia U19",
+      "fixtureId": 1640508,
+      "match_time": "14:30",
+      "ai_confidence": "Low",
+      "match_highlight": "Vilotic Memorial silverware on the line in open Subotica clash"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Serbia U19 narrow victory driven by home territorial dominance and individual quality (Confidence: Low, Value: Moderate)",
+      "Competitive score draw as Hungary's counter-attack neutralizes Serbia's high press (Confidence: Low, Value: Moderate)",
+      "High-scoring affair exceeding 2.5 total goals due to defensive transition vulnerabilities (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:52:27 UTC"
+}
