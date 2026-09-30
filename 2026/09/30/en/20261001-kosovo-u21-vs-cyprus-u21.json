@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350180,
+    "matchup": "Kosovo U21 vs Cyprus U21",
+    "home_team": "Kosovo U21",
+    "away_team": "Cyprus U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-30 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-kosovo-u21-vs-cyprus-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350180",
+      "matchup": "Kosovo U21 vs Cyprus U21",
+      "matchTime": "2026-09-30 17:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Kosovo U21 will leverage superior transitional efficiency and home territory dominance to defeat a fragile Cyprus U21 side in a multi-goal victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Kosovo are poised to strike early at home and control game state throughout.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Kosovo's structural balance and Cyprus's 27 conceded goals heavily favor the hosts.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Statistical Poisson expectancy centers around 2.65 home goals and 0.70 away goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Kosovo's sharp finishing meets Cyprus's leaky defense in a convincing shutout.",
+        "selection": [
+          "3:0",
+          "2:0"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350180",
+      "awayTeam": "Cyprus U21",
+      "homeTeam": "Kosovo U21",
+      "fixtureId": 1350180,
+      "match_time": "17:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Kosovo look to complete a qualifying double over leaky Cyprus."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Kosovo U21 to secure a comfortable home victory with a clean sheet (Confidence: Moderate, Value: High)",
+      "Total match goals to land on 3 Goals with an Over 2.5 lean (Confidence: Moderate, Value: Moderate)",
+      "Kosovo U21 to establish an early lead and sustain victory via Win-Win HT/FT (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:59:58 UTC"
+}
