@@ -1,8 +1,84 @@
 {
   "meta": {
-    "slug": "20260930-papua-new-guinea-vs-solomon-islands",
-    "source_url": "https://xgmind.com/matches/20260930-papua-new-guinea-vs-solomon-islands/"
+    "fixture_id": 1640509,
+    "matchup": "Papua New Guinea vs Solomon Islands",
+    "home_team": "Papua New Guinea",
+    "away_team": "Solomon Islands",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 04:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-papua-new-guinea-vs-solomon-islands/",
+    "terminal": "XG Mind AI"
   },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1640509",
+      "matchup": "Papua New Guinea vs Solomon Islands",
+      "matchTime": "2026-09-30 04:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Solomon Islands' superior attacking cohesion and final-round motivation will breach Papua New Guinea's leaky low block in a measured away victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Solomon Islands are projected to break through after a competitive opening half.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Solomon Islands possess dynamic attacking depth against a fatigued PNG backline.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Combined defensive vulnerabilities and tournament urgency favor 2 to 3 total goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Solomon Islands' offensive firepower points toward a 1:2 or 0:2 outcome.",
+        "selection": [
+          "1:2",
+          "0:2"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1640509",
+      "awayTeam": "Solomon Islands",
+      "homeTeam": "Papua New Guinea",
+      "fixtureId": 1640509,
+      "match_time": "04:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Solomon Islands seek final berth against struggling Papua New Guinea"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Solomon Islands victory driven by superior transitional efficiency (Confidence: Moderate, Value: Moderate)",
+      "Competitive 2 to 3 goal encounter with defensive concessions on both sides (Confidence: Moderate, Value: High)",
+      "Papua New Guinea low-block resistance forcing a cagey low-scoring contest (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:56:29 UTC",
   "result": {
     "fulltime_score": "1-1",
     "halftime_score": "0-1",
