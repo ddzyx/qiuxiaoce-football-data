@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642977,
+    "matchup": "Austria U19 vs Denmark U19",
+    "home_team": "Austria U19",
+    "away_team": "Denmark U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 12:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-austria-u19-vs-denmark-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642977",
+      "matchup": "Austria U19 vs Denmark U19",
+      "matchTime": "2026-09-30 12:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Denmark U19's superior technical composure in transition is projected to edge a competitive friendly contest over Austria U19 by a 1:2 margin.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey first half shifting into a Danish second-half winner underpins the primary Draw-Loss trajectory.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Denmark U19 possess superior attacking cohesion and technical depth to edge past Austria U19.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Three total goals lead probabilistic expectations in an open youth friendly fixture with two goals as secondary.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:2 away victory represents the primary tactical convergence with 0:2 as a solid defensive clean-sheet alternative.",
+        "selection": [
+          "1:2",
+          "0:2"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642977",
+      "awayTeam": "Denmark U19",
+      "homeTeam": "Austria U19",
+      "fixtureId": 1642977,
+      "match_time": "12:00",
+      "ai_confidence": "Low",
+      "match_highlight": "Danish transitional quality confronts intense Austrian pressing in Portuguese friendly."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Denmark U19 to secure victory via second-half transitional efficiency (Confidence: Low, Value: Moderate)",
+      "Total match scoring to reach exactly 3 goals in an open developmental structure (Confidence: Low, Value: Moderate)",
+      "A level opening half preceding a Danish tactical breakthrough leading to Draw-Loss HT/FT (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:58:22 UTC"
+}
