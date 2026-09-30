@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490500,
+    "matchup": "New York Red Bulls vs St. Louis City",
+    "home_team": "New York Red Bulls",
+    "away_team": "St. Louis City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-09-30 23:30:00",
+    "source_url": "https://xgmind.com/matches/20260930-new-york-red-bulls-vs-st-louis-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New York Red Bulls vs St. Louis City Prediction: Depleted Hosts Face Red-Hot Attack — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1490500",
+      "league": "Major League Soccer",
+      "matchup": "New York Red Bulls vs St. Louis City",
+      "matchTime": "2026-09-30 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "St. Louis City's 18-game unbeaten momentum and superior squad continuity should exploit an internationally depleted Red Bulls defensive transition.",
+    "possibilityAssessment": [
+      "Away Win (St. Louis City) (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Hedging (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490500",
+      "league": "Major League Soccer",
+      "homeTeam": "New York Red Bulls",
+      "awayTeam": "St. Louis City",
+      "match_time": "23:30",
+      "match_highlight": "Depleted Red Bulls face red-hot St. Louis in crucial MLS clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490500,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "St. Louis City's offensive firepower and Red Bulls' severe international absences favor a road victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal expectancy of 3.27 and Red Bulls' 2.06 conceded xGA per match point to an open contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away victory aligns with Poisson probability density and tactical matchup dynamics."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary density peak, with a two-goal away shutout as secondary contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A disciplined early first half followed by St. Louis breaking through after the interval defines the primary trajectory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-09-30 11:36:25 UTC"
+}
