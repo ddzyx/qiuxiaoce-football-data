@@ -1,38 +1,12 @@
 # Korea Republic U23 vs China PR U23 Tactical Breakdown & Probabilistic Modeling: Positional Firepower vs Low-Block Resistance
 
 > **Competition**: Asian Games
-> **Kickoff**: 2026-09-30 14:00 UTC
+> **Kickoff**: 2026-09-30 06:00 UTC
 > **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
 
 ---
 
 The 2026 Aichi-Nagoya Asian Games men&#x27;s football tournament reaches its climactic penultimate stage as reigning gold medalists Korea Republic U23 face China PR U23 at Yanmar Stadium Nagai in Osaka. The historical stakes could not be more polarized: South Korea enters the clash chasing an unprecedented fourth consecutive Asian Games title along with vital career-altering military service exemptions for its burgeoning European talents, whereas China arrives energized by reaching their first semifinal in 28 years under Spanish tactician Antonio Puche. The central tactical tension pivots on whether China&#x27;s compact, resilient 5-4-1 low defensive block can withstand the varied positional pressure and aerial prowess of Lee Min-seong&#x27;s dynamic frontline. MatchMind AI integrates advanced Poisson distributions, rolling metrics, and real-time personnel updates to deconstruct this high-stakes continental semifinal.
-
-⚡ MatchMind Predictive Snapshot
-
-1X2 Outlook:
-
-Home Win (Korea Republic U23)
-
-Projected Scoreline:
-
-2:0 (Primary), 2:1 (Alternative)
-
-Total Goals:
-
-2 Goals (Primary) / 3 Goals (Secondary) · Under 2.5 Goals lean at the standard line
-
-Half-Time / Full-Time:
-
-Draw-Win (Primary), Win-Win (Alternative)
-
-AI Confidence Rating:
-
-Moderate
-
-Core Tactical Thesis:
-
-South Korea&#x27;s superior half-space penetration and aerial threat will wear down China&#x27;s organized defensive structure as fatigue surfaces in the second half.
 
 📌 Korea Republic U23 vs China PR U23: Match Intelligence Brief
 
@@ -75,6 +49,32 @@ Away Team
 AFC U23 Asian Cup
 
 Korea Republic U23
+
+2:0 (1:0)
+
+China PR U23
+
+2023-10-01
+
+Asian Games QF
+
+China PR U23
+
+0:2 (0:2)
+
+Korea Republic U23
+
+2023-06-19
+
+International Friendly
+
+China PR U23
+
+1:0 (1:0)
+
+Korea Republic U23
+
+2023-06-15
 
 ---
 
