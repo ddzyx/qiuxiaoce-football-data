@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642976,
+    "matchup": "Sweden U19 vs Czech Republic U19",
+    "home_team": "Sweden U19",
+    "away_team": "Czech Republic U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 09:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-sweden-u19-vs-czech-republic-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642976",
+      "matchup": "Sweden U19 vs Czech Republic U19",
+      "matchTime": "2026-09-30 09:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Sweden U19 leverage superior physical recovery to edge past a congested Czech Republic U19 backline in a 2:1 victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A balanced first half yields to second-half Swedish physical dominance.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Sweden's physical freshness and wide progression are expected to overcome a fatigued Czech defense.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three total goals represent the modal convergence point given defensive lapses in youth friendlies.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Swedish attacking cohesion points toward a 2:1 victory, with a 1:1 stalemate as prime backup.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642976",
+      "awayTeam": "Czech Republic U19",
+      "homeTeam": "Sweden U19",
+      "fixtureId": 1642976,
+      "match_time": "09:00",
+      "ai_confidence": "Low",
+      "match_highlight": "Rested Swedish youth confront fatigued Czech counter-attackers."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Sweden U19 to capitalize on scheduling rest disparity and territorial possession (Confidence: Low, Value: Moderate)",
+      "Both teams to score in an open, developmental youth exhibition (Confidence: Moderate, Value: Moderate)",
+      "Late tactical stalemate if heavy bench rotations degrade attacking execution (Confidence: Low, Value: Low)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:58:05 UTC"
+}
