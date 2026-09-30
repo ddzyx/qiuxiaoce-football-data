@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350177,
+    "matchup": "Czech Republic U21 vs Bulgaria U21",
+    "home_team": "Czech Republic U21",
+    "away_team": "Bulgaria U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-30 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-czech-republic-u21-vs-bulgaria-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350177",
+      "matchup": "Czech Republic U21 vs Bulgaria U21",
+      "matchTime": "2026-09-30 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "coreRecommendation": "Czech Republic U21 are positioned to leverage home defensive solidity and sustained territorial control to secure a narrow 1:0 or 2:0 victory over Bulgaria U21.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Bulgarian low-block resistance will test the hosts early before Czech pressure breaks through in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Czech Republic U21's elite defense conceding 0.50 goals per match provides decisive platform for victory.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Tactical risk aversion and strong defensive metrics concentrate probability on 1 to 2 total goals.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Low-scoring model projection heavily favoring a controlled clean-sheet victory for the hosts.",
+        "selection": [
+          "1:0",
+          "2:0"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350177",
+      "awayTeam": "Bulgaria U21",
+      "homeTeam": "Czech Republic U21",
+      "fixtureId": 1350177,
+      "match_time": "16:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "High-stakes Group B qualification battle for second place playoff positioning"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Czech Republic U21 Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "Draw 1:1 Deadlock Hedge (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:59:07 UTC"
+}
