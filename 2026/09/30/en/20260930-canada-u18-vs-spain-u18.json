@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642981,
+    "matchup": "Canada U18 vs Spain U18",
+    "home_team": "Canada U18",
+    "away_team": "Spain U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 15:00:00",
+    "source_url": "https://xgmind.com/matches/20260930-canada-u18-vs-spain-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642981",
+      "matchup": "Canada U18 vs Spain U18",
+      "matchTime": "2026-09-30 15:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Spain U18 possess superior technical cohesion and midfield territorial control to overcome Canada U18's low block.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Spain U18 likely to break through either late in the first half or during the second period.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Spain U18's technical dominance and positional play will overcome Canada's defensive resistance.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Controlled match pace and Spanish game management favor a 2 or 3 goal margin.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Spain U18 expected to control territory and convert chances for a 2-0 or 2-1 victory.",
+        "selection": [
+          "0:2",
+          "1:2"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642981",
+      "awayTeam": "Spain U18",
+      "homeTeam": "Canada U18",
+      "fixtureId": 1642981,
+      "match_time": "15:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Spain U18 technical dominance against Canada U18 low-block structure."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Spain U18 control tempo and secure a multi-goal victory (Confidence: Moderate, Value: Moderate)",
+      "Canada U18 compact defensive shape holds out until second-half breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Canada U18 snatch a transitional consolation goal in a low-margin defeat (Confidence: Low, Value: Low)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:58:48 UTC"
+}
