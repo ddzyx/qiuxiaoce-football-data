@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1350178,
+    "matchup": "Scotland U21 vs Azerbaijan U21",
+    "home_team": "Scotland U21",
+    "away_team": "Azerbaijan U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-10-01 02:30:00",
+    "source_url": "https://xgmind.com/matches/20261001-scotland-u21-vs-azerbaijan-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350178",
+      "matchup": "Scotland U21 vs Azerbaijan U21",
+      "matchTime": "2026-09-30 18:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Scotland U21 vs Azerbaijan U21 Match Analysis: Tony Docherty's Debut & Breaking Down the Low-Block Trap — Predictive Preview",
+    "coreRecommendation": "Scotland U21 are positioned to secure a hard-fought 2:1 home victory behind superior forward dynamism against Azerbaijan U21's vulnerable road defensive line.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey initial low-block battle opening up in the second half favors a Draw-Win trajectory.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Scotland U21 possess the structural attacking superiority to pierce Azerbaijan's backline at Rugby Park.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three total goals represents the highest probability density in our Poisson model distribution.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory reflects Scotland's attacking edge tempered by transitional defensive vulnerabilities.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350178",
+      "awayTeam": "Azerbaijan U21",
+      "homeTeam": "Scotland U21",
+      "fixtureId": 1350178,
+      "match_time": "18:30",
+      "over_under": {
+        "comment": "Elevated defensive concession rates for both sides point toward a minimum three-goal match aggregate.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Tony Docherty debuts as Scotland U21 host resilient Azerbaijan in Kilmarnock"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win driven by territorial superiority and high-tempo wing overloads (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals underpinned by combined lambda expectations and defensive transition leaks (Confidence: Moderate, Value: Moderate)",
+      "Defensive stalemate Draw hedge should Azerbaijani low block hold beyond 60 minutes (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 07:22:42 UTC"
+}
