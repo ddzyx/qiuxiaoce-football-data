@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642978,
+    "matchup": "Albania U19 vs Lithuania U19",
+    "home_team": "Albania U19",
+    "away_team": "Lithuania U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 13:30:00",
+    "source_url": "https://xgmind.com/matches/20260930-albania-u19-vs-lithuania-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642978",
+      "matchup": "Albania U19 vs Lithuania U19",
+      "matchTime": "2026-09-30 13:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "totalGoals": [
+        "1",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Albania U19 are projected to secure a narrow 1:0 victory over Lithuania U19 in a low-scoring friendly at Vora Stadium.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey opening half is expected before second-half adjustments tilt the contest in Albania's favor.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Home advantage and superior technical midfield options favor a narrow 1:0 victory for Albania U19.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Modest finishing records from both youth squads point toward a tight 1 to 2 goal match total.",
+        "selection": [
+          "1",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "International youth friendlies typically produce low-scoring scripts anchored around 1:0 or 1:1.",
+        "selection": [
+          "1:0",
+          "1:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642978",
+      "awayTeam": "Lithuania U19",
+      "homeTeam": "Albania U19",
+      "fixtureId": 1642978,
+      "match_time": "13:30",
+      "ai_confidence": "Low",
+      "match_highlight": "Tactical restructuring at Vora as new cycles test squad depth."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Albania U19 narrow home victory driven by technical midfield edge (Confidence: Low, Value: Moderate)",
+      "Low-scoring game trajectory remaining Under 2.5 total goals (Confidence: Moderate, Value: Moderate)",
+      "Cautious developmental stalemate yielding a 1:1 draw contingency (Confidence: Low, Value: Low)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:58:31 UTC"
+}
