@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1528912,
+    "matchup": "Finland vs Belarus",
+    "home_team": "Finland",
+    "away_team": "Belarus",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-29 16:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-finland-vs-belarus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528912",
+      "matchup": "Finland vs Belarus",
+      "matchTime": "2026-09-29 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Finland's commanding possession and box presence will systematically break down Belarus's low block for a clean victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Finland are positioned to establish an early lead or break through Belarus's defensive shell by the second half.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Finland possess superior attacking cohesion, midfield control, and home advantage over an offensively limited Belarus.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "A controlled multi-goal Finnish display combined with negligible offensive output from Belarus locks totals around two or three.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 2:0 scoreline represents the primary convergence of Finnish attacking volume and Belarusian low-block containment.",
+        "selection": [
+          "2:0",
+          "3:0"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528912",
+      "awayTeam": "Belarus",
+      "homeTeam": "Finland",
+      "fixtureId": 1528912,
+      "match_time": "16:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Finland's dominant box occupation faces Belarus's disciplined 5-4-1 defensive block."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Finland Home Win with clean sheet control (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Under 2.5 or exact 2 goals (Confidence: Moderate, Value: Moderate)",
+      "Stalemate or narrow 1-goal grind if Belarus defend deep (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:53:36 UTC"
+}
