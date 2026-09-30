@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350169,
+    "matchup": "Belgium U21 vs Wales U21",
+    "home_team": "Belgium U21",
+    "away_team": "Wales U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-29 18:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-belgium-u21-vs-wales-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350169",
+      "matchup": "Belgium U21 vs Wales U21",
+      "matchTime": "2026-09-29 18:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Belgium U21 will leverage superior midfield control and defensive solidity to secure a decisive victory over a rebuilding Wales U21 side.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Belgium's sustained territorial dominance should see them ahead early or by the second half.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Belgium U21 hold massive technical and defensive advantages over a leaky Welsh backline.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Wales' high concession rate combined with Belgian game control favors 2 to 3 total goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Belgium's resolute defense and attacking firepower point toward a clean-sheet victory.",
+        "selection": [
+          "3:0",
+          "2:0"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350169",
+      "awayTeam": "Wales U21",
+      "homeTeam": "Belgium U21",
+      "fixtureId": 1350169,
+      "match_time": "18:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Group leaders Belgium host struggling Wales seeking to solidify qualification dominance."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Belgium U21 to win to nil (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Over 2.5 (Confidence: Moderate, Value: Moderate)",
+      "Belgium U21 Half-Time/Full-Time Win-Win (Confidence: Moderate, Value: Low)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:54:28 UTC"
+}
