@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350173,
+    "matchup": "Norway U21 vs Bosnia-Herzegovina U21",
+    "home_team": "Norway U21",
+    "away_team": "Bosnia-Herzegovina U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-29 16:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-norway-u21-vs-bosnia-herzegovina-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350173",
+      "matchup": "Norway U21 vs Bosnia-Herzegovina U21",
+      "matchTime": "2026-09-29 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "totalGoals": [
+        "1",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Back Norway U21 to secure a patient, low-scoring home victory against an ultra-compact Bosnian low block to seal qualification.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey opening half is expected before Norway's second-half quality breaks through.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Norway's superior technical quality and territorial pressure should breach Bosnia's deep block.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Bosnia's defensive resilience ensures a tightly constrained total goal count.",
+        "selection": [
+          "1",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:0 margin is the dominant mathematical and tactical convergence point.",
+        "selection": [
+          "1:0",
+          "2:0"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350173",
+      "awayTeam": "Bosnia-Herzegovina U21",
+      "homeTeam": "Norway U21",
+      "fixtureId": 1350173,
+      "match_time": "16:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Norway seek qualification victory against Bosnia's stingy defense"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Norway U21 Home Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "0:0 Draw Stalemate (Confidence: Low, Value: High)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:53:20 UTC"
+}
