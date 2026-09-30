@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1528911,
+    "matchup": "San Marino vs Albania",
+    "home_team": "San Marino",
+    "away_team": "Albania",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-29 18:45:00",
+    "source_url": "https://xgmind.com/matches/20260929-san-marino-vs-albania/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528911",
+      "matchup": "San Marino vs Albania",
+      "matchTime": "2026-09-29 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Albania possess an overwhelming technical and structural superiority to break down San Marino's deep defensive block and secure a comfortable away victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "San Marino under sustained pressure points to half-time and full-time away advantages.",
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Albania possess undeniable class superiority and control against a struggling home defense.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Goal expectancy converges on a 2 to 3 goal range without runaway finishing.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Methodical away possession points toward a controlled clean-sheet victory.",
+        "selection": [
+          "0:3",
+          "0:2"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528911",
+      "awayTeam": "Albania",
+      "homeTeam": "San Marino",
+      "fixtureId": 1528911,
+      "match_time": "18:45",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Albania's technical midfield set to overpower San Marino's depleted low block"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Albania to secure a multi-goal margin clean-sheet victory (Confidence: High, Value: Moderate)",
+      "Total goals to finish at 3 goals as Albania controls tempo without reckless overextension (Confidence: Moderate, Value: Moderate)",
+      "San Marino's ultra-defensive shell holding Albania to a low-scoring first half before succumbing (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:55:36 UTC"
+}
