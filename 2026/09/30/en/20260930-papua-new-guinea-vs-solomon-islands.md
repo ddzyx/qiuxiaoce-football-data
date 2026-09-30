@@ -84,6 +84,8 @@ Papua New Guinea
 
 ---
 
+---
+
 ## Final Match Result & Model Settlement
 
 - **Final Score (FT)**: `1-1`
