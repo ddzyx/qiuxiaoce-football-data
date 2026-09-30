@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350175,
+    "matchup": "Faroe Islands U21 vs Luxembourg U21",
+    "home_team": "Faroe Islands U21",
+    "away_team": "Luxembourg U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-30 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-faroe-islands-u21-vs-luxembourg-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350175",
+      "matchup": "Faroe Islands U21 vs Luxembourg U21",
+      "matchTime": "2026-09-30 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Faroe Islands U21 leverage superior defensive cohesion and physical home conditions to edge a leaky Luxembourg side 2:1.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Disciplined opening half expected before host physical pressure breaks Luxembourg post-interval.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Faroe Islands U21 hold structural compactness to exploit Luxembourg's 2.7 goals conceded average.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Combined lambda expectancy of 3.25 firmly supports 2 to 3 total match goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Poisson distribution identifies 2:1 as the central convergence scoreline.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350175",
+      "awayTeam": "Luxembourg U21",
+      "homeTeam": "Faroe Islands U21",
+      "fixtureId": 1350175,
+      "match_time": "16:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Faroe Islands target home double over vulnerable Luxembourg backline"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win via sustained direct transitions and set-piece efficiency (Confidence: Moderate, Value: High)",
+      "Total Goals Over 2.5 driven by Luxembourg defensive vulnerabilities (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency in the event of early finishing variance (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:58:56 UTC"
+}
