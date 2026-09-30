@@ -1,7 +1,7 @@
-# Portugal U21 vs Gibraltar U21 — AI Match Intelligence
+# Portugal U21 vs Gibraltar U21 Prediction & Match Analysis: Esperanças Rebound Dynamic — Scoreline & xG Preview
 
 > **Competition**: UEFA U21 Championship - Qualification
-> **Kickoff**: 2026-10-01 03:00 UTC
+> **Kickoff**: 2026-09-30 19:00 UTC
 > **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
 
 ---
