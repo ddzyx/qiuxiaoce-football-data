@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1610878,
+    "matchup": "Lithuania vs Andorra",
+    "home_team": "Lithuania",
+    "away_team": "Andorra",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-lithuania-vs-andorra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1610878",
+      "matchup": "Lithuania vs Andorra",
+      "matchTime": "2026-09-30 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "totalGoals": [
+        "1",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Lithuania are positioned to secure a narrow, low-scoring victory against a resilient Andorran low block in Kaunas.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A compact first half yields to second-half pressure as fresh legs break the stalemate.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Lithuania possess sufficient territorial command and defensive structure to edge past Andorra.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Under 2.5 total goals aligns with low combined attacking output and friendly rotation.",
+        "selection": [
+          "1",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A disciplined Andorran low block limits goal volume to a one- or two-goal margin.",
+        "selection": [
+          "1:0",
+          "2:0"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1610878",
+      "awayTeam": "Andorra",
+      "homeTeam": "Lithuania",
+      "fixtureId": 1610878,
+      "match_time": "16:00",
+      "ai_confidence": "Low",
+      "match_highlight": "Lithuania host Andorra in Kaunas amid heavy mid-window squad rotations."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Lithuania Outright Win via second-half attrition breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Total Match Goals Under 2.5 sustained by rotation and low tempo (Confidence: High, Value: High)",
+      "Scoreless First Half (HT Draw) driven by Andorran 5-4-1 low block (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:59:40 UTC"
+}
