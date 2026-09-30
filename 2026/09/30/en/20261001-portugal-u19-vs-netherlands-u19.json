@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1642982,
+    "matchup": "Portugal U19 vs Netherlands U19",
+    "home_team": "Portugal U19",
+    "away_team": "Netherlands U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-09-30 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261001-portugal-u19-vs-netherlands-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642982",
+      "matchup": "Portugal U19 vs Netherlands U19",
+      "matchTime": "2026-09-30 16:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Symmetrical midfield quality and experimental friendly rotations point toward a balanced 1:1 stalemate.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Cagey opening periods should carry level terms into both half-time and full-time.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Both youth setups possess symmetrical technical profiles leading to a shared scoreline.",
+        "selection": "Draw"
+      },
+      "goals": {
+        "comment": "Two goals represent the modal density across simulated youth friendly trajectories.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 1:1 draw represents the primary convergence node of expected goal distributions.",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642982",
+      "awayTeam": "Netherlands U19",
+      "homeTeam": "Portugal U19",
+      "fixtureId": 1642982,
+      "match_time": "16:30",
+      "ai_confidence": "Low",
+      "match_highlight": "Tactical equilibrium and rotation point to a tight stalemate."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Draw outright trajectory driven by midfield tactical equilibrium (Confidence: Low, Value: Moderate)",
+      "Total Goals Under 2.5 through tempo deceleration across second-half rotations (Confidence: Moderate, Value: Moderate)",
+      "Portugal U19 double-chance edge preserving home soil advantage (Confidence: Moderate, Value: Low)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:59:50 UTC"
+}
