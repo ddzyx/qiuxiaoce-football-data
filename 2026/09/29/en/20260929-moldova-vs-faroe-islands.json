@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1528914,
+    "matchup": "Moldova vs Faroe Islands",
+    "home_team": "Moldova",
+    "away_team": "Faroe Islands",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-09-29 16:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-moldova-vs-faroe-islands/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528914",
+      "matchup": "Moldova vs Faroe Islands",
+      "matchTime": "2026-09-29 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "totalGoals": [
+        "1",
+        "2"
+      ]
+    },
+    "coreRecommendation": "Faroe Islands to capitalize on Moldova's defensive frailties and lack of offensive punch to secure a disciplined away victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Faroe Islands are favored to break through in the second half or take control early against Moldova's fragile setup.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Faroe Islands possess superior defensive stability and attacking efficiency to edge past struggling Moldova.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Both teams profile with modest attacking outputs, locking total goals firmly into the 1 to 2 band.",
+        "selection": [
+          "1",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Faroe Islands' compact backline and Moldova's offensive drought point toward a 0:1 or 0:2 away victory.",
+        "selection": [
+          "0:1",
+          "0:2"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528914",
+      "awayTeam": "Faroe Islands",
+      "homeTeam": "Moldova",
+      "fixtureId": 1528914,
+      "match_time": "16:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Faroe Islands eye crucial away win against winless Moldova."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Faroe Islands to secure a disciplined away win (Confidence: Moderate, Value: High)",
+      "Total goals to finish Under 2.5 in a low-scoring tactical affair (Confidence: High, Value: Moderate)",
+      "Moldova to force a low-scoring home stalemate (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:53:53 UTC"
+}
