@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "fixture_id": 1350172,
+    "matchup": "Republic of Ireland U21 vs Kazakhstan U21",
+    "home_team": "Republic of Ireland U21",
+    "away_team": "Kazakhstan U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-09-29 18:00:00",
+    "source_url": "https://xgmind.com/matches/20260929-republic-of-ireland-u21-vs-kazakhstan-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350172",
+      "matchup": "Republic of Ireland U21 vs Kazakhstan U21",
+      "matchTime": "2026-09-29 18:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "coreRecommendation": "Republic of Ireland U21 will utilize territorial dominance and superior defensive organization to secure a controlled home win at Turner's Cross.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Kazakhstan should maintain opening resistance before Ireland's second-half pressure breaks through.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Ireland's defensive stability and playoff urgency should overpower Kazakhstan's counter-attacking setup.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Two goals represents the most probable exact count under Kazakhstan's deep five-man defense.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 2:0 home win is the primary convergence point between Ireland's attacking control and defensive strength.",
+        "selection": [
+          "2:0",
+          "2:1"
+        ]
+      },
+      "league": "UEFA U21 Championship - Qualification",
+      "matchId": "1350172",
+      "awayTeam": "Kazakhstan U21",
+      "homeTeam": "Republic of Ireland U21",
+      "fixtureId": 1350172,
+      "match_time": "18:00",
+      "ai_confidence": "Moderate",
+      "match_highlight": "Ireland hunt playoff qualification against Kazakhstan's stubborn low block."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Republic of Ireland U21 Home Win via controlled multi-goal margin (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 reflecting low-block game dynamics (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win Half-Time/Full-Time transition following attritional first half (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "synced_at": "2026-09-30 09:54:45 UTC"
+}
