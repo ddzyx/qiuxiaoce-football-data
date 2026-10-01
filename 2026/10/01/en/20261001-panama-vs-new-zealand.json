@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1632353,
+    "matchup": "Panama vs New Zealand",
+    "home_team": "Panama",
+    "away_team": "New Zealand",
+    "league": null,
+    "kickoff_utc": "2026-10-01 06:10:00",
+    "source_url": "https://xgmind.com/matches/20261001-panama-vs-new-zealand/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1632353",
+      "matchup": "Panama vs New Zealand",
+      "matchTime": "2026-10-01 06:10 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Panama vs New Zealand Prediction & Match Analysis: Midfield Battle & Rotational Impact — Scoreline Preview",
+    "coreRecommendation": "A compact Panama defensive block neutralizes New Zealand's aerial directness, pointing toward a 1:1 stalemate under 2.5 goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey first half points to parity at the interval followed by a shared result or narrow second-half edge.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Both squads display balanced defensive structures and travel fatigue, making a 1:1 draw the natural convergence point.",
+        "selection": "Draw"
+      },
+      "goals": {
+        "comment": "Expect a low-scoring encounter centered on 2 total goals with 1 as secondary alternative.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "A 1:1 level scoreline represents the primary probability density with 1:0 as a defensive hedge.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1632353",
+      "awayTeam": "New Zealand",
+      "homeTeam": "Panama",
+      "fixtureId": 1632353,
+      "match_time": "06:10",
+      "over_under": {
+        "comment": "Combined xG metrics of 2.18 and cautious friendly rotations support a match staying under 2.5 goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "Neutral turf stalemate expected between disciplined CONCACAF and OFC sides"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Draw 1:1 stalemate driven by neutralizing tactical styles (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals supported by low combined xG lambda of 2.18 (Confidence: Moderate, Value: Moderate)",
+      "Panama 1:0 narrow counter-attacking victory (Confidence: Low, Value: Low)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "1-1",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 08:34:53 UTC"
+  }
+}
