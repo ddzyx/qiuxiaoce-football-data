@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1643193,
+    "matchup": "Croatia U19 vs Italy U19",
+    "home_team": "Croatia U19",
+    "away_team": "Italy U19",
+    "league": null,
+    "kickoff_utc": "2026-10-01 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261001-croatia-u19-vs-italy-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1643193",
+      "matchup": "Croatia U19 vs Italy U19",
+      "matchTime": "2026-10-01 13:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "1",
+        "2"
+      ]
+    },
+    "articleTitle": "Croatia U19 vs Italy U19 Prediction: Defensive Discipline in Friendly Duel — Scoreline & Model Preview",
+    "coreRecommendation": "Italy U19 are projected to edge a low-scoring, tactically disciplined friendly contest where Under 2.5 goals represents the strongest statistical foundation.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cautious, scoreless first half preceding decisive second-half tactical and personnel shifts.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Italy U19 possess superior individual technique and bench depth to break down Croatia's stubborn defense.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Structural defensive discipline and friendly rotation patterns point toward a tight 1 to 2 goal ceiling.",
+        "selection": [
+          "1",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 0:1 Italy victory represents the model's primary density anchor, backed by a 1:1 stalemate hedge.",
+        "selection": [
+          "0:1",
+          "1:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1643193",
+      "awayTeam": "Italy U19",
+      "homeTeam": "Croatia U19",
+      "fixtureId": 1643193,
+      "match_time": "13:30",
+      "over_under": {
+        "comment": "Combined match firepower lambda of 1.86 and elite defensive numbers strongly support a low-scoring game.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "Tight tactical defensive duel looms between disciplined European youth setups"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Away Win via a narrow single-goal margin in a low-scoring contest (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Total Goals based on combined defensive stability and low lambda expectancies (Confidence: Moderate, Value: Moderate)",
+      "Draw 1:1 contingency if second-half substitutions disrupt defensive cohesion (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 15:44:31 UTC"
+  }
+}
