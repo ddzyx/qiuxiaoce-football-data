@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528922,
+    "matchup": "Israel vs Kosovo",
+    "home_team": "Israel",
+    "away_team": "Kosovo",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-10-01 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261001-israel-vs-kosovo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Israel vs Kosovo: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1528922",
+      "league": "UEFA Nations League",
+      "matchup": "Israel vs Kosovo",
+      "matchTime": "2026-10-01 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kosovo's clinical transition attack and defensive stability will comfortably overpower an out-of-form Israel on neutral ground in Debrecen.",
+    "possibilityAssessment": [
+      "Kosovo Away Win via sustained transition threat and clinical finishing (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals governed by cagey first-half tempo and Israeli low block (Confidence: Moderate, Value: Moderate)",
+      "Stalemate contingency if Israel park a defensive block (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528922",
+      "league": "UEFA Nations League",
+      "homeTeam": "Israel",
+      "awayTeam": "Kosovo",
+      "match_time": "18:45",
+      "match_highlight": "Kosovo seek back-to-back Nations League triumphs against struggling Israel in Debrecen.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528922,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Kosovo hold a commanding expected goals edge (2.05 vs 0.25 xG) and possess the clinical finishing to exploit Israel's leaky defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson baseline and Israel's attacking drought (0.25 xG per game) point toward a controlled, low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Kosovo's offensive potency against Israel's recent 3.0 conceded goals per match projects a clean 0:2 or 0:1 margin."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A 2-goal or 1-goal total cleanly aligns with the 0:2 and 0:1 projected Kosovo victory scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Israel's early resistance may hold until Kosovo break through in the second half, with early away lead as secondary script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-01 07:05:13 UTC"
+}
