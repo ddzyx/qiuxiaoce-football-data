@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1642985,
+    "matchup": "Faroe Islands U19 vs Slovenia U19",
+    "home_team": "Faroe Islands U19",
+    "away_team": "Slovenia U19",
+    "league": null,
+    "kickoff_utc": "2026-10-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-faroe-islands-u19-vs-slovenia-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642985",
+      "matchup": "Faroe Islands U19 vs Slovenia U19",
+      "matchTime": "2026-10-01 14:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Faroe Islands U19 vs Slovenia U19 Prediction: Can Faroese Low Block Hold? — Scoreline & xG Preview",
+    "coreRecommendation": "Slovenia U19 are projected to overcome Faroe Islands U19 through technical midfield dominance in a controlled, low-scoring encounter.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Faroese first-half resistance pointing toward Draw-Loss, with Loss-Loss as secondary.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Slovenia U19 hold decisive technical and positional advantages to pierce the low block.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "A 1 to 2 goal match script best reflects international youth friendly dynamics.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "A disciplined 0:2 victory or narrow 0:1 margin represents the primary probabilistic cluster.",
+        "selection": [
+          "0:2",
+          "0:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642985",
+      "awayTeam": "Slovenia U19",
+      "homeTeam": "Faroe Islands U19",
+      "fixtureId": 1642985,
+      "match_time": "14:00",
+      "over_under": {
+        "comment": "Under 2.5 aligns with both sides' low historical goal-conversion rates and defensive postures.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "Slovenia U19 technical control tests Faroe Islands U19 compact low-block defense."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Away Win via patient possession build-up breaching the Faroese low block (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Faroese compact deep defending and Slovenian controlled tempo (Confidence: High, Value: Moderate)",
+      "Draw stalemate contingency if Faroese defensive discipline frustrates early breakthroughs (Confidence: Low, Value: Low)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-2",
+    "halftime_score": "1-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 18:05:41 UTC"
+  }
+}
