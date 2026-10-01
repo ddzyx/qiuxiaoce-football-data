@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490463,
+    "matchup": "Seattle Sounders vs Sporting Kansas City",
+    "home_team": "Seattle Sounders",
+    "away_team": "Sporting Kansas City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-02 01:30:00",
+    "source_url": "https://xgmind.com/matches/20261002-seattle-sounders-vs-sporting-kansas-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Seattle Sounders vs Sporting Kansas City Prediction: Exploiting SKC Fragility — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490463",
+      "league": "Major League Soccer",
+      "matchup": "Seattle Sounders vs Sporting Kansas City",
+      "matchTime": "2026-10-02 01:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Seattle Sounders are projected to defeat Sporting Kansas City 2:1 at Lumen Field, capitalizing on Kansas City's league-worst defense.",
+    "possibilityAssessment": [
+      "Seattle Sounders Outright Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490463",
+      "league": "Major League Soccer",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Sporting Kansas City",
+      "match_time": "01:30",
+      "match_highlight": "Sounders host leaky SKC aiming to solidify MLS playoff position",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490463,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Seattle hold clear structural superiority over an SKC squad that has conceded 63 goals in 26 fixtures."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Kansas City's league-worst 2.03 xGA per match and open counter-attacking style heavily support an open match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Seattle's attacking advantage balanced against Joveljic's international absence."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary probabilistic cluster derived from an aggregate lambda of 2.99."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Seattle's late acceleration profile typically breaks down low-block resistance in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-01 13:34:23 UTC"
+}
