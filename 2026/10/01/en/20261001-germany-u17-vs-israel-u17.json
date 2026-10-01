@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1643194,
+    "matchup": "Germany U17 vs Israel U17",
+    "home_team": "Germany U17",
+    "away_team": "Israel U17",
+    "league": null,
+    "kickoff_utc": "2026-10-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-germany-u17-vs-israel-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1643194",
+      "matchup": "Germany U17 vs Israel U17",
+      "matchTime": "2026-10-01 14:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Decoupling Germany U17 vs Israel U17: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "coreRecommendation": "Germany U17 are projected to secure a competitive home victory in an open encounter featuring over 2.5 total goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Israel's early defensive discipline will likely hold until German second-half depth proves decisive.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Germany possess superior technical depth and territorial dominance to edge a tight contest.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three total goals stands as the most statistically probable outcome based on 3.00 combined xG.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 German victory represents the primary convergence of attacking volume and defensive transition risk.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1643194",
+      "awayTeam": "Israel U17",
+      "homeTeam": "Germany U17",
+      "fixtureId": 1643194,
+      "match_time": "14:00",
+      "over_under": {
+        "comment": "Both teams showed defensive volatility on Matchday 1, pointing toward a 3-goal aggregate line.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "Germany host Israel in Duisburg looking to break down resilient counter-attacking low block."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Germany U17 win 2:1 in a dynamic end-to-end clash (Confidence: Moderate, Value: High)",
+      "Total Goals Over 2.5 resolved via mutual attacking transitions (Confidence: Moderate, Value: High)",
+      "Defensive resilience holds Germany to a 2:0 or 1:1 stalemate under heavy rotation (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "1-1",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 18:05:50 UTC"
+  }
+}
