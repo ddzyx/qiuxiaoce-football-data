@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1640072,
+    "matchup": "Poland U19 vs Kazakhstan U19",
+    "home_team": "Poland U19",
+    "away_team": "Kazakhstan U19",
+    "league": null,
+    "kickoff_utc": "2026-10-01 09:30:00",
+    "source_url": "https://xgmind.com/matches/20261001-poland-u19-vs-kazakhstan-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1640072",
+      "matchup": "Poland U19 vs Kazakhstan U19",
+      "matchTime": "2026-10-01 09:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Poland U19 vs Kazakhstan U19 Prediction: Technical Mismatch & Goal Expectancy — Scoreline Preview",
+    "coreRecommendation": "Poland U19 to assert technical superiority in a controlled, low-scoring victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Kazakhstan resists early on before Poland breaks through in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Poland U19 possesses superior technical quality and creative midfield depth.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Total match goal expectancy centers tightly around the 2-goal benchmark.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A controlled two-goal Polish victory represents the primary Poisson convergence.",
+        "selection": [
+          "2:0",
+          "2:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1640072",
+      "awayTeam": "Kazakhstan U19",
+      "homeTeam": "Poland U19",
+      "fixtureId": 1640072,
+      "match_time": "09:30",
+      "over_under": {
+        "comment": "Tournament fatigue and early kickoff suppress tempo, favoring a low-scoring affair.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "Poland U19 positional attack faces Kazakhstan low block in Slovakia."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Poland U19 Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "Poland U19 2:0 Scoreline (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-0",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 11:38:31 UTC"
+  }
+}
