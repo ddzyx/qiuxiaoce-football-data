@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1642984,
+    "matchup": "France U19 vs Turkey U19",
+    "home_team": "France U19",
+    "away_team": "Turkey U19",
+    "league": null,
+    "kickoff_utc": "2026-10-01 10:45:00",
+    "source_url": "https://xgmind.com/matches/20261001-france-u19-vs-turkey-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642984",
+      "matchup": "France U19 vs Turkey U19",
+      "matchTime": "2026-10-01 10:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "France U19 vs Turkey U19 Prediction & Match Analysis: Frontline Firepower vs Low Block — Scoreline Preview",
+    "coreRecommendation": "France U19's superior technical depth and attacking fluidity should secure victory against an inconsistent Turkish defense in a multi-goal contest.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A competitive opening half is expected to give way to French bench quality and tactical dominance after the break.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "France's superior technical depth and pressing coherence should overcome a fragile Turkish defensive structure.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Open tactical dynamics and mid-game youth substitutions traditionally generate three to four total goals.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "France's sustained pressure points toward multiple goals, while Turkey retains counter-attacking capability.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642984",
+      "awayTeam": "Turkey U19",
+      "homeTeam": "France U19",
+      "fixtureId": 1642984,
+      "match_time": "10:45",
+      "over_under": {
+        "comment": "High combined goal expectancy driven by French chance creation and Turkish transition vulnerabilities supports Over 2.5.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "France's dynamic frontline tests Turkey's vulnerable defensive low block."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "France U19 Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: High)",
+      "Both Teams to Score - Yes (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "2-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 13:15:03 UTC"
+  }
+}
