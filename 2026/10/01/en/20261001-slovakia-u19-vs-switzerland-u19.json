@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1642983,
+    "matchup": "Slovakia U19 vs Switzerland U19",
+    "home_team": "Slovakia U19",
+    "away_team": "Switzerland U19",
+    "league": null,
+    "kickoff_utc": "2026-10-01 09:30:00",
+    "source_url": "https://xgmind.com/matches/20261001-slovakia-u19-vs-switzerland-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1642983",
+      "matchup": "Slovakia U19 vs Switzerland U19",
+      "matchTime": "2026-10-01 09:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Slovakia U19 vs Switzerland U19 Prediction & Match Analysis: Swiss Defensive Rigor — Model Preview",
+    "coreRecommendation": "Switzerland U19's superior defensive structure and tactical game management provide the decisive edge to secure an away victory in a low-scoring contest.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A measured opening half favors an initial deadlock before Swiss tactical depth produces a decisive second-half away victory.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Switzerland U19 demonstrate superior structural balance following their clean-sheet road display against Poland U19.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Two total goals represents the highest-density Poisson distribution outcome, with one goal serving as the defensive secondary.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Controlled Swiss game-management favors multi-goal containment with 0:2 standing as the primary probabilistic anchor.",
+        "selection": [
+          "0:2",
+          "0:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1642983",
+      "awayTeam": "Switzerland U19",
+      "homeTeam": "Slovakia U19",
+      "fixtureId": 1642983,
+      "match_time": "09:30",
+      "over_under": {
+        "comment": "Underlying defensive setups and rotational youth dynamics point strongly toward a low-scoring game beneath 2.5 goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Swiss defensive organization counters Slovak transitional pressing in youth friendly test"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Switzerland U19 victory driven by defensive stability and transition efficiency (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals as youth friendly rotations and tactical discipline limit box entries (Confidence: Moderate, Value: High)",
+      "Draw contingency in the event of an extended first-half stalemate and heavy rotational drop-off (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "1-1",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-10-01 11:38:35 UTC"
+  }
+}
