@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1640073,
+    "matchup": "Maldives vs Lebanon",
+    "home_team": "Maldives",
+    "away_team": "Lebanon",
+    "league": null,
+    "kickoff_utc": "2026-10-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-maldives-vs-lebanon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1640073",
+      "matchup": "Maldives vs Lebanon",
+      "matchTime": "2026-10-01 12:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "0:3"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Maldives vs Lebanon Prediction & Match Analysis: Can Red Snappers Contain Cedars' Attacking Edge? — Scoreline & xG Preview",
+    "coreRecommendation": "Lebanon's technical superiority and defensive stability should ensure a controlled victory and clean sheet against a struggling Maldivian side.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Maldives may resist early before Lebanon's continuous pressure breaks through in the second half.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Lebanon outmatches Maldives across every technical and physical metric, ensuring a routine away victory.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Expect a tight match totaling two or three goals as Lebanon manages match intensity.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 0-2 scoreline represents the primary convergence of Lebanon's possession edge and Maldives' low block.",
+        "selection": [
+          "0:2",
+          "0:3"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1640073",
+      "awayTeam": "Lebanon",
+      "homeTeam": "Maldives",
+      "fixtureId": 1640073,
+      "match_time": "12:00",
+      "over_under": {
+        "comment": "Maldives generate negligible attacking threat while Lebanon prioritizes controlled game management.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Lebanon's tactical quality to break down Maldives' resilient defensive low block."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Lebanon outright victory with controlled possession dominance (Confidence: Moderate, Value: Moderate)",
+      "Total match goals staying Under 2.5 due to Maldivian attacking limitations (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring draw if Maldives successfully park an impenetrable low block (Confidence: Low, Value: Low)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-6",
+    "halftime_score": "0-3",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 18:05:32 UTC"
+  }
+}
