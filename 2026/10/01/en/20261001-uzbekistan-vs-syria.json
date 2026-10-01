@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1640512,
+    "matchup": "Uzbekistan vs Syria",
+    "home_team": "Uzbekistan",
+    "away_team": "Syria",
+    "league": null,
+    "kickoff_utc": "2026-10-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261001-uzbekistan-vs-syria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "International Friendlies",
+      "matchId": "1640512",
+      "matchup": "Uzbekistan vs Syria",
+      "matchTime": "2026-10-01 14:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Uzbekistan vs Syria Prediction & Match Analysis: Cannavaro's High Press vs Syrian Low Block — Scoreline & xG Preview",
+    "coreRecommendation": "Uzbekistan possess decisive tactical and squad depth advantages to secure a controlled home victory under 2.5 total goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Syria's early defensive resistance should hold until halftime before Uzbekistan break through in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Uzbekistan's individual talent and home form provide clear superiority over Syria's defensive framework.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Expect a measured tempo yielding one to two goals across ninety minutes.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "A controlled multi-goal or single-goal margin reflects Uzbek attacking efficiency and defensive stability.",
+        "selection": [
+          "2:0",
+          "1:0"
+        ]
+      },
+      "league": "International Friendlies",
+      "matchId": "1640512",
+      "awayTeam": "Syria",
+      "homeTeam": "Uzbekistan",
+      "fixtureId": 1640512,
+      "match_time": "14:00",
+      "over_under": {
+        "comment": "All six previous head-to-head clashes between these nations finished comfortably under 2.5 total goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Low",
+      "match_highlight": "Cannavaro's White Wolves face Syria's compact low block in Tashkent."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Low",
+    "possibilityAssessment": [
+      "Uzbekistan to win outright in Tashkent (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on low-scoring head-to-head history (Confidence: Moderate, Value: High)",
+      "Uzbekistan to win with a clean sheet: 2:0 or 1:0 (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "4-1",
+    "halftime_score": "2-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-01 18:05:37 UTC"
+  }
+}
