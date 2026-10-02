@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528928,
+    "matchup": "Poland vs Romania",
+    "home_team": "Poland",
+    "away_team": "Romania",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-10-02 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261002-poland-vs-romania/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland vs Romania Prediction & Match Analysis: Defensive Fragility vs xG Rebound — Scoreline Preview",
+    "meta": {
+      "matchId": "1528928",
+      "league": "UEFA Nations League",
+      "matchup": "Poland vs Romania",
+      "matchTime": "2026-10-02 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Poland's superior defensive structure and home advantage make Home Win / Draw the optimal selection in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Poland control territory and exploit defensive errors to grind out a 1-0 home victory (Confidence: Moderate, Value: High)",
+      "Poland's attacking bluntness results in a low-scoring 1-1 stalemate against Romanian counters (Confidence: Moderate, Value: Moderate)",
+      "Romania execute an efficient direct counter to steal a low-probability 0-1 upset (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528928",
+      "league": "UEFA Nations League",
+      "homeTeam": "Poland",
+      "awayTeam": "Romania",
+      "match_time": "18:45",
+      "match_highlight": "Poland host fragile Romania targeting crucial Nations League survival points in Warsaw.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528928,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Poland's structural advantage while respecting the high probability of a low-scoring draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poland's modest 0.95 xG creation and tight game management point firmly toward Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A controlled 1-0 Polish victory leads model density, with 1-1 serving as the primary draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Exact goal counts of 1 and 2 account for nearly 50% of the Poisson probability distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half is projected to transition into a decisive or drawn second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-02 06:58:55 UTC"
+}
