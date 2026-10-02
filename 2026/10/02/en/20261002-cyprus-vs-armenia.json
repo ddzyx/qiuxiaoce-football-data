@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528930,
+    "matchup": "Cyprus vs Armenia",
+    "home_team": "Cyprus",
+    "away_team": "Armenia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-10-02 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261002-cyprus-vs-armenia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cyprus vs Armenia Prediction & Match Analysis: Defensive Depletion vs Spertsyan Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1528930",
+      "league": "UEFA Nations League",
+      "matchup": "Cyprus vs Armenia",
+      "matchTime": "2026-10-02 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw covers the dominant 1:1 stalemate and Cyprus's narrow home upside against a heavily depleted Armenian squad.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance reflects tactical equilibrium and severe defensive absences on both sides (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals aligns with tournament risk aversion and a 55.0% Poisson expectancy (Confidence: Moderate, Value: Moderate)",
+      "Exact scoreline 1:1 serves as the primary convergence point for two depleted squads (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528930",
+      "league": "UEFA Nations League",
+      "homeTeam": "Cyprus",
+      "awayTeam": "Armenia",
+      "match_time": "16:00",
+      "match_highlight": "Depleted defenses clash as Edwards challenges Spertsyan in Nicosia.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528930,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-density 1:1 stalemate script and Cyprus capitalizing on Armenia's backup goalkeeper for a 2:1 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution places Under 2.5 at 55.0%, backed by market pricing at 1.72 and cautious tournament dynamics."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Primary scoreline 1:1 captures mutual defensive breaches, with 2:1 representing Cyprus's late home advantage."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson probabilities concentrate 47.1% of all outcomes across the 2 and 3 goal bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious opening halves will protect makeshift backlines before late tempo shifts decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-02 04:04:44 UTC"
+}
