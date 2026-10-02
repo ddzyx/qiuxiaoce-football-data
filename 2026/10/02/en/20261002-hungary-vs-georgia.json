@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528926,
+    "matchup": "Hungary vs Georgia",
+    "home_team": "Hungary",
+    "away_team": "Georgia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-10-02 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261002-hungary-vs-georgia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hungary vs Georgia Prediction & Match Analysis: Can Szoboszlai Unlock Svanadze's Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1528926",
+      "league": "UEFA Nations League",
+      "matchup": "Hungary vs Georgia",
+      "matchTime": "2026-10-02 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Hungary to avoid defeat via Home Win / Draw in a cagey, low-scoring tactical battle that comfortably favors Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Hungary Win / Draw dual chance anchored by home territorial dominance and Georgian defensive resilience (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by identical 0.5 goals conceded rates and zero goals scored across both squads (Confidence: High, Value: Moderate)",
+      "Score Draw 1:1 as the central Poisson matrix convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528926",
+      "league": "UEFA Nations League",
+      "homeTeam": "Hungary",
+      "awayTeam": "Georgia",
+      "match_time": "18:45",
+      "match_highlight": "Szoboszlai crosses test Svanadze's newly drilled Georgian low-block defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528926,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-density 1:1 stalemate and a narrow 1:0 Hungarian home breakthrough, reflecting Hungary's territorial dominance alongside Georgia's sharp counter-attacking resilience."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides have scored zero goals in 360 combined Nations League minutes, supporting a low-scoring ceiling under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw serves as the prime Poisson anchor (13.1%), with a 1:0 Hungarian attrition win as the primary alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the leading exact total at 26.2%, closely followed by a solitary goal finish at 22.1%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first-half risk management from both managers points to a 0:0 halftime state before second-half openings."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-02 06:57:46 UTC"
+}
