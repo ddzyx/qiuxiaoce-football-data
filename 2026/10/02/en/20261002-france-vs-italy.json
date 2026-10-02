@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528924,
+    "matchup": "France vs Italy",
+    "home_team": "France",
+    "away_team": "Italy",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-10-02 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261002-france-vs-italy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "France vs Italy Prediction & Match Analysis: Zidane Era Faces Azzurri Test — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1528924",
+      "league": "UEFA Nations League",
+      "matchup": "France vs Italy",
+      "matchTime": "2026-10-02 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "France's structural defensive discipline under Zinédine Zidane and territorial dominance should overcome Italy's vulnerable backline in a controlled 2:0 victory at the Stade de France.",
+    "possibilityAssessment": [
+      "France controlled victory via sustained territorial pressure and second-half penetration (Confidence: Moderate, Value: High)",
+      "Low-scoring game-state anchored around 2 total goals with Les Bleus preserving defensive integrity (Confidence: Moderate, Value: High)",
+      "High-variance alternative where Italy capitalizes on transition to force a 2:1 scoreline (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528924",
+      "league": "UEFA Nations League",
+      "homeTeam": "France",
+      "awayTeam": "Italy",
+      "match_time": "18:45",
+      "match_highlight": "Zidane's unblemished defense hosts Mancini's evolving Azzurri in Paris.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528924,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "France's superior midfield control and elite defensive organization offset Mbappé's absence to defeat an unstable Italian defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "France's flawless backline record under Zidane and 2.25 combined lambda point toward a tightly managed contest capped below three goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home shutout represents the primary probabilistic convergence, with a 2:1 exchange acting as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal outcome supported by calculated lambdas, while three goals reflects an open second-half breakdown."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A patient opening half followed by decisive second-half quality from France's deep bench establishes Draw-Win as primary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-02 06:56:07 UTC"
+}
