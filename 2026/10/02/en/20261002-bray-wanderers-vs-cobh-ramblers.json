@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492986,
+    "matchup": "Bray Wanderers vs Cobh Ramblers",
+    "home_team": "Bray Wanderers",
+    "away_team": "Cobh Ramblers",
+    "league": "First Division",
+    "kickoff_utc": "2026-10-02 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261002-bray-wanderers-vs-cobh-ramblers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bray Wanderers vs Cobh Ramblers Prediction: Can Seagulls Exploit Rams' Fragile Defense? — Model Preview",
+    "meta": {
+      "matchId": "1492986",
+      "league": "First Division",
+      "matchup": "Bray Wanderers vs Cobh Ramblers",
+      "matchTime": "2026-10-02 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bray Wanderers are projected to defeat Cobh Ramblers in a high-tempo clash driven by their prolific home attack and Cobh's porous defense.",
+    "possibilityAssessment": [
+      "Bray Wanderers Home Win via sustained pressure and transition finishing (Confidence: Moderate, Value: High)",
+      "Total Goals Over 2.5 supported by Cobh's recent defensive leakiness (Confidence: High, Value: Moderate)",
+      "Cobh Ramblers snatching a low-block draw or transition upset (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492986",
+      "league": "First Division",
+      "homeTeam": "Bray Wanderers",
+      "awayTeam": "Cobh Ramblers",
+      "match_time": "18:45",
+      "match_highlight": "Bray's prolific attack meets Cobh's fragile backline in playoff crunch",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492986,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bray Wanderers' superior attacking firepower and recent 4-match unbeaten momentum make a home victory the primary expectation against Cobh's leaky backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 3.05 and Cobh conceding 2.2 goals per game across recent fixtures firmly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Bray's attacking superiority alongside Cobh's transition punch, with 2:0 as the primary shutout alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact totals of 3 and 2 goals account for 44.4% of Poisson distribution density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Cobh's desperate early resistance is expected to hold until halftime before Bray's sustained pressure decides the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-02 06:52:04 UTC"
+}
