@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636222,
+    "matchup": "AZ Alkmaar vs Hapoel Beer Sheva",
+    "home_team": "AZ Alkmaar",
+    "away_team": "Hapoel Beer Sheva",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-az-alkmaar-vs-hapoel-beer-sheva/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636222",
+      "matchup": "AZ Alkmaar vs Hapoel Beer Sheva",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "AZ Alkmaar vs Hapoel Beer Sheva Prediction & Match Analysis: Can Cheeseheads Unlock Low Block? — Scoreline & xG Preview",
+    "coreRecommendation": "AZ Alkmaar to overcome Hapoel Beer Sheva's defensive block in a controlled home victory with Under 2.5 total goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Hapoel should resist through the opening half before AZ's sustained pressure breaks the deadlock.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "AZ Alkmaar possess a decisive talent and Elo advantage to secure three points at home.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Two goals represents the convergence between AZ's dominance and Hapoel's deep block.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "A controlled 2:0 home triumph represents the most probable outcome, backed by 1:0 as a hedge.",
+        "selection": [
+          "2:0",
+          "1:0"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636222",
+      "awayTeam": "Hapoel Beer Sheva",
+      "homeTeam": "AZ Alkmaar",
+      "fixtureId": 1636222,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Hapoel's rigid defensive posture and AZ's finishing conversion issues favor a lower-scoring clash.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "AZ Alkmaar look to dismantle Hapoel's stubborn low block at AFAS Stadion."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "AZ Alkmaar controlled home win via second-half breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Low total goals Under 2.5 driven by Hapoel low block (Confidence: Moderate, Value: High)",
+      "Narrow 1:0 defensive attrition victory (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:57:28 UTC"
+  }
+}
