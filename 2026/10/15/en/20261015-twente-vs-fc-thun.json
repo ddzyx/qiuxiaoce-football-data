@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636480,
+    "matchup": "Twente vs FC Thun",
+    "home_team": "Twente",
+    "away_team": "FC Thun",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-10-15 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261015-twente-vs-fc-thun/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Twente vs FC Thun Prediction & Match Analysis: Can Swiss Defense Withstand Enschede xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1636480",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Twente vs FC Thun",
+      "matchTime": "2026-10-15 19:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Twente to secure a decisive home victory against an outmatched and defensively depleted FC Thun in a high-scoring contest.",
+    "possibilityAssessment": [
+      "Twente structural control and multi-goal home victory (Confidence: High, Value: Moderate)",
+      "Dynamic open contest eclipsing Over 2.5 goals with both teams scoring (Confidence: High, Value: High)",
+      "Thun transition counter-threat keeping scoreline tight before late fade (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636480",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Twente",
+      "awayTeam": "FC Thun",
+      "match_time": "19:00",
+      "match_highlight": "Weghorst targets Thun makeshift defense missing suspended captain Marco Bürki.",
+      "ai_confidence": "High",
+      "fixtureId": 1636480,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Twente possess vast underlying superiority in chance creation and prevention against a Thun defense conceding 2.7 goals per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model projects a 71.5% Over 2.5 probability driven by combined lambda of 3.70 and Thun leaky away backline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Poisson distribution models converge tightly on 2:1 (9.2%) and 3:1 (7.2%) home victories."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring distribution density concentrates heavily across 3 goals (20.9%) and 4 goals (19.3%)."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Twente aggressive fast starts favor Win-Win, with Draw-Win providing strong second-half attrition coverage."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-15 07:22:12 UTC"
+}
