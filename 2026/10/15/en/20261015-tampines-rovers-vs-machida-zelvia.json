@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1630374,
+    "matchup": "Tampines Rovers vs Machida Zelvia",
+    "home_team": "Tampines Rovers",
+    "away_team": "Machida Zelvia",
+    "league": null,
+    "kickoff_utc": "2026-10-15 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261015-tampines-rovers-vs-machida-zelvia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "AFC Champions League Two",
+      "matchId": "1630374",
+      "matchup": "Tampines Rovers vs Machida Zelvia",
+      "matchTime": "2026-10-15 12:15 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Tampines Rovers vs Machida Zelvia Prediction & Match Analysis: Can Stags Resist J1 High-Press? — Scoreline & xG Preview",
+    "coreRecommendation": "Machida Zelvia to comfortably control territory and secure an away victory with under 2.5 total goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Machida to lead by full-time, either breaking through early or methodically grinding down Tampines after a level opening half.",
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Machida Zelvia hold an overwhelming structural, physical, and defensive advantage over Tampines Rovers.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represents the model modal outcome, with three goals acting as the primary counter-attack extension branch.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 0:2 or 0:1 away win reflects the natural convergence of Tampines' minimal goal threat and Machida's clinical set-piece execution.",
+        "selection": [
+          "0:2",
+          "0:1"
+        ]
+      },
+      "league": "AFC Champions League Two",
+      "matchId": "1630374",
+      "awayTeam": "Machida Zelvia",
+      "homeTeam": "Tampines Rovers",
+      "fixtureId": 1630374,
+      "match_time": "12:15",
+      "over_under": {
+        "comment": "Machida's elite defensive suppression and disciplined lead management point toward a controlled, low-scoring affair.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Machida Zelvia's aerial and physical dominance across Jalan Besar's synthetic pitch"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Machida Zelvia control tempo via set-piece superiority and secure a professional clean-sheet win (Confidence: High, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with Machida's low away concession rate and game management (Confidence: High, Value: High)",
+      "Tampines' low-block frustrates Machida early before succumbing to second-half pressure (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-15 14:18:25 UTC"
+  }
+}
