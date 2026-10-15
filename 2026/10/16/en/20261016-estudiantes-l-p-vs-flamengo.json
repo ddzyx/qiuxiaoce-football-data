@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640555,
+    "matchup": "Estudiantes L.P. vs Flamengo",
+    "home_team": "Estudiantes L.P.",
+    "away_team": "Flamengo",
+    "league": "CONMEBOL Libertadores",
+    "kickoff_utc": "2026-10-16 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261016-estudiantes-l-p-vs-flamengo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Estudiantes L.P. vs Flamengo: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1640555",
+      "league": "CONMEBOL Libertadores",
+      "matchup": "Estudiantes L.P. vs Flamengo",
+      "matchTime": "2026-10-16 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back the combined security of Draw / Away Win alongside Under 2.5 goals in an attritional, tactical semi-final first leg.",
+    "possibilityAssessment": [
+      "Tactical stalemate with both sides scoring once in a balanced battle (Confidence: Moderate, Value: High)",
+      "Calculated Flamengo away victory exploiting home defensive suspensions (Confidence: Moderate, Value: Moderate)",
+      "Attrition-heavy goalless first leg governed by strict disciplinary control (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640555",
+      "league": "CONMEBOL Libertadores",
+      "homeTeam": "Estudiantes L.P.",
+      "awayTeam": "Flamengo",
+      "match_time": "00:30",
+      "match_highlight": "Depleted Pincha defense faces reigning champions Mengao in cagey semi-final.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640555,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-density 1:1 stalemate and a narrow 0:1 Flamengo away victory driven by superior squad depth."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined derived lambda of 2.30 and conservative first-leg knockout incentives strongly favor the Under 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 draw reflects historical parity at UNO, while 0:1 accounts for late-game defensive fatigue in Estudiantes' makeshift backline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary convergence point, with a single-goal away smash-and-grab serving as the principal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a scoreless, risk-averse opening half followed by decisive second-half tactical deviations."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-15 12:35:03 UTC"
+}
