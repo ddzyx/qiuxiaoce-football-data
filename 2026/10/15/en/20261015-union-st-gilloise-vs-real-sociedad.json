@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636328,
+    "matchup": "Union St. Gilloise vs Real Sociedad",
+    "home_team": "Union St. Gilloise",
+    "away_team": "Real Sociedad",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-union-st-gilloise-vs-real-sociedad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636328",
+      "matchup": "Union St. Gilloise vs Real Sociedad",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Union St. Gilloise vs Real Sociedad Prediction & Match Analysis: High-Press Intensity vs La Liga Technique — Scoreline & xG Preview",
+    "coreRecommendation": "Union St. Gilloise's vertical intensity and momentum give them the edge at Den Dreef, but structural defensive absences make Home Win / Draw the optimal risk-adjusted thesis.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Sociedad's initial defensive discipline should hold through a level first half before Union's sustained physical pressure breaks through late.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Union's high-intensity home victory (2:1) and Sociedad's technical resistance stalemate (1:1), accounting for Mac Allister and Zorgane's absences.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Three goals represent the primary landing zone in a dynamic end-to-end clash, with two goals offering secondary containment.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home triumph serves as the primary convergence point, with 1:1 reflecting Sociedad's individual creative capacity.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636328",
+      "awayTeam": "Real Sociedad",
+      "homeTeam": "Union St. Gilloise",
+      "fixtureId": 1636328,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Sociedad's leaky defense conceding 1.88 goals per game combined with Union's 3.30 European xG supports an open, high-scoring contest.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "High-press verticality clashes with Basque technical possession at Den Dreef."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Union St. Gilloise exploit Sociedad's fragile build-up to claim a high-tempo 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Real Sociedad's technical pedigree neutralizes the press to secure a combative 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive transition volume drives the aggregate match score over 2.5 goals (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:57:47 UTC"
+  }
+}
