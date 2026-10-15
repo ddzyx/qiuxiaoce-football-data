@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636279,
+    "matchup": "Lech Poznan vs Bayer Leverkusen",
+    "home_team": "Lech Poznan",
+    "away_team": "Bayer Leverkusen",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-lech-poznan-vs-bayer-leverkusen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636279",
+      "matchup": "Lech Poznan vs Bayer Leverkusen",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "0:3",
+        "1:2"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Lech Poznan vs Bayer Leverkusen Prediction: Can Kolejorz Contain Schick's xG? — Scoreline & Model Preview",
+    "coreRecommendation": "Bayer Leverkusen possess an overwhelming qualitative and tactical advantage against a depleted Lech Poznan side, making an Away Win the premier projection.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Leverkusen are primed to lead from the front, with Draw-Loss acting as the secondary attrition script.",
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Bayer Leverkusen's qualitative supremacy and Lech Poznan's defensive vulnerabilities make an Away Win the most resilient analytical choice.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Three goals represents the median output, followed closely by a controlled two-goal away triumph.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 0:3 away rout represents the tactical convergence point, with 1:2 serving as the primary competitive variance branch.",
+        "selection": [
+          "0:3",
+          "1:2"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636279",
+      "awayTeam": "Bayer Leverkusen",
+      "homeTeam": "Lech Poznan",
+      "fixtureId": 1636279,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Combined European xG profile (3.0 lambda total) and Lech's 2.23 xGA indicate strong probability of reaching three or more goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Leverkusen class and Lech midfield suspension dictate away dominance."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Bayer Leverkusen dominant multi-goal away victory (Confidence: High, Value: High)",
+      "High match goal volume exceeding Over 2.5 goals (Confidence: High, Value: Moderate)",
+      "Controlled Leverkusen clean sheet victory 0:2 or 0:3 (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-4",
+    "halftime_score": "0-3",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:57:37 UTC"
+  }
+}
