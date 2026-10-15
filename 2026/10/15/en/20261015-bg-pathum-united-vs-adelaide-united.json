@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1630372,
+    "matchup": "BG Pathum United vs Adelaide United",
+    "home_team": "BG Pathum United",
+    "away_team": "Adelaide United",
+    "league": null,
+    "kickoff_utc": "2026-10-15 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261015-bg-pathum-united-vs-adelaide-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "AFC Champions League Two",
+      "matchId": "1630372",
+      "matchup": "BG Pathum United vs Adelaide United",
+      "matchTime": "2026-10-15 12:15 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "BG Pathum United vs Adelaide United Prediction & Match Analysis: A-League Firepower vs Thai Resistance",
+    "coreRecommendation": "Adelaide United to demonstrate physical and tactical superiority to secure an away victory at True BG Stadium.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Pathum holding early parity before Adelaide's superior second-half stamina breaks through represents the leading chronological script.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Adelaide United's 1.59 xG average and aerial superiority provide a dominant edge over Pathum's fragile backline.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represent the most probable distribution peak at 25.7%, backed by three goals at 21.4%.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 0:2 away clean sheet serves as the primary matrix anchor, with 1:2 covering an isolated Pathum reply.",
+        "selection": [
+          "0:2",
+          "1:2"
+        ]
+      },
+      "league": "AFC Champions League Two",
+      "matchId": "1630372",
+      "awayTeam": "Adelaide United",
+      "homeTeam": "BG Pathum United",
+      "fixtureId": 1630372,
+      "match_time": "12:15",
+      "over_under": {
+        "comment": "Poisson distribution density concentrates at 54.4% for under 2.5 goals with Pathum offering limited scoring threat.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Adelaide United transition velocity tests BG Pathum United backline fragility."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Adelaide United controls tempo and exploits wide transitions for a multi-goal away win (Confidence: High, Value: High)",
+      "Controlled game state yielding Under 2.5 total goals as Pathum struggles to convert chances (Confidence: Moderate, Value: High)",
+      "Pathum snatches an isolated counter goal but Adelaide outscores them 1:2 (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-2",
+    "halftime_score": "1-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-15 14:18:21 UTC"
+  }
+}
