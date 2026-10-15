@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636338,
+    "matchup": "Sparta Praha vs Lillestrom",
+    "home_team": "Sparta Praha",
+    "away_team": "Lillestrom",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-sparta-praha-vs-lillestrom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636338",
+      "matchup": "Sparta Praha vs Lillestrom",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "3:1",
+        "2:0"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "4",
+        "3"
+      ]
+    },
+    "articleTitle": "Sparta Praha vs Lillestrom Prediction & Match Analysis: Letná Fortress Confronts Norwegian Transition Threat — Scoreline & xG Preview",
+    "coreRecommendation": "Sparta Praha are projected to dominate possession and exploit Lillestrom's defensive frailties to secure a multi-goal home victory at Stadion Letná.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Sparta's typical high-intensity opening at home favors leading at both half-time and full-time.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Sparta Praha hold overwhelming advantages in technical quality, squad depth, and tactical cohesion, backed by a 77.5% modeled win expectancy.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Expected goals modeling points toward an open match featuring 3 to 4 total goals.",
+        "selection": [
+          "4",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 3:1 victory represents the peak convergence of Sparta's attacking volume and Lillestrom's isolated counter-attacking threat.",
+        "selection": [
+          "3:1",
+          "2:0"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636338",
+      "awayTeam": "Lillestrom",
+      "homeTeam": "Sparta Praha",
+      "fixtureId": 1636338,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Combined lambda expectancy of 4.00 and high transition tempo strongly support a goal-rich contest exceeding 2.5 goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Sparta's suffocating Letná fortress meets Lillestrom's vulnerable continental backline"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Sparta Praha comfortable home victory driven by sustained territorial siege and set-piece efficiency (Confidence: High, Value: High)",
+      "High-scoring affair with both teams contributing to an Over 2.5 total (Confidence: High, Value: Moderate)",
+      "Lillestrom snatch an early transition goal before Sparta execute a dominant comeback (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-10-15 18:57:56 UTC"
+  }
+}
