@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636350,
+    "matchup": "Torreense vs Sunderland",
+    "home_team": "Torreense",
+    "away_team": "Sunderland",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-torreense-vs-sunderland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636350",
+      "matchup": "Torreense vs Sunderland",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Torreense vs Sunderland Prediction & Match Analysis: Class Gap Meets Low Block — Scoreline Preview",
+    "coreRecommendation": "Sunderland's profound Premier League quality and tactical midfield dominance will dismantle Torreense's low block in a controlled, low-scoring away victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Torreense's early defensive resistance points toward a level first half before Sunderland's class tells after the interval.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Sunderland holds an immense 279-point Elo superiority and baseline defensive solidity that Torreense cannot penetrate.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Sunderland's controlled tempo away from home heavily clusters final goal counts at exactly 2 or 1.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "A professional 0:2 victory represents the optimal convergence of Sunderland's superiority and tempo conservation.",
+        "selection": [
+          "0:2",
+          "0:1"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636350",
+      "awayTeam": "Sunderland",
+      "homeTeam": "Torreense",
+      "fixtureId": 1636350,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Torreense's toothless attack and Brobbey's absence in Sunderland's forward line favor a tight 0-1 or 0-2 scoreline.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Premier League class chasm collides with Portuguese second-tier low block."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Sunderland controlled away victory featuring clean sheet and 1-2 goal margin (Confidence: High, Value: High)",
+      "Low total goals under 2.5 driven by Torreense deep block and Sunderland lead management (Confidence: High, Value: Moderate)",
+      "Resilient Torreense first-half stalemate resolving into second-half Sunderland breakthrough (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-2",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:58:00 UTC"
+  }
+}
