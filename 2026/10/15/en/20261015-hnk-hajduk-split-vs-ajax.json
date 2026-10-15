@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636419,
+    "matchup": "HNK Hajduk Split vs Ajax",
+    "home_team": "HNK Hajduk Split",
+    "away_team": "Ajax",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-hnk-hajduk-split-vs-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "HNK Hajduk Split vs Ajax Prediction: Defensive Dilution Meets Eredivisie Firepower — XG Mind AI Analysis",
+    "meta": {
+      "matchId": "1636419",
+      "league": "UEFA Europa Conference League",
+      "matchup": "HNK Hajduk Split vs Ajax",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ajax to overcome defensive injuries and secure an away victory in a high-tempo match exceeding 2.5 goals.",
+    "possibilityAssessment": [
+      "Ajax tactical superiority and attacking volume break Hajduk resistance for away win (Confidence: Moderate, Value: Moderate)",
+      "High match tempo and defensive fragility produce Over 2.5 match goals (Confidence: High, Value: High)",
+      "Hajduk Split exploit makeshift Ajax defense to force a low-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636419",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "HNK Hajduk Split",
+      "awayTeam": "Ajax",
+      "match_time": "16:45",
+      "match_highlight": "Ajax firepower faces Hajduk counter-threat at Poljud",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636419,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Ajax's 2.8 goals-per-match attacking output and 68.7% Poisson baseline establish an edge that should overpower Hajduk Split over 90 minutes."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson simulations indicate a 77.6% likelihood for three or more goals, driven by Ajax's scoring prowess and depleted defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 serves as the primary convergence point between Ajax's attacking class and Hajduk's counter-punching presence at home."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the dominant clusters in the Poisson distribution at 19.0% and 19.5% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures Hajduk's initial home resilience before Ajax's superior possession dominance tells in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-15 06:38:58 UTC"
+}
