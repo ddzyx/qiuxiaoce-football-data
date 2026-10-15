@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636332,
+    "matchup": "Red Bull Salzburg vs AC Milan",
+    "home_team": "Red Bull Salzburg",
+    "away_team": "AC Milan",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-red-bull-salzburg-vs-ac-milan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636332",
+      "matchup": "Red Bull Salzburg vs AC Milan",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Red Bull Salzburg vs AC Milan Prediction: Rossoneri Quality vs Salzburg Press — Scoreline & xG Preview",
+    "coreRecommendation": "Back AC Milan to avoid defeat in a competitive continental battle, with Draw / Away Win and Under 2.5 Total Goals offering the optimal risk-adjusted thesis.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Expect a balanced opening 45 minutes leading to either a full-time draw or a second-half Milan breakthrough.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Combines the most probable 1:1 stalemate with Milan's superior technical edge to secure a 1:2 away victory.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represents the distribution peak via 1:1, with three goals covering the alternative 1:2 away victory.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 1:1 draw serves as the natural convergence point, while 1:2 reflects Milan's late individual quality.",
+        "selection": [
+          "1:1",
+          "1:2"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636332",
+      "awayTeam": "AC Milan",
+      "homeTeam": "Red Bull Salzburg",
+      "fixtureId": 1636332,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Salzburg's profligate chance conversion and Milan's road caution point toward a tightly contested, low-scoring affair.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Salzburg pressing tests Milan's experienced midfield in high-stakes European battle"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance thesis capturing a competitive 1:1 stalemate or narrow 1:2 Milan victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals driven by tactical caution and elite goalkeeping from Mike Maignan (Confidence: Moderate, Value: High)",
+      "Exactly 2 Goals anchored by the high-probability 1:1 primary scoreline (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-4",
+    "halftime_score": "0-2",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:57:51 UTC"
+  }
+}
