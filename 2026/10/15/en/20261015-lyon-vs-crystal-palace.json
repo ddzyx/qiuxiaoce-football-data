@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636293,
+    "matchup": "Lyon vs Crystal Palace",
+    "home_team": "Lyon",
+    "away_team": "Crystal Palace",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-lyon-vs-crystal-palace/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636293",
+      "matchup": "Lyon vs Crystal Palace",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Decoupling Lyon vs Crystal Palace: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "coreRecommendation": "Crystal Palace's transitional superiority to exploit Lyon's high defensive line in a competitive multi-goal encounter (Draw / Away Win).",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A level opening half preceding second-half tactical separation or a sustained deadlock from the home perspective.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Palace's superior transitional quality (1:2) alongside Lyon's home pedigree and rest surplus forcing a stalemate (1:1).",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Three goals reflects the primary 1:2 dynamic, with two goals covering the tighter 1:1 game state.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:2 Palace transition victory represents the primary script, supported by a 1:1 stalemate hedge.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636293",
+      "awayTeam": "Crystal Palace",
+      "homeTeam": "Lyon",
+      "fixtureId": 1636293,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Aggregate lambda of 3.50 and high combined xG generation favor an active scoreline exceeding two goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Palace transition pace tests Lyon's high line at Groupama Stadium."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Crystal Palace transition pace secures a narrow road triumph (Confidence: Moderate, Value: High)",
+      "Lyon home resilience forces a competitive shared stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive lines produce an end-to-end multi-goal exchange clearing Over 2.5 (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "2-0",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:57:42 UTC"
+  }
+}
