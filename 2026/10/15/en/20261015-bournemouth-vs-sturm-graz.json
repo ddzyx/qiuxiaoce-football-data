@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636236,
+    "matchup": "Bournemouth vs Sturm Graz",
+    "home_team": "Bournemouth",
+    "away_team": "Sturm Graz",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-10-15 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261015-bournemouth-vs-sturm-graz/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bournemouth vs Sturm Graz Prediction: Cherries Press vs Austrian Low Block — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1636236",
+      "league": "UEFA Europa League",
+      "matchup": "Bournemouth vs Sturm Graz",
+      "matchTime": "2026-10-15 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bournemouth will capitalize on their historic European home debut and Sturm Graz's severe injury crisis to secure victory through high-tempo pressing.",
+    "possibilityAssessment": [
+      "Bournemouth Home Win via sustained territorial pressure and wide overloads (Confidence: Moderate, Value: Moderate)",
+      "High-tempo game state driving Over 2.5 total goals and a 2:1 scoreline (Confidence: Moderate, Value: High)",
+      "Defensive low-block hedge producing a controlled 2:0 home shutout (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636236",
+      "league": "UEFA Europa League",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Sturm Graz",
+      "match_time": "19:00",
+      "match_highlight": "Historic European home debut meets heavily depleted Austrian low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636236,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bournemouth's superior athletic profile and underlying 2.50 xG output heavily overpower a decimated Sturm Graz missing talisman Otar Kiteishvili."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Bournemouth's expansive pressing tempo and recent open scorelines combine with sharp liquidity pushing the line to support 3+ goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Primary 2:1 reflects Bournemouth's dominance alongside transition vulnerability, while secondary 2:0 captures a complete defensive shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact totals of 3 and 2 goals represent the two dominant Poisson clusters, aligned with 2:1 and 2:0 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Bournemouth's trademark fast start favors Win-Win, with Draw-Win providing robust coverage against a stubborn first-half low block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-15 07:07:16 UTC"
+}
