@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636239,
+    "matchup": "Celje vs Omonia Nicosia",
+    "home_team": "Celje",
+    "away_team": "Omonia Nicosia",
+    "league": null,
+    "kickoff_utc": "2026-10-15 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261015-celje-vs-omonia-nicosia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636239",
+      "matchup": "Celje vs Omonia Nicosia",
+      "matchTime": "2026-10-15 16:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "1",
+        "2"
+      ]
+    },
+    "articleTitle": "Celje vs Omonia Nicosia Prediction & Match Analysis: Can Celje Breach Cypriot Low Block? — Scoreline & xG Preview",
+    "coreRecommendation": "Back Omonia Nicosia to exploit Celje's transition vulnerabilities and avoid defeat in a low-scoring contest.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A scoreless, structured first half gives way to either a late Omonia away breakthrough or a sustained stalemate.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Omonia holds a 125-point Elo advantage and tactical counter-attacking mastery against Celje's vulnerable transition defense.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Tactical containment and low-event game states concentrate scoring probability heavily into 1 or 2 goals.",
+        "selection": [
+          "1",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A disciplined 0:1 away counter-punch is the leading convergence point, with 1:1 covering Celje's home persistence.",
+        "selection": [
+          "0:1",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636239",
+      "awayTeam": "Omonia Nicosia",
+      "homeTeam": "Celje",
+      "fixtureId": 1636239,
+      "match_time": "16:45",
+      "over_under": {
+        "comment": "Suppressed combined goal expectancy of 1.50 lambda with both sides showing low shot conversion in European play.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Omonia's lethal vertical transitions challenge Celje's fragile possession-based defensive shape."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Omonia low-block containment into clinical transition victory (Confidence: Moderate, Value: High)",
+      "Disciplined low-scoring stalemate at Stadion Z’dežele (Confidence: Moderate, Value: Moderate)",
+      "Celje territorial breakthrough via set-piece header (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-3",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-15 18:57:33 UTC"
+  }
+}
