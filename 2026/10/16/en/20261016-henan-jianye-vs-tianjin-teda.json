@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1523275,
+    "matchup": "Henan Jianye vs Tianjin Teda",
+    "home_team": "Henan Jianye",
+    "away_team": "Tianjin Teda",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-16 11:35:00",
+    "source_url": "https://xgmind.com/matches/20261016-henan-jianye-vs-tianjin-teda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Henan Jianye vs Tianjin Teda Prediction: Tactical Clash at Hanghai — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1523275",
+      "league": "Super League",
+      "matchup": "Henan Jianye vs Tianjin Teda",
+      "matchTime": "2026-10-16 11:35 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Tianjin Teda to exploit Henan's persistent inability to manage positive game states by securing a result in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Primary: Draw / Away Win double-chance supported by Henan's 5-match draw streak and Tianjin's 3-match win streak (Confidence: Moderate, Value: High)",
+      "Secondary: Under 2.5 Goals backed by combined 2.40 Poisson lambda and compact away low block (Confidence: High, Value: Moderate)",
+      "Contingency: Tianjin Teda to win 0:1 on a late transition strike (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1523275",
+      "league": "Super League",
+      "homeTeam": "Henan Jianye",
+      "awayTeam": "Tianjin Teda",
+      "match_time": "11:35",
+      "match_highlight": "Henan's draw streak meets Tianjin's lethal away counter-attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1523275,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Henan's chronic deadlock tendency alongside Tianjin's superior transition efficiency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Strong model concentration beneath the 2.5 line with both teams averaging modest xG outputs."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects the natural 1:1 stalemate anchor and the 0:1 away counter-attacking script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Derived from the primary 1:1 and secondary 0:1 defensive containment scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Expects tight first-half tactical parity before Tianjin's counter threatens late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 03:26:38 UTC"
+}
