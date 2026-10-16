@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563812,
+    "matchup": "Shrewsbury vs Bristol Rovers",
+    "home_team": "Shrewsbury",
+    "away_team": "Bristol Rovers",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-17 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-shrewsbury-vs-bristol-rovers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shrewsbury vs Bristol Rovers Prediction & Match Analysis: Road Fragility Meets Salop Low Block — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563812",
+      "league": "League Two",
+      "matchup": "Shrewsbury vs Bristol Rovers",
+      "matchTime": "2026-10-17 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 Goals as Bristol Rovers' superior attacking caliber confronts Shrewsbury's resilient home low block.",
+    "possibilityAssessment": [
+      "Bristol Rovers break road duck with narrow 0:1 victory via Cavegn breakthrough (Confidence: Moderate, Value: High)",
+      "Shrewsbury low block forces tactical stalemate in 1:1 or 0:0 deadlock (Confidence: Moderate, Value: Moderate)",
+      "Late defensive lapses create isolated second-half variance (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563812",
+      "league": "League Two",
+      "homeTeam": "Shrewsbury",
+      "awayTeam": "Bristol Rovers",
+      "match_time": "11:30",
+      "match_highlight": "Cavegn's return tests Salop's low-block resistance at Croud Meadow.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563812,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Bristol Rovers possess superior attacking underlying metrics through Cavegn, but their winless away record necessitates draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bivariate Poisson models allocate 74.9% combined density to Under 2.5, supported by Shrewsbury's 0.16 offensive xG output."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 away triumph reflects Rovers' offensive edge, while 1:1 covers their away defensive vulnerabilities."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One goal leads the probability matrix at 30.7%, with two goals serving as the primary secondary branch at 26.5%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cowan's conservative setup supports a goalless opening half before second-half fatigue dictates the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 23:37:16 UTC"
+}
