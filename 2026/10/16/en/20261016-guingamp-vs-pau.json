@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552497,
+    "matchup": "Guingamp vs PAU",
+    "home_team": "Guingamp",
+    "away_team": "PAU",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-guingamp-vs-pau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guingamp vs PAU Prediction & Match Analysis: Center-Back Crisis Tests Roudourou — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552497",
+      "league": "Ligue 2",
+      "matchup": "Guingamp vs PAU",
+      "matchTime": "2026-10-16 18:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Pau FC are primed to capitalize on Guingamp's dual center-back suspensions to secure a low-scoring result in a Draw or Away Win trajectory.",
+    "possibilityAssessment": [
+      "Pau FC exploit transitional seams against an improvised Breton defense to claim a 0:1 road victory (Confidence: Moderate, Value: High)",
+      "Guingamp rally behind home support to salvage a hard-fought 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Guingamp overcome defensive absences through early attacking pressure to secure a narrow 1:0 victory (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552497",
+      "league": "Ligue 2",
+      "homeTeam": "Guingamp",
+      "awayTeam": "PAU",
+      "match_time": "18:00",
+      "match_highlight": "Guingamp central defensive suspensions elevate Pau FC's transitional upset potential.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552497,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Pau FC's superior 1.70 xG process and Guingamp's severe defensive absences make the Draw or Away Win double outcome far more robust than home win pricing."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution models concentrate over 80% probability on two or fewer total goals in an attritional Ligue 2 tactical matchup."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A clinical 0:1 Pau transition victory represents the primary script, with a 1:1 deadlock serving as the primary contingency."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Ligue 2 scoring pace and defensive caution point directly toward a tight contest producing exactly 1 or 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, goalless opening half is projected to resolve into either an away breakthrough or sustained parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:09:53 UTC"
+}
