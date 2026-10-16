@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606703,
+    "matchup": "Kataller Toyama vs Shonan Bellmare",
+    "home_team": "Kataller Toyama",
+    "away_team": "Shonan Bellmare",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-17 09:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-kataller-toyama-vs-shonan-bellmare/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kataller Toyama vs Shonan Bellmare Prediction: Can Nagasawa's Compact Shape Halt Toyama? — xG Preview",
+    "meta": {
+      "matchId": "1606703",
+      "league": "J2 League",
+      "matchup": "Kataller Toyama vs Shonan Bellmare",
+      "matchTime": "2026-10-17 09:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shonan Bellmare's unbeaten road record and defensive solidity are projected to hold off Toyama's attack in a 1-1 stalemate or edge a narrow 1-2 away win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory supported by Shonan's 0.67 road goals-against average (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as Shonan's compact block dampens Toyama's attacking conversion (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Score serving as the primary probabilistic convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606703",
+      "league": "J2 League",
+      "homeTeam": "Kataller Toyama",
+      "awayTeam": "Shonan Bellmare",
+      "match_time": "09:00",
+      "match_highlight": "Shonan's undefeated away defense confronts Toyama's high-octane Hokuriku attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606703,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Shonan's undefeated away record and 50% draw rate make the Draw or Away Win pair the most robust probabilistic direction against Toyama's attack."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Shonan Bellmare concede just 0.67 goals per away fixture, dampening Toyama's firepower toward a low-scoring match flow."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate serves as the primary convergence point, with 1:2 providing coverage for a clinical Shonan counter-attack."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three total goals represent the dominant probability density across both projected match states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half favors level terms at the interval, transitioning into either a full-time draw or late Shonan winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 21:06:37 UTC"
+}
