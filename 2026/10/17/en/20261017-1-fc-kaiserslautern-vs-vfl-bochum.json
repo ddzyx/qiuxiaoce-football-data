@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576202,
+    "matchup": "1. FC Kaiserslautern vs VfL Bochum",
+    "home_team": "1. FC Kaiserslautern",
+    "away_team": "VfL Bochum",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-10-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-1-fc-kaiserslautern-vs-vfl-bochum/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Kaiserslautern vs VfL Bochum Prediction & Match Analysis: Betzenberg Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1576202",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Kaiserslautern vs VfL Bochum",
+      "matchTime": "2026-10-17 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back 1. FC Kaiserslautern to avoid defeat in a low-scoring tactical contest capped under 2.5 total goals.",
+    "possibilityAssessment": [
+      "1. FC Kaiserslautern narrow home victory 1:0 via second-half attrition (Confidence: Moderate, Value: High)",
+      "Low-scoring tactical stalemate 1:1 driven by Kaiserslautern finishing variance (Confidence: Moderate, Value: Moderate)",
+      "Defensive siege ending in a goalless deadlock 0:0 against Bochum low-block (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576202",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Kaiserslautern",
+      "awayTeam": "VfL Bochum",
+      "match_time": "11:00",
+      "match_highlight": "League-best defense hosts toothless Bochum in low-event Betzenberg clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576202,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kaiserslautern's primary 1:0 breakthrough and the 1:1 stalemate risk stemming from their low big chance conversion rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams have combined for just 11 goals in 14 matches, heavily favoring a low-scoring outcome."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home win is the primary convergence point, with 1:1 covering an unresolved low-block deadlock."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Projected scorelines cluster strictly within the 1-goal and 2-goal bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Bochum's compact first-half structure points to a level opening 45 minutes before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 23:06:23 UTC"
+}
