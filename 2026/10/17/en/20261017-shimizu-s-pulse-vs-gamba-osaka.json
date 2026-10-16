@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556099,
+    "matchup": "Shimizu S-pulse vs Gamba Osaka",
+    "home_team": "Shimizu S-pulse",
+    "away_team": "Gamba Osaka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-17 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-shimizu-s-pulse-vs-gamba-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shimizu S-pulse vs Gamba Osaka Prediction: Defensive Fragility Meets Direct Breaks — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556099",
+      "league": "J1 League",
+      "matchup": "Shimizu S-pulse vs Gamba Osaka",
+      "matchTime": "2026-10-17 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shimizu S-pulse are projected to exploit Gamba Osaka's defensive fragility and continental fatigue, making Home Win / Draw combined with Under 2.5 the optimal probabilistic selection.",
+    "possibilityAssessment": [
+      "Shimizu S-pulse capitalize on vertical transitions against fatigued defense to secure a low-scoring victory (Confidence: Moderate, Value: High)",
+      "Gamba Osaka's technical midfield secures territorial control but settles for a tight 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Gamba Osaka overcome travel fatigue through individual attacking brilliance to snatch an away upset (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556099",
+      "league": "J1 League",
+      "homeTeam": "Shimizu S-pulse",
+      "awayTeam": "Gamba Osaka",
+      "match_time": "04:00",
+      "match_highlight": "Shimizu counter-attack challenges travel-weary Gamba defense at IAI Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556099,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Shimizu's primary 1:0 transitional victory alongside the active risk of a low-scoring 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.30 and Shimizu's low-possession game model favor a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Natural convergence of Shimizu's 1.0 goal prevention and Gamba's 1.8 conceded goals per match."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model density heavily concentrates on 2 goals (26.5%) and 1 goal (23.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Even opening half expected before Gamba's travel fatigue enables second-half home acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 16:04:02 UTC"
+}
