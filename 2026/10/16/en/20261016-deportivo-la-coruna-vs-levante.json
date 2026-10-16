@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570415,
+    "matchup": "Deportivo La Coruna vs Levante",
+    "home_team": "Deportivo La Coruna",
+    "away_team": "Levante",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-16 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-deportivo-la-coruna-vs-levante/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Deportivo La Coruna vs Levante: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1570415",
+      "league": "La Liga",
+      "matchup": "Deportivo La Coruna vs Levante",
+      "matchTime": "2026-10-16 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo La Coruna are projected to maintain home dominance against a defensively porous Levante, with a 2:1 home victory or a 1:1 stalemate representing the most probable outcomes amidst key attacking absences.",
+    "possibilityAssessment": [
+      "Deportivo exploit Levante's 2.10 xGA road vulnerability via flank overloads to secure a narrow 2:1 win (Confidence: Moderate, Value: Moderate)",
+      "Aubameyang's absence blunts Deportivo's finishing, allowing Levante to hold a gritty 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Ivan Romero strikes on counter-attack against depleted Depor midfield to threaten an upset (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570415",
+      "league": "La Liga",
+      "homeTeam": "Deportivo La Coruna",
+      "awayTeam": "Levante",
+      "match_time": "19:00",
+      "match_highlight": "Aubameyang injury tests Depor depth against Levante's porous defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570415,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Deportivo edging a vulnerable Levante defense alongside a draw contingency driven by Aubameyang's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Levante's league-worst 2.10 xGA conceded per game combines with baseline model lambda of 2.905 to favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 2:1 home victory or a 1:1 deadlock if Deportivo struggle for conversion without their top scorer."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads via open second-half transitions, followed closely by a 2-goal containment script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half gives way to either a late Deportivo breakthrough or an enduring tactical stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 07:18:34 UTC"
+}
