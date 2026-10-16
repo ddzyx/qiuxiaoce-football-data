@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606701,
+    "matchup": "Sagan Tosu vs Omiya Ardija",
+    "home_team": "Sagan Tosu",
+    "away_team": "Omiya Ardija",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-17 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-sagan-tosu-vs-omiya-ardija/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sagan Tosu vs Omiya Ardija Prediction: Can Tosu's Low Block Halt Ardija's Unbeaten Run? — Model Preview",
+    "meta": {
+      "matchId": "1606701",
+      "league": "J2 League",
+      "matchup": "Sagan Tosu vs Omiya Ardija",
+      "matchTime": "2026-10-17 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Omiya Ardija to preserve their unbeaten record via a Draw / Away Win double chance, with a 1:1 stalemate serving as the primary convergence scoreline.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capturing Omiya's league invincibility and road draw pattern (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 anchored by Tosu's defensive low block and Omiya's away goal ceiling (Confidence: Moderate, Value: Moderate)",
+      "Correct score 1:1 as the tactical modal outcome between host resistance and away quality (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606701",
+      "league": "J2 League",
+      "homeTeam": "Sagan Tosu",
+      "awayTeam": "Omiya Ardija",
+      "match_time": "05:00",
+      "match_highlight": "Unbeaten Omiya face stubborn Sagan Tosu low block at Ekimae Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606701,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Omiya's unbeaten 10-match campaign while fully respecting their road draw tendency and Tosu's stubborn home defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Tosu's 5-4-1 low block and Omiya's low-scoring away streak (three consecutive road matches Under 2.5) cap total output."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the natural tactical equilibrium, while 1:2 accounts for Omiya's superior second-half bench firepower."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal baseline from a 1:1 draw, with three goals serving as the primary alternative branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half is highly probable, leading either to a deadlocked finish or a late Omiya breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 17:13:55 UTC"
+}
