@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556096,
+    "matchup": "Mito Hollyhock vs Urawa",
+    "home_team": "Mito Hollyhock",
+    "away_team": "Urawa",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-17 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-mito-hollyhock-vs-urawa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mito Hollyhock vs Urawa Prediction & Match Analysis: Can Reds Plug Away Transition Flaws? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556096",
+      "league": "J1 League",
+      "matchup": "Mito Hollyhock vs Urawa",
+      "matchTime": "2026-10-17 07:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Mito Hollyhock's sharp home transition threat exploits Urawa's defensive fragility on the road, anchoring a high-value Home Win / Draw projection led by a 2:1 scoreline.",
+    "possibilityAssessment": [
+      "Primary Thesis: Mito Hollyhock capitalize on Urawa's away defensive leaks in transition to secure a home triumph (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Structured possession and individual pedigree allow Urawa to stabilize tempo and salvage a tight stalemate (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: An early deadlock forces a low-margin attritional contest contained within Under 2.5 goals (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556096",
+      "league": "J1 League",
+      "homeTeam": "Mito Hollyhock",
+      "awayTeam": "Urawa",
+      "match_time": "07:00",
+      "match_highlight": "Mito home transition pace tests Urawa fragile road defense",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1556096,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Mito exploiting Urawa's 3.0 away goals conceded and Urawa's midfield stabilizing for a draw, where a single call overlooks road volatility."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.20 and porous away defending heavily tilt the goal distribution past the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects peak model density while 1:1 provides the natural hedge against Urawa individual quality."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome at 22.3% probability, closely followed by two goals at 20.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half gives way to either Mito's second-half transition breakthrough or a sustained tactical deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 19:07:56 UTC"
+}
