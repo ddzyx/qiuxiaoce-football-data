@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563205,
+    "matchup": "Burnley vs Wolves",
+    "home_team": "Burnley",
+    "away_team": "Wolves",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-16 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-burnley-vs-wolves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burnley vs Wolves Prediction & Tactical Analysis: Can Turf Moor Draw Trend Foil Wolves? — xG Breakdown",
+    "meta": {
+      "matchId": "1563205",
+      "league": "Championship",
+      "matchup": "Burnley vs Wolves",
+      "matchTime": "2026-10-16 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Draw / Away Win in a low-scoring Championship encounter driven by striker absences and Burnley's chronic home stalemate pattern.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory anchored by Burnley's winless home form and Wolves' transitional edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals backed by independent Poisson model and mutual key striker absences (Confidence: High, Value: Moderate)",
+      "Primary 1:1 stalemate convergence reflecting historical Turf Moor head-to-head precedent (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563205",
+      "league": "Championship",
+      "homeTeam": "Burnley",
+      "awayTeam": "Wolves",
+      "match_time": "19:00",
+      "match_highlight": "Depleted attacks collide as Burnley look to snap Turf Moor stalemate run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563205,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the central 1:1 stalemate script and Wolves' 0:1 transition victory, reflecting Burnley's winless home record and severe attacking injury list."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model projects an 88.9% combined density beneath 2.5 goals with Amdouni and Jiménez both sidelined."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 mirrors the last two Turf Moor meetings and Burnley's home draw pattern, while 0:1 reflects a clinical Wolves counter-punch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary 1:1 outcome, while one goal accounts for a disciplined 0:1 away smash-and-grab."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half leads into either a sustained level finish (Draw-Draw) or a late Wolves winner (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 07:19:34 UTC"
+}
