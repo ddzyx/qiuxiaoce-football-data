@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552498,
+    "matchup": "Laval vs Clermont Foot",
+    "home_team": "Laval",
+    "away_team": "Clermont Foot",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-laval-vs-clermont-foot/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Laval vs Clermont Foot Prediction & Match Analysis: Low-Block Impasse & xG Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1552498",
+      "league": "Ligue 2",
+      "matchup": "Laval vs Clermont Foot",
+      "matchTime": "2026-10-16 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Laval and Clermont Foot are projected to battle to a low-scoring stalemate, with Home Win / Draw offering the sturdiest risk-adjusted foundation.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Clermont Foot's 6 draws in 8 matches and Laval's home territorial edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by an 82.3% model probability and severe offensive finishing deficits (Confidence: High, Value: Moderate)",
+      "Exact 1:1 scoreline representing the primary statistical convergence point between two cautious relegation combatants (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552498",
+      "league": "Ligue 2",
+      "homeTeam": "Laval",
+      "awayTeam": "Clermont Foot",
+      "match_time": "18:00",
+      "match_highlight": "Relegation six-pointer defined by Clermont's relentless draw tendency and low goal expectancy.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552498,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:1 stalemate driven by Clermont's 6 draws in 8 games and a narrow 1:0 home victory should Laval break through."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Low combined expected goals (0.36 vs 0.84) and relegation caution project an 82.3% probability of staying under the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 captures Clermont Foot's standard away trajectory, while 1:0 serves as the primary home win scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model probabilities allocate 58.7% cumulative density to exactly 1 or 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first halves point toward a level interval before second-half attrition decides the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:10:01 UTC"
+}
