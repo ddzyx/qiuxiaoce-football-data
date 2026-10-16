@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638089,
+    "matchup": "Ilves vs SJK",
+    "home_team": "Ilves",
+    "away_team": "SJK",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-10-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-ilves-vs-sjk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ilves vs SJK Prediction & Match Analysis: Hytonen's Golden Boot Chase vs SJK Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1638089",
+      "league": "Veikkausliiga",
+      "matchup": "Ilves vs SJK",
+      "matchTime": "2026-10-17 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ilves hold home advantage and superior firepower, but SJK's disciplined low block and the suspension of Sauli Väisänen point toward a tight Home Win / Draw outcome.",
+    "possibilityAssessment": [
+      "Ilves break through SJK low block to edge a 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Tactical 1:1 stalemate mirroring both 2026 regular season meetings (Confidence: Moderate, Value: High)",
+      "SJK exploit host defensive absence on the counter to snatch a narrow away upset (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638089",
+      "league": "Veikkausliiga",
+      "homeTeam": "Ilves",
+      "awayTeam": "SJK",
+      "match_time": "11:00",
+      "match_highlight": "Hytönen hunts Golden Boot against Wiss's stubborn 5-match unbeaten defensive block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638089,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate script and the secondary 2:1 Ilves home victory script without unnecessary risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by SJK conceding only two goals across their last five matches and the 1:1 matrix convergence."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Exact alignment with the model's highest probability densities and historical 2026 league draws."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Reflects the dominant 2-goal and 3-goal game states supported by Poisson modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Draw-Draw reflects Wiss's disciplined first-half structure, while Draw-Win accounts for Ilves' late attacking push."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 23:08:10 UTC"
+}
