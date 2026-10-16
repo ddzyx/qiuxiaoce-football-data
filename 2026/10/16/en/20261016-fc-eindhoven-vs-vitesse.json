@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551838,
+    "matchup": "FC Eindhoven vs Vitesse",
+    "home_team": "FC Eindhoven",
+    "away_team": "Vitesse",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-fc-eindhoven-vs-vitesse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Eindhoven vs Vitesse Prediction & Match Analysis: Can Blauwwitten Contain Bannis? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551838",
+      "league": "Eerste Divisie",
+      "matchup": "FC Eindhoven vs Vitesse",
+      "matchTime": "2026-10-16 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Vitesse's superior attacking baseline edges FC Eindhoven's porous defense in a competitive encounter.",
+    "possibilityAssessment": [
+      "Vitesse exploits Eindhoven's transition gaps to secure a narrow 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Jan Louwers home resistance forces a high-intensity 1:1 deadlock (Confidence: Moderate, Value: Moderate)",
+      "High defensive concessions push match total Over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551838",
+      "league": "Eerste Divisie",
+      "homeTeam": "FC Eindhoven",
+      "awayTeam": "Vitesse",
+      "match_time": "18:00",
+      "match_highlight": "Porous Eindhoven defense faces sharp Vitesse front line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551838,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Vitesse's superior attacking potency edges Eindhoven's porous backline while respecting road friction via the draw buffer."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A high combined goal expectancy of 3.35 and Eindhoven's 2.2 conceded goals per game favor an open contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Vitesse's offensive edge against Eindhoven's defensive vulnerability and their recent head-to-head draw history."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Models concentrate peak probability at 3 and 2 goals across the 1:2 and 1:1 scoreline pathways."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tense opening half gives way to second-half separation or shared spoils from the home perspective."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:05:09 UTC"
+}
