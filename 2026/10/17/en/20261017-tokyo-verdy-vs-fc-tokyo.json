@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556100,
+    "matchup": "Tokyo Verdy vs FC Tokyo",
+    "home_team": "Tokyo Verdy",
+    "away_team": "FC Tokyo",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-17 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-tokyo-verdy-vs-fc-tokyo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tokyo Verdy vs FC Tokyo Prediction & Match Analysis: Attack vs Defense in Derby — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556100",
+      "league": "J1 League",
+      "matchup": "Tokyo Verdy vs FC Tokyo",
+      "matchTime": "2026-10-17 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back high-flying FC Tokyo to outclass a severely depleted, winless Tokyo Verdy in a controlled, low-scoring capital derby.",
+    "possibilityAssessment": [
+      "FC Tokyo establish territorial dominance and break down Verdy's low block in the second half for a 0:2 win (Confidence: Moderate, Value: High)",
+      "Verdy mount stubborn defensive resistance to keep the contest to a narrow 0:1 away win (Confidence: Moderate, Value: Moderate)",
+      "Verdy snatch an opportunistic set-piece equalizer for a low-scoring 1:1 stalemate (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556100",
+      "league": "J1 League",
+      "homeTeam": "Tokyo Verdy",
+      "awayTeam": "FC Tokyo",
+      "match_time": "05:00",
+      "match_highlight": "Winless Verdy battle high-flying city rivals in high-stakes Tokyo Derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556100,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "FC Tokyo's overwhelming +8.1 xG superiority and four-match winning run dwarf winless Verdy's crippled lineup."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Verdy's league-low 0.40 goals per match and FC Tokyo's six clean sheets strongly support a low-scoring match under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "FC Tokyo's offensive efficiency against Verdy's anemic attack points directly to clean-sheet away victories."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A 57.0% Poisson probability density across zero to two goals highlights 2 and 1 as the primary goal totals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Verdy's derby adrenaline should preserve parity into halftime before FC Tokyo pull away in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 17:07:09 UTC"
+}
