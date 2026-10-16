@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510467,
+    "matchup": "Daegu FC vs Cheongju",
+    "home_team": "Daegu FC",
+    "away_team": "Cheongju",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-17 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-daegu-fc-vs-cheongju/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Daegu FC vs Cheongju Prediction & Match Analysis: Tactical Clash at DGB Arena — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1510467",
+      "league": "K League 2",
+      "matchup": "Daegu FC vs Cheongju",
+      "matchTime": "2026-10-17 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Daegu FC to leverage their superior home attack and set-piece aerial edge to overcome Cheongju in regulation time.",
+    "possibilityAssessment": [
+      "Daegu FC establish territorial control and secure a hard-fought 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals lands as both teams register on the scoresheet in an open tactical battle (Confidence: Moderate, Value: High)",
+      "Cheongju's transitional counter-attack breaches Daegu's backline via BTTS Yes (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510467",
+      "league": "K League 2",
+      "homeTeam": "Daegu FC",
+      "awayTeam": "Cheongju",
+      "match_time": "05:00",
+      "match_highlight": "Daegu's promotion push faces Cheongju's resurgent counter-attacking setup at DGB Arena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510467,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Daegu FC's 1.80 goals-per-game home offense and promotion motivation should break down Cheongju's road defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined lambda expectation of 3.00 and active frontline attacks support an open, three-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory serves as the primary matrix anchor, backed by a 2:0 clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact totals of 3 and 2 goals represent over 44% of cumulative Poisson distribution density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Cheongju's compact first-half resistance precedes Daegu's decisive second-half offensive breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 17:04:39 UTC"
+}
