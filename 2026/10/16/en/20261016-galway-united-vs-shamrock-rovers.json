@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492783,
+    "matchup": "Galway United vs Shamrock Rovers",
+    "home_team": "Galway United",
+    "away_team": "Shamrock Rovers",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-10-16 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261016-galway-united-vs-shamrock-rovers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Galway United vs Shamrock Rovers Prediction: Title Surge Meets Low Block — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492783",
+      "league": "Premier Division",
+      "matchup": "Galway United vs Shamrock Rovers",
+      "matchTime": "2026-10-16 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shamrock Rovers will assert technical control at Eamonn Deacy Park, navigating a resilient Galway United block to secure a decisive away victory.",
+    "possibilityAssessment": [
+      "Away Win via sustained second-half territorial dominance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as Galway's compact low block limits central box penetration (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency if Galway capitalize on dead-ball set pieces amidst Rovers' derby fatigue (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492783",
+      "league": "Premier Division",
+      "homeTeam": "Galway United",
+      "awayTeam": "Shamrock Rovers",
+      "match_time": "18:45",
+      "match_highlight": "Rovers chase title glory in Galway against Caulfield's stubborn low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492783,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Rovers possess overwhelming technical quality and defensive stability, positioning them to dismantle Galway's resistance over 90 minutes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Galway's deep defensive line and Rovers' deliberate possession tempo favor a controlled, lower-scoring dynamic."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A 0:2 road triumph serves as the modal statistical anchor, with 1:2 covering a Galway set-piece reply."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution clusters heavily across 2 and 3 cumulative goals given Galway's 1.50 conceded xGA baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Galway's opening half resistance points toward a level interval before Rovers' depth delivers a second-half victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:50:10 UTC"
+}
