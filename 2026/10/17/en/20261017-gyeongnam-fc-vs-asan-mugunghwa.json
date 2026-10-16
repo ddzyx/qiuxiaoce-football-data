@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510470,
+    "matchup": "Gyeongnam FC vs Asan Mugunghwa",
+    "home_team": "Gyeongnam FC",
+    "away_team": "Asan Mugunghwa",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-17 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-gyeongnam-fc-vs-asan-mugunghwa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gyeongnam FC vs Asan Mugunghwa Prediction & Match Analysis: Low-Block Clash & Tactical Gridlock — Scoreline Preview",
+    "meta": {
+      "matchId": "1510470",
+      "league": "K League 2",
+      "matchup": "Gyeongnam FC vs Asan Mugunghwa",
+      "matchTime": "2026-10-17 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gyeongnam FC's disciplined home low-block and Asan's chronic travel struggles point toward a tightly contested stalemate or narrow home victory, establishing Home Win / Draw and Under 2.5 as the optimal probabilistic trajectory.",
+    "possibilityAssessment": [
+      "Tactical gridlock results in a low-scoring stalemate where Gyeongnam's defensive structure absorbs Asan's possession (Confidence: Moderate, Value: High)",
+      "Gyeongnam capitalizes on transition vulnerability to snatch a decisive 1-0 home victory (Confidence: Moderate, Value: Moderate)",
+      "Asan breaks through late via individual brilliance from Son Jun-Ho or Charles Lokolingoy for a narrow away triumph (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510470",
+      "league": "K League 2",
+      "homeTeam": "Gyeongnam FC",
+      "awayTeam": "Asan Mugunghwa",
+      "match_time": "07:30",
+      "match_highlight": "Tight midfield duel at Changwon tests Gyeongnam's low block against Asan's creators",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510470,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw captures Gyeongnam's solid home record of seven victories and Asan's road struggles where they have won only twice in twelve trips."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with Gyeongnam conceding only 0.4 goals per match over their last five games and a combined Poisson model favoring low scoring."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate represents the primary convergence of midfield parity, while a 1:0 home win reflects Gyeongnam's proven capacity to grind out clean-sheet victories in Changwon."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the highest density outcome supported by the 1:1 scoreline, with one goal serving as the defensive contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey, goalless opening half is heavily favored by both managers' risk-averse setups before cautious second-half adjustments unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 19:37:29 UTC"
+}
