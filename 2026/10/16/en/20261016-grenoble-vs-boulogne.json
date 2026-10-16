@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552496,
+    "matchup": "Grenoble vs Boulogne",
+    "home_team": "Grenoble",
+    "away_team": "Boulogne",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-grenoble-vs-boulogne/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grenoble vs Boulogne Prediction & Match Analysis: Can GF38 Penetrate Boulogne's Low Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552496",
+      "league": "Ligue 2",
+      "matchup": "Grenoble vs Boulogne",
+      "matchTime": "2026-10-16 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Grenoble or Draw (Home Win / Draw) alongside Under 2.5 Goals in an expected low-scoring tactical stalemate.",
+    "possibilityAssessment": [
+      "Stalemate thesis driven by Boulogne's 75% draw rate and defensive low-block resilience (Confidence: Moderate, Value: High)",
+      "Narrow home victory thesis powered by Grenoble's territorial pressure and Vidal's defensive return (Confidence: Moderate, Value: Moderate)",
+      "Severe goal scarcity thesis anchored by sub-1.0 goals per match rates for both sides (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552496",
+      "league": "Ligue 2",
+      "homeTeam": "Grenoble",
+      "awayTeam": "Boulogne",
+      "match_time": "18:00",
+      "match_highlight": "Boulogne's stubborn low-block faces Grenoble's urgent home redemption bid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552496,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Boulogne's dominant six-draw stalemate script while protecting Grenoble's home territorial advantage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is overwhelmingly backed by combined expected goals metrics and Boulogne's 0.75 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 deadlock captures visitor defensive resistance, while 1:0 reflects a narrow host breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Goal counts of 2 and 1 represent the peak probabilistic density in this low-margin Ligue 2 matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Boulogne's disciplined first-half structure points to a level opening 45 minutes before late game states unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:08:48 UTC"
+}
