@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638090,
+    "matchup": "FF Jaro vs Mariehamn",
+    "home_team": "FF Jaro",
+    "away_team": "Mariehamn",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-10-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-ff-jaro-vs-mariehamn/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FF Jaro vs Mariehamn Prediction & Match Analysis: Relegation Shootout Decider — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1638090",
+      "league": "Veikkausliiga",
+      "matchup": "FF Jaro vs Mariehamn",
+      "matchTime": "2026-10-17 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FF Jaro leverages home fortress security and game-state asymmetry to avoid defeat against desperate Mariehamn.",
+    "possibilityAssessment": [
+      "FF Jaro avoids defeat via structural containment or transition counters (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by cagey early relegation tension (Confidence: Moderate, Value: Moderate)",
+      "Desperate late Mariehamn overload creating counter-attacking volatility (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638090",
+      "league": "Veikkausliiga",
+      "homeTeam": "FF Jaro",
+      "awayTeam": "Mariehamn",
+      "match_time": "11:00",
+      "match_highlight": "Survival decider where Jaro needs one point while Mariehamn must win.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638090,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Jaro achieving their safety-clinching stalemate or punishing Mariehamn's desperate late overextension for a home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both attacks average just 0.8 goals per game, and high-tension relegation stakes suppress early risk-taking."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate is the top Poisson model outcome, while 2:1 reflects Jaro exploiting late counter-attacking space."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals aligns with the primary 1:1 script, with three goals covering late transitional variance."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious, low-risk first half precedes decisive second-half game-state escalation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 23:10:17 UTC"
+}
