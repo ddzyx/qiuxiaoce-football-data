@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510469,
+    "matchup": "Gimpo Citizen vs Paju Citizen",
+    "home_team": "Gimpo Citizen",
+    "away_team": "Paju Citizen",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-17 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-gimpo-citizen-vs-paju-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimpo Citizen vs Paju Citizen Prediction: Can Paju's Low Block Stifle Mina? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1510469",
+      "league": "K League 2",
+      "matchup": "Gimpo Citizen vs Paju Citizen",
+      "matchTime": "2026-10-17 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Under 2.5 Total Goals reinforced by a Home Win / Draw double chance in a cagey, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Tactical stalemate with disciplined low-block containment producing a 1-1 draw (Confidence: Moderate, Value: High)",
+      "Methodical Gimpo territorial pressure yielding a narrow 1-0 home victory (Confidence: Moderate, Value: Moderate)",
+      "Paju transitional counter-attack capitalizing on an isolated error for a 0-1 away steal (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510469",
+      "league": "K League 2",
+      "homeTeam": "Gimpo Citizen",
+      "awayTeam": "Paju Citizen",
+      "match_time": "07:30",
+      "match_highlight": "Gimpo's high-possession attack faces Paju's ultra-resilient defensive low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510469,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1-1 draw and a narrow 1-0 home grind against an opponent with high defensive resistance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson models assign 60.9% probability to Under 2.5 given both sides' sub-1.25 goal expectancies."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The two highest-density scorelines reflecting Gimpo's territorial edge against Paju's compact 4-5-1 shell."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Expected goals cluster tightly around exactly two goals (26.7%) and one goal (23.7%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Paju's disciplined defensive shape routinely forces a scoreless or level first-half state."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 19:37:17 UTC"
+}
