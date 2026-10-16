@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551357,
+    "matchup": "HB Koge vs AB Copenhagen",
+    "home_team": "HB Koge",
+    "away_team": "AB Copenhagen",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-16 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-hb-koge-vs-ab-copenhagen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "HB Koge vs AB Copenhagen Prediction & Match Analysis: Can Swans Extend Unbeaten Run on Synthetic Turf? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551357",
+      "league": "1. Division",
+      "matchup": "HB Koge vs AB Copenhagen",
+      "matchTime": "2026-10-16 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "HB Køge are poised to leverage their artificial pitch advantage and six-match unbeaten momentum to secure at least a point against AB Copenhagen in a tightly contested fixture.",
+    "possibilityAssessment": [
+      "HB Køge to avoid defeat via Home Win or Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals backed by AB Copenhagen's tight defensive structure (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 or 2:1 reflecting high probability of a low-margin outcome (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551357",
+      "league": "1. Division",
+      "homeTeam": "HB Koge",
+      "awayTeam": "AB Copenhagen",
+      "match_time": "17:00",
+      "match_highlight": "HB Køge target extending six-match unbeaten run against solid AB defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551357,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 stalemate and a 2:1 home triumph; a single selection understates the strong draw probability given Køge's four draws in their last six matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "AB Copenhagen have conceded just 1.0 goal per game this season, keeping overall goal expectancy suppressed below 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the natural parity convergence point, while 2:1 reflects Køge's synthetic pitch attacking edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals leads based on compact defensive structures, with three goals representing the open second-half alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening 45 minutes points to level terms at the interval before late game dynamics unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 05:05:27 UTC"
+}
