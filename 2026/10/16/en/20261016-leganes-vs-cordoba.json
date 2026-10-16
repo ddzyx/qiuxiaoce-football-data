@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569978,
+    "matchup": "Leganes vs Cordoba",
+    "home_team": "Leganes",
+    "away_team": "Cordoba",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-16 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261016-leganes-vs-cordoba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leganes vs Cordoba Prediction & Match Analysis: High-Line Chaos Meets Goal Slump — Scoreline Preview",
+    "meta": {
+      "matchId": "1569978",
+      "league": "Segunda División",
+      "matchup": "Leganes vs Cordoba",
+      "matchTime": "2026-10-16 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Target a decisive outcome via Home Win / Away Win alongside Over 2.5 goals in a high-volatility tactical clash.",
+    "possibilityAssessment": [
+      "Cordoba offensive potency exploits Leganes transitional collapse for a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Leganes punish Cordoba high defensive line on home soil to secure a 2:1 rebound win (Confidence: Moderate, Value: Moderate)",
+      "Cautious first half yields to second-half tactical openness and high goal volume (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569978",
+      "league": "Segunda División",
+      "homeTeam": "Leganes",
+      "awayTeam": "Cordoba",
+      "match_time": "18:30",
+      "match_highlight": "High-line defensive volatility meets urgent home rebound pressure at Butarque.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569978,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Cordoba's zero-draw record and both teams' defensive fragility favor decisive winning branches over a stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.05 and Cordoba's 3.78 season goal average strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:1"
+        ],
+        "comment": "Reflects an open encounter where both vulnerable defenses concede in decisive one-goal margin finishes."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "A 3-goal total captures the primary Poisson peak, with 4 goals representing the expanded transition branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening half gives way to second-half fatigue and decisive late chance conversion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:35:08 UTC"
+}
