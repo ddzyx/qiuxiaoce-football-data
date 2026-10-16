@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593681,
+    "matchup": "Auckland vs Melbourne City",
+    "home_team": "Auckland",
+    "away_team": "Melbourne City",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-17 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-auckland-vs-melbourne-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Auckland vs Melbourne City Prediction: Midfield Crisis Meets Champions' Edge — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593681",
+      "league": "A-League",
+      "matchup": "Auckland vs Melbourne City",
+      "matchTime": "2026-10-17 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Auckland to protect their home turf in a low-scoring contest with Home Win / Draw coverage, anchored by 1:0 and 1:1 scorelines under 2.5 goals.",
+    "possibilityAssessment": [
+      "Auckland edge a tight contest via second-half pressure against City's makeshift midfield (Confidence: Moderate, Value: High)",
+      "Melbourne City's defensive organization holds firm in a low-scoring 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "City catch Auckland on an isolated counter-attack to threaten an upset (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593681",
+      "league": "A-League",
+      "homeTeam": "Auckland",
+      "awayTeam": "Melbourne City",
+      "match_time": "04:00",
+      "match_highlight": "Champions host injury-depleted City in tense opening-day rematch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593681,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Auckland's primary home victory script alongside the statistical 1-1 stalemate scenario against a depleted City midfield."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Opening-day tactical caution and Melbourne City's missing creative playmakers firmly support a low goal tally."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A controlled 1-0 home win represents the primary tactical outcome, while 1-1 serves as the modal statistical risk branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture the vast majority of probable game states for this low-margin clash."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected before Auckland's superior depth makes the difference or forces a shared point."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 16:04:44 UTC"
+}
