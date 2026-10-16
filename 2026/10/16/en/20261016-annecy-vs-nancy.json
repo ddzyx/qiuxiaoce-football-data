@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552495,
+    "matchup": "Annecy vs Nancy",
+    "home_team": "Annecy",
+    "away_team": "Nancy",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-annecy-vs-nancy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Annecy vs Nancy Prediction & Match Analysis: Top-Five Clash Hinges on Midfield Control — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552495",
+      "league": "Ligue 2",
+      "matchup": "Annecy vs Nancy",
+      "matchTime": "2026-10-16 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Nancy to avoid defeat via Draw / Away Win in a defensively structured, low-scoring tactical contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win supported by Nancy's elite 0.88 goals conceded per game and Annecy's high transitional vulnerability (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals substantiated by a 72.9% combined Poisson model density across low scoring brackets (Confidence: High, Value: Moderate)",
+      "Scoreless Draw contingency scenario if low-block containment suffocates open-play creation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552495",
+      "league": "Ligue 2",
+      "homeTeam": "Annecy",
+      "awayTeam": "Nancy",
+      "match_time": "18:00",
+      "match_highlight": "Top-five Ligue 2 clash decided by defensive discipline and transition efficiency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552495,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the stalemate script and Nancy's transitional counter-punch against Annecy's elevated conceded xGA."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson goal expectancy aggregates to 72.9% probability for two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Primary score reflects tactical parity; secondary captures Nancy's clean-sheet road steal."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the most balanced scoreline distribution, with one goal as the key containment alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Initial tactical caution ensures a level first half before late transitional moments unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:07:31 UTC"
+}
