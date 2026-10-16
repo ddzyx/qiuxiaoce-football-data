@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492997,
+    "matchup": "Longford Town vs Athlone Town",
+    "home_team": "Longford Town",
+    "away_team": "Athlone Town",
+    "league": "First Division",
+    "kickoff_utc": "2026-10-16 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261016-longford-town-vs-athlone-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Longford Town vs Athlone Town Prediction & Match Analysis: Midlands Derby Play-off Decider — Scoreline Preview",
+    "meta": {
+      "matchId": "1492997",
+      "league": "First Division",
+      "matchup": "Longford Town vs Athlone Town",
+      "matchTime": "2026-10-16 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Longford Town to protect their promotion play-off standing via Home Win / Draw in a cagey Midlands Derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw compound selection securing post-season qualification (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals governed by cagey regular-season finale dynamics (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 stalemate reflecting historical Bishopsgate derby parity (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492997",
+      "league": "First Division",
+      "homeTeam": "Longford Town",
+      "awayTeam": "Athlone Town",
+      "match_time": "18:45",
+      "match_highlight": "High-stakes Midlands derby play-off shootout decider at Bishopsgate",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492997,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Longford's four-match unbeaten run and reactive tactical setup provide decisive leverage against an Athlone side forced into high-risk attacking."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cagey qualification incentives and historical Bishopsgate derby stalemates favor a constrained goal environment."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate serves as the modal convergence point with a 2:1 home counter-attack representing the leading decisive branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary Poisson probability peak with three goals emerging if Athlone overextend late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Expect a tightly contained first half with game states only opening as Athlone commit numbers forward after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:52:37 UTC"
+}
