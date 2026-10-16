@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593682,
+    "matchup": "Macarthur vs Perth Glory",
+    "home_team": "Macarthur",
+    "away_team": "Perth Glory",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-17 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-macarthur-vs-perth-glory/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Macarthur vs Perth Glory Prediction: Can Ognenovski's Bulls Tame Taggart? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593682",
+      "league": "A-League",
+      "matchup": "Macarthur vs Perth Glory",
+      "matchTime": "2026-10-17 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Macarthur FC via Home Win / Draw in an open Round 1 fixture featuring vulnerable defenses on both sides.",
+    "possibilityAssessment": [
+      "Macarthur win exploiting Perth's heavily depleted defensive spine (Confidence: Moderate, Value: High)",
+      "Competitive 1:1 stalemate driven by early-season chemistry disconnect (Confidence: Moderate, Value: Moderate)",
+      "High-scoring Over 2.5 trajectory fueled by transition attacking efficiency (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593682",
+      "league": "A-League",
+      "homeTeam": "Macarthur",
+      "awayTeam": "Perth Glory",
+      "match_time": "06:00",
+      "match_highlight": "Perth's depleted defense meets Macarthur's rebuilt attack at Campbelltown",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593682,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Macarthur hold the primary winning vector against Perth's depleted backline, while the draw guards against early-season cohesion rust."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Historical H2H averages 4.0 goals and both backlines enter Round 1 carrying severe defensive vulnerability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Macarthur's attacking edge, while 1:1 covers the modal Poisson deadlock script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence point with two goals serving as the competitive lower boundary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected before Macarthur's superior bench depth breaks through in the second 45 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 18:02:08 UTC"
+}
