@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492781,
+    "matchup": "Bohemians vs Waterford",
+    "home_team": "Bohemians",
+    "away_team": "Waterford",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-10-16 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261016-bohemians-vs-waterford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bohemians vs Waterford Prediction & Match Analysis: Devoy Ban & Counter Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1492781",
+      "league": "Premier Division",
+      "matchup": "Bohemians vs Waterford",
+      "matchTime": "2026-10-16 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bohemians hold the underlying quality to edge a 2:1 victory, but Dawson Devoy's suspension warrants mandatory draw protection via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Bohemians 2:1 Waterford (Confidence: Moderate, Value: High)",
+      "Bohemians 1:1 Waterford (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492781",
+      "league": "Premier Division",
+      "homeTeam": "Bohemians",
+      "awayTeam": "Waterford",
+      "match_time": "18:45",
+      "match_highlight": "Devoy ban tests Bohs against Coughlan's rapid counter-punchers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492781,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bohemians' underlying territorial superiority to win 2:1 alongside the severe risk of a 1:1 stalemate caused by Dawson Devoy's suspension."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson model projects a combined 2.91 total goal expectancy with a 57.5% BTTS probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 Bohemians home recovery represents the leading decisive script, while 1:1 represents the low-block stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 scoreline, while two goals covers the secondary 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Waterford's compact first-half structure points toward a level interval before second-half squad depth decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:50:27 UTC"
+}
