@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557430,
+    "matchup": "Everton vs Chelsea",
+    "home_team": "Everton",
+    "away_team": "Chelsea",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-17 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-everton-vs-chelsea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Everton vs Chelsea Prediction & Match Analysis: Can Moyes' Low Block Thwart Alonso? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557430",
+      "league": "Premier League",
+      "matchup": "Everton vs Chelsea",
+      "matchTime": "2026-10-17 11:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Everton's disciplined low block and home dominance will frustrate Chelsea's high-variance defense, securing a result via Home Win / Draw with a 1:1 stalemate leading.",
+    "possibilityAssessment": [
+      "Everton hold Chelsea to a 1:1 stalemate through low-block discipline and set-piece parity (Confidence: Moderate, Value: High)",
+      "Everton exploit Chelsea's high line and set-piece weaknesses to claim a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Chelsea breach Everton's defense early and control tempo to edge a narrow road contest (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557430",
+      "league": "Premier League",
+      "homeTeam": "Everton",
+      "awayTeam": "Chelsea",
+      "match_time": "11:30",
+      "match_highlight": "Unbeaten Everton host leaky Chelsea in battle of contrasting tactical philosophies.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1557430,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Everton's resilient low-block stalemate (1:1) and a set-piece transition triumph (2:1); market severely underestimates Everton's home resistance against Chelsea's 22-game clean sheet drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Everton's stingy 0.12 xGA baseline and Moyes' deep defensive shell will throttle Chelsea's central playmakers, keeping the contest under the 2.5-goal ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the natural tactical equilibrium, while 2:1 accounts for Everton's decisive aerial and set-piece advantage over Chelsea's vulnerable back three."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal median dominates the probabilistic matrix, with 3 goals representing the primary high-tempo transition upper boundary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Moyes' structured first-half containment will establish an opening draw, followed either by shared second-half goals or a late Everton counter-attacking winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 23:33:36 UTC"
+}
