@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556091,
+    "matchup": "Cerezo Osaka vs Kawasaki Frontale",
+    "home_team": "Cerezo Osaka",
+    "away_team": "Kawasaki Frontale",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-17 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-cerezo-osaka-vs-kawasaki-frontale/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cerezo Osaka vs Kawasaki Frontale Prediction: Can Machin's Block Stifle Frontale's xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556091",
+      "league": "J1 League",
+      "matchup": "Cerezo Osaka vs Kawasaki Frontale",
+      "matchTime": "2026-10-17 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kawasaki Frontale's superior chance creation gives them the edge, but Cerezo Osaka's low block creates strong draw volatility, favoring Draw / Away Win.",
+    "possibilityAssessment": [
+      "Kawasaki Frontale maintain superior attacking xG to secure a narrow road victory or draw (Confidence: Moderate, Value: High)",
+      "Cerezo Osaka's disciplined back five restricts match tempo beneath 2.5 goals (Confidence: Moderate, Value: High)",
+      "Depleted Frontale central defense concedes transition opportunities leading to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556091",
+      "league": "J1 League",
+      "homeTeam": "Cerezo Osaka",
+      "awayTeam": "Kawasaki Frontale",
+      "match_time": "06:00",
+      "match_highlight": "Frontale attack tests Cerezo low block amidst key defensive injuries",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556091,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-probability 1:1 stalemate and Frontale's 1:2 edge driven by superior 15.9 xG creation."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cerezo's average of 0.8 goals scored and 4 clean sheets in 9 matches anchor an Under 2.5 game script."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline represents the modal outcome, while 1:2 reflects late Frontale technical superiority."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the primary distribution peak, with three goals acting as the secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cerezo's organized shape ensures a level first half before second-half fatigue dictates the conclusion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 18:02:28 UTC"
+}
