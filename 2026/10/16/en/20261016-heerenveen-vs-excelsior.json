@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552189,
+    "matchup": "Heerenveen vs Excelsior",
+    "home_team": "Heerenveen",
+    "away_team": "Excelsior",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-heerenveen-vs-excelsior/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Heerenveen vs Excelsior Prediction: Can Veldman Exploit Away xGA Fragility? — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1552189",
+      "league": "Eredivisie",
+      "matchup": "Heerenveen vs Excelsior",
+      "matchTime": "2026-10-16 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Heerenveen hold the technical territorial edge at Abe Lenstra Stadion, but Excelsior's lethal transition attack makes Home Win / Draw with Over 2.5 Goals the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Heerenveen 2:1 Excelsior — Primary home breakthrough exploiting Excelsior central defense (Confidence: Moderate, Value: High)",
+      "Heerenveen 1:1 Excelsior — Secondary stalemate driven by Heerenveen big-chance wastefulness (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Dynamic multi-goal game state supported by porous combined defensive metrics (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552189",
+      "league": "Eredivisie",
+      "homeTeam": "Heerenveen",
+      "awayTeam": "Excelsior",
+      "match_time": "18:00",
+      "match_highlight": "Heerenveen possession dominance tests Excelsior's lethal unbeaten away transition counter-punch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552189,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Heerenveen's territorial superiority (2:1) alongside Excelsior's proven away counter-attacking resilience (1:1)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Excelsior concede 1.70 xGA per game while scoring 2.0 away goals, heavily supporting an open three-goal match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Heerenveen's attacking volume breaking Excelsior, while 1:1 represents the wastefulness failure mode."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals represents the primary 2:1 home victory; 2 goals captures the alternative 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win projects a tight first half followed by a late Heerenveen surge; Draw-Draw reflects a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 06:07:46 UTC"
+}
