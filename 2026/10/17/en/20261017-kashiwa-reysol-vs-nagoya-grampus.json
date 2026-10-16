@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556094,
+    "matchup": "Kashiwa Reysol vs Nagoya Grampus",
+    "home_team": "Kashiwa Reysol",
+    "away_team": "Nagoya Grampus",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-17 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-kashiwa-reysol-vs-nagoya-grampus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashiwa Reysol vs Nagoya Grampus Prediction: Can Mischa's Defense Halt Reysol's Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556094",
+      "league": "J1 League",
+      "matchup": "Kashiwa Reysol vs Nagoya Grampus",
+      "matchTime": "2026-10-17 10:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Kashiwa Reysol's league-leading attacking output and home dominance will overpower Nagoya Grampus in a multi-goal victory.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Home Win driven by Kashiwa's 3.0 goals per game offensive firepower and Nagoya's away fragility (Confidence: High, Value: High)",
+      "Secondary Angle (Value): Over 2.5 Goals supported by a 3.75 combined lambda and 72.3% Poisson probability (Confidence: High, Value: High)",
+      "Contingency Angle (Hedge / Upset): Scoreline 3:1 reflecting a visiting consolation goal amidst decisive home supremacy (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:0",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556094",
+      "league": "J1 League",
+      "homeTeam": "Kashiwa Reysol",
+      "awayTeam": "Nagoya Grampus",
+      "match_time": "10:00",
+      "match_highlight": "League leaders Kashiwa host struggling Nagoya in a high-octane J1 clash.",
+      "ai_confidence": "High",
+      "fixtureId": 1556094,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kashiwa Reysol hold an 82.2% Poisson model density backed by seven wins in nine matches."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectation of 3.75 goals heavily favors an open, high-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "3:1"
+        ],
+        "comment": "Model-identified convergence scores reflecting Kashiwa's offensive dominance and Nagoya's road fragility."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring distribution peaks at 3 goals (20.7%) and 4 goals (19.4%) based on recent output."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kashiwa's aggressive front-foot pressing makes an early breakthrough and sustained lead highly probable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 22:06:08 UTC"
+}
