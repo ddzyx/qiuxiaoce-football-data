@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493186,
+    "matchup": "Defensa Y Justicia vs Instituto Cordoba",
+    "home_team": "Defensa Y Justicia",
+    "away_team": "Instituto Cordoba",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-16 22:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-defensa-y-justicia-vs-instituto-cordoba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Defensa y Justicia vs Instituto Cordoba: Expected Goals (xG), Midfield Suspensions & Summit Clash Intelligence",
+    "meta": {
+      "matchId": "1493186",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Defensa Y Justicia vs Instituto Cordoba",
+      "matchTime": "2026-10-16 22:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Instituto Cordoba's transition efficiency and superior xG differential make Draw / Away Win the premier probabilistic path against a depleted home midfield.",
+    "possibilityAssessment": [
+      "Instituto transition exploitation produces a decisive 1:2 road victory (Confidence: Moderate, Value: High)",
+      "High-stakes tactical caution results in a competitive 1:1 summit stalemate (Confidence: Moderate, Value: Moderate)",
+      "Defensa home resilience withstands counter-threat for a narrow 1:0 victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493186",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Defensa Y Justicia",
+      "awayTeam": "Instituto Cordoba",
+      "match_time": "22:00",
+      "match_highlight": "Suspended Santiago Sosa leaves Halcon vulnerable to league leaders Instituto on counter.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493186,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Instituto's league-leading transition metrics and Defensa's midfield suspension make an away win or tactical stalemate the superior double-chance expression."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams averaging over 3.0 xG per game and combining for 16 goals in their last three outings supports Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory leads on transition efficiency, with 1:1 representing the competitive deadlock scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of attacking firepower, backed closely by a tighter two-goal clash."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening 45 minutes precedes second-half transition breakthroughs or tactical management."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 10:06:18 UTC"
+}
