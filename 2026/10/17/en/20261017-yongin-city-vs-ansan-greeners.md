@@ -1,0 +1,83 @@
+# Yongin City vs Ansan Greeners Prediction: Defensive Vulnerability vs Direct Attack — Scoreline Preview
+
+> **Competition**: K League 2
+> **Kickoff**: 2026-10-17 07:30 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+Yongin City welcomes Ansan Greeners to Yongin Mireu Stadium for an intriguing Round 29 clash in K League 2, where both clubs seek vital late-season stability. At the heart of this contest lies whether Yongin City can capitalize on Ansan Greeners&#x27; notoriously porous backline—which has shipped an alarming 53 league goals this campaign—or whether the hosts&#x27; chronic vulnerability to low-scoring stalemates will stall their forward momentum once again. Sitting 13th with 27 points, the newly established hosts have developed into one of the division&#x27;s toughest sides to dismantle, while 16th-placed Ansan arrive enduring five defeats from their past six fixtures. Utilizing a hybrid analytical framework combining independent Poisson goal expectancy, tactical transition profiling, and market sentiment tracking, XG Mind AI deconstructs this encounter to reveal the primary scoreline convergence points and the critical game-state triggers governing regulation time.
+
+📌 Yongin City vs Ansan Greeners: Match Intelligence Brief
+
+Fixture ID
+
+: 1510471
+
+Matchup
+
+: Yongin City vs Ansan Greeners
+
+Competition
+
+: K League 2, Regular Season - Round 29
+
+Kickoff Time
+
+: 2026-10-17 07:30 UTC
+
+Key Tactical Watchpoint
+
+: Can Yongin City&#x27;s patient build-up puncture Ansan&#x27;s disorganized defensive block before transitional vulnerabilities are exposed?
+
+📊 1. Yongin City Attacking Structure vs Ansan Greeners Defensive Counter
+
+⚔️ Head-to-Head History: Yongin Holds Psychological Edge Following Reverse Fixture Triumph
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+2026-05-10
+
+K League 2
+
+Ansan Greeners
+
+1:2 (1:1)
+
+Yongin City
+
+In their inaugural competitive meeting earlier this season at Ansan Wa~ Stadium, Ansan Greeners initially grabbed the lead through Serbian defender Milan Obradovic in the 36th minute. However, Yongin City demonstrated remarkable tactical composure, equalizing via Jin-seop Lee on the stroke of halftime before Dong-gyu Yu struck a dramatic 90th-minute winner to seal a 2-1 away triumph.
+
+📈 Team Form &amp; Tactical Style Breakdown: Methodical Possession vs Fragile Transition Block
+
+Home Team (Yongin City):
+
+Managed by veteran tactician Yun-Kyum Choi, Yongin City operates primarily within a measured 3-4-3 or 4-4-2 framework designed to prioritize positional discipline over frantic end-to-end chaos. In their debut professional campaign, Yongin has established itself as an extraordinarily stubborn side, amassing 12 draws across 26 league fixtures alongside 5 victories and 9 defeats. Their recent form reflects this resilience blended with occasional attacking limitations: a narrow 2-1 defeat away to Jeonnam Dragons followed a scoreless 0-0 stalemate against Gyeongnam FC, a 3-1 road loss at Daegu FC, a 1-1 draw with Suwon FC, and a commanding 3-0 away demolition of Gimhae City. In possession, central veteran Jin-ho Sin orchestrates distribution from deep, supplying Brazilian dynamic forward Gabriel Tigrão and target striker Hyun-Jun Suk. Defensively, former top-flight center-back Lim Chae-min anchors a backline conceding a respectable 1.4 goals per match while securing 6 clean sheets.
+
+While Yongin&#x27;s conversion rate of 1.2 goals per game can occasionally leave them vulnerable to stalemates, their collective structure provides a stable floor against defensively porous opposition.
+
+Away Team (Ansan Greeners):
+
+Under manager Moon-sik Choi, Ansan Greeners find themselves mired near the foot of the K League 2 standings in 16th position with 22 points from 27 matches (6 wins, 4 draws, and 17 defeats). The fundamental crisis crippling the Green Wolves has been catastrophic defensive regression; they have conceded an eye-watering 53 goals (2.0 per match), keeping only 3 clean sheets across the entire season. Their recent trajectory underscores severe structural unraveling, suffering five defeats in their last six outings: a 4-1 thumping away at Suwon Bluewings, a 3-2 home collapse against Cheongju, a 2-0 defeat to Hwaseong, a 2-1 loss against Daegu FC, and a 2-1 reverse against Seongnam FC, punctuated only by a lone 1-0 smash-and-grab victory over Busan IPark. Tactically, Ansan relies heavily on direct counter-attacks spearheaded by South Sudanese international forward Machop Chol, Brazilian winger Gabriel Lima, and former Bundesliga talent Seung-woo Ryu.
+
+However, chronic communication breakdowns between central defenders Tim Hartzell and Milan Obradovic leave Ansan constantly exposed during lateral defensive shifts.
+
+🔍 Core Statistical Comparison: Yongin&#x27;s Defensive Edge Meets Ansan&#x27;s Concession Crisis
+
+Metric
+
+Yongin City (Season)
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261017-yongin-city-vs-ansan-greeners/)
