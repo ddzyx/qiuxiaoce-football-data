@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1550151,
+    "matchup": "Frosinone vs Sassuolo",
+    "home_team": "Frosinone",
+    "away_team": "Sassuolo",
+    "league": null,
+    "kickoff_utc": "2026-10-16 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261016-frosinone-vs-sassuolo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Serie A",
+      "matchId": "1550151",
+      "matchup": "Frosinone vs Sassuolo",
+      "matchTime": "2026-10-16 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Frosinone vs Sassuolo Prediction & Match Analysis: Can Canarini Contain Berardi? — Scoreline & xG Preview",
+    "coreRecommendation": "Back Frosinone on the double chance (Home Win / Draw) in an open, attack-minded encounter where Sassuolo's defensive absences will prove decisive.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A tightly contested opening half is expected before second-half defensive fatigue dictates the outcome.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Frosinone's fortress home form and Sassuolo's injury-hit central defense favor the hosts, while the visitors' wing brilliance retains viable stalemate potential.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Scoring clusters around 3 and 2 goals given high transitional volume and leaky defensive structures.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory reflects Frosinone's offensive opportunism, while 1:1 mirrors their recent Coppa Italia stalemate.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Serie A",
+      "matchId": "1550151",
+      "awayTeam": "Sassuolo",
+      "homeTeam": "Frosinone",
+      "fixtureId": 1550151,
+      "match_time": "18:45",
+      "over_under": {
+        "comment": "Derived total lambda of 3.00 combined with Sassuolo's 100% BTTS league record heavily points toward an open contest exceeding 2.5 goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Frosinone's home momentum clashes with Sassuolo's depleted defense at Benito Stirpe."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Frosinone Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "2:1 or 1:1 Correct Scoreline (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "4-2",
+    "halftime_score": "3-2",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-16 20:50:33 UTC"
+  }
+}
