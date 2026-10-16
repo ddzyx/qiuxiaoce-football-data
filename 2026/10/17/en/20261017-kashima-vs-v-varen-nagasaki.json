@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556093,
+    "matchup": "Kashima vs V-varen Nagasaki",
+    "home_team": "Kashima",
+    "away_team": "V-varen Nagasaki",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-17 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-kashima-vs-v-varen-nagasaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashima vs V-varen Nagasaki Prediction: Can Antlers Penetrate Nagasaki's Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556093",
+      "league": "J1 League",
+      "matchup": "Kashima vs V-varen Nagasaki",
+      "matchTime": "2026-10-17 06:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Kashima's sustained territorial dominance and elite finishing will overpower V-varen Nagasaki's defensive low block at Mercari Stadium.",
+    "possibilityAssessment": [
+      "Kashima early breakthrough leading to comfortable multi-goal victory (Confidence: High, Value: High)",
+      "Second-half attrition wear-down against compact defensive shape (Confidence: Moderate, Value: Moderate)",
+      "Transitional smash-and-grab steal by Nagasaki counter-attack (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556093",
+      "league": "J1 League",
+      "homeTeam": "Kashima",
+      "awayTeam": "V-varen Nagasaki",
+      "match_time": "06:00",
+      "match_highlight": "Kashima's relentless attacking firepower tests Nagasaki's compact defensive low block.",
+      "ai_confidence": "High",
+      "fixtureId": 1556093,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kashima's overwhelming goal expectancy (lambda 2.90) and home superiority make an outright victory the clearest probabilistic trajectory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 72.3% model probability and Kashima's 4.0 goals-per-match rate strongly support an open game exceeding 2.5 total goals."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "The convergence of home attacking metrics and Nagasaki's 1.8 conceded goals per game points directly to 3:0 or 2:0."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact goal counts of 3 (20.7%) and 2 (16.5%) represent the highest concentration in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kashima's early home pressure points toward an opening half lead (Win-Win) with a secondary branch for a second-half breakthrough (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 18:04:58 UTC"
+}
