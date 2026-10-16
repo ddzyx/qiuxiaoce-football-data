@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510468,
+    "matchup": "Seongnam FC vs Suwon City FC",
+    "home_team": "Seongnam FC",
+    "away_team": "Suwon City FC",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-17 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-seongnam-fc-vs-suwon-city-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Seongnam FC vs Suwon City FC Prediction & Match Analysis: Can Frizzo Pierce Host Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1510468",
+      "league": "K League 2",
+      "matchup": "Seongnam FC vs Suwon City FC",
+      "matchTime": "2026-10-17 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Suwon City FC with Draw / Away Win coverage, prioritizing a 1:2 away victory while hedging the 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Suwon City FC breaks through in second half to secure 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Seongnam FC defensive block holds firm in competitive 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Controlled away performance yields low-scoring 0:2 win for Suwon City (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510468",
+      "league": "K League 2",
+      "homeTeam": "Seongnam FC",
+      "awayTeam": "Suwon City FC",
+      "match_time": "05:00",
+      "match_highlight": "Suwon's league-leading attack challenges Seongnam's resilient home low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510468,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Suwon City's dominant victory pathway while insulating against Seongnam's high home draw frequency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined goal expectancy lambda of 2.75 and Suwon City's 2.00 goal per game average."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary score captures Suwon's offensive edge; secondary score captures Seongnam's stubborn stalemate profile."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Model identifies 2 goals (24.2%) and 3 goals (22.2%) as the two dominant Poisson totals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects tight first half at Tancheon before Suwon breaks through or match finishes level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-16 17:05:38 UTC"
+}
