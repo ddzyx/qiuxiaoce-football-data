@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1551358,
+    "matchup": "Kolding IF vs Vendsyssel FF",
+    "home_team": "Kolding IF",
+    "away_team": "Vendsyssel FF",
+    "league": null,
+    "kickoff_utc": "2026-10-16 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261016-kolding-if-vs-vendsyssel-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "1. Division",
+      "matchId": "1551358",
+      "matchup": "Kolding IF vs Vendsyssel FF",
+      "matchTime": "2026-10-16 17:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Kolding IF vs Vendsyssel FF Prediction & Match Analysis: Deadlock Risk vs Road Slump — Scoreline & xG Preview",
+    "coreRecommendation": "Support Kolding IF to avoid defeat in an attritional, low-scoring encounter against slumping Vendsyssel FF.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Expect a cautious, level first half followed either by a maintained deadlock or a late second-half Kolding breakthrough.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Kolding's narrow home victory and their frequent 1-1 stalemate, reflecting their 60% draw rate and Vendsyssel's road slump.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Modal Poisson distribution peaks at two total goals (25.7%) followed closely by one goal (20.5%).",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "The two highest density scorelines reflecting a tight low-scoring match governed by defensive caution.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "1. Division",
+      "matchId": "1551358",
+      "awayTeam": "Vendsyssel FF",
+      "homeTeam": "Kolding IF",
+      "fixtureId": 1551358,
+      "match_time": "17:00",
+      "over_under": {
+        "comment": "Combined per-match scoring and Poisson modeling project a 54.4% probability of two or fewer total goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Stalemate specialists Kolding host reeling Vendsyssel in relegation battle."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance supported by Kolding's defensive stability and Vendsyssel's 6-match winless slide (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by 54.4% Poisson distribution density and low combined scoring rates (Confidence: Moderate, Value: High)",
+      "1:1 draw serving as the primary individual scoreline convergence point given Kolding's 60% draw frequency (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-16 19:20:07 UTC"
+  }
+}
