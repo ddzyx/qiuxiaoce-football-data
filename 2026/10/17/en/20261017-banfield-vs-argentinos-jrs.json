@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493183,
+    "matchup": "Banfield vs Argentinos JRS",
+    "home_team": "Banfield",
+    "away_team": "Argentinos JRS",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-17 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-banfield-vs-argentinos-jrs/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Banfield vs Argentinos JRS Prediction: Can Banfield Resist El Bicho's Press? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493183",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Banfield vs Argentinos JRS",
+      "matchTime": "2026-10-17 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Argentinos Juniors possesses the structural authority and defensive solidity to dictate terms, favoring a Draw / Away Win posture under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Argentinos Juniors controls territory and claims a disciplined 0:1 away victory (Confidence: Moderate, Value: High)",
+      "Banfield maintains low-block compactness to secure a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Attritional midfield duel restricts scoring chances below 2.5 total goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493183",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Banfield",
+      "awayTeam": "Argentinos JRS",
+      "match_time": "18:00",
+      "match_highlight": "Argentinos Juniors aims to extend their four-match winning streak against resilient Banfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493183,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Argentinos Juniors holds superior possession and defensive metrics, while retaining the draw protects against Banfield's stubborn home low-block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined per-match goal expectancy of 2.20 and Argentinos Juniors' 0.8 goals conceded rate strongly favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A controlled 0:1 away win represents the leading script, with a 1:1 stalemate serving as the principal home resistance branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution models converge heavily on exact totals of two and one in a tight tactical contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, scoreless first half is projected to precede either a late visiting winner or a shared-point conclusion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 06:07:12 UTC"
+}
