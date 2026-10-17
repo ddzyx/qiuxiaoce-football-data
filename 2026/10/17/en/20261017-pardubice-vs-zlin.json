@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560041,
+    "matchup": "Pardubice vs Zlin",
+    "home_team": "Pardubice",
+    "away_team": "Zlin",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-pardubice-vs-zlin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FK Pardubice vs FC Zlin Prediction & Match Analysis: Relegation Six-Pointer — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1560041",
+      "league": "Czech Liga",
+      "matchup": "FK Pardubice vs FC Zlín",
+      "matchTime": "2026-10-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FK Pardubice hold a decisive form and structural advantage over winless FC Zlín, making Home Win / Draw the optimal probabilistic selection with 2:1 and 1:1 leading the scoreline matrix.",
+    "possibilityAssessment": [
+      "Pardubice exploit Zlín's depleted central defense via wide overloads to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Pavel Hoftych's organized low block frustrates Pardubice's depleted midfield into an attritional 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Zlín capitalize on an early transition breakthrough to force a low-margin defensive scramble (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560041",
+      "league": "Czech Liga",
+      "homeTeam": "Pardubice",
+      "awayTeam": "Zlin",
+      "match_time": "13:00",
+      "match_highlight": "Pardubice attack meets Zlin's winless low block in survival clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560041,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Pardubice's superior multi-goal transition threat while hedging against Hoftych's newly organized low-block stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda expectancy of 2.65 and Zlín's league-worst 2.00 conceded goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary operational outcome, with 1:1 covering the attritional defensive script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Expectancy concentrates on 3 and 2 total goals given both clubs' recurring defensive lapses."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to Pardubice's second-half physical and depth advantage."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 01:04:53 UTC"
+}
