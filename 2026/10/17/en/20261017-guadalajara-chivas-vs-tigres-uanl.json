@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550996,
+    "matchup": "Guadalajara Chivas vs Tigres UANL",
+    "home_team": "Guadalajara Chivas",
+    "away_team": "Tigres UANL",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-17 23:07:00",
+    "source_url": "https://xgmind.com/matches/20261017-guadalajara-chivas-vs-tigres-uanl/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guadalajara Chivas vs Tigres UANL Prediction: Makeshift Defense vs Away Woes — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550996",
+      "league": "Liga MX",
+      "matchup": "Guadalajara Chivas vs Tigres UANL",
+      "matchTime": "2026-10-17 23:07 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Guadalajara Chivas' home resilience at Estadio Akron and Tigres UANL's 10-match road winless drought support a Home Win / Draw double-chance posture anchored by an Under 2.5 game state.",
+    "possibilityAssessment": [
+      "Guadalajara Chivas / Draw Double Chance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Match Goals (Confidence: High, Value: Moderate)",
+      "1:1 Attrition Stalemate Scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550996",
+      "league": "Liga MX",
+      "homeTeam": "Guadalajara Chivas",
+      "awayTeam": "Tigres UANL",
+      "match_time": "23:07",
+      "match_highlight": "Depleted Chivas defense confronts Tigres' chronic ten-match road winless drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550996,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 attrition stalemate alongside a narrow 1:0 Chivas home victory driven by Tigres' travel woes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined lambda of 2.03 and Tigres' three-match away scoring drought heavily favor a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects an evenly balanced defensive grind at Estadio Akron where both sides struggle for clean openings."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Anchored directly to the 1:1 and 1:0 game states which capture over 53% of Poisson goal density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Vucetich's conservative first-half setup ensures a level break before second-half adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 11:13:56 UTC"
+}
