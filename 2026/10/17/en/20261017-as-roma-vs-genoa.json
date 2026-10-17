@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550148,
+    "matchup": "AS Roma vs Genoa",
+    "home_team": "AS Roma",
+    "away_team": "Genoa",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-17 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261017-as-roma-vs-genoa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AS Roma vs Genoa Prediction: Can Depleted Giallorossi Contain Grifone? — xG & Scoreline Breakdown",
+    "meta": {
+      "matchId": "1550148",
+      "league": "Serie A",
+      "matchup": "AS Roma vs Genoa",
+      "matchTime": "2026-10-17 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back AS Roma to overcome extensive attacking absentees through superior tactical organization and secure a regulation victory over travel-weary Genoa.",
+    "possibilityAssessment": [
+      "Home Win via controlled territorial dominance and defensive suppression (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting reduced finishing firepower and Genoa low block (Confidence: Moderate, Value: High)",
+      "Draw 1:1 contingency if fatigue causes second-half defensive lapse (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550148",
+      "league": "Serie A",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Genoa",
+      "match_time": "18:45",
+      "match_highlight": "Depleted Roma host former icon De Rossi seeking home redemption.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550148,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Roma's dominant underlying metrics (2.32 xG/game) and domestic defensive record (0.50 goals conceded) outweigh extensive absences against a toothless Genoa side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absences of Dybala and Malen sharply curb Roma's finishing variance against Genoa's 5-3-2 low-block structure."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A controlled 2:0 clean sheet represents the primary convergence, while a 2:1 home victory covers any set-piece concession."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson matrix concentrates 45.8% of probability across exactly 2 or 3 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Genoa's first-half low block should delay the breakthrough until Gasperini's tactical adjustments take effect in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 06:52:10 UTC"
+}
