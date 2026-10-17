@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490550,
+    "matchup": "Sporting Kansas City vs Real Salt Lake",
+    "home_team": "Sporting Kansas City",
+    "away_team": "Real Salt Lake",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-18 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-sporting-kansas-city-vs-real-salt-lake/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sporting Kansas City vs Real Salt Lake Prediction: Defensive Fragility Meets RSL Playoff Push — xG Analysis",
+    "meta": {
+      "matchId": "1490550",
+      "league": "Major League Soccer",
+      "matchup": "Sporting Kansas City vs Real Salt Lake",
+      "matchTime": "2026-10-18 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Salt Lake's superior chance creation should exploit Kansas City's league-worst defense, though road fatigue makes a draw-inclusive Away Win the optimal thesis.",
+    "possibilityAssessment": [
+      "Real Salt Lake transition breakthrough secures a narrow away victory (Confidence: Moderate, Value: High)",
+      "Sporting KC leverages desperate home tempo to force a low-efficiency stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive attrition causes early deadlock before second-half tactical separation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490550",
+      "league": "Major League Soccer",
+      "homeTeam": "Sporting Kansas City",
+      "awayTeam": "Real Salt Lake",
+      "match_time": "00:30",
+      "match_highlight": "Struggling SKC defense faces motivated RSL hunting vital playoff points.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490550,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "RSL holds decisive attacking edge against SKC's 72-goal conceded defense, while road fatigue justifies retaining the draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Kansas City's 2.07 xGA per match and RSL's active transition offense favor an open match exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 road victory leads as primary script, with a 1:1 stalemate serving as the primary resistance scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal model expectation, closely followed by a two-goal baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half suggests a level interval before RSL's second-half push determines the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 12:38:02 UTC"
+}
