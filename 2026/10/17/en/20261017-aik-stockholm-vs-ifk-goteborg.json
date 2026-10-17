@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494297,
+    "matchup": "AIK Stockholm vs IFK Goteborg",
+    "home_team": "AIK Stockholm",
+    "away_team": "IFK Goteborg",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-17 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-aik-stockholm-vs-ifk-goteborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AIK Stockholm vs IFK Goteborg Prediction & Preview: Defensive Crisis vs Road Form — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1494297",
+      "league": "Allsvenskan",
+      "matchup": "AIK Stockholm vs IFK Goteborg",
+      "matchTime": "2026-10-17 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back IFK Göteborg to exploit AIK's severely depleted central defense within a Draw / Away Win match framework.",
+    "possibilityAssessment": [
+      "IFK Göteborg transitional counter-attack exploits AIK defensive crisis to win 1:2 (Confidence: Moderate, Value: High)",
+      "High-scoring rivalry stalemate as AIK attack answers Göteborg breaks in 2:2 draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals backed by AIK's 1.80 xGA and recent high-scoring collapses (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494297",
+      "league": "Allsvenskan",
+      "homeTeam": "AIK Stockholm",
+      "awayTeam": "IFK Goteborg",
+      "match_time": "15:30",
+      "match_highlight": "AIK defensive crisis meets Göteborg transitional form in historic rivalry clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494297,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "IFK Göteborg is the leading victor behind AIK's defensive injury crisis, with the draw covering home territorial possession."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.14 xG per match and AIK's alarming concession of 13 goals in four games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Primary 1:2 reflects Göteborg counter-attack clinical efficiency; secondary 2:2 accounts for Solna home attacking response."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Top probabilistic nodes in the Poisson matrix corresponding to 1:2 and 2:2 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first half in heated rivalry precedes second-half defensive fatigue and decisive transitional breakthroughs."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 03:36:15 UTC"
+}
