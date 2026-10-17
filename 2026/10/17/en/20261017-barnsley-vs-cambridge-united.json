@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564355,
+    "matchup": "Barnsley vs Cambridge United",
+    "home_team": "Barnsley",
+    "away_team": "Cambridge United",
+    "league": "League One",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-barnsley-vs-cambridge-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barnsley vs Cambridge United Prediction & Match Analysis: Can Tykes Plug Leaky Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1564355",
+      "league": "League One",
+      "matchup": "Barnsley vs Cambridge United",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cambridge United's six-match unbeaten form and elite low block will exploit Barnsley's fragile defense to secure at least a point at Oakwell.",
+    "possibilityAssessment": [
+      "Cambridge United low block absorbs early Oakwell pressure and earns a 1:1 draw on the counter (Confidence: Moderate, Value: High)",
+      "Barnsley suffer another defensive transition breakdown allowing Cambridge to snatch a 0:1 away victory (Confidence: Moderate, Value: Moderate)",
+      "Barnsley's territorial pressure and high corner volume break through for a narrow 1:0 home win (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564355",
+      "league": "League One",
+      "homeTeam": "Barnsley",
+      "awayTeam": "Cambridge United",
+      "match_time": "14:00",
+      "match_highlight": "Cambridge's resolute counter-attack clashes with Barnsley's fragile, high-pressing Oakwell backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564355,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate and the 0:1 Cambridge smash-and-grab against a Barnsley defense that has conceded 15 league goals."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Cambridge conceding just 1.0 goal per game and a 90% concentration in model goal totals under three."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects the exact convergence point of Barnsley's shot volume and Cambridge's low-block counter-attacking discipline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Derived directly from the two leading scoreline scripts of 1:1 (2 goals) and 0:1 (1 goal)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a tight, scoreless opening half before second-half fatigue opens transitional spaces for Cambridge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:27:44 UTC"
+}
