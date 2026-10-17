@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575192,
+    "matchup": "FC Schalke 04 vs FSV Mainz 05",
+    "home_team": "FC Schalke 04",
+    "away_team": "FSV Mainz 05",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-17 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-fc-schalke-04-vs-fsv-mainz-05/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Schalke 04 vs FSV Mainz 05 Prediction: Sylla Absence & xG Analysis — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1575192",
+      "league": "Bundesliga",
+      "matchup": "FC Schalke 04 vs FSV Mainz 05",
+      "matchTime": "2026-10-17 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FSV Mainz 05 are favored to avoid defeat against a depleted Schalke attack in a low-scoring encounter dominated by defensive caution.",
+    "possibilityAssessment": [
+      "FSV Mainz 05 exploit Schalke's lack of attacking threat to secure a narrow away victory (Confidence: Moderate, Value: High)",
+      "Schalke's compact 5-3-2 low block successfully grinds out a low-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Schalke capitalize on goalkeeping error to steal a low-possession home win (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575192",
+      "league": "Bundesliga",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "FSV Mainz 05",
+      "match_time": "13:30",
+      "match_highlight": "Sylla injury leaves Schalke blunt against Mainz's lethal away transition engine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575192,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Mainz possess superior offensive quality, while Schalke's home defensive resilience provides a strong secondary draw scenario."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Schalke have conceded zero home goals and lost top scorer Sylla, pointing decisively toward a low-scoring battle."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 away win represents the statistical Poisson mode, with 1:1 capturing Mainz's goalkeeping fragility."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model density concentrates heavily across 1-goal and 2-goal bands, capturing both projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Schalke's defensive structure routinely holds level at half-time before second-half adjustments unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 01:39:00 UTC"
+}
