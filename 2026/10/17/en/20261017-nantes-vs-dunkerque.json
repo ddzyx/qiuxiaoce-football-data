@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552500,
+    "matchup": "Nantes vs Dunkerque",
+    "home_team": "Nantes",
+    "away_team": "Dunkerque",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-17 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-nantes-vs-dunkerque/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nantes vs Dunkerque Prediction & Match Analysis: Can Canaris Penetrate Sánchez's Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552500",
+      "league": "Ligue 2",
+      "matchup": "Nantes vs Dunkerque",
+      "matchTime": "2026-10-17 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nantes hold decisive structural and squad advantages, but attacking conversion deficits make Home Win / Draw with Under 2.5 goals the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance covers Nantes' territorial dominance and low-block deadlock risk (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with severely suppressed underlying expected goals of 0.705 (Confidence: High, Value: Moderate)",
+      "A 1:0 Nantes victory represents the natural convergence of home pressure and away scoring drought (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552500",
+      "league": "Ligue 2",
+      "homeTeam": "Nantes",
+      "awayTeam": "Dunkerque",
+      "match_time": "12:00",
+      "match_highlight": "Canaris target home resurgence against road-weary, scoreless Dunkerque.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552500,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Nantes possess superior technical quality and home dominance, but low offensive conversion mandates retaining the draw against Dunkerque's compact defensive block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Suppressed expected goals (combined lambda 0.705) and Dunkerque's three-match scoring drought heavily favor Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "A narrow 1:0 home win serves as the leading decisive script, while a 0:0 stalemate provides the core defensive alternative."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "One exact goal represents the primary tactical convergence, backed by a goalless deadlock as the secondary statistical probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening 45 minutes indicates parity at the interval, leading either to a second-half Nantes breakthrough or full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 00:08:43 UTC"
+}
