@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556679,
+    "matchup": "Hibernian vs Falkirk",
+    "home_team": "Hibernian",
+    "away_team": "Falkirk",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-hibernian-vs-falkirk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hibernian vs Falkirk Prediction & Match Analysis: Can Hibs Exploit Falkirk's 1.89 xGA? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556679",
+      "league": "Premiership",
+      "matchup": "Hibernian vs Falkirk",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hibernian's underlying xG superiority and Falkirk's fragile defense point toward a 2:1 home victory, with the draw formally covering conversion risk.",
+    "possibilityAssessment": [
+      "Hibernian home victory driven by superior xG creation and Easter Road pressure (Confidence: Moderate, Value: High)",
+      "High-event contest with both teams scoring and exceeding 2.5 total goals (Confidence: Moderate, Value: High)",
+      "Tense 1:1 stalemate triggered by Hibernian finishing under-conversion (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556679",
+      "league": "Premiership",
+      "homeTeam": "Hibernian",
+      "awayTeam": "Falkirk",
+      "match_time": "14:00",
+      "match_highlight": "Hibs eye home lift against leaky Falkirk defense conceding 1.89 xGA.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556679,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Hibernian's primary 2:1 attacking breakthrough while insulating against Falkirk's 1-1 counter-attacking stalemate tendency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model baseline yields 61.4% Over 2.5 probability driven by Falkirk's 1.89 xGA and 6-match consecutive scoring streak."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects Hibernian's edge in chance creation, while secondary 1:1 hedges persistent conversion variance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution concentrates heavily on 3 goals (22.3%) and 2 goals (21.1%) as the primary match totals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tense opening half gives way to a second-half Hibernian acceleration or an entrenched defensive stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:06:49 UTC"
+}
