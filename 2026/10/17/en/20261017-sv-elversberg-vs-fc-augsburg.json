@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575193,
+    "matchup": "SV Elversberg vs FC Augsburg",
+    "home_team": "SV Elversberg",
+    "away_team": "FC Augsburg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-17 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-sv-elversberg-vs-fc-augsburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling SV Elversberg vs FC Augsburg: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1575193",
+      "league": "Bundesliga",
+      "matchup": "SV Elversberg vs FC Augsburg",
+      "matchTime": "2026-10-17 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Augsburg to avoid defeat via Draw / Away Win in an open, high-event encounter likely exceeding 2.5 total goals.",
+    "possibilityAssessment": [
+      "FC Augsburg lethal counter-attack secures narrow 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Open-field shootout yields an entertaining 2:2 point share (Confidence: Moderate, Value: High)",
+      "SV Elversberg sustain defensive composure to earn a 1:1 home draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575193",
+      "league": "Bundesliga",
+      "homeTeam": "SV Elversberg",
+      "awayTeam": "FC Augsburg",
+      "match_time": "13:30",
+      "match_highlight": "Augsburg transition pace threatens Elversberg high possession shape at Kaiserlinde.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575193,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Augsburg's league-leading sprint volume and 13-goal output match up favorably against Elversberg's expansive shape, covering both the 1:2 away win and the 2:2 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined seasonal fixtures average over 3.7 goals per match, making Over 2.5 the dominant statistical convergence point."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A 1:2 away triumph represents the leading counter-attacking script, with a 2:2 stalemate covering high-variance transitional exchanges."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals represents the primary exact total matching the 1:2 script, followed closely by a four-goal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half is expected before Augsburg's transition pace and superior depth seize control in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 01:39:08 UTC"
+}
