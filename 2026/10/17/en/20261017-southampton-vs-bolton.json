@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563210,
+    "matchup": "Southampton vs Bolton",
+    "home_team": "Southampton",
+    "away_team": "Bolton",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-southampton-vs-bolton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Southampton vs Bolton Prediction & Match Analysis: Saints xG Dominance vs Trotters Transition — XG Mind AI",
+    "meta": {
+      "matchId": "1563210",
+      "league": "Championship",
+      "matchup": "Southampton vs Bolton",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Southampton's positional dominance and superior attacking depth make a home victory the most probable outcome.",
+    "possibilityAssessment": [
+      "Southampton controls tempo and breaks through Bolton's vulnerable backline (Confidence: High, Value: High)",
+      "High match tempo and transitional space push the combined goal tally over 2.5 (Confidence: Moderate, Value: High)",
+      "Controlled home possession stifles Bolton into a 2:0 clean-sheet margin (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563210",
+      "league": "Championship",
+      "homeTeam": "Southampton",
+      "awayTeam": "Bolton",
+      "match_time": "14:00",
+      "match_highlight": "Saints target top-six ascent against erratic Trotters",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563210,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Southampton's territorial superiority and finishing quality will overpower Bolton's porous defensive structure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Bolton's high-variance transition style and Southampton's scoring volume favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the central convergence, backed by a 2:0 shutout alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary scoring script, with two goals offering a robust lower boundary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Saints frequently wear opponents down before converting second-half dominance, though an early lead is also viable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:17:35 UTC"
+}
