@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593331,
+    "matchup": "Atromitos vs AEK Athens FC",
+    "home_team": "Atromitos",
+    "away_team": "AEK Athens FC",
+    "league": "Super League 1",
+    "kickoff_utc": "2026-10-17 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-atromitos-vs-aek-athens-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atromitos vs AEK Athens Prediction: Can Kerkez's Low Block Contain Jovic? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593331",
+      "league": "Super League 1",
+      "matchup": "Atromitos vs AEK Athens FC",
+      "matchTime": "2026-10-17 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AEK Athens FC to overcome post-European fatigue and secure an ordinary away victory against winless, injury-depleted Atromitos.",
+    "possibilityAssessment": [
+      "AEK Athens controlled away victory with clean sheet (Confidence: Moderate, Value: High)",
+      "Controlled low-scoring contest falling Under 2.5 total goals (Confidence: Moderate, Value: Moderate)",
+      "Atromitos low-block stalemate resulting in a low-scoring draw (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593331",
+      "league": "Super League 1",
+      "homeTeam": "Atromitos",
+      "awayTeam": "AEK Athens FC",
+      "match_time": "16:30",
+      "match_highlight": "AEK Athens to assert title authority over winless, injury-hit Atromitos",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593331,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "AEK Athens possesses decisive advantages in xG generation (2.03 vs 0.85) and defensive prevention against winless Atromitos."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "AEK's defensive stinginess conceding only 0.50 goals per match aligns with Atromitos' toothless attack to keep scoring under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A controlled 0:2 away triumph represents the natural statistical convergence, with 1:2 as the secondary set-piece branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals stands as the modal Poisson outcome at 24.9%, closely supported by three goals at 21.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Atromitos mounts stubborn first-half resistance before AEK's superior depth breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 04:37:50 UTC"
+}
