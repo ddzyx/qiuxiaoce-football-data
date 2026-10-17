@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638647,
+    "matchup": "Valur Reykjavik vs KA Akureyri",
+    "home_team": "Valur Reykjavik",
+    "away_team": "KA Akureyri",
+    "league": "Úrvalsdeild",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-valur-reykjavik-vs-ka-akureyri/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valur Reykjavik vs KA Akureyri Prediction: Relegation Battle & High xG Volatility — Model Scoreline Preview",
+    "meta": {
+      "matchId": "1638647",
+      "league": "Úrvalsdeild",
+      "matchup": "Valur Reykjavik vs KA Akureyri",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Valur hold the primary home edge in an open clash, but KA's survival momentum makes Home Win / Draw the optimal risk-adjusted direction alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Valur capitalize on home superiority and creative volume to edge a high-scoring contest 2:1 (Confidence: Moderate, Value: High)",
+      "KA Akureyri exploit Valur's transitional defense to secure a hard-fought 2:2 draw (Confidence: Moderate, Value: Moderate)",
+      "High defensive concession rates on both sides drive match total comfortably Over 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638647",
+      "league": "Úrvalsdeild",
+      "homeTeam": "Valur Reykjavik",
+      "awayTeam": "KA Akureyri",
+      "match_time": "14:00",
+      "match_highlight": "Valur's firepower faces KA's surging survival momentum at Hlíðarendi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638647,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Valur's technical superiority at home gives them the primary winning edge, but their porous defense against an in-form KA makes a draw a vital secondary script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over two goals conceded per match, ensuring an open contest with high expected goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 home victory reflects Valur's finishing edge, while 2:2 accounts for KA's potent transitional threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Combined lambdas of 3.80 point toward a multi-goal encounter with three or four total strikes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half gives way to either Valur's late bench quality or a shared outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:38:12 UTC"
+}
