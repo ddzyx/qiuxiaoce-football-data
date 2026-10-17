@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644480,
+    "matchup": "Hartlepool vs Marine",
+    "home_team": "Hartlepool",
+    "away_team": "Marine",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-hartlepool-vs-marine/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hartlepool vs Marine Prediction & Match Analysis: Can Pools Halt Mariners' FA Cup Run? — Scoreline Preview",
+    "meta": {
+      "matchId": "1644480",
+      "league": "FA Cup",
+      "matchup": "Hartlepool vs Marine",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hartlepool's divisional quality should eventually tell at Victoria Park, but Marine's five-match momentum and Pools' shaky defense make Home Win / Draw with Over 2.5 goals the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Hartlepool break through late against a tiring low block to claim a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Marine's compact back five holds firm and capitalizes on a set piece to force a 1:1 draw and replay (Confidence: Moderate, Value: Moderate)",
+      "Hartlepool establish early dominance through Jordan Hugill to secure a comfortable 2:0 win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644480",
+      "league": "FA Cup",
+      "homeTeam": "Hartlepool",
+      "awayTeam": "Marine",
+      "match_time": "14:00",
+      "match_highlight": "Tier 5 Hartlepool host flying Marine in FA Cup 4Q",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644480,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win leads on divisional pedigree, but Draw is formally retained due to Marine's 5-match winning run and the replay incentive."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goals of 2.50 and Hartlepool's 8-match clean-sheet drought strongly support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win represents the natural convergence point, while 1:1 covers the strategic away replay scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals is the primary outcome via a 2:1 script, with two goals offering secondary coverage via a 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Marine's organized low block should maintain first-half parity before physical tier fatigue takes a toll in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:45:57 UTC"
+}
