@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490547,
+    "matchup": "New England Revolution vs Chicago Fire",
+    "home_team": "New England Revolution",
+    "away_team": "Chicago Fire",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-17 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-new-england-revolution-vs-chicago-fire/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New England Revolution vs Chicago Fire Prediction: Playoff Seeding & xG Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1490547",
+      "league": "Major League Soccer",
+      "matchup": "New England Revolution vs Chicago Fire",
+      "matchTime": "2026-10-17 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "New England Revolution leverage home advantage and Chicago's critical defensive absences to secure at least a point via a 2:1 victory or 1:1 draw.",
+    "possibilityAssessment": [
+      "New England Revolution narrow home victory exploiting depleted Chicago central defense (Confidence: Moderate, Value: High)",
+      "High-tempo competitive stalemate with both clubs trading transition goals (Confidence: Moderate, Value: Moderate)",
+      "Chicago Fire direct counter-attacking upset via clinical transitional finishing (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490547",
+      "league": "Major League Soccer",
+      "homeTeam": "New England Revolution",
+      "awayTeam": "Chicago Fire",
+      "match_time": "23:30",
+      "match_highlight": "Revs target shorthanded Fire defense in pivotal Eastern Conference playoff seeding showdown.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490547,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers New England's primary 2:1 home victory script while hedging against a fatigue-induced 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.33 xG per match and defensive absences on both sides strongly support a minimum of three goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects New England's finishing edge against a makeshift Fire backline alongside the baseline 1:1 Poisson peak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome serves as the primary tactical target with 2 goals capturing the lower-tempo fatigue scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey opening half on short rest before second-half attrition opens decisive scoring lanes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 11:36:11 UTC"
+}
