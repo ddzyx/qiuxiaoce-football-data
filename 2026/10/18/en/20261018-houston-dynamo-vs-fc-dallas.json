@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490549,
+    "matchup": "Houston Dynamo vs FC Dallas",
+    "home_team": "Houston Dynamo",
+    "away_team": "FC Dallas",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-18 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-houston-dynamo-vs-fc-dallas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Houston Dynamo vs FC Dallas Prediction & Match Analysis: Texas Derby xG Breakdown & Scoreline Preview",
+    "meta": {
+      "matchId": "1490549",
+      "league": "Major League Soccer",
+      "matchup": "Houston Dynamo vs FC Dallas",
+      "matchTime": "2026-10-18 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Dallas to exploit Houston's defensive transition vulnerabilities and secure at least a point via Draw / Away Win.",
+    "possibilityAssessment": [
+      "FC Dallas avoids defeat via disciplined low-block counter-attacking (Confidence: Moderate, Value: High)",
+      "Total goals converge on 2 or 3 in a tightly contested Texas Derby (Confidence: Moderate, Value: Moderate)",
+      "Houston Dynamo earns a narrow 1:0 victory via sustained home pressure (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490549",
+      "league": "Major League Soccer",
+      "homeTeam": "Houston Dynamo",
+      "awayTeam": "FC Dallas",
+      "match_time": "00:30",
+      "match_highlight": "Texas Derby showdown as Houston fights slump while Dallas defends El Capitán.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490549,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Dallas holds superior form and expected goals output to earn at least a draw against winless Houston."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Dallas's disciplined low block and league-leading clearances favor a tight 1:1 or 1:2 script."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Modal 1:1 stalemate leads our model density, followed by a late 1:2 Dallas transition winner."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals encompass nearly half of the Poisson density in this balanced derby."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half points to a level interval before Dallas strikes on late second-half transitions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 12:35:29 UTC"
+}
