@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553195,
+    "matchup": "Motor Lublin vs Slask Wroclaw",
+    "home_team": "Motor Lublin",
+    "away_team": "Slask Wroclaw",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-17 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261017-motor-lublin-vs-slask-wroclaw/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Motor Lublin vs Slask Wroclaw Prediction & Match Analysis: Relegation Six-Pointer — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1553195",
+      "league": "Ekstraklasa",
+      "matchup": "Motor Lublin vs Slask Wroclaw",
+      "matchTime": "2026-10-17 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Motor Lublin in the double-chance market (Home Win / Draw) in an open, high-event contest featuring Over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Motor Lublin exploits Śląsk's porous defense to secure a hard-fought 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Desperate Śląsk low block and Samiec-Talar counter-punch produces a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive concession rates push match scoring over the 2.5 goals line (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553195",
+      "league": "Ekstraklasa",
+      "homeTeam": "Motor Lublin",
+      "awayTeam": "Slask Wroclaw",
+      "match_time": "12:45",
+      "match_highlight": "Relegation six-pointer as Motor hosts slumping Slask at Arena Lublin",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553195,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Motor's superior chance creation (1.67 xG) edges Slask's leaky defense (1.94 xGA), while a score draw covers tactical deadlock."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined lambda expectancy of 3.33 and defensive frailties on both sides strongly support a high-scoring environment."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Motor's attacking momentum, while a 1:1 draw guards against mid-block attrition."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the median attacking convergence, backed closely by two goals in tighter tactical scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected to transition into Motor's second-half territorial breakthrough or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 00:49:42 UTC"
+}
