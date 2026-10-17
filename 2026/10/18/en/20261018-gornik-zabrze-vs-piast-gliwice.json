@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553193,
+    "matchup": "Gornik Zabrze vs Piast Gliwice",
+    "home_team": "Gornik Zabrze",
+    "away_team": "Piast Gliwice",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-18 10:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-gornik-zabrze-vs-piast-gliwice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Górnik Zabrze vs Piast Gliwice Prediction: Silesian Derby xG & Scoreline Breakdown",
+    "meta": {
+      "matchId": "1553193",
+      "league": "Ekstraklasa",
+      "matchup": "Gornik Zabrze vs Piast Gliwice",
+      "matchTime": "2026-10-18 10:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back league leaders Górnik Zabrze to defeat Piast Gliwice in regulation time by exploiting the visitors' porous defensive transition structure.",
+    "possibilityAssessment": [
+      "Górnik Zabrze to Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score - Yes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553193",
+      "league": "Ekstraklasa",
+      "homeTeam": "Gornik Zabrze",
+      "awayTeam": "Piast Gliwice",
+      "match_time": "10:15",
+      "match_highlight": "Górnik's ruthless transitions meet Piast's league-worst 2.12 xGA defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553193,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Górnik Zabrze's elite defensive structure (1.02 xGA) and vertical transitions should comfortably overpower Piast Gliwice's leaky high-possession backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined seasonal attacking output (3.7 goals per game) and Piast's 2.12 xGA average strongly favour a contest featuring three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the optimal model convergence reflecting Górnik's dominance alongside Piast's occasional offensive threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal Poisson outcome (22.4%), followed closely by a controlled two-goal game state (21.7%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Derby intensity points toward a deadlocked opening half before Górnik's superior transition depth and home momentum break the contest open."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 22:18:40 UTC"
+}
