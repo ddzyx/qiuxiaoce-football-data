@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551355,
+    "matchup": "FC Fredericia vs Hobro",
+    "home_team": "FC Fredericia",
+    "away_team": "Hobro",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-17 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-fc-fredericia-vs-hobro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Fredericia vs Hobro Prediction & Match Analysis: Solid Defense vs Road Slump — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551355",
+      "league": "1. Division",
+      "matchup": "FC Fredericia vs Hobro",
+      "matchTime": "2026-10-17 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Fredericia to secure victory in regulation time against a reeling Hobro defense.",
+    "possibilityAssessment": [
+      "FC Fredericia regulation victory driven by structural defensive control (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals supported by Fredericia's 0.60 goals conceded baseline (Confidence: Moderate, Value: High)",
+      "Hobro low-block stalemate resilience yielding a low-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551355",
+      "league": "1. Division",
+      "homeTeam": "FC Fredericia",
+      "awayTeam": "Hobro",
+      "match_time": "16:30",
+      "match_highlight": "Fredericia's league-best defense confronts Hobro's porous five-match winless backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551355,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Fredericia's league-leading defensive record of six clean sheets provides the foundation to dispatch a reeling Hobro outfit."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Fredericia's low 0.60 goals conceded per match average naturally anchors this contest under the standard line."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A controlled 2:0 home clean sheet represents the primary convergence, backed by a 2:1 scoreline should Hobro convert on the break."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 goals command an aggregate 47.1% density across Poisson distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Hobro's low block is projected to resist early before Fredericia's sustained pressure breaks through in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 04:35:35 UTC"
+}
