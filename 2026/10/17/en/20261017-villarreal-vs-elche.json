@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570422,
+    "matchup": "Villarreal vs Elche",
+    "home_team": "Villarreal",
+    "away_team": "Elche",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-17 14:15:00",
+    "source_url": "https://xgmind.com/matches/20261017-villarreal-vs-elche/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Villarreal vs Elche Prediction & Match Analysis: Resolving the xG Disconnect — Scoreline & Form Preview",
+    "meta": {
+      "matchId": "1570422",
+      "league": "La Liga",
+      "matchup": "Villarreal vs Elche",
+      "matchTime": "2026-10-17 14:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Villarreal to convert their elite underlying 2.14 xG per game into a decisive home victory over an Elche defense conceding 2.1 goals per match.",
+    "possibilityAssessment": [
+      "Villarreal dominant positional win 2:1 or 2:0 (Confidence: Moderate, Value: High)",
+      "Open encounter exceeding 2.5 total goals driven by transitional flow (Confidence: Moderate, Value: High)",
+      "Elche counter-attack stalemate 1:1 holding into late stages (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570422",
+      "league": "La Liga",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Elche",
+      "match_time": "14:15",
+      "match_highlight": "Villarreal's elite xG creation clashes with Elche's fragile road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570422,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Villarreal hold a decisive +0.96 xG per match differential and home advantage over an Elche side conceding 2.1 goals per fixture."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined model goal expectancy of 3.165 goals strongly supports an open match clearing the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory aligns with modal Poisson probability density, with 2:0 serving as the controlled game-state alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals captures the leading probability density (22.3%), supported by two goals as the secondary threshold (21.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects first-half resistance from Elche before Villarreal pull away, while Win-Win covers early home control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:59:16 UTC"
+}
