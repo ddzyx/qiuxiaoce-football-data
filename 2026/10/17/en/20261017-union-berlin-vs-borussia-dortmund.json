@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575188,
+    "matchup": "Union Berlin vs Borussia Dortmund",
+    "home_team": "Union Berlin",
+    "away_team": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-17 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-union-berlin-vs-borussia-dortmund/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Union Berlin vs Borussia Dortmund: Expected Goals, Fatigue Vectors & Match Intelligence",
+    "meta": {
+      "matchId": "1575188",
+      "league": "Bundesliga",
+      "matchup": "Union Berlin vs Borussia Dortmund",
+      "matchTime": "2026-10-17 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Borussia Dortmund to overcome midweek European fatigue and secure an away victory against a defensively vulnerable Union Berlin.",
+    "possibilityAssessment": [
+      "Borussia Dortmund control territory and secure a professional 0:2 road win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as Dortmund prioritize game management following travel (Confidence: Moderate, Value: High)",
+      "Draw at Half-Time transitioning to an Away Win at Full-Time (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575188",
+      "league": "Bundesliga",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "Borussia Dortmund",
+      "match_time": "13:30",
+      "match_highlight": "Guirassy returns to lead Dortmund's attack against Union's leaky defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575188,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Dortmund possess decisive qualitative superiority and face a Union side that has conceded seventeen league goals this season."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Dortmund's league-leading defense and travel-induced game management favor a controlled, lower-scoring outcome."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A clinical 0:2 victory represents the primary tactical equilibrium, with 1:2 serving as the set-piece contingency branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exactly two goals represents the statistical mode, supported by a secondary three-goal script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Union's early home resistance points toward a level first half before Dortmund break through in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 01:36:52 UTC"
+}
