@@ -84,5 +84,16 @@
       "specificOutcome": null
     }
   },
-  "synced_at": "2026-10-17 01:39:00 UTC"
+  "synced_at": "2026-10-17 01:39:00 UTC",
+  "result": {
+    "fulltime_score": "0-1",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-17 15:42:54 UTC"
+  }
 }
