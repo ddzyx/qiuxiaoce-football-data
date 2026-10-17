@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490548,
+    "matchup": "Austin vs Vancouver Whitecaps",
+    "home_team": "Austin",
+    "away_team": "Vancouver Whitecaps",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-18 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-austin-vs-vancouver-whitecaps/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Austin FC vs Vancouver Whitecaps Prediction: Can Verde Contain Brian White's xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1490548",
+      "league": "Major League Soccer",
+      "matchup": "Austin FC vs Vancouver Whitecaps",
+      "matchTime": "2026-10-18 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vancouver Whitecaps' league-leading attacking efficiency and Austin's 2.13 xGA defensive fragility point to an away victory in an open encounter.",
+    "possibilityAssessment": [
+      "Vancouver Whitecaps capitalize on Austin defensive transitions to secure an away win (Confidence: Moderate, Value: High)",
+      "High-tempo game state yields Over 2.5 total goals driven by Brian White and Brandon Vazquez (Confidence: High, Value: High)",
+      "Austin exploits Vancouver road fatigue for an early lead before visitor second-half recovery (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490548",
+      "league": "Major League Soccer",
+      "homeTeam": "Austin",
+      "awayTeam": "Vancouver Whitecaps",
+      "match_time": "00:30",
+      "match_highlight": "Western leaders Vancouver face Austin's porous backline at Q2 Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490548,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Vancouver's +32.9 xG differential and superior offensive cohesion outweigh recent travel congestion against Austin's league-worst 2.13 xGA defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal baseline of 3.21 and Austin's heavy concession rate firmly support the Over 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Scoreline modeling concentrates on a competitive 1:2 Vancouver victory, with a clean 0:2 road shutout as the primary defensive alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The Poisson distribution peaks at 3 goals (22.2%) followed closely by 2 goals (20.8%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Austin's first-half resistance is expected to yield to Vancouver's superior second-half attacking depth, favoring Draw-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 12:35:38 UTC"
+}
