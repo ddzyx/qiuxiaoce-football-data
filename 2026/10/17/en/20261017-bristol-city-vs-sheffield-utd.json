@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563204,
+    "matchup": "Bristol City vs Sheffield Utd",
+    "home_team": "Bristol City",
+    "away_team": "Sheffield Utd",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-bristol-city-vs-sheffield-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bristol City vs Sheffield United Prediction: Right-Back Crisis vs xG Modeling — Match Analysis",
+    "meta": {
+      "matchId": "1563204",
+      "league": "Championship",
+      "matchup": "Bristol City vs Sheffield Utd",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bristol City or Draw in an attritional, low-scoring battle shaped by Sheffield United's right-back crisis and fatigue.",
+    "possibilityAssessment": [
+      "Stalemate thesis led by Bristol City possession and low xG output vs Sheffield United transition counter (Confidence: Moderate, Value: High)",
+      "Bristol City narrow home win exploiting Blades emergency right flank and travel fatigue (Confidence: Moderate, Value: Moderate)",
+      "Low scoring defensive containment staying comfortably Under 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563204",
+      "league": "Championship",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Sheffield Utd",
+      "match_time": "14:00",
+      "match_highlight": "Blades right-back injury crisis meets Robins sterile possession dominance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563204,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains the 1:1 stalemate and 1:0 home win; single call is too fragile given Robins' low xG conversion."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bristol City average just 0.28 xG per match while Sheffield United will protect their depleted right flank in a low-tempo block."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects mutual defensive vacancies producing a shared-points deadlock or a solitary Robins breakthrough against tired legs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Attritional dynamics and suppressed chance creation concentrate the match into exact tallies of two or one goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first halves keep the opening period level, with goals arriving post-interval as defensive fatigue emerges."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:15:30 UTC"
+}
