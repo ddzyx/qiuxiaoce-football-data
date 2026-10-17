@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563211,
+    "matchup": "Swansea vs West Ham",
+    "home_team": "Swansea",
+    "away_team": "West Ham",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-swansea-vs-west-ham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Swansea vs West Ham Prediction & Match Analysis: Can Swans Halt Hammers' Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563211",
+      "league": "Championship",
+      "matchup": "Swansea vs West Ham",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as West Ham's lethal transition attack exploits Swansea's injury-depleted defensive flank in a tightly contested 1:1 or 1:2 outcome.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance thesis anchored by West Ham transition menace against Swansea's depleted right flank (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as tactical summit-clash inhibition and Swansea phase control suppress open-ended volume (Confidence: Moderate, Value: High)",
+      "Late 1:2 Away Win breakout if second-half fatigue exposes the Swans' makeshift defensive rotation (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563211",
+      "league": "Championship",
+      "homeTeam": "Swansea",
+      "awayTeam": "West Ham",
+      "match_time": "14:00",
+      "match_highlight": "Championship summit clash tests Swansea's patched defense against West Ham's firepower",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563211,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and the secondary 1:2 counter-attacking away victory, accounting for Swansea's severe flank absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with the 1:1 primary scoreline and Poisson baseline density showing nearly 70% probability for two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 scoreline reflects tactical parity and territorial cancellation, while 1:2 captures West Ham's clinical counter-attacking edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary convergence point, with three goals covering the higher-tempo second-half scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half points to a level score at the interval, followed by either sustained deadlock or a late West Ham winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:18:58 UTC"
+}
