@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492785,
+    "matchup": "Sligo Rovers vs Dundalk",
+    "home_team": "Sligo Rovers",
+    "away_team": "Dundalk",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-10-17 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261017-sligo-rovers-vs-dundalk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sligo Rovers vs Dundalk Prediction: Relegation Fallout vs Lilywhites Attack — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492785",
+      "league": "Premier Division",
+      "matchup": "Sligo Rovers vs Dundalk",
+      "matchTime": "2026-10-17 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dundalk are projected to avoid defeat in an active encounter, with superior attacking metrics offsetting road draw tendencies against relegated Sligo Rovers.",
+    "possibilityAssessment": [
+      "Dundalk break through Sligo's fragile defense in the second half to secure a 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Sligo Rovers fight with post-relegation freedom to grind out a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Dundalk's rest advantage fuels an early offensive surge that overwhelms Sligo in a 0:2 shutout (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492785",
+      "league": "Premier Division",
+      "homeTeam": "Sligo Rovers",
+      "awayTeam": "Dundalk",
+      "match_time": "18:45",
+      "match_highlight": "Dundalk attack tests Sligo's fragile defense after confirmed relegation fallout.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492785,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Dundalk possess the clear attacking edge, but their 50% away draw rate warrants retaining the stalemate hedge against a freed host."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive metrics conceding over 3.3 total xGA per match strongly support an open contest exceeding two goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory reflects Dundalk's superior transition quality, while a 1:1 stalemate captures their historical road attrition."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model density concentrates tightly across 3 goals (22.4%) and 2 goals (23.1%) under Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Sligo typically maintain competitive first-half structures before second-half fatigue grants Dundalk the decisive margin."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 06:51:53 UTC"
+}
