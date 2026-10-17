@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557431,
+    "matchup": "Fulham vs Hull City",
+    "home_team": "Fulham",
+    "away_team": "Hull City",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-fulham-vs-hull-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fulham vs Hull City Prediction & Match Analysis: Tactical Crisis Meets Injury Depletion — Scoreline Preview",
+    "meta": {
+      "matchId": "1557431",
+      "league": "Premier League",
+      "matchup": "Fulham vs Hull City",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fulham's territorial hegemony and Hull City's nine-man injury crisis point to a controlled home performance, where Home Win / Draw and Under 2.5 provide the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Fulham 1:0 Hull City — Dominant possession yields a patient second-half breakthrough against a fatigued defense (Confidence: Moderate, Value: High)",
+      "Fulham 1:1 Hull City — Hull low-block resilience and transition counter force a low-scoring draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals — Both sides maintain elite defensive suppression (0.37 vs 0.28 xGA) (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557431",
+      "league": "Premier League",
+      "homeTeam": "Fulham",
+      "awayTeam": "Hull City",
+      "match_time": "14:00",
+      "match_highlight": "Fulham possession supremacy faces Hull City's severely depleted nine-man injury roster.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557431,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Fulham's territorial dominance against Hull's depleted defense leads the win script, while the retained draw protects against low-block finishing variance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined xGA metrics under 0.65 and Chris Kavanagh's whistle-heavy tendencies point decisively toward a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 Fulham breakthrough represents the primary convergence point, with a 1:1 stalemate covering the primary contingency branch."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A single goal dominates the Poisson density distribution at 36.8%, followed by a two-goal ceiling at 18.8%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, whistle-disrupted opening half points to a 0:0 interval before second-half fatigue dictates the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:13:23 UTC"
+}
