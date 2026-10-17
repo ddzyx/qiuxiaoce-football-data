@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563813,
+    "matchup": "Swindon Town vs Walsall",
+    "home_team": "Swindon Town",
+    "away_team": "Walsall",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-swindon-town-vs-walsall/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Swindon Town vs Walsall Prediction: Can Unbeaten Saddlers Break Robins' Low Block? — xG Analysis",
+    "meta": {
+      "matchId": "1563813",
+      "league": "League Two",
+      "matchup": "Swindon Town vs Walsall",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back unbeaten Walsall to navigate Swindon's low block via a Double Chance (Draw / Away Win) in an encounter comfortably Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "Walsall grind out a methodical 1-0 away victory behind their division-leading defensive structure (Confidence: Moderate, Value: High)",
+      "Swindon's compact low block secures a hard-fought 1-1 stalemate against Walsall's draw-heavy road attack (Confidence: Moderate, Value: Moderate)",
+      "An uneventful, scoreless 0-0 war of attrition unfolds as both sides cancel each other out in midfield (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563813",
+      "league": "League Two",
+      "homeTeam": "Swindon Town",
+      "awayTeam": "Walsall",
+      "match_time": "14:00",
+      "match_highlight": "Unbeaten Walsall test Swindon's low block amid Robins' severe injury crisis.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563813,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Walsall's formidable unbeaten record and defensive structure contrast with Swindon's attacking absences, but the Saddlers' road draw frequency necessitates double-chance protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Suppressed underlying xG and a dominant 69.4% probability of at least one clean sheet strongly favor a low-scoring contest under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A disciplined 1-0 away victory represents the highest density road outcome, with a 1-1 stalemate serving as the primary draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A combined goal expectation of under 2.0 heavily concentrates probability mass on exactly one or two match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, goalless opening half is projected to give way to either a decisive Walsall second-half breakthrough or an enduring deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:26:10 UTC"
+}
