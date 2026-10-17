@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492410,
+    "matchup": "Atletico Paranaense vs Palmeiras",
+    "home_team": "Atletico Paranaense",
+    "away_team": "Palmeiras",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-17 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-atletico-paranaense-vs-palmeiras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico Paranaense vs Palmeiras Prediction: Can Abel Cope Without Gomez and Giay? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492410",
+      "league": "Serie A",
+      "matchup": "Atletico Paranaense vs Palmeiras",
+      "matchTime": "2026-10-17 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as the primary match outcome, anchored around a tightly contested 1:1 scoreline on Curitiba's synthetic turf.",
+    "possibilityAssessment": [
+      "Draw 1:1 tactical stalemate as Palmeiras absorb early Viveros pressure before equalizing (Confidence: Moderate, Value: High)",
+      "Away Win 1:2 if Palmeiras bench quality and Andreas Pereira set-pieces exploit late home fatigue (Confidence: Moderate, Value: Moderate)",
+      "Home Win 1:0 contingency if Palmeiras defensive reshuffle fails and visitors manage Libertadores minutes (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492410",
+      "league": "Serie A",
+      "homeTeam": "Atletico Paranaense",
+      "awayTeam": "Palmeiras",
+      "match_time": "22:30",
+      "match_highlight": "Abel Ferreira reshuffles defense against 21-goal striker Kevin Viveros",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492410,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win captures both the primary 1:1 stalemate and the secondary 1:2 Palmeiras victory, prudently accounting for visitor defensive suspensions and continental congestion."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by Palmeiras's league-leading 0.70 goals conceded per match and a combined 55.6% Poisson goal density."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects balanced xG expectancies, while 1:2 represents Palmeiras's late attacking edge against tired home defenders."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads as the modal Poisson outcome (25.9%), with 3 goals retained as the secondary transitional branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw reflects early tactical caution, while Draw-Loss accounts for Palmeiras asserting second-half control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 10:34:08 UTC"
+}
