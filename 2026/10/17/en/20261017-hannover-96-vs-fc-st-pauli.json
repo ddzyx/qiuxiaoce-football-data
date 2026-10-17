@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576200,
+    "matchup": "Hannover 96 vs FC St. Pauli",
+    "home_team": "Hannover 96",
+    "away_team": "FC St. Pauli",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-10-17 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-hannover-96-vs-fc-st-pauli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hannover 96 vs FC St. Pauli Prediction & Match Analysis: Can Wagner's Front Rebound? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576200",
+      "league": "2. Bundesliga",
+      "matchup": "Hannover 96 vs FC St. Pauli",
+      "matchTime": "2026-10-17 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hannover 96 leverage home urgency to stabilize under Sandro Wagner and secure a draw-protected result against compact FC St. Pauli.",
+    "possibilityAssessment": [
+      "Tactical stalemate with balanced scoring routes ending in a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Disciplined defensive rebound from Hannover yielding a narrow 1:0 victory (Confidence: Moderate, Value: Moderate)",
+      "Low-tempo attritional encounter keeping total goals firmly Under 2.5 (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576200",
+      "league": "2. Bundesliga",
+      "homeTeam": "Hannover 96",
+      "awayTeam": "FC St. Pauli",
+      "match_time": "18:30",
+      "match_highlight": "Wagner seeks home rebound against unbeaten Kiezkicker low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576200,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Hannover's urgent home rebound through either a tight 1:0 win or a 1:1 stalemate against St. Pauli's draw-heavy structure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both managers will emphasize structural compactness and defensive recovery following recent tactical lessons."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The 1:1 stalemate and 1:0 home grind represent the natural probabilistic convergence of both attacking profiles."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal game state, with a single-goal defensive battle serving as the primary alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious, low-risk opening half is projected to precede a tightly managed second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 06:37:00 UTC"
+}
