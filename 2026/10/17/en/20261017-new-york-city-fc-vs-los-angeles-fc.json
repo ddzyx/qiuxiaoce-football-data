@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490544,
+    "matchup": "New York City FC vs Los Angeles FC",
+    "home_team": "New York City FC",
+    "away_team": "Los Angeles FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-17 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-new-york-city-fc-vs-los-angeles-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New York City FC vs Los Angeles FC Prediction: Son-Bouanga Transition xG — Model & Scoreline Preview",
+    "meta": {
+      "matchId": "1490544",
+      "league": "Major League Soccer",
+      "matchup": "New York City FC vs Los Angeles FC",
+      "matchTime": "2026-10-17 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Los Angeles FC on a double-chance Draw / Away Win script (1:2 primary, 1:1 secondary) as Denis Bouanga and Son Heung-min's transition efficiency exploits New York City FC's depleted midfield spine.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win via clinical counter-attacking transition (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals backed by combined 2.92 goal expectancy (Confidence: Moderate, Value: High)",
+      "Contingency Angle: 1:1 Low-Block Draw if Freese withstands second-half breaks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490544",
+      "league": "Major League Soccer",
+      "homeTeam": "New York City FC",
+      "awayTeam": "Los Angeles FC",
+      "match_time": "23:30",
+      "match_highlight": "Bouanga and Son counter-threat challenges depleted NYCFC central midfield",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490544,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers LAFC's decisive counter-attacking win (1:2) and a hard-fought road stalemate (1:1), mitigating Citi Field home variance against NYCFC's desperate playoff push."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.92 combined lambda expectancy and defensive vulnerabilities in NYCFC's backline conceding 1.53 xGA per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 reflects LAFC second-half transition efficiency, while secondary 1:1 accounts for NYCFC territorial resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns directly with the primary 1:2 outcome, while 2 goals covers the 1:1 stalemate contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey, scoreless or balanced first half before LAFC's counter-press capitalizes on late NYCFC defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 11:33:55 UTC"
+}
