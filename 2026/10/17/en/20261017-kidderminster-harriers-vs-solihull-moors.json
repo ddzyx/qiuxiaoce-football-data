@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644481,
+    "matchup": "Kidderminster Harriers vs Solihull Moors",
+    "home_team": "Kidderminster Harriers",
+    "away_team": "Solihull Moors",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-kidderminster-harriers-vs-solihull-moors/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Kidderminster Harriers vs Solihull Moors: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1644481",
+      "league": "FA Cup",
+      "matchup": "Kidderminster Harriers vs Solihull Moors",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kidderminster Harriers to triumph in regulation time against a defensively fragile Solihull Moors side.",
+    "possibilityAssessment": [
+      "Kidderminster Harriers Home Win in regulation time via defensive control (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on Harriers' disciplined low-block approach (Confidence: Moderate, Value: Moderate)",
+      "Draw at Half-Time followed by second-half Harriers breakthrough (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644481",
+      "league": "FA Cup",
+      "homeTeam": "Kidderminster Harriers",
+      "awayTeam": "Solihull Moors",
+      "match_time": "14:00",
+      "match_highlight": "Harriers elite defense battles Solihull transition fragility at Aggborough",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644481,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kidderminster's division-best defensive organization will comfortably outlast Solihull Moors' leaky transition backline over 90 minutes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Harriers average just 1.08 goals scored and 0.85 conceded, pointing toward a tightly controlled low-scoring cup encounter."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2-0 clean sheet win serves as the primary convergence point, with 2-1 retained as the competitive branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the modal distribution outcome, followed closely by three goals if the visitors snatch a late consolation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A tight opening half preceding Harriers' second-half acceleration offers the highest probabilistic trajectory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:47:05 UTC"
+}
