@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575190,
+    "matchup": "Hamburger SV vs VfB Stuttgart",
+    "home_team": "Hamburger SV",
+    "away_team": "VfB Stuttgart",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-17 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-hamburger-sv-vs-vfb-stuttgart/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hamburger SV vs VfB Stuttgart Prediction: Can HSV Defense Contain Undav? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575190",
+      "league": "Bundesliga",
+      "matchup": "Hamburger SV vs VfB Stuttgart",
+      "matchTime": "2026-10-17 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "VfB Stuttgart's superior chance creation and technical midfield dominance will exploit Hamburger SV's depleted center and 19-match clean sheet drought to secure an away victory in an open, high-scoring affair.",
+    "possibilityAssessment": [
+      "Stuttgart technical dominance breaks through depleted Hamburg midfield for a 1:2 or 1:3 away win (Confidence: Moderate, Value: High)",
+      "High-event encounter driven by Hamburg defensive leaks clearing Over 2.5 goals (Confidence: High, Value: Moderate)",
+      "Hamburg home emotional surge forces a tight first half before visitor quality prevails (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575190",
+      "league": "Bundesliga",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "VfB Stuttgart",
+      "match_time": "13:30",
+      "match_highlight": "Stuttgart midfield quality to exploit Hamburg defensive frailties at Volksparkstadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575190,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Stuttgart's superior 2.00 xG attacking output and Hamburg's severe midfield injuries make an away win the primary probabilistic trajectory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Hamburg's average of 3.0 goals conceded per game and Stuttgart's 24-game away scoring streak strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A 1:2 victory accurately reflects Hamburg's home scoring capability countered by Stuttgart's clinical edge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three total goals is the modal convergence point of home attacking intent and away transition quality."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Hamburg's home intensity will maintain parity at half-time before Stuttgart's superior depth prevails."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 01:36:43 UTC"
+}
