@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1561943,
+    "matchup": "Ried vs Austria Vienna",
+    "home_team": "Ried",
+    "away_team": "Austria Vienna",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-17 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-ried-vs-austria-vienna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ried vs Austria Vienna Prediction: Can Innviertel Form Exploit Veilchen Slump? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1561943",
+      "league": "Bundesliga",
+      "matchup": "Ried vs Austria Vienna",
+      "matchTime": "2026-10-17 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SV Ried's sharp transition attack should exploit Austria Vienna's porous defense to secure at least a point via Home Win / Draw.",
+    "possibilityAssessment": [
+      "SV Ried capitalize on transitional channels to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Austria Vienna adopt a conservative low block to grind out a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional flow produces an escalated 3-goal match surpassing Over 2.5 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1561943",
+      "league": "Bundesliga",
+      "homeTeam": "Ried",
+      "awayTeam": "Austria Vienna",
+      "match_time": "17:30",
+      "match_highlight": "Ried's clinical transitions challenge Austria Vienna's fragile defense in Innviertel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1561943,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Ried's leading 2:1 transition victory while safeguarding against a desperate 1:1 defensive stalemate from the visitors."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined goal-expectancy lambda and 28 combined conceded goals support an open contest clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory serves as the primary tactical convergence, backed by a 1:1 attrition draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the modal Poisson density peak, with two goals offering high-probability coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious opening halves favor an initial draw, with Ried possessing superior second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 05:37:22 UTC"
+}
