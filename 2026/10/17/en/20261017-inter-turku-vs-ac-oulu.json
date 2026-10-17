@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638108,
+    "matchup": "Inter Turku vs AC Oulu",
+    "home_team": "Inter Turku",
+    "away_team": "AC Oulu",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-10-17 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-inter-turku-vs-ac-oulu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inter Turku vs AC Oulu Prediction & Match Analysis: Veritas Defensive Fortress Points to Title Decider — Scoreline Preview",
+    "meta": {
+      "matchId": "1638108",
+      "league": "Veikkausliiga",
+      "matchup": "Inter Turku vs AC Oulu",
+      "matchTime": "2026-10-17 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter Turku are projected to secure a controlled home victory underpinned by their league-leading defense in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Inter Turku positional control yielding a clinical 1:0 or 2:0 victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by Inter's 0.7 goals conceded per match baseline (Confidence: High, Value: Moderate)",
+      "Stubborn AC Oulu low-block forcing a scoreless or low-scoring stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638108",
+      "league": "Veikkausliiga",
+      "homeTeam": "Inter Turku",
+      "awayTeam": "AC Oulu",
+      "match_time": "15:00",
+      "match_highlight": "Inter Turku's elite defense secures narrow victory to consolidate title push.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638108,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Inter Turku's 15 clean sheets and championship motivation heavily outweigh Oulu's recent run of four losses in five games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model projects a 64.9% probability for two goals or fewer based on Inter's 0.7 defensive concession rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "A 1:0 or 2:0 home win naturally mirrors Inter's low-concession, methodical game-management profile."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exactly two goals (27.0%) and one goal (25.7%) represent the top probability peaks in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Oulu's first-half low block is projected to hold initially before Inter's sustained pressure breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 03:04:27 UTC"
+}
