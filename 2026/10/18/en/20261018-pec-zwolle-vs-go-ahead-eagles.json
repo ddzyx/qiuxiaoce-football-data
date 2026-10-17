@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552194,
+    "matchup": "PEC Zwolle vs GO Ahead Eagles",
+    "home_team": "PEC Zwolle",
+    "away_team": "GO Ahead Eagles",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-18 10:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-pec-zwolle-vs-go-ahead-eagles/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "PEC Zwolle vs GO Ahead Eagles Prediction: Caretaker Bounce vs Eagles Firepower — Scoreline Preview",
+    "meta": {
+      "matchId": "1552194",
+      "league": "Eredivisie",
+      "matchup": "PEC Zwolle vs GO Ahead Eagles",
+      "matchTime": "2026-10-18 10:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Go Ahead Eagles' clinical chance creation edges a volatile IJsselderby against a reeling, coachless PEC Zwolle side.",
+    "possibilityAssessment": [
+      "Away Victory (1:2): Go Ahead Eagles exploit Zwolle's leaky defense via Soren Tengstedt in transition (Confidence: Moderate, Value: High)",
+      "Derby Stalemate (1:1): Dennis van der Ree's low block frustrates Eagles' finishing and forces a fifth straight draw (Confidence: Moderate, Value: Moderate)",
+      "Goal Volatility (Over 2.5 Goals): High combined season goal rates (4.5 per game for Eagles) produce open second-half trading (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552194",
+      "league": "Eredivisie",
+      "homeTeam": "PEC Zwolle",
+      "awayTeam": "GO Ahead Eagles",
+      "match_time": "10:15",
+      "match_highlight": "IJsselderby clash pits coachless Zwolle against red-hot Eagles attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552194,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Captures Go Ahead Eagles' underlying attacking superiority (1:2) while insulating against their chronic finishing-phase volatility and four-match draw streak in a hostile derby environment (1:1), where a solitary away-win call overlooks proven game-state fragility."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG expectations and Zwolle's 2.6 goals conceded per match favor an open, goal-rich derby."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory reflects Eagles' clinical conversion, while a 1:1 stalemate addresses caretaker-led defensive stabilization."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson modeling places 60% of scoreline mass between two and three total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cagey opening derby exchanges favor a level first half before Eagles' superior bench depth shifts full-time leverage."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 22:19:25 UTC"
+}
