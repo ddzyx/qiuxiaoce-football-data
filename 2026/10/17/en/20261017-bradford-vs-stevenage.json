@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564356,
+    "matchup": "Bradford vs Stevenage",
+    "home_team": "Bradford",
+    "away_team": "Stevenage",
+    "league": "League One",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-bradford-vs-stevenage/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bradford vs Stevenage Prediction & Match Analysis: Can Duff's Rigid Backline Hold? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564356",
+      "league": "League One",
+      "matchup": "Bradford vs Stevenage",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bradford Win / Draw double chance alongside Under 2.5 goals in an attritional League One battle between two elite defensive structures.",
+    "possibilityAssessment": [
+      "Bradford secure a 1:0 victory via second-half set-piece execution and disciplined low-block management (Confidence: Moderate, Value: High)",
+      "Stevenage capitalize on counter-attacking opportunities to force a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "An intense midfield deadlock with low chance volume produces a scoreless 0:0 draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564356",
+      "league": "League One",
+      "homeTeam": "Bradford",
+      "awayTeam": "Stevenage",
+      "match_time": "14:00",
+      "match_highlight": "League-best defense clashes with Stevenage counter-attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564356,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Bradford's 0.44 xGA defensive foundation makes home defeat improbable, but their 0.63 xG attack necessitates draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides possess low-possession identities and rigid defensive shapes, driving model density toward a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Bradford's set-piece breakthrough supports a 1:0 victory, while Stevenage's counter-attacking punch keeps 1:1 live."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Quantitative Poisson modeling concentrates over 58% of probability density within the 1-goal and 2-goal boundaries."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a scoreless, attritional first 45 minutes before tactical substitutions and fatigue decide the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:28:29 UTC"
+}
