@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1507086,
+    "matchup": "Gangwon FC vs Incheon United",
+    "home_team": "Gangwon FC",
+    "away_team": "Incheon United",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-18 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-gangwon-fc-vs-incheon-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gangwon FC vs Incheon United Prediction: Tactical Standoff on the Split Brink — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1507086",
+      "league": "K League 1",
+      "matchup": "Gangwon FC vs Incheon United",
+      "matchTime": "2026-10-18 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gangwon FC's elite defensive resilience and Incheon United's disciplined counter-structure heavily favor a low-scoring stalemate or narrow home margin, prioritizing Home Win / Draw alongside Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance reflects Gangwon's league-leading 14 clean sheets balanced against their 13 draws and Incheon's survival urgency (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals provides the primary totals thesis with 51.4% model probability supported by combined 2.47 xGA and a recent 0-0 head-to-head precedent (Confidence: High, Value: High)",
+      "1:1 exact scoreline acts as the leading probabilistic matrix anchor at 12.5% model density (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1507086",
+      "league": "K League 1",
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Incheon United",
+      "match_time": "07:30",
+      "match_highlight": "Master vs apprentice tactical clash on K League 1 regular season split edge.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1507086,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Gangwon's 14 clean sheets protect their home floor, but Incheon's compactness under former Gangwon boss Yoon Jong-hwan makes a 1:1 stalemate or 1:0 home win the dominant scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson simulations yield 51.4% for two goals or fewer, reinforced by Gangwon conceding just 0.90 goals per match and Incheon allowing 1.19 away xGA."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the highest single probability density (12.5%), with a controlled 1:0 Gangwon win serving as the primary secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 goals (25.0%) and 1 goal (19.1%) represent over 44% of the Poisson probability distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both outfits record first-half draws in over 55% of their matches, setting up a cautious opening 45 minutes followed by second-half parity or a late home decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 19:34:19 UTC"
+}
