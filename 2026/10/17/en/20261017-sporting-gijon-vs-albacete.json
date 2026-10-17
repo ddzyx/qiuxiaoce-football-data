@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569974,
+    "matchup": "Sporting Gijon vs Albacete",
+    "home_team": "Sporting Gijon",
+    "away_team": "Albacete",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-17 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-sporting-gijon-vs-albacete/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sporting Gijon vs Albacete Prediction: Can Gijon Exploit Alba's Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569974",
+      "league": "Segunda División",
+      "matchup": "Sporting Gijon vs Albacete",
+      "matchTime": "2026-10-17 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sporting Gijón to secure all three points at El Molinón against an Albacete side in severe defensive crisis.",
+    "possibilityAssessment": [
+      "Home Win via dominant control and clean sheet (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals via disciplined game management (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring draw if Albacete's low block holds (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569974",
+      "league": "Segunda División",
+      "homeTeam": "Sporting Gijon",
+      "awayTeam": "Albacete",
+      "match_time": "16:30",
+      "match_highlight": "Gijon look to punish Albacete's porous defense at El Molinón.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569974,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sporting Gijón's elite defensive solvency (0.89 GA/game) outclasses an Albacete side conceding 2.22 goals per match."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined match goal expectancy of 2.35 and Albacete's toothless attack (0.56 GF/game) strongly support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "A 2-0 victory reflects home superiority and clean sheet potential, with 1-0 providing the primary low-margin hedge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary statistical density, with a single-goal affair as the tight alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Gijón's strong first-half home record favors Win-Win, with Draw-Win covering a stubborn second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 04:35:39 UTC"
+}
