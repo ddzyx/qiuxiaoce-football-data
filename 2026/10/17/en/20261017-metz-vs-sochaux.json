@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552499,
+    "matchup": "Metz vs Sochaux",
+    "home_team": "Metz",
+    "away_team": "Sochaux",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-17 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-metz-vs-sochaux/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Metz vs Sochaux Prediction: Low-Block Clash & xG Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1552499",
+      "league": "Ligue 2",
+      "matchup": "Metz vs Sochaux",
+      "matchTime": "2026-10-17 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Metz hold the attacking quality to edge a low-scoring affair, but Sochaux's disciplined low block and high draw frequency make Home Win / Draw with Under 2.5 the optimal projection.",
+    "possibilityAssessment": [
+      "Metz break through Sochaux's low block via set pieces or individual quality for a narrow 1:0 victory (Confidence: Moderate, Value: High)",
+      "Sochaux's defensive organization frustrates Metz across 90 minutes to enforce a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals materializes as both sides prioritize defensive structure over open transition play (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552499",
+      "league": "Ligue 2",
+      "homeTeam": "Metz",
+      "awayTeam": "Sochaux",
+      "match_time": "12:00",
+      "match_highlight": "Metz attack faces Sochaux's league-leading defensive low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552499,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Metz possess superior individual quality but Sochaux's 63% draw rate requires formal stalemate protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goals of 0.95 lambda and Sochaux's stingy defense strongly anchor this match below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A solitary breakthrough for Metz or a trademark low-scoring draw represent the two most probable game states."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Expect a severe premium on clear-cut chances with 1 and 2 goals commanding the highest model density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sochaux's first-half compactness points toward a level opening before second-half fatigue or adjustments decide the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 00:07:14 UTC"
+}
