@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550149,
+    "matchup": "Bologna vs Inter",
+    "home_team": "Bologna",
+    "away_team": "Inter",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-bologna-vs-inter/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bologna vs Inter Prediction & Match Analysis: Lautaro Absence vs Thuram's xG Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1550149",
+      "league": "Serie A",
+      "matchup": "Bologna vs Inter",
+      "matchTime": "2026-10-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter Milan possess superior tactical firepower to overcome key absences and secure an away victory against Bologna at the Renato Dall'Ara.",
+    "possibilityAssessment": [
+      "Inter away victory driven by superior xG generation and set-piece execution (Confidence: Moderate, Value: High)",
+      "Multi-goal encounter exceeding 2.5 total goals due to transitional vulnerability (Confidence: Moderate, Value: High)",
+      "Bologna resilient low block forces a drawn first half before Inter pull away (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550149",
+      "league": "Serie A",
+      "homeTeam": "Bologna",
+      "awayTeam": "Inter",
+      "match_time": "16:00",
+      "match_highlight": "Inter attack tests Bologna block without Lautaro",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550149,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Inter's elite attacking volume of 2.82 xG per game provides sufficient separation to secure the points despite defensive transition concerns."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match expected goals exceeding 4.0 and Inter's 3.0 goals per match scoring pace strongly support an Over 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 scoreline reflects the primary intersection of Inter's attacking supremacy and their tendency to concede away from home."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals represents the modal outcome of our bivariate Poisson simulation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Bologna's organized low block is projected to hold level until halftime before Inter's depth breaks through in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 04:05:07 UTC"
+}
