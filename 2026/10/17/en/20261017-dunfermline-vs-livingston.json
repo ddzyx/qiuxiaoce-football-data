@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556877,
+    "matchup": "Dunfermline vs Livingston",
+    "home_team": "Dunfermline",
+    "away_team": "Livingston",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-dunfermline-vs-livingston/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dunfermline Athletic vs Livingston Prediction: Low-Block Duel & Scoreline Analysis — XG Mind AI",
+    "meta": {
+      "matchId": "1556877",
+      "league": "Championship",
+      "matchup": "Dunfermline vs Livingston",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Dunfermline Athletic on the double chance (Home Win / Draw) alongside Under 2.5 Goals in an attritional, low-scoring Championship encounter.",
+    "possibilityAssessment": [
+      "Dunfermline edge a disciplined 1:0 victory via second-half territorial pressure and defensive containment (Confidence: Moderate, Value: Moderate)",
+      "An attritional tactical stalemate yields a 1:1 deadlock as Livingston's counter balances the Pars' defensive solidity (Confidence: Moderate, Value: High)",
+      "Robbie Muirhead capitalizes on a rare transitional break to snatch a narrow 0:1 away steal for Livingston (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556877",
+      "league": "Championship",
+      "homeTeam": "Dunfermline",
+      "awayTeam": "Livingston",
+      "match_time": "14:00",
+      "match_highlight": "Stingy Pars host dangerous Lions in tight playoff duel",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556877,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Dunfermline's primary 1:0 defensive masterclass and the secondary 1:1 stalemate script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Dunfermline's 0.625 goals conceded per match and combined 2.00 goal lambda strongly support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 90-minute encounter dominated by low-block containment and minimal transition chances."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Mathematical distribution heavily concentrates in the 1 to 2 goal range across Poisson simulations."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey, scoreless opening 45 minutes before second-half attrition breaks the deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:10:49 UTC"
+}
