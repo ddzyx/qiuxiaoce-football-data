@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1560046,
+    "matchup": "Sigma Olomouc vs Slovan Liberec",
+    "home_team": "Sigma Olomouc",
+    "away_team": "Slovan Liberec",
+    "league": null,
+    "kickoff_utc": "2026-10-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-sigma-olomouc-vs-slovan-liberec/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Czech Liga",
+      "matchId": "1560046",
+      "matchup": "Sigma Olomouc vs Slovan Liberec",
+      "matchTime": "2026-10-17 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Sigma Olomouc vs Slovan Liberec Prediction: Lurvink Ban & Defense Test — Scoreline Preview",
+    "coreRecommendation": "Slovan Liberec's elite defensive structure and transitional speed give them the decisive edge to secure points against a defensively depleted Sigma Olomouc.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Tight first halves between top-5 sides routinely yield 0:0 intervals before opening post-break.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the 1:1 stalemate and the 0:1 away win where Liberec exploit Sigma's compromised central defense.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represents the modal peak of the distribution with one goal capturing a Liberec shutout.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Natural convergence points between Olomouc's home attacking output and Liberec's elite defensive organization.",
+        "selection": [
+          "1:1",
+          "0:1"
+        ]
+      },
+      "league": "Czech Liga",
+      "matchId": "1560046",
+      "awayTeam": "Slovan Liberec",
+      "homeTeam": "Sigma Olomouc",
+      "fixtureId": 1560046,
+      "match_time": "16:00",
+      "over_under": {
+        "comment": "Supported by Liberec's 0.60 conceded goals per match and a combined Poisson expectancy of 2.50 goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Lurvink ban leaves Sigma defense vulnerable to Liberec counters."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Slovan Liberec avoid defeat via disciplined low-block counter-attack (Confidence: Moderate, Value: High)",
+      "Match finishes Under 2.5 Total Goals due to Liberec's league-best prevention metrics (Confidence: Moderate, Value: High)",
+      "Sigma Olomouc dominate possession but are held to a tight score draw (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-0",
+    "halftime_score": "1-0",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-17 18:06:45 UTC"
+  }
+}
