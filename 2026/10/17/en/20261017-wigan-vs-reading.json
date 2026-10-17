@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564365,
+    "matchup": "Wigan vs Reading",
+    "home_team": "Wigan",
+    "away_team": "Reading",
+    "league": "League One",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-wigan-vs-reading/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wigan vs Reading Prediction & Match Analysis: Tactical Mismatch at Brick Community — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564365",
+      "league": "League One",
+      "matchup": "Wigan vs Reading",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Reading's rapid transitional edge and psychological dominance tilt the contest, with Draw / Away Win safeguarding against an attritional stalemate.",
+    "possibilityAssessment": [
+      "Reading exploit transition space to secure a clean-sheet road win (Confidence: Moderate, Value: Moderate)",
+      "Wigan's sterile possession slows match tempo into a low-scoring draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals materializes driven by Wigan's attacking toothlessness (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564365",
+      "league": "League One",
+      "homeTeam": "Wigan",
+      "awayTeam": "Reading",
+      "match_time": "14:00",
+      "match_highlight": "Reading seek fifth straight win against struggling Wigan.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564365,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Primary script projects Reading's transition efficiency securing a 0:2 victory, with the draw formally retained due to Wigan's tempo-stifling possession against a Royals attack missing injured top scorer Jack Marriott."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Wigan's league-worst 22% shot accuracy and 0.35 xG per match strongly cap offensive ceiling below the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "Converges on Reading's counter-attacking clean sheet with a 1:1 stalemate as primary hedge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Expected scorelines naturally cluster at 2 total goals with an open 3-goal secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Wigan's early possession control preserves a level first half before second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:33:15 UTC"
+}
