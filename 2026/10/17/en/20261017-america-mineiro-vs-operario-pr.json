@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520929,
+    "matchup": "America Mineiro vs Operario-PR",
+    "home_team": "America Mineiro",
+    "away_team": "Operario-PR",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-17 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-america-mineiro-vs-operario-pr/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "America Mineiro vs Operario-PR Prediction: Relegation Despair Meets Low-Block xG — XG Mind AI",
+    "meta": {
+      "matchId": "1520929",
+      "league": "Serie B",
+      "matchup": "America Mineiro vs Operario-PR",
+      "matchTime": "2026-10-17 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Operario-PR avoid defeat in a cagey, low-scoring encounter dominated by defensive caution.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory capitalizing on America's scoring drought (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a 10-match H2H streak and sterile host metrics (Confidence: High, Value: Moderate)",
+      "Correct Score 0:1 away victory via disciplined transitional execution (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520929",
+      "league": "Serie B",
+      "homeTeam": "America Mineiro",
+      "awayTeam": "Operario-PR",
+      "match_time": "21:30",
+      "match_highlight": "America Mineiro's five-game scoreless run meets Operario's compact road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520929,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Operario-PR hold the structural advantage over an already-relegated host, with the draw providing essential protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "All ten recent H2H encounters finished Under 2.5, strongly reinforced by America's 0.6 season goals-per-game average."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 away win reflects America's chronic failure mode, while 1:1 covers a set-piece stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Expect a tight, defensive battle with one or two goals settling the contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A scoreless or level opening half gives way to an Operario second-half breakthrough or low-scoring draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 09:34:06 UTC"
+}
