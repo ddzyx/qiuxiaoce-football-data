@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494787,
+    "matchup": "Viking vs Fredrikstad",
+    "home_team": "Viking",
+    "away_team": "Fredrikstad",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-10-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-viking-vs-fredrikstad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Viking vs Fredrikstad Prediction & Match Analysis: Can FFK Contain Tripic & High xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494787",
+      "league": "Eliteserien",
+      "matchup": "Viking vs Fredrikstad",
+      "matchTime": "2026-10-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Viking to overcome European fatigue and defeat Fredrikstad in a competitive, multi-goal home victory.",
+    "possibilityAssessment": [
+      "Viking overcome low-block resistance via wide overloads to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Viking establish early control and manage workload for a clinical 2:0 win (Confidence: Moderate, Value: Moderate)",
+      "Fredrikstad leverage defensive attrition and set pieces to force a 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494787",
+      "league": "Eliteserien",
+      "homeTeam": "Viking",
+      "awayTeam": "Fredrikstad",
+      "match_time": "16:00",
+      "match_highlight": "Title-chasing Viking aim to extend their ten-game home winning run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494787,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Viking's league-leading 2.34 xG generation and ten consecutive home league wins justify an outright home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 3.52 xG expectancy and Viking's high-scoring home average support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory serves as the primary Poisson convergence point, with 2:0 acting as the shutout hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals captures the leading 2:1 script, while two goals covers the controlled 2:0 scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win accounts for initial first-half attrition, while Win-Win reflects an early Viking breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 04:05:32 UTC"
+}
