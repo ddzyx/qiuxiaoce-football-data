@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520931,
+    "matchup": "Ceara vs Juventude",
+    "home_team": "Ceara",
+    "away_team": "Juventude",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-17 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-ceara-vs-juventude/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ceara vs Juventude Prediction & Match Analysis: Can Hosts Pierce Elite Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520931",
+      "league": "Serie B",
+      "matchup": "Ceara vs Juventude",
+      "matchTime": "2026-10-17 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventude's league-leading defensive structure and psychological head-to-head dominance provide a superior risk-adjusted platform to secure points via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Pragmatic Juventude 0-1 road victory executed through defensive containment and clinical transition (Confidence: Moderate, Value: High)",
+      "Competitive 1-1 tactical stalemate driven by Ceara's Castelao home momentum meeting Juventude's backline resistance (Confidence: Moderate, Value: Moderate)",
+      "Juventude controlled 0-2 clean-sheet away masterclass exploiting late Ceara overextension (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520931",
+      "league": "Serie B",
+      "homeTeam": "Ceara",
+      "awayTeam": "Juventude",
+      "match_time": "19:30",
+      "match_highlight": "Elite 22-clean-sheet Juventude defense tests Ceara's four-match Castelao home winning run",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520931,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Juventude's league-best defense and five consecutive head-to-head wins provide strong protection against defeat, while Ceara's home form elevates draw equity."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Juventude concede just 0.60 goals per match with 22 clean sheets, pointing decisively toward a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A compact 0-1 Juventude away clinic serves as the primary scenario, with a 1-1 score draw representing the secondary convergence point."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Single-goal and two-goal match states encompass over 48% of simulated distribution density under Barbieri's low-event away strategy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "An attritional, scoreless opening half precedes decisive second-half transition moments or an unbroken defensive stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 07:36:35 UTC"
+}
