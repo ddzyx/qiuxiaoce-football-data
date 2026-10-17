@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593334,
+    "matchup": "Levadiakos vs Volos NFC",
+    "home_team": "Levadiakos",
+    "away_team": "Volos NFC",
+    "league": "Super League 1",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-levadiakos-vs-volos-nfc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Levadiakos vs Volos NFC Prediction & Match Analysis: Attack Drought vs Leaky Backline — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593334",
+      "league": "Super League 1",
+      "matchup": "Levadiakos vs Volos NFC",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Levadiakos's superior defensive baseline (1.22 xGA) and H2H dominance provide a secure floor, but their acute scoring drought warrants Home Win / Draw Double Chance containment.",
+    "possibilityAssessment": [
+      "Home Win / Draw Double Chance captures Levadiakos's defensive edge while hedging against scoring drought (Confidence: Moderate, Value: High)",
+      "Total Goals: 2 Goals serves as the primary statistical convergence point between leaky away defense and host inefficiency (Confidence: Moderate, Value: High)",
+      "Scoreline: 1:1 represents the single most probable Poisson exact scoreline distribution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593334",
+      "league": "Super League 1",
+      "homeTeam": "Levadiakos",
+      "awayTeam": "Volos NFC",
+      "match_time": "14:00",
+      "match_highlight": "Winless basement clash pits host scoring drought against leaky visitor backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593334,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Levadiakos's structural defensive advantage and H2H dominance alongside the high probability of a low-scoring draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model projects 57.6% Under 2.5 probability supported by Levadiakos's severe goal drought and low combined expected goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 reflects mutual relegation caution and Volos counter-threat; 1:0 reflects Levadiakos defensive control and breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals holds top Poisson density at 26.2%, with 1 goal following closely at 22.1%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cagey opening half between winless rivals leads to level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:34:17 UTC"
+}
