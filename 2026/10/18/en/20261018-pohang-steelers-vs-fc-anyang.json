@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1507087,
+    "matchup": "Pohang Steelers vs FC Anyang",
+    "home_team": "Pohang Steelers",
+    "away_team": "FC Anyang",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-18 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-pohang-steelers-vs-fc-anyang/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pohang Steelers vs FC Anyang Prediction: Steelyard Fatigue vs Counter Surge — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1507087",
+      "league": "K League 1",
+      "matchup": "Pohang Steelers vs FC Anyang",
+      "matchTime": "2026-10-18 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pohang's continental fatigue balances against Steelyard pride, favoring a low-scoring draw or narrow home victory within Home Win / Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance captures the primary low-block stalemate and late home pressure vectors (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligns with Pohang's recent 0.50 goals per game output and Anyang's road compactness (Confidence: High, Value: High)",
+      "A 1:1 stalemate serves as the prime statistical attractor given travel congestion and Anyang's counter threat (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1507087",
+      "league": "K League 1",
+      "homeTeam": "Pohang Steelers",
+      "awayTeam": "FC Anyang",
+      "match_time": "07:30",
+      "match_highlight": "Tired Pohang battles confident Anyang in crucial pre-split clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1507087,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw accurately captures both the 1:1 tactical deadlock and Pohang's narrow 2:1 late winning push."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Pohang's blunted finishing and Anyang's disciplined defensive block suppress overall scoring volume under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 draw represents the primary convergence while 2:1 covers a late Pohang set-piece winner."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal primary count captures the 1:1 stalemate while 3 goals reflects a competitive 2:1 finish."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious opening exchanges favor level intervals before fatigue dictates late second-half scoring."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 19:34:31 UTC"
+}
