@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569973,
+    "matchup": "Eibar vs Mallorca",
+    "home_team": "Eibar",
+    "away_team": "Mallorca",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-17 14:15:00",
+    "source_url": "https://xgmind.com/matches/20261017-eibar-vs-mallorca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eibar vs Mallorca Prediction: Can Ipurua Attack Break Ironclad Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569973",
+      "league": "Segunda División",
+      "matchup": "Eibar vs Mallorca",
+      "matchTime": "2026-10-17 14:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mallorca's elite defensive suppression makes Draw / Away Win the optimal value vector in a tight, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance projection anchored by Mallorca's league-leading 0.4 goals conceded per game (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting Poisson baseline expectations and Mallorca's six clean sheets (Confidence: Moderate, Value: High)",
+      "Tactical 1:1 stalemate or narrow 0:1 away counter-attack representing peak scoreline probability densities (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569973",
+      "league": "Segunda División",
+      "homeTeam": "Eibar",
+      "awayTeam": "Mallorca",
+      "match_time": "14:15",
+      "match_highlight": "Mallorca's 0.4 goals conceded per game tests Eibar's explosive Ipurua attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569973,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Mallorca's league-best 0.89 xGA and 6 clean sheets provide structural stability to resist Eibar's direct pressure and secure at least a point."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson expected goals baseline yields Under 2.5 probability above 58%, aligned with Mallorca's low-event road profile."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 tactical deadlock represents the modal outcome, while a 0:1 road snatch reflects Mallorca's transition efficiency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Combined scoring rates and defensive suppression heavily concentrate total goals between 1 and 2."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A tight, cagey opening half is expected to preserve parity at the interval before second-half tactical margins decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 03:01:29 UTC"
+}
