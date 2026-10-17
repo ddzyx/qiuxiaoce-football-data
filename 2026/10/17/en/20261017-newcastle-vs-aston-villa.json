@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557434,
+    "matchup": "Newcastle vs Aston Villa",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-17 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-newcastle-vs-aston-villa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newcastle vs Aston Villa Prediction & Match Analysis: Can Magpies Fix Defensive Leaks? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557434",
+      "league": "Premier League",
+      "matchup": "Newcastle vs Aston Villa",
+      "matchTime": "2026-10-17 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Newcastle's home fortress resiliency and extra rest will hold off a fatigue-compromised Aston Villa in an open, high-scoring duel.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Newcastle's 5-match home unbeaten streak and Villa's European hangover (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by Newcastle's 2.20 goals conceded per match and Villa's 17-goal burst in their last five fixtures (Confidence: High, Value: High)",
+      "Both Teams to Score (BTTS - Yes) supported by severe defensive personnel shortages on both flanks (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557434",
+      "league": "Premier League",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Aston Villa",
+      "match_time": "16:30",
+      "match_highlight": "St. James' Park fortress meets Villa's red-hot transitional attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557434,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Newcastle's high-intensity 2:1 home victory script and the resilient 1:1 stalemate against European-weary Villa."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive xGA over 3.47 and severe full-back injuries point directly toward mutual goal concessions."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory serves as the primary convergence point, with a 1:1 draw reflecting the Poisson baseline modal density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary attacking clash, while two goals captures the competitive draw hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced, card-heavy first half followed by Newcastle's superior late-game aerobic energy deciding the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 04:35:24 UTC"
+}
