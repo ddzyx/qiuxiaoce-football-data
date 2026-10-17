@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563803,
+    "matchup": "Accrington ST vs Gillingham",
+    "home_team": "Accrington ST",
+    "away_team": "Gillingham",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-accrington-st-vs-gillingham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Accrington ST vs Gillingham Prediction: Wham Fortress vs Direct Aerial Attack — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563803",
+      "league": "League Two",
+      "matchup": "Accrington ST vs Gillingham",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gillingham's superior attacking firepower provides the only viable away victory vector, but Accrington's resolute Wham Stadium low-block makes the draw a co-dominant script in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance captures the deadlock potential of Stanley's home defense and Gillingham's aerial edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by overwhelming 81.3% combined Poisson probability and Stanley's consecutive clean sheets (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 serves as the primary matrix convergence point between home resistance and away attacking quality (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563803",
+      "league": "League Two",
+      "homeTeam": "Accrington ST",
+      "awayTeam": "Gillingham",
+      "match_time": "14:00",
+      "match_highlight": "Wham Stadium low block battles Gareth Ainsworth's direct aerial power.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563803,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Accrington's league-leading draw tendency and unyielding home defense make the stalemate co-dominant alongside Gillingham's superior attacking ceiling."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson expected goals aggregate to just 1.48 with Stanley conceding only one goal across their last four league matches."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate represents the natural tactical equilibrium, while 0:1 reflects a single breakthrough from Gillingham's clinical frontline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Extremely low combined xG generation points decisively to a tight band of one or two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, goalless opening half leads into either sustained second-half containment or a late away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:21:10 UTC"
+}
