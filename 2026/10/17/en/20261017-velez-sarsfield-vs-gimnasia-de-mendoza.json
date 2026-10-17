@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493196,
+    "matchup": "Velez Sarsfield vs Gimnasia de Mendoza",
+    "home_team": "Velez Sarsfield",
+    "away_team": "Gimnasia de Mendoza",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-17 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-velez-sarsfield-vs-gimnasia-de-mendoza/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Velez Sarsfield vs Gimnasia de Mendoza Prediction: Midfield Control & Road Woes — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493196",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Velez Sarsfield vs Gimnasia de Mendoza",
+      "matchTime": "2026-10-17 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vélez Sarsfield to secure a controlled home victory as Gimnasia de Mendoza's severe away-scoring drought and defensive fragility prove decisive at El Fortín.",
+    "possibilityAssessment": [
+      "Home Win driven by second-half midfield penetration and positional dominance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a 2.15 combined lambda expectancy and road scoring struggles (Confidence: High, Value: Moderate)",
+      "Tactical Stalemate (1:1 Draw Hedge) if visitor low-block frustrates home finishing over 90 minutes (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493196",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Velez Sarsfield",
+      "awayTeam": "Gimnasia de Mendoza",
+      "match_time": "23:00",
+      "match_highlight": "Vélez midfield dominance clashes with Gimnasia's struggling road defensive setup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493196,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Vélez holds decisive midfield superiority at the José Amalfitani against a Gimnasia side that has scored zero goals in consecutive road defeats."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.15 goals and Vélez's 10 clean sheets strongly favor an Under 2.5 game state."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Controlled 2:0 home win leads probabilistic modeling, with a grinding 1:0 victory serving as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represent the modal density peak of Poisson projections, followed closely by an economical one-goal game."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures the primary script of Vélez breaking down Gimnasia's low block in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 11:04:20 UTC"
+}
