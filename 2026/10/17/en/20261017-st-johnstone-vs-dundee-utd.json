@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556681,
+    "matchup": "ST Johnstone vs Dundee Utd",
+    "home_team": "ST Johnstone",
+    "away_team": "Dundee Utd",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-st-johnstone-vs-dundee-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "ST Johnstone vs Dundee Utd Prediction & Match Analysis: Tayside Clash & xG Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1556681",
+      "league": "Premiership",
+      "matchup": "ST Johnstone vs Dundee Utd",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dundee Utd hold the structural xG edge, but ST Johnstone's compact low block at McDiarmid Park makes a 1:1 stalemate the most probable trajectory alongside a narrow away win.",
+    "possibilityAssessment": [
+      "Draw / Away Win primary thesis grounded in Dundee Utd's higher shot volume and Saints' resilient home low block (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals and 2 total goals anchored by derby caution, strong goalkeeping, and tactical congestion (Confidence: Moderate, Value: Moderate)",
+      "Late transition breakthrough by Dundee Utd yielding a 1:2 road victory if flank crossing pressure overwhelms Saints late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556681",
+      "league": "Premiership",
+      "homeTeam": "ST Johnstone",
+      "awayTeam": "Dundee Utd",
+      "match_time": "14:00",
+      "match_highlight": "Level on points, Tayside rivals clash over box defense and crossing.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556681,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate and 1:2 away victory where Dundee Utd's superior xG generation meets ST Johnstone's resolute home block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is favored by ST Johnstone's compact defensive lines, solid shot-stopping, and recent low-scoring trends."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline serves as the primary Poisson modal convergence point, with 1:2 capturing the secondary away transition script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the core parity outcome, with three goals serving as the primary multi-goal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, physical first half is expected to produce a level interval before either maintaining parity or swinging toward Dundee Utd."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:09:07 UTC"
+}
