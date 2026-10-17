@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601560,
+    "matchup": "Pisa vs Cremonese",
+    "home_team": "Pisa",
+    "away_team": "Cremonese",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-17 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-pisa-vs-cremonese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pisa vs Cremonese Prediction & Match Analysis: Injury-Hit Spine vs Compact Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1601560",
+      "league": "Serie B",
+      "matchup": "Pisa vs Cremonese",
+      "matchTime": "2026-10-17 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pisa hold the home advantage to edge a tight, low-scoring encounter, with the draw providing essential insurance against severe squad absences.",
+    "possibilityAssessment": [
+      "Pisa grind out a narrow 1:0 victory via second-half pressure (Confidence: Moderate, Value: High)",
+      "Cremonese mid-block holds firm to secure a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Defensive attrition limits scoring below the 2.5-goal ceiling (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601560",
+      "league": "Serie B",
+      "homeTeam": "Pisa",
+      "awayTeam": "Cremonese",
+      "match_time": "17:30",
+      "match_highlight": "Pisa's depleted spine tests Cremonese's compact away resistance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601560,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Pisa possess superior underlying offensive metrics at home, but severe central absences make the draw an essential co-script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution indicates 70.5% likelihood of Under 2.5, supported by low combined lambdas and Cremonese's stingy away defense."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A solitary Pisa breakthrough or a gritty 1:1 stalemate represent the two most probable game-state endpoints."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One and two exact goals account for over 55% of the total goal probability density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A disciplined opening half points to a level scoreline at the interval before fatigue dictates second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 05:37:03 UTC"
+}
