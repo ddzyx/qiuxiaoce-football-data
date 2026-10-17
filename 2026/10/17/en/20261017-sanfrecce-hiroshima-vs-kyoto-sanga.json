@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1556098,
+    "matchup": "Sanfrecce Hiroshima vs Kyoto Sanga",
+    "home_team": "Sanfrecce Hiroshima",
+    "away_team": "Kyoto Sanga",
+    "league": null,
+    "kickoff_utc": "2026-10-17 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-sanfrecce-hiroshima-vs-kyoto-sanga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "J1 League",
+      "matchId": "1556098",
+      "matchup": "Sanfrecce Hiroshima vs Kyoto Sanga",
+      "matchTime": "2026-10-17 05:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Decoupling Sanfrecce Hiroshima vs Kyoto Sanga: Expected Goals, Pressing Dominance & Match Intelligence",
+    "coreRecommendation": "Back Sanfrecce Hiroshima to capitalize on superior xG metrics and severe schedule disparity to defeat Kyoto Sanga in regulation time.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Early territorial siege likely yields first-half lead converted to full-time victory.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Sanfrecce's +17.0 xG differential and home dominance overwhelm fatigued Kyoto.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "High model density clustering around the 3-goal and 2-goal totals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Front-foot home assault breaches Kyoto with room for an away counter.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "J1 League",
+      "matchId": "1556098",
+      "awayTeam": "Kyoto Sanga",
+      "homeTeam": "Sanfrecce Hiroshima",
+      "fixtureId": 1556098,
+      "match_time": "05:00",
+      "over_under": {
+        "comment": "Combined 3.05 lambda expectancy driven by Sanfrecce's 2.4 goals per match.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Sanfrecce's league-best xG differential faces fatigued Kyoto Sanga block"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Sanfrecce Hiroshima home dominance overwhelms fatigued Kyoto defense (Confidence: High, Value: High)",
+      "Match total exceeds 2.5 goals driven by Sanfrecce offensive output (Confidence: Moderate, Value: High)",
+      "Sanfrecce secure a shutout 2:0 victory by neutralizing Rafael Elias (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-0",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-17 07:36:54 UTC"
+  }
+}
