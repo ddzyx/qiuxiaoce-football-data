@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556678,
+    "matchup": "Dundee vs Rangers",
+    "home_team": "Dundee",
+    "away_team": "Rangers",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-dundee-vs-rangers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dundee vs Rangers Prediction & Match Analysis: Can Dee Stifle Gers' 2.23 xG Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556678",
+      "league": "Premiership",
+      "matchup": "Dundee vs Rangers",
+      "matchTime": "2026-10-17 19:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Rangers to leverage their superior chance creation (2.23 xG per match) and exploit Dundee's decimated frontline to secure an away victory at Dens Park.",
+    "possibilityAssessment": [
+      "Away Win driven by Rangers positional dominance and superior transition efficiency (Confidence: High, Value: High)",
+      "Over 2.5 Total Goals as Dundee contest set plays while Rangers sustain attacking pressure (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals via a professional 0:2 away shutout if Dundee deploy an ultra-deep low block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556678",
+      "league": "Premiership",
+      "homeTeam": "Dundee",
+      "awayTeam": "Rangers",
+      "match_time": "19:00",
+      "match_highlight": "Resurgent Rangers hunt top spot against injury-plagued Dundee at Dens Park.",
+      "ai_confidence": "High",
+      "fixtureId": 1556678,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Rangers hold an overwhelming statistical edge in xG differential and face a Dundee attack missing its top three goalscorers."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model baseline total lambda of 3.095 and Rangers' 2.23 xG average support an open contest favoring three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Primary 1:2 scoreline reflects Dundee scoring from a set play before Rangers prevail, while 0:2 captures a clinical clean-sheet victory."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The Poisson distribution projects 3 goals (22.4%) and 2 goals (21.7%) as the dominant probability densities."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss anticipates early low-block resistance before second-half breakthrough, while Loss-Loss accounts for an early Gers opener."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 07:06:56 UTC"
+}
