@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551841,
+    "matchup": "Emmen vs Almere City FC",
+    "home_team": "Emmen",
+    "away_team": "Almere City FC",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-17 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-emmen-vs-almere-city-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Emmen vs Almere City FC Prediction: Can Druijf Exploit Transition Flaws? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551841",
+      "league": "Eerste Divisie",
+      "matchup": "Emmen vs Almere City FC",
+      "matchTime": "2026-10-17 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Almere City FC's structural defensive discipline (0.7 conceded per game) and transition threat favor a Draw / Away Win outcome, led by a 1:2 scoreline.",
+    "possibilityAssessment": [
+      "Draw / Away Win core thesis backed by Almere City's 0.7 defensive concession rate and transition edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a 3.45 combined lambda expectation and 66.9% probability density (Confidence: Moderate, Value: High)",
+      "1:1 stalemate contingency driven by FC Emmen's 54.9% home possession and front-two scoring form (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551841",
+      "league": "Eerste Divisie",
+      "homeTeam": "Emmen",
+      "awayTeam": "Almere City FC",
+      "match_time": "14:30",
+      "match_highlight": "Almere City transition speed tests Emmen's high-pressing backline at De Oude Meerdijk",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551841,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Almere City's superior 0.7 defensive concession rate drives an away win priority, while Emmen's home territorial command retains a live 1:1 stalemate branch."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 3.45 and Emmen conceding 1.8 goals per match strongly support the Over 2.5 trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory represents the primary transition script, with 1:1 serving as the natural possession-deadlock alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome in open play, while two goals reflects a competitive first-half deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected to break open after the interval through Almere's direct counter-attacking substitutions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:59:58 UTC"
+}
