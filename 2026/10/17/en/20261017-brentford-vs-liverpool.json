@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557428,
+    "matchup": "Brentford vs Liverpool",
+    "home_team": "Brentford",
+    "away_team": "Liverpool",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-brentford-vs-liverpool/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brentford vs Liverpool Prediction: Bees' Unbeaten Run Meets Reds' Midfield Crisis — Scoreline Preview",
+    "meta": {
+      "matchId": "1557428",
+      "league": "Premier League",
+      "matchup": "Brentford vs Liverpool",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brentford to protect their unbeaten home record via Home Win / Draw in a defensively contested clash featuring Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance based on Brentford defensive metrics and Liverpool squad attrition (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by mutual sub-0.40 xGA defensive metrics (Confidence: High, Value: High)",
+      "1:1 Correct Score convergence reflecting Brentford draw trend and Liverpool transition resilience (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557428",
+      "league": "Premier League",
+      "homeTeam": "Brentford",
+      "awayTeam": "Liverpool",
+      "match_time": "14:00",
+      "match_highlight": "Depleted Reds face unbeaten Bees in tactical battle at Gtech Community Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557428,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Brentford's elite 0.32 xGA prevention and Liverpool's severe midfield depletion favor a 1:1 stalemate or narrow 1:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined defensive prevention and heavy travel fatigue point toward an Under 2.5 outcome with 93% model density."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the primary modal convergence, with a 1:0 home shutout serving as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture the dominant probability mass in this tactical encounter."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening half favors level terms at the interval, culminating in either a shared draw or late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:12:42 UTC"
+}
