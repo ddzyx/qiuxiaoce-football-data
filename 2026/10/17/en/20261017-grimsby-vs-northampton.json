@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563807,
+    "matchup": "Grimsby vs Northampton",
+    "home_team": "Grimsby",
+    "away_team": "Northampton",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-grimsby-vs-northampton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grimsby vs Northampton Prediction: Can Mariners Break Cobblers Low-Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563807",
+      "league": "League Two",
+      "matchup": "Grimsby vs Northampton",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Grimsby's territorial dominance and home advantage favor a narrow victory, but Northampton's stubborn low block warrants risk-hedging via Home Win / Draw under 2.5 goals.",
+    "possibilityAssessment": [
+      "Grimsby breaks through Northampton's deep defense to secure a narrow 1:0 victory (Confidence: Moderate, Value: High)",
+      "Northampton frustrates the Mariners and snatches a low-scoring 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "An ultra-attritional tactical battle terminates in a scoreless 0:0 deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563807",
+      "league": "League Two",
+      "homeTeam": "Grimsby",
+      "awayTeam": "Northampton",
+      "match_time": "14:00",
+      "match_highlight": "Struggling Cobblers visit Blundell Park seeking to stifle out-of-form Mariners.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563807,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Grimsby possesses the territorial edge to rebound, but Northampton's 50% draw rate makes a single win selection vulnerable."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Northampton has scored just four league goals all season, creating an overwhelming low-total trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 Grimsby triumph is the leading convergence point, with 1:1 representing the primary low-block stalemate scenario."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Expect an attritional clash heavily concentrating on 1 or 2 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Northampton's defensive discipline should hold through the first half before second-half attrition decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:23:37 UTC"
+}
