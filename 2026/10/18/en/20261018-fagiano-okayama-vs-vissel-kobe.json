@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556097,
+    "matchup": "Fagiano Okayama vs Vissel Kobe",
+    "home_team": "Fagiano Okayama",
+    "away_team": "Vissel Kobe",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-18 04:55:00",
+    "source_url": "https://xgmind.com/matches/20261018-fagiano-okayama-vs-vissel-kobe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fagiano Okayama vs Vissel Kobe Prediction: Fatigue & Low-Block Clash — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556097",
+      "league": "J1 League",
+      "matchup": "Fagiano Okayama vs Vissel Kobe",
+      "matchTime": "2026-10-18 04:55 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as the primary directional anchor in a tight, fatigue-impacted clash favoring Under 2.5 Total Goals.",
+    "possibilityAssessment": [
+      "Vissel Kobe edge a tight contest via second-half individual quality (Confidence: Moderate, Value: High)",
+      "Okayama's disciplined 5-3-2 low block secures a stubborn 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Okayama repeat their counter-attacking heroics if Kobe overcommit early (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556097",
+      "league": "J1 League",
+      "homeTeam": "Fagiano Okayama",
+      "awayTeam": "Vissel Kobe",
+      "match_time": "04:55",
+      "match_highlight": "Low-block resilience challenges Kobe's fatigued elite forward line in Okayama.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556097,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vissel Kobe's superior attacking quality securing a narrow 1:2 victory while hedging against a resilient 1:1 low-block stalemate caused by mid-week fixture congestion."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined defensive structures, mid-week legs, and Okayama's 0.96 xGA per match favor a capped scoring environment below three goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Reflects the dominant Poisson densities between a stubborn 1:1 stalemate and Kobe's second-half 1:2 quality breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "The 2-goal and 3-goal bands capture 46.9% of total modeled Poisson outcome density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Okayama's disciplined first-half structure keeps opening 45 minutes level before second-half depth decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 16:59:57 UTC"
+}
