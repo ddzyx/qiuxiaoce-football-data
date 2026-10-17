@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490542,
+    "matchup": "Minnesota United FC vs St. Louis City",
+    "home_team": "Minnesota United FC",
+    "away_team": "St. Louis City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-17 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261017-minnesota-united-fc-vs-st-louis-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Minnesota United vs St. Louis City Prediction: Can Loons Halt City's Streak? — XG Mind AI Model",
+    "meta": {
+      "matchId": "1490542",
+      "league": "Major League Soccer",
+      "matchup": "Minnesota United FC vs St. Louis City",
+      "matchTime": "2026-10-17 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "St. Louis City's elite 19-match unbeaten momentum and superior defensive structure should prevail against Minnesota's fragile backline in a high-tempo clash featuring goals at both ends.",
+    "possibilityAssessment": [
+      "St. Louis City secures a 1:2 away victory exploiting Minnesota's porous transitional defense (Confidence: Moderate, Value: High)",
+      "High goal volume with Over 2.5 goals clearing comfortably via a 3.05 combined lambda expectancy (Confidence: High, Value: High)",
+      "Minnesota's survival urgency earns a hard-fought 1:1 stalemate against a rotated St. Louis side (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490542",
+      "league": "Major League Soccer",
+      "homeTeam": "Minnesota United FC",
+      "awayTeam": "St. Louis City",
+      "match_time": "20:30",
+      "match_highlight": "St. Louis tests 19-match unbeaten streak against desperate Loons at Allianz Field",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490542,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "St. Louis holds superior defensive stability to win, while retaining coverage for Minnesota's desperate home stalemate potential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.05 combined goal expectancy and Minnesota's 1.8 conceded goals per match strongly support a three-goal minimum."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 away victory serves as the primary conversion point, with 1:1 capturing the resilient home defense branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the highest model density at 22.4%, closely followed by two goals at 22.0%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced, contested first half precedes St. Louis's superior second-half bench and transition breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 08:33:58 UTC"
+}
