@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556680,
+    "matchup": "Kilmarnock vs Motherwell",
+    "home_team": "Kilmarnock",
+    "away_team": "Motherwell",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261017-kilmarnock-vs-motherwell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kilmarnock vs Motherwell Prediction: Can Steelmen Exploit Killie's xGA Crisis? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556680",
+      "league": "Premiership",
+      "matchup": "Kilmarnock vs Motherwell",
+      "matchTime": "2026-10-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Motherwell hold marked xG superiority and will avoid defeat at Rugby Park, with a 2-1 away victory leading the forecast.",
+    "possibilityAssessment": [
+      "Motherwell exploit Kilmarnock's 2.26 seasonal xGA to secure a 2-1 away victory (Confidence: Moderate, Value: High)",
+      "Kilmarnock's low block and synthetic pitch resistance enforce a 1-1 tactical stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive transition volatility pushes the match total Over 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556680",
+      "league": "Premiership",
+      "homeTeam": "Kilmarnock",
+      "awayTeam": "Motherwell",
+      "match_time": "14:00",
+      "match_highlight": "Motherwell's superior xG creation clashes with Kilmarnock's fragile low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556680,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Motherwell's 1.49 xG creation outclasses Kilmarnock's porous backline while covering Rugby Park's synthetic pitch draw risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match lambda of 3.34 and Kilmarnock's 2.26 xGA strongly favor an open, multi-goal script."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Motherwell away victory reflects core xG expectancies, with a 1:1 stalemate serving as the primary hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary Poisson convergence point, followed by a tight two-goal scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Kilmarnock often hold firm during the opening 45 minutes before second-half defensive fatigue sets in."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 02:08:54 UTC"
+}
