@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552791,
+    "matchup": "Estac Troyes vs Lens",
+    "home_team": "Estac Troyes",
+    "away_team": "Lens",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-17 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261017-estac-troyes-vs-lens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Estac Troyes vs Lens: Expected Goals, Transitional Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1552791",
+      "league": "Ligue 1",
+      "matchup": "Estac Troyes vs Lens",
+      "matchTime": "2026-10-17 18:45 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Lens' overwhelming expected goal generation of 2.82 xG per match and Troyes' depleted transition defense point decisively toward an away victory.",
+    "possibilityAssessment": [
+      "Primary Thesis: Lens Away Win via second-half pressure overload (Confidence: High, Value: High)",
+      "Secondary Thesis: Over 2.5 Total Goals fueled by Troyes' defensive vulnerabilities (Confidence: High, Value: Moderate)",
+      "Contingency Thesis: Low-block stalemate resulting in a narrow draw (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552791",
+      "league": "Ligue 1",
+      "homeTeam": "Estac Troyes",
+      "awayTeam": "Lens",
+      "match_time": "18:45",
+      "match_highlight": "Lens seek first away league win against struggling, leaky Troyes",
+      "ai_confidence": "High",
+      "fixtureId": 1552791,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Lens hold a staggering +11.7 xG differential against Troyes' four-match multi-goal losing skid, making an away victory the most statistically robust trajectory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal baseline of 3.44 and Troyes conceding 2.20 goals per match firmly favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 Lens victory captures away dominance with a home consolation, while 0:2 reflects a controlled clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson densities peak at 3 goals (21.8%) and 2 goals (19.0%), aligning with multi-goal Lens outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Troyes' pattern of first-half resistance followed by second-half defensive collapse underpins Draw-Loss as the leading script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-17 06:54:24 UTC"
+}
