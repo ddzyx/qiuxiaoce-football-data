@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553194,
+    "matchup": "Lech Poznan vs Korona Kielce",
+    "home_team": "Lech Poznan",
+    "away_team": "Korona Kielce",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-18 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-lech-poznan-vs-korona-kielce/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lech Poznan vs Korona Kielce Prediction: Can Kolejorz Overcome European Fatigue? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1553194",
+      "league": "Ekstraklasa",
+      "matchup": "Lech Poznan vs Korona Kielce",
+      "matchTime": "2026-10-18 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lech Poznan's superior domestic attacking quality will overcome post-European fatigue to secure a hard-fought 2:1 home victory.",
+    "possibilityAssessment": [
+      "Home Win via superior second-half attacking adjustments (Confidence: Moderate, Value: Moderate)",
+      "High-scoring clash exceeding 2.5 total goals driven by transitional vulnerability (Confidence: Moderate, Value: High)",
+      "Attrition Draw (1:1) if physical fatigue blunts Lech's final third conversion (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553194",
+      "league": "Ekstraklasa",
+      "homeTeam": "Lech Poznan",
+      "awayTeam": "Korona Kielce",
+      "match_time": "15:30",
+      "match_highlight": "Lech Poznan's domestic fire confronts European fatigue against Korona's transition threat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553194,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Lech Poznan possess superior underlying chance creation at home to outscore Korona Kielce despite squad absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.13 goals and defensive vulnerabilities without Murawski support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home win represents the modal convergence of Lech's scoring power and Korona's away counter threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals is the primary Poisson expectation, with two goals offering strong secondary coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Sluggish first half following European action followed by second-half separation makes Draw-Win the leading trend."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:34:10 UTC"
+}
