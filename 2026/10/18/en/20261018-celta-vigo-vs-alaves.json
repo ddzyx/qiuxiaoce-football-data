@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570414,
+    "matchup": "Celta Vigo vs Alaves",
+    "home_team": "Celta Vigo",
+    "away_team": "Alaves",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-18 14:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-celta-vigo-vs-alaves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celta Vigo vs Alaves Prediction & Match Analysis: Transition Threat at Balaídos — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570414",
+      "league": "La Liga",
+      "matchup": "Celta Vigo vs Alaves",
+      "matchTime": "2026-10-18 14:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celta Vigo's extreme draw frequency and European fatigue make Home Win / Draw anchored on Under 2.5 the optimal trajectory.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance reflecting Celta's territorial control balanced by European exhaustion (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by Celta's six conceded goals and mutual attacking absences (Confidence: High, Value: High)",
+      "1:1 Correct Score stalemate serving as the quantitative modal convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570414",
+      "league": "La Liga",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Alaves",
+      "match_time": "14:15",
+      "match_highlight": "Fatigued Celta face gritty Alaves block at Balaidos",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570414,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Celta's league-leading five draws and severe European fatigue point to a low-scoring shared outcome, with home territorial edge preserving a narrow 1-0 win as the primary alternative."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goal volume of 2.15 alongside Celta's elite six goals conceded strongly favors Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1-1 stalemate reflects mutual finishing deficiencies, while a 1-0 home grind represents Celta's possession-driven ceiling."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The two and one-goal bands encapsulate the most compact probability mass in model simulations."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey, goalless opening half is heavily favored before second-half fatigue dictates the ultimate point distribution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:19:32 UTC"
+}
