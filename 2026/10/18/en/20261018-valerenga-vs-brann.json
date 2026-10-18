@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494786,
+    "matchup": "Valerenga vs Brann",
+    "home_team": "Valerenga",
+    "away_team": "Brann",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-10-18 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-valerenga-vs-brann/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valerenga vs Brann Prediction & Match Analysis: Fatigue vs Relegation Urgency — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494786",
+      "league": "Eliteserien",
+      "matchup": "Valerenga vs Brann",
+      "matchTime": "2026-10-18 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Valerenga on the Home Win / Draw double chance as European fatigue and key absences severely compromise Brann in an open, goal-rich clash.",
+    "possibilityAssessment": [
+      "Valerenga capitalize on 72-hour turnaround fatigue to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "High-scoring 2:2 deadlock driven by chronic defensive errors on both sides (Confidence: Moderate, Value: Moderate)",
+      "Brann dominate early possession but fade in the final 30 minutes under host counter-attacks (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494786",
+      "league": "Eliteserien",
+      "homeTeam": "Valerenga",
+      "awayTeam": "Brann",
+      "match_time": "15:00",
+      "match_highlight": "Tired Brann face relegation-threatened Valerenga in high-tempo clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494786,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a hard-fought 2:1 home victory and a high-scoring 2:2 draw against fatigued opponents."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive vulnerabilities and season scoring averages firmly point toward Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Reflects Valerenga's transition threat against a tired defense alongside their own inability to keep clean sheets."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson distribution models concentrate heavily between 3 and 4 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Brann should resist early before second-half fatigue enables Valerenga to seize the advantage."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:04:01 UTC"
+}
