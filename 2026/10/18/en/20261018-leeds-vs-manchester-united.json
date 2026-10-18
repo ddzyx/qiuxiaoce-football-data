@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557432,
+    "matchup": "Leeds vs Manchester United",
+    "home_team": "Leeds",
+    "away_team": "Manchester United",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-18 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-leeds-vs-manchester-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leeds vs Manchester United Prediction: Can Farke's Low-Block Stifle Carrick's Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557432",
+      "league": "Premier League",
+      "matchup": "Leeds vs Manchester United",
+      "matchTime": "2026-10-18 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Leeds United are primed to maintain their unbeaten home status against an exhausted and inefficient Manchester United, with a 1:1 stalemate or narrow 1:0 home victory representing the optimal probabilistic outcomes.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw covering the high-probability 1:1 deadlock and 1:0 smash-and-grab (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Under 2.5 Total Goals supported by a 61.1% Poisson density and Leeds' 0.53 xGA home suppression (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 1:0 Leeds Win capitalizing on United's late-game transitional fatigue (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557432",
+      "league": "Premier League",
+      "homeTeam": "Leeds",
+      "awayTeam": "Manchester United",
+      "match_time": "13:00",
+      "match_highlight": "Elland Road hostility tests Carrick's struggling attack after midweek European defeat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557432,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Leeds United's elite 0.53 xGA home defensive baseline and United's road conversion struggles favor the hosts avoiding defeat across both the 1:1 stalemate and 1:0 home triumph scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 61.1% Poisson distribution density and contrasting styles of low-block containment point firmly toward a low-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A high-density 1:1 tactical deadlock stands as the primary anchor, flanked by a 1:0 Leeds transitional victory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Total goals tightly bracketed around 2 and 1 based on robust home defense and away finishing inefficiency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A tense, scoreless opening half establishes the foundation for either a sustained second-half parity or a late Leeds winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 01:05:40 UTC"
+}
