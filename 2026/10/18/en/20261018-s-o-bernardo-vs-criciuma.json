@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520937,
+    "matchup": "São Bernardo vs Criciuma",
+    "home_team": "São Bernardo",
+    "away_team": "Criciuma",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-s-o-bernardo-vs-criciuma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "São Bernardo vs Criciúma Prediction & Match Analysis: Defensive Asymmetry & G-6 Stakes — xG Preview",
+    "meta": {
+      "matchId": "1520937",
+      "league": "Serie B",
+      "matchup": "São Bernardo vs Criciuma",
+      "matchTime": "2026-10-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Criciúma's elite defensive structure and promotion urgency establish a high resilience floor, pointing toward a 1:1 stalemate or a narrow 0:1 away victory in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory anchored by Criciúma's 0.88 xGA and 15 clean sheets (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a 59.6% cumulative Poisson distribution (Confidence: High, Value: Moderate)",
+      "Exact Scoreline 1:1 representing the primary convergence of home attack and away defense (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520937",
+      "league": "Serie B",
+      "homeTeam": "São Bernardo",
+      "awayTeam": "Criciuma",
+      "match_time": "19:00",
+      "match_highlight": "Criciúma's league-leading defense faces São Bernardo's productive home attack in decisive promotion push",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520937,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Criciúma's elite defensive foundation (0.88 xGA) and promotion stakes provide high resilience, while São Bernardo's home scoring capacity makes a 1:1 stalemate or a 0:1 away victory the two leading trajectories."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined defensive metrics and Poisson probabilities yield a 59.6% concentration on two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 tactical deadlock represents the modal outcome, with a disciplined 0:1 Criciúma smash-and-grab serving as the primary decisive alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals reflect the primary scoreline convergence, while a single-goal defensive grind forms the secondary projection."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey opening half is expected to preserve parity at the interval before second-half adjustments unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 07:09:06 UTC"
+}
