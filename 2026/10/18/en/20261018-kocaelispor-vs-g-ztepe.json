@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1584437,
+    "matchup": "Kocaelispor vs Göztepe",
+    "home_team": "Kocaelispor",
+    "away_team": "Göztepe",
+    "league": "Süper Lig",
+    "kickoff_utc": "2026-10-18 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-kocaelispor-vs-g-ztepe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kocaelispor vs Göztepe Prediction & Match Analysis: Defensive Fort vs Counter Firepower — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1584437",
+      "league": "Süper Lig",
+      "matchup": "Kocaelispor vs Göztepe",
+      "matchTime": "2026-10-18 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Göztepe to avoid defeat via Draw / Away Win in a tight, tactical encounter dominated by Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Tactical Stalemate (1:1 Draw) anchored by Kocaelispor home resilience and Göztepe counter threat (Confidence: Moderate, Value: High)",
+      "Late Quality Breakthrough (1:2 Away Win) driven by Göztepe forward depth exploiting Kocaelispor injuries (Confidence: Moderate, Value: Moderate)",
+      "Suffocating Defensive Masterclass (1:0 Home Win) should Kocaelispor maintain clean-sheet streak (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1584437",
+      "league": "Süper Lig",
+      "homeTeam": "Kocaelispor",
+      "awayTeam": "Göztepe",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Kocaelispor defense battles lethal Göztepe counter-attack in İzmit.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1584437,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-probability 1:1 stalemate and a 1:2 Göztepe win, acknowledging home grit alongside Kocaelispor's injury crisis."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.05 lambda total and Kocaelispor's flawless record of conceding zero home goals this season."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw represents the primary matrix anchor, while 1:2 accounts for Göztepe's second-half transition quality."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak density (27.1%), with three goals serving as the primary game-expansion branch (18.5%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw reflects sustained parity across both halves, while Draw-Loss captures a late second-half Göztepe breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 01:07:21 UTC"
+}
