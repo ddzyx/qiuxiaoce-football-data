@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494302,
+    "matchup": "Orgryte IS vs Gais",
+    "home_team": "Orgryte IS",
+    "away_team": "Gais",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-18 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-orgryte-is-vs-gais/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Orgryte IS vs Gais Prediction & Match Analysis: Relegation xG Strain in Originalderbyt — Scoreline Preview",
+    "meta": {
+      "matchId": "1494302",
+      "league": "Allsvenskan",
+      "matchup": "Orgryte IS vs Gais",
+      "matchTime": "2026-10-18 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gais's superior defensive structure and Orgryte's chronic transition leakage point toward a decisive away victory at Gamla Ullevi.",
+    "possibilityAssessment": [
+      "Primary Thesis: Gais exploit Orgryte's porous defensive transitions to secure an away derby victory (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Total Goals materialized through high game-state desperation and defensive concession (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Tight low-scoring stalemate if Orgryte over-perform in their low-block resistance (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494302",
+      "league": "Allsvenskan",
+      "homeTeam": "Orgryte IS",
+      "awayTeam": "Gais",
+      "match_time": "14:30",
+      "match_highlight": "Gais defensive solidity threatens relegation-haunted Orgryte in high-stakes Gothenburg derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494302,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Gais possess an overwhelming edge in chance prevention and transitional efficiency against Orgryte's league-worst 2.08 xGA backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined model goal expectancy of 3.05 and Orgryte's 2.26 goals conceded per match strongly support an open contest surpassing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away victory serves as the primary convergence point, with a clean-sheet 0:2 win representing the secondary defensive script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome of the Poisson matrix, closely followed by two goals under a controlled Gais victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Derby tension should keep the opening half deadlocked before Gais pull away, with an early away lead representing the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:34:31 UTC"
+}
