@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570420,
+    "matchup": "Real Madrid vs Sevilla",
+    "home_team": "Real Madrid",
+    "away_team": "Sevilla",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-real-madrid-vs-sevilla/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Madrid vs Sevilla Prediction: Can Los Blancos Overcome Vinicius Ban? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570420",
+      "league": "La Liga",
+      "matchup": "Real Madrid vs Sevilla",
+      "matchTime": "2026-10-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Madrid's overwhelming 2.49 xG attacking baseline and dominant Bernabéu home form will secure a regulation victory against a depleted Sevilla.",
+    "possibilityAssessment": [
+      "Real Madrid sustained pressure yields multi-goal home victory (Confidence: Moderate, Value: High)",
+      "High-tempo game flow clears the 2.5 total goals threshold (Confidence: Moderate, Value: Moderate)",
+      "Disciplined Sevilla low block forces a low-scoring draw script (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570420",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Sevilla",
+      "match_time": "19:00",
+      "match_highlight": "Mbappé leads Real Madrid's central attack against a depleted Sevilla defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570420,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Real Madrid's massive attacking differential and 18-year home unbeaten run against Sevilla support a decisive full-time victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined season expectancy of 3.25 goals and Madrid's high xG output strongly favor clearing the 2.5 goal line."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Madrid's creative volume alongside minor transitional vulnerability, with 2:0 as the controlled shutout alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence of team scoring averages, followed closely by a two-goal game-management script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Sevilla's early compact resistance points toward a second-half breakthrough, with an early blitz providing the secondary pathway."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 07:11:11 UTC"
+}
