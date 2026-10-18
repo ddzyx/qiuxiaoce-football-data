@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569975,
+    "matchup": "Girona vs FC Andorra",
+    "home_team": "Girona",
+    "away_team": "FC Andorra",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-18 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-girona-vs-fc-andorra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Girona vs FC Andorra Prediction & Match Analysis: Asprilla vs Andorra's Press — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569975",
+      "league": "Segunda División",
+      "matchup": "Girona vs FC Andorra",
+      "matchTime": "2026-10-18 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Girona's clinical finishing and transition speed provide the primary winning edge at Montilivi, while Andorra's high possession keeps a competitive draw in play.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw with Girona exploiting Andorra's defensive transitions (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals supported by a 2.90 combined goal expectancy lambda (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Draw 1:1 if Andorra's ball retention successfully stifles Girona's rhythm (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569975",
+      "league": "Segunda División",
+      "homeTeam": "Girona",
+      "awayTeam": "FC Andorra",
+      "match_time": "16:30",
+      "match_highlight": "Girona's clinical transitions challenge Andorra's possession dominance at Montilivi",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569975,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Girona's transition-led victory (2:1) and Andorra's possession-induced stalemate (1:1)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Underpinned by a 2.90 combined goal lambda and Andorra's 1.78 xG per game creation rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects home finishing punch; secondary 1:1 captures stubborn possession resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The two highest density total goal distributions based on Poisson expectancy modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight first-half feeling out before second-half tactical splits emerge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 04:34:23 UTC"
+}
