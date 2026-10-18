@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552787,
+    "matchup": "Lorient vs Monaco",
+    "home_team": "Lorient",
+    "away_team": "Monaco",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-18 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-lorient-vs-monaco/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lorient vs Monaco Prediction: Brunner Absence & xG Metrics Challenge Ligue 1 Leaders — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1552787",
+      "league": "Ligue 1",
+      "matchup": "Lorient vs Monaco",
+      "matchTime": "2026-10-18 15:15 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Lorient hold decisive structural and rest advantages to frustrate fatigued, Brunner-less Monaco, making Lorient Double Chance (Home Win / Draw) the premier selection.",
+    "possibilityAssessment": [
+      "Lorient Double Chance (Home Win / Draw) backed by Monaco's severe European turnaround fatigue and key attacking suspension (Confidence: High, Value: High)",
+      "Under 2.5 Total Goals governed by Lorient's elite 0.37 home xGA and disrupted Monégasque central finishing (Confidence: High, Value: Moderate)",
+      "Lorient 1:0 Upset Victory via second-half counter-attack exploiting Monaco's advancing, fatigued backline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552787",
+      "league": "Ligue 1",
+      "homeTeam": "Lorient",
+      "awayTeam": "Monaco",
+      "match_time": "15:15",
+      "match_highlight": "Suspended Paris Brunner leaves fatigued Monaco vulnerable against Lorient's compact home block",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552787,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the resilient 1:1 stalemate and the 1:0 Lorient counter-attacking upset against the fatigued league leaders."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lorient's 0.37 home xGA and Monaco's missing 4-goal striker firmly suppress goal expectancy below 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 reflects tactical equilibrium while 1:0 captures Lorient punishing Monaco's second-half physical drop-off."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The Poisson distribution concentrates 91.5% of probability across two or fewer total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both tactical scripts foresee a scoreless or level first half before fatigue influences the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:19:18 UTC"
+}
