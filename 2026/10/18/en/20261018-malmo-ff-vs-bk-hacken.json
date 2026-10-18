@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494301,
+    "matchup": "Malmo FF vs BK Hacken",
+    "home_team": "Malmo FF",
+    "away_team": "BK Hacken",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-18 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-malmo-ff-vs-bk-hacken/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Malmo FF vs BK Hacken Prediction & Match Analysis: Defensive Crisis vs Lindberg's xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1494301",
+      "league": "Allsvenskan",
+      "matchup": "Malmo FF vs BK Hacken",
+      "matchTime": "2026-10-18 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back BK Hacken on the double chance spectrum (Draw / Away Win) as their superior xG profile exploits Malmo's depleted central defense in an Over 2.5 environment.",
+    "possibilityAssessment": [
+      "BK Hacken exploit Malmo's makeshift central defense in high-velocity transitions to claim a 1:2 victory (Confidence: Moderate, Value: High)",
+      "Malmo's midfield technical possession manages game tempo to secure a hard-fought 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-scoring end-to-end exchange resulting in Over 2.5 goals and Both Teams to Score (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494301",
+      "league": "Allsvenskan",
+      "homeTeam": "Malmo FF",
+      "awayTeam": "BK Hacken",
+      "match_time": "14:30",
+      "match_highlight": "Depleted Malmo defense confronts Hacken's league-leading transition attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494301,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "BK Hacken's league-best underlying metrics (+16.6 xGD) and Malmo's central defensive absences favor an away victory or high-scoring draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal expectancy of 3.02 and Malmo's elevated 1.54 xGA strongly support an Over 2.5 total."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away win reflects Hacken's transition edge, while 1:1 serves as the modal Poisson hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence point (22.4%), with two goals as the secondary branch (22.3%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a tight first half before Hacken's superior transition depth resolves the match in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:34:15 UTC"
+}
