@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549036,
+    "matchup": "Lyngby vs FC Nordsjaelland",
+    "home_team": "Lyngby",
+    "away_team": "FC Nordsjaelland",
+    "league": "Superliga",
+    "kickoff_utc": "2026-10-18 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-lyngby-vs-fc-nordsjaelland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lyngby vs FC Nordsjaelland Prediction: Can Leaky Defense Withstand FCN's High xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1549036",
+      "league": "Superliga",
+      "matchup": "Lyngby vs FC Nordsjaelland",
+      "matchTime": "2026-10-18 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Nordsjaelland's superior chance creation should prove decisive against a fragile Lyngby defense, but derby dynamics justify a Draw / Away Win posture.",
+    "possibilityAssessment": [
+      "FC Nordsjaelland break down Lyngby's low block via superior chance creation (Confidence: Moderate, Value: High)",
+      "Lyngby execute a stubborn defensive derby performance to secure a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "High defensive transition volatility leads to an open encounter exceeding 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549036",
+      "league": "Superliga",
+      "homeTeam": "Lyngby",
+      "awayTeam": "FC Nordsjaelland",
+      "match_time": "12:00",
+      "match_highlight": "FCN's elite 2.33 xG attack confronts Lyngby's porous derby defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549036,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers FC Nordsjaelland's superior offensive firepower while hedging against historical derby stalemate tendencies."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda expectancy of 2.85 and Lyngby conceding 2.10 goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A narrow 1:2 visiting victory serves as the primary tactical anchor, with a 1:1 stalemate as secondary."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the primary 1:2 script producing three goals and the secondary 1:1 script producing two."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight first-half battle before Nordsjaelland's depth breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 00:10:56 UTC"
+}
