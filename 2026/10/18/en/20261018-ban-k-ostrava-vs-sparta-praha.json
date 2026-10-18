@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560045,
+    "matchup": "Baník Ostrava vs Sparta Praha",
+    "home_team": "Baník Ostrava",
+    "away_team": "Sparta Praha",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-18 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-ban-k-ostrava-vs-sparta-praha/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Baník Ostrava vs Sparta Praha Prediction & Preview: Priske's Resurgent Attack — Scoreline Analysis",
+    "meta": {
+      "matchId": "1560045",
+      "league": "Czech Liga",
+      "matchup": "Baník Ostrava vs Sparta Praha",
+      "matchTime": "2026-10-18 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sparta Praha's superior offensive efficiency and dominant positional structure will overpower Baník Ostrava's struggling defense in a controlled away victory.",
+    "possibilityAssessment": [
+      "Sparta Praha secures a controlled away victory capitalizing on their 2.00 goals per game average against Baník's leaky defense (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals materializes as Sparta controls the tempo and manages Baník's blunt attack (Confidence: Moderate, Value: High)",
+      "A resilient low block from Baník forces an attritional low-scoring draw if Sparta's makeshift defense stumbles (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560045",
+      "league": "Czech Liga",
+      "homeTeam": "Baník Ostrava",
+      "awayTeam": "Sparta Praha",
+      "match_time": "13:00",
+      "match_highlight": "Priske's resurgent attack meets Baník's fragile low block in Ostrava.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560045,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Sparta Praha's sustained tactical resurgence and 2.0 goals per game offensive firepower should comfortably breach Baník Ostrava's porous backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Baník's blunt 0.7 goals per match attack and Sparta's recent three-match domestic clean sheet streak favor a controlled, lower-scoring outcome."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "The 0:2 scoreline represents the modal outcome of a controlled Sparta shutout, while 1:2 accounts for a home set-piece response."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 goals capture 45.8% of the Poisson density distribution across both leading match trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss reflects Baník resisting until second-half fatigue sets in, while Loss-Loss mirrors an early Sparta breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 01:06:08 UTC"
+}
