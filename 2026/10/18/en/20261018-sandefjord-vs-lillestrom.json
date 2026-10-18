@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494783,
+    "matchup": "Sandefjord vs Lillestrom",
+    "home_team": "Sandefjord",
+    "away_team": "Lillestrom",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-10-18 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-sandefjord-vs-lillestrom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sandefjord vs Lillestrom Prediction & Match Analysis: European Fatigue Meets Relegation Fight — xG Preview",
+    "meta": {
+      "matchId": "1494783",
+      "league": "Eliteserien",
+      "matchup": "Sandefjord vs Lillestrom",
+      "matchTime": "2026-10-18 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back the compound Draw / Away Win direction anchored by a projected 1:1 stalemate as European fatigue curbs Lillestrom's attacking edge.",
+    "possibilityAssessment": [
+      "Sandefjord exploit travel fatigue to secure a gritty 1:1 draw at Jotun Arena (Confidence: Moderate, Value: High)",
+      "Lillestrom edge a narrow 1:2 victory via second-half individual quality (Confidence: Moderate, Value: Moderate)",
+      "Low-tempo tactical stalemate keeps total scoreline strictly Under 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494783",
+      "league": "Eliteserien",
+      "homeTeam": "Sandefjord",
+      "awayTeam": "Lillestrom",
+      "match_time": "15:00",
+      "match_highlight": "European travel fatigue confronts Sandefjord's desperate home survival resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494783,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate driven by European fatigue alongside Lillestrom's 1:2 quality edge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Fatigue and missing central creators dictate a low-tempo game favoring Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the natural tactical equilibrium, while 1:2 reflects Lillestrom's late bench superiority."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the primary scoreline with 3 goals providing the secondary away-win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half points to level intervals before fatigue dictates the second-half finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:04:12 UTC"
+}
