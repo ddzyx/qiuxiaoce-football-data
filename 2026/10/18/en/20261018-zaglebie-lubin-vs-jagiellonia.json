@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553199,
+    "matchup": "Zaglebie Lubin vs Jagiellonia",
+    "home_team": "Zaglebie Lubin",
+    "away_team": "Jagiellonia",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-18 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261018-zaglebie-lubin-vs-jagiellonia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zaglebie Lubin vs Jagiellonia Prediction & Match Analysis: European Fatigue Dilemma — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1553199",
+      "league": "Ekstraklasa",
+      "matchup": "Zaglebie Lubin vs Jagiellonia",
+      "matchTime": "2026-10-18 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Zagłębie Lubin hold decisive situational advantages to exploit Jagiellonia's short European turnaround, supporting a double-chance home lean.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Zagłębie Lubin Double Chance) (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Scoreline Stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553199",
+      "league": "Ekstraklasa",
+      "homeTeam": "Zaglebie Lubin",
+      "awayTeam": "Jagiellonia",
+      "match_time": "12:45",
+      "match_highlight": "Fatigue factor favors Lubin against leaky Jagiellonia backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553199,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home victory driven by physical edge and a 1:1 stalemate if visitors convert early possession."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Jagiellonia concede 1.68 xGA per match, combining with Lubin's direct attacking efficiency to breach the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects Lubin's late transition breakthrough, while secondary 1:1 provides coverage for game-state deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The 3-goal outcome matches primary 2:1 dynamics, while 2 goals covers a 1:1 shared-points scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Jagiellonia's early technical resistance gives way to second-half fatigue, favoring a late Lubin surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 00:48:10 UTC"
+}
