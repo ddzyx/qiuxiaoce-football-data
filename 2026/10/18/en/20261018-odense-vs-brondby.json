@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549037,
+    "matchup": "Odense vs Brondby",
+    "home_team": "Odense",
+    "away_team": "Brondby",
+    "league": "Superliga",
+    "kickoff_utc": "2026-10-18 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-odense-vs-brondby/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Odense vs Brondby Prediction & Match Analysis: Can OB Contain Brøndby's Volatile xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1549037",
+      "league": "Superliga",
+      "matchup": "Odense vs Brondby",
+      "matchTime": "2026-10-18 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brøndby to remain unbeaten via Draw / Away Win in a dynamic clash featuring active scoring from both sides.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance coverage (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by mutual defensive concessions (Confidence: Moderate, Value: Moderate)",
+      "Scoreline 1:1 Stalemate as high-density modal Poisson hedge (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549037",
+      "league": "Superliga",
+      "homeTeam": "Odense",
+      "awayTeam": "Brondby",
+      "match_time": "14:00",
+      "match_highlight": "Brøndby attacking power tests Odense defensive resilience at Nature Energy Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549037,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Brøndby possesses superior finishing quality to edge a 1-2 win while Odense's home discipline preserves a 1-1 draw script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive metrics conceding 3.14 goals per match and a 57.4% model density favor 3+ goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A clinical 1:2 away victory leads, backed by a resilient 1:1 home stalemate as secondary outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary attacking convergence, with two goals covering the tight defensive deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive, level first half paves the way for either a late Brøndby decider or a shared-points conclusion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:05:47 UTC"
+}
