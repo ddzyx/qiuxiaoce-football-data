@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601556,
+    "matchup": "Cesena vs Avellino",
+    "home_team": "Cesena",
+    "away_team": "Avellino",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-18 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-cesena-vs-avellino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cesena vs Avellino Prediction & Match Analysis: Can Diamanti's Midfield Halt Nesta's Form? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601556",
+      "league": "Serie B",
+      "matchup": "Cesena vs Avellino",
+      "matchTime": "2026-10-18 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Avellino's sharp transition attack and Cesena's chronic stalemate tendency point strongly toward Draw / Away Win via a 1:1 or 1:2 scoreline.",
+    "possibilityAssessment": [
+      "Draw / Away Win provides high structural coverage against Cesena's chronic drawing tendency (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with Serie B tempo and defensive stabilization (Confidence: Moderate, Value: High)",
+      "1:2 Away Win represents the sharpest transition-break scenario if Cesena overcommits late (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601556",
+      "league": "Serie B",
+      "homeTeam": "Cesena",
+      "awayTeam": "Avellino",
+      "match_time": "15:15",
+      "match_highlight": "Cesena's stalemate habit meets Avellino's sharp transition attack at Dino Manuzzi",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601556,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Cesena have drawn 4 of 6 league matches while Avellino are unbeaten in 4, making Draw / Away Win the most resilient double chance expression."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by a 58.8% Poisson density and Cesena's modest 1.08 home xG generation."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate acts as the statistical modal anchor, with 1:2 representing Avellino's superior counter-attacking edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the 26.4% modal expectancy band, backed up by three goals at 20.5%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A tight opening half in Romagna gives way to either a shared point or a late second-half away decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:20:48 UTC"
+}
