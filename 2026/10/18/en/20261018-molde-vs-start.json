@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494782,
+    "matchup": "Molde vs Start",
+    "home_team": "Molde",
+    "away_team": "Start",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-10-18 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-molde-vs-start/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Molde vs Start Prediction & Match Analysis: Can Visitors Contain High-xG Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494782",
+      "league": "Eliteserien",
+      "matchup": "Molde vs Start",
+      "matchTime": "2026-10-18 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Molde's high-volume attacking output at Aker Stadion will overpower Start's league-worst defense in a high-scoring encounter.",
+    "possibilityAssessment": [
+      "Molde win in an open, multi-goal contest driven by superior xG creation (Confidence: Moderate, Value: High)",
+      "Total goals surpass 2.5 with both teams contributing to the scoreline (Confidence: Moderate, Value: Moderate)",
+      "Start frustrate the hosts with a disciplined low-block to force a draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494782",
+      "league": "Eliteserien",
+      "homeTeam": "Molde",
+      "awayTeam": "Start",
+      "match_time": "15:00",
+      "match_highlight": "Molde's 2.09 xG attack faces Start's league-worst road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494782,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Molde possess an overwhelming baseline advantage over relegation-bound Start, whose fragile road defense concedes 2.2 goals per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined seasonal metrics and Poisson modeling project over 3.4 expected goals, easily clearing the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "Molde's attacking efficiency combined with their defensive vulnerability makes a 3:1 or 2:1 home victory the most natural convergence."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four and three total goals represent the highest probability bands across mathematical scoring distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Start's early low-block resistance points toward a level first half before Molde's superior quality dominates the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:03:48 UTC"
+}
