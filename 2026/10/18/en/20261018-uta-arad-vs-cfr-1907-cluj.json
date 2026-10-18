@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565278,
+    "matchup": "Uta Arad vs CFR 1907 Cluj",
+    "home_team": "Uta Arad",
+    "away_team": "CFR 1907 Cluj",
+    "league": "Liga I",
+    "kickoff_utc": "2026-10-18 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-uta-arad-vs-cfr-1907-cluj/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UTA Arad vs CFR 1907 Cluj Prediction: Can Mihalcea Halt Cordea? — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1565278",
+      "league": "Liga I",
+      "matchup": "UTA Arad vs CFR 1907 Cluj",
+      "matchTime": "2026-10-18 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CFR 1907 Cluj's superior individual quality and Adrian Mihalcea's winless managerial record against Marius Șumudică point to a Draw / Away Win double chance anchored by a 1:1 or 1:2 scoreline.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance captures CFR Cluj's offensive edge and UTA Arad's home resilience (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with tactical attrition and defensive compactness at Stadionul Francisc von Neuman (Confidence: Moderate, Value: Moderate)",
+      "1:1 Primary Scoreline reflects balanced scoring output and shared territorial control (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565278",
+      "league": "Liga I",
+      "homeTeam": "UTA Arad",
+      "awayTeam": "CFR 1907 Cluj",
+      "match_time": "15:15",
+      "match_highlight": "Mihalcea seeks first career win against Șumudică in tight Arad clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565278,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the stalemate script (1:1) and Cluj's transition edge (1:2) while respecting Mihalcea's winless record against Șumudică."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is favored by tactical caution and a high density on a 1:1 stalemate or narrow 0:1/1:2 margins."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate is the primary Poisson convergence, with a 1:2 away victory representing Cluj's clinical edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the primary convergence point (1:1), with three goals accommodating an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half leads to either a sustained deadlock or a late decisive breakthrough for the visitors."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:20:53 UTC"
+}
