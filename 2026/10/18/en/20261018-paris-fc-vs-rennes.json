@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552789,
+    "matchup": "Paris FC vs Rennes",
+    "home_team": "Paris FC",
+    "away_team": "Rennes",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-18 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261018-paris-fc-vs-rennes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Paris FC vs Rennes: Expected Goals (xG), Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1552789",
+      "league": "Ligue 1",
+      "matchup": "Paris FC vs Rennes",
+      "matchTime": "2026-10-18 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Paris FC on the double chance (Home Win / Draw) within a tightly constrained, low-scoring encounter anchored under 2.5 goals.",
+    "possibilityAssessment": [
+      "Paris FC maintain structural containment to secure a point or narrow victory against a fatigued visitor (Confidence: Moderate, Value: High)",
+      "Low-tempo midfield attrition limits quality chances to produce Under 2.5 total goals (Confidence: High, Value: Moderate)",
+      "Paris FC convert a transition opportunity to grind out a 1:0 defensive clean sheet (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552789",
+      "league": "Ligue 1",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Rennes",
+      "match_time": "15:15",
+      "match_highlight": "Paris FC's home defensive wall meets Rennes' post-European travel fatigue.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552789,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Paris FC's exceptional home defensive record and Rennes' midweek continental fatigue make a Paris FC result the superior probabilistic expression over an outright winner."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Independent Poisson models assign a 68.1% density to two or fewer goals, heavily supported by Paris FC's 0.65 home xGA."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The 1:1 scoreline reflects balanced midfield containment, with 1:0 providing the natural home clean-sheet contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Statistical goal expectancies cluster heavily around 2 goals (27.1%) and 1 goal (27.3%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first-half tactical probing is projected to produce a level opening interval before fatigue dictates second-half outcomes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:18:57 UTC"
+}
