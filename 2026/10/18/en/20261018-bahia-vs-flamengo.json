@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492412,
+    "matchup": "Bahia vs Flamengo",
+    "home_team": "Bahia",
+    "away_team": "Flamengo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-18 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-bahia-vs-flamengo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bahia vs Flamengo Prediction & Match Analysis: Can Fonte Nova Ambush Tired Leaders? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492412",
+      "league": "Serie A",
+      "matchup": "Bahia vs Flamengo",
+      "matchTime": "2026-10-18 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bahia to avoid defeat at home via Home Win / Draw as severe post-Libertadores fatigue and Arrascaeta's absence blunts Flamengo.",
+    "possibilityAssessment": [
+      "Bahia Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "Scoreline 1:1 Stalemate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492412",
+      "league": "Serie A",
+      "homeTeam": "Bahia",
+      "awayTeam": "Flamengo",
+      "match_time": "21:30",
+      "match_highlight": "Tired league leaders face severe Fonte Nova ambush.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492412,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-density 1:1 tactical stalemate and the secondary 2:1 late home breakthrough against exhausted visitors."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Flamengo's league-best 0.82 xGA defense and Arrascaeta's absence suppress scoring below the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw represents the primary matrix anchor, while a 2:1 Bahia win captures second-half fatigue breakdown."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal outcome of a 1:1 deadlock, with three goals covering the 2:1 alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey first half points toward level intervals before fatigue dictates the second-half split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 09:35:54 UTC"
+}
