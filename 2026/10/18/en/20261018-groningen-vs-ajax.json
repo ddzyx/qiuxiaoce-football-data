@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552197,
+    "matchup": "Groningen vs Ajax",
+    "home_team": "Groningen",
+    "away_team": "Ajax",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-18 14:45:00",
+    "source_url": "https://xgmind.com/matches/20261018-groningen-vs-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Groningen vs Ajax Prediction & Match Analysis: Fatigue and Transition Clashes — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552197",
+      "league": "Eredivisie",
+      "matchup": "Groningen vs Ajax",
+      "matchTime": "2026-10-18 14:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Ajax's elite individual attacking pedigree navigates travel fatigue against Groningen's potent transition attack.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance balances Ajax's superior squad quality against midweek European travel strain (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with structural Poisson convergence and fatigue-driven tempo dampening (Confidence: Moderate, Value: High)",
+      "Primary 1:1 scoreline reflects mutual attacking conversion offset by tactical fatigue in the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552197",
+      "league": "Eredivisie",
+      "homeTeam": "Groningen",
+      "awayTeam": "Ajax",
+      "match_time": "14:45",
+      "match_highlight": "Ajax face severe fatigue test at Euroborg against free-scoring Groningen.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552197,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Combines a fatigue-induced 1:1 stalemate with Ajax's individual quality edging a narrow 1:2 victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson baseline projects 64.4% Under 2.5 density supported by travel-induced tempo deceleration."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Reflects mutual scoring efficiency converging on a 1:1 deadlock with 1:2 away edge as primary reserve."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Concentrates on 2 and 3 goals reflecting high BTTS probability tempered by tactical containment."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a competitive first-half deadlock transitioning into either a sustained draw or late Ajax winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:51:35 UTC"
+}
