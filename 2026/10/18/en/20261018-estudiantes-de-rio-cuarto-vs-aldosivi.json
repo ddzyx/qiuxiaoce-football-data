@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493189,
+    "matchup": "Estudiantes de Rio Cuarto vs Aldosivi",
+    "home_team": "Estudiantes de Rio Cuarto",
+    "away_team": "Aldosivi",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-18 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-estudiantes-de-rio-cuarto-vs-aldosivi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estudiantes de Rio Cuarto vs Aldosivi Prediction & Match Analysis: Survival Clash — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1493189",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Estudiantes de Rio Cuarto vs Aldosivi",
+      "matchTime": "2026-10-18 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 goals in an attritional relegation clash defined by mutual attacking limitations.",
+    "possibilityAssessment": [
+      "Low-scoring stalemate driven by shared offensive deficiencies (Confidence: Moderate, Value: Moderate)",
+      "Narrow Aldosivi away triumph fueled by existential survival urgency (Confidence: Moderate, Value: Moderate)",
+      "Estudiantes defensive hold resulting in home spoiler resistance (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493189",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Estudiantes de Rio Cuarto",
+      "awayTeam": "Aldosivi",
+      "match_time": "21:00",
+      "match_highlight": "Aldosivi fight for survival against relegated Estudiantes in Córdoba.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493189,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-probability attritional stalemate and Aldosivi's desperate push for survival against a relegated host."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a combined Poisson lambda expectation of 1.95 and Estudiantes' meager 0.4 goals per match output."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Natural convergence points reflecting mutual scoring struggles and low defensive separation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the distribution peak, with a 1-goal smash-and-grab serving as the primary alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a cautious, goalless opening half before second-half survival urgency unfolds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 09:05:49 UTC"
+}
