@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569970,
+    "matchup": "Burgos vs Sabadell",
+    "home_team": "Burgos",
+    "away_team": "Sabadell",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-burgos-vs-sabadell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burgos vs Sabadell Prediction & Match Analysis: Can El Plantío Halt Sabadell? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569970",
+      "league": "Segunda División",
+      "matchup": "Burgos vs Sabadell",
+      "matchTime": "2026-10-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sabadell's superior defensive structure and underlying xG metrics position them to avoid defeat at El Plantío in a tightly contested, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win core thesis anchored by Sabadell's division-leading defensive prevention and plus-5.3 xG differential (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by Sabadell's 1.04 xGA and the long-term injury absence of striker Gioacchini (Confidence: High, Value: Moderate)",
+      "1:1 Correct Score serving as the primary probabilistic stalemate convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569970",
+      "league": "Segunda División",
+      "homeTeam": "Burgos",
+      "awayTeam": "Sabadell",
+      "match_time": "19:00",
+      "match_highlight": "Sabadell's elite defensive structure meets Burgos's home resilience at El Plantío.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569970,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Sabadell's elite underlying defensive balance (+5.3 xG diff vs -0.8) makes an away win or drawn stalemate far more compelling than a home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sabadell concede just 0.8 goals per game and miss top striker Gioacchini, keeping total goal expectancy tightly compressed."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 tactical deadlock is the leading Poisson convergence, backed by a clinical 0:1 away counter-attack branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the peak probability cluster (24.4%), followed by a solitary 1-goal outcome (17.9%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, goalless opening half leads into either a sustained second-half stalemate or a late Sabadell counter-attack decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 07:08:42 UTC"
+}
