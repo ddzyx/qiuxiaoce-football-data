@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550152,
+    "matchup": "Juventus vs Lazio",
+    "home_team": "Juventus",
+    "away_team": "Lazio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-18 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261018-juventus-vs-lazio/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Juventus vs Lazio Prediction & Match Analysis: Injury Crises & xG Deficits Clash in Turin — Model Preview",
+    "meta": {
+      "matchId": "1550152",
+      "league": "Serie A",
+      "matchup": "Juventus vs Lazio",
+      "matchTime": "2026-10-18 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventus's elite underlying defensive suppression offsets severe creative absences to secure a narrow low-scoring result against an overperforming Lazio.",
+    "possibilityAssessment": [
+      "Juventus edges a cagey, low-scoring victory through elite structural suppression and second-half transition quality (Confidence: Moderate, Value: High)",
+      "Gennaro Gattuso's compact mid-block frustrates an undermanned Bianconeri attack to carve out a disciplined 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Total scoring remains severely restricted below the 2.5 threshold due to combined defensive organization and low road xG generation (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550152",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "Lazio",
+      "match_time": "18:45",
+      "match_highlight": "Depleted Juventus hosts unbeaten Lazio in an attritional Turin battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550152,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw provides comprehensive coverage over the primary 1:0 victory and secondary 1:1 stalemate given Juventus creative absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is heavily reinforced by Juventus's 0.48 xGA suppression and Lazio's modest 0.37 away xG output."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home win serves as the statistical anchor, while a 1:1 deadlock covers Gattuso's defensive resilience."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Total goals concentrate tightly in the 1 and 2 goal brackets behind two disciplined backlines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half points toward a half-time deadlock before second-half attrition decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 06:51:41 UTC"
+}
