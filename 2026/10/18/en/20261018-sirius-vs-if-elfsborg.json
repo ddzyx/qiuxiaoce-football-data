@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494303,
+    "matchup": "Sirius vs IF Elfsborg",
+    "home_team": "Sirius",
+    "away_team": "IF Elfsborg",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-18 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-sirius-vs-if-elfsborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sirius vs IF Elfsborg: Expected Goals, Midfield Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1494303",
+      "league": "Allsvenskan",
+      "matchup": "Sirius vs IF Elfsborg",
+      "matchTime": "2026-10-18 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sirius hold a distinct tactical advantage at Studenternas IP, making Home Win / Draw the premier risk-adjusted position alongside an Over 2.5 goals orientation.",
+    "possibilityAssessment": [
+      "Primary Thesis: Sirius edge a competitive encounter 2:1 through superior territorial pressure and chance creation (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Elfsborg's resilient low-block secures a 1:1 draw via disciplined counter-transitions (Confidence: Moderate, Value: Moderate)",
+      "Totals Thesis: Dynamic game-states and Sirius's 2.3 goals per match scoring rate drive the fixture toward Over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494303",
+      "league": "Allsvenskan",
+      "homeTeam": "Sirius",
+      "awayTeam": "IF Elfsborg",
+      "match_time": "12:00",
+      "match_highlight": "League leaders Sirius host resolute Elfsborg in crucial Allsvenskan clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494303,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Sirius's league-leading attacking efficiency favors a home victory, while Elfsborg's compact defense maintains a credible path to a 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda expectation and Sirius's 2.3 goals per game scoring pace strongly support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Sirius's likely 2:1 breakthrough alongside Elfsborg's defensive resistance holding a 1:1 draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligned directly with the primary 2:1 and secondary 1:1 scoreline scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey opening half followed by Sirius's second-half acceleration or a sustained stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 00:04:09 UTC"
+}
