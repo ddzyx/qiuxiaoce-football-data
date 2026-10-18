@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560042,
+    "matchup": "FK Jablonec vs Plzen",
+    "home_team": "FK Jablonec",
+    "away_team": "Plzen",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-18 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-fk-jablonec-vs-plzen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FK Jablonec vs Plzen Prediction & Match Analysis: Can Strelnice Defense Tame Plzen? — Scoreline Preview",
+    "meta": {
+      "matchId": "1560042",
+      "league": "Czech Liga",
+      "matchup": "FK Jablonec vs Plzen",
+      "matchTime": "2026-10-18 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FK Jablonec's elite defensive structure and Plzen's injury-depleted backline point toward a controlled encounter, making Home Win / Draw the premier analytical thesis.",
+    "possibilityAssessment": [
+      "Stalemate thesis: Jablonec's low block suffocates Plzen's fatigued attack for a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Transitional break thesis: Jablonec exploit Plzen's missing central defenders to secure a 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Low-event defensive attrition: Match remains tightly contested under 2.5 total goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560042",
+      "league": "Czech Liga",
+      "homeTeam": "FK Jablonec",
+      "awayTeam": "Plzen",
+      "match_time": "16:00",
+      "match_highlight": "Defensive fortress hosts fatigued Plzen in crucial Czech clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560042,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and secondary 2:1 counter-attacking home win against Plzen's depleted defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Jablonec's 0.90 conceded goals per match and Plzen's road fatigue heavily favor an Under 2.5 game state."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Poisson distribution models converge on 1:1 as modal density, followed by a 2:1 transition-led home victory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals represents peak probability density, with three goals capturing the open second-half failure mode."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Jablonec's cautious first-half structure points toward level opening 45 minutes before late fatigue settles the match."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 04:04:20 UTC"
+}
