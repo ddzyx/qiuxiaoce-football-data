@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552788,
+    "matchup": "Lyon vs Nice",
+    "home_team": "Lyon",
+    "away_team": "Nice",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-18 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261018-lyon-vs-nice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lyon vs Nice Prediction & Match Analysis: Can Les Gones Overcome Openda Absence? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552788",
+      "league": "Ligue 1",
+      "matchup": "Lyon vs Nice",
+      "matchTime": "2026-10-18 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Olympique Lyonnais are projected to control territory and secure a comfortable regulation victory against a travel-weary, injury-depleted Nice side.",
+    "possibilityAssessment": [
+      "Lyon control possession and secure a clean-sheet victory against a blunt Nice road attack (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals crystallizes as Openda's absence tempers Lyon's conversion rate (Confidence: Moderate, Value: High)",
+      "Nice low-block frustrates Lyon through the first half before crumbling to late attrition (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552788",
+      "league": "Ligue 1",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "match_time": "18:45",
+      "match_highlight": "Lyon look to extend Groupama dominance over travel-sick Nice.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552788,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Lyon's home defensive superiority and Nice's zero away goals this season support a decisive home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is favored by a 59.9% Poisson probability, reinforced by Openda's injury and Nice's road drought."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 clean-sheet win serves as the primary anchor, with 2:1 covering minor second-half fatigue variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak distribution density, while three goals accounts for an open second-half counter script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Nice's compact five-man block is built to hold until halftime before Lyon's technical depth breaks through."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 06:51:18 UTC"
+}
