@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552783,
+    "matchup": "Angers vs Marseille",
+    "home_team": "Angers",
+    "away_team": "Marseille",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-18 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-angers-vs-marseille/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Angers vs Marseille Prediction & Match Analysis: xG Gap Anchors Under 2.5 Scoreline Preview",
+    "meta": {
+      "matchId": "1552783",
+      "league": "Ligue 1",
+      "matchup": "Angers vs Marseille",
+      "matchTime": "2026-10-18 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Olympique de Marseille's vast expected goals supremacy (1.82 vs 0.43) will overcome European fatigue to secure a disciplined away victory in an Under 2.5 encounter.",
+    "possibilityAssessment": [
+      "Marseille controls territory and secures a low-margin road victory against an offensively limited Angers side (Confidence: Moderate, Value: High)",
+      "Compact defensive structures and Angers' low block restrict overall match tempo to Under 2.5 total goals (Confidence: High, Value: Moderate)",
+      "First-half deadlock holds before Marseille's individual attacking quality breaks through after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552783",
+      "league": "Ligue 1",
+      "homeTeam": "Angers",
+      "awayTeam": "Marseille",
+      "match_time": "13:00",
+      "match_highlight": "Marseille's dominant xG generation confronts Angers' disciplined low block at Stade Raymond Kopa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552783,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Marseille's superior attacking creation (1.82 xG/game) and Angers' defensive absences dictate an away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A low combined goal expectancy of 1.595 and Angers' league-low 0.43 xG heavily favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "Reflects Marseille's sustained control and defensive stability against an offensively toothless host."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson model concentrates 58.2% probability across 1 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A cagey first half gives way to Marseille's second-half breakthrough as fatigue takes its toll."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 01:03:21 UTC"
+}
