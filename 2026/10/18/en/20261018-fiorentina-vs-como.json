@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550150,
+    "matchup": "Fiorentina vs Como",
+    "home_team": "Fiorentina",
+    "away_team": "Como",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-18 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-fiorentina-vs-como/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fiorentina vs Como Prediction & Match Analysis: Can Viola Exploit Fatigue? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550150",
+      "league": "Serie A",
+      "matchup": "Fiorentina vs Como",
+      "matchTime": "2026-10-18 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win with Under 2.5 Goals as Como's European fatigue and missing frontline neutralize their possession advantage against a stubborn Fiorentina.",
+    "possibilityAssessment": [
+      "Tactical stalemate with Como dominating possession but lacking cutting edge, yielding a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Como secure narrow low-scoring road victory via a solitary technical breakthrough for a 0:1 win (Confidence: Moderate, Value: Moderate)",
+      "Fiorentina set-piece resilience and home crowd push game into tight Under 2.5 contest (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550150",
+      "league": "Serie A",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Como",
+      "match_time": "13:00",
+      "match_highlight": "Fatigued Como face tricky Franchi test without key forwards Kean and Diao.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550150,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-probability 1:1 stalemate and a narrow 0:1 Como victory, accounting for Como's post-Rotterdam Champions League fatigue and attacking injuries."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model indicates a 67.3% probability for Under 2.5 goals due to heavy attacking absences on both sides."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 draw serves as the natural statistical convergence point, while 0:1 represents a professional road defensive victory for Como."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary scoring cluster at 27.1%, followed closely by a single-goal match at 26.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cagey opening 45 minutes projected with parity at the interval, leading to either a drawn finish or late Como winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 01:02:54 UTC"
+}
