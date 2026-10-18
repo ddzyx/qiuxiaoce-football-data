@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493194,
+    "matchup": "Racing Club vs Independiente",
+    "home_team": "Racing Club",
+    "away_team": "Independiente",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-18 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261018-racing-club-vs-independiente/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Racing Club vs Independiente Prediction & Match Analysis: Avellaneda Derby xG & Lineups — Scoreline Preview",
+    "meta": {
+      "matchId": "1493194",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Racing Club vs Independiente",
+      "matchTime": "2026-10-18 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw with Under 2.5 goals in an intensely contested Avellaneda derby governed by tactical caution.",
+    "possibilityAssessment": [
+      "Tactical stalemate leading to a low-scoring 1-1 draw (Confidence: Moderate, Value: High)",
+      "Narrow Racing home victory 1-0 via dead-ball pressure (Confidence: Moderate, Value: Moderate)",
+      "Independiente counter-attacking steal 0-1 via transitional efficiency (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493194",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Independiente",
+      "match_time": "17:45",
+      "match_highlight": "Avellaneda derby gridlock favors low-scoring stalemate over outright victory.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493194,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Combines the dominant 1-1 stalemate script with Racing's home territorial floor in a 1-0 victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derived total goal expectation of 2.35 aligns with five consecutive low-scoring head-to-head fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1-1 draw serves as primary tactical equilibrium, with 1-0 reflecting home set-piece containment."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model density concentrates heavily across the 2-goal and 1-goal brackets."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Scoreless first half anticipated prior to second-half scoring developments."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 05:51:26 UTC"
+}
