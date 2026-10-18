@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492416,
+    "matchup": "Gremio vs Cruzeiro",
+    "home_team": "Gremio",
+    "away_team": "Cruzeiro",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-gremio-vs-cruzeiro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grêmio vs Cruzeiro Prediction & Match Analysis: Relegation Dread Meets G4 Push — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492416",
+      "league": "Serie A",
+      "matchup": "Grêmio vs Cruzeiro",
+      "matchTime": "2026-10-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Grêmio leverage home survival urgency and defensive compactness to secure points against Cruzeiro in a low-scoring match under 2.5 goals.",
+    "possibilityAssessment": [
+      "Grêmio grind out a disciplined 1-0 victory through defensive containment and second-half transition (Confidence: Moderate, Value: High)",
+      "Both teams trade blows in an attritional 1-1 tactical stalemate (Confidence: Moderate, Value: Moderate)",
+      "Cruzeiro's technical midfield dominance breaks Grêmio down for a narrow 0-1 road steal (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492416",
+      "league": "Serie A",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Cruzeiro",
+      "match_time": "19:00",
+      "match_highlight": "Relegation desperation meets top-four ambition at Arena do Grêmio.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492416,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Grêmio's primary 1-0 winning thesis and the realistic 1-1 stalemate scenario under intense relegation pressure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.00 and compact defensive structures project a 67.7% probability of two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents the modal home victory path while 1:1 reflects secondary game-state regression."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Single and two-goal match outcomes account for a combined 54.2% of the Poisson probability mass."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half between risk-averse teams opens the door for a second-half decider or sustained stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 07:06:46 UTC"
+}
