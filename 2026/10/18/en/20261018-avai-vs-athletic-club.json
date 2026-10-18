@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520930,
+    "matchup": "Avai vs Athletic Club",
+    "home_team": "Avai",
+    "away_team": "Athletic Club",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-avai-vs-athletic-club/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Avaí vs Athletic Club Prediction & Match Analysis: Relegation Stakes at Ressacada — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520930",
+      "league": "Serie B",
+      "matchup": "Avaí vs Athletic Club",
+      "matchTime": "2026-10-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Avaí are projected to avoid defeat at Ressacada, leveraging survival urgency and defensive momentum in a low-scoring contest characterized by a 1:0 victory or a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Primary: Home Win / Draw as Avaí's relegation desperation collides with Athletic Club's high draw frequency (Confidence: Moderate, Value: High)",
+      "Secondary: Under 2.5 Total Goals supported by 56.3% model density and tight home defensive metrics (Confidence: High, Value: Moderate)",
+      "Contingency: 1:1 Draw persistence driven by Athletic Club's 13 season stalemates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520930",
+      "league": "Serie B",
+      "homeTeam": "Avai",
+      "awayTeam": "Athletic Club",
+      "match_time": "19:00",
+      "match_highlight": "Relegation desperation at Ressacada meets Athletic Club's prolific draw tendency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520930,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Avaí's intense survival incentive and back-to-back wins lead, but Athletic Club's 13 draws require double-chance coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined scoring metrics and 12 consecutive home under 3.5 games strongly favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home triumph or a 1:1 stalemate represent the highest Poisson density convergence points."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.0%) and one goal (21.5%) capture nearly half of all modeled score outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected before second-half adjustments decide the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 07:06:44 UTC"
+}
