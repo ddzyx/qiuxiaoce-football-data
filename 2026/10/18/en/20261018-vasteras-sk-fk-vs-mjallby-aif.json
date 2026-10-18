@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494304,
+    "matchup": "Vasteras SK FK vs Mjallby AIF",
+    "home_team": "Vasteras SK FK",
+    "away_team": "Mjallby AIF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-18 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-vasteras-sk-fk-vs-mjallby-aif/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Västerås SK FK vs Mjällby AIF: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1494304",
+      "league": "Allsvenskan",
+      "matchup": "Västerås SK FK vs Mjällby AIF",
+      "matchTime": "2026-10-18 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Västerås SK FK leverage superior rest and home turf to breach Mjällby's fatigued low block in a tightly contested, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Västerås SK FK to secure a narrow home victory as Mjällby fatigues in the second half (Confidence: Moderate, Value: High)",
+      "A disciplined Mjällby low-block grinds out a low-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Mjällby capitalizes on backup goalkeeper uncertainty to steal a point via set-piece parity (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494304",
+      "league": "Allsvenskan",
+      "homeTeam": "Västerås SK FK",
+      "awayTeam": "Mjällby AIF",
+      "match_time": "12:00",
+      "match_highlight": "Rest asymmetry favors host against fatigued road underdogs.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494304,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Västerås SK FK hold a decisive rest advantage at home, but Mjällby's league-leading away draw rate demands structural draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model baseline yields 81.4% Under 2.5 density backed by a 0-0 reverse fixture and severe road fatigue for Mjällby."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Convergence centers on a 1:0 home breakthrough or a grinding 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Bivariate probability concentrates in the 1 to 2 goal corridor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a scoreless opening half before physical fatigue creates second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 00:04:27 UTC"
+}
