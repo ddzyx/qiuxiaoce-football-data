@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575189,
+    "matchup": "Borussia Mönchengladbach vs 1899 Hoffenheim",
+    "home_team": "Borussia Mönchengladbach",
+    "away_team": "1899 Hoffenheim",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-18 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-borussia-m-nchengladbach-vs-1899-hoffenheim/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Borussia Mönchengladbach vs 1899 Hoffenheim Prediction: Defensive Crisis — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575189",
+      "league": "Bundesliga",
+      "matchup": "Borussia Mönchengladbach vs 1899 Hoffenheim",
+      "matchTime": "2026-10-18 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Borussia Mönchengladbach leverage Borussia-Park home urgency and Hoffenheim's European fatigue to secure their first points via a narrow Home Win or Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Hoffenheim's quick turnaround (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals fueled by severe defensive vulnerabilities on both sides (Confidence: Moderate, Value: High)",
+      "Late tactical deadlock resulting in a 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575189",
+      "league": "Bundesliga",
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "1899 Hoffenheim",
+      "match_time": "15:30",
+      "match_highlight": "Gladbach seek first points against fatigued Hoffenheim at Borussia-Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575189,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Gladbach's high-urgency 2:1 home victory and a resilient 1:1 baseline stalemate against fatigued opposition."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams have conceded heavily this season, combining for 31 goals against across five matchdays."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects Gladbach edging a fatigued defense, while 1:1 captures low-margin finishing variance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of poor defending, with two goals as the resilient secondary threshold."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to either Gladbach's late push or a shared second-half deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 03:37:12 UTC"
+}
