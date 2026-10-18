@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492415,
+    "matchup": "Fluminense vs Santos",
+    "home_team": "Fluminense",
+    "away_team": "Santos",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-fluminense-vs-santos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fluminense vs Santos Prediction & Match Analysis: Squad Rotation Clash & Model Projections",
+    "meta": {
+      "matchId": "1492415",
+      "league": "Serie A",
+      "matchup": "Fluminense vs Santos",
+      "matchTime": "2026-10-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Santos to avoid defeat at the Maracanã via Draw / Away Win within a low-scoring Under 2.5 match framework.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Fluminense squad rotation and Neymar return (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by 83.4% Poisson probability density (Confidence: High, Value: High)",
+      "Low-scoring 1:1 stalemate as primary convergence scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492415",
+      "league": "Serie A",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Santos",
+      "match_time": "19:00",
+      "match_highlight": "Neymar returns as Fluminense rests starters for Libertadores semifinal",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492415,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Fluminense's heavy rotation ahead of their Libertadores semifinal second leg gives Santos the tactical upper hand to secure at least a draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson goal expectancy of 1.40 and missing key attacking focal points firmly point to Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 tactical stalemate serves as the primary matrix anchor, with a narrow 0:1 Santos victory as the leading decisive branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture the vast majority of bivariate Poisson probability mass."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, disciplined first half is projected to end level before second-half adjustments dictate the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 07:06:37 UTC"
+}
