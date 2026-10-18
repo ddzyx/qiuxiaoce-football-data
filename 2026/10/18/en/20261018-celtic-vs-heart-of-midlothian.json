@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556677,
+    "matchup": "Celtic vs Heart Of Midlothian",
+    "home_team": "Celtic",
+    "away_team": "Heart Of Midlothian",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-18 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-celtic-vs-heart-of-midlothian/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celtic vs Heart Of Midlothian Prediction: Defensive Absences Test Parkhead xG Dominance — Scoreline Preview",
+    "meta": {
+      "matchId": "1556677",
+      "league": "Premiership",
+      "matchup": "Celtic vs Heart Of Midlothian",
+      "matchTime": "2026-10-18 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celtic's underlying domestic generation and Parkhead territorial control will prevail against a fatigued Hearts side in a controlled home victory.",
+    "possibilityAssessment": [
+      "Celtic Home Win via sustained territorial pressure and wing penetration (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by post-European stamina management and league defensive discipline (Confidence: Moderate, Value: High)",
+      "Hearts low-block resistance forcing a 1:1 stalemate via transition counters (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556677",
+      "league": "Premiership",
+      "homeTeam": "Celtic",
+      "awayTeam": "Heart Of Midlothian",
+      "match_time": "14:00",
+      "match_highlight": "Celtic seek domestic Parkhead rebound against high-flying Hearts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556677,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Celtic's 2.76 domestic xG and Parkhead territorial superiority will overcome defensive absences to secure maximum points."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution establishes a 65.9% density for two or fewer goals with post-European fatigue curbing match tempo."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A controlled 2:0 home clean sheet serves as the primary matrix convergence, with 2:1 acting as the counter-punch secondary."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the mathematical median of Celtic's domestic output, while three goals accounts for Hearts scoring on the break."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Celtic's characteristic aggressive early pressure favors an early lead, while a patient second-half breakthrough remains a strong secondary branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:04:41 UTC"
+}
