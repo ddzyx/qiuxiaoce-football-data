@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603056,
+    "matchup": "Al-Fateh vs Al Khaleej Saihat",
+    "home_team": "Al-Fateh",
+    "away_team": "Al Khaleej Saihat",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-18 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261018-al-fateh-vs-al-khaleej-saihat/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Fateh vs Al Khaleej Saihat Prediction: Sellami's xG Rebound Meets Stalemate Kings — Scoreline Preview",
+    "meta": {
+      "matchId": "1603056",
+      "league": "Pro League",
+      "matchup": "Al-Fateh vs Al Khaleej Saihat",
+      "matchTime": "2026-10-18 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Al Khaleej Saihat to avoid defeat via Draw / Away Win in a low-tempo tactical battle anchored around a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Tactical stalemate with both sides scoring once on short rest (Confidence: Moderate, Value: High)",
+      "Al Khaleej exploit Al-Fateh transition exposure to claim late 1:2 win (Confidence: Moderate, Value: Moderate)",
+      "Sellami's individual stars engineer narrow home victory against the run of play (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603056",
+      "league": "Pro League",
+      "homeTeam": "Al-Fateh",
+      "awayTeam": "Al Khaleej Saihat",
+      "match_time": "18:00",
+      "match_highlight": "Gomes returns to Al-Ahsa as stalemate kings test porous Al-Fateh backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603056,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and the 1:2 transition counter-attack script against Al-Fateh's winless home record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 72-hour turnaround and Al Khaleej's compact 1.2 goals conceded per game profile favor a tight, low-tempo affair."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 draw represents the model's top density peak, while 1:2 covers late defensive fatigue breakdowns."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A primary cluster of 2 goals aligns with the modal 1:1 draw, flanked by 3 goals if the match opens late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Fatigued squads ensure a cagey first half, leading either to a sustained draw or a late away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 06:09:30 UTC"
+}
