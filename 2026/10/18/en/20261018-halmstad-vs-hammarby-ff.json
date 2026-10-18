@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494300,
+    "matchup": "Halmstad vs Hammarby FF",
+    "home_team": "Halmstad",
+    "away_team": "Hammarby FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-18 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261018-halmstad-vs-hammarby-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Halmstad vs Hammarby FF Prediction & Match Analysis: Can Host Defense Stem xG Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494300",
+      "league": "Allsvenskan",
+      "matchup": "Halmstad vs Hammarby FF",
+      "matchTime": "2026-10-18 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Hammarby FF to assert their superior chance creation and secure an essential road victory at Örjans Vall.",
+    "possibilityAssessment": [
+      "Hammarby positional dominance secures road victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals materialized through defensive transition mismatches (Confidence: Moderate, Value: Moderate)",
+      "Halmstad low block holds to steal a 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494300",
+      "league": "Allsvenskan",
+      "homeTeam": "Halmstad",
+      "awayTeam": "Hammarby FF",
+      "match_time": "14:30",
+      "match_highlight": "Hammarby's clinical attack tests Halmstad's struggling defensive low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494300,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Hammarby's massive 2.28 xG attacking baseline and title race urgency will systematically overwhelm Halmstad's league-worst defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combining Halmstad's 2.14 xGA per game with Hammarby's prolific 2.1 goals scored average strongly supports an Over 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 victory represents the primary convergence of Hammarby dominance and a home transitional consolation, with 0:2 as the controlled clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact totals of 3 and 2 goals represent over 42% of modeled Poisson density across plausible match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Halmstad's first-half resistance supports a Draw-Loss trajectory, while early away pressure backs a wire-to-wire Loss-Loss outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-18 02:34:20 UTC"
+}
