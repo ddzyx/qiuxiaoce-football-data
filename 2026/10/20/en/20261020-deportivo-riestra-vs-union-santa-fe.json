@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493187,
+    "matchup": "Deportivo Riestra vs Union Santa Fe",
+    "home_team": "Deportivo Riestra",
+    "away_team": "Union Santa Fe",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-20 00:15:00",
+    "source_url": "https://xgmind.com/matches/20261020-deportivo-riestra-vs-union-santa-fe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo Riestra vs Union Santa Fe Prediction: Low-Block Standoff — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493187",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Deportivo Riestra vs Union Santa Fe",
+      "matchTime": "2026-10-20 00:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Riestra's disciplined low-block structure at Estadio Guillermo Laza will neutralize an out-of-form Unión Santa Fe side, supporting a low-scoring contest defined by Home Win / Draw.",
+    "possibilityAssessment": [
+      "Deportivo Riestra grinds out an attritional 1:0 home victory through structured set pieces and defensive resilience (Confidence: Moderate, Value: High)",
+      "Unión Santa Fe stabilizes defensively to force a tight 1:1 stalemate against Riestra's modest finishing (Confidence: Moderate, Value: Moderate)",
+      "A cagey opening half yields a scoreless 0:0 half-time deadlock before late tactical attrition (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493187",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Union Santa Fe",
+      "match_time": "00:15",
+      "match_highlight": "Riestra's suffocating low block confronts Unión's four-match losing crisis at Guillermo Laza.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493187,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Deportivo Riestra's defensive solidity at home establishes a strong floor, while their 41.7% draw frequency necessitates pairing the home win with the draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Riestra's 0.5 goals scored and 0.9 conceded per match strongly anchor total scoring expectancy beneath the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 victory reflects Riestra's set-piece efficiency, while 1:1 accounts for their persistent inability to kill off games."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Tight pitch dimensions and risk-averse tactical setups heavily concentrate match outcomes across 1 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, foul-heavy first half is expected to reach the interval level before physical attrition influences the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 12:21:04 UTC"
+}
