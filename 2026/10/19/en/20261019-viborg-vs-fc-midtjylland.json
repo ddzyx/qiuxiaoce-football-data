@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549039,
+    "matchup": "Viborg vs FC Midtjylland",
+    "home_team": "Viborg",
+    "away_team": "FC Midtjylland",
+    "league": "Superliga",
+    "kickoff_utc": "2026-10-19 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-viborg-vs-fc-midtjylland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Viborg vs FC Midtjylland Prediction: Central Jutland Derby xG & Fatigue Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1549039",
+      "league": "Superliga",
+      "matchup": "Viborg vs FC Midtjylland",
+      "matchTime": "2026-10-19 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Viborg leverage an unblemished training week and Midtjylland's severe defensive injury crisis to avoid defeat in a cagey Central Jutland Derby.",
+    "possibilityAssessment": [
+      "Viborg 1X Double Chance capitalizing on Midtjylland fatigue and depleted center-back pairing (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by compact derby setups and tactical caution (Confidence: Moderate, Value: Moderate)",
+      "Exact scoreline 1:1 stalemate extending the three-match H2H draw streak (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549039",
+      "league": "Superliga",
+      "homeTeam": "Viborg",
+      "awayTeam": "FC Midtjylland",
+      "match_time": "17:00",
+      "match_highlight": "Midtjylland's depleted backline faces Viborg's elite crossing after European travel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549039,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Viborg's physical freshness and home resilience counter Midtjylland's travel-weary squad, covering the 1:1 draw and 2:1 home win scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution models and Viborg's 0.8 goals conceded per home match indicate a tightly contested game falling below three goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate reflects historical derby parity and recent road draws, while 2:1 captures Viborg's late physical edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the modal expectation from a 1:1 deadlock, with three goals serving as the primary alternative on a 2:1 home victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening half will preserve parity at the break, leading either to a sustained draw or a late Viborg surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 05:02:55 UTC"
+}
