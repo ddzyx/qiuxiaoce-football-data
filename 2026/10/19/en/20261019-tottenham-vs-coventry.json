@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557436,
+    "matchup": "Tottenham vs Coventry",
+    "home_team": "Tottenham",
+    "away_team": "Coventry",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-19 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-tottenham-vs-coventry/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tottenham vs Coventry Prediction & Match Analysis: De Zerbi's Crisis vs Lampard's Counter — xG Preview",
+    "meta": {
+      "matchId": "1557436",
+      "league": "Premier League",
+      "matchup": "Tottenham vs Coventry",
+      "matchTime": "2026-10-19 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tottenham's severe attacking attrition and Coventry's resilient 5-4-1 low block indicate a restricted Under 2.5 contest where Home Win / Draw represents the premier risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Low-block stalemate through sterile home possession and organized away resistance (Confidence: Moderate, Value: High)",
+      "Narrow home breakthrough via late set-piece or individual second-half brilliance (Confidence: Moderate, Value: Moderate)",
+      "Coventry counter-attack transition exploiting Tottenham's high defensive line (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557436",
+      "league": "Premier League",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Coventry",
+      "match_time": "19:00",
+      "match_highlight": "Winless Tottenham face Coventry's resilient low-block counter in high-stakes tactical clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557436,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the narrow home second-half breakthrough and the low-block stalemate scenario given Tottenham's winless streak."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Tottenham's anemic 0.50 goals per game and Coventry's disciplined defensive shape."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate captures sterile dominance while a 1:0 victory reflects a solitary second-half attrition winner."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Tight game state modeling projects low-volume returns of two or one total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Coventry's first-half compactness creates a deadlocked interval before decisive second-half progression."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 07:05:34 UTC"
+}
