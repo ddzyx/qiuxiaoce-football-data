@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550154,
+    "matchup": "Parma vs Torino",
+    "home_team": "Parma",
+    "away_team": "Torino",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-19 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261019-parma-vs-torino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Parma vs Torino Prediction & Match Analysis: Can Gilardino's Reorganized Defense Contain Toro? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550154",
+      "league": "Serie A",
+      "matchup": "Parma vs Torino",
+      "matchTime": "2026-10-19 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Torino's elite defensive suppression and Parma's severe attacking absences support a low-scoring affair leaning toward the visitors via Draw / Away Win and Under 2.5.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win via structured defensive containment (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Under 2.5 Total Goals grounded in combined 1.10 xG baseline (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 1:1 Deadlock if Parma convert an isolated set-piece opportunity (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550154",
+      "league": "Serie A",
+      "homeTeam": "Parma",
+      "awayTeam": "Torino",
+      "match_time": "18:45",
+      "match_highlight": "Torino defensive solidity meets Gilardino's rebuilding Parma low block",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550154,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Torino's primary 0:1 victory script and a 1:1 stalemate, reflecting Parma's attacking absences and Torino's road caution."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sub-1.70 lambda total and elite Torino defensive suppression point strongly to a low-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "The 0:1 away win represents the primary probabilistic mode, while 1:1 covers the home resistance scenario."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Combined model density for 1 and 2 goals exceeds 58%, aligning with conservative tempo dynamics."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, goalless opening half is projected to precede either a late Torino decider or a shared split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 06:50:57 UTC"
+}
