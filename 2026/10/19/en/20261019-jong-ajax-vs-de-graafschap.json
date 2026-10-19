@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551844,
+    "matchup": "Jong Ajax vs De Graafschap",
+    "home_team": "Jong Ajax",
+    "away_team": "De Graafschap",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-19 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-jong-ajax-vs-de-graafschap/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jong Ajax vs De Graafschap Prediction: Defensive Fragility vs High-Line Attack — Scoreline & Model Analysis",
+    "meta": {
+      "matchId": "1551844",
+      "league": "Eerste Divisie",
+      "matchup": "Jong Ajax vs De Graafschap",
+      "matchTime": "2026-10-19 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "De Graafschap's superior transition efficiency will exploit Jong Ajax's porous defense in an open contest favoring Draw / Away Win and Over 2.5 goals.",
+    "possibilityAssessment": [
+      "De Graafschap exploit defensive transitions to secure a clinical road win (Confidence: Moderate, Value: High)",
+      "High defensive concession rates on both sides produce a high-scoring 2:2 deadlock (Confidence: Moderate, Value: High)",
+      "Jong Ajax dominate early possession but fail to sustain second-half defensive discipline (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551844",
+      "league": "Eerste Divisie",
+      "homeTeam": "Jong Ajax",
+      "awayTeam": "De Graafschap",
+      "match_time": "18:00",
+      "match_highlight": "De Graafschap transition threat clashes with Jong Ajax defensive fragility.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551844,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers De Graafschap's clinical transition superiority (1:2) while hedging against both sides' leaky defensive records resulting in a high-scoring stalemate (2:2)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.3 conceded goals per match with a high total lambda expectancy of 3.70."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A 1:2 road win represents the natural tactical convergence point, with 2:2 providing high-scoring draw coverage."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Primary total of 3 goals aligns with the 1:2 scoreline, while 4 goals captures open second-half trading."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive, level first half is expected before De Graafschap's senior stamina and bench tilt the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 06:05:33 UTC"
+}
