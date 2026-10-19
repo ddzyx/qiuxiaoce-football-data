@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551845,
+    "matchup": "Jong PSV U21 vs Dordrecht",
+    "home_team": "Jong PSV U21",
+    "away_team": "Dordrecht",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-19 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-jong-psv-u21-vs-dordrecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jong PSV U21 vs Dordrecht Prediction & Match Analysis: Defensive Fragility Exploitation — Scoreline Preview",
+    "meta": {
+      "matchId": "1551845",
+      "league": "Eerste Divisie",
+      "matchup": "Jong PSV U21 vs Dordrecht",
+      "matchTime": "2026-10-19 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jong PSV U21 hold the tactical and territorial edge to exploit FC Dordrecht's porous road defense within an expansive, goal-rich encounter.",
+    "possibilityAssessment": [
+      "Jong PSV capitalize on Dordrecht's defensive leaks to secure a multi-goal home victory (Confidence: Moderate, Value: Moderate)",
+      "High defensive concession rates on both sides push total goals Over 2.5 (Confidence: Moderate, Value: High)",
+      "Jong PSV's young squad encounters finishing variance and settles for a low-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551845",
+      "league": "Eerste Divisie",
+      "homeTeam": "Jong PSV U21",
+      "awayTeam": "Dordrecht",
+      "match_time": "18:00",
+      "match_highlight": "Jong PSV look to exploit Dordrecht's leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551845,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers Jong PSV's primary 2:1 breakthrough against Dordrecht's leaky defense alongside the secondary 1:1 deadlock script driven by Jong PSV's frequent stalemate tendency, where a single call would overlook the host's 50% draw rate over their last six fixtures."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson scoring distributions assign a 54.1% likelihood to Over 2.5 goals, reinforced by Dordrecht conceding 2.70 goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence of attacking volume and defensive frailty, while 1:1 provides the natural low-variance hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with model peak probability at 21.2%, with two goals providing a robust secondary baseline at 17.7%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win reflects first-half tactical resistance before Jong PSV's bench depth forces the winner, with Draw-Draw tracking the alternate stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 06:05:37 UTC"
+}
