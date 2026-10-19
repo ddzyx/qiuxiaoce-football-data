@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603053,
+    "matchup": "Abha vs Al Kholood",
+    "home_team": "Abha",
+    "away_team": "Al Kholood",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-19 15:20:00",
+    "source_url": "https://xgmind.com/matches/20261019-abha-vs-al-kholood/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Abha vs Al Kholood Prediction & Match Analysis: Can Hosts Halt xG Slide? — Scoreline Preview",
+    "meta": {
+      "matchId": "1603053",
+      "league": "Pro League",
+      "matchup": "Abha vs Al Kholood",
+      "matchTime": "2026-10-19 15:20 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Kholood's superior attacking xG generation under Des Buckingham provides the decisive edge, with a structured compound Draw / Away Win offering optimal risk mitigation against their leaky backline.",
+    "possibilityAssessment": [
+      "Primary Script: Al Kholood edge a high-tempo transition battle to secure an away victory (Confidence: Moderate, Value: High)",
+      "Secondary Script: Abha's low-block survival instincts hold Buckingham's side to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Contingency Script: Early dead-ball breakthrough prompts an open end-to-end shootout favoring Over 2.5 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603053",
+      "league": "Pro League",
+      "homeTeam": "Abha",
+      "awayTeam": "Al Kholood",
+      "match_time": "15:20",
+      "match_highlight": "Al Kholood's transition firepower tests Abha's fragile relegation-threatened backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603053,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al Kholood's superior 1.91 xG attacking edge alongside Abha's low-block home resistance, mitigating against away defensive concessions."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goals of 3.80 and Al Kholood's 2.0 goals conceded average point toward an open encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 away win reflects attacking divergence while the 1:1 stalemate guards against road finishing volatility."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson modeling places 3 goals at 22.4% and 2 goals at 22.0%, capturing 44.4% of outcome density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half gives way to Al Kholood's late transition pace or a sustained second-half deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 03:22:30 UTC"
+}
