@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603060,
+    "matchup": "Al Shabab vs Al-Faisaly FC",
+    "home_team": "Al Shabab",
+    "away_team": "Al-Faisaly FC",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-19 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-al-shabab-vs-al-faisaly-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Shabab vs Al-Faisaly FC Prediction: Resolving Rebound Momentum via xG & Scoreline Analysis",
+    "meta": {
+      "matchId": "1603060",
+      "league": "Pro League",
+      "matchup": "Al Shabab vs Al-Faisaly FC",
+      "matchTime": "2026-10-19 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Shabab leverage tactical superiority and home advantage at SHG Arena to secure a hard-fought 2:1 victory over Al-Faisaly FC.",
+    "possibilityAssessment": [
+      "Home Win via sustained pressure and wing penetration from Carrasco (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by porous transition defending on both sides (Confidence: Moderate, Value: High)",
+      "Defensive stalemate contingency if Al-Faisaly maintain a rigid low block (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603060",
+      "league": "Pro League",
+      "homeTeam": "Al Shabab",
+      "awayTeam": "Al-Faisaly FC",
+      "match_time": "18:00",
+      "match_highlight": "Carrasco and Brownhill lead Al Shabab against Solinas's organized low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603060,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Al Shabab's superior attacking creation and recent 3-0 momentum will break through Al-Faisaly's leaky defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive vulnerabilities (1.74 home xGA and 1.88 away GA) support an open, multi-goal trajectory."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 primary convergence reflects home dominance with away transition threat, while 2:0 covers a disciplined clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the modal convergence point, with two goals offering strong secondary resistance coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A patient opening half precedes second-half host acceleration, with wire-to-wire control as the primary alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 06:07:55 UTC"
+}
