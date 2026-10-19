@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492414,
+    "matchup": "Corinthians vs Vitoria",
+    "home_team": "Corinthians",
+    "away_team": "Vitoria",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-19 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-corinthians-vs-vitoria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Corinthians vs Vitoria Prediction & Match Analysis: Garro Return vs Away Crisis — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492414",
+      "league": "Serie A",
+      "matchup": "Corinthians vs Vitoria",
+      "matchTime": "2026-10-19 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Corinthians hold the territorial and structural edge to avoid defeat against away-winless Vitoria in a tight, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Corinthians narrow home win driven by Garro's return and Vitoria's decimated defense (Confidence: Moderate, Value: High)",
+      "Low-scoring draw failure mode resulting from Depay's suspension and acute home pressure (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals consensus backed by low combined xG lambda of 2.10 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492414",
+      "league": "Serie A",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Vitoria",
+      "match_time": "23:00",
+      "match_highlight": "Garro returns as Corinthians battle relegation against away-winless Vitoria",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492414,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Corinthians' primary 1:0 territorial breakthrough alongside the low-scoring 1:1 draw failure mode caused by Depay's absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.10 goals and conservative tactical postures align with Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A pragmatic 1:0 home win leads model densities, with 1:1 representing the primary deadlock scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Low chance creation profiles converge tightly on 2 and 1 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a cautious, scoreless opening half before Corinthians increase pressure post-interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 11:04:42 UTC"
+}
