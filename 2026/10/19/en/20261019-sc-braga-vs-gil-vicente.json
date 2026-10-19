@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575458,
+    "matchup": "SC Braga vs GIL Vicente",
+    "home_team": "SC Braga",
+    "away_team": "GIL Vicente",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-19 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261019-sc-braga-vs-gil-vicente/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Braga vs GIL Vicente Prediction: Fatigue & Low-Block Battle — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575458",
+      "league": "Primeira Liga",
+      "matchup": "SC Braga vs GIL Vicente",
+      "matchTime": "2026-10-19 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fatigue and tactical low-block resistance point firmly to a low-scoring contest settled via Home Win / Draw and Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "SC Braga talent edge balanced against acute European fatigue (Confidence: Moderate, Value: High)",
+      "GIL Vicente defensive low-block forcing an attritional stalemate (Confidence: High, Value: Moderate)",
+      "Narrow one-goal attrition victory via set-piece breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575458",
+      "league": "Primeira Liga",
+      "homeTeam": "SC Braga",
+      "awayTeam": "GIL Vicente",
+      "match_time": "19:15",
+      "match_highlight": "Braga European fatigue collides with Gil Vicente's stubborn defensive low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575458,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:1 stalemate script and the secondary 1:0 home attrition win while excluding risk of full European collapse."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 captures 60.1% cumulative Poisson expectancy given Gil Vicente's 0.70 conceded rate and Braga's congested schedule."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 deadlock serves as the primary matrix convergence, with a narrow 1:0 Braga victory as the immediate reserve."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Combined lambdas under 2.0 heavily favor 2 and 1 total goals over any expansive high-scoring script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Attritional opening halves point to a level interval preceding second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 07:20:19 UTC"
+}
