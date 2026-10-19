@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494299,
+    "matchup": "Degerfors IF vs Kalmar FF",
+    "home_team": "Degerfors IF",
+    "away_team": "Kalmar FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-19 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261019-degerfors-if-vs-kalmar-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Degerfors IF vs Kalmar FF Prediction: Relegation xG Battle & Defensive Breakdown — XG Mind AI",
+    "meta": {
+      "matchId": "1494299",
+      "league": "Allsvenskan",
+      "matchup": "Degerfors IF vs Kalmar FF",
+      "matchTime": "2026-10-19 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Degerfors IF to protect home turf at Stora Valla against an offensively paralyzed Kalmar FF side via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Degerfors IF or Draw (1X) in a low-scoring tactical standoff (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on mutual offensive limitations (Confidence: High, Value: Moderate)",
+      "Isolated 0:1 Kalmar FF counter-punch should Degerfors err defensively (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494299",
+      "league": "Allsvenskan",
+      "homeTeam": "Degerfors IF",
+      "awayTeam": "Kalmar FF",
+      "match_time": "17:00",
+      "match_highlight": "Relegation six-pointer featuring Kalmar's 450-minute scoring drought vs Degerfors' home resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494299,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 stalemate and the 1:0 narrow Degerfors home victory, accounting for Kalmar's severe attacking slump and Degerfors' disciplined low block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined scoring average of only 1.80 goals per game and Kalmar's five-game scoreless streak strongly reinforce the Under 2.5 trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The 1:1 draw represents the natural equilibrium between two cautious sides, with 1:0 serving as the leading single-goal home alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary model expectation, followed by a solitary goal if Kalmar fail to score for a sixth straight fixture."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Survival stakes dictate a cautious opening half resulting in a level interval, leading into either a drawn finish or second-half home winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-19 05:03:00 UTC"
+}
