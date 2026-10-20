@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646592,
+    "matchup": "Worcester City vs Chorley",
+    "home_team": "Worcester City",
+    "away_team": "Chorley",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-worcester-city-vs-chorley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Worcester City vs Chorley Prediction: Can Magpies Survive Goalkeeper Crisis? — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1646592",
+      "league": "FA Cup",
+      "matchup": "Worcester City vs Chorley",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Chorley's tier advantage will be tempered by goalkeeping and midfield absences, positioning Draw / Away Win via a tight 1:1 stalemate or narrow 1:2 road victory as the optimal probabilistic trajectory.",
+    "possibilityAssessment": [
+      "Attritional 1:1 regulation stalemate pushing tie to extra time (Confidence: Moderate, Value: High)",
+      "Chorley late set-piece efficiency securing a narrow 1:2 away progression (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring defensive deadlock resulting in Under 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646592",
+      "league": "FA Cup",
+      "homeTeam": "Worcester City",
+      "awayTeam": "Chorley",
+      "match_time": "18:45",
+      "match_highlight": "Chorley face goalkeeping void at Sixways replay after dramatic first leg",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646592,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Chorley's Step 2 physical superiority faces severe friction from Li-Bau Stowell's suspension, favoring a 1:1 stalemate or narrow 1:2 road progression."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A tense replay environment and cautious away tactical setup favor an attritional contest dominated by Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw represents the primary convergence of Sixways energy and Chorley resilience, backed by a 1:2 secondary away edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals encompass the most probable game states across low-scoring regulation time."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half points toward level intervals, with Chorley's set-piece prowess threatening late separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 07:49:12 UTC"
+}
