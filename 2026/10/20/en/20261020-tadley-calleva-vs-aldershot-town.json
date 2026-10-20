@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1646591,
+    "matchup": "Tadley Calleva vs Aldershot Town",
+    "home_team": "Tadley Calleva",
+    "away_team": "Aldershot Town",
+    "league": null,
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-tadley-calleva-vs-aldershot-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "FA Cup",
+      "matchId": "1646591",
+      "matchup": "Tadley Calleva vs Aldershot Town",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "FA Cup Matchday Intelligence: Tadley Calleva vs Aldershot Town Preview — Tactical Blueprint & Projections",
+    "coreRecommendation": "Aldershot Town's full-time conditioning ensures survival against Tadley Calleva's spirited home resistance in a tight, low-scoring replay.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Anticipates a level opening half with second-half progression favoring a drawn full-time or away decider.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Covers the primary 1:1 stalemate and the secondary 1:2 Aldershot win as part-time legs tire late on.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "A 2-goal primary tally supported by the 1:1 modal density, backed by a 3-goal 1:2 script.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Reflects the natural convergence of Tadley's dead-ball threat and Aldershot's superior technical reserve.",
+        "selection": [
+          "1:1",
+          "1:2"
+        ]
+      },
+      "league": "FA Cup",
+      "matchId": "1646591",
+      "awayTeam": "Aldershot Town",
+      "homeTeam": "Tadley Calleva",
+      "fixtureId": 1646591,
+      "match_time": "18:45",
+      "over_under": {
+        "comment": "Replay caution and heavy pitch friction favor a low-scoring tie below the 2.25 lambda threshold.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Underdog grit meets professional fitness in decisive FA Cup replay battle."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Core regulation draw as Tadley's compact block holds Aldershot (Confidence: Moderate, Value: High)",
+      "Late Aldershot narrow victory driven by second-half fitness disparity (Confidence: Moderate, Value: Moderate)",
+      "High-energy Tadley early lead neutralized by tactical adjustments (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-2",
+    "halftime_score": "0-2",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-20 21:15:56 UTC"
+  }
+}
