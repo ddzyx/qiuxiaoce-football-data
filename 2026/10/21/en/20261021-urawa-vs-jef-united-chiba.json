@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556108,
+    "matchup": "Urawa vs JEF United Chiba",
+    "home_team": "Urawa",
+    "away_team": "JEF United Chiba",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-21 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261021-urawa-vs-jef-united-chiba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Urawa vs JEF United Chiba: Expected Goals (xG), Low-Block Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1556108",
+      "league": "J1 League",
+      "matchup": "Urawa vs JEF United Chiba",
+      "matchTime": "2026-10-21 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Urawa's superior half-space technical quality and home authority at Saitama Stadium will ultimately dismantle JEF United Chiba's compact low block in a measured 2:0 victory.",
+    "possibilityAssessment": [
+      "Urawa Win via second-half attrition and technical breakthrough against a tiring Chiba low block (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals governed by Chiba's ultra-defensive posture and Suárez's shot-stopping (Confidence: Moderate, Value: High)",
+      "Low-scoring draw contingency if Urawa experiences prolonged finishing variance inside the box (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556108",
+      "league": "J1 League",
+      "homeTeam": "Urawa",
+      "awayTeam": "JEF United Chiba",
+      "match_time": "10:30",
+      "match_highlight": "Urawa's attacking quality looks to dismantle Chiba's desperate survival block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556108,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Urawa holds distinct structural and tactical supremacy over 19th-placed Chiba, with home advantage and H2H dominance pointing decisively to a home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Chiba's deep 4-4-2 defensive shape limits game tempo, keeping total scoring bounded within a controlled 2-goal profile."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home triumph mirrors both 2026 head-to-head encounters, while 2:1 provides coverage for a rare away transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the core distribution anchor, with three goals accounting for an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Chiba's initial defensive discipline will likely preserve parity before Urawa's sustained pressure converts in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:36:47 UTC"
+}
