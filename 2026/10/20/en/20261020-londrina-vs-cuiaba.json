@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520935,
+    "matchup": "Londrina vs Cuiaba",
+    "home_team": "Londrina",
+    "away_team": "Cuiaba",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-20 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261020-londrina-vs-cuiaba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Londrina vs Cuiaba Prediction & Match Analysis: Relegation Stakes vs Defensive Wall — Scoreline Preview",
+    "meta": {
+      "matchId": "1520935",
+      "league": "Serie B",
+      "matchup": "Londrina vs Cuiaba",
+      "matchTime": "2026-10-20 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win captures the decisive balance between Londrina's survival urgency and Cuiabá's league-leading defensive discipline.",
+    "possibilityAssessment": [
+      "Tactical Stalemate (1:1 Draw) driven by Cuiabá's league-high draw rate and Londrina home push (Confidence: Moderate, Value: High)",
+      "Low-Goal Squeeze (Under 2.5 Goals) supported by combined 2.45 xG expectancy and Cuiabá 0.93 xGA (Confidence: High, Value: Moderate)",
+      "Counter-Punch Smash and Grab (0:1 Away Win) exploiting late overextended home transitions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520935",
+      "league": "Serie B",
+      "homeTeam": "Londrina",
+      "awayTeam": "Cuiaba",
+      "match_time": "22:30",
+      "match_highlight": "Relegation desperation collides with Cuiaba elite defensive wall at VGD.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520935,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:1 deadlock and 0:1 away counter-attack; a single call understates Cuiabá's 14 draws and Londrina's home resistance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cuiabá concede just 0.8 goals per game while scoring only 1.0, cementing an overwhelmingly strong Under 2.5 profile."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 represents the natural tactical equilibrium, while 0:1 accounts for late home defensive overextension."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals reflects the primary 1:1 stalemate, with 1 goal providing robust secondary coverage for a 0:1 away victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Strict refereeing and disciplined low blocks point toward a level first half before late fatigue decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 10:42:25 UTC"
+}
