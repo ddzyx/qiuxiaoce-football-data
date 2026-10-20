@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556103,
+    "matchup": "Kawasaki Frontale vs Vissel Kobe",
+    "home_team": "Kawasaki Frontale",
+    "away_team": "Vissel Kobe",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-kawasaki-frontale-vs-vissel-kobe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Kawasaki Frontale vs Vissel Kobe: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1556103",
+      "league": "J1 League",
+      "matchup": "Kawasaki Frontale vs Vissel Kobe",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vissel Kobe's defensive compactness and lethal transitions exploit Kawasaki's open backline to secure a road result in a high-intensity encounter.",
+    "possibilityAssessment": [
+      "Vissel Kobe edge a high-tempo contest through clinical second-half transitions (Confidence: Moderate, Value: High)",
+      "Kawasaki Frontale sustain home pressure to claim a competitive score draw (Confidence: Moderate, Value: Moderate)",
+      "End-to-end exchange pushes total match goals over the 2.5 benchmark (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556103",
+      "league": "J1 League",
+      "homeTeam": "Kawasaki Frontale",
+      "awayTeam": "Vissel Kobe",
+      "match_time": "10:00",
+      "match_highlight": "Kobe's stingy defense confronts Todoroki's prolific but fragile attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556103,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Kobe's away resilience and direct transition threat make an away win or drawn outcome the optimal probabilistic scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Frontale's leaky defense conceding 1.6 goals per game aligns with a combined lambda of 3.1 to favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Kobe road triumph represents the leading Poisson convergence, backed by a 1:1 stalemate hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring distribution peaks at 3 goals (22.4%) followed closely by 2 goals (21.6%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tightly contested opening 45 minutes gives way to Kobe's decisive second-half transition push."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:02:39 UTC"
+}
