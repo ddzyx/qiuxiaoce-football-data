@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563820,
+    "matchup": "Exeter City vs Crewe",
+    "home_team": "Exeter City",
+    "away_team": "Crewe",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-exeter-city-vs-crewe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Exeter City vs Crewe Prediction & Match Analysis: Grecians Defense vs Unbeaten Attack — Scoreline Preview",
+    "meta": {
+      "matchId": "1563820",
+      "league": "League Two",
+      "matchup": "Exeter City vs Crewe",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win in a low-scoring contest defined by Exeter's stingy defense and Crewe's unbeaten transition threat.",
+    "possibilityAssessment": [
+      "Tactical stalemate yielding a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Crewe steal a narrow 0:1 away victory on transition (Confidence: Moderate, Value: Moderate)",
+      "Exeter grind out a 1:0 home clean-sheet win via set pieces (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563820",
+      "league": "League Two",
+      "homeTeam": "Exeter City",
+      "awayTeam": "Crewe",
+      "match_time": "18:45",
+      "match_highlight": "Exeter's league-best defense hosts unbeaten Crewe in a cagey tactical battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563820,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Exeter's stingy backline points to a tactical stalemate, while Crewe's unbeaten form provides late breakaway threat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Exeter have conceded only 6 goals in 11 matches, strongly supporting a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 tactical deadlock represents the primary expectation, with a 0:1 away steal as the contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals lead the distribution via a shared scoreline, with a single-goal outcome closely trailing."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A scoreless first half gives way either to a level conclusion or a decisive Crewe second-half winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 06:56:08 UTC"
+}
