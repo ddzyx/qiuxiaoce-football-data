@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1603054,
+    "matchup": "Al Diriyah vs Al Riyadh",
+    "home_team": "Al Diriyah",
+    "away_team": "Al Riyadh",
+    "league": null,
+    "kickoff_utc": "2026-10-20 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261020-al-diriyah-vs-al-riyadh/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Pro League",
+      "matchId": "1603054",
+      "matchup": "Al Diriyah vs Al Riyadh",
+      "matchTime": "2026-10-20 15:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Decoupling Al Diriyah vs Al Riyadh: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "coreRecommendation": "Al Diriyah's defensive solidity secures points, but acute rest fatigue and high chance waste necessitate Home Win / Draw coverage.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cautious opening half from fatigued hosts precedes either a sustained stalemate or late home edge.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the home structural edge (2:1) and fatigue-induced deadlock (1:1); single home win overlooks the -148h rest gap.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Two goals represents the modal Poisson outcome; three goals accounts for the secondary 2:1 branch.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Primary scoreline captures a fatigue-induced stalemate; secondary reflects a narrow home win.",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "Pro League",
+      "matchId": "1603054",
+      "awayTeam": "Al Riyadh",
+      "homeTeam": "Al Diriyah",
+      "fixtureId": 1603054,
+      "match_time": "15:00",
+      "over_under": {
+        "comment": "Underpinned by Al Diriyah's 1.05 xGA average and Al Riyadh's conservative road posture.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Al Diriyah battles extreme 69-hour rest fatigue against refreshed Al Riyadh."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Al Diriyah controls territory but tires late, settling for a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Al Diriyah overcomes fatigue via set-piece efficiency to grind out a 2:1 win (Confidence: Moderate, Value: Moderate)",
+      "Al Riyadh exploits physical edge to secure a disciplined road point (Confidence: High, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-0",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-20 17:16:03 UTC"
+  }
+}
