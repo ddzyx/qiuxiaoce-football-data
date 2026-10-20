@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1635738,
+    "matchup": "VfB Stuttgart vs Atletico Madrid",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Atletico Madrid",
+    "league": null,
+    "kickoff_utc": "2026-10-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261020-vfb-stuttgart-vs-atletico-madrid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Champions League",
+      "matchId": "1635738",
+      "matchup": "VfB Stuttgart vs Atletico Madrid",
+      "matchTime": "2026-10-20 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "VfB Stuttgart vs Atletico Madrid Prediction: Can Swabians Breach Simeone's Defense? — xG Breakdown",
+    "coreRecommendation": "VfB Stuttgart's superior chance creation profile and home territorial dominance give them the edge to avoid defeat against an Atletico Madrid side missing key defensive pillar Cristian Romero.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Expect a tight first half before second-half conditioning and tactical depth tilt the outcome.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Stuttgart's 2.19 xG output combined with Romero's absence favors the hosts while respecting Atletico's counter threat.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Three goals represents the primary outcome with two goals serving as the primary defensive floor.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Convergence of Stuttgart home scoring volume and Atletico counter-attacking efficiency.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Champions League",
+      "matchId": "1635738",
+      "awayTeam": "Atletico Madrid",
+      "homeTeam": "VfB Stuttgart",
+      "fixtureId": 1635738,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "Aggregate lambda of 3.00 and high transition speed on both sides point toward three or more goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Stuttgart's high press challenges Simeone's reshuffled Rojiblanco defensive structure"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "VfB Stuttgart 2:1 victory driven by relentless crossing overloads and midfield control (Confidence: Moderate, Value: High)",
+      "1:1 tactical stalemate anchored by Jan Oblak's shot-stopping and transitional counters (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals materialized through combined 3.00 expected goal lambdas (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-20 21:16:30 UTC"
+  }
+}
