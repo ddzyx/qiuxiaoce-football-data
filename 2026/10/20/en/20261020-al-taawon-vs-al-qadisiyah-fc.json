@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1603061,
+    "matchup": "Al Taawon vs Al-Qadisiyah FC",
+    "home_team": "Al Taawon",
+    "away_team": "Al-Qadisiyah FC",
+    "league": null,
+    "kickoff_utc": "2026-10-20 15:10:00",
+    "source_url": "https://xgmind.com/matches/20261020-al-taawon-vs-al-qadisiyah-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Saudi Pro League",
+      "matchId": "1603061",
+      "matchup": "Al Taawon vs Al-Qadisiyah FC",
+      "matchTime": "2026-10-20 15:10 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Al Taawon vs Al-Qadisiyah FC Prediction: League Leaders' Firepower vs Winless Hosts — Scoreline Preview",
+    "coreRecommendation": "Al-Qadisiyah FC's league-leading attack and defensive stability will comfortably overwhelm winless Al Taawon.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Al-Qadisiyah are expected to establish dominance either in the opening half or break through decisively after the interval.",
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Al-Qadisiyah hold overwhelming superiority in underlying form, scoring efficiency, and rest advantage.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Three goals represents the modal outcome of visitor attacking momentum, with two goals as a controlled alternative.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Al-Qadisiyah's dominant away scoring capabilities against an Al Taawon unit averaging just 0.44 goals scored.",
+        "selection": [
+          "0:3",
+          "0:2"
+        ]
+      },
+      "league": "Saudi Pro League",
+      "matchId": "1603061",
+      "awayTeam": "Al-Qadisiyah FC",
+      "homeTeam": "Al Taawon",
+      "fixtureId": 1603061,
+      "match_time": "15:10",
+      "over_under": {
+        "comment": "Combined lambda expectancy of 2.89 and away attack averaging 2.56 goals per game point to an open contest.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "League-leading Al-Qadisiyah face winless hosts Al Taawon amidst huge rest disparity"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Away Win driven by dominant midfield progression and clinical finishing (Confidence: High, Value: High)",
+      "Over 2.5 Total Goals capitalizing on Al Taawon's defensive fatigue (Confidence: Moderate, Value: High)",
+      "0:2 / 0:3 clean-sheet away victory reflecting visitor defensive solidity (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-20 18:05:54 UTC"
+  }
+}
