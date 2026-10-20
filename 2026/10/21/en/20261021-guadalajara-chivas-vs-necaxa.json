@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551004,
+    "matchup": "Guadalajara Chivas vs Necaxa",
+    "home_team": "Guadalajara Chivas",
+    "away_team": "Necaxa",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-21 00:07:00",
+    "source_url": "https://xgmind.com/matches/20261021-guadalajara-chivas-vs-necaxa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guadalajara Chivas vs Necaxa Prediction: Tactical Breakdown & Defensive Mismatch — XG Mind AI",
+    "meta": {
+      "matchId": "1551004",
+      "league": "Liga MX",
+      "matchup": "Guadalajara Chivas vs Necaxa",
+      "matchTime": "2026-10-21 00:07 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Guadalajara Chivas are projected to break their four-match winless spell by exploiting Necaxa's league-worst defense for a multi-goal home victory.",
+    "possibilityAssessment": [
+      "Guadalajara Chivas Home Win through second-half tactical dominance and wing overloads (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals as Necaxa's 2.00 conceded xGA per game invites heavy box penetration (Confidence: Moderate, Value: High)",
+      "Guadalajara Chivas 2:0 Clean Sheet Win if early territorial control suffocates Necaxa's isolated counters (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551004",
+      "league": "Liga MX",
+      "homeTeam": "Guadalajara Chivas",
+      "awayTeam": "Necaxa",
+      "match_time": "00:07",
+      "match_highlight": "Chivas seek crucial home victory against leaky Necaxa backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551004,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Chivas' commanding historical home record and Necaxa's 25 conceded goals make a home victory the primary convergence point."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goals baseline of 3.38 and Necaxa's 2.00 conceded xGA strongly support an open contest exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 scoreline represents the peak Poisson density, with 2:0 serving as the principal clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The Poisson distribution concentrates heavily on 3 goals (21.9%) and 2 goals (19.4%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Chivas' late acceleration pattern against low blocks favors Draw-Win, with Win-Win covering an aggressive opening surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 12:16:29 UTC"
+}
