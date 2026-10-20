@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606715,
+    "matchup": "Tochigi City vs Fujieda MYFC",
+    "home_team": "Tochigi City",
+    "away_team": "Fujieda MYFC",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-tochigi-city-vs-fujieda-myfc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tochigi City vs Fujieda MYFC Prediction: Tactical Clash & Form Analysis — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1606715",
+      "league": "J2 League",
+      "matchup": "Tochigi City vs Fujieda MYFC",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fujieda MYFC's organized 3-4-2-1 defensive compactness will neutralize Tochigi City's high-tempo home aggression, pointing toward a 1:1 stalemate or narrow 1:2 away victory.",
+    "possibilityAssessment": [
+      "Stalemate trajectory where Fujieda's back three absorbs early home pressure leading to a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Late transition counter-punch resulting in a 1:2 Fujieda MYFC away victory (Confidence: Moderate, Value: Moderate)",
+      "Tochigi City early wing overload yielding a narrow 2:1 home triumph (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606715",
+      "league": "J2 League",
+      "homeTeam": "Tochigi City",
+      "awayTeam": "Fujieda MYFC",
+      "match_time": "10:00",
+      "match_highlight": "Makino's frugal defense clashes with Tochigi's high-octane home attacking pressure",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606715,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Compound selection covers the high-probability 1:1 stalemate alongside Fujieda's 1:2 counter-attacking away win script, which a single pick would insufficiently represent."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Fujieda MYFC's average concession of just 1.00 goal per game and four consecutive Under 2.5 results suppress overall goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 deadlock represents the natural meeting point of Tochigi's home scoring and Fujieda's defensive resilience, with 1:2 as the primary transition alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Scoring distribution peaks at 2 goals (1:1), followed by 3 goals should a late counter-attack materialize."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Fujieda's disciplined away structure typically forces parity at halftime before game management or late transition quality decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:17:30 UTC"
+}
