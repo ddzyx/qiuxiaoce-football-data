@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556110,
+    "matchup": "Yokohama F. Marinos vs Tokyo Verdy",
+    "home_team": "Yokohama F. Marinos",
+    "away_team": "Tokyo Verdy",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-yokohama-f-marinos-vs-tokyo-verdy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama F. Marinos vs Tokyo Verdy Prediction: Can Verdy Halt Corica's Flank Overloads? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556110",
+      "league": "J1 League",
+      "matchup": "Yokohama F. Marinos vs Tokyo Verdy",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Yokohama F. Marinos are primed for a comfortable home victory against a winless, toothless Tokyo Verdy side missing key striker Itsuki Someno.",
+    "possibilityAssessment": [
+      "Yokohama F. Marinos Win (Confidence: High, Value: High)",
+      "Under 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "Yokohama F. Marinos Clean Sheet Win 2:0 or 1:0 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556110",
+      "league": "J1 League",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "Tokyo Verdy",
+      "match_time": "10:00",
+      "match_highlight": "Marinos wing overloads target Verdy's depleted defense in Tokyo derby clash",
+      "ai_confidence": "High",
+      "fixtureId": 1556110,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Yokohama F. Marinos hold decisive form, xG, and defensive advantages over winless Tokyo Verdy who are missing suspended striker Someno."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Tokyo Verdy score only 0.4 goals per game, driving a commanding 62.3% model probability toward Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Reflects Marinos' reliable 1.3 goals/game attack and 6 clean sheets against Verdy's non-existent attack."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The top two Poisson probability densities condense heavily on low totals of 2 goals (26.8%) and 1 goal (24.4%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Verdy's initial low block may hold until halftime before Marinos' superior quality and depth breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:08:32 UTC"
+}
