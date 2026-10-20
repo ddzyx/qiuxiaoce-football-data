@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563822,
+    "matchup": "Northampton vs Tranmere",
+    "home_team": "Northampton",
+    "away_team": "Tranmere",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-northampton-vs-tranmere/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Northampton vs Tranmere Prediction & Match Analysis: Can Cobblers Breach Rovers' Block? — xG Preview",
+    "meta": {
+      "matchId": "1563822",
+      "league": "League Two",
+      "matchup": "Northampton vs Tranmere",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Northampton to avoid defeat at Sixfields in a tight, defensively dominated League Two clash falling comfortably Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Northampton 1:0 narrow home victory via transitional breakthrough (Confidence: Moderate, Value: High)",
+      "1:1 tactical stalemate driven by Tranmere's chronic draw profile (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total match goals anchored by low-block defensive structures (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563822",
+      "league": "League Two",
+      "homeTeam": "Northampton",
+      "awayTeam": "Tranmere",
+      "match_time": "18:45",
+      "match_highlight": "Northampton's resolute backline confronts Tranmere's road stalemate tendency at Sixfields.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563822,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Northampton's home edge and unbeaten H2H run alongside Tranmere's high 54.5% draw tendency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by Northampton conceding just 0.78 goals per match and extreme territorial containment."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents the primary home transition victory, while 1:1 reflects Rovers' resilient stalemate baseline."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution and lower-league metrics heavily compress total scoring within one or two goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Attritional opening halves point to a level interval before second-half adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 06:58:35 UTC"
+}
