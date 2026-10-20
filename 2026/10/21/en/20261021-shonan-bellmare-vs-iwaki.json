@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606714,
+    "matchup": "Shonan Bellmare vs Iwaki",
+    "home_team": "Shonan Bellmare",
+    "away_team": "Iwaki",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-shonan-bellmare-vs-iwaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shonan Bellmare vs Iwaki Prediction & Match Analysis: Deadlock Risk vs Counter Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1606714",
+      "league": "J2 League",
+      "matchup": "Shonan Bellmare vs Iwaki",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shonan Bellmare's elite defensive organization and J1-pedigree game management will contain Iwaki's high-variance vertical assault, pointing toward a 1:1 stalemate or narrow 2:1 home triumph under a resilient Home Win / Draw framework.",
+    "possibilityAssessment": [
+      "Tactical Stalemate Vector: Shonan Bellmare's low-margin structure produces another characteristic 1:1 draw against Iwaki's aggressive front (Confidence: Moderate, Value: High)",
+      "Home Transition Edge: Shonan exploit Iwaki's over-extended high defensive line late to secure a hard-fought 2:1 victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals Barrier: Shonan's disciplined back three restricts Iwaki to low-probability shooting angles in a controlled encounter (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606714",
+      "league": "J2 League",
+      "homeTeam": "Shonan Bellmare",
+      "awayTeam": "Iwaki",
+      "match_time": "10:00",
+      "match_highlight": "Shonan's defensive resilience confronts Iwaki's high-variance vertical assault in Kanagawa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606714,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Shonan Bellmare have suffered just one league defeat all season while drawing six of eleven fixtures, making Home Win / Draw the necessary dual-coverage selection against Iwaki's zero-draw volatility."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Shonan Bellmare's league fixtures average exactly 2.00 total goals with only 10 conceded in 11 matches, successfully containing Iwaki's open-play volume under the 2.5 ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw represents the primary probabilistic convergence following Shonan's run of four 1-1 draws in five matches, with 2:1 providing the home-win alternative branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the single highest Poisson baseline density (24.2%), closely followed by three goals (22.2%) should Iwaki force a late open game state."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Shonan's disciplined opening shape projects a balanced, low-scoring first half, leading naturally to either a sustained Draw-Draw conclusion or a late Draw-Win home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:15:04 UTC"
+}
