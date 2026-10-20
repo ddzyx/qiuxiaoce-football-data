@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556106,
+    "matchup": "Fagiano Okayama vs Mito Hollyhock",
+    "home_team": "Fagiano Okayama",
+    "away_team": "Mito Hollyhock",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-fagiano-okayama-vs-mito-hollyhock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fagiano Okayama vs Mito Hollyhock Prediction: Can Okayama Breach Mito's Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556106",
+      "league": "J1 League",
+      "matchup": "Fagiano Okayama vs Mito Hollyhock",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fagiano Okayama's underlying defensive metrics and territorial dominance favor a controlled home display, with Home Win / Draw and Under 2.5 representing the optimal probabilistic path.",
+    "possibilityAssessment": [
+      "Okayama breaks through Mito's low block via wide overloads to secure a narrow 1:0 victory (Confidence: Moderate, Value: High)",
+      "Mito Hollyhock's rigid two-bank defensive block frustrates Okayama into a low-scoring 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Okayama capitalizes on late defensive fatigue to extend a second-half lead into a controlled 2:0 result (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556106",
+      "league": "J1 League",
+      "homeTeam": "Fagiano Okayama",
+      "awayTeam": "Mito Hollyhock",
+      "match_time": "10:00",
+      "match_highlight": "Okayama's structured attack tests Hollyhock's resilient low-block defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556106,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Okayama's superior +0.9 xGD underlying metrics warrant favoritism, while Hollyhock's stubborn low block makes draw coverage essential."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides operate with sub-45% possession averages and have produced five consecutive Under 2.5 head-to-head encounters."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A disciplined 1:0 home victory represents the primary convergence, backed by a 1:1 stalemate as the main low-block contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Tight midfield friction and limited open-play transition space concentrate probability heavily on 2 and 1 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Mito's disciplined first-half shape points toward a level interval before Okayama's depth applies decisive second-half pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:06:36 UTC"
+}
