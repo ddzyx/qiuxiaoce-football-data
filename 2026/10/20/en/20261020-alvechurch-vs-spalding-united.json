@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646583,
+    "matchup": "Alvechurch vs Spalding United",
+    "home_team": "Alvechurch",
+    "away_team": "Spalding United",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-alvechurch-vs-spalding-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Alvechurch vs Spalding United Prediction: Can Okafor Repeat FA Cup Miracle? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1646583",
+      "league": "FA Cup",
+      "matchup": "Alvechurch vs Spalding United",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Spalding United's Step 2 technical edge balances against Alvechurch's ferocious home resilience, pointing toward a low-margin regulation deadlock or narrow away progression.",
+    "possibilityAssessment": [
+      "Regulation Draw via 1:1 deadlock pushing tie to extra time (Confidence: Moderate, Value: High)",
+      "Spalding United edge a narrow 2:1 away victory on late transition (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals materialized through fatigue and cup caution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646583",
+      "league": "FA Cup",
+      "homeTeam": "Alvechurch",
+      "awayTeam": "Spalding United",
+      "match_time": "18:45",
+      "match_highlight": "High-stakes replay with Plymouth Argyle awaiting the victor in Round One.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646583,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-density regulation draw and Spalding United's Step 2 quality advantage in late transitions."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Short turnaround and massive prize create tactical risk aversion, suppressing regulation goal volume."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Primary 1:1 deadlock captures mutual cancellation, while 1:2 represents Spalding's late bench superiority."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Anticipates a tight 2-goal regulation contest with 3 goals serving as the primary alternative branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw reflects disciplined first-half parity, while Draw-Loss accounts for late road separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 07:36:19 UTC"
+}
