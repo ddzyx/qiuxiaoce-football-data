@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556107,
+    "matchup": "Shimizu S-pulse vs Machida Zelvia",
+    "home_team": "Shimizu S-pulse",
+    "away_team": "Machida Zelvia",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-shimizu-s-pulse-vs-machida-zelvia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shimizu S-pulse vs Machida Zelvia Prediction: Can Kuroda's Defense Hold Nihondaira? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556107",
+      "league": "J1 League",
+      "matchup": "Shimizu S-pulse vs Machida Zelvia",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Machida Zelvia's disciplined high block and superior set-piece conversion will exploit Shimizu S-pulse's vulnerable defensive transitions to secure an away victory.",
+    "possibilityAssessment": [
+      "Machida Zelvia control transitions to claim a 1:2 or 0:2 victory (Confidence: Moderate, Value: High)",
+      "High-tempo exchanges push match total to Over 2.5 goals via second-half strikes (Confidence: Moderate, Value: Moderate)",
+      "Shimizu S-pulse low block forces a tight first-half stalemate before conceding (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556107",
+      "league": "J1 League",
+      "homeTeam": "Shimizu S-pulse",
+      "awayTeam": "Machida Zelvia",
+      "match_time": "10:00",
+      "match_highlight": "Machida Zelvia aim to consolidate top-two standing against Shimizu S-pulse at Nihondaira.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556107,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Machida Zelvia's superior xG differential (+4.2) and clinical vertical counters provide a decisive edge against Shimizu S-pulse's shaky backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.80 and Machida's 2.5 goals-per-game average favor a dynamic clash exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 victory reflects Machida's offensive firepower while allowing for Shimizu's home resistance, with 0:2 as a clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution peaks around 2 and 3 total goals given Machida's strong scoring pace and Shimizu's defensive leakage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A level opening period followed by Machida's second-half breakthrough represents the primary chronological trajectory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:08:11 UTC"
+}
