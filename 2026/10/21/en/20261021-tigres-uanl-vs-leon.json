@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551005,
+    "matchup": "Tigres UANL vs Leon",
+    "home_team": "Tigres UANL",
+    "away_team": "Leon",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-21 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-tigres-uanl-vs-leon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tigres UANL vs Leon Prediction & Match Analysis: Brunetta Ban & xG Dilemma — Scoreline Preview",
+    "meta": {
+      "matchId": "1551005",
+      "league": "Liga MX",
+      "matchup": "Tigres UANL vs Leon",
+      "matchTime": "2026-10-21 03:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tigres UANL double chance (Home Win / Draw) backed by a 2:1 primary scoreline as home dominance overcomes Brunetta's suspension against Leon's fragile backline.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capturing Tigres' fortress advantage at El Volcán while hedging creative drop-off without Brunetta (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by Leon conceding 2.03 xGA per game and a combined lambda expectation of 2.95 (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate contingency if Tigres' makeshift attack fails to penetrate Leon's low block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551005",
+      "league": "Liga MX",
+      "homeTeam": "Tigres UANL",
+      "awayTeam": "Leon",
+      "match_time": "03:00",
+      "match_highlight": "Tigres defend El Volcan fortress without suspended playmaker Juan Brunetta",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551005,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Tigres remain unbeaten at home against Leon's porous 2.03 xGA defense, but Brunetta's suspension warrants draw protection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.95 and Leon conceding 1.9 goals per match support an open three-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 represents home control over Leon's backline, while 1:1 hedges potential creative stagnation without Brunetta."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns directly with the primary 2:1 result, while 2 goals covers the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half without Brunetta gives way to second-half breakthroughs or an attritional draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 15:11:16 UTC"
+}
