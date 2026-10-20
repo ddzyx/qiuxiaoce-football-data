@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564368,
+    "matchup": "Blackpool vs Milton Keynes Dons",
+    "home_team": "Blackpool",
+    "away_team": "Milton Keynes Dons",
+    "league": "League One",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-blackpool-vs-milton-keynes-dons/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Blackpool vs Milton Keynes Dons Prediction & Match Analysis: Relegation Six-Pointer — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564368",
+      "league": "League One",
+      "matchup": "Blackpool vs Milton Keynes Dons",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Milton Keynes Dons are positioned to exploit Blackpool's severely depleted central defense to secure a point or better in a tight lower-table battle.",
+    "possibilityAssessment": [
+      "Stalemate scenario where MK Dons' low block frustrates Blackpool into a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Transitional smash-and-grab seeing Aaron Collins fire MK Dons to a 2:1 away win (Confidence: Moderate, Value: High)",
+      "Low-scoring physical attrition producing Under 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564368",
+      "league": "League One",
+      "homeTeam": "Blackpool",
+      "awayTeam": "Milton Keynes Dons",
+      "match_time": "18:45",
+      "match_highlight": "Depleted Blackpool defense faces red-hot Aaron Collins in Bloomfield Road dogfight.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564368,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate driven by MK Dons' 6 league draws and the secondary 1:2 away upset via transition counters."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by historical 1.2 H2H goals per game, MK Dons' low shot accuracy, and referee Jamie Robinson's high foul interruptions."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the natural deadlock point between two struggling sides, while 1:2 accounts for Blackpool's league-worst 4.8 big chances conceded."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals reflects the core 1:1 projection, while 3 goals accommodates the secondary 1:2 transition script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half is projected to produce a level interval scoreline before opening up in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 07:25:50 UTC"
+}
