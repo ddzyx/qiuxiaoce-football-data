@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606708,
+    "matchup": "Tokushima Vortis vs Vanraure Hachinohe",
+    "home_team": "Tokushima Vortis",
+    "away_team": "Vanraure Hachinohe",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-tokushima-vortis-vs-vanraure-hachinohe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tokushima Vortis vs Vanraure Hachinohe Prediction: Low-Block vs Counter Threat — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1606708",
+      "league": "J2 League",
+      "matchup": "Tokushima Vortis vs Vanraure Hachinohe",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tokushima Vortis to leverage superior territorial control and midfield progression against Vanraure Hachinohe's fragile defensive block in a hard-fought 2:1 home victory.",
+    "possibilityAssessment": [
+      "Tokushima breaks through Hachinohe's low block via second-half pressure to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Tokushima dominates possession but suffers finishing wastefulness, allowing Hachinohe a 1:1 counter-attack stalemate (Confidence: Moderate, Value: Moderate)",
+      "Hachinohe converts early direct transition through William Owie, forcing Tokushima into an erratic chase (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606708",
+      "league": "J2 League",
+      "homeTeam": "Tokushima Vortis",
+      "awayTeam": "Vanraure Hachinohe",
+      "match_time": "10:00",
+      "match_highlight": "Tokushima possession control clashes with Hachinohe's high-concession counter-attacking setup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606708,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Tokushima's structural possession and Hachinohe's 20-goal defensive vulnerability establish the home win as primary, while Vortis's conversion variance warrants retaining the draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined model lambda of 3.00 and Hachinohe's porous defense favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects sustained home dominance; secondary 1:1 accounts for finishing variance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution peaks equally at 3 and 2 goals (22.4% each)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half gives way to Tokushima's second-half territorial breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:11:00 UTC"
+}
