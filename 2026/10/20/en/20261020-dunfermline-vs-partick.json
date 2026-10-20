@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556863,
+    "matchup": "Dunfermline vs Partick",
+    "home_team": "Dunfermline",
+    "away_team": "Partick",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-dunfermline-vs-partick/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dunfermline vs Partick Prediction & Match Analysis: Can Pars Crack Jags' Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556863",
+      "league": "Championship",
+      "matchup": "Dunfermline vs Partick",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Partick Thistle's division-best defense and rest advantage make Draw / Away Win the premier directional stance in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Partick capitalize on transition to secure a classic 0-1 road win (Confidence: Moderate, Value: High)",
+      "Dunfermline dominate territory but are held to an attritional 1-1 draw (Confidence: Moderate, Value: Moderate)",
+      "Dunfermline set-piece breakthrough triggers a low-scoring 1-0 home victory (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556863",
+      "league": "Championship",
+      "homeTeam": "Dunfermline",
+      "awayTeam": "Partick",
+      "match_time": "18:45",
+      "match_highlight": "Partick's elite defense tests Dunfermline's misfiring attack at East End Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556863,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Partick are unbeaten in seven against Dunfermline and have conceded just three goals in ten league matches, covering both the 0-1 away win and 1-1 draw scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined model goal expectancy of 1.37 strongly aligns with both teams' defensive records (0.56 and 0.30 GA/game)."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0-1 Partick counter-attacking victory serves as primary anchor, while a 1-1 stalemate covers Dunfermline's high draw frequency."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One goal is the single most probable total (34.8%), with two goals representing the natural secondary distribution branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A scoreless opening 45 minutes precedes a second-half resolution favoring Partick or concluding in shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 06:51:17 UTC"
+}
