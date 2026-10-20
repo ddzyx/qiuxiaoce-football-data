@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635688,
+    "matchup": "Liverpool vs Villarreal",
+    "home_team": "Liverpool",
+    "away_team": "Villarreal",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-10-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261020-liverpool-vs-villarreal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Liverpool vs Villarreal Prediction: Can Iraola Breach Submarine Defense? — XG Mind AI Analysis",
+    "meta": {
+      "matchId": "1635688",
+      "league": "UEFA Champions League",
+      "matchup": "Liverpool vs Villarreal",
+      "matchTime": "2026-10-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Liverpool are projected to overcome defensive transition hurdles and capitalize on Villarreal's road vulnerabilities to secure a 2:1 victory at Anfield.",
+    "possibilityAssessment": [
+      "Liverpool overcome full-back injuries to break down Villarreal's low block via half-space overloads (Confidence: Moderate, Value: High)",
+      "High match tempo and transitional leakage produce Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Villarreal hold a compact stalemate at half-time before succumbing to second-half pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635688",
+      "league": "UEFA Champions League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Villarreal",
+      "match_time": "19:00",
+      "match_highlight": "Anfield European pedigree confronts Yellow Submarine away defensive fragilities.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635688,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Liverpool's overwhelming home European pedigree and Villarreal's six-match UCL away losing streak decisively favor a home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Villarreal's 2.25 conceded xGA per match and Liverpool's prolific home scoring support an open contest exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory reflects Liverpool's attacking edge alongside transition vulnerability, while 2:0 represents the controlled defensive variant."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals providing coverage for a conservative game script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Villarreal's initial compact resistance points toward a level first half before Liverpool's superior bench secures the win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 08:02:40 UTC"
+}
