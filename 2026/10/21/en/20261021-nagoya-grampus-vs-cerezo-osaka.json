@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556105,
+    "matchup": "Nagoya Grampus vs Cerezo Osaka",
+    "home_team": "Nagoya Grampus",
+    "away_team": "Cerezo Osaka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-nagoya-grampus-vs-cerezo-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nagoya Grampus vs Cerezo Osaka Prediction: Transition Flaws & xG Duel — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1556105",
+      "league": "J1 League",
+      "matchup": "Nagoya Grampus vs Cerezo Osaka",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nagoya Grampus are positioned to avoid defeat against a defensively fragile Cerezo Osaka in a competitive encounter featuring goals for both sides.",
+    "possibilityAssessment": [
+      "Nagoya Grampus break down Cerezo's leaky defense in the second half to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Cerezo Osaka absorb sustained home pressure and earn a 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)",
+      "High attacking pace pushes total goals Over 2.5 across a wide-open transition battle (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556105",
+      "league": "J1 League",
+      "homeTeam": "Nagoya Grampus",
+      "awayTeam": "Cerezo Osaka",
+      "match_time": "10:00",
+      "match_highlight": "Nagoya's offensive surge confronts Cerezo's leaky transition defense at Toyota Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556105,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Nagoya Grampus hold superior attacking form against Cerezo Osaka's porous backline, but mid-table point parity warrants draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.65 lambda total expectancy and mutual 1.60 conceded goals per match indicate strong probability for at least three goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 home victory represents the leading attacking trajectory, while 1:1 reflects the baseline Poisson modal density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 outcome, while two goals accommodates the 1:1 deadlock scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half is projected to give way to late second-half acceleration driven by Nagoya's superior squad depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:06:10 UTC"
+}
