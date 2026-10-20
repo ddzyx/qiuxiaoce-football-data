@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563819,
+    "matchup": "Crawley Town vs Shrewsbury",
+    "home_team": "Crawley Town",
+    "away_team": "Shrewsbury",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-crawley-town-vs-shrewsbury/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Crawley Town vs Shrewsbury: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1563819",
+      "league": "League Two",
+      "matchup": "Crawley Town vs Shrewsbury",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back the compound Draw / Away Win direction anchored by an Under 2.5 total goal projection in a tight, low-scoring battle.",
+    "possibilityAssessment": [
+      "Shrewsbury grind out a 1-0 away win via second-half transition or set piece (Confidence: Moderate, Value: High)",
+      "Crawley Town salvage a low-scoring 1-1 stalemate through late home pressure (Confidence: Moderate, Value: Moderate)",
+      "Goalless 0-0 defensive war of attrition repeating last season's Broadfield fixture (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563819",
+      "league": "League Two",
+      "homeTeam": "Crawley Town",
+      "awayTeam": "Shrewsbury",
+      "match_time": "18:45",
+      "match_highlight": "Bottom-placed Crawley host resilient Shrewsbury in a pivotal League Two tactical battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563819,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Shrewsbury edging a 1-0 win and a 1-1 stalemate, reflecting Crawley's winless form and visitor road caution."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides possess subdued xG creation rates, aligning with historical Broadfield stalemates and low box-entry numbers."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "The primary 0:1 score reflects Shrewsbury's defensive resilience, while 1:1 accounts for late home desperation."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Exact totals of 1 and 2 goals capture over 55% of Poisson expectancy density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half gives way to either a decisive late Shrewsbury winner or a shared full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 06:57:33 UTC"
+}
