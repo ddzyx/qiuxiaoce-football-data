@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564367,
+    "matchup": "AFC Wimbledon vs Mansfield Town",
+    "home_team": "AFC Wimbledon",
+    "away_team": "Mansfield Town",
+    "league": "League One",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-afc-wimbledon-vs-mansfield-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling AFC Wimbledon vs Mansfield Town: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1564367",
+      "league": "League One",
+      "matchup": "AFC Wimbledon vs Mansfield Town",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AFC Wimbledon are projected to maintain their unbeaten Plough Lane record via Home Win / Draw in an encounter heavily anchored toward Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Tactical stalemate with balanced second-half scoring culminating in a 1:1 draw (Confidence: Moderate, Value: High)",
+      "AFC Wimbledon low-block masterclass yielding a classic 1:0 home shutout (Confidence: Moderate, Value: Moderate)",
+      "Mansfield Town possession control choking out transition space in a cagey 0:0 deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564367",
+      "league": "League One",
+      "homeTeam": "AFC Wimbledon",
+      "awayTeam": "Mansfield Town",
+      "match_time": "18:45",
+      "match_highlight": "Wimbledon home fortress meets Mansfield winless road record amidst missing key strikers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564367,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Captures the leading 1:1 stalemate alongside Wimbledon's established 1:0 home shutout trajectory while respecting Mansfield's road win drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Severely compressed combined xG metrics and key absences to Stevens and Akins firmly favor a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 reflects balanced midfield attrition, while 1:0 honors Wimbledon's pristine home clean-sheet record."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A 2-goal ceiling represents the most probable outcome, followed closely by a single-goal attrition script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Expect a scoreless opening 45 minutes as both sides prioritize defensive structure before second-half adjustments."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 07:06:51 UTC"
+}
