@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564373,
+    "matchup": "Huddersfield vs Peterborough",
+    "home_team": "Huddersfield",
+    "away_team": "Peterborough",
+    "league": "League One",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-huddersfield-vs-peterborough/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Huddersfield vs Peterborough Prediction: Can Terriers Punish Savage-Ball? — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1564373",
+      "league": "League One",
+      "matchup": "Huddersfield vs Peterborough",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Huddersfield Town to exploit Peterborough's open transitional structure and secure a regulation home victory.",
+    "possibilityAssessment": [
+      "Huddersfield control tempo and punish defensive transitions to win 2:1 (Confidence: Moderate, Value: High)",
+      "Open match state leads to late counter-attacking goals pushing total Over 2.5 in a 3:1 win (Confidence: Moderate, Value: High)",
+      "Peterborough mount a furious high-tempo fightback to snatch a 2:2 draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564373",
+      "league": "League One",
+      "homeTeam": "Huddersfield",
+      "awayTeam": "Peterborough",
+      "match_time": "18:45",
+      "match_highlight": "Unbeaten home promotion contenders clash with Savage's revitalized, goal-heavy Posh side.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564373,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Huddersfield's defensive organization and home form outweigh Peterborough's chaotic attacking resurgence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Peterborough's high-tempo setup combined with Huddersfield's 1.8 goals per home game strongly favors Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary tactical convergence point, with 3:1 covering late transition breaks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring dynamics project 3 goals as the modal outcome with 4 goals serving as the primary expansion scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Peterborough's opening pressing energy should keep the first half competitive before Huddersfield pull clear."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 07:16:19 UTC"
+}
