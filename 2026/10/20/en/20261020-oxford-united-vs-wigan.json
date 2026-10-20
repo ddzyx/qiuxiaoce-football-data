@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564376,
+    "matchup": "Oxford United vs Wigan",
+    "home_team": "Oxford United",
+    "away_team": "Wigan",
+    "league": "League One",
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-oxford-united-vs-wigan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Oxford United vs Wigan Prediction & Match Analysis: U's Attacking Edge vs Latics — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564376",
+      "league": "League One",
+      "matchup": "Oxford United vs Wigan",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Oxford United's superior attacking potency and Wigan's defensive suspensions point toward a decisive home victory at the Kassam Stadium.",
+    "possibilityAssessment": [
+      "Oxford United control territory and capitalize on Wigan defensive absences (Confidence: Moderate, Value: High)",
+      "Multi-goal match script driven by Oxford home scoring volume exceeding 2.5 goals (Confidence: Moderate, Value: Moderate)",
+      "Wigan low-block resistance creates low-scoring draw branch (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564376",
+      "league": "League One",
+      "homeTeam": "Oxford United",
+      "awayTeam": "Wigan",
+      "match_time": "18:45",
+      "match_highlight": "High-scoring Oxford host travel-weary Wigan at Grenoble Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564376,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Oxford United's superior firepower and Wigan's travel paralysis make a regulation home victory the primary expectation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Oxford's high box-entry rate paired with Wigan's makeshift backline favors an open contest crossing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the modal convergence point, with 2:0 serving as the controlled clean-sheet secondary alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary statistical distribution peak, closely shadowed by a two-goal script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Wigan's stubborn early containment is expected to hold level until halftime before Oxford's quality breaks through."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 07:41:47 UTC"
+}
