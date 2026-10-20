@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606713,
+    "matchup": "Ventforet Kofu vs Yokohama FC",
+    "home_team": "Ventforet Kofu",
+    "away_team": "Yokohama FC",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-ventforet-kofu-vs-yokohama-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ventforet Kofu vs Yokohama FC Prediction: Can Kofu Halt Adaílton's Pace? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1606713",
+      "league": "J2 League",
+      "matchup": "Ventforet Kofu vs Yokohama FC",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Yokohama FC's superior attacking quality and transitional speed will exploit Ventforet Kofu's severely depleted defense to secure an away victory.",
+    "possibilityAssessment": [
+      "Yokohama FC breaks down Kofu's makeshift backline to claim a clinical 1:2 road victory (Confidence: Moderate, Value: High)",
+      "High match tempo and transitional errors push total goals Over 2.5 (Confidence: High, Value: Moderate)",
+      "Kofu establishes an initial defensive low block before succumbing in the second half via Draw-Loss trend (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606713",
+      "league": "J2 League",
+      "homeTeam": "Ventforet Kofu",
+      "awayTeam": "Yokohama FC",
+      "match_time": "10:00",
+      "match_highlight": "Yokohama FC's high-powered attack confronts Ventforet Kofu's injury-ravaged defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606713,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Yokohama FC holds an insurmountable quality and historical advantage over a Kofu defense conceding over two goals per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.25 and Kofu's 0% clean sheet rate strongly support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away victory represents the primary tactical convergence point, with an authoritative 0:2 win as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model probabilities allocate 22.2% density to exactly 3 goals and 20.5% to exactly 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Kofu's early resistance is projected to hold until halftime before Yokohama FC's bench and offensive quality prevail in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:14:54 UTC"
+}
