@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1564374,
+    "matchup": "Luton vs Barnsley",
+    "home_team": "Luton",
+    "away_team": "Barnsley",
+    "league": null,
+    "kickoff_utc": "2026-10-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261020-luton-vs-barnsley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "League One",
+      "matchId": "1564374",
+      "matchup": "Luton vs Barnsley",
+      "matchTime": "2026-10-20 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Luton vs Barnsley Prediction & Match Analysis: High-Press xG Edge at Kenilworth Road — Scoreline Preview",
+    "coreRecommendation": "Luton's superior chance creation and aggressive counter-press will exploit Barnsley's disorganized backline to secure a high-scoring home win.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Barnsley's early possession resistance is expected to yield to Luton's relentless pressure in the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Luton's decisive 1.62 xG creation and +86 Elo advantage firmly outclass Barnsley's four-match losing run.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three and four total goals represent the dominant probability density nodes totaling over 40%.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "Luton hold ample firepower to net two or more goals against Barnsley's porous defense while conceding once.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "League One",
+      "matchId": "1564374",
+      "awayTeam": "Barnsley",
+      "homeTeam": "Luton",
+      "fixtureId": 1564374,
+      "match_time": "18:45",
+      "over_under": {
+        "comment": "A 3.33 lambda total and mutual 1.89 goals conceded averages point strongly toward three or more goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Luton high-press meets Barnsley's leaky road backline at Kenilworth Road."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win via high-press transition dominance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals due to elevated mutual concession metrics (Confidence: High, Value: Moderate)",
+      "Score Draw hedge in the event of home finishing wastefulness (Confidence: Low, Value: Low)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "2-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-20 21:15:26 UTC"
+  }
+}
