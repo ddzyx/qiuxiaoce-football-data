@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606712,
+    "matchup": "Vegalta Sendai vs Imabari",
+    "home_team": "Vegalta Sendai",
+    "away_team": "Imabari",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261021-vegalta-sendai-vs-imabari/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vegalta Sendai vs Imabari Prediction: Can Leaders Pierce Visitors' Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1606712",
+      "league": "J2 League",
+      "matchup": "Vegalta Sendai vs Imabari",
+      "matchTime": "2026-10-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vegalta Sendai's league-leading defense and territorial dominance support a controlled home victory against defensively porous Imabari.",
+    "possibilityAssessment": [
+      "Sendai controlled multi-goal clean sheet win (Confidence: Moderate, Value: High)",
+      "Sendai narrow victory with away transition counter (Confidence: Moderate, Value: Moderate)",
+      "Imabari low-block defensive stalemate hedge (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606712",
+      "league": "J2 League",
+      "homeTeam": "Vegalta Sendai",
+      "awayTeam": "Imabari",
+      "match_time": "10:00",
+      "match_highlight": "League leaders Sendai face relegation-threatened Imabari at Yurtec Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606712,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sendai's league-leading defense (0.73 conceded/match) provides an overwhelming structural edge against an Imabari side that has leaked 22 goals in 11 rounds."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sendai's defensive suppression and game-management control strongly favor an Under 2.5 outcome aligned with a 2:0 scoreline."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A methodical 2:0 Sendai clean sheet serves as the primary anchor, with a 2:1 home victory capturing the secondary transition branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the highest-density Poisson convergence, while three goals covers an isolated away strike from Marcus Vinicius."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Sendai's fast home starts point to an early lead, while a second-half breakthrough remains the principal alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-20 22:12:39 UTC"
+}
