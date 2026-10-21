@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635647,
+    "matchup": "Como vs Manchester United",
+    "home_team": "Como",
+    "away_team": "Manchester United",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-10-21 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261021-como-vs-manchester-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Como vs Manchester United: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1635647",
+      "league": "UEFA Champions League",
+      "matchup": "Como vs Manchester United",
+      "matchTime": "2026-10-21 16:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Como's positional cohesion and home dominance hold the advantage over an injury-depleted Manchester United side, pointing toward a 2:1 home victory with a 1:1 stalemate retained as secondary coverage.",
+    "possibilityAssessment": [
+      "Como 2:1 Manchester United: Como exploit an emergency Red Devils central defense to secure a historic Champions League home win (Confidence: Moderate, Value: High)",
+      "Como 1:1 Manchester United: United absorb sustained pressure and utilize transition quality through Bruno Fernandes to escape with a point (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Over 2.5: High chance-creation frequency and defensive miscommunications generate three or more combined goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635647",
+      "league": "UEFA Champions League",
+      "homeTeam": "Como",
+      "awayTeam": "Manchester United",
+      "match_time": "16:45",
+      "match_highlight": "Carrick navigates severe defensive crisis against Fàbregas's high-flying Como",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635647,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Como's dominant home record and United's six-match winless slide support the hosts, with the draw hedge covering United's persistent 1-1 stalemate pattern."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.75 combined goal expectancy and United's makeshift back four favor an open encounter clearing the 2.5 goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory serves as the primary statistical anchor, supported by a secondary 1:1 draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary density peak, closely followed by a two-goal stalemate scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "United are projected to remain competitive through a tight first half before Como's superior continuity tells in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-21 04:48:19 UTC"
+}
