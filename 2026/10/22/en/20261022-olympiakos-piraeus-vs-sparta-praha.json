@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636308,
+    "matchup": "Olympiakos Piraeus vs Sparta Praha",
+    "home_team": "Olympiakos Piraeus",
+    "away_team": "Sparta Praha",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-10-22 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261022-olympiakos-piraeus-vs-sparta-praha/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Olympiakos Piraeus vs Sparta Praha Prediction: Defensive Hegemony Meets Czech Impasse — xG Preview",
+    "meta": {
+      "matchId": "1636308",
+      "league": "UEFA Europa League",
+      "matchup": "Olympiakos Piraeus vs Sparta Praha",
+      "matchTime": "2026-10-22 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Olympiakos Piraeus to secure a controlled home victory against an injury-depleted Sparta Praha side in a low-scoring European encounter.",
+    "possibilityAssessment": [
+      "Olympiakos Piraeus control tempo and secure a clean-sheet victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by Alguacil's elite defensive organization (Confidence: Moderate, Value: High)",
+      "Sparta Praha low-block resilience forces a competitive 1:1 deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636308",
+      "league": "UEFA Europa League",
+      "homeTeam": "Olympiakos Piraeus",
+      "awayTeam": "Sparta Praha",
+      "match_time": "19:00",
+      "match_highlight": "Olympiakos defensive fortress confronts depleted Sparta Praha in Piraeus.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636308,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Olympiakos's five-game winning streak and four straight clean sheets provide decisive superiority over a depleted Sparta side winless in Greece."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.10 goals and severe offensive injuries on both sides strongly support a low-scoring match."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home win represents the model convergence point, with 2:1 acting as the primary set-piece contingency branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 goals capture over 57% of projected game-state outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Sparta's first-half low block points toward a level interval before Olympiakos capitalize on second-half pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-22 07:11:26 UTC"
+}
