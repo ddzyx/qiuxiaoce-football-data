@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636273,
+    "matchup": "Jagiellonia vs Anderlecht",
+    "home_team": "Jagiellonia",
+    "away_team": "Anderlecht",
+    "league": null,
+    "kickoff_utc": "2026-10-22 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261022-jagiellonia-vs-anderlecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636273",
+      "matchup": "Jagiellonia vs Anderlecht",
+      "matchTime": "2026-10-22 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Jagiellonia vs Anderlecht Prediction & Tactical Breakdown: Can Polish Fortress Hold? — Scoreline & xG Preview",
+    "coreRecommendation": "Back Draw / Away Win as Anderlecht's superior structural quality and defensive baseline offset Jagiellonia's European home momentum in a tightly contested affair.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Reflects cautious first-half tactical risk management evolving into either sustained parity or late Belgian quality.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Covers the dominant 1:1 stalemate script and the 1:2 quality-driven away win scenario, avoiding exposure to Jagiellonia's volatile backline.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represent the primary expectation from a tight European encounter, with three goals covering the late-game opening.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "The 1:1 scoreline represents the primary probabilistic convergence node, with 1:2 serving as the leading away quality branch.",
+        "selection": [
+          "1:1",
+          "1:2"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636273",
+      "awayTeam": "Anderlecht",
+      "homeTeam": "Jagiellonia",
+      "fixtureId": 1636273,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "Supported by a combined model lambda of 2.45 goals and Anderlecht's frugal 0.80 goals conceded per match.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Can Jagiellonia's home resilience withstand Anderlecht's desperate quest for European points?"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Primary Thesis: Resilient tactical stalemate terminates in a contested score draw (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Anderlecht's technical superiority and attacking depth snatch a narrow road win (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Jagiellonia exploit transition gaps to protect home fortress advantage (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-3",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-22 21:26:24 UTC"
+  }
+}
