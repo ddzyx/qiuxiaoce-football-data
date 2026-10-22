@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636454,
+    "matchup": "Monaco vs SC Freiburg",
+    "home_team": "Monaco",
+    "away_team": "SC Freiburg",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-10-22 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261022-monaco-vs-sc-freiburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Monaco vs SC Freiburg Prediction & Match Analysis: Tactical Clash at Stade Louis II — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1636454",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Monaco vs SC Freiburg",
+      "matchTime": "2026-10-22 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Monaco hold superior home continuity to edge a dynamic, high-tempo contest, with Home Win / Draw providing optimal risk coverage against German counter-pressing.",
+    "possibilityAssessment": [
+      "Monaco victory driven by central overloads and late fatigue from Freiburg (Confidence: Moderate, Value: High)",
+      "Competitive tactical stalemate resulting in a 1:1 European draw (Confidence: Moderate, Value: Moderate)",
+      "High-scoring two-way contest exceeding the 2.5 goal line (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636454",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Monaco",
+      "awayTeam": "SC Freiburg",
+      "match_time": "19:00",
+      "match_highlight": "Monaco's home scoring prowess clashes with Freiburg's clinical transition threat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636454,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Monaco's primary 2:1 home victory thesis while safeguarding against a disciplined German low-block stalemate (1:1), where Monaco's European home draw history warrants double chance coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Underpinned by a combined lambda expectancy of 3.25 and Freiburg conceding in five consecutive competitive fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Monaco's late attacking pressure, while 1:1 accounts for Freiburg's tactical discipline and set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome of two-way scoring, with two goals covering the lower-variance draw scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight, cagey opening half is expected before Monaco's superior depth and Freiburg's physical fatigue break the deadlock in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-22 07:21:20 UTC"
+}
