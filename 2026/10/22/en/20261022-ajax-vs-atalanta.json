@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636379,
+    "matchup": "Ajax vs Atalanta",
+    "home_team": "Ajax",
+    "away_team": "Atalanta",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-10-22 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261022-ajax-vs-atalanta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ajax vs Atalanta Prediction & Match Analysis: Amsterdam Backline Flaws Meet Sarri's xG Surge — Scoreline Preview",
+    "meta": {
+      "matchId": "1636379",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Ajax vs Atalanta",
+      "matchTime": "2026-10-22 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atalanta's superior vertical chance creation and structural efficiency will exploit an injury-depleted Ajax defense to secure an away victory in an open, high-tempo contest.",
+    "possibilityAssessment": [
+      "Atalanta exploit transitional spaces behind Ajax's advancing full-backs to claim a multi-goal away victory (Confidence: Moderate, Value: High)",
+      "High attacking volume from both sides drives an open contest surpassing 2.5 total goals (Confidence: High, Value: Moderate)",
+      "A tight, contested first half resolves via second-half Bergamo substitutions into a 1:2 or 1:3 away win (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636379",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Ajax",
+      "awayTeam": "Atalanta",
+      "match_time": "19:00",
+      "match_highlight": "Sarri's xG machine targets an injury-depleted Ajax backline in Amsterdam",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636379,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Atalanta's clinical transitional offense outmatches an Ajax side missing key defensive anchors and enduring a 14-match European home winless run against Italian clubs."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined baseline expected goals of 3.55 and Ajax's expansive tactical system heavily favor a match exceeding 2.5 total goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Atalanta's 2.4 lambda expectancy and Ajax's defensive porosity converge naturally on 1:2 and 1:3 away triumphs."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "A 40.4% combined Poisson model probability across three and four total goals underpins an attacking script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Ajax's initial home energy preserves parity through the opening half before Atalanta's depth and structural press break the game open."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-22 07:18:37 UTC"
+}
