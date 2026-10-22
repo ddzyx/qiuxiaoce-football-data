@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636415,
+    "matchup": "Getafe vs FC Lugano",
+    "home_team": "Getafe",
+    "away_team": "FC Lugano",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-10-22 16:45:00",
+    "source_url": "https://xgmind.com/matches/20261022-getafe-vs-fc-lugano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Getafe vs FC Lugano Prediction & Match Analysis: Can Bordalás Stifle Swiss Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1636415",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Getafe vs FC Lugano",
+      "matchTime": "2026-10-22 16:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Getafe to protect home turf in an attritional, low-scoring encounter covered by Home Win / Draw.",
+    "possibilityAssessment": [
+      "Getafe grind out an attritional 1:0 victory via defensive compactness and set-piece execution (Confidence: Moderate, Value: High)",
+      "Lugano utilize midfield technical quality to claim a 1:1 road stalemate against Getafe's depleted attack (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals proves mathematically robust against Getafe's 0.60 goals per match scoring rate (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636415",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Getafe",
+      "awayTeam": "FC Lugano",
+      "match_time": "16:45",
+      "match_highlight": "Bordalás low block meets free-scoring Swiss pace-setters at the Coliseum.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636415,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Getafe's 1:0 defensive masterclass while protecting against Lugano's 1:1 stalemate potential."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Getafe's 36.6% possession and Uche's absence point decisively toward low-scoring attrition."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A classic 1:0 home clean sheet leads, with 1:1 capturing Lugano's dangerous offensive form."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A tight 1-goal or 2-goal ceiling represents over 72% of model distribution density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Getafe's slow-tempo first halves favor goalless intervals before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-22 04:54:35 UTC"
+}
