@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563216,
+    "matchup": "Bolton vs Middlesbrough",
+    "home_team": "Bolton",
+    "away_team": "Middlesbrough",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-23 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-bolton-vs-middlesbrough/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bolton vs Middlesbrough Prediction: Can Trotters Stifle Boro's High-Octane xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563216",
+      "league": "Championship",
+      "matchup": "Bolton vs Middlesbrough",
+      "matchTime": "2026-10-23 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Middlesbrough to secure a regulation away victory in an open encounter where both attacks find the net.",
+    "possibilityAssessment": [
+      "Middlesbrough secure a hard-fought 1:2 road victory driven by superior attacking depth (Confidence: Moderate, Value: Moderate)",
+      "High offensive tempo and defensive lapses push the match total Over 2.5 Goals (Confidence: High, Value: High)",
+      "Late transitional counter-attack allows Middlesbrough to pull away to a 1:3 margin (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563216",
+      "league": "Championship",
+      "homeTeam": "Bolton",
+      "awayTeam": "Middlesbrough",
+      "match_time": "19:00",
+      "match_highlight": "Promotion-chasing Middlesbrough test rested frontline against Bolton's compromised defensive line",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563216,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Middlesbrough's rested attacking unit and 2.00 goals-per-match output will outgun Bolton's defense over 90 minutes."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams exhibit open styles, with Boro conceding in 10 of 11 matches and Bolton scoring regularly at home."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A competitive 1:2 away victory leads the matrix, with a 1:3 transition-led secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Combined scoring averages of 1.36 and 2.00 heavily concentrate probability around 3 and 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Bolton's opening half resistance points to a drawn interval before Middlesbrough pull clear in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 07:05:43 UTC"
+}
