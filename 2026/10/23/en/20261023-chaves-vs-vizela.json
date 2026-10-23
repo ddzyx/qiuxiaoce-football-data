@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576505,
+    "matchup": "Chaves vs Vizela",
+    "home_team": "Chaves",
+    "away_team": "Vizela",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-23 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261023-chaves-vs-vizela/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chaves vs Vizela Prediction & Match Analysis: Relegation Pressure Collides with Defensive Compactness — Scoreline Preview",
+    "meta": {
+      "matchId": "1576505",
+      "league": "Segunda Liga",
+      "matchup": "Chaves vs Vizela",
+      "matchTime": "2026-10-23 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vizela's superior defensive structure gives them a decisive edge against Chaves' porous defense, making Draw / Away Win and Under 2.5 the optimal strategic posture.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory capitalizing on Chaves conceding 2.0 goals per game (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by Vizela's 57% clean sheet frequency and H2H low-scoring history (Confidence: High, Value: Moderate)",
+      "Correct score 0:1 away victory convergence or 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576505",
+      "league": "Segunda Liga",
+      "homeTeam": "Chaves",
+      "awayTeam": "Vizela",
+      "match_time": "17:45",
+      "match_highlight": "Vizela's elite defensive structure meets Chaves' fragile backline in crucial clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576505,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vizela's leading 0:1 away victory script and the 1:1 home survival deadlock, where a single-sided selection carries unnecessary margin volatility."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Vizela's 4 clean sheets in 7 games and a combined 57% probability density across low-scoring nodes."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 away breakthrough represents the modal convergence point, with 1:1 capturing Chaves' desperate home resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model density concentrates heavily on 2 goals (26.1%) and 1 goal (21.8%) within a controlled tempo match."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tight, scoreless first half precedes Vizela's second-half transition breakthrough or a sustained 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 05:50:31 UTC"
+}
