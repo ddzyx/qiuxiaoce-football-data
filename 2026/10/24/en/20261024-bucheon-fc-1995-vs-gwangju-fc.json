@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1507089,
+    "matchup": "Bucheon FC 1995 vs Gwangju FC",
+    "home_team": "Bucheon FC 1995",
+    "away_team": "Gwangju FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-24 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-bucheon-fc-1995-vs-gwangju-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bucheon FC 1995 vs Gwangju FC Prediction: Transition Threat vs High-Line Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1507089",
+      "league": "K League 1",
+      "matchup": "Bucheon FC 1995 vs Gwangju FC",
+      "matchTime": "2026-10-24 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bucheon FC 1995 to exploit Gwangju FC's league-worst transition defense and secure a decisive home victory to conclude the regular season.",
+    "possibilityAssessment": [
+      "Bucheon FC 1995 Home Win via direct counter-attacking transitions against Gwangju's high line (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals driven by Gwangju's 2.05 xGA and recent attacking surge (Confidence: Moderate, Value: High)",
+      "Bucheon FC 1995 2:0 Defensive Shutout replicating previous season head-to-head clean sheets (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1507089",
+      "league": "K League 1",
+      "homeTeam": "Bucheon FC 1995",
+      "awayTeam": "Gwangju FC",
+      "match_time": "05:00",
+      "match_highlight": "Bucheon's counter-attack targets Gwangju's porous defense in regular season finale",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1507089,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bucheon capitalizes on Gwangju's road winlessness and high-line vulnerability to break their winless streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Gwangju's league-worst 2.05 xGA and recent attacking surge point to an open contest exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Gwangju's defensive frailty alongside their recent scoring punch, while 2:0 represents the clean-sheet counter script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead as the natural Poisson convergence, with two goals offering strong secondary resistance."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win dominates as Gwangju's first-half possession gives way to second-half defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 17:04:16 UTC"
+}
