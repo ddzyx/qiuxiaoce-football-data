@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551854,
+    "matchup": "FC OSS vs Jong Ajax",
+    "home_team": "FC OSS",
+    "away_team": "Jong Ajax",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-fc-oss-vs-jong-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC OSS vs Jong Ajax Prediction: Frans Heesen Home Form vs Young Ajax Defense — XG Mind AI Analysis",
+    "meta": {
+      "matchId": "1551854",
+      "league": "Eerste Divisie",
+      "matchup": "FC OSS vs Jong Ajax",
+      "matchTime": "2026-10-23 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC OSS will leverage superior home finishing and physical transition play to defeat a porous Jong Ajax backline in an open contest.",
+    "possibilityAssessment": [
+      "FC OSS Outright Victory in a high-tempo contest (Confidence: Moderate, Value: High)",
+      "Match Aggregate Total Exceeding 2.5 Goals (Confidence: High, Value: High)",
+      "Both Teams to Score with FC OSS Prevailing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551854",
+      "league": "Eerste Divisie",
+      "homeTeam": "FC OSS",
+      "awayTeam": "Jong Ajax",
+      "match_time": "18:00",
+      "match_highlight": "FC OSS home firepower confronts leaky Jong Ajax defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551854,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "FC OSS has scored ten goals in their last three home wins and faces an away defense conceding 2.4 goals per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "The combined goal expectancy lambda of 3.40 and sixteen consecutive home overs for FC OSS solidly back Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 home victory represents the central model node, with 3:1 reflecting the multi-goal transition margin."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals capture over 40% of the Poisson probability density distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "FC OSS frequently establishes early home leads or pulls away through physical dominance in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:09:08 UTC"
+}
