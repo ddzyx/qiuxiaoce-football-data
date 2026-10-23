@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494312,
+    "matchup": "Vasteras SK FK vs Halmstad",
+    "home_team": "Vasteras SK FK",
+    "away_team": "Halmstad",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-23 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-vasteras-sk-fk-vs-halmstad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vasteras SK FK vs Halmstad Prediction & Match Analysis: European Hunt vs Relegation Crisis — Scoreline Preview",
+    "meta": {
+      "matchId": "1494312",
+      "league": "Allsvenskan",
+      "matchup": "Vasteras SK FK vs Halmstad",
+      "matchTime": "2026-10-23 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Västerås SK's attacking continuity and Halmstad's winless road record point toward a decisive home victory.",
+    "possibilityAssessment": [
+      "Home Win via sustained second-half territorial dominance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals capitalizing on Halmstad's 2.12 xGA road fragility (Confidence: Moderate, Value: Moderate)",
+      "Controlled 2:0 Home Shutout anchored by Magnusson and Nsabiyumva (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494312",
+      "league": "Allsvenskan",
+      "homeTeam": "Vasteras SK FK",
+      "awayTeam": "Halmstad",
+      "match_time": "17:00",
+      "match_highlight": "Västerås target Europe while Halmstad battle winless away travel woes.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494312,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Västerås SK hold clear superiority against a Halmstad side that has lost 9 of 12 road matches."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Halmstad concede 1.90 goals per away match, elevating overall scoring density."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Taonsa's clinical finishing aligns with a 2:1 primary scoreline and 2:0 shutout secondary."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson baseline heavily clusters across 2 and 3 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Halmstad's initial low block gives way to second-half home acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 05:04:06 UTC"
+}
