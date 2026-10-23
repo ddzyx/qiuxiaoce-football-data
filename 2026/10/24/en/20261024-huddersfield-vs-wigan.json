@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564385,
+    "matchup": "Huddersfield vs Wigan",
+    "home_team": "Huddersfield",
+    "away_team": "Wigan",
+    "league": "League One",
+    "kickoff_utc": "2026-10-24 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-huddersfield-vs-wigan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Huddersfield vs Wigan Prediction & Match Analysis: Terriers' Form Faces Latics' Low Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1564385",
+      "league": "League One",
+      "matchup": "Huddersfield vs Wigan",
+      "matchTime": "2026-10-24 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Huddersfield Town to secure a controlled home victory against an outmatched and goal-shy Wigan Athletic side.",
+    "possibilityAssessment": [
+      "Huddersfield Town dominant home victory via sustained pressure against a low block (Confidence: Moderate, Value: High)",
+      "Low-scoring tactical battle resulting in Under 2.5 total goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency branch featuring late Wigan consolation in a 2:1 home victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564385",
+      "league": "League One",
+      "homeTeam": "Huddersfield",
+      "awayTeam": "Wigan",
+      "match_time": "11:30",
+      "match_highlight": "Promotion-chasing Terriers host bottom-dwelling Latics in an asymmetric League One battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564385,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Huddersfield's overwhelming offensive momentum and 22-goal attack will comfortably break down Wigan's blunt setup."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Wigan's severe lack of away goals paired with their 5-4-1 low block points toward a controlled, low-scoring home win."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 clean sheet serves as the primary matrix convergence, with 2:1 acting as the secondary contingency branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exactly 2 goals captures the highest probability density, while 3 goals accounts for an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Wigan's stubborn low block holds until halftime before Huddersfield's sustained pressure forces a second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 23:40:52 UTC"
+}
