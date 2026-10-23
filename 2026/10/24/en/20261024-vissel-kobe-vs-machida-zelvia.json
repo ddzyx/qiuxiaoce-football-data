@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556120,
+    "matchup": "Vissel Kobe vs Machida Zelvia",
+    "home_team": "Vissel Kobe",
+    "away_team": "Machida Zelvia",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-24 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-vissel-kobe-vs-machida-zelvia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vissel Kobe vs Machida Zelvia Prediction: Can Kuroda's Press Exploit Kobe's Injuries? — xG Preview",
+    "meta": {
+      "matchId": "1556120",
+      "league": "J1 League",
+      "matchup": "Vissel Kobe vs Machida Zelvia",
+      "matchTime": "2026-10-24 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Machida Zelvia's league-leading transitional firepower and defensive stability give them the decisive edge over an injury-hit, defensively vulnerable Vissel Kobe side.",
+    "possibilityAssessment": [
+      "Away Win: Machida Zelvia capitalizes on Kobe's missing midfield spine to secure a decisive road victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals: Ruthless counter-attacking transitions and open game states carry the match beyond 2.5 goals (Confidence: Moderate, Value: High)",
+      "Secondary Scoreline 0:2: Machida absorbs early pressure and seals an organized clean-sheet road win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556120",
+      "league": "J1 League",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Machida Zelvia",
+      "match_time": "06:00",
+      "match_highlight": "Kuroda's red-hot Zelvia tests Kobe's injury-hit defensive spine",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556120,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Machida Zelvia's lethal 2.7 goals per match average and superior transitional pressing decisively exploit Kobe's recent defensive vulnerabilities and missing midfield pivot."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy lambda of 3.10 and open transitional dynamics strongly favor an expansive three-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A competitive 1:2 road victory serves as the primary matrix convergence, supported by an alternative clean-sheet 0:2 game state."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution modeling assigns the highest individual probability densities to 3 goals (22.4%) followed by 2 goals (21.6%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A tightly contested opening half gives way to Machida's lethal second-half counter-attacking acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 18:04:10 UTC"
+}
