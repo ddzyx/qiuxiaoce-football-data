@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564386,
+    "matchup": "Luton vs Leicester",
+    "home_team": "Luton",
+    "away_team": "Leicester",
+    "league": "League One",
+    "kickoff_utc": "2026-10-24 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-luton-vs-leicester/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Luton Town vs Leicester City Prediction: Can Martin's System Tame Hatters? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564386",
+      "league": "League One",
+      "matchup": "Luton vs Leicester",
+      "matchTime": "2026-10-24 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Leicester City to exploit Luton's depleted midfield via Draw / Away Win coverage anchored by a 1:2 away triumph.",
+    "possibilityAssessment": [
+      "Leicester City 3-4-2-1 control produces a 1:2 road victory against depleted Luton (Confidence: Moderate, Value: High)",
+      "Luton Town home resistance forces a combative 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo game state yields Over 2.5 total goals across 90 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564386",
+      "league": "League One",
+      "homeTeam": "Luton",
+      "awayTeam": "Leicester",
+      "match_time": "11:30",
+      "match_highlight": "Leicester's new back three tests injury-ravaged Luton at Kenilworth Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564386,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Leicester's tactical resurgence and Luton's eight injuries favor the Foxes avoiding defeat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive concessions exceeding 1.5 goals per game point toward Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Leicester away win serves as primary anchor, with 1:1 as secondary hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence, backed by a two-goal stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first half deadlock followed by Leicester pulling clear or sharing spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 23:42:31 UTC"
+}
