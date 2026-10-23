@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601567,
+    "matchup": "Empoli vs Vicenza Virtus",
+    "home_team": "Empoli",
+    "away_team": "Vicenza Virtus",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-23 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261023-empoli-vs-lr-vicenza/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Empoli vs Vicenza Virtus Prediction: Rebound Pressure vs Porous Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601567",
+      "league": "Serie B",
+      "matchup": "Empoli vs Vicenza Virtus",
+      "matchTime": "2026-10-23 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Empoli's baseline technical quality and Vicenza's league-worst defensive record favor a home victory, with double chance retained against the visitors' dangerous counter transitions.",
+    "possibilityAssessment": [
+      "Empoli establish second-half control to exploit Vicenza's depleted back three for a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Vicenza strike on a direct break and hold compact for a 1:1 shared-points stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional flow breaches both shaky defenses pushing total match goals over the 2.5 threshold (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601567",
+      "league": "Serie B",
+      "homeTeam": "Empoli",
+      "awayTeam": "Vicenza Virtus",
+      "match_time": "18:30",
+      "match_highlight": "Empoli look to exploit Vicenza's porous backline at the Castellani.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601567,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Empoli hold the home quality edge, while Vicenza's away scoring threat justifies double-chance retention."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Vicenza's 2.14 goals conceded per match and Empoli's clean sheet drought strongly point toward goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects baseline superiority, while 1:1 covers stubborn counter resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead via open transitions, backed by a tight two-goal deadlock script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first halves favor a level interval before late game-state divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:37:46 UTC"
+}
