@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551853,
+    "matchup": "NAC Breda vs Heracles",
+    "home_team": "NAC Breda",
+    "away_team": "Heracles",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-nac-breda-vs-heracles/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "NAC Breda vs Heracles Prediction & Match Analysis: Can Kruys Contain Almelo Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551853",
+      "league": "Eerste Divisie",
+      "matchup": "NAC Breda vs Heracles",
+      "matchTime": "2026-10-23 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Heracles Almelo to overcome NAC Breda in an open, competitive encounter driven by their league-leading offensive output.",
+    "possibilityAssessment": [
+      "Heracles exploit transitional space to secure an outright road victory (Confidence: Moderate, Value: High)",
+      "Both teams find the net in a high-tempo match exceeding 2.5 total goals (Confidence: High, Value: Moderate)",
+      "NAC Breda leverage home momentum to force a high-scoring 2:2 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551853",
+      "league": "Eerste Divisie",
+      "homeTeam": "NAC Breda",
+      "awayTeam": "Heracles",
+      "match_time": "18:00",
+      "match_highlight": "Heracles' 3.3 goals-per-game attack faces Kruys' surging NAC Breda defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551853,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Heracles' league-leading 3.3 goals-per-game attacking engine possesses the firepower to breach NAC's improving backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy lambda of 4.1 goals firmly establishes strong mathematical value on the Over 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "An open attacking exchange naturally converges toward a tightly contested 1:2 or transitional 1:3 away victory."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson distribution models concentrate heavily across 3 and 4 total match goals with a 38.5% cumulative density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "NAC's early home resistance produces a level opening half before Heracles' superior attacking depth prevails after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:11:20 UTC"
+}
