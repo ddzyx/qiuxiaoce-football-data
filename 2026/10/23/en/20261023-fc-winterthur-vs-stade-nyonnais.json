@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555070,
+    "matchup": "FC Winterthur vs Stade Nyonnais",
+    "home_team": "FC Winterthur",
+    "away_team": "Stade Nyonnais",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-10-23 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261023-fc-winterthur-vs-stade-nyonnais/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Winterthur vs Stade Nyonnais Prediction & Match Analysis: Can Rahmen's Side Exploit Away Fragility?",
+    "meta": {
+      "matchId": "1555070",
+      "league": "Challenge League",
+      "matchup": "FC Winterthur vs Stade Nyonnais",
+      "matchTime": "2026-10-23 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Winterthur's superior home firepower and territorial control should overpower Stade Nyonnais' porous away defense in a multi-goal contest.",
+    "possibilityAssessment": [
+      "FC Winterthur exploit defensive lapses to secure a decisive 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Patrick Rahmen's side tighten rest-defense to claim a controlled 2:0 clean-sheet win (Confidence: Moderate, Value: Moderate)",
+      "Stade Nyonnais capitalize on transitional directness to threaten an opportunistic away goal (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555070",
+      "league": "Challenge League",
+      "homeTeam": "FC Winterthur",
+      "awayTeam": "Stade Nyonnais",
+      "match_time": "18:15",
+      "match_highlight": "Winterthur aim to punish Nyonnais' winless away record at Schützenwiese.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555070,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "FC Winterthur's attacking efficiency at home and Stade Nyonnais' five consecutive away defeats firmly support a home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Stade Nyonnais concede 2.40 goals per match on average, driving combined goal expectancy above the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Winterthur's scoring rate alongside Nyon's counter-attacking threat, with 2:0 as the clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The independent Poisson model concentrates scoring probability across the 2-goal and 3-goal brackets."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Winterthur are projected to establish an early lead or break through after an initial first-half attrition phase."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:21:34 UTC"
+}
