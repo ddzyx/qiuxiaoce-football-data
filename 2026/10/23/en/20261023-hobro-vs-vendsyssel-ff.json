@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551362,
+    "matchup": "Hobro vs Vendsyssel FF",
+    "home_team": "Hobro",
+    "away_team": "Vendsyssel FF",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-23 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-hobro-vs-vendsyssel-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hobro vs Vendsyssel FF Prediction: Defensive Vulnerabilities & Tactical Stalemate — Scoreline & Form Preview",
+    "meta": {
+      "matchId": "1551362",
+      "league": "1. Division",
+      "matchup": "Hobro vs Vendsyssel FF",
+      "matchTime": "2026-10-23 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back the combined script of Home Win / Draw as mutual form struggles and defensive fragility favor a 1:1 stalemate at DS Arena.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance coverage reflecting deadlock zone parity and home advantage (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as mutual tactical caution suppresses open-field chance conversion (Confidence: Moderate, Value: Moderate)",
+      "Half-Time Draw (Draw-Draw / Draw-Win) reflecting slow opening tempo and guarded defensive setups (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551362",
+      "league": "1. Division",
+      "homeTeam": "Hobro",
+      "awayTeam": "Vendsyssel FF",
+      "match_time": "16:00",
+      "match_highlight": "Frederik Dietz aerial threat collides with Vendsyssel low-block counter setup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551362,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-density 1:1 stalemate and a narrow 2:1 home victory, eliminating the severe risk of backing an out-of-form host straight."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns directly with the primary 1:1 projection as both managers adopt risk-averse setups to stem recent goals conceded."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 scoreline represents the modal Poisson convergence point, while 2:1 provides the natural home-advantage winning branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal primary count reflects balanced defensive slips, while 3 goals accommodates a potential late winning strike."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides exhibit low early scoring volume, pointing toward an even first half before decisive actions unfold late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 04:04:27 UTC"
+}
