@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563834,
+    "matchup": "Northampton vs Colchester",
+    "home_team": "Northampton",
+    "away_team": "Colchester",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-24 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-northampton-vs-colchester/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Northampton vs Colchester Prediction & Match Analysis: Can Low Blocks Stifle Cobblers? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563834",
+      "league": "League Two",
+      "matchup": "Northampton vs Colchester",
+      "matchTime": "2026-10-24 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw double chance alongside Under 2.5 goals in a low-tempo tactical battle.",
+    "possibilityAssessment": [
+      "Stalemate thesis: A compact Colchester low-block secures a 1:1 draw against blunt hosts (Confidence: Moderate, Value: High)",
+      "Attrition thesis: Northampton grind out a narrow 1:0 win via a second-half set piece (Confidence: Moderate, Value: Moderate)",
+      "Underdog steal: Colchester score on transition and defend a 0:1 lead under siege (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563834",
+      "league": "League Two",
+      "homeTeam": "Northampton",
+      "awayTeam": "Colchester",
+      "match_time": "11:30",
+      "match_highlight": "Low-scoring Sixfields grind between blunt hosts and road draw specialists",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563834,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and narrow 1:0 home win while excluding an improbable away victory given Colchester's winless road record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 1.84 and Northampton's 0.60 goals per game heavily favor a low-scoring outcome."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects the natural convergence points between Colchester's draw tendency and Northampton's limited attacking output."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exactly 2 goals and 1 goal capture over 76% of projected Poisson density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious early kickoff pacing favors a level opening half followed by a drawn or narrow home victory finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 23:40:15 UTC"
+}
