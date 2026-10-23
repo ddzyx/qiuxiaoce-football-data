@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593688,
+    "matchup": "Western Sydney Wanderers vs Auckland",
+    "home_team": "Western Sydney Wanderers",
+    "away_team": "Auckland",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-24 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-western-sydney-wanderers-vs-auckland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Western Sydney Wanderers vs Auckland Prediction: Direct Pace vs Positional Control — Scoreline Preview",
+    "meta": {
+      "matchId": "1593688",
+      "league": "A-League",
+      "matchup": "Western Sydney Wanderers vs Auckland",
+      "matchTime": "2026-10-24 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Western Sydney Wanderers' territorial control and defensive structure should secure at least a point against Auckland's direct counter-attacking setup at CommBank Stadium.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance captures the primary 1:1 stalemate and 1:0 home control scripts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with suppressed 1.55 combined lambda and disciplined defensive baselines (Confidence: High, Value: Moderate)",
+      "Exact Scoreline 1:1 Draw represents the statistical equilibrium of contrasting styles (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593688",
+      "league": "A-League",
+      "homeTeam": "Western Sydney Wanderers",
+      "awayTeam": "Auckland",
+      "match_time": "06:00",
+      "match_highlight": "Wanderers test their possession structure against Auckland's lethal direct counters at CommBank Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593688,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Western Sydney's home territorial command and the high-density stalemate script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A low combined lambda of 1.55 and disciplined defensive baselines favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects a tight 1:1 deadlock and a narrow 1:0 home victory as the most mathematically sound outcomes."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates heavily on two goals followed by a single-goal affair."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Expect a scoreless or tightly contested first half leading to a drawn finish or late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 18:06:12 UTC"
+}
