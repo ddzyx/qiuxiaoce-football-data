@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593687,
+    "matchup": "Newcastle Jets vs Macarthur",
+    "home_team": "Newcastle Jets",
+    "away_team": "Macarthur",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-24 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-newcastle-jets-vs-macarthur/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newcastle Jets vs Macarthur Prediction & Match Analysis: Fragile Defense vs Lethal Transition — xG Preview",
+    "meta": {
+      "matchId": "1593687",
+      "league": "A-League",
+      "matchup": "Newcastle Jets vs Macarthur",
+      "matchTime": "2026-10-24 04:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Macarthur's lethal counter-attack and superior defensive compactness will exploit Newcastle's porous backline to secure points in an open, high-scoring affair.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals (Confidence: High, Value: High)",
+      "2:2 High-Scoring Deadlock (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593687",
+      "league": "A-League",
+      "homeTeam": "Newcastle Jets",
+      "awayTeam": "Macarthur",
+      "match_time": "04:00",
+      "match_highlight": "Brittle Jets defense faces lethal Macarthur transitions",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1593687,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Macarthur's high-probability counter-attacking victory (1:2) and the open deadlock script (2:2), fully exploiting Newcastle's 3.3 xGA concession rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams possess strong attacking output against compromised defensive structures, supported by a 3.85 combined Poisson goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Macarthur's clinical transitional punch, while 2:2 represents a high-tempo shootout if Newcastle's home attack responds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring distribution peaks at 3 and 4 goals given high attacking xG and repeated defensive breakdown mechanisms."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Newcastle's structural discipline typically holds level through the first half before second-half fatigue and counter-attacks decide the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 16:03:53 UTC"
+}
