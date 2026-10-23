@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520949,
+    "matchup": "Sport Recife vs Criciuma",
+    "home_team": "Sport Recife",
+    "away_team": "Criciuma",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-24 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-sport-recife-vs-criciuma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sport Recife vs Criciuma Prediction & Match Analysis: Low-Block Dilemma — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520949",
+      "league": "Serie B",
+      "matchup": "Sport Recife vs Criciuma",
+      "matchTime": "2026-10-24 00:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Criciúma to exploit Sport Recife's defensive suspension and claim points in an Under 2.5 encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory powered by Criciúma's league-best 16 clean sheets (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by a compressed 2.06 aggregate lambda and cagey promotion stakes (Confidence: High, Value: Moderate)",
+      "Exact scoreline 0:1 reflecting a classic Criciúma counter-attacking snatch-and-grab (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520949",
+      "league": "Serie B",
+      "homeTeam": "Sport Recife",
+      "awayTeam": "Criciuma",
+      "match_time": "00:00",
+      "match_highlight": "Criciúma's elite defensive structure challenges Sport Recife's promotion aspirations.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1520949,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Criciúma's high-probability 0-1 road win and the 1-1 stalemate against an overvalued home favorite."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goals profile of 2.06 and 16 away clean sheets heavily favor a low-scoring match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Criciúma's 0-1 smash-and-grab tactical script and the 1-1 attrition draw."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Top two exact goal totals supported by independent Poisson goal distribution calculus."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half followed by second-half transitional separation favors Draw-Loss and Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 12:04:18 UTC"
+}
