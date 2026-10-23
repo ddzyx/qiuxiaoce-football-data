@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551361,
+    "matchup": "Hillerød vs Aalborg",
+    "home_team": "Hillerød",
+    "away_team": "Aalborg",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-24 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-hiller-d-vs-aalborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hillerød vs Aalborg Prediction & Match Analysis: Can AaB Break Home Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551361",
+      "league": "1. Division",
+      "matchup": "Hillerød vs Aalborg",
+      "matchTime": "2026-10-24 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aalborg's technical quality faces stern resistance at Secma Ground, making Draw / Away Win the premier risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Tactical stalemate with AaB dominating territory but held to a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Late second-half AaB breakthrough resulting in a narrow 1:2 away victory (Confidence: Moderate, Value: Moderate)",
+      "Hillerød low-block counter containment capping match total under 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551361",
+      "league": "1. Division",
+      "homeTeam": "Hillerød",
+      "awayTeam": "Aalborg",
+      "match_time": "11:00",
+      "match_highlight": "AaB tests road resilience against Hillerød's sturdy home low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551361,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "AaB holds higher technical ceiling but their 45% away draw rate warrants double-chance coverage via Draw / Away Win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absence of Helenius and Hillerød's disciplined defensive shape anchor the match toward a 2-goal median."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate captures the primary attrition script while 1:2 accounts for superior away substitute quality."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution peaks at 2 goals (24.5%) with 3 goals (22.0%) providing direct secondary alignment."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Expect a tight first half (Draw HT) before Aalborg either remains held or secures a late winning margin."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 23:06:26 UTC"
+}
