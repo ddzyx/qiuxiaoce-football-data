@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1507091,
+    "matchup": "Incheon United vs Jeju United FC",
+    "home_team": "Incheon United",
+    "away_team": "Jeju United FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-24 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-incheon-united-vs-jeju-united-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Incheon United vs Jeju United FC Prediction: Final A Decider, xG & Tactical Blueprint — Scoreline Preview",
+    "meta": {
+      "matchId": "1507091",
+      "league": "K League 1",
+      "matchup": "Incheon United vs Jeju United FC",
+      "matchTime": "2026-10-24 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Incheon United with double-chance draw protection within a controlled, low-scoring framework decided by second-half tactical urgency.",
+    "possibilityAssessment": [
+      "Incheon United secure a decisive 1:0 home win through Mugoša's aerial pressure against a retreating Jeju block (Confidence: Moderate, Value: Moderate)",
+      "Jeju United FC successfully absorb pressure to hold a 1:1 draw that clinches their Final A spot (Confidence: Moderate, Value: Moderate)",
+      "An attritional midfield battle produces a tense, risk-averse 0:0 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1507091",
+      "league": "K League 1",
+      "homeTeam": "Incheon United",
+      "awayTeam": "Jeju United FC",
+      "match_time": "05:00",
+      "match_highlight": "High-stakes Round 33 shootout for the final ticket to Final A.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1507091,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Incheon's must-win home momentum alongside Jeju's strategic focus on securing the single point needed for Final A."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson simulations yield 55.0% Under 2.5 density, reinforced by the high-pressure, risk-averse nature of split-round deciders."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home triumph reflects Incheon's territorial siege, while 1:1 represents Jeju's primary draw objective via transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model identifies 2 goals (25.8%) and 1 goal (20.8%) as the primary exact scoring bands in a cagey tactical battle."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A scoreless or tightly contested first half transitions into a decisive home breakthrough or a resilient away defensive hold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 17:06:45 UTC"
+}
