@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551855,
+    "matchup": "Vitesse vs Emmen",
+    "home_team": "Vitesse",
+    "away_team": "Emmen",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-vitesse-vs-emmen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Vitesse vs Emmen: Expected Goals, Transition Flaws & Second-Tier Match Intelligence",
+    "meta": {
+      "matchId": "1551855",
+      "league": "Eerste Divisie",
+      "matchup": "Vitesse vs Emmen",
+      "matchTime": "2026-10-23 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Emmen's potent transition counter-attack will exploit Vitesse's vacated wide corridors to secure points in an open, multi-goal affair.",
+    "possibilityAssessment": [
+      "Emmen exploit defensive space to edge a 1:2 victory on the counter (Confidence: Moderate, Value: High)",
+      "Vitesse mount spirited home resistance to salvage a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "High-scoring, end-to-end clash pushing totals over 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551855",
+      "league": "Eerste Divisie",
+      "homeTeam": "Vitesse",
+      "awayTeam": "Emmen",
+      "match_time": "18:00",
+      "match_highlight": "Emmen transition speed tests Vitesse high-line fullbacks at GelreDome",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551855,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Emmen's superior transition threat (1:2 win) alongside Vitesse's proven home H2H resilience (1:1 stalemate)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined scoring expectancy of 3.40 goals strongly favors an open game breaching the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Emmen's counter-attacking edge while 1:1 provides coverage for a disciplined GelreDome standoff."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals acting as secondary low-variance boundary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "An even first half followed by Emmen pulling ahead late, with an alternative persistent draw across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:09:57 UTC"
+}
