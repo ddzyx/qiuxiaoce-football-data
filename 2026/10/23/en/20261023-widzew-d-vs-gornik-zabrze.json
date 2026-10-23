@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553207,
+    "matchup": "Widzew Łódź vs Gornik Zabrze",
+    "home_team": "Widzew Łódź",
+    "away_team": "Gornik Zabrze",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-23 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261023-widzew-d-vs-gornik-zabrze/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Widzew Łódź vs Gornik Zabrze Prediction: Can Stolarski Halt League Leaders? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1553207",
+      "league": "Ekstraklasa",
+      "matchup": "Widzew Łódź vs Gornik Zabrze",
+      "matchTime": "2026-10-23 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "League leaders Gornik Zabrze are projected to exploit Widzew Łódź's defensive vulnerabilities (1.80 xGA/game) and secure an away victory in a competitive encounter.",
+    "possibilityAssessment": [
+      "Primary Thesis: Gornik Zabrze outright victory capitalizing on superior defensive efficiency and transition play (Confidence: Moderate, Value: High)",
+      "Secondary Thesis: Over 2.5 match goals driven by combined 3.36 xG expectancy and Widzew's leaky defensive perimeter (Confidence: Moderate, Value: Moderate)",
+      "Contingency Thesis: Tactical game-state branch where Widzew holds a first-half draw before second-half road breakthrough (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553207",
+      "league": "Ekstraklasa",
+      "homeTeam": "Widzew Łódź",
+      "awayTeam": "Gornik Zabrze",
+      "match_time": "18:30",
+      "match_highlight": "Gornik Zabrze's unbeaten away form meets Widzew Łódź's persistent stalemate habit.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553207,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Gornik Zabrze's league-best 0.99 xGA defensive baseline and clinical road transition attack (5 wins in 6 away matches) will overcome Widzew's winless home record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goals of 3.36 (1.57 home vs 1.79 away) and Widzew's structural concessions favor a 3-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Primary 1:2 scenario reflects Gornik's attacking punch with Widzew grabbing a home consolation; secondary 0:2 captures a dominant away clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome represents the highest-density convergence point with 2 goals as the primary defensive containment alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss mirrors Widzew's early defensive resistance breaking under second-half pressure, while Loss-Loss accounts for an early Gornik breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:32:38 UTC"
+}
