@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553204,
+    "matchup": "Piast Gliwice vs Cracovia Krakow",
+    "home_team": "Piast Gliwice",
+    "away_team": "Cracovia Krakow",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-24 10:15:00",
+    "source_url": "https://xgmind.com/matches/20261024-piast-gliwice-vs-cracovia-krakow/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Piast Gliwice vs Cracovia Prediction: Can Pasy Exploit Piast's Porous xGA? — Scoreline & Model Analysis",
+    "meta": {
+      "matchId": "1553204",
+      "league": "Ekstraklasa",
+      "matchup": "Piast Gliwice vs Cracovia Krakow",
+      "matchTime": "2026-10-24 10:15 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Cracovia Krakow's superior underlying metrics (+3.2 net xG) and transition efficiency will expose Piast Gliwice's porous defense (2.18 xGA/game), supporting a Draw / Away Win double chance.",
+    "possibilityAssessment": [
+      "Cracovia exploit Piast's structural defensive gaps in second-half transition to secure a 1:2 victory (Confidence: Moderate, Value: High)",
+      "Piast's historical home resilience forces a hard-fought 1:1 stalemate against Cracovia's counter-press (Confidence: Moderate, Value: Moderate)",
+      "High-tempo exchanges push total scoring above 2.5 goals as both forward lines find space (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553204",
+      "league": "Ekstraklasa",
+      "homeTeam": "Piast Gliwice",
+      "awayTeam": "Cracovia Krakow",
+      "match_time": "10:15",
+      "match_highlight": "Cracovia's lethal counter-attack targets Piast Gliwice's league-worst 2.18 xGA defensive leakage.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1553204,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Cracovia's superior +3.2 xG process holds the tactical edge against Piast's leaky 2.18 xGA defense, while Piast's home tenacity preserves the drawn corridor."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson simulation indicates a 63.0% probability for Over 2.5 goals, heavily driven by Piast's severe box concessions."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory reflects Cracovia's transitional potency, while 1:1 captures historical head-to-head resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, followed by two goals in a tight standoff."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half giving way to Cracovia's late transitional acceleration in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 22:21:52 UTC"
+}
