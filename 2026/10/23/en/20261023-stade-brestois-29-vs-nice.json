@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552794,
+    "matchup": "Stade Brestois 29 vs Nice",
+    "home_team": "Stade Brestois 29",
+    "away_team": "Nice",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-23 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261023-stade-brestois-29-vs-nice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stade Brestois 29 vs Nice Prediction: Aerial xG Edge Meets Road Crisis — Model Scoreline Analysis",
+    "meta": {
+      "matchId": "1552794",
+      "league": "Ligue 1",
+      "matchup": "Stade Brestois 29 vs Nice",
+      "matchTime": "2026-10-23 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stade Brestois 29 to secure maximum points at home against an away-depleted OGC Nice side.",
+    "possibilityAssessment": [
+      "Stade Brestois 29 to Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "Stade Brestois 29 to Win to Nil (Scoreline 2:0) (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552794",
+      "league": "Ligue 1",
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "Nice",
+      "match_time": "18:45",
+      "match_highlight": "Brest aerial dominance targets depleted Nice defense on road trip.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552794,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Brest hold a commanding 2.06 xG per game profile against a Nice team that has lost three consecutive away fixtures."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 1.3 goals conceded per game and the last three H2H meetings all exceeded 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence point, with 2:0 serving as the clean-sheet contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The Poisson matrix concentrates highest density around 3 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Nice may hold firm initially before Brest's aerial power breaks the deadlock in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:54:44 UTC"
+}
