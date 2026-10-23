@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557443,
+    "matchup": "Ipswich vs Nottingham Forest",
+    "home_team": "Ipswich",
+    "away_team": "Nottingham Forest",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-23 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-ipswich-vs-nottingham-forest/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Ipswich vs Nottingham Forest: Expected Goals, Transition Asymmetry & Match Intelligence",
+    "meta": {
+      "matchId": "1557443",
+      "league": "Premier League",
+      "matchup": "Ipswich vs Nottingham Forest",
+      "matchTime": "2026-10-23 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nottingham Forest capitalize on Ipswich's high-line transition vulnerabilities to secure an outright away victory at Portman Road.",
+    "possibilityAssessment": [
+      "Nottingham Forest outright away win driven by Gibbs-White transitional play and Delap finishing (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals supported by Ipswich's chronic defensive concessions and consistent home scoring (Confidence: Moderate, Value: Moderate)",
+      "1:2 exact scoreline as the primary convergence of home flank pressure and away counter-attacking efficiency (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557443",
+      "league": "Premier League",
+      "homeTeam": "Ipswich",
+      "awayTeam": "Nottingham Forest",
+      "match_time": "19:00",
+      "match_highlight": "Gibbs-White's return unlocks Forest's lethal away counter-attack against Ipswich's porous backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557443,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Nottingham Forest possess the tactical transition profile to punish Ipswich's leaky defence, which has conceded 15 goals in seven matches."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Ipswich's 2.14 goals conceded per game and Forest's away scoring record support an open encounter clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 scoreline represents the primary convergence node, with a 0:2 shutout serving as the secondary game-state branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary total, with two goals offering secondary coverage if Forest manage game state early."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A competitive first half giving way to Forest's late transition superiority leads Draw-Loss, backed by wire-to-wire Loss-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 07:05:28 UTC"
+}
