@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520946,
+    "matchup": "Operario-PR vs Athletic Club",
+    "home_team": "Operario-PR",
+    "away_team": "Athletic Club",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-23 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261023-operario-pr-vs-athletic-club/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Operario-PR vs Athletic Club Prediction: Slumping Host Faces Serie B Draw Kings — Scoreline Preview",
+    "meta": {
+      "matchId": "1520946",
+      "league": "Serie B",
+      "matchup": "Operario-PR vs Athletic Club",
+      "matchTime": "2026-10-23 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw as Athletic Club's survival point motivation and Operário's four-match losing slump point toward a low-scoring stalemate.",
+    "possibilityAssessment": [
+      "Contested 1:1 stalemate driven by Athletic Club's low-block counter and Operário's offensive struggles (Confidence: Moderate, Value: High)",
+      "Gritty 1:0 Operário home victory powered by Gabriel Boschilia set-piece delivery (Confidence: Moderate, Value: Moderate)",
+      "Scoreless 0:0 war of attrition between two risk-averse managers (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520946",
+      "league": "Serie B",
+      "homeTeam": "Operario-PR",
+      "awayTeam": "Athletic Club",
+      "match_time": "22:30",
+      "match_highlight": "Slumping Operário face Serie B draw kings Athletic in survival dogfight",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520946,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and secondary 1:0 home rebound while fading a fragile Operário outright win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams suffer from severe conversion deficits, aligning with late-season Brazilian Serie B tactical attrition."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The 1:1 draw represents the bivariate Poisson modal density, backed by a 1:0 home defensive recovery."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A combined 42.6% probability density concentrates across one and two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Athletic's compact first-half block promotes a level interval before second-half tactical shifts take effect."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 10:37:24 UTC"
+}
