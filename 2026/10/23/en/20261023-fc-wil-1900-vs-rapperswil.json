@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1555069,
+    "matchup": "FC WIL 1900 vs Rapperswil",
+    "home_team": "FC WIL 1900",
+    "away_team": "Rapperswil",
+    "league": null,
+    "kickoff_utc": "2026-10-23 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261023-fc-wil-1900-vs-rapperswil/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Challenge League",
+      "matchId": "1555069",
+      "matchup": "FC WIL 1900 vs Rapperswil",
+      "matchTime": "2026-10-23 17:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:2",
+        "2:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "FC WIL 1900 vs Rapperswil Prediction: High Concession Rates Collide — Scoreline & Tactical Preview",
+    "coreRecommendation": "Back a high-event, decisive contest leaning toward an away victory in an open Home Win / Away Win split with Over 2.5 goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey first-half stalemate giving way to an open, decisive second-half winner from either side.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Rapperswil's primary counter-attacking victory and Wil's secondary set-piece home win, excluding the stalemate.",
+        "selection": "Home Win / Away Win"
+      },
+      "goals": {
+        "comment": "Poisson distribution concentrates heavily on 3 and 4 total goals given both teams' open defensive baselines.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "Reflects the high-variance 3-goal outcome with Rapperswil edging a 1:2 win or Wil taking a 2:1 victory.",
+        "selection": [
+          "1:2",
+          "2:1"
+        ]
+      },
+      "league": "Challenge League",
+      "matchId": "1555069",
+      "awayTeam": "Rapperswil",
+      "homeTeam": "FC WIL 1900",
+      "fixtureId": 1555069,
+      "match_time": "17:30",
+      "over_under": {
+        "comment": "Combined lambda expectation of 3.60 and mutual concession rates exceeding 1.90 goals per game strongly support Over 2.5.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Wil's porous defense faces Rapperswil's transitional counter-attack at Lidl Arena."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Rapperswil counter-attacking victory 1:2 (Confidence: Moderate, Value: High)",
+      "FC WIL 1900 set-piece driven home win 2:1 (Confidence: Moderate, Value: Moderate)",
+      "High-scoring open draw 2:2 contingency (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "1-1",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-23 19:54:33 UTC"
+  }
+}
