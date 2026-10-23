@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1507090,
+    "matchup": "Gimcheon Sangmu FC vs Daejeon Citizen",
+    "home_team": "Gimcheon Sangmu FC",
+    "away_team": "Daejeon Citizen",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-24 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-gimcheon-sangmu-fc-vs-daejeon-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimcheon Sangmu vs Daejeon Citizen Prediction: Attack Efficiency vs Draw Resilience — XG Mind AI Analysis",
+    "meta": {
+      "matchId": "1507090",
+      "league": "K League 1",
+      "matchup": "Gimcheon Sangmu FC vs Daejeon Citizen",
+      "matchTime": "2026-10-24 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win double chance as Daejeon's attacking class encounters Gimcheon's league-leading stalemate resilience and schedule congestion.",
+    "possibilityAssessment": [
+      "Stalemate Grind: Gimcheon control tempo to secure their 20th draw in a 1:1 deadlock (Confidence: Moderate, Value: High)",
+      "Road Squeeze: Daejeon's frontline quality secures a narrow 1:2 victory in late transition (Confidence: Moderate, Value: Moderate)",
+      "Low-Scoring Attrition: Continental rotation and low-block defense keep match total under 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1507090",
+      "league": "K League 1",
+      "homeTeam": "Gimcheon Sangmu FC",
+      "awayTeam": "Daejeon Citizen",
+      "match_time": "05:00",
+      "match_highlight": "Daejeon frontline faces Gimcheon's persistent draw resilience amid continental congestion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1507090,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the two most probable game scripts: Gimcheon's structural draw grind and Daejeon's transition road win, avoiding an uncorroborated home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Gimcheon's tempo suppression and Daejeon's continental minutes management point toward a contained goal total beneath the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline represents the primary tactical equilibrium, while 1:2 accounts for a late Daejeon transition winner."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Model concentrations peak around 2 goals (22.8%) and 3 goals (22.4%), directly matching the projected scoreline matrix."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A conservative, probing first half yields a level interval, progressing into either a sustained draw or a late Daejeon away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 17:04:04 UTC"
+}
