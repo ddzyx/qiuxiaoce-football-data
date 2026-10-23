@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638110,
+    "matchup": "VPS vs Inter Turku",
+    "home_team": "VPS",
+    "away_team": "Inter Turku",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-10-24 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-vps-vs-inter-turku/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VPS vs Inter Turku Prediction & Match Analysis: Title Chase Meets Low-Block Resistance — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1638110",
+      "league": "Veikkausliiga",
+      "matchup": "VPS vs Inter Turku",
+      "matchTime": "2026-10-24 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter Turku's league-leading defensive solidity and championship motivation will overcome VPS in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Inter Turku breaks through a stubborn VPS defense to secure a disciplined 1-0 or 2-0 away victory (Confidence: Moderate, Value: High)",
+      "VPS limits central penetration through a disciplined deep block, holding Inter to an attritional Under 2.5 contest (Confidence: High, Value: Moderate)",
+      "Inter Turku struggles with late-season conversion pressure, allowing VPS to absorb pressure in a low-scoring draw (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638110",
+      "league": "Veikkausliiga",
+      "homeTeam": "VPS",
+      "awayTeam": "Inter Turku",
+      "match_time": "11:00",
+      "match_highlight": "League leaders Inter Turku target crucial championship points at Lemonsoft Stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638110,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Inter Turku's 15 clean sheets and championship urgency provide decisive advantages over a struggling VPS attack."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined defensive metrics and low scoring expectation yield a dominant 64.9% model density for Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A controlled away clean sheet represents the most mathematically probable scoreline cluster."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates 52.7% probability across exactly one and two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A level opening half followed by an Inter second-half breakthrough leads tactical progression."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 23:08:40 UTC"
+}
