@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551851,
+    "matchup": "FC Volendam vs Jong Utrecht",
+    "home_team": "FC Volendam",
+    "away_team": "Jong Utrecht",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-fc-volendam-vs-jong-utrecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Volendam vs Jong Utrecht Prediction & Match Analysis: Can Reserves Halt Veerman? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551851",
+      "league": "Eerste Divisie",
+      "matchup": "FC Volendam vs Jong Utrecht",
+      "matchTime": "2026-10-23 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Volendam to secure a high-tempo home victory capitalizing on Jong Utrecht's porous defensive structure.",
+    "possibilityAssessment": [
+      "FC Volendam regulation win driven by Veerman box dominance and crossing overloads (Confidence: Moderate, Value: High)",
+      "High-scoring encounter exceeding 2.5 total goals driven by both defenses conceding regularly (Confidence: High, Value: Moderate)",
+      "Narrow 2:1 contest where Jong Utrecht register on transition before succumbing to home pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551851",
+      "league": "Eerste Divisie",
+      "homeTeam": "FC Volendam",
+      "awayTeam": "Jong Utrecht",
+      "match_time": "18:00",
+      "match_highlight": "Veerman and Doodeman spearhead Kras Stadion attack against leaky reserve defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551851,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "FC Volendam's aerial supremacy and five-match H2H winning streak provide a decisive edge against Jong Utrecht's fragile defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams combine for an average of over 3.6 goals scored and 3.9 conceded per match, strongly pointing toward Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 home victory represents the modal convergence point, with 3:1 covering late-game open transition counters."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals capture over 40% of the Poisson probability density in this open tactical matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Volendam's fast-starting home profile supports an early lead, while Draw-Win covers second-half fatigue exploitation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:06:53 UTC"
+}
