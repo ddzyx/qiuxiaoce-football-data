@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559178,
+    "matchup": "Francs Borains vs Dender",
+    "home_team": "Francs Borains",
+    "away_team": "Dender",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-10-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-francs-borains-vs-dender/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Francs Borains vs Dender Prediction & Match Analysis: Defensive Wall vs Home xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1559178",
+      "league": "Challenger Pro League",
+      "matchup": "Francs Borains vs Dender",
+      "matchTime": "2026-10-23 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FCV Dender EH's elite defensive structure (0.29 goals conceded per match) and transitional efficiency will overcome Francs Borains' home pressure to secure an outright road victory.",
+    "possibilityAssessment": [
+      "Away Win via disciplined low-block absorption and second-half transition strikes (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by Dender's league-best 0.87 xGA prevention metrics (Confidence: Moderate, Value: High)",
+      "Francs Borains wide breakthrough yielding a high-variance competitive finish (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559178",
+      "league": "Challenger Pro League",
+      "homeTeam": "Francs Borains",
+      "awayTeam": "Dender",
+      "match_time": "18:00",
+      "match_highlight": "Dender's elite defense faces Francs Borains' aggressive wing attack at Stade Robert Urbain.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559178,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Dender's five-match winning run and microscopic 0.29 goals conceded per match establish them as clear tactical favorites against a vulnerable home backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derived lambda total of 2.30 goals and Dender's 71.4% Under 2.5 rate this season strongly favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A 0:2 shutout victory reflects Dender's standard game-state script, with 1:2 covering Francs Borains' home flank potential."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three total goals combine for over 44% model probability density across all probabilistic simulations."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Dender's second-half fitness and counter-attacking dominance favor a breakthrough following an evenly contested first half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:18:23 UTC"
+}
