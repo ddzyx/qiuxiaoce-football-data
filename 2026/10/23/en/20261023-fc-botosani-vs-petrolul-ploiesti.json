@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565284,
+    "matchup": "FC Botosani vs Petrolul Ploiesti",
+    "home_team": "FC Botosani",
+    "away_team": "Petrolul Ploiesti",
+    "league": "Liga I",
+    "kickoff_utc": "2026-10-23 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-fc-botosani-vs-petrolul-ploiesti/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Botosani vs Petrolul Ploiesti Prediction: Home Record vs Counter Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1565284",
+      "league": "Liga I",
+      "matchup": "FC Botosani vs Petrolul Ploiesti",
+      "matchTime": "2026-10-23 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Botosani's fortress-like home stability makes Home Win / Draw the premier risk-managed selection in an attritional, low-scoring battle.",
+    "possibilityAssessment": [
+      "Home Win / Draw provides comprehensive coverage across Botosani's stingy home defense and Petrolul's stubborn road counter (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with Poisson modeling indicating a 53.1% density for two goals or fewer (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 serves as the primary convergence point where attacking momentum meets mutual defensive structure (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565284",
+      "league": "Liga I",
+      "homeTeam": "FC Botosani",
+      "awayTeam": "Petrolul Ploiesti",
+      "match_time": "15:00",
+      "match_highlight": "Botosani's unbeaten home record meets Petrolul's disciplined road counter.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565284,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Botosani's home dominance and the high-probability deadlock script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson simulations show a 53.1% concentration under 2.5 goals with both backlines prioritizing stability."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate leads model density, closely followed by a controlled 1:0 home victory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represent the statistical peak at 25.4%, backed by a 1-goal secondary branch at 19.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey opening half is expected to preserve parity before second-half adjustments unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 03:03:08 UTC"
+}
