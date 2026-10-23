@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1523283,
+    "matchup": "Chengdu Better City vs Dalian Zhixing",
+    "home_team": "Chengdu Better City",
+    "away_team": "Dalian Zhixing",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-24 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-chengdu-better-city-vs-dalian-zhixing/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chengdu Better City vs Dalian Zhixing Prediction: Title Decider & Wei Shihao Void — XG Mind AI Model",
+    "meta": {
+      "matchId": "1523283",
+      "league": "Super League",
+      "matchup": "Chengdu Better City vs Dalian Zhixing",
+      "matchTime": "2026-10-24 07:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Dalian Zhixing to avoid defeat via Draw / Away Win as Chengdu's scoring drought and title-clinching point incentive prioritize risk containment.",
+    "possibilityAssessment": [
+      "Stalemate scenario where Chengdu secures the title via a conservative 1:1 draw (Confidence: Moderate, Value: High)",
+      "Transitional smash-and-grab away win for in-form Dalian ending 0:1 (Confidence: Moderate, Value: Moderate)",
+      "High-pressure home victory where Chengdu edges a narrow 1:0 result (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1523283",
+      "league": "Super League",
+      "homeTeam": "Chengdu Better City",
+      "awayTeam": "Dalian Zhixing",
+      "match_time": "07:30",
+      "match_highlight": "Championship decider features goal-starved leaders facing in-form Acheampong counter-attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1523283,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the title-clinching 1:1 stalemate for Chengdu and the 0:1 counter-attacking victory for in-form Dalian, reflecting the hosts' 3-match goal drought without Wei Shihao."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is strongly supported by Chengdu's conservative game-state incentive and combined model goal expectancy of 2.3."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 draw crowns Chengdu champions on home soil, while 0:1 reflects Dalian's elite transitional pace punishing defensive over-extension."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates 49.6% density on exactly 1 or 2 goals in a tightly contested championship match."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Expect a low-risk opening half resulting in a level interval before second-half fatigue or game-state management determines the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 19:34:02 UTC"
+}
