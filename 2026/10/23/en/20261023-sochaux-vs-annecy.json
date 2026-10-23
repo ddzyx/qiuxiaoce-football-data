@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552511,
+    "matchup": "Sochaux vs Annecy",
+    "home_team": "Sochaux",
+    "away_team": "Annecy",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261023-sochaux-vs-annecy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sochaux vs Annecy Prediction & Match Analysis: Can FCSM Contain Sahi Dion? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552511",
+      "league": "Ligue 2",
+      "matchup": "Sochaux vs Annecy",
+      "matchTime": "2026-10-23 18:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Annecy's superior xG creation and transitional pace make Draw / Away Win the premier risk-adjusted stance against a draw-heavy Sochaux.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win backed by Sochaux's 55% draw rate and Annecy's transitional threat (Confidence: Moderate, Value: High)",
+      "Secondary Thesis: Under 2.5 Goals supported by Sochaux's 1.80 match goal average and Jeannin's shot-stopping (Confidence: Moderate, Value: High)",
+      "Contingency Thesis: Low-scoring 1:1 deadlock representing the mathematical modal distribution at 11.5% (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552511",
+      "league": "Ligue 2",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Annecy",
+      "match_time": "18:00",
+      "match_highlight": "Annecy's clinical transition exploits Sochaux's vulnerable 1.78 xGA defense at Bonal.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552511,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-frequency 1:1 stalemate and Annecy's 1:2 smash-and-grab counter script against Sochaux's porous defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sochaux's anemic 0.8 goals per match and Jeannin's 34 saves support a tight match below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 modal scoreline reflects Sochaux's five season draws, with 1:2 covering Annecy's road transition punch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson goal density peaks across 2 and 3 total goals, representing 45.5% of model distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "First-half attrition favors a level scoreline at the interval, before Annecy's transition edge dictates the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 06:16:52 UTC"
+}
