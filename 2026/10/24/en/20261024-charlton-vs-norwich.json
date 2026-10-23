@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563218,
+    "matchup": "Charlton vs Norwich",
+    "home_team": "Charlton",
+    "away_team": "Norwich",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-24 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-charlton-vs-norwich/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Charlton vs Norwich Prediction & Match Analysis: Can Addicks Break Slump? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563218",
+      "league": "Championship",
+      "matchup": "Charlton vs Norwich",
+      "matchTime": "2026-10-24 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Charlton to avoid defeat in an attritional, low-scoring encounter as Home Win / Draw and Under 2.5 goals capture the dominant match scripts.",
+    "possibilityAssessment": [
+      "Stalemate Grind: Mutual attacking bluntness produces a scoreless or single-goal draw (Confidence: Moderate, Value: High)",
+      "Charlton Set-Piece Edge: Addicks exploit Norwich's zero-clean-sheet backline for a 1-0 victory (Confidence: Moderate, Value: Moderate)",
+      "Norwich Counter Resurgence: Canaries capitalize on isolated perimeter moments despite losing skid (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563218",
+      "league": "Championship",
+      "homeTeam": "Charlton",
+      "awayTeam": "Norwich",
+      "match_time": "11:30",
+      "match_highlight": "Reeling Canaries face resolute Addicks in South London stalemate battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563218,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the dominant 0:0 stalemate script alongside a secondary 1:0 Charlton set-piece win against a depleted Norwich attack."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 0.56 and severe attacking absences make Under 2.5 goals an overwhelming quantitative consensus."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "Reflects mutual scoring drought with 0:0 as modal density and 1:0 as primary decisive deviation."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "Microscopic combined xG output concentrates 89.1% of goal probability within zero or one total goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey, defensive first half leads into an extended deadlock or late Charlton set-piece decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-23 23:36:26 UTC"
+}
