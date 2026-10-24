@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606719,
+    "matchup": "Montedio Yamagata vs Tegevajaro Miyazaki",
+    "home_team": "Montedio Yamagata",
+    "away_team": "Tegevajaro Miyazaki",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-25 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-montedio-yamagata-vs-tegevajaro-miyazaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Montedio Yamagata vs Tegevajaro Miyazaki Prediction & Preview: Can Yamagata Break Slump? — Model Analysis",
+    "meta": {
+      "matchId": "1606719",
+      "league": "J2 League",
+      "matchup": "Montedio Yamagata vs Tegevajaro Miyazaki",
+      "matchTime": "2026-10-25 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tegevajaro Miyazaki to avoid defeat via Draw / Away Win, capitalizing on Yamagata's severe 270-minute scoring drought and transition vulnerabilities.",
+    "possibilityAssessment": [
+      "Miyazaki clinical counter-attack secures a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Yamagata retrenchment results in a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo second half pushes total scoring to exactly 3 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606719",
+      "league": "J2 League",
+      "homeTeam": "Montedio Yamagata",
+      "awayTeam": "Tegevajaro Miyazaki",
+      "match_time": "05:00",
+      "match_highlight": "Miyazaki's transition potency confronts Yamagata's 270-minute scoring drought at ND Soft Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606719,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Miyazaki's clinical 1:2 transition win and their frequent 1:1 road stalemates, while Yamagata's winless slide makes a single home call unjustified."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson goal expectancy model of 4.75 combined lambdas points toward transitional openings exceeding the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away triumph represents the primary transitional script, backed by a resilient 1:1 deadlock as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals captures the primary 1:2 scoreline, while two goals covers the tight 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half is projected to produce a half-time draw, before Miyazaki's late transition pace seals the result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 17:08:16 UTC"
+}
