@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494309,
+    "matchup": "Kalmar FF vs IF Brommapojkarna",
+    "home_team": "Kalmar FF",
+    "away_team": "IF Brommapojkarna",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-24 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-kalmar-ff-vs-if-brommapojkarna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kalmar FF vs IF Brommapojkarna Prediction: Rebound xG vs Road Fragility — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1494309",
+      "league": "Allsvenskan",
+      "matchup": "Kalmar FF vs IF Brommapojkarna",
+      "matchTime": "2026-10-24 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kalmar FF to claim all three points at Guldfågeln Arena against Brommapojkarna's porous road defense.",
+    "possibilityAssessment": [
+      "Kalmar FF outright victory driven by xG mean-reversion and high survival urgency (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals capitalizing on Brommapojkarna conceding 2.33 goals per away match (Confidence: Moderate, Value: Moderate)",
+      "Disciplined 2:0 Kalmar clean-sheet victory if early game-state control neutralizes BP counters (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494309",
+      "league": "Allsvenskan",
+      "homeTeam": "Kalmar FF",
+      "awayTeam": "IF Brommapojkarna",
+      "match_time": "15:30",
+      "match_highlight": "Kalmar FF seek survival points as Brommapojkarna's fragile defense travels south.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494309,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kalmar's superior +2.2 net expected goal differential and survival motivation overwhelm Brommapojkarna's league-worst duel efficiency and leaky away backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Brommapojkarna surrender 2.33 goals per road fixture, ensuring substantial goal expectancy when paired with Kalmar's rebounding attack."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the modal convergence of Kalmar's pressure and BP's transition punch, with 2:0 serving as the controlled clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serves as the primary density anchor, backed closely by two goals in the event of home defensive control."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A cagey first half giving way to second-half physical attrition makes Draw-Win the leading script, followed by a wire-to-wire Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 03:34:51 UTC"
+}
