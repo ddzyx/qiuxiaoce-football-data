@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593340,
+    "matchup": "Asteras Tripolis vs Levadiakos",
+    "home_team": "Asteras Tripolis",
+    "away_team": "Levadiakos",
+    "league": "Super League 1",
+    "kickoff_utc": "2026-10-24 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-asteras-tripolis-vs-levadiakos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Asteras Tripolis vs Levadiakos Prediction: Can Visitors Break Goal Drought? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593340",
+      "league": "Super League 1",
+      "matchup": "Asteras Tripolis vs Levadiakos",
+      "matchTime": "2026-10-24 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Asteras Tripolis is projected to overcome Levadiakos's low block and secure a disciplined, low-scoring home victory.",
+    "possibilityAssessment": [
+      "Asteras Tripolis unlocks a stubborn Levadiakos defense in the second half for a narrow 1-0 victory (Confidence: Moderate, Value: High)",
+      "Levadiakos's defensive fatigue leads to a late secondary concession, resulting in a 2-0 home win (Confidence: Moderate, Value: Moderate)",
+      "Levadiakos extends their defensive containment for a third 0-0 stalemate of the campaign (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593340",
+      "league": "Super League 1",
+      "homeTeam": "Asteras Tripolis",
+      "awayTeam": "Levadiakos",
+      "match_time": "16:30",
+      "match_highlight": "Levadiakos goal drought meets Asteras home resilience in crucial bottom-table clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593340,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Asteras Tripolis possesses sufficient attacking potency at home to grind past a Levadiakos side that has failed to score all season."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Levadiakos's 0-goal output combined with their solid 1.07 xGA strongly favors a low-scoring match under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "A 1-0 home victory serves as the primary statistical convergence point, with 2-0 as the natural game-state extension."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution models place over 51% cumulative probability on exactly 1 or 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Levadiakos's early defensive compactness will likely maintain first-half parity before Asteras breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 04:41:27 UTC"
+}
