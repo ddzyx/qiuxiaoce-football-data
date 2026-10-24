@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552795,
+    "matchup": "Lens vs Paris FC",
+    "home_team": "Lens",
+    "away_team": "Paris FC",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-24 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261024-lens-vs-paris-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lens vs Paris FC Prediction & Match Analysis: Sinayoko Threat vs Bollaert Resilience — Scoreline Preview",
+    "meta": {
+      "matchId": "1552795",
+      "league": "Ligue 1",
+      "matchup": "Lens vs Paris FC",
+      "matchTime": "2026-10-24 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Paris FC to avoid defeat via Draw / Away Win in a low-scoring encounter under 2.5 goals.",
+    "possibilityAssessment": [
+      "Paris FC avoid defeat through structured counter-pressing and defensive compactness (Confidence: Moderate, Value: High)",
+      "Total goals remain constrained under 2.5 due to Lens attacking injuries and fatigue (Confidence: Moderate, Value: High)",
+      "Paris FC capitalize on late second-half fatigue to snatch an outright away victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552795",
+      "league": "Ligue 1",
+      "homeTeam": "Lens",
+      "awayTeam": "Paris FC",
+      "match_time": "18:45",
+      "match_highlight": "Paris FC counter-press confronts fatigued Lens backline at Bollaert",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552795,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Paris FC's superior 1.91 xG efficiency and Lens's 72-hour European turnaround support an away-tilted double chance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined xGA solidity and Lens attacking absences cap expected goal output below 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects a tight 1:1 tactical deadlock as primary and a 0:1 transition smash-and-grab as secondary."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution allocates over 50% density to 1 or 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half followed by second-half Paris FC transition control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 06:51:56 UTC"
+}
