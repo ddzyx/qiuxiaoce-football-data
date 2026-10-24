@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558653,
+    "matchup": "Antwerp vs Charleroi",
+    "home_team": "Antwerp",
+    "away_team": "Charleroi",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-antwerp-vs-charleroi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Antwerp vs Charleroi Prediction & Match Analysis: Defensive Collapse vs Flying Form — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1558653",
+      "league": "Jupiler Pro League",
+      "matchup": "Antwerp vs Charleroi",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Sporting Charleroi to secure an outright away victory against a structurally broken Royal Antwerp defense.",
+    "possibilityAssessment": [
+      "Charleroi Outright Away Win (Confidence: High, Value: High)",
+      "Over 2.5 Total Match Goals (Confidence: High, Value: High)",
+      "Antwerp High-Line Transition Score (1:2 Correct Score Branch) (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558653",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Antwerp",
+      "awayTeam": "Charleroi",
+      "match_time": "14:00",
+      "match_highlight": "Charleroi's elite form collides with Antwerp's alarming defensive collapse at Bosuilstadion.",
+      "ai_confidence": "High",
+      "fixtureId": 1558653,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Charleroi's superior structural discipline and 1.89 xG per game will exploit Antwerp's porous defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Antwerp's 2.42 xGA and 2.50 goals conceded per match strongly point toward a high-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away win reflects Charleroi's offensive edge while allowing for Antwerp's punch at Bosuilstadion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The Poisson distribution peaks heavily across the 2 to 3 goal cluster led by Charleroi's clinical attack."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Antwerp may resist early before Charleroi's superior tactical execution settles the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:17:03 UTC"
+}
