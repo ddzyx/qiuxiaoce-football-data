@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569982,
+    "matchup": "Almeria vs Oviedo",
+    "home_team": "Almeria",
+    "away_team": "Oviedo",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-almeria-vs-oviedo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Almeria vs Real Oviedo Prediction: Offensive xG Supremacy vs Away Resiliency — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1569982",
+      "league": "Segunda División",
+      "matchup": "Almeria vs Oviedo",
+      "matchTime": "2026-10-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Almería to claim all three points at home in an open, multi-goal encounter featuring over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Almería Home Win via sustained positional dominance and clinical finishing (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals based on combined 2.96 seasonal xG and Almería's 2.0 goals-per-match rate (Confidence: Moderate, Value: High)",
+      "2:1 Scoreline Corridor reflecting an Almería victory with Oviedo scoring on transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569982",
+      "league": "Segunda División",
+      "homeTeam": "Almeria",
+      "awayTeam": "Oviedo",
+      "match_time": "19:00",
+      "match_highlight": "Table-topping Almería target an eighth consecutive league victory against counter-attacking Oviedo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569982,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Almería boast a flawless 5-0-0 home record and a +4.2 xG differential that decisively outmatches Oviedo's vulnerable road defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.96 xG expectancy and Almería's 2.0 goals-per-game average strongly support exceeding the 2.5 goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence of attacking volume, with 2:0 as the clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads model probability distributions, closely trailed by a 2-goal scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Oviedo's low-block resistance is expected to hold until halftime before Almería's pressure produces second-half dominance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 07:06:47 UTC"
+}
