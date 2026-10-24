@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490568,
+    "matchup": "San Diego vs Seattle Sounders",
+    "home_team": "San Diego",
+    "away_team": "Seattle Sounders",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-25 02:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-san-diego-vs-seattle-sounders/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "San Diego vs Seattle Sounders Prediction: Can SDFC's High Line Contain Sounders? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490568",
+      "league": "Major League Soccer",
+      "matchup": "San Diego vs Seattle Sounders",
+      "matchTime": "2026-10-25 02:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Seattle Sounders to avoid defeat in an open, transition-heavy contest via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Seattle Sounders punish San Diego's high line on transitions for a 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Disciplined Seattle low block holds a dominant-possession San Diego to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "San Diego outscores defensive leaks in a high-variance shoot-out (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490568",
+      "league": "Major League Soccer",
+      "homeTeam": "San Diego",
+      "awayTeam": "Seattle Sounders",
+      "match_time": "02:30",
+      "match_highlight": "Porous home defense faces disciplined Rave Green transition counter-attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490568,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "San Diego's eight-match winless skid and 1.74 xGA leakage make backing an outright home win unviable against Seattle's compact structure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "San Diego matches average 3.63 goals per game, driving high goal probability past the combined 3.16 lambda expectation."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 reflects Seattle punishing high lines; secondary 1:1 mirrors their previous meeting in May."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the median expectation for an open transition match, with two goals covering the low-block stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first-half tactical battle opens up after the break as home side tires in defensive transitions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 14:34:32 UTC"
+}
