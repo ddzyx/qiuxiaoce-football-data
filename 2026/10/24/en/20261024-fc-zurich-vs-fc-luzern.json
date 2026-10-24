@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555412,
+    "matchup": "FC Zurich vs FC Luzern",
+    "home_team": "FC Zurich",
+    "away_team": "FC Luzern",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-24 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-fc-zurich-vs-fc-luzern/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Zurich vs FC Luzern Prediction & Match Analysis: Midfield Suspension Exposes Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1555412",
+      "league": "Super League",
+      "matchup": "FC Zurich vs FC Luzern",
+      "matchTime": "2026-10-24 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Zurich are projected to defeat FC Luzern at Letzigrund in a high-tempo, multi-goal contest exploiting Luzern's defensive disarray.",
+    "possibilityAssessment": [
+      "FC Zurich regulation victory backed by home form and Luzern midfield absences (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by both clubs conceding 2.20 goals per match (Confidence: High, Value: Moderate)",
+      "High-scoring draw contingency should Zurich experience severe defensive lapses (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555412",
+      "league": "Super League",
+      "homeTeam": "FC Zurich",
+      "awayTeam": "FC Luzern",
+      "match_time": "16:00",
+      "match_highlight": "Bertone suspension leaves Luzern vulnerable against surging Zurich attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555412,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "FC Zurich hold decisive tactical and personnel advantages over an unstable Luzern defense missing Leonardo Bertone."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average 2.20 goals conceded per match, ensuring multiple scoring avenues and high goal volatility."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 victory reflects mutual defensive vulnerability, while 3:1 accounts for late transitional exploitation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent over 40% combined probability under Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win models second-half separation as Luzern tire, with Win-Win covering an early Zurich breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 04:06:29 UTC"
+}
