@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555411,
+    "matchup": "BSC Young Boys vs FC ST. Gallen",
+    "home_team": "BSC Young Boys",
+    "away_team": "FC ST. Gallen",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-24 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-bsc-young-boys-vs-fc-st-gallen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "BSC Young Boys vs FC ST. Gallen Prediction: Wankdorf Attack vs Defensive Flaws — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1555411",
+      "league": "Super League",
+      "matchup": "BSC Young Boys vs FC ST. Gallen",
+      "matchTime": "2026-10-24 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back BSC Young Boys to secure a hard-fought home victory over FC ST. Gallen in a high-scoring encounter exceeding 2.5 total goals.",
+    "possibilityAssessment": [
+      "BSC Young Boys Home Win driven by elite 3.3 goals/game attacking output (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by 71.7% Poisson simulation density (Confidence: High, Value: Moderate)",
+      "Both Teams to Score (Yes) capitalizing on Young Boys' 1.80 conceded goals/game (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555411",
+      "league": "Super League",
+      "homeTeam": "BSC Young Boys",
+      "awayTeam": "FC ST. Gallen",
+      "match_time": "18:30",
+      "match_highlight": "Young Boys' league-best attack faces historic bogey team St. Gallen at Wankdorf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555411,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Young Boys' superior shot creation and depth will outlast St. Gallen's spirited transitional challenge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.0 xG per match and concede heavily, making a 3+ goal game highly probable."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Reflects Young Boys scoring multiple goals while conceding via transition or dead-ball moments."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "A 3-goal outcome serves as the primary convergence point with a 4-goal script as secondary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Anticipates St. Gallen holding firm initially before Young Boys pull away in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 06:36:31 UTC"
+}
