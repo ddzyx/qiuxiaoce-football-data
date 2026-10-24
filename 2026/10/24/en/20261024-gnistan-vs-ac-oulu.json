@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638111,
+    "matchup": "Gnistan vs AC Oulu",
+    "home_team": "Gnistan",
+    "away_team": "AC Oulu",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-gnistan-vs-ac-oulu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gnistan vs AC Oulu Prediction & Match Analysis: European Battle & Suspension Fallout — Scoreline Preview",
+    "meta": {
+      "matchId": "1638111",
+      "league": "Veikkausliiga",
+      "matchup": "Gnistan vs AC Oulu",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gnistan's severe four-match attacking drought and the suspension of Edmund Arko-Mensah make an outright home victory improbable against an in-form AC Oulu side holding strong double-chance value.",
+    "possibilityAssessment": [
+      "AC Oulu avoid defeat in a cagey 1:1 stalemate as Gnistan protect their European playoff cushion (Confidence: Moderate, Value: High)",
+      "AC Oulu exploit transitional space late in the second half to secure a 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Gnistan capitalize on AC Oulu's backup goalkeeper via an aerial set piece to grind out a narrow result (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638111",
+      "league": "Veikkausliiga",
+      "homeTeam": "Gnistan",
+      "awayTeam": "AC Oulu",
+      "match_time": "14:00",
+      "match_highlight": "Direct European battle shaped by red-card suspensions to Arko-Mensah and Santos.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638111,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and the secondary 1:2 away victory, addressing Gnistan's severe goal drought and Oulu's strong road form."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by Gnistan's one goal scored in their last 360 minutes and high tactical stakes limiting open-play risk."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline represents the primary Poisson convergence, while 1:2 accounts for Oulu's transition threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the highest individual density band at 25.7%, followed by three goals at 21.4%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw reflects a disciplined standoff across both halves, while Draw-Loss reflects a late counter-attacking decider for Oulu."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:42:44 UTC"
+}
