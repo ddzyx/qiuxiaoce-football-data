@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563225,
+    "matchup": "West Ham vs Southampton",
+    "home_team": "West Ham",
+    "away_team": "Southampton",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-west-ham-vs-southampton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "West Ham vs Southampton Prediction: Transition Pace vs Possession Standoff — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563225",
+      "league": "Championship",
+      "matchup": "West Ham vs Southampton",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "West Ham's clinical transitional efficiency and superior attacking depth should overcome Southampton's possession-heavy setup in a hard-fought home victory.",
+    "possibilityAssessment": [
+      "Primary Thesis: West Ham to capitalize on transitional turnovers to secure an outright victory (Confidence: Moderate, Value: High)",
+      "Secondary Angle: High goal expectancy driven by West Ham's 30-goal attack pointing toward Over 2.5 goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Southampton's recent defensive shutouts force a cagey, lower-scoring 2:0 margin (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563225",
+      "league": "Championship",
+      "homeTeam": "West Ham",
+      "awayTeam": "Southampton",
+      "match_time": "14:00",
+      "match_highlight": "Promotion contenders clash as West Ham's lethal counters meet Southampton's possession build-up.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563225,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "West Ham's division-leading firepower and counter-attacking setup match up ideally against Southampton's possession-heavy structure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Elevated goal expectancy derived from West Ham averaging 3.0 goals per match and both sides possessing elite individual creators."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence, with 2:0 serving as the primary defensive shutout hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects the dynamic open game script, while two goals covers the tighter first-half attrition scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win accounts for Southampton's initial defensive resistance, while Win-Win covers an early West Ham counter-attack strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:24:16 UTC"
+}
