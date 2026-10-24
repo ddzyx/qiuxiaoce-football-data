@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606723,
+    "matchup": "Sagan Tosu vs Vanraure Hachinohe",
+    "home_team": "Sagan Tosu",
+    "away_team": "Vanraure Hachinohe",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-25 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-sagan-tosu-vs-vanraure-hachinohe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sagan Tosu vs Vanraure Hachinohe Prediction: Kogiku's Flank Overload vs Kuraishi's Low Block — Scoreline Analysis",
+    "meta": {
+      "matchId": "1606723",
+      "league": "J2 League",
+      "matchup": "Sagan Tosu vs Vanraure Hachinohe",
+      "matchTime": "2026-10-25 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sagan Tosu to secure a controlled home victory against defensively fragile Vanraure Hachinohe in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Sagan Tosu controlled 2:0 home shutout via wide overloads and second-half acceleration (Confidence: Moderate, Value: High)",
+      "Low-scoring match environment finishing Under 2.5 goals due to Hachinohe's muted away attack (Confidence: Moderate, Value: Moderate)",
+      "Narrow 1:0 Sagan Tosu victory if Hachinohe's low block holds firm into late stages (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606723",
+      "league": "J2 League",
+      "homeTeam": "Sagan Tosu",
+      "awayTeam": "Vanraure Hachinohe",
+      "match_time": "05:00",
+      "match_highlight": "Tosu's home superiority to dismantle Hachinohe's fragile low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606723,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sagan Tosu's formidable 2.0 home scoring average and Hachinohe's 20 conceded goals support a decisive outright home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by a 60.9% Poisson probability and Hachinohe's suppressed 0.25 away goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "The 2:0 and 1:0 scorelines represent the twin statistical peaks of the goal-expectancy distribution."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 Goals represents the modal total at 26.7%, closely followed by 1 Goal at 23.7%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Hachinohe's initial low-block resistance points toward a level first half before Tosu break through after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 17:13:00 UTC"
+}
