@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556116,
+    "matchup": "Nagoya Grampus vs Yokohama F. Marinos",
+    "home_team": "Nagoya Grampus",
+    "away_team": "Yokohama F. Marinos",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-25 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-nagoya-grampus-vs-yokohama-f-marinos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nagoya Grampus vs Yokohama F. Marinos Prediction: Can Grampus Halt Marinos' Road Run? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556116",
+      "league": "J1 League",
+      "matchup": "Nagoya Grampus vs Yokohama F. Marinos",
+      "matchTime": "2026-10-25 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nagoya's disciplined home structure under Mihailo Petrovic is primed to frustrate Yokohama F. Marinos' stagnant road attack, pointing toward a tightly contested stalemate or narrow away margin.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win double-chance captures Yokohama's baseline technical edge alongside Nagoya's stubborn Toyota Stadium resilience (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Under 2.5 total goals aligns with Marinos producing five under-totals in their last six league outings (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: A high-tempo 1:2 away victory remains the primary risk branch if Marinos break the deadlock before the hour mark (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556116",
+      "league": "J1 League",
+      "homeTeam": "Nagoya Grampus",
+      "awayTeam": "Yokohama F. Marinos",
+      "match_time": "05:00",
+      "match_highlight": "Nagoya home resilience clashes with Yokohama away possession.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556116,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Combines the stalemate likelihood of Marinos' recent road draws with their technical ceiling to edge a narrow result."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Heavily supported by Yokohama's consecutive 0-0 away draws and disciplined low-block setups."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Reflects a tight 1:1 baseline stalemate with a 1:2 contingency on late Marinos quality."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Concentrated across the modal 2 and 3 total goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a cagey opening 45 minutes yielding second-half attrition."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 17:08:10 UTC"
+}
