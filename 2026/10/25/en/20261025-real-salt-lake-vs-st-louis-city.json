@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490567,
+    "matchup": "Real Salt Lake vs St. Louis City",
+    "home_team": "Real Salt Lake",
+    "away_team": "St. Louis City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-25 02:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-real-salt-lake-vs-st-louis-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Salt Lake vs St. Louis City Prediction: Open Cup Hangover vs RSL Urgency — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490567",
+      "league": "Major League Soccer",
+      "matchup": "Real Salt Lake vs St. Louis City",
+      "matchTime": "2026-10-25 02:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Salt Lake capitalize on St. Louis City's grueling 120-minute Open Cup final fatigue and Sandy altitude to secure a hard-fought result, with a 1:1 stalemate or narrow 2:1 home triumph representing the primary match corridors.",
+    "possibilityAssessment": [
+      "St. Louis City fatigue management leading to a 1:1 tactical stalemate (Confidence: Moderate, Value: High)",
+      "Late Real Salt Lake breakthrough against tired visiting legs yielding a 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "St. Louis transitional counter efficiency stealing points in a high-variance 1:2 script (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490567",
+      "league": "Major League Soccer",
+      "homeTeam": "Real Salt Lake",
+      "awayTeam": "St. Louis City",
+      "match_time": "02:30",
+      "match_highlight": "St. Louis faces post-cup final fatigue at altitude against desperate RSL",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490567,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers the high-probability 1:1 physical stalemate and late 2:1 RSL victory against exhausted visiting legs."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with St. Louis playing a conservative low block to preserve energy and RSL missing chief creator Diego Luna."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate reflects prior H2H deadlock while 2:1 captures RSL exploiting late second-half physical decline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the primary low-tempo attrition script, with three goals capturing late transitional breakdown."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Draw-Draw reflects conservative first-half energy conservation, while Draw-Win accounts for late altitude-induced fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 14:34:12 UTC"
+}
