@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563830,
+    "matchup": "Chesterfield vs Crewe",
+    "home_team": "Chesterfield",
+    "away_team": "Crewe",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-chesterfield-vs-crewe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chesterfield vs Crewe Prediction & Match Analysis: Possession Control vs Low-Block Trap — Scoreline Preview",
+    "meta": {
+      "matchId": "1563830",
+      "league": "League Two",
+      "matchup": "Chesterfield vs Crewe",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Chesterfield's 70% territorial monopoly confronts Crewe's league-best low block, making Home Win / Draw coverage across a 1-1 draw and 2-1 home win the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance balancing Chesterfield's home field tilt against Crewe's elite 11-goal defensive record (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals underpinned by Crewe's 0.92 goals conceded per match and Chesterfield's box penetration struggles (Confidence: Moderate, Value: Moderate)",
+      "Stalemate contingency 1:1 scoreline capturing Chesterfield's finishing wastefulness and Crewe's six season draws (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563830",
+      "league": "League Two",
+      "homeTeam": "Chesterfield",
+      "awayTeam": "Crewe",
+      "match_time": "14:00",
+      "match_highlight": "Chesterfield possession confronts Crewe's stubborn low block and league-leading defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563830,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw encapsulates both the persistent 1:1 stalemate and Chesterfield's narrow 2-1 late breakthrough."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Crewe's stingy defense conceding just 0.92 goals per game aligns with Chesterfield's finishing struggles to favor the under."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw represents the primary stalemate convergence, with 2:1 reflecting Chesterfield's second-half territorial breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the highest probability density from the 1:1 outcome, followed closely by three goals in a 2:1 victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Crewe's first-half containment indicates a level opening interval before late fatigue opens second-half scoring routes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:26:31 UTC"
+}
