@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575518,
+    "matchup": "Alverca vs Arouca",
+    "home_team": "Alverca",
+    "away_team": "Arouca",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-24 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-alverca-vs-arouca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Alverca vs Arouca Prediction: Ferreira's In-Form Attack Faces Resilient Lobos — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575518",
+      "league": "Primeira Liga",
+      "matchup": "Alverca vs Arouca",
+      "matchTime": "2026-10-24 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back in-form Alverca to secure points against resilient Arouca via a home-leaning double chance in an open encounter.",
+    "possibilityAssessment": [
+      "Alverca edge a high-tempo transition contest 2:1 behind second-half attacking momentum (Confidence: Moderate, Value: High)",
+      "Arouca's organized defensive structure secures a hard-fought 1:1 road stalemate (Confidence: Moderate, Value: High)",
+      "Arouca snatch a narrow 1:2 counter-attacking victory exploiting Alverca's high defensive line (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575518",
+      "league": "Primeira Liga",
+      "homeTeam": "Alverca",
+      "awayTeam": "Arouca",
+      "match_time": "17:00",
+      "match_highlight": "Alverca's dynamic front line challenges Arouca's disciplined defensive block in Ribatejo",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575518,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Alverca's high-speed transition victory (2:1) and Arouca's disciplined low-block stalemate (1:1), reflecting the tight matchup between in-form sides."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 2.97 and Alverca's porous defense (1.64 xGA) point toward goals at both ends."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 home victory mirrors last season's clash at this venue, while 1:1 represents the modal score in the Poisson distribution."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal tally perfectly captures the 2:1 primary script, with 2 goals providing balanced coverage for the 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Arouca's disciplined early structure keeps the opening half level, before Alverca's second-half acceleration tilts the final result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 05:04:17 UTC"
+}
