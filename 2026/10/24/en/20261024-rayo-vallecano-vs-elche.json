@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570429,
+    "matchup": "Rayo Vallecano vs Elche",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Elche",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-24 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-rayo-vallecano-vs-elche/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rayo Vallecano vs Elche Prediction: Vallecas Unrest Meets Elche's Road Resilience — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1570429",
+      "league": "La Liga",
+      "matchup": "Rayo Vallecano vs Elche",
+      "matchTime": "2026-10-24 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rayo Vallecano double chance (Home Win / Draw) in a tightly contested, low-margin encounter capped under 2.5 goals.",
+    "possibilityAssessment": [
+      "Low-block stalemate resulting in a 1:1 draw as Elche frustrate Rayo (Confidence: Moderate, Value: High)",
+      "Rayo Vallecano break through Elche's resistance for a narrow 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Elche snatch a counter-attacking upset if Rayo overcommit numbers forward (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570429",
+      "league": "La Liga",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Elche",
+      "match_time": "12:00",
+      "match_highlight": "Vallecas unrest confronts Elche's disciplined away defensive low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570429,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Rayo's home attacking volume alongside Elche's proven away low-block resilience and Dituro's form."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Elche's back-to-back 0:0 clean sheets and Rayo's consecutive 1:1 draws support a tightly capped total under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 draw represents the primary Poisson convergence point, with 2:1 serving as the alternate Rayo home win branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Model density concentrates heavily across 2 goals (22.7%) and 3 goals (22.4%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Off-pitch tension and compact defensive setups point to a level first half before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 00:07:36 UTC"
+}
