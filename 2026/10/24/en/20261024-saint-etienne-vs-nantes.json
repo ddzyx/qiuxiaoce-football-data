@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552512,
+    "matchup": "Saint Etienne vs Nantes",
+    "home_team": "Saint Etienne",
+    "away_team": "Nantes",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-24 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261024-saint-etienne-vs-nantes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint Etienne vs Nantes Prediction & Match Analysis: Can Verts Exploit Canaris Defense? — xG Preview",
+    "meta": {
+      "matchId": "1552512",
+      "league": "Ligue 2",
+      "matchup": "Saint Etienne vs Nantes",
+      "matchTime": "2026-10-24 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Saint Etienne's league-leading attacking efficiency and home dominance at Le Chaudron will overcome Nantes' vulnerable transition defense.",
+    "possibilityAssessment": [
+      "Saint Etienne Outright Win driven by 2.01 xG/game attacking power (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflecting combined 3.15 goal expectancy (Confidence: Moderate, Value: High)",
+      "Saint Etienne 2:1 Correct Score as the primary statistical convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552512",
+      "league": "Ligue 2",
+      "homeTeam": "Saint Etienne",
+      "awayTeam": "Nantes",
+      "match_time": "18:45",
+      "match_highlight": "League leaders Saint Etienne host fragile Nantes in high-stakes Le Chaudron clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552512,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Saint Etienne's dominant 2.01 xG/match and home superiority hold a decisive structural edge over a Nantes side conceding 1.80 goals per fixture."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Saint Etienne's 2.4 goals-per-game scoring rate combined with Nantes' porous defense supports an open match exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "The 2:1 primary score captures Saint Etienne's offensive dominance and Nantes' transition threat, while 2:0 represents the clean sheet branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals offering strong secondary model density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects second-half breakdown under sustained home pressure, while Win-Win accounts for an early Stéphanois breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 06:51:12 UTC"
+}
