@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1561951,
+    "matchup": "Rapid Vienna vs Austria Lustenau",
+    "home_team": "Rapid Vienna",
+    "away_team": "Austria Lustenau",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-24 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-rapid-vienna-vs-austria-lustenau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rapid Vienna vs Austria Lustenau Prediction: Thorup's High Press vs Deep Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1561951",
+      "league": "Austrian Bundesliga",
+      "matchup": "Rapid Vienna vs Austria Lustenau",
+      "matchTime": "2026-10-24 17:30 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Rapid Vienna will leverage their league-leading 2.89 goals-per-match attack to secure a comfortable home victory against Austria Lustenau.",
+    "possibilityAssessment": [
+      "Rapid Vienna dominant multi-goal victory with sustained box pressure (Confidence: High, Value: High)",
+      "High total goal output exceeding 2.5 goals driven by Lustenau defensive fragility (Confidence: High, Value: Moderate)",
+      "Austria Lustenau grabbing a lone transition consolation strike on the counter (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1561951",
+      "league": "Austrian Bundesliga",
+      "homeTeam": "Rapid Vienna",
+      "awayTeam": "Austria Lustenau",
+      "match_time": "17:30",
+      "match_highlight": "Rapid Vienna's title momentum meets Austria Lustenau's fragile backline.",
+      "ai_confidence": "High",
+      "fixtureId": 1561951,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Rapid Vienna boast an unblemished home record and superior attacking firepower against a Lustenau defense that has surrendered eight goals in its last two league games."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.56 and Rapid's 2.89 seasonal goal average make Over 2.5 the dominant statistical expectation."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:0"
+        ],
+        "comment": "3:1 reflects Rapid's high-tempo offense exploiting Lustenau's open flanks with a consolation away counter, while 2:0 represents a controlled clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four and three goals form the densest cluster in the Poisson distribution given Lustenau's high concession rate."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Rapid are fast starters at home who should establish an early lead, with Draw-Win providing coverage for a stubborn first-half low block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 05:34:40 UTC"
+}
