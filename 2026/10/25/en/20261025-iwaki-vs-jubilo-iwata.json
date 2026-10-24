@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606724,
+    "matchup": "Iwaki vs Jubilo Iwata",
+    "home_team": "Iwaki",
+    "away_team": "Jubilo Iwata",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-25 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-iwaki-vs-jubilo-iwata/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Iwaki vs Jubilo Iwata Prediction & Match Analysis: Midfield Attrition & Form — Scoreline Preview",
+    "meta": {
+      "matchId": "1606724",
+      "league": "J2 League",
+      "matchup": "Iwaki vs Jubilo Iwata",
+      "matchTime": "2026-10-25 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Iwaki to secure a disciplined low-scoring home victory as Jubilo Iwata's road scoring drought persists.",
+    "possibilityAssessment": [
+      "Iwaki 1-0 controlled home victory via second-half pressure (Confidence: Moderate, Value: High)",
+      "Iwaki 2-0 win on late transitional counter-attack (Confidence: Moderate, Value: Moderate)",
+      "Attritional low-scoring stalemate capped under 2.5 goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606724",
+      "league": "J2 League",
+      "homeTeam": "Iwaki",
+      "awayTeam": "Jubilo Iwata",
+      "match_time": "06:00",
+      "match_highlight": "Iwaki's intense pressing confronts Jubilo Iwata's road scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606724,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Iwaki's superior athletic intensity and recent home scoring form provide the edge against an Iwata side struggling for road goals."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Independent Poisson distribution projects a 67.7% probability for two or fewer goals given Iwata's road attacking struggles."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "A 1:0 breakthrough represents the primary density point, with 2:0 covering a late counter-attack sealing strike."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson probabilities concentrate heavily on 1 goal (27.1%) and 2 goals (27.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Iwata's early defensive resistance points toward a level first half before Iwaki's stamina and pressing break through."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 18:05:33 UTC"
+}
