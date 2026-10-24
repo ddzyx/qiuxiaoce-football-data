@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505540,
+    "matchup": "D. La Serena vs Concepción",
+    "home_team": "D. La Serena",
+    "away_team": "Concepción",
+    "league": "Primera División",
+    "kickoff_utc": "2026-10-24 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-d-la-serena-vs-concepci-n/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "D. La Serena vs Concepción Prediction: Defensive Fragility vs Low-Block Resistance — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1505540",
+      "league": "Primera División",
+      "matchup": "D. La Serena vs Concepción",
+      "matchTime": "2026-10-24 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "D. La Serena's territorial pressure and Concepción's compact road structure point to a tightly contested encounter where the hosts avoid defeat via a 1:1 stalemate or a narrow 2:1 victory.",
+    "possibilityAssessment": [
+      "Stalemate scenario where Concepción's low block absorbs pressure and snatches a point via counter-attack (Confidence: Moderate, Value: High)",
+      "Home push scenario where La Serena's sustained midfield pressure yields a late 2:1 victory (Confidence: Moderate, Value: Moderate)",
+      "High-variance defensive breakdown where La Serena concede early transitions (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505540",
+      "league": "Primera División",
+      "homeTeam": "D. La Serena",
+      "awayTeam": "Concepción",
+      "match_time": "15:30",
+      "match_highlight": "La Serena attack meets Concepción defensive wall in crucial continental qualification clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505540,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-probability 1:1 low-block stalemate and the territorial 2:1 home victory, accounting for La Serena's defensive vulnerability."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Concepción's stingy defense and road profile (1.10 GA/match, 8 clean sheets) constrain overall scoring volume toward two total goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the natural tactical equilibrium, while 2:1 captures La Serena's late second-half pressure breaking through."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 capture over 46% of simulated Poisson outcomes between these evenly matched mid-table sides."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Concepción's disciplined opening half will maintain level terms at the interval before second-half fatigue shapes the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 03:35:05 UTC"
+}
