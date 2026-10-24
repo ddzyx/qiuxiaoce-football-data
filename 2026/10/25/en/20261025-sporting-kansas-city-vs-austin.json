@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490565,
+    "matchup": "Sporting Kansas City vs Austin",
+    "home_team": "Sporting Kansas City",
+    "away_team": "Austin",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-25 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-sporting-kansas-city-vs-austin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sporting Kansas City vs Austin Prediction & Match Analysis: Wooden Spoon Battle — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490565",
+      "league": "Major League Soccer",
+      "matchup": "Sporting Kansas City vs Austin",
+      "matchTime": "2026-10-25 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sporting Kansas City Double Chance (Home Win / Draw) in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Sporting Kansas City edges a high-tempo transition battle 2:1 (Confidence: Moderate, Value: High)",
+      "Defensive errors and finishing variance result in a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Austin exploits severe backline breakdown in a 1:2 away upset (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490565",
+      "league": "Major League Soccer",
+      "homeTeam": "Sporting Kansas City",
+      "awayTeam": "Austin",
+      "match_time": "00:30",
+      "match_highlight": "Rejuvenated Sporting attack targets reeling Austin backline in high-volatility clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490565,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Backs Sporting's attacking edge via André Luiz while insulating against their 75 conceded goals."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goals against exceeds 4.10, indicating heavy scoring frequency."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:1 home transition win and the secondary 1:1 Poisson modal score."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the 2:1 scenario, with two goals capturing the 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a contested first half before Sporting asserts second-half transition superiority."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 12:34:13 UTC"
+}
