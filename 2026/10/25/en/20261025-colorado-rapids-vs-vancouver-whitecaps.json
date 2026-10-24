@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490566,
+    "matchup": "Colorado Rapids vs Vancouver Whitecaps",
+    "home_team": "Colorado Rapids",
+    "away_team": "Vancouver Whitecaps",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-25 02:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-colorado-rapids-vs-vancouver-whitecaps/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Colorado Rapids vs Vancouver Whitecaps Prediction: Can Rapids Contain Brian White? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490566",
+      "league": "Major League Soccer",
+      "matchup": "Colorado Rapids vs Vancouver Whitecaps",
+      "matchTime": "2026-10-25 02:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vancouver Whitecaps hold superior transition firepower to avoid defeat at altitude, with a 1:2 away victory or 1:1 stalemate offering the premier risk-adjusted projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory navigating travel fatigue and altitude resistance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals driven by Vancouver's 2.16 xG per match and Colorado's backup goalkeeping vulnerabilities (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Scoreline hedge capturing Colorado's chronic home stalemate pattern (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490566",
+      "league": "Major League Soccer",
+      "homeTeam": "Colorado Rapids",
+      "awayTeam": "Vancouver Whitecaps",
+      "match_time": "02:30",
+      "match_highlight": "Brian White leads West leaders at altitude against injury-hit Rapids.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490566,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vancouver's class advantage in transition while respecting Colorado's persistent home draw tendency at altitude."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model projects 56.1% Over 2.5 probability supported by Colorado's backup goalkeeping and Vancouver's 63-goal attack."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 reflects White's finishing edge on the break; secondary 1:1 accounts for Colorado's recent home draw streak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with primary 1:2 outcome, with two goals capturing the tight 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Loss reflects an even first half followed by a Vancouver second-half breakthrough; Draw-Draw reflects a 90-minute deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 14:34:05 UTC"
+}
