@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556687,
+    "matchup": "ST Mirren vs Dundee",
+    "home_team": "ST Mirren",
+    "away_team": "Dundee",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-st-mirren-vs-dundee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "ST Mirren vs Dundee Prediction: Transition Lethality Exposes Buddies xGA — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1556687",
+      "league": "Premiership",
+      "matchup": "ST Mirren vs Dundee",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dundee represent the superior risk-adjusted value via Draw / Away Win as St Mirren's defensive structural collapse collides with the visitors' clinical direct counter-attack.",
+    "possibilityAssessment": [
+      "Dundee exploit St Mirren's porous backline on the break to secure a narrow victory (Confidence: Moderate, Value: High)",
+      "Buddies summon home resistance in a hard-fought 1-1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transition contest breaches the 2.5 goal threshold with late scoring (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556687",
+      "league": "Premiership",
+      "homeTeam": "ST Mirren",
+      "awayTeam": "Dundee",
+      "match_time": "14:00",
+      "match_highlight": "Dundee counter-punch threatens vulnerable Buddies backline in Paisley",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556687,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Dundee's acute counter-attacking edge in a 1-2 victory alongside the high-density 1-1 low-block stalemate scenario."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model projects an elevated 63.6% density over 2.5 goals driven by St Mirren conceding 2.02 xGA per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 scoreline captures Dundee transition efficiency, with 1:1 providing primary Poisson deadlock protection."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome at 22.1% probability, closely shadowed by two goals at 20.2%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cagey opening half in Paisley followed by Dundee's superior second-half bench execution or a shared standoff."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:09:29 UTC"
+}
