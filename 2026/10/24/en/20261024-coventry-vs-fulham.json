@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557440,
+    "matchup": "Coventry vs Fulham",
+    "home_team": "Coventry",
+    "away_team": "Fulham",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-coventry-vs-fulham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Coventry vs Fulham Prediction & Match Analysis: Wright Injury & Low-xGA Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1557440",
+      "league": "Premier League",
+      "matchup": "Coventry vs Fulham",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fulham's superior defensive suppression and Coventry's key attacking absences favor an Under 2.5 grind captured by Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance coverage anchors the game-state (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflects low combined open-play xG expectancy (Confidence: High, Value: High)",
+      "A tight 0:1 away victory emerges as the primary scoreline vector (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557440",
+      "league": "Premier League",
+      "homeTeam": "Coventry",
+      "awayTeam": "Fulham",
+      "match_time": "14:00",
+      "match_highlight": "Low-xGA defensive duel with Wright sidelined tilts toward Cottagers resistance",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557440,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Fulham's elite 0.31 xGA per match and Coventry's loss of Haji Wright heavily suppress home winning paths, pointing toward an away victory or low-scoring stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 1.11 goals and heavy Poisson density below two goals make Under 2.5 the standout total selection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 Fulham transition smash is the leading vector, with 1:1 retained as the primary stalemate scenario."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One goal is the single highest Poisson mode at 36.6%, followed by two goals at 20.3%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half leading into second-half away breakthrough or shared points underpins both primary chronologies."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:17:11 UTC"
+}
