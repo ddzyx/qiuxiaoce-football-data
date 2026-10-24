@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560051,
+    "matchup": "Slovan Liberec vs Baník Ostrava",
+    "home_team": "Slovan Liberec",
+    "away_team": "Baník Ostrava",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-24 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-slovan-liberec-vs-ban-k-ostrava/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Slovan Liberec vs Baník Ostrava Prediction: Can Host Exploit Baník's Crisis? — Scoreline & Tactical Preview",
+    "meta": {
+      "matchId": "1560051",
+      "league": "Czech Liga",
+      "matchup": "Slovan Liberec vs Baník Ostrava",
+      "matchTime": "2026-10-24 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Slovan Liberec to defeat an illness-depleted Baník Ostrava side in a controlled, low-scoring match under 2.5 goals.",
+    "possibilityAssessment": [
+      "Slovan Liberec secure a controlled 2:0 home win by breaking down Baník's low block in the second half (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals crystallizes as Liberec's elite defense suffocates Baník's anemic attack (Confidence: High, Value: Moderate)",
+      "Baník Ostrava grind out a stubborn defensive 1:1 stalemate via set-piece resilience (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560051",
+      "league": "Czech Liga",
+      "homeTeam": "Slovan Liberec",
+      "awayTeam": "Baník Ostrava",
+      "match_time": "13:00",
+      "match_highlight": "Liberec's elite defense faces Baník's virus-hit attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560051,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Slovan Liberec's league-leading defensive stability and Baník's squad-wide viral infection strongly favor a home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "With both teams combining for an expected 2.00 goals and Liberec conceding only 0.60 per match, Under 2.5 carries a 67.7% model density."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "A 2:0 home victory serves as the primary tactical convergence, with a grinding 1:0 win as the primary low-margin alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 goals and 1 goal share the highest Poisson density at 27.1% each."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Baník's initial defensive resistance is expected to yield a level first half before Liberec's physical superiority breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 01:05:45 UTC"
+}
