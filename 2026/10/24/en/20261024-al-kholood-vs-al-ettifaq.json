@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603067,
+    "matchup": "Al Kholood vs Al-Ettifaq",
+    "home_team": "Al Kholood",
+    "away_team": "Al-Ettifaq",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-24 15:05:00",
+    "source_url": "https://xgmind.com/matches/20261024-al-kholood-vs-al-ettifaq/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Kholood vs Al-Ettifaq Prediction & Match Analysis: Medran Injury Tests Gerrard's xG Balance — Scoreline Preview",
+    "meta": {
+      "matchId": "1603067",
+      "league": "Pro League",
+      "matchup": "Al Kholood vs Al-Ettifaq",
+      "matchTime": "2026-10-24 15:05 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Kholood's superior 1.91 home xG chance creation and Al-Ettifaq's key absence of midfield orchestrator Álvaro Medrán point toward a competitive home-tilted outcome favoring Home Win / Draw.",
+    "possibilityAssessment": [
+      "Al Kholood capitalize on transition efficiency to secure a narrow 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Steven Gerrard reorganizes defensively to grind out a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Late defensive lapses from both porous backlines trigger an open exchange exceeding 2.5 total goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603067",
+      "league": "Pro League",
+      "homeTeam": "Al Kholood",
+      "awayTeam": "Al-Ettifaq",
+      "match_time": "15:05",
+      "match_highlight": "Medran absence hampers Gerrard as Kholood attack thrives",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603067,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Al Kholood's lethal home attacking transition and a resilient Al-Ettifaq defensive stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG expectancy of 3.36 and vulnerable backlines strongly support an open multi-goal profile."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary tactical convergence with 1:1 as the secondary deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson modeling places 3 goals at 21.9% density closely followed by 2 goals at 19.6%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tight opening exchanges favor parity at the interval before second-half tactical divergences emerge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 03:11:55 UTC"
+}
