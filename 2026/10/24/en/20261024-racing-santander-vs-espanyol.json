@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570428,
+    "matchup": "Racing Santander vs Espanyol",
+    "home_team": "Racing Santander",
+    "away_team": "Espanyol",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-24 14:15:00",
+    "source_url": "https://xgmind.com/matches/20261024-racing-santander-vs-espanyol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Racing Santander vs Espanyol Prediction: Can El Sardinero Form Halt Leaky xGA? — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1570428",
+      "league": "La Liga",
+      "matchup": "Racing Santander vs Espanyol",
+      "matchTime": "2026-10-24 14:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Racing's league-worst 2.32 xGA defense balances their undefeated home record against Espanyol's compact structure.",
+    "possibilityAssessment": [
+      "Tactical Stalemate: Racing's home attacking initiative canceled out by Espanyol's low block in a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Transitional Counter-Punch: Espanyol exploit Racing's high defensive line for a 1:2 road win (Confidence: Moderate, Value: Moderate)",
+      "Sardinero Home Push: Racing's home momentum edges a high-octane 2:1 victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570428",
+      "league": "La Liga",
+      "homeTeam": "Racing Santander",
+      "awayTeam": "Espanyol",
+      "match_time": "14:15",
+      "match_highlight": "Clash between Racing's undefeated home form and their league-worst 25 conceded goals.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570428,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:1 stalemate convergence alongside Espanyol's counter-attacking edge against Racing's 2.32 xGA backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with the 1:1 primary scoreline as Espanyol's missing frontline depth tempers outsized goal volatility."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the primary statistical model convergence, while 1:2 covers late away transition success."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary outcome from 1:1, with three goals serving as the secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious, level first half transitions into either a sustained deadlock or a late Espanyol away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:49:13 UTC"
+}
