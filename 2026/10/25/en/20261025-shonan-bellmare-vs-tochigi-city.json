@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606725,
+    "matchup": "Shonan Bellmare vs Tochigi City",
+    "home_team": "Shonan Bellmare",
+    "away_team": "Tochigi City",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-25 09:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-shonan-bellmare-vs-tochigi-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shonan Bellmare vs Tochigi City Prediction: Can Bellmare Break Draw Rut? — Scoreline & Form Preview",
+    "meta": {
+      "matchId": "1606725",
+      "league": "J2 League",
+      "matchup": "Shonan Bellmare vs Tochigi City",
+      "matchTime": "2026-10-25 09:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shonan Bellmare's elite defensive foundation protects against an away loss, but their chronic finishing woes make Home Win / Draw the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance covering narrow win and stalemate scripts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting Shonan's disciplined tempo suppression (Confidence: Moderate, Value: High)",
+      "1:1 Draw repeating Shonan's four-match streak of identical league scorelines (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606725",
+      "league": "J2 League",
+      "homeTeam": "Shonan Bellmare",
+      "awayTeam": "Tochigi City",
+      "match_time": "09:00",
+      "match_highlight": "Bellmare seek to snap a four-match 1-1 draw streak against fragile Tochigi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606725,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Shonan's 2-1 narrow victory potential alongside their persistent 1-1 draw tendency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Shonan's compact 3-4-2-1 structure suppresses scoring volume against an inconsistent road attack."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Convergence point between Shonan's four consecutive 1-1 draws and Tochigi's defensive vulnerabilities."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three total goals represent over 46% of modeled Poisson scoring expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Shonan's methodical opening tempo points to level first halves before decisive second-half progression."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 21:04:57 UTC"
+}
