@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550164,
+    "matchup": "Napoli vs AS Roma",
+    "home_team": "Napoli",
+    "away_team": "AS Roma",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-24 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-napoli-vs-as-roma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Napoli vs AS Roma: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1550164",
+      "league": "Serie A",
+      "matchup": "Napoli vs AS Roma",
+      "matchTime": "2026-10-24 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AS Roma's unbeaten structural solidity and superior 2.17 xG production balance against severe attacking absences, favoring a competitive stalemate or narrow away result in a tightly contested Derby del Sole.",
+    "possibilityAssessment": [
+      "Roma's league-best defense (0.4 GA/match) and superior net xG (+7.8) secure points at the Maradona despite playmaker absences (Confidence: Moderate, Value: High)",
+      "Injuries to Dybala, Pellegrini, and Neres severely suppress chance conversion, locking the match under the 2.5 goal threshold (Confidence: Moderate, Value: Moderate)",
+      "Napoli's home territorial advantage and Allegri's mid-block traps exploit backup goalkeeper Gollini for a narrow home snatch (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550164",
+      "league": "Serie A",
+      "homeTeam": "Napoli",
+      "awayTeam": "AS Roma",
+      "match_time": "16:00",
+      "match_highlight": "Decimated Roma test unbeaten league record at Maradona against Allegri's Napoli",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550164,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate driven by Giallorossi injury depletion alongside the 1:2 away edge supported by Roma's superior 2.17 xG baseline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Roma's defensive record of 0.4 goals conceded per game and key creative injuries temper overall scoring below the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw represents the primary tactical equilibrium, with 1:2 reflecting Roma's counter-pressing efficiency on transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A cagey two-goal baseline dominates, expanding to three goals if second-half physical fatigue forces defensive disorganization."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious first-half posture from both Allegri and Gasperini sets up level intervals preceding late tactical separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 04:04:57 UTC"
+}
