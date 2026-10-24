@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490569,
+    "matchup": "Portland Timbers vs Charlotte",
+    "home_team": "Portland Timbers",
+    "away_team": "Charlotte",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-25 02:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-portland-timbers-vs-charlotte/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portland Timbers vs Charlotte Prediction: Can Depleted Defense Stop Toklomati? — Scoreline Preview",
+    "meta": {
+      "matchId": "1490569",
+      "league": "Major League Soccer",
+      "matchup": "Portland Timbers vs Charlotte",
+      "matchTime": "2026-10-25 02:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Charlotte's transition efficiency and Portland's decimated backline point decisively toward a Draw / Away Win double-chance corridor.",
+    "possibilityAssessment": [
+      "Charlotte exploit transitional space against a makeshift Timbers defense to secure a road victory (Confidence: Moderate, Value: High)",
+      "Portland muster attacking resilience at Providence Park to salvage a high-tempo score draw (Confidence: Moderate, Value: Moderate)",
+      "Portland establish early set-piece dominance to pull off an against-the-odds home upset (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490569",
+      "league": "Major League Soccer",
+      "homeTeam": "Portland Timbers",
+      "awayTeam": "Charlotte",
+      "match_time": "02:30",
+      "match_highlight": "Toklomati's blistering pace challenges Portland's severely injury-depleted defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490569,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Charlotte's counter-attacking edge while respecting Providence Park draw resistance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal metrics of 3.185 suggest an open, chance-rich encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 1:2 Charlotte away victory alongside a resilient 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution concentrates heavily on 2 to 3 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey opening half before Charlotte's transition game exerts second-half control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 14:38:34 UTC"
+}
