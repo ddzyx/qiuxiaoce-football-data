@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490562,
+    "matchup": "Atlanta United FC vs Chicago Fire",
+    "home_team": "Atlanta United FC",
+    "away_team": "Chicago Fire",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-24 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-atlanta-united-fc-vs-chicago-fire/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atlanta United FC vs Chicago Fire Prediction: Can Fire Breach Mercedes-Benz Fortress? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490562",
+      "league": "Major League Soccer",
+      "matchup": "Atlanta United FC vs Chicago Fire",
+      "matchTime": "2026-10-24 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Chicago Fire to avoid defeat via Draw / Away Win as their transition attack exploits Atlanta's porous defense.",
+    "possibilityAssessment": [
+      "Chicago Fire edge a high-scoring transition contest 1:2 against Atlanta's high line (Confidence: Moderate, Value: High)",
+      "Atlanta United leverage home desperation and Jack Elliott's suspension to force a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open end-to-end exchanges produce Over 2.5 goals across multiple second-half scoring phases (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490562",
+      "league": "Major League Soccer",
+      "homeTeam": "Atlanta United FC",
+      "awayTeam": "Chicago Fire",
+      "match_time": "23:30",
+      "match_highlight": "Chicago Fire transition speed challenges leaky Atlanta defense at Mercedes-Benz Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490562,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Chicago's superior transition winning script (1:2) and Atlanta's home resistance draw script (1:1), where a single-sided selection would understate Elliott's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.06 and Atlanta's 1.68 conceded xGA per match strongly support a 3-goal match environment."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 scoreline reflects Chicago's transition edge, while 1:1 captures Atlanta's desperate home stand."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals covering the draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Atlanta's opening intensity holds parity at half-time before Chicago's transition quality determines the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 11:36:47 UTC"
+}
