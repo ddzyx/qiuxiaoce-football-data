@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569990,
+    "matchup": "Leganes vs Mallorca",
+    "home_team": "Leganes",
+    "away_team": "Mallorca",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-24 14:15:00",
+    "source_url": "https://xgmind.com/matches/20261024-leganes-vs-mallorca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leganes vs Mallorca Prediction & Match Analysis: Can Hosts Score Without Morata? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1569990",
+      "league": "Segunda División",
+      "matchup": "Leganes vs Mallorca",
+      "matchTime": "2026-10-24 14:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Mallorca to secure an away victory in a disciplined, low-scoring encounter against a goal-shy Leganes side missing Álvaro Morata.",
+    "possibilityAssessment": [
+      "Mallorca secures a clean-sheet away victory through structural dominance and midfield control (Confidence: Moderate, Value: High)",
+      "Match remains tightly contested under 2.5 total goals driven by Mallorca's league-leading defense (Confidence: High, Value: High)",
+      "Leganes manages to force an extended scoreless stalemate before succumbing late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569990",
+      "league": "Segunda División",
+      "homeTeam": "Leganes",
+      "awayTeam": "Mallorca",
+      "match_time": "14:15",
+      "match_highlight": "Mallorca's elite defense faces scoreless Leganes missing suspended Morata.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569990,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Mallorca's league-best defense conceding just 0.50 goals per match holds a decisive edge over Leganes, who have failed to score in four consecutive games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Leganes' anemic 0.60 goals scored per match combined with Mallorca's 6 clean sheets in 10 games strongly anchors the match below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A 0:1 attrition victory or a late 0:2 counter-attacking finish represents the natural convergence of both teams' recent underlying xG and defensive outputs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson simulations indicate a 45.7% combined probability for exactly 1 or 2 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Leganes' initial defensive effort under Luis Carrión favors a level first half before Mallorca's superior quality breaks through in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:48:57 UTC"
+}
