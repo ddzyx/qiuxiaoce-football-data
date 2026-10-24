@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551359,
+    "matchup": "AB Copenhagen vs Kolding IF",
+    "home_team": "AB Copenhagen",
+    "away_team": "Kolding IF",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-24 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-ab-copenhagen-vs-kolding-if/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AB Copenhagen vs Kolding IF Prediction & Match Analysis: Attack vs Low Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1551359",
+      "league": "1. Division",
+      "matchup": "AB Copenhagen vs Kolding IF",
+      "matchTime": "2026-10-24 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back AB Copenhagen to capitalize on their red-hot attacking form and secure a controlled regulation win over a defensively vulnerable Kolding IF.",
+    "possibilityAssessment": [
+      "AB Copenhagen regulation win capitalizing on home dominance and offensive momentum (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by Kolding's low block and a 53.1% cumulative Poisson probability (Confidence: Moderate, Value: Moderate)",
+      "Late tactical acceleration resulting in a 2:0 or 2:1 home victory corridor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551359",
+      "league": "1. Division",
+      "homeTeam": "AB Copenhagen",
+      "awayTeam": "Kolding IF",
+      "match_time": "12:00",
+      "match_highlight": "AB Copenhagen's surging attack tests Kolding IF's league-leading draw tendency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551359,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "AB Copenhagen's four-match winning streak and superior scoring output make the home win the standout risk-adjusted outcome against a travel-weary visiting side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 53.1% cumulative Poisson model density and Kolding's low-block tempo suppression favor a controlled two-goal contest."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home shutout serves as the primary convergence point, with 2:1 covering the contingency of a Kolding set-piece goal."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals represent the top probabilistic distribution brackets at 25.4% and 21.6% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Kolding's opening defensive resistance points to a level first half before AB Copenhagen break through in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 00:06:12 UTC"
+}
