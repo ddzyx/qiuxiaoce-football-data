@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492425,
+    "matchup": "Mirassol vs Sao Paulo",
+    "home_team": "Mirassol",
+    "away_team": "Sao Paulo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-24 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-mirassol-vs-sao-paulo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mirassol vs Sao Paulo Prediction & Match Analysis: Calleri Injury Reshapes Attack — Scoreline Preview",
+    "meta": {
+      "matchId": "1492425",
+      "league": "Serie A",
+      "matchup": "Mirassol vs Sao Paulo",
+      "matchTime": "2026-10-24 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mirassol's exceptional home resilience and high survival urgency capitalize on a depleted, Calleri-less Sao Paulo attack to secure points in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Mirassol capitalize on home territorial edge to secure a disciplined 1:0 victory (Confidence: Moderate, Value: High)",
+      "Sao Paulo defensive spine absorbs pressure to grind out a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Match remains constrained within Under 2.5 goals due to mutual offensive absences (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492425",
+      "league": "Serie A",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Sao Paulo",
+      "match_time": "19:30",
+      "match_highlight": "Mirassol test fortress Maião against Calleri-less Sao Paulo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492425,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Mirassol's primary 1:0 home victory while retaining the 1:1 stalemate script supported by Sao Paulo's defensive resilience."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 1.60 and mutual key striker absences strongly reinforce a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents the natural home control script; 1:1 captures the resilient away defensive stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A 1-goal outcome leads model density, closely shadowed by a 2-goal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected before second-half adjustments dictate the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 07:36:50 UTC"
+}
