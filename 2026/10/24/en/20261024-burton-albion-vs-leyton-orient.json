@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564382,
+    "matchup": "Burton Albion vs Leyton Orient",
+    "home_team": "Burton Albion",
+    "away_team": "Leyton Orient",
+    "league": "League One",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-burton-albion-vs-leyton-orient/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burton Albion vs Leyton Orient Prediction: Can O's Breach Brewers' Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564382",
+      "league": "League One",
+      "matchup": "Burton Albion vs Leyton Orient",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Under 2.5 goals and Draw / Away Win double-chance as Burton's low-block setup neutralizes Orient's fatigued attack.",
+    "possibilityAssessment": [
+      "Low-block stalemate culminating in a 0:0 deadlock as Orient struggle for road incision (Confidence: Moderate, Value: High)",
+      "Narrow 0:1 Leyton Orient victory via second-half quality against a depleted Burton midfield (Confidence: Moderate, Value: Moderate)",
+      "Uncompromising low-scoring encounter comfortably remaining Under 2.5 total goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564382",
+      "league": "League One",
+      "homeTeam": "Burton Albion",
+      "awayTeam": "Leyton Orient",
+      "match_time": "14:00",
+      "match_highlight": "Burton midfield crisis meets Orient road fatigue in grinding stalemate",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564382,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the dominant 0:0 stalemate script while capturing Orient's late edge against Burton's depleted midfield."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution generates over 97% density for two or fewer goals given low xG generation."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "The 0:0 scoreline is the primary convergence point, followed by a narrow 0:1 Orient away win."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "Extremely low combined goal expectation firmly anchors the total at zero or one goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cagey first-half containment points to a 0-0 interval, leading to a drawn finish or late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:34:56 UTC"
+}
