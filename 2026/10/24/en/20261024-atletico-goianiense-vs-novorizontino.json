@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520941,
+    "matchup": "Atletico Goianiense vs Novorizontino",
+    "home_team": "Atletico Goianiense",
+    "away_team": "Novorizontino",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-24 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-atletico-goianiense-vs-novorizontino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico Goianiense vs Novorizontino Prediction: Robson's xG Surge vs Dragão Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1520941",
+      "league": "Serie B",
+      "matchup": "Atletico Goianiense vs Novorizontino",
+      "matchTime": "2026-10-24 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Novorizontino's league-leading attacking efficiency and transition firepower give them the edge to secure at least a point against a struggling Dragão side.",
+    "possibilityAssessment": [
+      "Novorizontino avoids defeat via Draw / Away Win corridor (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on mutual 0.90 goals-conceded averages (Confidence: Moderate, Value: Moderate)",
+      "Exact scoreline 1:1 stalemate representing tactical and statistical convergence (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520941",
+      "league": "Serie B",
+      "homeTeam": "Atletico Goianiense",
+      "awayTeam": "Novorizontino",
+      "match_time": "19:30",
+      "match_highlight": "Promotion clash pits Dragão defense against Robson and Romulo's transition firepower.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520941,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Novorizontino's superior offensive output (1.70 xG) and Atletico's home resilience point toward a tight draw or narrow away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs concede just 0.9 goals per match, supporting a compact encounter despite high individual offensive quality."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 stalemate reflects structural balance, while 1:2 captures Novorizontino's clinical counter-attacking edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson densities peak at 2 goals (24.4%) followed closely by 3 goals (22.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half is projected to maintain parity before second-half tactical risks unlock decisive moments."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 07:39:30 UTC"
+}
