@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559179,
+    "matchup": "KRC Genk II vs Club Brugge II",
+    "home_team": "KRC Genk II",
+    "away_team": "Club Brugge II",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-krc-genk-ii-vs-club-brugge-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "KRC Genk II vs Club Brugge II Prediction: U23 Defensive Fragility & Scoring Surge — Scoreline Preview",
+    "meta": {
+      "matchId": "1559179",
+      "league": "Challenger Pro League",
+      "matchup": "KRC Genk II vs Club Brugge II",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club Brugge II's counter-attacking precision gives them the decisive edge against a porous Genk backline, making Draw / Away Win and Over 2.5 goals the primary probabilistic angles.",
+    "possibilityAssessment": [
+      "Club Brugge II exploit defensive transition space to seal a narrow victory (Confidence: Moderate, Value: High)",
+      "High-scoring developmental stalemate with both teams breaching two goals (Confidence: Moderate, Value: Moderate)",
+      "Jong Genk sustain high territorial pressure to force a narrow home triumph (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559179",
+      "league": "Challenger Pro League",
+      "homeTeam": "KRC Genk II",
+      "awayTeam": "Club Brugge II",
+      "match_time": "14:00",
+      "match_highlight": "Club NXT transition speed threatens fragile Jong Genk backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559179,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Club NXT's lethal counter-attack leads the winning scenario, while Genk II's home attack preserves high 2:2 draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.10 goals conceded per match, driving modeled goal expectancy to 3.93."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A 1:2 away victory represents the primary transition script, with 2:2 serving as the high-volatility backup."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals capture 58% of aggregate Poisson probability density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half opens up in the second period as fatigue and spatial stretching favor the visitors."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:19:16 UTC"
+}
