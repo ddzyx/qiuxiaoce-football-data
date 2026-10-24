@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593691,
+    "matchup": "Sydney vs Adelaide United",
+    "home_team": "Sydney",
+    "away_team": "Adelaide United",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-25 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-sydney-vs-adelaide-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sydney vs Adelaide United Prediction & Tactical Breakdown: Flank Battles & xG Output — Scoreline Preview",
+    "meta": {
+      "matchId": "1593691",
+      "league": "A-League",
+      "matchup": "Sydney vs Adelaide United",
+      "matchTime": "2026-10-25 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Adelaide United to avoid defeat at Allianz Stadium in a tightly contested, low-scoring encounter dominated by defensive caution.",
+    "possibilityAssessment": [
+      "Tactical 1:1 stalemate as Sydney pressure offsets Adelaide transition threat (Confidence: Moderate, Value: High)",
+      "Adelaide United steal 0:1 road win via Craig Goodwin dead-ball or counter (Confidence: Moderate, Value: High)",
+      "Sydney secure narrow 1:0 victory if high counter-press forces defensive blunder (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593691",
+      "league": "A-League",
+      "homeTeam": "Sydney",
+      "awayTeam": "Adelaide United",
+      "match_time": "04:00",
+      "match_highlight": "Goodwin transition threat tests Kisnorbo pressing structure",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593691,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 1:1 stalemate and 0:1 away transition smash-and-grab while fading Sydney's toothless 0.7 xG attack."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution models a commanding 78.3% probability density for two or fewer total goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 tactical equilibrium serves as primary anchor, with 0:1 representing the leading alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary scoring corridor, followed closely by a single-goal defensive grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half points to a level score at the interval before second-half tactical openings materialize."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 16:05:36 UTC"
+}
