@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490556,
+    "matchup": "Columbus Crew vs Toronto FC",
+    "home_team": "Columbus Crew",
+    "away_team": "Toronto FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-24 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-columbus-crew-vs-toronto-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Columbus Crew vs Toronto FC Prediction: Can Fatigued Crew Resist Reds' Break? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490556",
+      "league": "Major League Soccer",
+      "matchup": "Columbus Crew vs Toronto FC",
+      "matchTime": "2026-10-24 19:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Toronto FC are positioned to exploit Columbus Crew's severe 72-hour turnaround and key offensive absences to secure points via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Toronto FC avoid defeat as Columbus Crew's 120-minute midweek cup fatigue blunts attacking efficiency (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as tactical fatigue and mid-block discipline suppress scoring volume (Confidence: Moderate, Value: Moderate)",
+      "1:1 Deadlock represents the primary probabilistic convergence point across game states (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490556",
+      "league": "Major League Soccer",
+      "homeTeam": "Columbus Crew",
+      "awayTeam": "Toronto FC",
+      "match_time": "19:30",
+      "match_highlight": "Fatigued Columbus battle fresh Toronto in crucial Eastern playoff showdown.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1490556,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and Toronto's late counter-attacking 1:2 win, fully capturing Columbus's extreme cup-final physical hangover."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Columbus lack finishing sharpness without Abou Ali while Toronto will maintain a disciplined defensive mid-block."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects the primary low-possession standoff, while 1:2 accounts for Toronto's transitional late-game surge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads via the 1:1 draw, while 3 goals accounts for the secondary away victory scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cagey opening halves transition to second-half fatigue breakdowns for the home side."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 07:36:32 UTC"
+}
