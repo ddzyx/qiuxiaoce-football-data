@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490563,
+    "matchup": "Houston Dynamo vs Minnesota United FC",
+    "home_team": "Houston Dynamo",
+    "away_team": "Minnesota United FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-25 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-houston-dynamo-vs-minnesota-united-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Houston Dynamo vs Minnesota United Prediction: Can Yeboah Exploit Dynamo Leaks? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490563",
+      "league": "Major League Soccer",
+      "matchup": "Houston Dynamo vs Minnesota United FC",
+      "matchTime": "2026-10-25 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Houston Dynamo hold home territorial advantage, but Minnesota's lethal transition attack makes Home Win / Draw with Over 2.5 goals the optimal stance.",
+    "possibilityAssessment": [
+      "Houston Dynamo edge a high-tempo open encounter 2:1 through home superiority (Confidence: Moderate, Value: High)",
+      "Both teams trade blows in a repeat 2:2 deadlock as Dynamo suffer another late concession (Confidence: Moderate, Value: High)",
+      "Minnesota United exploit altered Houston backline via early vertical transition strikes (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490563",
+      "league": "Major League Soccer",
+      "homeTeam": "Houston Dynamo",
+      "awayTeam": "Minnesota United FC",
+      "match_time": "00:30",
+      "match_highlight": "High-scoring Western clash as Dynamo host resurgent Loons at Shell Energy Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490563,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Houston hold home territorial dominance but recent defensive lapses keep a high-scoring draw firmly in play."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.05 and porous recent form point to an open, high-chance encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Reflects either a narrow Houston home edge or a repeat of the recent 2-2 Allianz Field deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "A 3-goal or 4-goal outcome captures the leading match trajectories given both teams' high recent totals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects second-half separation at home, while Win-Draw accounts for Dynamo's late lead erosion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 12:34:05 UTC"
+}
