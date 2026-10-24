@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520942,
+    "matchup": "Avai vs Botafogo SP",
+    "home_team": "Avai",
+    "away_team": "Botafogo SP",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-avai-vs-botafogo-sp/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Avaí vs Botafogo SP Prediction & Match Analysis: Can Leão Escape Z-4 Against Pantera's Form? — Scoreline Preview",
+    "meta": {
+      "matchId": "1520942",
+      "league": "Serie B",
+      "matchup": "Avai vs Botafogo SP",
+      "matchTime": "2026-10-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Botafogo SP's superior underlying metrics and disciplined transitional structure give them the decisive edge to secure points against a desperate, defensively vulnerable Avaí in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Botafogo SP absorb pressure and score on second-half transition to claim a 0:1 victory (Confidence: Moderate, Value: High)",
+      "Tense low-block stalemate produces a competitive 1:1 draw as Avaí fight for survival (Confidence: Moderate, Value: Moderate)",
+      "Avaí overcommit forward and surrender counter-attacking chances to Botafogo SP's in-form attack (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520942",
+      "league": "Serie B",
+      "homeTeam": "Avai",
+      "awayTeam": "Botafogo SP",
+      "match_time": "19:00",
+      "match_highlight": "Pantera's tactical form challenges Avaí's desperate fight against relegation drop.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520942,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Botafogo SP's +6.0 xG differential and 3-game win streak provide superior resilience against Avaí's desperate but structurally fragile attack."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Over 61% model probability concentrated on two goals or fewer with both sides averaging around 1.0 goal per match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0-1 away transition win represents the primary Poisson peak, followed by a tight 1-1 survival stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Exact totals of 1 and 2 goals account for over 50% of simulated probability distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, low-risk opening half transitions into a decisive away counter-punch or shared-point conclusion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 07:05:54 UTC"
+}
