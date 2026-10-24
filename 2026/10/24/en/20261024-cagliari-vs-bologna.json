@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550158,
+    "matchup": "Cagliari vs Bologna",
+    "home_team": "Cagliari",
+    "away_team": "Bologna",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-24 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-cagliari-vs-bologna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cagliari vs Bologna Prediction & Match Analysis: Orsolini Absence Limits Rossoblu — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550158",
+      "league": "Serie A",
+      "matchup": "Cagliari vs Bologna",
+      "matchTime": "2026-10-24 13:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back defensively resilient Cagliari to secure points at Unipol Domus against a Bologna side crippled by key attacking absences, keeping total goals firmly under 2.5.",
+    "possibilityAssessment": [
+      "Cagliari 1:0 victory via late transitional breakthrough against fatiguing Bologna backline (Confidence: Moderate, Value: High)",
+      "Scoreless 0:0 stalemate characterized by physical midfield duels and limited box penetration (Confidence: Moderate, Value: Moderate)",
+      "Narrow 1:1 draw with both sides converting isolated chances before settling for shared points (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550158",
+      "league": "Serie A",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Bologna",
+      "match_time": "13:00",
+      "match_highlight": "Bologna visit Sardinia missing top scorer Orsolini against compact Cagliari defense.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1550158,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Cagliari's narrow home grind (1:0) and the low-block stalemate (0:0) while fading a depleted Bologna frontline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by a low combined match lambda of 1.585 and Cagliari's 0.23 xGA defensive baseline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 represents Cagliari's set-piece or transition edge, while 0:0 captures the mutual creative deficit."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "One goal is the modal Poisson projection at 32.5%, with zero goals as primary defensive hedge at 20.5%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half points toward a level interval before Bologna's late defensive vulnerability surfaces."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 01:03:18 UTC"
+}
