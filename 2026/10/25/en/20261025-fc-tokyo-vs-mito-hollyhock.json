@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556112,
+    "matchup": "FC Tokyo vs Mito Hollyhock",
+    "home_team": "FC Tokyo",
+    "away_team": "Mito Hollyhock",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-25 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-fc-tokyo-vs-mito-hollyhock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Tokyo vs Mito Hollyhock Prediction & Tactical Breakdown: Low-Block Test — XG Mind AI Scoreline Analysis",
+    "meta": {
+      "matchId": "1556112",
+      "league": "J1 League",
+      "matchup": "FC Tokyo vs Mito Hollyhock",
+      "matchTime": "2026-10-25 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Tokyo's overwhelming territorial dominance and defensive stability (0.7 goals conceded per game) will ultimately wear down Mito Hollyhock's low block for a decisive home victory.",
+    "possibilityAssessment": [
+      "FC Tokyo 2:0 multi-goal control victory breaking down Mito's low block after half-time (Confidence: Moderate, Value: Moderate)",
+      "FC Tokyo 2:1 competitive win with Mito converting an isolated transition opportunity (Confidence: Moderate, Value: Moderate)",
+      "Scoreless attrition draw if Mito replicates their compact cup structure (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556112",
+      "league": "J1 League",
+      "homeTeam": "FC Tokyo",
+      "awayTeam": "Mito Hollyhock",
+      "match_time": "07:00",
+      "match_highlight": "Tokyo seek summit pressure as Hollyhock deploy deep defensive block",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556112,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Tokyo's superior underlying metrics (+10.4 xG diff) and defensive resolve should overcome Mito's low-block resistance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.6 combined lambda and Tokyo's 8 clean sheets heavily support a controlled, sub-three-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "Expect a patient multi-goal victory for the hosts, with a 2:0 shutout serving as the primary anchor."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals represent 46.9% of the Poisson probability distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Mito's initial low-block discipline should keep things level early before Tokyo break through in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 19:05:11 UTC"
+}
