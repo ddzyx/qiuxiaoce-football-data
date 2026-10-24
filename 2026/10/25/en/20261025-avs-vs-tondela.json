@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576504,
+    "matchup": "AVS vs Tondela",
+    "home_team": "AVS",
+    "away_team": "Tondela",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-25 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-avs-vs-tondela/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AVS vs Tondela Prediction & Match Analysis: Defensive Compactness Against Low-Block Counters — Scoreline Preview",
+    "meta": {
+      "matchId": "1576504",
+      "league": "Segunda Liga",
+      "matchup": "AVS vs Tondela",
+      "matchTime": "2026-10-25 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tondela's three-match clean-sheet momentum and head-to-head stability support a resilient road display in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory supported by Tondela's defensive solidity (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals driven by 66.4% combined Poisson model density (Confidence: High, Value: Moderate)",
+      "0:1 Away Win counter-attacking contingency script (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576504",
+      "league": "Segunda Liga",
+      "homeTeam": "AVS",
+      "awayTeam": "Tondela",
+      "match_time": "11:00",
+      "match_highlight": "Tondela's defensive wall challenges hosts at Estádio das Aves",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576504,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a tight 1:1 stalemate and a 0:1 away counter-strike against Kerr-less hosts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both attacks average just 1.1 goals per match with Tondela keeping 3 consecutive clean sheets."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Model top densities converge on low-scoring stalemates and narrow road margins."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson goal expectancy heavily concentrates on the 1-goal and 2-goal clusters."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "First-half tactical conservatism points to a level interval before late divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 23:04:02 UTC"
+}
