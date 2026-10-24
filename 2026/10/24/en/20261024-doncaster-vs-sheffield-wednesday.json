@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1564384,
+    "matchup": "Doncaster vs Sheffield Wednesday",
+    "home_team": "Doncaster",
+    "away_team": "Sheffield Wednesday",
+    "league": null,
+    "kickoff_utc": "2026-10-24 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-doncaster-vs-sheffield-wednesday/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "League One",
+      "matchId": "1564384",
+      "matchup": "Doncaster vs Sheffield Wednesday",
+      "matchTime": "2026-10-24 14:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Doncaster vs Sheffield Wednesday Prediction: Owls Suspensions vs Rovers Derby Resurgence — Scoreline & xG Preview",
+    "coreRecommendation": "Doncaster Rovers capitalize on Sheffield Wednesday's severe spine suspensions to secure at least a point in a low-scoring South Yorkshire derby.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Reflects a cagey, scoreless first half followed by a balanced or Doncaster-edged second period.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers the primary 1:1 stalemate and the secondary 1:0 Doncaster victory against a depleted Wednesday spine.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Modal goal density concentrates on two goals with a tight one-goal attrition backup.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "1:1 represents the natural tactical equilibrium, while 1:0 captures Doncaster's potential set-piece breakthrough.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "League One",
+      "matchId": "1564384",
+      "awayTeam": "Sheffield Wednesday",
+      "homeTeam": "Doncaster",
+      "fixtureId": 1564384,
+      "match_time": "14:00",
+      "over_under": {
+        "comment": "Combined xG metrics and the absence of Jamal Lowe point heavily to a low-scoring encounter.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Value Upset",
+      "match_highlight": "Owls missing Lowe and Slattery as Rovers mount derby resistance."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Value Upset",
+    "possibilityAssessment": [
+      "Doncaster Home Win or Draw resistance driven by Wednesday's spine absences (Confidence: High, Value: High)",
+      "Under 2.5 Total Goals due to limited box penetration and depleted attacking lines (Confidence: Moderate, Value: High)",
+      "Low-margin scoreline corridor concentrated on 1:1 and 1:0 (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-0",
+    "halftime_score": "2-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-24 18:14:29 UTC"
+  }
+}
