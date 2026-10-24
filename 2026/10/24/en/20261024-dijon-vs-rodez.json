@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552506,
+    "matchup": "Dijon vs Rodez",
+    "home_team": "Dijon",
+    "away_team": "Rodez",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-24 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-dijon-vs-rodez/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dijon vs Rodez Prediction & Match Analysis: Can Les Rouges Exploit Leaky Visitors? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552506",
+      "league": "Ligue 2",
+      "matchup": "Dijon vs Rodez",
+      "matchTime": "2026-10-24 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dijon's dynamic attack will overpower Rodez's league-worst defense to secure a high-scoring home victory at Stade Gaston-Gérard.",
+    "possibilityAssessment": [
+      "Dijon Home Win driven by sustained attacking output against a fragile backline (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals powered by combined 3.75 lambda expectancy (Confidence: High, Value: High)",
+      "Both Teams to Score - Yes capitalizing on Dijon's 12-match clean-sheet drought (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552506",
+      "league": "Ligue 2",
+      "homeTeam": "Dijon",
+      "awayTeam": "Rodez",
+      "match_time": "12:00",
+      "match_highlight": "Dijon's 1.74 xG attack targets Rodez's league-worst 2.30 conceded goals.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552506,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Dijon's superior chance creation and home stability decisively outweigh Rodez's five-game losing slump."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A massive combined lambda expectancy of 3.75 goals makes Over 2.5 the statistically dominant total."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Dijon have the offensive firepower to net multiple goals while conceding on counter-attacks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals represent the highest probability densities in the Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Rodez's initial defensive resistance will break down in the second half under Dijon's superior stamina."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 00:05:17 UTC"
+}
