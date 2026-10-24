@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569986,
+    "matchup": "Cordoba vs Eibar",
+    "home_team": "Cordoba",
+    "away_team": "Eibar",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-24 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-cordoba-vs-eibar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cordoba vs Eibar Prediction & Match Analysis: Can Armeros Exploit Califas' High Line? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569986",
+      "league": "Segunda División",
+      "matchup": "Cordoba vs Eibar",
+      "matchTime": "2026-10-24 12:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "SD Eibar avoids defeat as their lethal transition attack exploits Cordoba's leaky high defensive line at El Arcángel.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory supported by transition mismatch (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on 3.12 combined Poisson goal expectancy (Confidence: High, Value: Moderate)",
+      "Away Win outright victory via clinical second-half counter-attacks (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569986",
+      "league": "Segunda División",
+      "homeTeam": "Cordoba",
+      "awayTeam": "Eibar",
+      "match_time": "12:00",
+      "match_highlight": "Eibar vertical counters test Cordoba high line on San Rafael holiday",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1569986,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Eibar's clinical away counter-attacking victory (1:2) and a hard-fought festive home draw (1:1) while rejecting inflated market favoritism on defensive-leaky Cordoba."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Cordoba's 1.81 xGA and Eibar's 2.0 goals per match combine to drive a 60.4% model probability for Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Eibar's road finishing edge against Cordoba's high line, while 1:1 reflects stubborn home resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals represents the modal model total (22.4%), followed closely by a competitive 2-goal stalemate (21.5%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cordoba's early home intensity keeps the first half level before Eibar's transition quality makes the second-half difference."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 00:05:32 UTC"
+}
