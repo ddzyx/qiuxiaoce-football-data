@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601569,
+    "matchup": "Modena vs Cesena",
+    "home_team": "Modena",
+    "away_team": "Cesena",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-24 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261024-modena-vs-cesena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Modena vs Cesena Prediction & Match Analysis: Belotti Debut vs Diamanti Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1601569",
+      "league": "Serie B",
+      "matchup": "Modena vs Cesena",
+      "matchTime": "2026-10-24 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Modena double chance (Home Win / Draw) in a tightly contested derby underpinned by Under 2.5 total match goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Modena home supremacy and Cesena draw frequency (Confidence: Moderate, Value: High)",
+      "Under 2.5 total match goals reflecting attritional derby tempo and Cesena low block (Confidence: Moderate, Value: Moderate)",
+      "1:1 stalemate contingency hedge accounting for Cesena drawing 5 of 7 fixtures (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601569",
+      "league": "Serie B",
+      "homeTeam": "Modena",
+      "awayTeam": "Cesena",
+      "match_time": "13:00",
+      "match_highlight": "Andrea Belotti maiden start clashes against Cesena stubborn low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601569,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Modena's superior home firepower alongside Cesena's remarkable 71% draw rate and four-match unbeaten derby record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derby friction and Cesena's compact defensive structure favor a tightly contested match staying Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate reflects Cesena's chronic draw profile, while a 2:1 home victory reflects Belotti's attacking upgrade."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary statistical anchor, with three goals serving as the primary secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey first half points to a level scoreline at the interval, progressing to a drawn finish or late home edge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 01:10:55 UTC"
+}
