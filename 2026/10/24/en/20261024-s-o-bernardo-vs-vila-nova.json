@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520948,
+    "matchup": "São Bernardo vs Vila Nova",
+    "home_team": "São Bernardo",
+    "away_team": "Vila Nova",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-24 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-s-o-bernardo-vs-vila-nova/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "São Bernardo vs Vila Nova Prediction & Match Analysis: Can Leaders Breach Maião? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520948",
+      "league": "Serie B",
+      "matchup": "São Bernardo vs Vila Nova",
+      "matchTime": "2026-10-24 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vila Nova's promotion urgency and elite 1.08 xGA defense justify a Draw / Away Win stance in a tight, low-scoring battle under 2.5 goals.",
+    "possibilityAssessment": [
+      "Vila Nova grind out a narrow 0:1 road victory via second-half transition efficiency (Confidence: Moderate, Value: High)",
+      "São Bernardo hold the league leaders to a low-scoring 1:1 tactical stalemate at Estádio Primeiro de Maio (Confidence: Moderate, Value: Moderate)",
+      "Strict refereeing and mutual defensive compactness result in a scoreless 0:0 grind (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520948",
+      "league": "Serie B",
+      "homeTeam": "São Bernardo",
+      "awayTeam": "Vila Nova",
+      "match_time": "19:30",
+      "match_highlight": "Leaders Vila Nova seek promotion clincher at defensive São Bernardo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520948,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vila Nova's class-driven 0:1 win and São Bernardo's resilient 1:1 home stalemate under strict officiating."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined defensive excellence and a combined xGA below 2.40 support a low-scoring game."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A controlled 0:1 road victory represents the primary script, with a 1:1 deadlock as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture nearly 49% of the Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A scoreless first half gives way to either a Vila Nova second-half winner or an attritional draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 07:39:50 UTC"
+}
