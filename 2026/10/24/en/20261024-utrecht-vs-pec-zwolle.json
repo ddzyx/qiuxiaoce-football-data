@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552199,
+    "matchup": "Utrecht vs PEC Zwolle",
+    "home_team": "Utrecht",
+    "away_team": "PEC Zwolle",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-24 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-utrecht-vs-pec-zwolle/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Utrecht vs PEC Zwolle: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1552199",
+      "league": "Eredivisie",
+      "matchup": "Utrecht vs PEC Zwolle",
+      "matchTime": "2026-10-24 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Utrecht are projected to claim an outright home victory in a high-tempo, goal-rich contest against a defensively vulnerable PEC Zwolle.",
+    "possibilityAssessment": [
+      "FC Utrecht Outright Victory (Confidence: Moderate, Value: High)",
+      "Match Total Over 2.5 Goals (Confidence: High, Value: High)",
+      "Both Teams to Score Yes (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552199",
+      "league": "Eredivisie",
+      "homeTeam": "Utrecht",
+      "awayTeam": "PEC Zwolle",
+      "match_time": "14:30",
+      "match_highlight": "Utrecht's resurgent wing attack targets Zwolle's fragile defensive transitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552199,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Utrecht's superior wing quality and home dominance will overcome Zwolle's porous away defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides possess fragile defensive records, driving a combined lambda expectancy well above 3.20."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Utrecht's wing attack will generate multiple goals while their leaky backline concedes."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "High combined conceding averages strongly favor a match aggregate of three or four goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Zwolle will resist early before Utrecht's second-half tempo acceleration seals victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-24 02:51:16 UTC"
+}
