@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552792,
+    "matchup": "Angers vs Lorient",
+    "home_team": "Angers",
+    "away_team": "Lorient",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-25 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-angers-vs-lorient/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Angers vs Lorient Prediction & Match Analysis: Can Gilli Fix Leaky Defense vs Dujeux? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552792",
+      "league": "Ligue 1",
+      "matchup": "Angers vs Lorient",
+      "matchTime": "2026-10-25 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 Goals as Angers' emergency defensive tightening meets Dujeux's low-scoring Lorient setup.",
+    "possibilityAssessment": [
+      "Stalemate low-block grind resulting in a 1:1 draw (Confidence: Moderate, Value: High)",
+      "Lorient edge a clinical 0:1 transitional victory on the counter (Confidence: Moderate, Value: High)",
+      "High-scoring variance producing an end-to-end 1:2 away victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552792",
+      "league": "Ligue 1",
+      "homeTeam": "Angers",
+      "awayTeam": "Lorient",
+      "match_time": "16:15",
+      "match_highlight": "Dujeux returns to Raymond Kopa seeking defensive control against reeling hosts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552792,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-density 1:1 stalemate and Lorient's clinical 0:1 road counter-attacking script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Angers' urgent tactical compaction combines with Lorient's modest 1.17 xG output to keep scoring low."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Primary 1:1 reflects modal Poisson density; secondary 0:1 mirrors Lorient's recent 1-0 victories."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the most probable outcome, followed closely by a single-goal defensive grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Capped first-half risk produces a level interval before either a shared point or a second-half away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 04:20:49 UTC"
+}
