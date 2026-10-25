@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505541,
+    "matchup": "Nublense vs Coquimbo Unido",
+    "home_team": "Nublense",
+    "away_team": "Coquimbo Unido",
+    "league": "Primera División",
+    "kickoff_utc": "2026-10-25 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-nublense-vs-coquimbo-unido/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nublense vs Coquimbo Unido Prediction & Match Analysis: Piratas Threaten Chillán — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1505541",
+      "league": "Primera División",
+      "matchup": "Nublense vs Coquimbo Unido",
+      "matchTime": "2026-10-25 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Coquimbo Unido to exploit Ñublense's defensive turmoil and managerial transition, with Draw / Away Win offering optimal risk-adjusted coverage.",
+    "possibilityAssessment": [
+      "Coquimbo Unido transition attack breaches depleted Ñublense backline to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Interim manager Vicente Núñez successfully implements a low-block containment strategy for a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "High defensive volatility and makeshift pairings push total goals above the 2.5 line (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505541",
+      "league": "Primera División",
+      "homeTeam": "Nublense",
+      "awayTeam": "Coquimbo Unido",
+      "match_time": "15:30",
+      "match_highlight": "Piratas target reeling Diablos Rojos in crucial Chillán showdown",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505541,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Coquimbo's transitional sharpness meets a suspension-hit Ñublense backline, with the primary 1:2 away win supported by a 1:1 stalemate hedge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 2.80 goal expectancy and Ñublense's 14 goals conceded over five matches support an open contest clearing the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Coquimbo victory reflects the leading transition script, with a 1:1 draw providing defensive caretaker-bounce coverage."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals represent the dominant probabilistic densities from the independent Poisson simulation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A disciplined, cautious first half gives way to Coquimbo's second-half counter-attacking superiority or a persistent deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 03:35:18 UTC"
+}
