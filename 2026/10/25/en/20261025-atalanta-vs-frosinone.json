@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550157,
+    "matchup": "Atalanta vs Frosinone",
+    "home_team": "Atalanta",
+    "away_team": "Frosinone",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-atalanta-vs-frosinone/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Atalanta vs Frosinone: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1550157",
+      "league": "Serie A",
+      "matchup": "Atalanta vs Frosinone",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Frosinone's elite defensive structure and Atalanta's catastrophic defensive injury crisis point toward the visitors securing at least a point in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Standoff Draw: Compact mid-block containment limits transitional space, yielding a controlled 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Counter-Attacking Away Victory: Raimondo capitalizes on an improvised home backline, sealing a narrow 0:1 away win (Confidence: Moderate, Value: High)",
+      "Improbable Home Breakthrough: Heavy possession generates a solitary goal against deep defensive resistance (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550157",
+      "league": "Serie A",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Frosinone",
+      "match_time": "14:00",
+      "match_highlight": "Depleted Atalanta defense faces clinical Frosinone in Bergamo.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1550157,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the low-block stalemate and the transitional away victory against a fatigued, injury-hit host."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by combined goal expectancy of 2.13 and Frosinone's exceptional 0.40 xGA defensive record."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects a low-event tactical battle dominated by defensive consolidation and sharp transitions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Concentration in the 1-2 goal band aligns with low underlying xG volume across both teams."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half gives way to either sustained parity or a second-half away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:03:46 UTC"
+}
