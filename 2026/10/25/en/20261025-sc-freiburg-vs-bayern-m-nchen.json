@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575198,
+    "matchup": "SC Freiburg vs Bayern München",
+    "home_team": "SC Freiburg",
+    "away_team": "Bayern München",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-25 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-sc-freiburg-vs-bayern-m-nchen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Freiburg vs Bayern München Prediction: Can Shorthanded Bavarians Prevail? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575198",
+      "league": "Bundesliga",
+      "matchup": "SC Freiburg vs Bayern München",
+      "matchTime": "2026-10-25 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bayern München's overwhelming chance creation and Harry Kane's clinical edge will overpower a fatigued Freiburg side in an entertaining away victory.",
+    "possibilityAssessment": [
+      "Bayern München exploit Freiburg's defensive fatigue to secure a hard-fought away victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals materializes through combined attacking firepower and makeshift defensive units (Confidence: High, Value: High)",
+      "Freiburg exploit Bavarian personnel absences to snatch a high-scoring 2:2 draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575198",
+      "league": "Bundesliga",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "Bayern München",
+      "match_time": "16:30",
+      "match_highlight": "Bavarian firepower tested in Freiburg amid Kompany hospitalization and key injuries.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575198,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Bayern München's league-leading 3.48 xG per game provides the decisive firepower to overcome a fatigued Freiburg backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match goal expectancy of 3.64 and depleted defensive units heavily favor an open, multi-goal affair."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A competitive 1:2 Bavarian win represents the primary statistical convergence point, with 1:3 as the late-breakaway branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals carries the highest Poisson probability density at 21.1%, closely followed by four goals at 19.2%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Freiburg's opening-half resistance points toward a level interval before Bayern's depth decides the contest in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 04:44:46 UTC"
+}
