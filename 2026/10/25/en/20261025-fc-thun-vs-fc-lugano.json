@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555410,
+    "matchup": "FC Thun vs FC Lugano",
+    "home_team": "FC Thun",
+    "away_team": "FC Lugano",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-25 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-fc-thun-vs-fc-lugano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Thun vs FC Lugano Prediction & Match Analysis: Can Thun Contain Steffen's Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1555410",
+      "league": "Super League",
+      "matchup": "FC Thun vs FC Lugano",
+      "matchTime": "2026-10-25 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back league-leading FC Lugano to exploit FC Thun's fragile defense and secure an outright away victory in an open, high-scoring affair.",
+    "possibilityAssessment": [
+      "FC Lugano outright away victory driven by superior attacking depth (Confidence: Moderate, Value: High)",
+      "High match goal volume surpassing Over 2.5 total goals (Confidence: High, Value: Moderate)",
+      "Multi-goal margin away victory branch ending 1:3 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555410",
+      "league": "Super League",
+      "homeTeam": "FC Thun",
+      "awayTeam": "FC Lugano",
+      "match_time": "13:00",
+      "match_highlight": "League leaders Lugano target Thun's leaky backline at Stockhorn Arena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555410,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Lugano's league-best attack (31 goals in 10 matches) holds decisive matchup advantages over Thun's defense, which concedes 2.70 goals per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected-goal lambda of 3.71 and Thun's 2.20 xGA per match strongly underpin an open contest with at least three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Scorelines reflect a competitive home effort from Thun on synthetic turf offset by Lugano's superior finishing firepower across the final 30 minutes."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "The Poisson goal-expectancy distribution peaks across the 3-goal (20.8%) and 4-goal (19.3%) probability corridors."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Thun's early resistance should keep the opening half tightly contested before Lugano's superior quality breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 01:07:15 UTC"
+}
