@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550160,
+    "matchup": "Genoa vs Venezia",
+    "home_team": "Genoa",
+    "away_team": "Venezia",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-genoa-vs-venezia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Genoa vs Venezia Prediction & Match Analysis: Can Nicola Break Marassi Curse? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550160",
+      "league": "Serie A",
+      "matchup": "Genoa vs Venezia",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Genoa double chance (Home Win / Draw) in a low-scoring encounter dominated by Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Genoa 1-0 victory via second-half home pressure and set-piece capitalization (Confidence: Moderate, Value: Moderate)",
+      "Scoreless 0-0 stalemate resulting from two league-worst attacks neutralizing each other (Confidence: Moderate, Value: Moderate)",
+      "Venezia 0-1 smash-and-grab counter-attack if Genoa overcommit full-backs (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550160",
+      "league": "Serie A",
+      "homeTeam": "Genoa",
+      "awayTeam": "Venezia",
+      "match_time": "14:00",
+      "match_highlight": "Relegation six-pointer at Marassi pits De Rossi against Nicola's organized block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550160,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Genoa's historical home dominance and Venezia's 29-game away winless streak alongside high stalemate risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Subterranean 0.725 combined match lambda and punchless attacks point decisively toward Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "Reflects the two highest-probability tactical scripts: narrow Genoa home grind or attritional scoreless deadlock."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "Exact totals of one and zero goals account for over 83% of independent Poisson baseline probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Nervous first-half feeling-out phase leading to either a late Genoa winner or a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:04:39 UTC"
+}
