@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505545,
+    "matchup": "Universidad de Concepcion vs Deportes Limache",
+    "home_team": "Universidad de Concepcion",
+    "away_team": "Deportes Limache",
+    "league": "Primera División",
+    "kickoff_utc": "2026-10-25 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-universidad-de-concepcion-vs-deportes-limache/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Universidad de Concepción vs Deportes Limache Prediction: Sosa's Firepower vs Campanil Defense — XG Mind AI",
+    "meta": {
+      "matchId": "1505545",
+      "league": "Primera División",
+      "matchup": "Universidad de Concepción vs Deportes Limache",
+      "matchTime": "2026-10-25 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportes Limache's league-leading attack and transitional efficiency will outgun Universidad de Concepción's relegation-threatened, low-scoring setup.",
+    "possibilityAssessment": [
+      "Deportes Limache Outright Away Win via multi-goal transition output (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by combined 2.95 goal expectancy lambda (Confidence: Moderate, Value: Moderate)",
+      "1:2 Primary Scoreline reflecting competitive home resistance but decisive visitor finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505545",
+      "league": "Primera División",
+      "homeTeam": "Universidad de Concepción",
+      "awayTeam": "Deportes Limache",
+      "match_time": "23:00",
+      "match_highlight": "Limache's 45-goal attack tests Concepción's fragile survival defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505545,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Deportes Limache holds an overwhelming offensive edge (1.9 to 0.8 goals per game) that will decisively crack Concepción's vulnerable backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.95 lambda total and Limache's porous road defense strongly support clearing the 2.5-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 victory represents the natural convergence of Limache's clinical attack and Concepción's late home push."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals carries the highest probabilistic density at 22.4%, with two goals providing direct script coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Concepción's low block holds early before second-half fatigue and Limache's counters decide the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 11:05:14 UTC"
+}
