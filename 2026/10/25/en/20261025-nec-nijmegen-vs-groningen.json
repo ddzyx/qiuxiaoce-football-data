@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552203,
+    "matchup": "NEC Nijmegen vs Groningen",
+    "home_team": "NEC Nijmegen",
+    "away_team": "Groningen",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-25 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-nec-nijmegen-vs-groningen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "NEC Nijmegen vs Groningen Prediction: European Fatigue & Willumsson Duel — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552203",
+      "league": "Eredivisie",
+      "matchup": "NEC Nijmegen vs Groningen",
+      "matchTime": "2026-10-25 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back NEC Nijmegen on the double chance (Home Win / Draw) in an open, high-scoring contest exceeding 2.5 total goals.",
+    "possibilityAssessment": [
+      "NEC Nijmegen utilise home superiority and Chery's creative form to edge a high-tempo 2:1 win (Confidence: Moderate, Value: High)",
+      "Groningen exploit NEC's post-European fatigue and defensive absences to secure an entertaining 2:2 draw (Confidence: Moderate, Value: Moderate)",
+      "Direct counter-attacking burst from Groningen capitalises on exhausted home backline for a 1:2 away upset (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552203",
+      "league": "Eredivisie",
+      "homeTeam": "NEC Nijmegen",
+      "awayTeam": "Groningen",
+      "match_time": "13:30",
+      "match_highlight": "Brotherly Willumsson duel meets NEC post-European fatigue in high-scoring Eredivisie clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552203,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers NEC's high-possession home advantage alongside the elevated stalemate risk induced by sub-72h recovery from Zagreb."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Aggregated expected goal baseline of 3.85 goals and high combined xGA figures firmly support a game clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Reflects NEC's 1.79 xG generation against Groningen's leaky 2.17 xGA defense while accounting for transitional away goals."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the dominant probability mass across independent Poisson simulation distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Accounts for a cautious first half followed by second-half decisive action, or an early home lead eroded by late fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 01:34:39 UTC"
+}
