@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557445,
+    "matchup": "Manchester United vs Bournemouth",
+    "home_team": "Manchester United",
+    "away_team": "Bournemouth",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-manchester-united-vs-bournemouth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Manchester United vs Bournemouth Prediction: Tactical Crisis at Old Trafford — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557445",
+      "league": "Premier League",
+      "matchup": "Manchester United vs Bournemouth",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Support Bournemouth to exploit tactical disarray and severe midfield absences at Old Trafford via the Draw / Away Win corridor.",
+    "possibilityAssessment": [
+      "Bournemouth avoid defeat through compact mid-block organization and transition sharpness (Confidence: Moderate, Value: High)",
+      "Low-scoring tactical stalemate capped at two total goals (Confidence: Moderate, Value: Moderate)",
+      "Late counter-attacking breakthrough yielding a 1:2 Bournemouth away victory (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557445",
+      "league": "Premier League",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Bournemouth",
+      "match_time": "14:00",
+      "match_highlight": "Carrick fighting for survival as in-form Bournemouth target vulnerable Old Trafford hosts",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1557445,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a tight 1:1 stalemate and a 1:2 Bournemouth victory; a single home win selection fails to account for United's seven-match winless crisis and dressing room discord."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with United's severe finishing slump and Bournemouth's recent streak of three consecutive clean sheets."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw represents the primary probabilistic convergence, while 1:2 reflects a late transitional away breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary total, with three goals serving as the late-game breakdown alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a guarded first half resulting in a halftime draw, leading either to a full-time split or a late Bournemouth winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:09:36 UTC"
+}
