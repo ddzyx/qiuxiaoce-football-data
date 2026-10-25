@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1569981,
+    "matchup": "Albacete vs Eldense",
+    "home_team": "Albacete",
+    "away_team": "Eldense",
+    "league": null,
+    "kickoff_utc": "2026-10-25 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-albacete-vs-eldense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Segunda División",
+      "matchId": "1569981",
+      "matchup": "Albacete vs Eldense",
+      "matchTime": "2026-10-25 15:15 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Albacete vs Eldense Prediction & Match Analysis: Relegation Crisis Meets Calleja's Surge — Scoreline Preview",
+    "coreRecommendation": "Back Eldense to exploit Albacete's catastrophic defensive record via a Draw / Away Win stance, led by a 1:2 primary scoreline.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Albacete are projected to hold parity through a cautious first half before Eldense's bench and transition pace break through.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Eldense's high-flying transition offense as the primary winner alongside a desperate Albacete low-block draw hedge.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Three total goals reflects the natural convergence of Albacete's defensive decay and Eldense's attacking form.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:2 Eldense victory represents the primary clinical outcome, with 1:1 serving as the resilient home stalemate alternative.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Segunda División",
+      "matchId": "1569981",
+      "awayTeam": "Eldense",
+      "homeTeam": "Albacete",
+      "fixtureId": 1569981,
+      "match_time": "15:15",
+      "over_under": {
+        "comment": "Albacete concede 2.20 goals per match while Eldense have netted nine goals in their last three outings.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Eldense's three-match winning surge clashes with Albacete's bottom-place defensive crisis."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Eldense Outright Win via transition superiority and form momentum (Confidence: Moderate, Value: High)",
+      "Low-Block 1:1 Stalemate under Etxeberria's survival setup (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Over 2.5 driven by Albacete conceding 2.20 goals per match (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-0",
+    "halftime_score": "2-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-25 18:14:59 UTC"
+  }
+}
