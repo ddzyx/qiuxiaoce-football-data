@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557446,
+    "matchup": "Sunderland vs Leeds",
+    "home_team": "Sunderland",
+    "away_team": "Leeds",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-25 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-sunderland-vs-leeds/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sunderland vs Leeds Prediction & Match Analysis: Attacking Crisis vs European Fatigue — Scoreline Preview",
+    "meta": {
+      "matchId": "1557446",
+      "league": "Premier League",
+      "matchup": "Sunderland vs Leeds",
+      "matchTime": "2026-10-25 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Leeds' defensive solidity should secure at least a point against a fatigued Sunderland side, with a 1:1 draw representing the primary outcome.",
+    "possibilityAssessment": [
+      "Leeds defensive structure contains fatigued Sunderland in a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Late transition breakthrough allows Leeds to edge a 1:2 road victory against exhausted hosts (Confidence: Moderate, Value: Moderate)",
+      "Sunderland utilize set-piece efficiency to grind out a narrow 2:1 home upset (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557446",
+      "league": "Premier League",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Leeds",
+      "match_time": "16:30",
+      "match_highlight": "Depleted Leeds frontline tests fatigued Sunderland defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557446,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Leeds' defensive resilience should prevent defeat against a fatigued and suspended Sunderland defense, covering both the 1:1 draw and a 1:2 road victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Leeds' frontline injury doubts and Sunderland's energy management post-Europe favor a tight contest capped under three goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw serves as the model's natural focal point, with 1:2 covering a late fatigue breakdown."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal primary count captures the 1:1 stalemate, with 3 goals representing the late away transition branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey opening half under strict officiating precedes either a sustained stalemate or a late Leeds winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 04:37:01 UTC"
+}
