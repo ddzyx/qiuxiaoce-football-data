@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569985,
+    "matchup": "Castellón vs Sporting Gijon",
+    "home_team": "Castellón",
+    "away_team": "Sporting Gijon",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-25 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-castellón-vs-sporting-gijon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Castellón vs Sporting Gijon Prediction: Possession Edge vs Attack Absences — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569985",
+      "league": "Segunda División",
+      "matchup": "Castellón vs Sporting Gijon",
+      "matchTime": "2026-10-25 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Castellón's suffocating defensive structure and territorial hegemony should overcome Sporting Gijon in a controlled, low-scoring home victory.",
+    "possibilityAssessment": [
+      "Castellón controlled victory with clean sheet (Confidence: Moderate, Value: High)",
+      "Low-scoring defensive contest under 2.5 goals (Confidence: High, Value: High)",
+      "Sporting low-block stalemate resistance (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569985",
+      "league": "Segunda División",
+      "homeTeam": "Castellón",
+      "awayTeam": "Sporting Gijon",
+      "match_time": "17:30",
+      "match_highlight": "Castellón's league-best defense hosts depleted Sporting attack at Castalia.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569985,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Castellón's 62.3% possession control and league-leading 0.40 GA per match provide an insurmountable advantage over an away attack missing Antonio Casas."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Key offensive absentees Camara and Casas combined with lambda_total of 2.10 solidly cap the match ceiling under 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Controlled clean sheet victories reflecting Castellón's defensive solidity and methodical second-half breakthroughs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution and missing strikers heavily concentrate match density across one and two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Sporting's compact 4-4-2 will frustrate early on before Castellón's sustained pressure forces a second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 05:36:18 UTC"
+}
