@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569984,
+    "matchup": "Cadiz vs AD Ceuta FC",
+    "home_team": "Cadiz",
+    "away_team": "AD Ceuta FC",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-25 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-cadiz-vs-ad-ceuta-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cadiz vs AD Ceuta FC Prediction: New Boss Borja Jimenez & xG Edge — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1569984",
+      "league": "Segunda División",
+      "matchup": "Cadiz vs AD Ceuta FC",
+      "matchTime": "2026-10-25 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cádiz to secure all three points at the Nuevo Mirandilla against Ceuta's division-worst defensive transition.",
+    "possibilityAssessment": [
+      "Cadiz Home Win via structured late acceleration (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by Ceuta defensive vulnerability (Confidence: Moderate, Value: Moderate)",
+      "Controlled 2:0 Cadiz clean-sheet victory under Borja Jimenez (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569984",
+      "league": "Segunda División",
+      "homeTeam": "Cadiz",
+      "awayTeam": "AD Ceuta FC",
+      "match_time": "15:15",
+      "match_highlight": "Borja Jimenez debuts as Cadiz host Ceuta's porous backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569984,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Cadiz hold superior underlying defensive metrics (1.08 xGA) and should capitalize on Ceuta's league-worst 2.2 conceded goals per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson goal expectancy of 2.785 and Ceuta's porous defense support an open game surpassing the 2.5 benchmark."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Ceuta's scoring punch alongside their persistent defensive leakage, with 2:0 as a clean-sheet hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals represent over 46% of combined model probability density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win aligns with early tactical caution before Cadiz exploit Ceuta's mid-to-late defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 03:20:00 UTC"
+}
