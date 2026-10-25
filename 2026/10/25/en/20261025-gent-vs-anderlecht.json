@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558656,
+    "matchup": "Gent vs Anderlecht",
+    "home_team": "Gent",
+    "away_team": "Anderlecht",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-10-25 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-gent-vs-anderlecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gent vs Anderlecht Prediction & Match Analysis: Can Buffaloes Halt Bruno's xG Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1558656",
+      "league": "Jupiler Pro League",
+      "matchup": "Gent vs Anderlecht",
+      "matchTime": "2026-10-25 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gent to preserve their unbeaten home league record against injury-depleted Anderlecht via Home Win / Draw in a controlled, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Stalemate Parity: Disciplined Gent mid-block neutralizes Anderlecht possession in a 1:1 deadlock (Confidence: Moderate, Value: High)",
+      "Buffaloes Transitional Breakthrough: Late Gent counter-attack capitalizes on Anderlecht's depleted defense for a 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Defensive Attrition: European travel fatigue limits high-tempo pressing, anchoring total goals firmly Under 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558656",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Gent",
+      "awayTeam": "Anderlecht",
+      "match_time": "17:30",
+      "match_highlight": "Gent's resilient home defense meets Anderlecht's injury-hit backline after European travel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558656,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and secondary 2:1 Gent win, reflecting Buffaloes home resilience against visitors missing multiple key defenders."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson goal expectancy of 2.315 and sub-72-hour European turnaround support an Under 2.5 trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the model peak at 13.2% density, while 2:1 captures Gent exploiting Anderlecht's depleted backline late on."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads Poisson probability at 26.5%, with 3 goals providing coverage for a late transitional decider at 20.4%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening half from fatigued squads precedes either a sustained stalemate or a late Gent breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 05:36:22 UTC"
+}
