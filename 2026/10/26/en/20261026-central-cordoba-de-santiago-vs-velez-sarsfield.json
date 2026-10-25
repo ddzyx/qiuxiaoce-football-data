@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493201,
+    "matchup": "Central Cordoba de Santiago vs Velez Sarsfield",
+    "home_team": "Central Cordoba de Santiago",
+    "away_team": "Velez Sarsfield",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-26 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261026-central-cordoba-de-santiago-vs-velez-sarsfield/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Central Cordoba vs Velez Sarsfield Prediction: Tactical xG Analysis & Road Supremacy — Scoreline Preview",
+    "meta": {
+      "matchId": "1493201",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Central Cordoba de Santiago vs Velez Sarsfield",
+      "matchTime": "2026-10-26 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vélez Sarsfield's elite defensive structure and midfield control will overpower struggling Central Córdoba in a low-scoring road victory.",
+    "possibilityAssessment": [
+      "Vélez Sarsfield secures a controlled 1-0 or 2-0 road victory against a vulnerable host (Confidence: Moderate, Value: High)",
+      "Low-scoring defensive attrition produces Under 2.5 total goals (Confidence: High, Value: Moderate)",
+      "Scoreless stalemate if Central Córdoba executes an emergency low-block defense (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493201",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Central Cordoba de Santiago",
+      "awayTeam": "Velez Sarsfield",
+      "match_time": "00:30",
+      "match_highlight": "Struggling Central Córdoba hosts formidable Vélez Sarsfield in Santiago del Estero.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493201,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Vélez Sarsfield holds overwhelming advantages in defensive solidity and midfield control against an opponent winless in seven matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal-expectancy lambda of 2.10 and Vélez's 11 clean sheets firmly anchor projections below the 2.5 goal threshold."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A 1-0 or 2-0 away victory represents the natural convergence of Vélez's game control and Central Córdoba's blunt attack."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Scoring distribution is compressed heavily across 1 and 2 total goals in typical Argentine league fashion."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Central Córdoba's initial home resistance will likely produce a drawn first half before Vélez's superior quality breaks through."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 12:32:53 UTC"
+}
