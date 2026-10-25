@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557444,
+    "matchup": "Liverpool vs Brighton",
+    "home_team": "Liverpool",
+    "away_team": "Brighton",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-liverpool-vs-brighton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Liverpool vs Brighton Prediction & Match Analysis: Can Seagulls Breach Anfield? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557444",
+      "league": "Premier League",
+      "matchup": "Liverpool vs Brighton",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Liverpool or Draw in an active, competitive encounter projected to yield over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Liverpool edge Brighton 2:1 via late second-half pressure at Anfield (Confidence: Moderate, Value: High)",
+      "Disciplined Brighton defense holds Liverpool to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-scoring chaotic exchange extending beyond three total goals (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557444",
+      "league": "Premier League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Brighton",
+      "match_time": "14:00",
+      "match_highlight": "Anfield hosts clash between Liverpool firepower and Brighton defensive streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557444,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Liverpool's superior home firepower and rest advantage alongside Brighton's defensive resilience and Liverpool's domestic Anfield winless run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by season averages of 3.0 goals per game and historical head-to-head precedent where 9 of 10 meetings exceeded 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 scoreline captures second-half Liverpool Anfield surge, while 1:1 provides hedge against Brighton's compact low block."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents modal distribution of 2:1 win; two goals accounts for the 1:1 stalemate script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a tight, disciplined first half with Liverpool leveraging superior late stamina and substitutions to decide the match after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:09:50 UTC"
+}
