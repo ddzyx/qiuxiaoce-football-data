@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549040,
+    "matchup": "Aarhus vs Viborg",
+    "home_team": "Aarhus",
+    "away_team": "Viborg",
+    "league": "Superliga",
+    "kickoff_utc": "2026-10-25 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-aarhus-vs-viborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aarhus vs Viborg Prediction & Match Analysis: Expected Goals, Midfield Attrition & Fatigue Decoupling",
+    "meta": {
+      "matchId": "1549040",
+      "league": "Superliga",
+      "matchup": "Aarhus vs Viborg",
+      "matchTime": "2026-10-25 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Viborg to avoid defeat in a tightly contested clash where Aarhus's seventy-two-hour European fatigue and midfield injuries undermine home advantage.",
+    "possibilityAssessment": [
+      "Viborg exploits home fatigue in transition to secure a narrow 1-2 victory (Confidence: Moderate, Value: High)",
+      "Aarhus utilizes Legends' Day resolve and set-piece presence to grind out a 1-1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Aarhus preserves an early aerial lead through a low-block defensive rearguard (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549040",
+      "league": "Superliga",
+      "homeTeam": "Aarhus",
+      "awayTeam": "Viborg",
+      "match_time": "17:00",
+      "match_highlight": "Fatigued Aarhus host rested Viborg with midfield absences tilting the balance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549040,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1-1 stalemate and Viborg's 1-2 transition victory against an exhausted, injury-hit host."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aarhus's low-block fatigue management and Viborg's elite 1.14 xGA defense favor a suppressed total."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1-1 draw represents the primary Poisson density node, with a 1-2 away win capturing late fatigue breakdown."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "An exact total of 2 or 3 goals encompasses the two dominant scoreline branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A disciplined, even first half giving way to either a continued stalemate or a late Viborg breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 05:06:42 UTC"
+}
