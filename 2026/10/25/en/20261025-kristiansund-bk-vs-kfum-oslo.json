@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494686,
+    "matchup": "Kristiansund BK vs KFUM Oslo",
+    "home_team": "Kristiansund BK",
+    "away_team": "KFUM Oslo",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-10-25 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-kristiansund-bk-vs-kfum-oslo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kristiansund BK vs KFUM Oslo Prediction: Relegation Crisis vs Counter Threat — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494686",
+      "league": "Eliteserien",
+      "matchup": "Kristiansund BK vs KFUM Oslo",
+      "matchTime": "2026-10-25 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back KFUM Oslo to exploit Kristiansund's catastrophic defensive decline via the Draw / Away Win corridor in an open, high-tempo contest.",
+    "possibilityAssessment": [
+      "KFUM Oslo avoid defeat via Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Match exceeds scoring baseline with Over 2.5 Goals (Confidence: High, Value: Moderate)",
+      "High probability exact scoreline convergence on 1:2 away victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494686",
+      "league": "Eliteserien",
+      "homeTeam": "Kristiansund BK",
+      "awayTeam": "KFUM Oslo",
+      "match_time": "16:00",
+      "match_highlight": "Struggling Kristiansund face high-flying KFUM Oslo in relegation battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494686,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the clinical 1:2 KFUM transition victory and a desperate 1:1 stalemate, reflecting Kristiansund's severe defensive vulnerabilities."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.21 total goal expectancy and Kristiansund's 2.11 conceded xGA average."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 captures KFUM counter-attacking superiority, while secondary 1:1 accounts for home survival resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 Goals aligns with the primary 1:2 script, while 2 Goals provides coverage for the 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Loss anticipates Kristiansund fading in the second half, while Draw-Draw covers a full-match attritional battle."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 04:04:07 UTC"
+}
