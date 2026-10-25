@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552206,
+    "matchup": "AZ Alkmaar vs Twente",
+    "home_team": "AZ Alkmaar",
+    "away_team": "Twente",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-25 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-az-alkmaar-vs-twente/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AZ Alkmaar vs Twente Prediction & Match Analysis: Unnerstall Injury Reshapes xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1552206",
+      "league": "Eredivisie",
+      "matchup": "AZ Alkmaar vs Twente",
+      "matchTime": "2026-10-25 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AZ Alkmaar's superior box penetration and Twente's key defensive absences will propel the hosts to a decisive home victory.",
+    "possibilityAssessment": [
+      "AZ Alkmaar capitalize on Lars Unnerstall's absence to secure a multi-goal home victory (Confidence: Moderate, Value: High)",
+      "High-tempo attacking exchanges breach defensive lines, driving the total over 2.5 goals (Confidence: High, Value: Moderate)",
+      "Twente transition threat through Wout Weghorst forces a competitive one-goal margin contest (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552206",
+      "league": "Eredivisie",
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "Twente",
+      "match_time": "19:00",
+      "match_highlight": "AZ Alkmaar host depleted Twente aiming to cement second place at AFAS Stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552206,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "AZ Alkmaar's relentless box pressure and Twente's defensive injuries firmly support an outright home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined attacking metrics exceeding 4.3 xG per match point toward a goal-filled encounter breaching the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 home victory serves as the primary convergence point, with 3:1 capturing late transition exploitation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals dominate the Poisson probability matrix given both teams' high attacking efficiency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A competitive opening half transitioning into second-half home dominance provides the primary script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 07:06:17 UTC"
+}
