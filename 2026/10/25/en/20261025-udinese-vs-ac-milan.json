@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550166,
+    "matchup": "Udinese vs AC Milan",
+    "home_team": "Udinese",
+    "away_team": "AC Milan",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-25 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261025-udinese-vs-ac-milan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Udinese vs AC Milan Prediction & Tactical Preview: Rossoneri Absences vs Friulani Fragility — XG Mind AI",
+    "meta": {
+      "matchId": "1550166",
+      "league": "Serie A",
+      "matchup": "Udinese vs AC Milan",
+      "matchTime": "2026-10-25 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AC Milan overcome midfield absences and midweek fatigue to exploit Udinese's fragile 2.19 xGA defense in a competitive away victory.",
+    "possibilityAssessment": [
+      "AC Milan outright away victory capitalizing on Friulani defensive collapse (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by combined 3.15 expected goal baseline (Confidence: Moderate, Value: High)",
+      "Draw-Loss Half-Time/Full-Time transition driven by Udinese second-half attrition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550166",
+      "league": "Serie A",
+      "homeTeam": "Udinese",
+      "awayTeam": "AC Milan",
+      "match_time": "19:45",
+      "match_highlight": "Unbeaten Milan test Udinese's fragile backline at Bluenergy Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550166,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Milan's decisive attacking superiority across half-spaces will overcome Udinese's direct transitional threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Underpinned by Udinese conceding 2.19 xGA per match and Milan averaging 2.0 goals scored."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Primary 1:2 scoreline reflects Friulani home goal capability countered by Milan's dynamic multi-goal edge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome represents the highest Poisson probability density (22.3%) followed closely by 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Udinese's first-half physical resistance is projected to crack under second-half attrition."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 07:48:25 UTC"
+}
