@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493206,
+    "matchup": "River Plate vs Racing Club",
+    "home_team": "River Plate",
+    "away_team": "Racing Club",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-25 22:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-river-plate-vs-racing-club/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "River Plate vs Racing Club Prediction: Can Almada Breach Racing? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493206",
+      "league": "Liga Profesional Argentina",
+      "matchup": "River Plate vs Racing Club",
+      "matchTime": "2026-10-25 22:15 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "River Plate's territorial dominance and creative midfield edge will break down a vulnerable Racing Club defense at the Monumental.",
+    "possibilityAssessment": [
+      "River Plate controlled 2:0 home victory with clean sheet (Confidence: High, Value: High)",
+      "High-tempo exchange culminating in a 2:1 River Plate triumph (Confidence: Moderate, Value: Moderate)",
+      "Racing Club defensive low block holding a low-scoring 1-goal deficit (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493206",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "River Plate",
+      "awayTeam": "Racing Club",
+      "match_time": "22:15",
+      "match_highlight": "River Plate seek top-four consolidation at home against struggling Racing Club",
+      "ai_confidence": "High",
+      "fixtureId": 1493206,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "River Plate's territorial pressure and superior attacking metrics at the Monumental justify a decisive home win selection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 goals aligns with River's tight defensive record of 0.9 goals conceded per match and Racing's road offensive slump."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home shutout represents the primary statistical anchor, supported by a 2:1 secondary branch if Racing capitalizes on transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three total goals capture over 63% of model scoring density across projected game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "River Plate's pattern of wearing down low blocks in the second half makes Draw-Win the leading script ahead of an early Win-Win lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 10:19:47 UTC"
+}
