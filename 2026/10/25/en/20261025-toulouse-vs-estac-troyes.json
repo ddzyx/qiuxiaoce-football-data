@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552799,
+    "matchup": "Toulouse vs Estac Troyes",
+    "home_team": "Toulouse",
+    "away_team": "Estac Troyes",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-25 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-toulouse-vs-estac-troyes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Toulouse vs Estac Troyes Prediction & Match Analysis: High-xG Attack vs Fragile Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1552799",
+      "league": "Ligue 1",
+      "matchup": "Toulouse vs Estac Troyes",
+      "matchTime": "2026-10-25 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Toulouse to exploit Troyes' severely depleted defense and five-match losing streak to claim regulation victory.",
+    "possibilityAssessment": [
+      "Toulouse regulation victory driven by second-half attacking superiority (Confidence: Moderate, Value: High)",
+      "High-event match surpassing 2.5 total goals behind a 3.15 combined expectancy (Confidence: Moderate, Value: Moderate)",
+      "Toulouse controlled multi-goal clean sheet in a 2:0 game-state cushion (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552799",
+      "league": "Ligue 1",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Estac Troyes",
+      "match_time": "16:15",
+      "match_highlight": "Toulouse high-volume attack tests Troyes fragile depleted backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552799,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Toulouse's 2.03 xG per match and four-game unbeaten run decisively overpower a Troyes squad on a five-match losing streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.15 goals comfortably supports an open match exceeding the 2.5 goal line."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Primary 2:1 scoreline captures Toulouse's multi-goal output alongside minor transition vulnerabilities; 2:0 reflects clean-sheet dominance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the highest-density convergence point of both teams' season scoring and concession rates."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Toulouse have scored 11 of their 12 goals in the second half, making a level opening 45 followed by a home victory the primary trend."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 04:22:55 UTC"
+}
