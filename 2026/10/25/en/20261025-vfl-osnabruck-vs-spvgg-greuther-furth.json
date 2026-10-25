@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576214,
+    "matchup": "VfL Osnabrück vs SpVgg Greuther Fürth",
+    "home_team": "VfL Osnabrück",
+    "away_team": "SpVgg Greuther Fürth",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-10-25 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-vfl-osnabruck-vs-spvgg-greuther-furth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VfL Osnabrück vs SpVgg Greuther Fürth Prediction: Transition Clash & Klaus Form — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1576214",
+      "league": "2. Bundesliga",
+      "matchup": "VfL Osnabrück vs SpVgg Greuther Fürth",
+      "matchTime": "2026-10-25 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "A compact tactical duel where Fürth's possession control and Felix Klaus's scoring threat are countered by Osnabrück's Bremer Brücke resilience, pointing to Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance covers the 1:1 stalemate and narrow 1:2 Franconian away surge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals supported by Osnabrück's low-block containment and Fürth's recent defensive clean sheet (Confidence: Moderate, Value: Moderate)",
+      "Primary exact scoreline 1:1 reflects high Poisson density and mutual tactical neutralizing (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576214",
+      "league": "2. Bundesliga",
+      "homeTeam": "VfL Osnabrück",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "match_time": "12:30",
+      "match_highlight": "Felix Klaus in red-hot form faces Osnabrück's Bremer Brücke counter-attack trap",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576214,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and the secondary 1:2 Fürth away breakthrough, accounting for Osnabrück's 4-game winless run."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 holds primary density as Osnabrück's 32.8% possession low block limits open transitions against Fürth's patient build-up."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Primary 1:1 reflects high Poisson clustering, while 1:2 accounts for Fürth's late quality edge through Felix Klaus."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak distribution from a 1:1 deadlock, with 3 goals providing coverage for a 1:2 decider."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both halves level (Draw-Draw) leads the model, with a level opening half preceding a Fürth late winner (Draw-Loss) as secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 00:36:45 UTC"
+}
