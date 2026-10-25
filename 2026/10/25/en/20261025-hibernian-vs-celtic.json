@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556684,
+    "matchup": "Hibernian vs Celtic",
+    "home_team": "Hibernian",
+    "away_team": "Celtic",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-25 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-hibernian-vs-celtic/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hibernian vs Celtic Prediction & Match Analysis: Reedijk's Low Block vs Bhoys' xG Edge — Scoreline Preview",
+    "meta": {
+      "matchId": "1556684",
+      "league": "Premiership",
+      "matchup": "Hibernian vs Celtic",
+      "matchTime": "2026-10-25 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celtic's dominant 2.92 xG attacking output and Hibernian's severe injury crisis point toward a decisive away victory in a high-scoring contest.",
+    "possibilityAssessment": [
+      "Celtic control midfield territory and grind down a depleted Hibs defense to secure an away win (Confidence: Moderate, Value: High)",
+      "High match tempo and Hibernian home resistance push total goals over the 2.5 threshold (Confidence: Moderate, Value: High)",
+      "Hibernian score on transition but succumb to Celtic's superior late bench quality in a 1:2 defeat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556684",
+      "league": "Premiership",
+      "homeTeam": "Hibernian",
+      "awayTeam": "Celtic",
+      "match_time": "12:00",
+      "match_highlight": "League leaders Celtic visit injury-depleted bottom club Hibernian at Easter Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556684,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Celtic's overwhelming domestic attacking metrics (2.92 xG/match) and Hibs' six-match winless slump point decisively to an away win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.555 and Celtic's 2.60 goals per match make Over 2.5 the mathematically supported selection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A 1:2 score mirrors recent Easter Road H2H meetings, while 1:3 reflects Celtic's explosive multi-goal domestic ceiling."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Model probabilities peak at 3 goals (21.4%) and 4 goals (19.0%), directly supporting multi-goal Away Win scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss accounts for Celtic's post-European first-half fatigue before asserting dominance, while Loss-Loss covers an early away lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 00:04:18 UTC"
+}
