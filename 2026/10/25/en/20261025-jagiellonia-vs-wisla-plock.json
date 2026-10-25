@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1553200,
+    "matchup": "Jagiellonia vs Wisla Plock",
+    "home_team": "Jagiellonia",
+    "away_team": "Wisla Plock",
+    "league": null,
+    "kickoff_utc": "2026-10-25 13:45:00",
+    "source_url": "https://xgmind.com/matches/20261025-jagiellonia-vs-wisla-plock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ekstraklasa",
+      "matchId": "1553200",
+      "matchup": "Jagiellonia vs Wisla Plock",
+      "matchTime": "2026-10-25 13:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Decoupling Jagiellonia vs Wisla Plock: Fatigue Deficit, Form Disparity & Match Intelligence",
+    "coreRecommendation": "Wisla Plock's significant rest advantage and defensive compactness position them to secure positive points against a fatigued Jagiellonia.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Anticipates a tight opening half followed by either sustained parity or late away fatigue exploitation.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the high-density 1:1 tactical stalemate and a late 1:2 counter-attacking away victory against an exhausted home defense.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represent the most probable convergence point, with three goals representing the secondary open-game branch.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Reflects the primary 1:1 Poisson mode and the secondary transition breakdown leading to a 1:2 away win.",
+        "selection": [
+          "1:1",
+          "1:2"
+        ]
+      },
+      "league": "Ekstraklasa",
+      "matchId": "1553200",
+      "awayTeam": "Wisla Plock",
+      "homeTeam": "Jagiellonia",
+      "fixtureId": 1553200,
+      "match_time": "13:45",
+      "over_under": {
+        "comment": "Fatigue-induced low tempo and Wisla Plock's solid defensive block favor a controlled 2-goal environment.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Severe 66-hour turnaround leaves Jagiellonia vulnerable to rested Wisla Plock counter-attacks."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Wisla Plock capitalize on home fatigue to hold a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Late transition counter delivers a 1:2 away victory for Wisla Plock (Confidence: Low, Value: High)",
+      "Exhausted home legs suppress overall tempo favoring Under 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-0",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-25 18:14:00 UTC"
+  }
+}
