@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575519,
+    "matchup": "Estoril vs Moreirense",
+    "home_team": "Estoril",
+    "away_team": "Moreirense",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-25 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-estoril-vs-moreirense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estoril vs Moreirense Prediction & Preview: Can Canarinhos Exploit Maracás Ban? — xG & Scoreline Analysis",
+    "meta": {
+      "matchId": "1575519",
+      "league": "Primeira Liga",
+      "matchup": "Estoril vs Moreirense",
+      "matchTime": "2026-10-25 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Estoril hold superior underlying metrics to avoid defeat against a Maracás-less Moreirense in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Estoril avoid defeat via Home Win / Draw as underlying metrics regress positively (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals supported by combined 1.80 xG output and low conversion rates (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 stalemate reflecting Estoril pressure undermined by finishing wastefulness (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575519",
+      "league": "Primeira Liga",
+      "homeTeam": "Estoril",
+      "awayTeam": "Moreirense",
+      "match_time": "15:30",
+      "match_highlight": "Estoril target first league win against Maracás-less Moreirense backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575519,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Estoril's underlying chance-creation rebound while protecting against their chronic conversion failures in a tight stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goals of 1.80 xG and modest finishing metrics point strongly to a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects the dominant 1:1 deadlock and the narrow 1:0 home breakthrough branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution peaks heavily at 2 goals (25.0%) and 1 goal (19.2%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first half followed by second-half tactical openings favors draw-led transitions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 03:37:57 UTC"
+}
