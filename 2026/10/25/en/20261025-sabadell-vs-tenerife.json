@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569991,
+    "matchup": "Sabadell vs Tenerife",
+    "home_team": "Sabadell",
+    "away_team": "Tenerife",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-25 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-sabadell-vs-tenerife/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sabadell vs Tenerife Prediction & Match Analysis: Low-Block Clash & xG Breakdown",
+    "meta": {
+      "matchId": "1569991",
+      "league": "Segunda División",
+      "matchup": "Sabadell vs Tenerife",
+      "matchTime": "2026-10-25 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sabadell's defensive solidity at Nova Creu Alta protects them against an away-fragile Tenerife, but the absence of striker Nicholas Gioacchini makes Home Win / Draw the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Sabadell home resilience and Cervera low-block stalemate risk (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by combined 2.455 goal expectancy and tight Segunda game states (Confidence: High, Value: Moderate)",
+      "Scoreline 1:1 as modal Poisson convergence point between host territory and Gallego counter threat (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569991",
+      "league": "Segunda División",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Tenerife",
+      "match_time": "13:00",
+      "match_highlight": "Sabadell home fortress meets Cervera low block amid Gioacchini injury absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569991,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Sabadell's territorial home dominance while guarding against stalemate friction caused by key attacking absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Low combined goal expectancy of 2.455 and defensive tactical structures strongly favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 represents the modal Poisson outcome while 1:0 reflects a disciplined home clean-sheet victory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal combine for 47.0% of the Poisson total goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first-half approaches from both sides favor a level interval prior to second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 01:07:42 UTC"
+}
