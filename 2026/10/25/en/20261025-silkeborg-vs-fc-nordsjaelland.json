@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549045,
+    "matchup": "Silkeborg vs FC Nordsjaelland",
+    "home_team": "Silkeborg",
+    "away_team": "FC Nordsjaelland",
+    "league": "Superliga",
+    "kickoff_utc": "2026-10-25 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-silkeborg-vs-fc-nordsjaelland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Silkeborg vs FC Nordsjaelland: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1549045",
+      "league": "Superliga",
+      "matchup": "Silkeborg vs FC Nordsjaelland",
+      "matchTime": "2026-10-25 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Nordsjaelland's elite 2.35 xG per match establishes an away victory as the primary script, but European fatigue and defensive absences warrant a protective Draw / Away Win stance.",
+    "possibilityAssessment": [
+      "FC Nordsjaelland control central territory and secure a 1:2 victory through superior chance creation (Confidence: Moderate, Value: High)",
+      "European fixture fatigue causes a second-half deceleration, allowing Silkeborg to hold a 1:1 home draw (Confidence: Moderate, Value: Moderate)",
+      "Open transitional exchanges exploit Silkeborg's depleted center-back pairing to push the total over 2.5 goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549045",
+      "league": "Superliga",
+      "homeTeam": "Silkeborg",
+      "awayTeam": "FC Nordsjaelland",
+      "match_time": "13:00",
+      "match_highlight": "Nordsjaelland's 2.35 xG firepower clashes with Silkeborg's home synthetic turf resiliency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549045,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "FC Nordsjaelland holds an overwhelming xG edge but European congestion makes retaining the draw prudent."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy lambda of 3.33 and Silkeborg's missing center-backs strongly favor a three-goal game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory aligns with model density, while a 1:1 deadlock captures European fatigue degradation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the modal distribution peak at 22.0%, followed closely by two goals at 19.8%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Disciplined opening exchanges on turf produce level half-times before late quality dictates full-time settlement."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 01:05:48 UTC"
+}
