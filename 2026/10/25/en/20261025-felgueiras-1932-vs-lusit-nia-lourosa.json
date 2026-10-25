@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576508,
+    "matchup": "Felgueiras 1932 vs Lusitânia Lourosa",
+    "home_team": "Felgueiras 1932",
+    "away_team": "Lusitânia Lourosa",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-felgueiras-1932-vs-lusit-nia-lourosa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Felgueiras 1932 vs Lusitânia Lourosa Prediction: Low-Block Test for Unbeaten Visitors — Scoreline Preview",
+    "meta": {
+      "matchId": "1576508",
+      "league": "Segunda Liga",
+      "matchup": "Felgueiras 1932 vs Lusitânia Lourosa",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Lusitânia Lourosa to maintain their unbeaten momentum via Draw / Away Win alongside Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Lusitânia Lourosa secure a narrow 0:1 away victory through second-half tactical superiority (Confidence: Moderate, Value: High)",
+      "Felgueiras 1932 leverage home low-block resilience to force a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Attritional opening half produces a 0:0 deadlock entering the break (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576508",
+      "league": "Segunda Liga",
+      "homeTeam": "Felgueiras 1932",
+      "awayTeam": "Lusitânia Lourosa",
+      "match_time": "14:00",
+      "match_highlight": "Unbeaten Lourosa face tough low-block test at Felgueiras.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576508,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Lourosa possess superior form and firepower to avoid defeat against a goal-shy Felgueiras side, but host defensive compactness makes the draw-inclusive pair the optimal risk-adjusted stance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 66.4% independent Poisson density combined with Felgueiras averaging just 0.70 goals scored per match strongly anchors this contest under the 2.5-goal ceiling."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A clinical 0:1 away win for Lourosa serves as the primary convergence point, with a gritty 1:1 home draw providing exact secondary coverage."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "The combined statistical expectancy of 2.05 total goals concentrates 53.5% of model density on exactly 1 or 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Felgueiras' disciplined early low block supports a level first half, with Lourosa expected to break through or hold parity across the second 45 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:12:37 UTC"
+}
