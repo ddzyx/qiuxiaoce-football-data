@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557442,
+    "matchup": "Hull City vs Brentford",
+    "home_team": "Hull City",
+    "away_team": "Brentford",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-hull-city-vs-brentford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hull City vs Brentford Prediction & Match Analysis: Midfield Bans vs Low Block — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557442",
+      "league": "Premier League",
+      "matchup": "Hull City vs Brentford",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hull City's disciplined low block and Brentford's double midfield suspension point toward a low-scoring stalemate, with Brentford holding a secondary edge to grind out a narrow away victory.",
+    "possibilityAssessment": [
+      "Stalemate War of Attrition: Hull sits in a compact 5-4-1 shell to frustrate a depleted Brentford midfield, resulting in a scoreless deadlock (Confidence: Moderate, Value: High)",
+      "Bees Narrow Breakthrough: Kevin Schade or Igor Thiago exploits a rare second-half defensive lapse to edge a 0:1 away win (Confidence: Moderate, Value: Moderate)",
+      "Hull Counter-Attacking Snatch: Belloumi capitalizes on Brentford's high possession line to snatch an against-the-run-of-play home shock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557442",
+      "league": "Premier League",
+      "homeTeam": "Hull City",
+      "awayTeam": "Brentford",
+      "match_time": "14:00",
+      "match_highlight": "Hull's unbeaten home shell meets Brentford's suspended midfield in tight tactical battle",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557442,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Combines the dominant 0:0 stalemate script with a narrow 0:1 Brentford away grind, reflecting Hull's home resistance and Brentford's midfield absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 0.83 and Hull's elite defensive suppression yield a 94.8% probability of two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "The 0:0 deadlock represents the primary convergence of Hull's low block, while 0:1 accounts for Brentford's isolated quality in transition."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "Expected scoreline distribution overwhelmingly concentrates on 0 or 1 total goals due to severe offensive attrition."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Hull's first-half defensive discipline establishes an early level state, projecting into a full-time draw or late Brentford edge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:09:35 UTC"
+}
