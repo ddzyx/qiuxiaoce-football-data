@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1552793,
+    "matchup": "Auxerre vs Le Mans",
+    "home_team": "Auxerre",
+    "away_team": "Le Mans",
+    "league": null,
+    "kickoff_utc": "2026-10-25 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-auxerre-vs-le-mans/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ligue 1",
+      "matchId": "1552793",
+      "matchup": "Auxerre vs Le Mans",
+      "matchTime": "2026-10-25 16:15 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Auxerre vs Le Mans Prediction & Match Analysis: Can Still's Attack Break Le Mans? — Scoreline & xG Preview",
+    "coreRecommendation": "Auxerre to capitalize on home attacking momentum and Le Mans' fragile road backline to secure an outright victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Auxerre's capacity to accelerate in the second period makes Draw-Win the most probable chronological progression.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Auxerre's potent frontline led by Namaso and Faivre holds clear superiority over a Le Mans defense conceding 2.23 xGA per match away from home.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three and four total goals combine for over 40% probability within calibrated Poisson modeling.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory serves as the statistical convergence point, with 3:1 capturing an open late-game scenario.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "Ligue 1",
+      "matchId": "1552793",
+      "awayTeam": "Le Mans",
+      "homeTeam": "Auxerre",
+      "fixtureId": 1552793,
+      "match_time": "16:15",
+      "over_under": {
+        "comment": "Mutual defensive permeability with combined season metrics averaging over 3.0 expected goals strongly favors an open contest.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Will Still's resurgent attack confronts Le Mans' fragile road backline."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Auxerre Outright Home Win via Dynamic Transitions (Confidence: Moderate, Value: High)",
+      "High-Scoring Encounter Exceeding 2.5 Goals (Confidence: Moderate, Value: High)",
+      "Le Mans Transitional Goal Threat via Gueye (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-10-25 19:03:55 UTC"
+  }
+}
