@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575523,
+    "matchup": "Rio Ave vs Famalicao",
+    "home_team": "Rio Ave",
+    "away_team": "Famalicao",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-25 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-rio-ave-vs-famalicao/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rio Ave vs Famalicao Prediction & Match Analysis: Midfield Control & xG Metrics Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1575523",
+      "league": "Primeira Liga",
+      "matchup": "Rio Ave vs Famalicao",
+      "matchTime": "2026-10-25 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Famalicão's superior underlying metrics and nine-match head-to-head unbeaten streak against Rio Ave favor a disciplined Draw / Away Win stance in a cagey, low-scoring derby.",
+    "possibilityAssessment": [
+      "Tactical deadlock culminating in a 1:1 stalemate as Rio Ave's home aggression meets Famalicão's structural transition (Confidence: Moderate, Value: High)",
+      "Famalicão exploit Rio Ave's fragile backline via Georgios Koutsias on the counter to snatch a narrow 0:1 away victory (Confidence: Moderate, Value: Moderate)",
+      "High-tempo tactical attrition keeping the total scoreline strictly Under 2.5 goals across 90 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575523",
+      "league": "Primeira Liga",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "Famalicao",
+      "match_time": "18:00",
+      "match_highlight": "Famalicão defend nine-match unbeaten head-to-head streak against fragile Rio Ave",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575523,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and Famalicão's clinical 0:1 transition edge while accounting for their historical psychological dominance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Independent Poisson models project 54.3% Under 2.5 probability, heavily corroborated by four consecutive head-to-head low-scoring stalemates."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Primary score of 1:1 represents the natural tactical convergence, with 0:1 covering a clinical Famalicão counter-attacking masterclass."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the peak model density at 25.6%, while a single goal covers the low-event tactical stalemate scenario at 20.5%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, risk-averse opening half is expected to preserve parity before Famalicão's counter-attacking threat tests Rio Ave's late stamina."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 06:06:31 UTC"
+}
