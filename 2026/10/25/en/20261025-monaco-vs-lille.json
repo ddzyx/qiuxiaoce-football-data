@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552797,
+    "matchup": "Monaco vs Lille",
+    "home_team": "Monaco",
+    "away_team": "Lille",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-25 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-monaco-vs-lille/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Monaco vs Lille Prediction & Match Analysis: Can Brunner Exploit Mastiffs' Crisis? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552797",
+      "league": "Ligue 1",
+      "matchup": "Monaco vs Lille",
+      "matchTime": "2026-10-25 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Monaco's attacking depth faces Lille's resilient low block in a tightly contested clash favoring a Home Win / Draw double chance.",
+    "possibilityAssessment": [
+      "Stalemate or narrow home ascendancy leads to a 1:1 or 2:1 outcome (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals anchors the defensive struggle amid European fatigue (Confidence: Moderate, Value: Moderate)",
+      "Late Monaco winner via substitute firepower if Lille tires (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552797",
+      "league": "Ligue 1",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lille",
+      "match_time": "14:00",
+      "match_highlight": "Top-four deadlock beckons at Stade Louis II amid European fatigue.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552797,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 tactical stalemate and secondary 2:1 late Monaco breakthrough, accounting for Lille's defensive durability."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lille's league-leading five goals conceded and absent strikers suppress total goal expectations beneath the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Reflects the high probability of a 1:1 attrition draw alongside a 2:1 home victory driven by Monaco's bench quality."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the modal independent Poisson convergence, with three goals serving as the primary ceiling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anticipates a cagey opening 45 minutes followed by either parity preservation or a second-half Monaco surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 02:04:13 UTC"
+}
