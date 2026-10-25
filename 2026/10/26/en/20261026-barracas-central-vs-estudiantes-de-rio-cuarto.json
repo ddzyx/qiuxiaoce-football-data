@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493200,
+    "matchup": "Barracas Central vs Estudiantes de Rio Cuarto",
+    "home_team": "Barracas Central",
+    "away_team": "Estudiantes de Rio Cuarto",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-26 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261026-barracas-central-vs-estudiantes-de-rio-cuarto/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barracas Central vs Estudiantes de Rio Cuarto Prediction: Playoff Stakes vs Relegated Defense — xG Preview",
+    "meta": {
+      "matchId": "1493200",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Barracas Central vs Estudiantes de Rio Cuarto",
+      "matchTime": "2026-10-26 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barracas Central are firmly projected to defeat relegated Estudiantes de Río Cuarto in a controlled, low-scoring home victory.",
+    "possibilityAssessment": [
+      "Barracas Central comfortable 2:0 victory behind high playoff motivation and defensive solidity (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals sustained by Estudiantes' extreme away scoring drought (Confidence: High, Value: High)",
+      "Low-scoring 1:0 attrition script settled by a second-half set piece (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493200",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Estudiantes de Rio Cuarto",
+      "match_time": "00:30",
+      "match_highlight": "Barracas seek playoff berth against relegated Estudiantes with 12 road defeats.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493200,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Barracas Central possess overwhelming motivational stakes and defensive superiority against an opponent that has lost 12 of 14 away matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined seasonal metrics yield a low lambda total of 1.80, with Estudiantes averaging just 0.4 goals per match on the road."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "A controlled multi-goal clean sheet represents the primary convergence, backed by a tight 1:0 defensive attrition alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates heavily within the 1-goal and 2-goal probability bands."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Barracas are primed to either lead from the opening half or break through a stubborn low block after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 12:32:43 UTC"
+}
