@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559180,
+    "matchup": "Liège vs Patro Eisden",
+    "home_team": "Liège",
+    "away_team": "Patro Eisden",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-10-25 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261025-li-ge-vs-patro-eisden/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Liège vs Patro Eisden Prediction: Transition Dynamics & Backline Fragility — XG Mind AI Model Preview",
+    "meta": {
+      "matchId": "1559180",
+      "league": "Challenger Pro League",
+      "matchup": "Liège vs Patro Eisden",
+      "matchTime": "2026-10-25 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back RFC Liège with double-chance protection (Home Win / Draw) in a high-variance encounter expected to breach the Over 2.5 goal line.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Liège's home offensive output and Patro's road struggles (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by Liège's league-high 4.14 average match goals and defensive concessions (Confidence: Moderate, Value: High)",
+      "Correct Score 1:1 stalemate if Patro Eisden's disciplined low block successfully restricts space (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559180",
+      "league": "Challenger Pro League",
+      "homeTeam": "Liège",
+      "awayTeam": "Patro Eisden",
+      "match_time": "18:15",
+      "match_highlight": "Liège's potent home offense clashes with Patro Eisden's struggling road defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559180,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Double chance coverage captures Liège's dynamic home attacking edge while hedging against their severe backline transition vulnerability via a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Liège's seasonal matches average 4.14 goals and Patro concede 2.33 on the road, providing overwhelming empirical support for Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 primary score reflects home dominance with defensive lapses, while 1:1 represents the modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals covering the lower-tempo containment script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win models a cautious first half followed by a late home breakthrough, while Draw-Draw captures a sustained tactical stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 06:22:06 UTC"
+}
