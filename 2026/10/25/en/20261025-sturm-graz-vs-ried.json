@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1561952,
+    "matchup": "Sturm Graz vs Ried",
+    "home_team": "Sturm Graz",
+    "away_team": "Ried",
+    "league": null,
+    "kickoff_utc": "2026-10-25 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-sturm-graz-vs-ried/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Bundesliga",
+      "matchId": "1561952",
+      "matchup": "Sturm Graz vs Ried",
+      "matchTime": "2026-10-25 13:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Sturm Graz vs Ried Prediction & Match Analysis: Can Blackies Overcome Fatigue? — Scoreline Preview",
+    "coreRecommendation": "Sturm Graz's superior individual quality and home strength should overcome severe European fatigue against in-form Ried, though a resilient draw remains an active secondary script.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Sturm Graz likely start cautiously following Thursday European exertion.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Sturm Graz's baseline home superiority and Ried's fatigue-driven point steal.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Three goals aligns with 2:1 while two goals reflects a compact 1:1 draw.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory leads with a resilient 1:1 stalemate as primary hedge.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Bundesliga",
+      "matchId": "1561952",
+      "awayTeam": "Ried",
+      "homeTeam": "Sturm Graz",
+      "fixtureId": 1561952,
+      "match_time": "13:30",
+      "over_under": {
+        "comment": "Both clubs average 1.78 goals per game, supporting an open clash.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Fatigued Sturm Graz face rampant Ried in top-five Austrian clash"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Sturm Graz 2:1 Ried edge via second-half acceleration (Confidence: Moderate, Value: High)",
+      "Ried battle to a 1:1 stalemate exploiting European fatigue (Confidence: Moderate, Value: Moderate)",
+      "Contingency open exchange pushing total above three goals (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "1-1",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-25 15:34:43 UTC"
+  }
+}
