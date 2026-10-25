@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560050,
+    "matchup": "Hradec Králové vs FK Jablonec",
+    "home_team": "Hradec Králové",
+    "away_team": "FK Jablonec",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-25 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-hradec-kralove-vs-fk-jablonec/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hradec Králové vs FK Jablonec Prediction & Match Analysis: Fatigue & Low-Block Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1560050",
+      "league": "Czech Liga",
+      "matchup": "Hradec Králové vs FK Jablonec",
+      "matchTime": "2026-10-25 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Hradec Králové to exploit FK Jablonec's post-European fatigue in a tightly contested, low-scoring affair covering Home Win or Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw Double Chance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "1:1 Primary Stalemate Scoreline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560050",
+      "league": "Czech Liga",
+      "homeTeam": "Hradec Králové",
+      "awayTeam": "FK Jablonec",
+      "match_time": "12:00",
+      "match_highlight": "Jablonec faces severe European fatigue against Hradec's stubborn low-block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560050,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Combines a tired 1:1 stalemate with a late 1:0 home victory as Jablonec fade after their Brighton exertions."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Seven consecutive head-to-head league meetings and both clubs' low scoring averages strongly favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the tactical equilibrium, while 1:0 reflects a second-half breakthrough against tired legs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model density concentrates heavily on 2 goals (27.0%) and 1 goal (25.7%) in a low-scoring tactical grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both teams are cagey early, leading to a level first half followed by fatigue-driven second-half outcomes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 00:03:59 UTC"
+}
