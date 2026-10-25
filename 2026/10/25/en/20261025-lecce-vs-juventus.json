@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550163,
+    "matchup": "Lecce vs Juventus",
+    "home_team": "Lecce",
+    "away_team": "Juventus",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-25 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-lecce-vs-juventus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lecce vs Juventus Prediction & Match Analysis: Can Bianconeri Overcome Squad Depletion? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1550163",
+      "league": "Serie A",
+      "matchup": "Lecce vs Juventus",
+      "matchTime": "2026-10-25 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventus to grind out a low-scoring road victory, relying on their elite 0.50 xGA defensive baseline to nullify Lecce.",
+    "possibilityAssessment": [
+      "Away Win: Juventus tactical control and defensive restriction secure narrow victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals: Creative injuries and Lecce scoring drought against top sides cap match ceiling (Confidence: High, Value: Moderate)",
+      "Scoreless / Low-Block Stalemate: Continental fatigue causes second-half penetration failure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550163",
+      "league": "Serie A",
+      "homeTeam": "Lecce",
+      "awayTeam": "Juventus",
+      "match_time": "17:00",
+      "match_highlight": "Juventus look to overcome nine injuries through elite defensive restriction.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550163,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Juventus's league-best 0.50 xGA defense provides sufficient platform to overcome Lecce's 2.01 xGA structural concession rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absence of key attacking creators and Lecce's persistent scoring drought against top-half sides enforces a low ceiling."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A 0-1 road grind represents the modal outcome, with a 0-2 counter-attacking scoreline as secondary scenario."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Primary convergence on exactly 1 goal (0:1), with 2 goals as the natural contingency if early goals break the game."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Strict refereeing and tactical caution favor a 0-0 halftime state before Juventus break through in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 05:07:09 UTC"
+}
