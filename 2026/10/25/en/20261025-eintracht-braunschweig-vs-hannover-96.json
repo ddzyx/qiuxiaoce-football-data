@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1576207,
+    "matchup": "Eintracht Braunschweig vs Hannover 96",
+    "home_team": "Eintracht Braunschweig",
+    "away_team": "Hannover 96",
+    "league": null,
+    "kickoff_utc": "2026-10-25 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261025-eintracht-braunschweig-vs-hannover-96/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "2. Bundesliga",
+      "matchId": "1576207",
+      "matchup": "Eintracht Braunschweig vs Hannover 96",
+      "matchTime": "2026-10-25 12:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "1",
+        "0"
+      ]
+    },
+    "articleTitle": "Eintracht Braunschweig vs Hannover 96 Prediction: Can Wagner Exploit Derby xG Gap? — Scoreline Preview",
+    "coreRecommendation": "Hannover 96's superior structural metrics and Braunschweig's crippling injury list favor an away-slanted, low-scoring Niedersachsenderby via Draw / Away Win and Under 2.5 goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "High probability of a level first half before Hannover's superior quality or defensive attrition decides the outcome.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Hannover's dominant underlying metrics (1.01 xG, 0.04 xGA) and the realistic risk of a fierce derby stalemate at Eintracht-Stadion.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "High model density for solitary-goal breakthrough or complete goalless attrition.",
+        "selection": [
+          "1",
+          "0"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Hannover's narrow winning edge alongside Braunschweig's low-block stalemate ceiling.",
+        "selection": [
+          "0:1",
+          "0:0"
+        ]
+      },
+      "league": "2. Bundesliga",
+      "matchId": "1576207",
+      "awayTeam": "Hannover 96",
+      "homeTeam": "Eintracht Braunschweig",
+      "fixtureId": 1576207,
+      "match_time": "12:30",
+      "over_under": {
+        "comment": "Poisson distribution establishes 96.5% density for two or fewer goals with Braunschweig averaging just 0.09 xG per match.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Low-scoring Niedersachsenderby shaped by Wagner's structure and Braunschweig's severe injury crisis."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Hannover 96 edge a tightly contested derby through superior second-half control and defensive solidity (Confidence: Moderate, Value: High)",
+      "Braunschweig utilize home crowd hostility to grind out a scoreless war of attrition (Confidence: Moderate, Value: Moderate)",
+      "Braunschweig capitalise on an isolated transition mistake to snatch an upset (Confidence: Low, Value: Low)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-0",
+    "halftime_score": "1-0",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-25 14:34:41 UTC"
+  }
+}
