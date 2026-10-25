@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1490559,
+    "matchup": "Orlando City SC vs New York City FC",
+    "home_team": "Orlando City SC",
+    "away_team": "New York City FC",
+    "league": null,
+    "kickoff_utc": "2026-10-24 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261024-orlando-city-sc-vs-new-york-city-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Major League Soccer",
+      "matchId": "1490559",
+      "matchup": "Orlando City SC vs New York City FC",
+      "matchTime": "2026-10-24 23:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Orlando City SC vs New York City FC Prediction: Griezmann Factor — Scoreline & xG Analysis",
+    "coreRecommendation": "Orlando City SC exploit their superior home attacking momentum and Griezmann's creative brilliance to outscore New York City FC in an open, high-event contest.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A balanced first half opening into a late Orlando breakthrough represents the primary chronological game state.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Orlando City's devastating frontline spearheaded by Antoine Griezmann overcomes structural backline absences against a road-weary NYCFC side with one win in thirteen.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three and four total goals dominate probabilistic densities given Orlando's high-variance 4.2 average match goal environment.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory reflects Orlando's attacking edge while acknowledging their tendency to concede against transitional threats, with 3:1 as the extended margin.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "Major League Soccer",
+      "matchId": "1490559",
+      "awayTeam": "New York City FC",
+      "homeTeam": "Orlando City SC",
+      "fixtureId": 1490559,
+      "match_time": "23:30",
+      "over_under": {
+        "comment": "Combined seasonal averages of over 3.3 total expected goals and Orlando's leaky backline make Over 2.5 the natural statistical convergence.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Griezmann leads surging Orlando host against slumping New York City FC"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Orlando City SC Outright Victory via Multi-Goal Attack (Confidence: Moderate, Value: High)",
+      "High-Scoring Encounter Exceeding 2.5 Total Goals (Confidence: High, Value: High)",
+      "New York City FC Counter-Transition Exploit of Depleted Orlando Defense (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "1-1",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-25 01:50:11 UTC"
+  }
+}
