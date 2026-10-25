@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570426,
+    "matchup": "Barcelona vs Real Madrid",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261025-barcelona-vs-real-madrid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barcelona vs Real Madrid Prediction & Match Analysis: High-Line xG Battle — Scoreline Preview",
+    "meta": {
+      "matchId": "1570426",
+      "league": "La Liga",
+      "matchup": "Barcelona vs Real Madrid",
+      "matchTime": "2026-10-25 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barcelona's league-leading attacking output and Madrid's key flank absences support a high-tempo home victory.",
+    "possibilityAssessment": [
+      "Barcelona control territory and convert high xG volume into a multi-goal victory (Confidence: Moderate, Value: High)",
+      "High-paced end-to-end transitions push the total beyond 2.5 goals (Confidence: High, Value: High)",
+      "Real Madrid strike through Kylian Mbappe on direct counter-attacks (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570426",
+      "league": "La Liga",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "match_time": "20:00",
+      "match_highlight": "Barcelona host Real Madrid in high-stakes El Clasico at Camp Nou",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570426,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Barcelona's prolific 3.73 xG per match and Madrid's absence of Vinicius Junior underpin a decisive home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal baseline above 4.0 makes Over 2.5 goals the primary probability outcome."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 or 3:1 victory represents the natural convergence of Barcelona's high-line pressure and Madrid's counter threat."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Probabilistic Poisson modeling identifies 4 and 3 total goals as the highest density scoring outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Expect a competitive opening half before Barcelona's territorial pressure breaks Madrid down after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-25 08:05:18 UTC"
+}
