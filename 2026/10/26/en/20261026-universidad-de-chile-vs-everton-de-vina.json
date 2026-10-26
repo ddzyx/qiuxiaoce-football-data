@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505544,
+    "matchup": "Universidad de Chile vs Everton de Vina",
+    "home_team": "Universidad de Chile",
+    "away_team": "Everton de Vina",
+    "league": "Primera División",
+    "kickoff_utc": "2026-10-26 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261026-universidad-de-chile-vs-everton-de-vina/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Universidad de Chile vs Everton de Vina Prediction: Gago's Structure vs Ruleteros — Scoreline Analysis",
+    "meta": {
+      "matchId": "1505544",
+      "league": "Primera División",
+      "matchup": "Universidad de Chile vs Everton de Vina",
+      "matchTime": "2026-10-26 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Universidad de Chile to remain unbeaten in a controlled, low-scoring encounter via Home Win / Draw and Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "Universidad de Chile edge a tight contest through territorial dominance and superior defensive discipline (Confidence: Moderate, Value: High)",
+      "Everton de Viña del Mar absorb pressure and secure a hard-fought road stalemate via transition efficiency (Confidence: Moderate, Value: Moderate)",
+      "An early set-piece breakthrough opens the game into an attritional second-half tactical siege (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505544",
+      "league": "Primera División",
+      "homeTeam": "Universidad de Chile",
+      "awayTeam": "Everton de Vina",
+      "match_time": "21:00",
+      "match_highlight": "Gago's title push meets Everton's proven road resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505544,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the dominant 1:0 home victory and the 1:1 stalemate demonstrated across recent 2026 head-to-head encounters."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by combined seasonal goals conceded of 0.80 and 1.10 and three consecutive low-scoring 2026 meetings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "The two primary convergence points balancing home possession against away counter-attacking stability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one goals represent over 45% of cumulative model density and align perfectly with projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight, goalless opening 45 minutes before second-half adjustments dictate the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 09:04:35 UTC"
+}
