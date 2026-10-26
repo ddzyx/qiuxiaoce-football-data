@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493205,
+    "matchup": "Instituto Cordoba vs Deportivo Riestra",
+    "home_team": "Instituto Cordoba",
+    "away_team": "Deportivo Riestra",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-27 00:15:00",
+    "source_url": "https://xgmind.com/matches/20261027-instituto-cordoba-vs-deportivo-riestra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Instituto Cordoba vs Deportivo Riestra: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1493205",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Instituto Cordoba vs Deportivo Riestra",
+      "matchTime": "2026-10-27 00:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Instituto Cordoba's superior territorial control and defensive solidity will break through Deportivo Riestra's stubborn low block to secure a decisive home victory.",
+    "possibilityAssessment": [
+      "Instituto Cordoba manages sustained pressure to break down Riestra's block in the second half for a clean sheet victory (Confidence: Moderate, Value: High)",
+      "A tight defensive contest limits clear chances, keeping the total strictly under 2.5 goals (Confidence: High, Value: Moderate)",
+      "Deportivo Riestra absorbs pressure to hold a goalless first half before conceding to late fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493205",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Instituto Cordoba",
+      "awayTeam": "Deportivo Riestra",
+      "match_time": "00:15",
+      "match_highlight": "Instituto eyes historic international qualification as Riestra defends deep",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493205,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Instituto's dominant home record and Riestra's inability to score away establish a clear single home win direction."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.80 combined lambda expectation and Riestra's ultra-defensive posture heavily favour a low-scoring match under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Instituto's steady chance generation combined with Riestra's 78.6% away scoreless rate points directly toward 2:0 or 1:0."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary convergence of a patient home attack, with one goal serving as the defensive contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Riestra's initial defensive compactness frequently produces a level first half before Instituto's second-half surge decides the match."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 12:18:39 UTC"
+}
