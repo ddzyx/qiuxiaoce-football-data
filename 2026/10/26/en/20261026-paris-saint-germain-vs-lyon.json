@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552800,
+    "matchup": "Paris Saint Germain vs Lyon",
+    "home_team": "Paris Saint Germain",
+    "away_team": "Lyon",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-26 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261026-paris-saint-germain-vs-lyon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Paris Saint Germain vs Lyon Prediction: Depleted Attacks & Midfield Control — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552800",
+      "league": "Ligue 1",
+      "matchup": "Paris Saint Germain vs Lyon",
+      "matchTime": "2026-10-26 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Paris Saint-Germain's midfield control and rest advantage should prevail against a fatigued Lyon side, though widespread attacking absences warrant draw protection.",
+    "possibilityAssessment": [
+      "Paris Saint-Germain assert territorial dominance and grind out a 2:1 victory as Lyon fatigue late (Confidence: Moderate, Value: High)",
+      "Depleted Parisian frontline struggles against a compact low block, resulting in a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo trading of transitional chances pushes the total past 2.5 goals despite missing star finishers (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552800",
+      "league": "Ligue 1",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "Lyon",
+      "match_time": "19:30",
+      "match_highlight": "Depleted Parisian attack faces fatigued Lyon block at Parc des Princes.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552800,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers PSG's structural victory driven by midfield rest disparity alongside the risk of sterile possession ending in a 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model total expectancy of 3.43 and defensive vulnerabilities in both makeshift backlines support at least three goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A competitive 2:1 home win serves as the primary convergence point, with 1:1 covering low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary total density (21.8%), with two goals serving as the immediate secondary branch (19.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams register low first-half goal shares, pointing toward a level opening 45 minutes before second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 07:37:56 UTC"
+}
