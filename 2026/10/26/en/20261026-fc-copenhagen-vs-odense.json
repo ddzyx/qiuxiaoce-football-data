@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1549041,
+    "matchup": "FC Copenhagen vs Odense",
+    "home_team": "FC Copenhagen",
+    "away_team": "Odense",
+    "league": null,
+    "kickoff_utc": "2026-10-26 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261026-fc-copenhagen-vs-odense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Superliga",
+      "matchId": "1549041",
+      "matchup": "FC Copenhagen vs Odense",
+      "matchTime": "2026-10-26 18:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "FC Copenhagen vs Odense Prediction & Match Analysis: Fatigue Test at Parken — Scoreline & xG Preview",
+    "coreRecommendation": "FC Copenhagen's class advantage and attacking potency will overcome European fatigue to defeat Odense in regulation time.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Odense's fresh legs should hold out during an attritional first half before Copenhagen's superior depth delivers victory.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Copenhagen's superior baseline quality and Elo disparity (+198) outweigh European congestion against Odense's 1.80 xGA defense.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Three goals represents the primary convergence total with two goals providing a solid secondary game-state branch.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory represents the optimal convergence of Copenhagen's firepower and slight post-European defensive weariness.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "Superliga",
+      "matchId": "1549041",
+      "awayTeam": "Odense",
+      "homeTeam": "FC Copenhagen",
+      "fixtureId": 1549041,
+      "match_time": "18:00",
+      "over_under": {
+        "comment": "Combined lambda expectancy of 2.77 goals and Odense's leaky away structure favor an open contest reaching at least three goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Copenhagen seek to overcome European fatigue against Odense's vulnerable backline."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "FC Copenhagen Outright Victory via Second-Half Breakthrough (Confidence: Moderate, Value: High)",
+      "Match Total Over 2.5 Goals driven by Odense's 1.80 xGA vulnerability (Confidence: Moderate, Value: Moderate)",
+      "Half-Time Draw / Full-Time FC Copenhagen Win due to opening travel fatigue (Confidence: High, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "0-1",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-26 20:24:38 UTC"
+  }
+}
