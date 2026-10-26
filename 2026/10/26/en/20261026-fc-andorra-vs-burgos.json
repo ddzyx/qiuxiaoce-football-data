@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569983,
+    "matchup": "FC Andorra vs Burgos",
+    "home_team": "FC Andorra",
+    "away_team": "Burgos",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-26 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261026-fc-andorra-vs-burgos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Andorra vs Burgos: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1569983",
+      "league": "Segunda División",
+      "matchup": "FC Andorra vs Burgos",
+      "matchTime": "2026-10-26 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Andorra are projected to avoid defeat at home against Burgos through sustained possession dominance, with maximum density centered on a 1:1 draw or narrow 2:1 victory.",
+    "possibilityAssessment": [
+      "FC Andorra avoids defeat via Home Win or Draw (Confidence: Moderate, Value: High)",
+      "Total match goals settle Under 2.5 (Confidence: Moderate, Value: High)",
+      "A cagey 1:1 stalemate serves as the modal scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569983",
+      "league": "Segunda División",
+      "homeTeam": "FC Andorra",
+      "awayTeam": "Burgos",
+      "match_time": "19:30",
+      "match_highlight": "Andorra possession dominance meets Burgos defensive low block at altitude",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569983,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and secondary 2:1 home win, reflecting Andorra's territorial supremacy alongside central defensive suspensions."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Burgos away containment strategy and Andorra conversion deficits strongly favor a low-scoring encounter under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the natural tactical equilibrium, while 2:1 captures late second-half home penetration."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal outcome from a 1:1 stalemate, with three goals serving as the primary deviation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Reflects low first-half goal share leading to level intervals, resolved either in continued equilibrium or late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 07:38:12 UTC"
+}
