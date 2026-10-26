@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520940,
+    "matchup": "America Mineiro vs Cuiaba",
+    "home_team": "America Mineiro",
+    "away_team": "Cuiaba",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-26 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261026-america-mineiro-vs-cuiaba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "América Mineiro vs Cuiabá Prediction & Match Analysis: Relegation Reality vs Dourado Wall — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520940",
+      "league": "Serie B",
+      "matchup": "América Mineiro vs Cuiabá",
+      "matchTime": "2026-10-26 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cuiabá on the double chance (Draw / Away Win) in a disciplined, low-scoring encounter capped under 2.5 goals.",
+    "possibilityAssessment": [
+      "Cuiabá 0:1 away victory capitalizing on América's transition frailty (Confidence: Moderate, Value: High)",
+      "Low-tempo 1:1 stalemate reflecting Cuiabá's road draw tendency and absent striker (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals governed by combined scoring rates below 1.5 goals per match (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520940",
+      "league": "Serie B",
+      "homeTeam": "América Mineiro",
+      "awayTeam": "Cuiabá",
+      "match_time": "22:30",
+      "match_highlight": "Cuiabá's 14-clean-sheet defense confronts relegated América Mineiro's toothless attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520940,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Cuiabá hold a massive defensive edge but draw 44.4% of away games, making Draw / Away Win the optimal expression over an unhedged win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs average under a goal per game offensively while Cuiabá concede just 0.8 goals per match, locking in a low ceiling."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 grinding away victory represents the primary tactical convergence, with 1:1 covering Cuiabá's passive away game states."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One and two total goals represent over 46% of modeled distribution density in this defensive encounter."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams feature heavy first-half draw tendencies before Cuiabá's defensive discipline and depth tilt the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 10:34:40 UTC"
+}
