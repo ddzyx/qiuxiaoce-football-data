@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575524,
+    "matchup": "Santa Clara vs Benfica",
+    "home_team": "Santa Clara",
+    "away_team": "Benfica",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-26 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261026-santa-clara-vs-benfica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Santa Clara vs Benfica Prediction & Match Analysis: Can Petit Stifle Pavlidis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575524",
+      "league": "Primeira Liga",
+      "matchup": "Santa Clara vs Benfica",
+      "matchTime": "2026-10-26 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Benfica to edge a hard-fought contest in Ponta Delgada with the resilient draw covered via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Benfica breaks down Santa Clara's stubborn low block in the second half to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Petit's defensive structure holds firm over 90 minutes to claim a disciplined 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Benfica dominates territorial possession but faces late counter-attacking resistance from Paciência and Vinícius (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575524",
+      "league": "Primeira Liga",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "Benfica",
+      "match_time": "18:45",
+      "match_highlight": "Benfica firepower tests Santa Clara's unbeaten defensive record in Azores.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575524,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Benfica's superior attacking penetration alongside Santa Clara's proven capacity to hold a low-block stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.66 to 2.95 favors a multi-goal contest once the initial deadlock breaks."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Anticipates a 1:2 Benfica away win as primary outcome with a 1:1 defensive stalemate as the core alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence point while two goals captures the low-block resistance scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Santa Clara's 50% first-half draw rate indicates a level interval before Benfica's bench sparks second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 06:50:14 UTC"
+}
