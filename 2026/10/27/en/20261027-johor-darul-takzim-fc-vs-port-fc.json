@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1629950,
+    "matchup": "Johor Darul Takzim FC vs Port FC",
+    "home_team": "Johor Darul Takzim FC",
+    "away_team": "Port FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-10-27 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-johor-darul-takzim-fc-vs-port-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Johor Darul Takzim FC vs Port FC Prediction: Can Bandovic Halt Southern Tigers? — Scoreline Preview",
+    "meta": {
+      "matchId": "1629950",
+      "league": "AFC Champions League Elite",
+      "matchup": "Johor Darul Takzim FC vs Port FC",
+      "matchTime": "2026-10-27 10:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Johor Darul Takzim FC are poised to secure a commanding home victory against a defensively vulnerable Port FC side.",
+    "possibilityAssessment": [
+      "Johor Darul Takzim FC control territorial possession to secure a decisive multi-goal home victory (Confidence: High, Value: High)",
+      "High match tempo and defensive disorganization from Port FC push the cumulative total Over 2.5 goals (Confidence: High, Value: High)",
+      "Port FC construct an organized low block to hold JDT to a lower-margin 2:0 result (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629950",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Johor Darul Takzim FC",
+      "awayTeam": "Port FC",
+      "match_time": "10:00",
+      "match_highlight": "Southern Tigers seek home dominance against struggling Port FC defense",
+      "ai_confidence": "High",
+      "fixtureId": 1629950,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "JDT's elite 0.50 goals conceded per match and 60.6% possession dominance heavily outmatch Port's porous defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Port FC's average of 3.50 goals conceded per continental game aligns with a high 63% model expectation for Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "Reflects JDT's strong clean-sheet probability combined with Port's systemic defensive weaknesses."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson expected goal values center around 2.50 for JDT and 0.75 for Port, prioritizing 3 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "JDT's tendency to accelerate in the second half makes Draw-Win the leading script, with Win-Win as strong cover."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 22:06:55 UTC"
+}
