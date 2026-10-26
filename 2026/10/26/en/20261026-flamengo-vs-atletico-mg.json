@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492423,
+    "matchup": "Flamengo vs Atletico-MG",
+    "home_team": "Flamengo",
+    "away_team": "Atletico-MG",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-26 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261026-flamengo-vs-atletico-mg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Flamengo vs Atletico-MG: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1492423",
+      "league": "Serie A",
+      "matchup": "Flamengo vs Atletico-MG",
+      "matchTime": "2026-10-26 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Flamengo to defeat a heavily depleted Atletico-MG at the Maracanã to reclaim the Serie A summit.",
+    "possibilityAssessment": [
+      "Flamengo Regulation Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Flamengo to Win by Exactly 1 Goal (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492423",
+      "league": "Serie A",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Atletico-MG",
+      "match_time": "23:00",
+      "match_highlight": "Flamengo pursue Serie A summit against depleted Galo at Maracanã",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492423,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Flamengo's dominant 73.3% home win rate and Galo's severe road attrition strongly favour a decisive home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absence of key Galo playmakers and Flamengo's elite defensive suppression point to a controlled low-margin contest."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 clean-sheet victory serves as the primary convergence point, with 2:1 covering the secondary transition branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact counts of 2 and 3 goals capture 52.7% of model density based on bivariate Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Flamengo lead at half-time in 60% of home fixtures, with Draw-Win reflecting second-half attrition capability."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-26 11:04:24 UTC"
+}
