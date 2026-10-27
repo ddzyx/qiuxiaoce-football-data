@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601577,
+    "matchup": "Virtus Entella vs Avellino",
+    "home_team": "Virtus Entella",
+    "away_team": "Avellino",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-27 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-virtus-entella-vs-avellino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Virtus Entella vs Avellino Prediction & Match Analysis: Defensive xGA vs Transition Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1601577",
+      "league": "Serie B",
+      "matchup": "Virtus Entella vs Avellino",
+      "matchTime": "2026-10-27 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win in a tight, defensively disciplined Serie B contest projected to stay Under 2.5 goals.",
+    "possibilityAssessment": [
+      "1:1 stalemate driven by Entella's defensive solidity checking Avellino's attack (Confidence: Moderate, Value: High)",
+      "Narrow 0:1 Avellino away triumph via early transition efficiency (Confidence: Moderate, Value: Moderate)",
+      "Goalless 0:0 deadlock if short-rest fatigue inhibits midfield creativity (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601577",
+      "league": "Serie B",
+      "homeTeam": "Virtus Entella",
+      "awayTeam": "Avellino",
+      "match_time": "19:00",
+      "match_highlight": "Defensive suppression clashes with dynamic away transition threat on short turnaround",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601577,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:1 stalemate and Avellino's 0:1 away victory, reflecting Entella's home winless run and Avellino's superior offensive ceiling."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by combined low xGA metrics (0.93 vs 1.18) and a 59.0% Poisson baseline concentration under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Primary 1:1 reflects Entella's defensive resistance, while secondary 0:1 captures an away transition breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary convergence zone, with a single-goal tally providing solid defensive hedge coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a cagey, scoreless opening 45 minutes followed by either parity preservation or a late Avellino decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:05:48 UTC"
+}
