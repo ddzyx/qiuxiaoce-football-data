@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1492421,
+    "matchup": "Coritiba vs Gremio",
+    "home_team": "Coritiba",
+    "away_team": "Gremio",
+    "league": null,
+    "kickoff_utc": "2026-10-26 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261026-coritiba-vs-gremio/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Serie A",
+      "matchId": "1492421",
+      "matchup": "Coritiba vs Gremio",
+      "matchTime": "2026-10-26 22:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Decoupling Coritiba vs Gremio: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "coreRecommendation": "Coritiba's 71.4% home unbeaten record provides a reliable platform to secure at least a point against a Grêmio side winless on the road all season.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "High probability of a cautious first-half stalemate resolving either into a narrow Coritiba second-half breakthrough or full-time deadlock.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Coritiba's narrow 1:0 home edge and the 1:1 stalemate, reflecting Grêmio's winless road record and Coritiba's blunt front line.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Poisson density heavily concentrates on low totals of two or single goals in tight relegation battles.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "1:0 home win exploits Kannemann's absence, while 1:1 reflects Grêmio's high draw frequency and Coritiba's recent scoring drought.",
+        "selection": [
+          "1:0",
+          "1:1"
+        ]
+      },
+      "league": "Serie A",
+      "matchId": "1492421",
+      "awayTeam": "Gremio",
+      "homeTeam": "Coritiba",
+      "fixtureId": 1492421,
+      "match_time": "22:30",
+      "over_under": {
+        "comment": "Both attacks average under 1.1 xG per match and struggle for open-play shot generation in high-stakes survival fixtures.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Grêmio seek first away win without suspended captain Walter Kannemann"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Coritiba Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 1:1 Stalemate (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-1",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-27 00:53:52 UTC"
+  }
+}
