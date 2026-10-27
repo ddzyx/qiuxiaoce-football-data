@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1640384,
+    "matchup": "Bradford vs Peterborough",
+    "home_team": "Bradford",
+    "away_team": "Peterborough",
+    "league": null,
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-bradford-vs-peterborough/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "League Cup",
+      "matchId": "1640384",
+      "matchup": "Bradford vs Peterborough",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Bradford vs Peterborough Prediction & Match Analysis: Can Posh Breach Duff's Defense? — Scoreline & xG Preview",
+    "coreRecommendation": "Back Bradford City to secure progression to the quarter-finals in regulation time via a controlled, low-scoring victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cautious opening half gives way to Bradford's superior second-half physical and tactical execution.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Bradford's four consecutive clean sheets and psychological edge at Valley Parade outweigh Peterborough's depleted, porous setup.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Two goals represents the natural convergence of Bradford's scoring efficiency and Peterborough's defensive concession.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Controlled 2:0 primary scoreline mirrors recent head-to-head precedent, with 1:0 representing an airtight low-margin win.",
+        "selection": [
+          "2:0",
+          "1:0"
+        ]
+      },
+      "league": "League Cup",
+      "matchId": "1640384",
+      "awayTeam": "Peterborough",
+      "homeTeam": "Bradford",
+      "fixtureId": 1640384,
+      "match_time": "19:45",
+      "over_under": {
+        "comment": "A 1.95 total expected goals lambda and Bradford's 0.4 goals conceded average strongly underpin a low-scoring cup tie.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Duff's impenetrable defense confronts Leonard-deprived Posh at Valley Parade"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Bradford regulation win supported by elite defensive stability and home dominance (Confidence: Moderate, Value: High)",
+      "Total match goals staying Under 2.5 driven by low aggregated lambda (Confidence: High, Value: Moderate)",
+      "Scoreless first half leading to a decisive second-half home breakthrough (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-0",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-27 21:46:41 UTC"
+  }
+}
