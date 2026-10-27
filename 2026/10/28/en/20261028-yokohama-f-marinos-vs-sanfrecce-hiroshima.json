@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646116,
+    "matchup": "Yokohama F. Marinos vs Sanfrecce Hiroshima",
+    "home_team": "Yokohama F. Marinos",
+    "away_team": "Sanfrecce Hiroshima",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-10-28 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-yokohama-f-marinos-vs-sanfrecce-hiroshima/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama F. Marinos vs Sanfrecce Hiroshima Prediction: Can Marinos Repel Gaul's Transition Blitz? — Model Analysis",
+    "meta": {
+      "matchId": "1646116",
+      "league": "J-League Cup",
+      "matchup": "Yokohama F. Marinos vs Sanfrecce Hiroshima",
+      "matchTime": "2026-10-28 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sanfrecce Hiroshima's dynamic vertical transition and 4.0 goals-per-game cup output will ultimately breach Yokohama F. Marinos' defensive block to secure an away victory in regulation.",
+    "possibilityAssessment": [
+      "Sanfrecce Hiroshima establish second-half territorial superiority to claim a 1:2 or 0:2 away victory (Confidence: Moderate, Value: High)",
+      "High attacking volume drives total goals over the 2.5 threshold through sustained box entries (Confidence: Moderate, Value: High)",
+      "Yokohama F. Marinos maintain their low-block structure to force a low-scoring stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646116",
+      "league": "J-League Cup",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "Sanfrecce Hiroshima",
+      "match_time": "10:00",
+      "match_highlight": "Hiroshima's vertical attack tests Marinos' resilient block at Nissan Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646116,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Sanfrecce Hiroshima's potent attack and 2.25 expected-goal lambda outweigh Marinos' recent run of low-scoring stalemates."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.25 and Hiroshima's aggressive wing-back progression support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 win represents the convergence of Hiroshima's firepower and Marinos' consolation threat, with 0:2 as a clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal model density at 22.2%, closely followed by two goals at 20.5%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Yokohama's early resistance points to a level opening before Hiroshima pulls away, with an early away blitz as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 22:07:02 UTC"
+}
