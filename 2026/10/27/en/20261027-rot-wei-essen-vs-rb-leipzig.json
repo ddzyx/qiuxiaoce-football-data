@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638571,
+    "matchup": "Rot-Weiß Essen vs RB Leipzig",
+    "home_team": "Rot-Weiß Essen",
+    "away_team": "RB Leipzig",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-27 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-rot-wei-essen-vs-rb-leipzig/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rot-Weiß Essen vs RB Leipzig Prediction: Depleted RWE Attack vs Red Bull Machine — xG Analysis",
+    "meta": {
+      "matchId": "1638571",
+      "league": "DFB Pokal",
+      "matchup": "Rot-Weiß Essen vs RB Leipzig",
+      "matchTime": "2026-10-27 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "RB Leipzig will navigate Essen's early defensive resistance to secure a multi-goal victory against a severely depleted host.",
+    "possibilityAssessment": [
+      "Away Win via second-half control and transitional superiority (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals anchored on Leipzig's multi-goal attacking ceiling (Confidence: Moderate, Value: Moderate)",
+      "Rot-Weiß Essen defensive resistance holding a low-scoring Under 2.5 margin (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638571",
+      "league": "DFB Pokal",
+      "homeTeam": "Rot-Weiß Essen",
+      "awayTeam": "RB Leipzig",
+      "match_time": "17:00",
+      "match_highlight": "Depleted Essen attack faces elite Leipzig firepower at Hafenstraße.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638571,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Leipzig's overwhelming class and squad depth will overwhelm an Essen side missing its three primary center-forwards."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Leipzig's attacking output of 3.0 projected goals drives the match above the 2.5 threshold despite Essen's scoring drought."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "A dominant away performance yielding a clean sheet with either a commanding 0:3 or efficient 0:2 victory."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of Leipzig's clinical finishing, with two goals as the low-block hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Essen's energetic start may hold Leipzig level at half-time before the visitors pull away, with an early away lead as secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 05:08:10 UTC"
+}
