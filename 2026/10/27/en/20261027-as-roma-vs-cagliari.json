@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550168,
+    "matchup": "AS Roma vs Cagliari",
+    "home_team": "AS Roma",
+    "away_team": "Cagliari",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-as-roma-vs-cagliari/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AS Roma vs Cagliari Prediction & Match Analysis: Can Cagliari Stifle Gasperini's Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550168",
+      "league": "Serie A",
+      "matchup": "AS Roma vs Cagliari",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AS Roma are positioned to control territory and secure a regulation home victory against an out-of-form Cagliari side.",
+    "possibilityAssessment": [
+      "AS Roma regulation home victory driven by territorial dominance and superior attacking efficiency (Confidence: Moderate, Value: High)",
+      "Controlled match tempo pointing toward a moderate goal volume landing Under 2.5 (Confidence: Moderate, Value: High)",
+      "Secondary hedge covering a narrow 2:1 scoreline should Cagliari breach the host on a set-piece transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550168",
+      "league": "Serie A",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Cagliari",
+      "match_time": "19:45",
+      "match_highlight": "Gasperini's high-octane Roma host an offensively stagnant Cagliari at the Olimpico.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550168,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Roma's overwhelming 2.14 xG per match and Cagliari's consecutive shutout losses strongly favor a decisive home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cagliari's meager 0.8 goals per match combined with Roma's 0.8 conceded per match points to a controlled 2:0 trajectory."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home shutout represents the primary statistical anchor, with 2:1 capturing secondary counter-attacking variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals aligns directly with the primary 2:0 scenario, while three goals accounts for the 2:1 alternative branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Cagliari's defensive low block often holds until the interval before Roma's second-half pressure decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:50:51 UTC"
+}
