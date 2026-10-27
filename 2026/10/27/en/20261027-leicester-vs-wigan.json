@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564323,
+    "matchup": "Leicester vs Wigan",
+    "home_team": "Leicester",
+    "away_team": "Wigan",
+    "league": "League One",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-leicester-vs-wigan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Leicester vs Wigan: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1564323",
+      "league": "League One",
+      "matchup": "Leicester vs Wigan",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Leicester to leverage superior chance creation and home territory to overcome transitional vulnerabilities and defeat bottom-placed Wigan.",
+    "possibilityAssessment": [
+      "Leicester sustained territorial pressure yields a competitive 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Leicester maintain defensive discipline to post a controlled 2:0 clean-sheet win (Confidence: Moderate, Value: Moderate)",
+      "Wigan capitalize on a late defensive turnover to force a 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564323",
+      "league": "League One",
+      "homeTeam": "Leicester",
+      "awayTeam": "Wigan",
+      "match_time": "19:45",
+      "match_highlight": "Leicester possession dominance meets Wigan away low-block resistance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564323,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Leicester possess substantial creative volume (1.73 xG) against a Wigan team winless on the road (0-1-5)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal volume exceeds 3.10, supported by Leicester open defensive transitions and high territory."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory balances Leicester attacking output with transition vulnerability, while 2:0 covers Wigan finishing inefficiency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary probabilistic cluster, with two goals offering the secondary low-block game state."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Leicester fast-starting 58.8% first-half goal share supports Win-Win, with Draw-Win reflecting second-half attrition."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:54:02 UTC"
+}
