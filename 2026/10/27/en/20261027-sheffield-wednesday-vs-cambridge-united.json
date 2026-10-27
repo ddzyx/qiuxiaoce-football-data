@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564341,
+    "matchup": "Sheffield Wednesday vs Cambridge United",
+    "home_team": "Sheffield Wednesday",
+    "away_team": "Cambridge United",
+    "league": "League One",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-sheffield-wednesday-vs-cambridge-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sheffield Wednesday vs Cambridge United Prediction: Caretaker Shift Meets U's Road Form — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1564341",
+      "league": "League One",
+      "matchup": "Sheffield Wednesday vs Cambridge United",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sheffield Wednesday's underlying 1.85 xG baseline and caretaker bounce make them favorites at Hillsborough, but Cambridge United's unbeaten road record and 83.3% deficit recovery rate demand backing Home Win / Draw.",
+    "possibilityAssessment": [
+      "Sheffield Wednesday Win or Draw (Home Win / Draw) covers the primary 2:1 home breakthrough and 1:1 stalemate scripts (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a 3.02 combined lambda expectancy and Cambridge scoring in 100% of league matches (Confidence: Moderate, Value: Moderate)",
+      "Cambridge United Second-Half Recovery (1:1 Draw Script) capitalizing on Wednesday missing suspended striker Jamal Lowe (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564341",
+      "league": "League One",
+      "homeTeam": "Sheffield Wednesday",
+      "awayTeam": "Cambridge United",
+      "match_time": "19:45",
+      "match_highlight": "Caretaker Hamshaw leads Owls against unbeaten Cambridge road travelers",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564341,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Combines Wednesday's 1.85 xG territorial edge and caretaker reset with Cambridge's resolute unbeaten away form."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.02 and Cambridge scoring in 100% of league matches favor a 3-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 2:1 home breakthrough or a 1:1 stalemate driven by Cambridge's second-half goals."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Independent Poisson distribution concentrates 44.7% density across the 2-goal and 3-goal bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cambridge's 15% first-half goal share favors a drawn opening interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:57:12 UTC"
+}
