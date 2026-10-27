@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564325,
+    "matchup": "Milton Keynes Dons vs Bromley",
+    "home_team": "Milton Keynes Dons",
+    "away_team": "Bromley",
+    "league": "League One",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-milton-keynes-dons-vs-bromley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Milton Keynes Dons vs Bromley Prediction & Match Analysis: Exploiting Fragile Backline — xG Preview",
+    "meta": {
+      "matchId": "1564325",
+      "league": "League One",
+      "matchup": "Milton Keynes Dons vs Bromley",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Milton Keynes Dons are projected to capitalize on Bromley's defensive vulnerabilities and recent managerial departure to secure a 2-1 victory, with the 1-1 draw serving as the essential structural safeguard.",
+    "possibilityAssessment": [
+      "Milton Keynes Dons exploit Bromley's 1.94 xGA backline through Aaron Collins to edge a 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Bromley's low-block resistance frustrates the hosts into a 1:1 stalemate amid MK Dons' 66.7% lead-not-won vulnerability (Confidence: Moderate, Value: High)",
+      "High-scoring second-half transition volatility pushes total goals over 2.5 via late counter-attacks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564325",
+      "league": "League One",
+      "homeTeam": "Milton Keynes Dons",
+      "awayTeam": "Bromley",
+      "match_time": "19:45",
+      "match_highlight": "MK Dons host managerless Bromley seeking to exploit 1.94 xGA defensive leaks",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564325,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers MK Dons' primary 2:1 attacking edge against Bromley's managerless defense alongside the 1:1 deadlock script driven by the Dons' 66.7% lead-not-won rate and 6 season draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Bromley's 1.94 xGA and 2.4 goals conceded per game matching MK Dons' 1.43 xG output, with 2:1 serving as the focal scoreline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:1 home triumph alongside the 1:1 stalemate driven by MK Dons' persistent defensive concession trends."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Anticipates a 2-to-3 goal band where 3 goals edges probability due to Bromley's chronic defensive frailty away from home."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a deadlocked first half before MK Dons assert territorial dominance in the second period, with Draw-Draw hedging low-block resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:54:38 UTC"
+}
