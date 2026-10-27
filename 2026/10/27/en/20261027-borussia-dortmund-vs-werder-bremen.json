@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638561,
+    "matchup": "Borussia Dortmund vs Werder Bremen",
+    "home_team": "Borussia Dortmund",
+    "away_team": "Werder Bremen",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-borussia-dortmund-vs-werder-bremen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Borussia Dortmund vs Werder Bremen Prediction: Can Kovac Plug Transition Flaws? — Scoreline Preview",
+    "meta": {
+      "matchId": "1638561",
+      "league": "DFB Pokal",
+      "matchup": "Borussia Dortmund vs Werder Bremen",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Borussia Dortmund are projected to secure a hard-fought 2:1 regulation victory at Signal Iduna Park as their superior attacking quality overcomes Werder Bremen's depleted defense.",
+    "possibilityAssessment": [
+      "Borussia Dortmund regulation win driven by Guirassy's box efficiency and Bremen's defensive injuries (Confidence: Moderate, Value: Moderate)",
+      "High-event contest clearing Over 2.5 goals due to Bremen's leaky backline and transition punch (Confidence: Moderate, Value: High)",
+      "Controlled low-margin home victory with BVB managing tempo ahead of the weekend Klassiker (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638561",
+      "league": "DFB Pokal",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Werder Bremen",
+      "match_time": "19:45",
+      "match_highlight": "Dortmund host Bremen seeking Pokal redemption after league collapse",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638561,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Dortmund's superior box threat through Guirassy and home defensive suppression will overcome Bremen's injury-depleted defense in regulation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined Poisson expectation of 3.20 goals and Bremen's 2.0 goals conceded per match strongly favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary tactical convergence, with 2:0 covering a clean-sheet game state."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads the density matrix, backed closely by a 2-goal scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures Dortmund's typical second-half surge, while Win-Win reflects an assertive early breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:58:19 UTC"
+}
