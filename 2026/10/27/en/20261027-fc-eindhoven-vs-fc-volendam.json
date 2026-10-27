@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1641968,
+    "matchup": "FC Eindhoven vs FC Volendam",
+    "home_team": "FC Eindhoven",
+    "away_team": "FC Volendam",
+    "league": "KNVB Beker",
+    "kickoff_utc": "2026-10-27 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-fc-eindhoven-vs-fc-volendam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Eindhoven vs FC Volendam: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1641968",
+      "league": "KNVB Beker",
+      "matchup": "FC Eindhoven vs FC Volendam",
+      "matchTime": "2026-10-27 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Volendam to win in regulation time behind their superior attacking output.",
+    "possibilityAssessment": [
+      "FC Volendam regulation win driven by offensive efficiency (Confidence: Moderate, Value: High)",
+      "Over 2.5 total match goals based on Eindhoven's conceded average (Confidence: High, Value: Moderate)",
+      "FC Eindhoven set-piece goal keeping the scoreline tight at 1:2 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1641968",
+      "league": "KNVB Beker",
+      "homeTeam": "FC Eindhoven",
+      "awayTeam": "FC Volendam",
+      "match_time": "19:00",
+      "match_highlight": "Volendam's rampant attack targets Eindhoven's porous rearguard in cup clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1641968,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Volendam's 2.4 goals per game firepower and H2H dominance will outmuscle Eindhoven's struggling defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Eindhoven concede 2.1 goals per match, perfectly aligning with a high 3.75 total expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A 1:2 victory represents the primary statistical anchor, with 1:3 as the open transitional branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals concentrate over 40% of the Poisson probability density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Eindhoven can hold parity early before Volendam's attacking depth settles the tie after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:10:47 UTC"
+}
