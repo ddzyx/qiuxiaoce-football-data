@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494313,
+    "matchup": "AIK Stockholm vs IF Elfsborg",
+    "home_team": "AIK Stockholm",
+    "away_team": "IF Elfsborg",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-27 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-aik-stockholm-vs-if-elfsborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling AIK Stockholm vs IF Elfsborg: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1494313",
+      "league": "Allsvenskan",
+      "matchup": "AIK Stockholm vs IF Elfsborg",
+      "matchTime": "2026-10-27 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back IF Elfsborg to exploit AIK's injury-depleted defense in a high-tempo encounter via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Elfsborg transition dominance yields a hard-fought 1:2 away victory (Confidence: Moderate, Value: Moderate)",
+      "Both teams find the net in an open, competitive encounter exceeding 2.5 goals (Confidence: Moderate, Value: High)",
+      "AIK's home territorial possession restricts space to salvage a 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494313",
+      "league": "Allsvenskan",
+      "homeTeam": "AIK Stockholm",
+      "awayTeam": "IF Elfsborg",
+      "match_time": "18:00",
+      "match_highlight": "Depleted AIK defense faces Elfsborg's lethal counter-attack in Solna.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494313,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Elfsborg's transition superiority while hedging against AIK's home territorial resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "AIK concede 1.80 xGA per match, ensuring high likelihood of at least 3 total goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Elfsborg road win serves as the primary convergence point with 1:1 as secondary hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary total with two goals providing secondary support."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Elfsborg's strong first-half away record supports early leads converting to road points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 06:08:24 UTC"
+}
