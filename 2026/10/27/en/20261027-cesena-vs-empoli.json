@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601576,
+    "matchup": "Cesena vs Empoli",
+    "home_team": "Cesena",
+    "away_team": "Empoli",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-27 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-cesena-vs-empoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cesena vs Empoli Prediction & Match Analysis: Shpendi Derby & xG Metrics — Scoreline Preview",
+    "meta": {
+      "matchId": "1601576",
+      "league": "Serie B",
+      "matchup": "Cesena vs Empoli",
+      "matchTime": "2026-10-27 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cesena on the double chance (Home Win / Draw) alongside Under 2.5 goals as Empoli's suspended backline clashes with Cesena's chronic lead-erosion pathology.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance represents the optimal risk-adjusted thesis (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflects low overall attacking conversion and mid-table caution (Confidence: Moderate, Value: Moderate)",
+      "Correct scoreline 1:1 captures Cesena's recurring home stalemates and second-half concession trends (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601576",
+      "league": "Serie B",
+      "homeTeam": "Cesena",
+      "awayTeam": "Empoli",
+      "match_time": "19:00",
+      "match_highlight": "Shpendi twin derby defines critical Serie B relegation six-pointer",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601576,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Cesena's structural defensive edge against a depleted Empoli defense while protecting against Cesena's 100% home draw record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Modest per-match scoring metrics and mid-table tactical caution heavily favor the 55% Under 2.5 probability density."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 stalemate mirrors Cesena's three recent 1:1 home results, while 2:1 reflects an exploitation of Curto's defensive absence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution establishes 2 and 3 total goals as the overwhelming statistical convergence points."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cesena regularly establishes first-half leads before conceding late equalizers, while the secondary captures a second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:05:55 UTC"
+}
