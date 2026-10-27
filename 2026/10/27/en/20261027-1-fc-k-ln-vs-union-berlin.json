@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638563,
+    "matchup": "1. FC Köln vs Union Berlin",
+    "home_team": "1. FC Köln",
+    "away_team": "Union Berlin",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-1-fc-k-ln-vs-union-berlin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling 1. FC Köln vs Union Berlin: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1638563",
+      "league": "DFB Pokal",
+      "matchup": "1. FC Köln vs Union Berlin",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "1. FC Köln's structural home stability and territorial control favor a narrow victory or regulation draw against an Union Berlin side constrained in attack.",
+    "possibilityAssessment": [
+      "1. FC Köln Win or Draw (Home Win / Draw) regulation progression (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on severe offensive attrition and low-block game state (Confidence: Moderate, Value: High)",
+      "1:0 Primary Scoreline with 1:1 Secondary Regulation Stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638563",
+      "league": "DFB Pokal",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "Union Berlin",
+      "match_time": "19:45",
+      "match_highlight": "Striker shortages meet defensive low block in tense Pokal clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638563,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a tight 1:0 home grinding victory and a 1:1 regulation stalemate where striker injuries prevent a comfortable margin."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined offensive injuries and Union's deep defensive block heavily compress expected scoring volume."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the dominant low-scoring vectors of a patient 1:0 Köln triumph or 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Aligns with the primary 1:0 and secondary 1:1 scoreline scenarios under tight cup conditions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious, scoreless opening half before late tactical adjustments decide regulation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 08:01:27 UTC"
+}
