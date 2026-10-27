@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520943,
+    "matchup": "Ceara vs Goias",
+    "home_team": "Ceara",
+    "away_team": "Goias",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-27 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-ceara-vs-goias/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ceara vs Goias Prediction & Match Analysis: Can Vozão Exploit Home xG Edge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1520943",
+      "league": "Serie B",
+      "matchup": "Ceara vs Goias",
+      "matchTime": "2026-10-27 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ceará's formidable 80% home unbeaten record at Arena Castelão provides the structural edge to secure points against a travel-weary Goiás side via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Ceará's strong Castelão venue baseline (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting conservative late-season Serie B tactical tension (Confidence: High, Value: Moderate)",
+      "1:1 Correct Score serving as the statistical convergence point of both expected-goal profiles (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520943",
+      "league": "Serie B",
+      "homeTeam": "Ceara",
+      "awayTeam": "Goias",
+      "match_time": "23:00",
+      "match_highlight": "Ceará's Castelão fortress tests Goiás's fading promotion hopes in Serie B Round 35.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520943,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-probability 1:1 stalemate and Ceará's proven second-half home surge to prevent defeat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson simulations yield 52% density for two or fewer goals with both teams averaging under 1.2 goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects the modal equilibrium of 1:1 alongside Ceará's signature 1:0 second-half home clean sheet scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Derived directly from the total goal distribution where 2 goals and 1 goal dominate cumulative probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Accounts for a cautious, card-heavy opening half followed by Ceará's customary second-half home acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 11:06:34 UTC"
+}
