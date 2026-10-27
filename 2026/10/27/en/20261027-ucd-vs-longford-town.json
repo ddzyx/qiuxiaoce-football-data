@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646612,
+    "matchup": "UCD vs Longford Town",
+    "home_team": "UCD",
+    "away_team": "Longford Town",
+    "league": "First Division",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-ucd-vs-longford-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling UCD vs Longford Town: Aggregate Game State, Transition Space & Play-off Modeling",
+    "meta": {
+      "matchId": "1646612",
+      "league": "First Division",
+      "matchup": "UCD vs Longford Town",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back UCD to preserve their aggregate dominance and secure play-off final progression via Home Win / Draw in an Under 2.5 goal environment.",
+    "possibilityAssessment": [
+      "UCD Home Win / Draw double chance capitalizing on Longford's mandatory attacking overextension (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by second-leg game management and 80% 2026 H2H Under frequency (Confidence: Moderate, Value: High)",
+      "Exact Total 2 Goals reflecting the natural convergence of primary 2:0 and secondary 1:1 scorelines (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646612",
+      "league": "First Division",
+      "homeTeam": "UCD",
+      "awayTeam": "Longford Town",
+      "match_time": "19:45",
+      "match_highlight": "UCD defend two-goal play-off lead against desperate Longford Town in Belfield decider",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646612,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers UCD's transition-led home victory alongside the game-state stalemate that also confirms aggregate qualification."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Knockout second-leg tempo suppression and historical H2H trends heavily favour an Under 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Primary 2:0 reflects transition exploitation; secondary 1:1 mirrors the recent October 9 league clash."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal outcome across primary scorelines, with three goals covering the late open-pitch scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win represents UCD striking early and managing home; Draw-Draw reflects a cautious first half remaining level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 08:02:17 UTC"
+}
