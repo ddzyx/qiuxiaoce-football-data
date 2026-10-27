@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601579,
+    "matchup": "Vicenza Virtus vs Modena",
+    "home_team": "Vicenza Virtus",
+    "away_team": "Modena",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-27 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261027-lr-vicenza-vs-modena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vicenza Virtus vs Modena Prediction: Belotti's Form Meets Gallo's Defense — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1601579",
+      "league": "Serie B",
+      "matchup": "Vicenza Virtus vs Modena",
+      "matchTime": "2026-10-27 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Modena to avoid defeat via Draw / Away Win, prioritizing a competitive 1:2 away victory alongside a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Modena controls midfield tempo and secures a 1:2 victory via Belotti's finishing (Confidence: Moderate, Value: High)",
+      "Vicenza holds firm in a compact 3-5-2 low block to claim a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Modena exploits second-half transitional fatigue to seal a multi-goal away win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601579",
+      "league": "Serie B",
+      "homeTeam": "Vicenza Virtus",
+      "awayTeam": "Modena",
+      "match_time": "19:00",
+      "match_highlight": "Belotti's clinical finishing challenges Vicenza's fragile three-man defense at Romeo Menti",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601579,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Modena's decisive transition finishing led by Belotti (1:2) and a compact Romeo Menti midweek attrition stalemate (1:1), where a single call would overlook Modena's road variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined goal expectancy of 2.65 and Vicenza's high concession average of 1.90 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Modena's offensive superiority alongside the Poisson model's leading stalemate density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Anchored by high probability densities across two-goal and three-goal match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight opening 45 minutes before Modena's superior bench firepower impacts the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:07:06 UTC"
+}
