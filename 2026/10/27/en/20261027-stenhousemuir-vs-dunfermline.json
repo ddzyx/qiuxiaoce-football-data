@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556870,
+    "matchup": "Stenhousemuir vs Dunfermline",
+    "home_team": "Stenhousemuir",
+    "away_team": "Dunfermline",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261027-stenhousemuir-vs-dunfermline/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stenhousemuir vs Dunfermline Prediction: Tactical Gridlock at Ochilview — Scoreline & xG Match Preview",
+    "meta": {
+      "matchId": "1556870",
+      "league": "Scottish Championship",
+      "matchup": "Stenhousemuir vs Dunfermline",
+      "matchTime": "2026-10-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stenhousemuir's undefeated home form and Dunfermline's league-leading defensive record point to a low-scoring contest favoring a Home Win or Draw.",
+    "possibilityAssessment": [
+      "Stenhousemuir Home Win / Draw double chance based on Ochilview fortress and Dunfermline draw rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by combined 1.63 lambda expectancy (Confidence: High, Value: Moderate)",
+      "Correct Score 1:0 narrow home breakthrough via second-half set piece (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556870",
+      "league": "Scottish Championship",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Dunfermline",
+      "match_time": "19:45",
+      "match_highlight": "Stenhousemuir defend unbeaten home record against Dunfermline's ironclad backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556870,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Stenhousemuir's 80% home win rate alongside Dunfermline's 54.5% season draw frequency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectation of 1.63 goals strongly favors a low-scoring defensive battle."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A solitary set-piece home winner or an attritional 1:1 stalemate represent the primary convergence points."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Underlying team statistics project extreme concentration on one or two total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half is projected before Stenhousemuir press for a late winner or share the spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-27 07:51:41 UTC"
+}
