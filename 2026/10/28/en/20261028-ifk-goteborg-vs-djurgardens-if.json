@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494316,
+    "matchup": "IFK Goteborg vs Djurgardens IF",
+    "home_team": "IFK Goteborg",
+    "away_team": "Djurgardens IF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-ifk-goteborg-vs-djurgardens-if/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "IFK Göteborg vs Djurgårdens IF Prediction: Can Blåvitt Halt Stockholm's Title Charge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494316",
+      "league": "Allsvenskan",
+      "matchup": "IFK Göteborg vs Djurgårdens IF",
+      "matchTime": "2026-10-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Djurgårdens IF holds overwhelming structural and motivational advantages to secure a crucial away victory at Gamla Ullevi.",
+    "possibilityAssessment": [
+      "Away Win for title-chasing Djurgården against Göteborg's leaky backline (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined attacking firepower and home defensive lapses (Confidence: Moderate, Value: Moderate)",
+      "Contingency narrow margin 0:2 victory if Göteborg's defensive low-block holds early (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494316",
+      "league": "Allsvenskan",
+      "homeTeam": "IFK Göteborg",
+      "awayTeam": "Djurgårdens IF",
+      "match_time": "18:00",
+      "match_highlight": "Djurgården chases title glory against injury-depleted Göteborg at Gamla Ullevi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494316,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Djurgården's 75% away win rate and title motivation outmatch Göteborg's depleted defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined seasonal metrics support an open contest meeting the 3.10 lambda goal threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 represents the natural convergence of road dominance and home consolation, with 0:2 as secondary."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome of Poisson distribution modeling, followed closely by two."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Göteborg frequently draws at halftime before Djurgården's superior bench secures the full-time win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 06:03:24 UTC"
+}
