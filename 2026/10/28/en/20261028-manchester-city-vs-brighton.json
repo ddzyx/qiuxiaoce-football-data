@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640575,
+    "matchup": "Manchester City vs Brighton",
+    "home_team": "Manchester City",
+    "away_team": "Brighton",
+    "league": "League Cup",
+    "kickoff_utc": "2026-10-28 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-manchester-city-vs-brighton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Manchester City vs Brighton Prediction: Can Rotated Citizens Resist Seagulls Press? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1640575",
+      "league": "League Cup",
+      "matchup": "Manchester City vs Brighton",
+      "matchTime": "2026-10-28 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brighton to avoid regulation-time defeat via Draw / Away Win as City's mass resting exposes defensive frailties.",
+    "possibilityAssessment": [
+      "Brighton avoid regulation defeat capitalizing on City's rested superstars (Confidence: Moderate, Value: High)",
+      "High-scoring encounter exceeding 2.5 total goals driven by transition pace (Confidence: Moderate, Value: High)",
+      "Brighton edges a 1:2 victory in regulation time on second-half counters (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640575",
+      "league": "League Cup",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Brighton",
+      "match_time": "19:30",
+      "match_highlight": "Five rested City superstars leave backline vulnerable against Brighton's electric transition press.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640575,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Brighton's primary 1:2 victory script and a 2:2 draw branch, exploiting City's mass defensive rotation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined scoring lambda of 3.70 and City conceding multiple goals in recent high-tempo fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Projects Brighton's transition efficiency to breach City's makeshift backline while City maintain scoring presence."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Reflects the two highest probability densities in the Poisson goal distribution model."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tightly contested opening 45 minutes before defensive fatigue unlocks second-half chances."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:34:10 UTC"
+}
