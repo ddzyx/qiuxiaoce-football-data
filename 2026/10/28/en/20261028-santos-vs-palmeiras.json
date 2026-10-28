@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492438,
+    "matchup": "Santos vs Palmeiras",
+    "home_team": "Santos",
+    "away_team": "Palmeiras",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-28 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-santos-vs-palmeiras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Santos vs Palmeiras Prediction & Match Analysis: Peixe Adapt to Neymar Absence — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492438",
+      "league": "Serie A",
+      "matchup": "Santos vs Palmeiras",
+      "matchTime": "2026-10-28 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Palmeiras to exploit Neymar's absence and maintain their title charge in a tight, low-scoring derby at Vila Belmiro.",
+    "possibilityAssessment": [
+      "Palmeiras asserts midfield control through Andreas Pereira and grinds out a disciplined 0:1 road win (Confidence: Moderate, Value: High)",
+      "Santos relies on defensive compactness and Gabriel Barbosa to secure a hard-fought 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "An intense, foul-heavy midfield battle results in a goalless 0:0 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492438",
+      "league": "Serie A",
+      "homeTeam": "Santos",
+      "awayTeam": "Palmeiras",
+      "match_time": "22:30",
+      "match_highlight": "Neymar suspended as title-chasing Palmeiras visit Vila Belmiro",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492438,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Palmeiras' superior defensive framework alongside Vila Belmiro's resilient home draw history."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Palmeiras has conceded only 22 league goals while Santos lacks creative punch without Neymar."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 0:1 away win script and the secondary 1:1 derby stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal outcome, with a one-goal defensive grind as the secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a cautious opening half before Palmeiras' quality or fatigue forces a second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 10:34:55 UTC"
+}
