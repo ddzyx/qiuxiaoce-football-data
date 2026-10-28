@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638570,
+    "matchup": "SC Paderborn 07 vs VfB Stuttgart",
+    "home_team": "SC Paderborn 07",
+    "away_team": "VfB Stuttgart",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-sc-paderborn-07-vs-vfb-stuttgart/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Paderborn 07 vs VfB Stuttgart Prediction: Can Cup Rotation Survive Paderborn Press? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1638570",
+      "league": "DFB Pokal",
+      "matchup": "SC Paderborn 07 vs VfB Stuttgart",
+      "matchTime": "2026-10-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "VfB Stuttgart possess the attacking firepower to advance, but defensive absences and cup rotation require covering the 90-minute draw via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Stuttgart establish control through Demirovic and Undav to claim a hard-fought 2-1 away victory (Confidence: Moderate, Value: High)",
+      "Paderborn's disciplined mid-block frustrates Stuttgart's rotated defense into a 1-1 regulation stalemate (Confidence: Moderate, Value: Moderate)",
+      "An open, end-to-end cup tie breaches defensive structures to produce over 2.5 total goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638570",
+      "league": "DFB Pokal",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "VfB Stuttgart",
+      "match_time": "17:00",
+      "match_highlight": "Stuttgart's elite attack faces Paderborn's cup ambition under floodlights.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638570,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Stuttgart's primary 2-1 victory while hedging against regulation stalemate driven by cup rotation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Stuttgart's attacking caliber combined with both defenses missing key personnel supports high scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Stuttgart's decisive second-half class, while 1:1 provides realistic cup stalemate coverage."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals represents the modal outcome of an active 1:2 script, followed closely by 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive, balanced opening half breaks open via Stuttgart's superior second-half bench quality."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 05:03:43 UTC"
+}
