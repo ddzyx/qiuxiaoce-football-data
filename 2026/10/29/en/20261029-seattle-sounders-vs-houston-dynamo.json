@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490583,
+    "matchup": "Seattle Sounders vs Houston Dynamo",
+    "home_team": "Seattle Sounders",
+    "away_team": "Houston Dynamo",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-29 02:30:00",
+    "source_url": "https://xgmind.com/matches/20261029-seattle-sounders-vs-houston-dynamo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Seattle Sounders vs Houston Dynamo: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490583",
+      "league": "Major League Soccer",
+      "matchup": "Seattle Sounders vs Houston Dynamo",
+      "matchTime": "2026-10-29 02:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Seattle Sounders possess the territorial dominance and playoff incentive to break Houston's draw streak at Lumen Field.",
+    "possibilityAssessment": [
+      "Seattle Sounders control tempo and secure a narrow 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Houston Dynamo absorb sustained pressure behind Jonathan Bond to snatch a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Open transition contest pushes total goals Over 2.5 via late second-half scoring (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490583",
+      "league": "Major League Soccer",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Houston Dynamo",
+      "match_time": "02:30",
+      "match_highlight": "Sounders eye playoff berth against Houston's stubborn draw streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490583,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Seattle's high-motivation home victory script while providing robust insurance against Houston's persistent four-match draw streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson expected goals lambda of 2.785 and mutual defensive injuries support a 3-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence point, with 1:1 honoring Houston's defensive resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead based on attacking pressure, with two goals providing immediate secondary density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Seattle score over 60% of their home goals after halftime, making a level opening period the leading tactical path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 14:36:29 UTC"
+}
