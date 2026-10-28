@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556688,
+    "matchup": "Aberdeen vs Falkirk",
+    "home_team": "Aberdeen",
+    "away_team": "Falkirk",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-aberdeen-vs-falkirk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aberdeen vs Falkirk Prediction & Match Analysis: Defensive Crisis Meets Bairns Form — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556688",
+      "league": "Premiership",
+      "matchup": "Aberdeen vs Falkirk",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Falkirk to avoid defeat at Pittodrie against a severely depleted Aberdeen central defence.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance via balanced 1:1 stalemate or narrow Falkirk counter victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by Falkirk road compactness and subdued lookahead tempo (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 representing the statistical convergence of both attacks (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556688",
+      "league": "Premiership",
+      "homeTeam": "Aberdeen",
+      "awayTeam": "Falkirk",
+      "match_time": "19:45",
+      "match_highlight": "Aberdeen center-back injury crisis meets Falkirk's 80% road unbeaten resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556688,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a tight 1:1 stalemate and a 1:2 Falkirk counter-punch against Aberdeen's makeshift central defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.45 and cautious road dynamics favor a low-scoring affair capped under three goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects identical 1.2 goal baselines, while 1:2 accounts for a late Falkirk transition breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak Poisson density (23.2%), with three goals serving as the primary open branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Aberdeen's 0% first-half home lead rate points toward a level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:49:13 UTC"
+}
