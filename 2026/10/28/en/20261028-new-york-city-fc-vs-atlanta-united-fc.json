@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490572,
+    "matchup": "New York City FC vs Atlanta United FC",
+    "home_team": "New York City FC",
+    "away_team": "Atlanta United FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-28 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-new-york-city-fc-vs-atlanta-united-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New York City FC vs Atlanta United FC Prediction & Match Analysis: Midfield Injuries & xG Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1490572",
+      "league": "Major League Soccer",
+      "matchup": "New York City FC vs Atlanta United FC",
+      "matchTime": "2026-10-28 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "New York City FC to exploit Atlanta United's depleted central defense and secure points via a 2:1 home victory or 1:1 draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance driven by NYCFC territorial edge and Atlanta defensive fragility (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals supported by a 2.995 Poisson goal expectancy and Atlanta's 54 conceded goals (Confidence: Moderate, Value: High)",
+      "Primary 2:1 scoreline converging home chance creation with away counter-attacking quality (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490572",
+      "league": "Major League Soccer",
+      "homeTeam": "New York City FC",
+      "awayTeam": "Atlanta United FC",
+      "match_time": "23:30",
+      "match_highlight": "Must-win playoff clash as NYCFC host desperate Atlanta at Citi Field.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490572,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "NYCFC hold superior territorial metrics but persistent draw tendencies require covering the stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.995 Poisson expectancy and Atlanta's 1.68 road xGA point toward an open contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win represents the modal convergence while 1:1 protects against finishing variance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead model density closely followed by a two-goal stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "NYCFC's fast start supports Win-Win while Draw-Draw captures their 54.5% interval deadlock rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 11:35:44 UTC"
+}
