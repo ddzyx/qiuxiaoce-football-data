@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556689,
+    "matchup": "Celtic vs Dundee Utd",
+    "home_team": "Celtic",
+    "away_team": "Dundee Utd",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-celtic-vs-dundee-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celtic vs Dundee Utd Tactical Breakdown & Probabilistic Modeling: Flank Asymmetry & Transition Threat",
+    "meta": {
+      "matchId": "1556689",
+      "league": "Premiership",
+      "matchup": "Celtic vs Dundee Utd",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celtic's overwhelming domestic attacking output (2.75 xG/match) will overcome Dundee United's counter-attacking resistance to secure a hard-fought home victory.",
+    "possibilityAssessment": [
+      "Celtic positional dominance converts into multiple goals against a depleted United defense (Confidence: High, Value: Moderate)",
+      "Dundee United exploit Celtic's reconfigured right flank to score on the counter (Confidence: Moderate, Value: High)",
+      "Jim Goodwin's low block forces a tightly contested 2:1 battle (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556689",
+      "league": "Premiership",
+      "homeTeam": "Celtic",
+      "awayTeam": "Dundee Utd",
+      "match_time": "19:45",
+      "match_highlight": "Celtic's attacking machine faces Goodwin's resilient five-match unbeaten counter-punchers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556689,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Celtic's domestic dominance and high-volume chance creation make a home victory the most reliable outcome despite visiting counter threats."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal expectation of 3.45 and Celtic's recent defensive concessions heavily favor an open, high-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Both scorelines capture Celtic's offensive superiority while respecting Dundee United's transition scoring capacity."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the dominant probabilistic density across our Poisson simulation models."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Celtic's fast-starting profile points toward leading early, with Draw-Win providing cover against initial low-block resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:51:52 UTC"
+}
