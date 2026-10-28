@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644364,
+    "matchup": "Numancia vs Oviedo",
+    "home_team": "Numancia",
+    "away_team": "Oviedo",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-10-28 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-numancia-vs-oviedo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Numancia vs Real Oviedo Prediction & Match Analysis: Can Los Pajaritos Stifle Calero's Rotated Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1644364",
+      "league": "Copa del Rey",
+      "matchup": "Numancia vs Oviedo",
+      "matchTime": "2026-10-28 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Oviedo's divisional class gives them the edge, but Numancia's defensive block keeps a regulation Draw / Away Win and Under 2.5 goals as the optimal trajectory.",
+    "possibilityAssessment": [
+      "Draw / Away Win core double-chance coverage (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 quantitative ceiling (Confidence: High, Value: Moderate)",
+      "Correct Scoreline 0:1 leading convergence (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644364",
+      "league": "Copa del Rey",
+      "homeTeam": "Numancia",
+      "awayTeam": "Oviedo",
+      "match_time": "19:00",
+      "match_highlight": "Numancia low block tests Calero's rotated attack at Los Pajaritos",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644364,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Oviedo possess superior individual quality but their squad rotation and Numancia's defensive record warrant covering both the narrow away win and the regulation draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Numancia have conceded only 4 league goals while Oviedo travel without their top two injured target forwards, keeping total scoring expectancy low."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A controlled 0:1 away victory serves as the primary convergence, while a 1:1 stalemate captures Numancia's capacity to drag the tie into extra time."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson densities peak at 2 goals (25.7%) and 1 goal (20.5%), aligning with expected low-scoring knockout attrition."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half is highly probable as Numancia compress space, with Oviedo's bench depth deciding the outcome in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:08:57 UTC"
+}
