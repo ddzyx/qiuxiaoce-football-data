@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550171,
+    "matchup": "Genoa vs Juventus",
+    "home_team": "Genoa",
+    "away_team": "Juventus",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-genoa-vs-juventus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Genoa vs Juventus Prediction & Match Analysis: Injury-Hit Bianconeri Face Marassi Test — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550171",
+      "league": "Serie A",
+      "matchup": "Genoa vs Juventus",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Juventus to avoid defeat in an attritional, low-scoring encounter at the Luigi Ferraris (Draw / Away Win).",
+    "possibilityAssessment": [
+      "Juventus secure a hard-fought 1-0 victory via set-piece efficiency and defensive dominance (Confidence: Moderate, Value: High)",
+      "Genoa's compact 3-5-2 low block frustrates an injury-depleted Bianconeri attack into a 1-1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "A cagey, defense-first tactical battle keeps total goals strictly below 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550171",
+      "league": "Serie A",
+      "homeTeam": "Genoa",
+      "awayTeam": "Juventus",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Bianconeri face stubborn Grifone low block in Liguria",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550171,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Juventus's defensive class to grind out a 1-0 win while hedging against offensive bluntness producing a 1-1 draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined model expectancy of 2.085 goals and Juventus conceding only 0.54 xGA strongly favor a low-scoring game."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A narrow 1-0 Juventus victory represents the primary node, with 1-1 covering the defensive stalemate scenario."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Suppressed chance creation from both sides targets 1 or 2 total goals with over 52% combined probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half is expected before Juventus's technical quality creates a second-half edge or settles in a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:49:00 UTC"
+}
