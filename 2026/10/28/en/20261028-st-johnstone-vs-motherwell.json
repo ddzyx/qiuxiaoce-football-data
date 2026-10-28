@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556692,
+    "matchup": "ST Johnstone vs Motherwell",
+    "home_team": "ST Johnstone",
+    "away_team": "Motherwell",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-st-johnstone-vs-motherwell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "ST Johnstone vs Motherwell Prediction: Fragile Defenses & xG Clash — Model & Scoreline Breakdown",
+    "meta": {
+      "matchId": "1556692",
+      "league": "Premiership",
+      "matchup": "ST Johnstone vs Motherwell",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "ST Johnstone's robust home platform (80% unbeaten) provides decisive leverage against a reeling Motherwell backline, favoring Home Win / Draw.",
+    "possibilityAssessment": [
+      "ST Johnstone exploit Motherwell's defensive fragility to secure a narrow 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Motherwell's 1.60 xG possession dominance holds ST Johnstone to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Both compromised defenses concede, driving match total Over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556692",
+      "league": "Premiership",
+      "homeTeam": "ST Johnstone",
+      "awayTeam": "Motherwell",
+      "match_time": "19:45",
+      "match_highlight": "Motherwell aim to halt 5-game skid at resilient McDiarmid Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556692,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers ST Johnstone's 80% home unbeaten rate and Motherwell's possession-based path to a draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive concessions and key defensive injuries support a high-scoring encounter exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects ST Johnstone's 100% win-by-one trend alongside the statistical modal draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution concentrates heavily on 3 and 2 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half dynamics precede second-half breakthroughs at McDiarmid Park."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:52:19 UTC"
+}
