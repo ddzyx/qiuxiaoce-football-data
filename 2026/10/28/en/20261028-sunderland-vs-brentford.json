@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640389,
+    "matchup": "Sunderland vs Brentford",
+    "home_team": "Sunderland",
+    "away_team": "Brentford",
+    "league": "League Cup",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-sunderland-vs-brentford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sunderland vs Brentford: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1640389",
+      "league": "League Cup",
+      "matchup": "Sunderland vs Brentford",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brentford's superior attacking depth and Sunderland's severe injury crisis and relegation-prioritised rotation point to Draw / Away Win as the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Brentford control match tempo to secure a disciplined 2-0 regulation away victory (Confidence: Moderate, Value: High)",
+      "Sunderland's low defensive block holds firm to force a 1-1 stalemate and spot-kicks (Confidence: Moderate, Value: Moderate)",
+      "Late transitional breakdown opens space for a 2-1 Brentford victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640389",
+      "league": "League Cup",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Brentford",
+      "match_time": "19:45",
+      "match_highlight": "Brentford attack targets Sunderland's rotated defense at Stadium of Light",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640389,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Brentford's superior attacking baseline alongside their documented tendency for away draws against deep blocks."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with Sunderland's depleted attack and pragmatic low-block cup posture."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 captures a controlled away win while 1:1 reflects Sunderland's potential to force penalties."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal outcome with three goals covering the open transition branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both trends reflect Sunderland's verified first-half parity before second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 08:01:14 UTC"
+}
