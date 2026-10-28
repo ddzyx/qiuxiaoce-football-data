@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556690,
+    "matchup": "Dundee vs Kilmarnock",
+    "home_team": "Dundee",
+    "away_team": "Kilmarnock",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-dundee-vs-kilmarnock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dundee vs Kilmarnock Prediction & Match Analysis: Killie Road Vulnerability — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556690",
+      "league": "Premiership",
+      "matchup": "Dundee vs Kilmarnock",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dundee are projected to secure maximum points at Dens Park by exploiting Kilmarnock's league-worst away concession rate in a high-tempo home victory.",
+    "possibilityAssessment": [
+      "Dundee Full-Time Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals via transitional vulnerabilities (Confidence: Moderate, Value: High)",
+      "Dundee 2:1 Correct Score as primary convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556690",
+      "league": "Premiership",
+      "homeTeam": "Dundee",
+      "awayTeam": "Kilmarnock",
+      "match_time": "19:45",
+      "match_highlight": "Dundee target Kilmarnock's leaky defense at Dens Park",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556690,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Dundee's clinical transitional attack directly exploits Kilmarnock's league-worst away defense missing starting goalkeeper Stryjek."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectation of 3.20 goals and Kilmarnock's 2.30 goals-conceded average heavily favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects peak model density, with 2:0 covering a Dundee defensive shut-out scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the median expectation, while two goals captures a controlled Dundee multi-goal margin."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Kilmarnock's early damage limitation yields a level first half before Dundee's late acceleration secures victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:52:08 UTC"
+}
