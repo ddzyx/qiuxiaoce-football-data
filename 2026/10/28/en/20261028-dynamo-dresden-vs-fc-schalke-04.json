@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638572,
+    "matchup": "Dynamo Dresden vs FC Schalke 04",
+    "home_team": "Dynamo Dresden",
+    "away_team": "FC Schalke 04",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-dynamo-dresden-vs-fc-schalke-04/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dynamo Dresden vs FC Schalke 04 Prediction: Can Depleted Knappen Survive Dresden Cauldron? — xG Analysis",
+    "meta": {
+      "matchId": "1638572",
+      "league": "DFB Pokal",
+      "matchup": "Dynamo Dresden vs FC Schalke 04",
+      "matchTime": "2026-10-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Schalke 04's defensive structure will resist Dresden's pressure, but extreme attacking absences point toward a gritty 1:1 stalemate or narrow 0:1 away outcome in regulation.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance projection with Draw leading (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on Schalke's blunt attack and rigid defensive block (Confidence: High, Value: Moderate)",
+      "HT/FT Draw-Draw as primary game state consolidation across regulation (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638572",
+      "league": "DFB Pokal",
+      "homeTeam": "Dynamo Dresden",
+      "awayTeam": "FC Schalke 04",
+      "match_time": "17:00",
+      "match_highlight": "Depleted Schalke faces a hostile Dresden cup cauldron in an attritional battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638572,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:1 regulation stalemate and a narrow 0:1 Schalke win, accounting for severe visiting injuries and host volatility."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Schalke averages only 0.6 goals per match and possesses a rigid defense, favoring a low-scoring cup clash."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 regulation draw reflects Dresden's home energy meeting Schalke's top-tier resistance, with 0:1 as the defensive hedge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary convergence via 1:1, while a single-goal attrition script provides secondary protection."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious opening halves are anticipated, with parity maintained at the break before late attrition unfolds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 05:03:44 UTC"
+}
