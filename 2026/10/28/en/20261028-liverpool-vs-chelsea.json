@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640388,
+    "matchup": "Liverpool vs Chelsea",
+    "home_team": "Liverpool",
+    "away_team": "Chelsea",
+    "league": "League Cup",
+    "kickoff_utc": "2026-10-28 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-liverpool-vs-chelsea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Liverpool vs Chelsea Prediction & Match Analysis: Can Alonso's Blues Exploit Anfield Rotation? — Scoreline Preview",
+    "meta": {
+      "matchId": "1640388",
+      "league": "League Cup",
+      "matchup": "Liverpool vs Chelsea",
+      "matchTime": "2026-10-28 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Liverpool to navigate cup rotation and avoid defeat at Anfield, with a 2:1 home victory serving as the focal scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw via 2:1 win or 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by Chelsea's leaky defense (Confidence: Moderate, Value: High)",
+      "Draw at Half-Time followed by Liverpool Second-Half Win (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640388",
+      "league": "League Cup",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Chelsea",
+      "match_time": "20:00",
+      "match_highlight": "Alonso seeks Anfield redemption as Palmer suspension meets Iraola squad rotation.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640388,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Liverpool's home pressing edge is balanced by cup rotation, making the 2:1 win and 1:1 draw the optimal compound coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda total of 3.20 and Chelsea's 1.90 goals conceded per match strongly support surpassing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline represents the primary convergence of home dominance, while 1:1 covers regulation stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal model expectation at 22.3%, with two goals serving as the primary defensive branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected to level out before Liverpool's second-half bench quality decides the tie."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 08:06:19 UTC"
+}
