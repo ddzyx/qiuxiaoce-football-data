@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638567,
+    "matchup": "Hannover 96 vs 1. FC Kaiserslautern",
+    "home_team": "Hannover 96",
+    "away_team": "1. FC Kaiserslautern",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-hannover-96-vs-1-fc-kaiserslautern/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hannover 96 vs 1. FC Kaiserslautern Prediction: Wagner's Attack Meets FCK Wall — Scoreline Preview",
+    "meta": {
+      "matchId": "1638567",
+      "league": "DFB Pokal",
+      "matchup": "Hannover 96 vs 1. FC Kaiserslautern",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "1. FC Kaiserslautern leverage elite defensive structure to avoid regulation defeat against a depleted Hannover side.",
+    "possibilityAssessment": [
+      "FCK grind out a disciplined 0:1 away victory via second-half transition (Confidence: Moderate, Value: High)",
+      "Defensive attrition produces a tight 0:0 regulation stalemate (Confidence: Moderate, Value: High)",
+      "Hannover salvage an isolated set-piece goal in a competitive 1:1 deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638567",
+      "league": "DFB Pokal",
+      "homeTeam": "Hannover 96",
+      "awayTeam": "1. FC Kaiserslautern",
+      "match_time": "19:45",
+      "match_highlight": "FCK's four-match clean sheet streak tests Wagner's depleted attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638567,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Kaiserslautern's primary 0:1 counter-attacking win and the 0:0 defensive deadlock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Kaiserslautern's 0.40 goals conceded per match and Hannover's missing scorers."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Reflects Kaiserslautern's clean sheet prowess against Hannover's blunt attack."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Combined expectancy of 2.00 strongly concentrates density on one or two goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a tightly contested first half opening up toward late away control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:57:06 UTC"
+}
