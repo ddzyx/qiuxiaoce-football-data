@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1601575,
+    "matchup": "Carrarese vs Arezzo",
+    "home_team": "Carrarese",
+    "away_team": "Arezzo",
+    "league": null,
+    "kickoff_utc": "2026-10-28 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-carrarese-vs-arezzo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Serie B",
+      "matchId": "1601575",
+      "matchup": "Carrarese vs Arezzo",
+      "matchTime": "2026-10-28 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Carrarese vs Arezzo Prediction & Match Analysis: Can Marmiferi Exploit Amaranto Defensive Fragility? — Scoreline Preview",
+    "coreRecommendation": "Carrarese's superior defensive floor provides sufficient structural stability to avoid defeat against Arezzo's fragile backline.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "High half-time draw tendencies precede a more active second-half scoring phase.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Carrarese defensive control at home against an Arezzo side conceding 2.12 goals per match.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Goal expectation centers on two goals with a solitary-goal win as the secondary branch.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Primary scorelines reflect a tightly contested encounter with a low defensive ceiling.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "Serie B",
+      "matchId": "1601575",
+      "awayTeam": "Arezzo",
+      "homeTeam": "Carrarese",
+      "fixtureId": 1601575,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "Both clubs score under 30% of their goals in the first half, depressing total goal pace.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Carrarese defensive organization clashes with Arezzo volatile away transition attack."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Carrarese Win or Draw via tactical midfield control and defensive solidity (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals driven by low first-half scoring efficiency from both sides (Confidence: Moderate, Value: Moderate)",
+      "Arezzo opportunistic transition strike forcing a tight 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-28 21:27:23 UTC"
+  }
+}
