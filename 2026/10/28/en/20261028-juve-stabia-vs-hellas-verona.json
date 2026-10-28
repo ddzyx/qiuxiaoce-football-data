@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601578,
+    "matchup": "Juve Stabia vs Hellas Verona",
+    "home_team": "Juve Stabia",
+    "away_team": "Hellas Verona",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-28 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-juve-stabia-vs-hellas-verona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Juve Stabia vs Hellas Verona: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1601578",
+      "league": "Serie B",
+      "matchup": "Juve Stabia vs Hellas Verona",
+      "matchTime": "2026-10-28 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juve Stabia are projected to avoid defeat at Romeo Menti, anchored by a disciplined defensive setup and a primary 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Juve Stabia Avoids Defeat / Home Win or Draw (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 / Exactly 2 Goals (Confidence: Moderate, Value: Moderate)",
+      "Both Teams to Score Yes with 1:1 Deadlock (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601578",
+      "league": "Serie B",
+      "homeTeam": "Juve Stabia",
+      "awayTeam": "Hellas Verona",
+      "match_time": "19:00",
+      "match_highlight": "Verona's away fragility meets Stabia's clean-sheet defensive momentum",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601578,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and the secondary 2:1 home counter-attack script against a winless away side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Juve Stabia's 1.14 xGA defensive mid-block reliably suppresses Verona's road scoring tempo below the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 draw represents the primary Poisson convergence point, while 2:1 reflects Verona's late defensive collapse."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals account for the dominant combined probability density in our Poisson scoring matrix."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both clubs score predominantly in the second half, supporting a level interval prior to full-time resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:04:06 UTC"
+}
