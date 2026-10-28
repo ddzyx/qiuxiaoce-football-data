@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556693,
+    "matchup": "ST Mirren vs Hibernian",
+    "home_team": "ST Mirren",
+    "away_team": "Hibernian",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-st-mirren-vs-hibernian/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling ST Mirren vs Hibernian: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1556693",
+      "league": "Premiership",
+      "matchup": "ST Mirren vs Hibernian",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Hibernian to avoid defeat in an open encounter where superior underlying expected goals exploit ST Mirren's fragile defense.",
+    "possibilityAssessment": [
+      "Hibernian capitalize on ST Mirren's defensive attrition to claim a narrow 1:2 road victory (Confidence: Moderate, Value: High)",
+      "ST Mirren's fast start yields an early advantage that Hibernian peg back into a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "High defensive instability pushes total match scoring past 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556693",
+      "league": "Premiership",
+      "homeTeam": "ST Mirren",
+      "awayTeam": "Hibernian",
+      "match_time": "19:45",
+      "match_highlight": "Hibernian's superior xG process challenges ST Mirren's porous backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556693,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retaining the double chance covers Hibernian's superior underlying 0.0 net xG process while factoring in ST Mirren's stubborn home resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Calibrated aggregate expectancy of 2.75 goals and ST Mirren's 1.99 xGA per match firmly support an Over 2.5 orientation."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 away victory captures Hibs' transitional edge, while 1:1 serves as the protective game-state hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome serves as the primary convergence point, with 2 goals providing strong secondary coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss reflects Hibernian's superior second-half depth, while Win-Draw accommodates ST Mirren's verified 71.4% home first-half scoring habit."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:54:32 UTC"
+}
