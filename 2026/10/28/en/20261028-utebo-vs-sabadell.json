@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644384,
+    "matchup": "Utebo vs Sabadell",
+    "home_team": "Utebo",
+    "away_team": "Sabadell",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-10-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-utebo-vs-sabadell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Utebo vs Sabadell Prediction & Match Analysis: Synthetic Turf & Cup Rotation Tested — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1644384",
+      "league": "Copa del Rey",
+      "matchup": "Utebo vs Sabadell",
+      "matchTime": "2026-10-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sabadell possess the structural defensive quality to avoid defeat, but extensive squad rotation and artificial turf make Draw / Away Win within Under 2.5 goals the optimal projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance covering professional tier superiority and cup rotation risk (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by Utebo's compact low block and Sabadell's conservative lead management (Confidence: High, Value: Moderate)",
+      "0:1 Sabadell win secured via second-half bench quality or dead-ball execution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644384",
+      "league": "Copa del Rey",
+      "homeTeam": "Utebo",
+      "awayTeam": "Sabadell",
+      "match_time": "18:00",
+      "match_highlight": "Rotated Segunda visitors face grueling artificial turf cup test",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644384,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sabadell's two-tier baseline quality while safeguarding against regulation stalemate induced by heavy rotation and synthetic pitch friction."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution concentrates 73.1% density on two or fewer goals with both sides locked in low-tempo structures."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Primary 0:1 reflects a narrow professional away victory; secondary 1:1 captures Utebo's low-block resistance dragging the match to extra time."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Primary total of 1 goal leads probabilistic distributions, with 2 goals providing secondary coverage for a 1:1 scoreline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "First-half stalemate expected as hosts press physically, with Sabadell's superior depth deciding regulation in the second half or locking at 90 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 06:08:29 UTC"
+}
