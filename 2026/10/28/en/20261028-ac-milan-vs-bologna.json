@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550167,
+    "matchup": "AC Milan vs Bologna",
+    "home_team": "AC Milan",
+    "away_team": "Bologna",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-ac-milan-vs-bologna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AC Milan vs Bologna Prediction & Tactical Analysis: Derby Rotation vs Depleted Attack — Scoreline Preview",
+    "meta": {
+      "matchId": "1550167",
+      "league": "Serie A",
+      "matchup": "AC Milan vs Bologna",
+      "matchTime": "2026-10-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back AC Milan to secure three points at San Siro against an injury-hit Bologna attack.",
+    "possibilityAssessment": [
+      "AC Milan win in a controlled, professional display (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals as Milan manage tempo ahead of the derby (Confidence: Moderate, Value: High)",
+      "Bologna snatch a low-scoring draw if Milan rotate excessively (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550167",
+      "league": "Serie A",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Bologna",
+      "match_time": "17:30",
+      "match_highlight": "Unbeaten Milan host depleted Bologna ahead of Milan Derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550167,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Milan's 100% home winning record and Bologna's key attacking absences firmly support a home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Milan's defensive solidity and game-management incentives ahead of the derby favor a controlled, lower-scoring outcome."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 clean sheet represents the primary convergence, with 2:1 covering minor defensive lapses from midfield rotation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A two-goal total serves as the modal projection, while three goals reflects a secondary competitive branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Bologna's 75% away half-time draw rate supports a second-half breakthrough, with Win-Win as the early-strike alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 05:33:07 UTC"
+}
