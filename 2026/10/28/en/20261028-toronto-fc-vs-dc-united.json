@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490575,
+    "matchup": "Toronto FC vs DC United",
+    "home_team": "Toronto FC",
+    "away_team": "DC United",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-28 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-toronto-fc-vs-dc-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Toronto FC vs DC United Prediction & Match Analysis: Attacking Edge vs Road Fragility — Scoreline Preview",
+    "meta": {
+      "matchId": "1490575",
+      "league": "Major League Soccer",
+      "matchup": "Toronto FC vs DC United",
+      "matchTime": "2026-10-28 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Toronto FC's attacking depth and strong BMO Field unbeaten record should see them edge a depleted DC United, with Home Win / Draw covering the high baseline draw risk.",
+    "possibilityAssessment": [
+      "Toronto FC 2:1 DC United: Primary thesis where Toronto's attacking continuity breaks through DC's fragile away defense (Confidence: Moderate, Value: High)",
+      "Toronto FC 1:1 DC United: Tactical stalemate where Toronto's missing backline anchor allows DC to snatch an equalizer (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals: Scoring pace driven by Toronto's zero home clean sheets and must-win playoff urgency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490575",
+      "league": "Major League Soccer",
+      "homeTeam": "Toronto FC",
+      "awayTeam": "DC United",
+      "match_time": "23:30",
+      "match_highlight": "Toronto FC must win home finale against injury-hit DC United.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490575,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Toronto's 87.5% home unbeaten record and DC's three-game slide while guarding against Toronto's 56.3% home draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.20 lambda expectancy and Toronto's failure to keep a clean sheet in all 16 home fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Toronto's pattern of single-goal home victories alongside their prevalent home draw tendencies."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary landing zone for a 2:1 home win, with two goals capturing the 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Aligns with Toronto's 76.5% second-half home goal share and DC United's 46.7% away halftime draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 11:41:24 UTC"
+}
