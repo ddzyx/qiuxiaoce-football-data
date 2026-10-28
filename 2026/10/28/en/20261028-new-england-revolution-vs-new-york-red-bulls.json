@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490573,
+    "matchup": "New England Revolution vs New York Red Bulls",
+    "home_team": "New England Revolution",
+    "away_team": "New York Red Bulls",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-28 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-new-england-revolution-vs-new-york-red-bulls/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New England Revolution vs New York Red Bulls Prediction: Transition Flaws & xG Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1490573",
+      "league": "Major League Soccer",
+      "matchup": "New England Revolution vs New York Red Bulls",
+      "matchTime": "2026-10-28 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "New England Revolution are projected to maintain their formidable Gillette Stadium form against a vulnerable New York Red Bulls backline, favoring a 2:1 home victory or a 1:1 draw.",
+    "possibilityAssessment": [
+      "New England Revolution Win / Draw double chance supported by 84.6% home unbeaten record and Carles Gil's playmaking (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by combined 3.42 xG expectancy and Red Bulls' 1.96 road xGA (Confidence: Moderate, Value: High)",
+      "2:1 Scoreline representing New England's superior home efficiency over New York's leaky defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490573",
+      "league": "Major League Soccer",
+      "homeTeam": "New England Revolution",
+      "awayTeam": "New York Red Bulls",
+      "match_time": "23:30",
+      "match_highlight": "Revs' 84.6% home unbeaten record clashes with Red Bulls' high-volume press.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490573,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers New England's dominant 9-2-2 home record while accounting for midfield vulnerability without Yusuf against New York's transition pace."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.42 xG expectancy, Red Bulls' 1.96 road xGA, and a 67.0% Both Teams to Score probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects New England's clinical edge at home; secondary 1:1 captures an intense pressing stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Primary 3 goals aligns with 2:1 scoreline; secondary 2 goals reflects a competitive 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win reflects New York's high early pressing intensity giving way to late fatigue; Draw-Draw represents sustained deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 11:35:46 UTC"
+}
