@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494315,
+    "matchup": "Degerfors IF vs Vasteras SK FK",
+    "home_team": "Degerfors IF",
+    "away_team": "Vasteras SK FK",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-degerfors-if-vs-vasteras-sk-fk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Degerfors IF vs Vasteras SK FK: Expected Goals, Relegation Pressure & Match Intelligence",
+    "meta": {
+      "matchId": "1494315",
+      "league": "Allsvenskan",
+      "matchup": "Degerfors IF vs Vasteras SK FK",
+      "matchTime": "2026-10-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vasteras SK FK hold the structural advantage against a depleted Degerfors defense, making Draw / Away Win the premier risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Vasteras SK FK capitalize on defensive depletion to claim victory (Confidence: Moderate, Value: Moderate)",
+      "Degerfors IF utilize low block and home desperation to secure a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transition play breaches defensive lines to generate Over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494315",
+      "league": "Allsvenskan",
+      "homeTeam": "Degerfors IF",
+      "awayTeam": "Vasteras SK FK",
+      "match_time": "18:00",
+      "match_highlight": "Depleted Degerfors face potent Vasteras road transition attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494315,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vasteras' superior transition efficiency alongside Degerfors' desperate home resistance in a relegation dogfight."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Aggregate lambda expectation of 2.65 and Degerfors' 1.60 goals conceded per match favor an open contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects the narrow one-goal away victory as primary script, with a 1:1 low-block stalemate as secondary hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the primary 1:2 (3 goals) and secondary 1:1 (2 goals) scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Degerfors' 50% home halftime draw rate leads into second-half breakdown or defensive holdout."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 06:03:46 UTC"
+}
