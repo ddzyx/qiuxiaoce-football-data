@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638558,
+    "matchup": "Bayern München vs 1. FC Magdeburg",
+    "home_team": "Bayern München",
+    "away_team": "1. FC Magdeburg",
+    "league": "DFB Pokal",
+    "kickoff_utc": "2026-10-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261028-bayern-m-nchen-vs-1-fc-magdeburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bayern München vs 1. FC Magdeburg Prediction: Kane's xG Threat Meets Underdog — Scoreline & Model Analysis",
+    "meta": {
+      "matchId": "1638558",
+      "league": "DFB Pokal",
+      "matchup": "Bayern München vs 1. FC Magdeburg",
+      "matchTime": "2026-10-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bayern München are projected to secure a regulation-time victory in an open, high-scoring cup tie exceeding 2.5 total goals.",
+    "possibilityAssessment": [
+      "Bayern München regulation victory with both teams scoring (Confidence: Moderate, Value: High)",
+      "Match Total Goals exceeding 2.5 with four total goals projected (Confidence: High, Value: Moderate)",
+      "Bayern leading at both half-time and full-time (Win-Win) (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638558",
+      "league": "DFB Pokal",
+      "homeTeam": "Bayern München",
+      "awayTeam": "1. FC Magdeburg",
+      "match_time": "19:45",
+      "match_highlight": "Kane leads depleted Bayern against high-scoring Magdeburg in DFB Pokal clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638558,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bayern München's overwhelming individual quality in the final third will prove decisive over 90 minutes despite defensive adjustments."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal volume of 4.00 and Bayern's recent concession streak strongly support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "A 3:1 home victory represents the optimal convergence of Bayern's attacking firepower and Magdeburg's counter-attacking threat."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four total goals leads the probability distribution at 19.5%, with three goals serving as the primary secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Bayern are expected to press aggressively for an early advantage, with Win-Win representing the most probable chronological progression."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:54:46 UTC"
+}
