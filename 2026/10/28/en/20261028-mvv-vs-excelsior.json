@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1641979,
+    "matchup": "MVV vs Excelsior",
+    "home_team": "MVV",
+    "away_team": "Excelsior",
+    "league": "KNVB Beker",
+    "kickoff_utc": "2026-10-28 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-mvv-vs-excelsior/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "MVV vs Excelsior Prediction & Match Analysis: Can Maastricht Contain Kralingers? — Scoreline Preview",
+    "meta": {
+      "matchId": "1641979",
+      "league": "KNVB Beker",
+      "matchup": "MVV vs Excelsior",
+      "matchTime": "2026-10-28 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Excelsior's top-tier transition quality provides the edge over MVV's porous backline within an open, high-scoring affair.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance covers Excelsior's class edge and regulation stalemate risk (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals aligns with combined 3.55 expectancy and leaky defenses (Confidence: High, Value: High)",
+      "1:2 and 2:2 scorelines represent the primary empirical convergence points (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1641979",
+      "league": "KNVB Beker",
+      "homeTeam": "MVV",
+      "awayTeam": "Excelsior",
+      "match_time": "19:00",
+      "match_highlight": "Eredivisie transition quality confronts MVV's porous defense in high-scoring clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1641979,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Excelsior's individual quality advantage alongside the live risk of a regulation draw given their defensive slump."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson combined expectancy of 3.55 goals and MVV's 2.30 conceded rate strongly indicate a high-scoring game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Excelsior edging the contest while 2:2 provides natural coverage for a chaotic cup stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals dominate the probability density given both teams' open defensive profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half preceded by Excelsior's late technical edge or an extended 90-minute deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 07:03:54 UTC"
+}
