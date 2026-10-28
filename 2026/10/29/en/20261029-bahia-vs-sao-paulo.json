@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492431,
+    "matchup": "Bahia vs Sao Paulo",
+    "home_team": "Bahia",
+    "away_team": "Sao Paulo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-29 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261029-bahia-vs-sao-paulo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bahia vs Sao Paulo Prediction & Match Analysis: Ceni's Press vs Depleted Visitors — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492431",
+      "league": "Serie A",
+      "matchup": "Bahia vs Sao Paulo",
+      "matchTime": "2026-10-29 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bahia's 80% home unbeaten record and São Paulo's crippling injury crisis favor the hosts, making Home Win / Draw the optimal probabilistic angle.",
+    "possibilityAssessment": [
+      "Bahia Win (2:1 / 2:0) via high-tempo flank pressure and set-piece efficiency (Confidence: Moderate, Value: High)",
+      "Low-Scoring Stalemate (1:1) should São Paulo's compact low block resist early pressure (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals capitalizing on Bahia's open defensive transitions and Kanu's suspension (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492431",
+      "league": "Serie A",
+      "homeTeam": "Bahia",
+      "awayTeam": "Sao Paulo",
+      "match_time": "00:30",
+      "match_highlight": "Ceni's high-pressing Esquadrão battles depleted São Paulo at Arena Fonte Nova.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492431,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bahia's dominant home winning trajectory (2:1) while retaining the stubborn stalemate (1:1) as an essential hedge against recent finishing variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined xG expectancy of 2.81 and defensive vulnerabilities created by Kanu's absence."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary Bahia victory by narrow margin alongside the high-density deadlock scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Directly aligned with the 2:1 primary and 1:1 secondary scoreline distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Represents Bahia's front-loaded scoring profile at home contrasted with São Paulo's ability to grind out low-tempo draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 12:40:31 UTC"
+}
