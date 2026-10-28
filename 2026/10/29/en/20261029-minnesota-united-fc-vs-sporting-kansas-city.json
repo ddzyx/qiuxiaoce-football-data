@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490579,
+    "matchup": "Minnesota United FC vs Sporting Kansas City",
+    "home_team": "Minnesota United FC",
+    "away_team": "Sporting Kansas City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-29 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261029-minnesota-united-fc-vs-sporting-kansas-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Minnesota United vs Sporting KC Prediction: Yeboah Meets Depleted SKC Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490579",
+      "league": "Major League Soccer",
+      "matchup": "Minnesota United FC vs Sporting Kansas City",
+      "matchTime": "2026-10-29 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Minnesota United FC to secure regulation victory at Allianz Field as their elite attack exploits Sporting Kansas City's decimated road defense.",
+    "possibilityAssessment": [
+      "Minnesota United FC to win in regulation behind Yeboah's finishing against a depleted backline (Confidence: Moderate, Value: High)",
+      "Total match goals exceeding 2.5 driven by combined 3.50 goal expectancy and porous defense (Confidence: High, Value: High)",
+      "Both teams finding the net in a high-tempo transition clash (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490579",
+      "league": "Major League Soccer",
+      "homeTeam": "Minnesota United FC",
+      "awayTeam": "Sporting Kansas City",
+      "match_time": "00:30",
+      "match_highlight": "Yeboah targets Kansas City's emergency backline missing four senior defenders",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490579,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Minnesota's superior attack (53.6 xG) should overpower a Kansas City side that has lost 12 of 14 road games and conceded 77 goals."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Elevated lambda total of 3.50 goals and Kansas City conceding 2.5 goals per away match support an open, high-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 scoreline represents the primary convergence of home box pressure and away transition threat, with 3:1 reflecting a defensive collapse."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals represents the median Poisson distribution density, with four goals serving as the primary high-variance alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Minnesota score 78.9% of their home goals in the second half, favoring a patient Draw-Win breakthrough over a wire-to-wire Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 12:36:58 UTC"
+}
