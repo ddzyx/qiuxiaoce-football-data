@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550173,
+    "matchup": "Parma vs Udinese",
+    "home_team": "Parma",
+    "away_team": "Udinese",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261028-parma-vs-udinese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Parma vs Udinese Prediction & Match Analysis: Relegation Clash & Low xG Woes — Scoreline Preview",
+    "meta": {
+      "matchId": "1550173",
+      "league": "Serie A",
+      "matchup": "Parma vs Udinese",
+      "matchTime": "2026-10-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Udinese's superior transition threat gives them the edge to avoid defeat against Parma's league-worst attack in an attrition-dominated clash.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance captures Udinese's transition advantage while hedging against their porous backline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with both teams' severe attacking limitations and conservative relegation stakes (Confidence: High, Value: Moderate)",
+      "Scoreless Draw (0:0) hedge against mutual offensive failure and psychological anxiety in the drop zone (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550173",
+      "league": "Serie A",
+      "homeTeam": "Parma",
+      "awayTeam": "Udinese",
+      "match_time": "17:30",
+      "match_highlight": "Relegation six-pointer featuring Serie A's least productive attack against a six-game skid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550173,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the clinical 0:1 away counter-attack and the cagey 1:1 relegation stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson expected goals baseline yields an 81.9% mathematical density for Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Parma's scoring impotence and Udinese's reliance on isolated transition moments."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One or two total goals represent the dominant probability clusters in low-possession scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A scoreless, risk-averse opening half precedes a tense second-half outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 05:33:49 UTC"
+}
