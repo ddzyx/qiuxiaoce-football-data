@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494317,
+    "matchup": "Halmstad vs Malmo FF",
+    "home_team": "Halmstad",
+    "away_team": "Malmo FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261028-halmstad-vs-malmo-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Halmstad vs Malmo FF Prediction & Match Analysis: Can Relegation-Bound Hosts Resist MFF Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494317",
+      "league": "Allsvenskan",
+      "matchup": "Halmstad vs Malmo FF",
+      "matchTime": "2026-10-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Malmö FF to assert class dominance and claim a regulation away victory against relegation-threatened Halmstad.",
+    "possibilityAssessment": [
+      "Malmö FF establish controlled territorial dominance to secure a 1:2 victory (Confidence: Moderate, Value: High)",
+      "Malmö FF produce a disciplined defensive performance to win 0:2 (Confidence: Moderate, Value: Moderate)",
+      "Halmstad snatch an early set-piece goal to hold a 1:1 stalemate (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494317",
+      "league": "Allsvenskan",
+      "homeTeam": "Halmstad",
+      "awayTeam": "Malmo FF",
+      "match_time": "18:00",
+      "match_highlight": "Malmo FF target eighth straight head-to-head triumph over bottom-placed Halmstad.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494317,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Malmö FF possess superior positional structure and defensive balance to exploit Halmstad's league-worst 2.14 xGA rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal parameter of 3.05 and Halmstad's defensive fragility favor an open three-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 Malmö victory reflects their habit of one-goal away wins, with 0:2 covering a clean-sheet display."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model probabilities peak at 3 goals (22.4%) and 2 goals (22.0%), combining for 44.4% of expected outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Halmstad's 63.6% home half-time draw rate pairs with Malmö's 66.7% second-half road win conversion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 06:06:19 UTC"
+}
