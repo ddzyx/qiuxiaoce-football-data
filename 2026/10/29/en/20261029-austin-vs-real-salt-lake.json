@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490580,
+    "matchup": "Austin vs Real Salt Lake",
+    "home_team": "Austin",
+    "away_team": "Real Salt Lake",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-29 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261029-austin-vs-real-salt-lake/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Austin vs Real Salt Lake: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490580",
+      "league": "Major League Soccer",
+      "matchup": "Austin vs Real Salt Lake",
+      "matchTime": "2026-10-29 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Austin's strong 71.4% home unbeaten record and RSL's severe road vulnerabilities make Austin Avoiding Defeat the optimal trajectory.",
+    "possibilityAssessment": [
+      "Austin Win or Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Full-Time Draw Stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490580",
+      "league": "Major League Soccer",
+      "homeTeam": "Austin",
+      "awayTeam": "Real Salt Lake",
+      "match_time": "00:30",
+      "match_highlight": "Austin capitalizes on RSL traveling woes and key midfield injuries at Q2.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490580,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Austin's 2:1 home victory and a 1:1 stalemate; a single call would overlook Austin's high 42.9% home draw tendency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda expectancy of 3.05 and RSL's 0% road clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Austin's attacking edge via Uzuni and Solans' scoring threat against a shaky home defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Captures the two highest-density totals from the Poisson scoring distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Austin's low first-half home goal share (30%) leads to a level interval before late game-state separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-28 12:40:08 UTC"
+}
