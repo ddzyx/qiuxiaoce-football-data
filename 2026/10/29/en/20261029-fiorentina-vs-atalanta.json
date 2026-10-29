@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550169,
+    "matchup": "Fiorentina vs Atalanta",
+    "home_team": "Fiorentina",
+    "away_team": "Atalanta",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-29 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261029-fiorentina-vs-atalanta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Fiorentina vs Atalanta: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1550169",
+      "league": "Serie A",
+      "matchup": "Fiorentina vs Atalanta",
+      "matchTime": "2026-10-29 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fiorentina are tactically positioned to exploit Atalanta's injury-depleted backline at Stadio Artemio Franchi, making Home Win / Draw the optimal probabilistic outcome.",
+    "possibilityAssessment": [
+      "Primary Thesis: Fiorentina double chance (Home Win / Draw) backed by Atalanta's severe defensive injury crisis and winless road record (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Total Goals fueled by a combined 3.50+ expected goals environment and Atalanta's 2.05 xGA per game (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Concrete scoreline 2:1 in favor of Fiorentina as late second-half transitions break Atalanta's fatigued structure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550169",
+      "league": "Serie A",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Atalanta",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Atalanta defense faces stern test at Stadio Artemio Franchi",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550169,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Fiorentina's superior underlying metrics and Atalanta's severe defensive injury crisis make the double chance the most resilient call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Atalanta's 2.05 conceded xGA per match and decimated backline collide with Fiorentina's active box entry rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory serves as the primary convergence point, with a 1:1 stalemate acting as the natural defensive deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads the probabilistic distribution, supported by a competitive 2-goal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected before second-half fatigue in Atalanta's depleted squad dictates the finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 07:52:38 UTC"
+}
