@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494320,
+    "matchup": "Orgryte IS vs Mjallby AIF",
+    "home_team": "Orgryte IS",
+    "away_team": "Mjallby AIF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-29 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261029-orgryte-is-vs-mjallby-aif/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Orgryte IS vs Mjallby AIF Prediction: Can Hosts Pierce Mjallby's Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494320",
+      "league": "Allsvenskan",
+      "matchup": "Orgryte IS vs Mjallby AIF",
+      "matchTime": "2026-10-29 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mjällby AIF's superior defensive floor and road resilience make Draw / Away Win the premier risk-adjusted call in an attritional, low-scoring battle.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance supported by Mjällby's 63.6% away unbeaten rate and Örgryte's defensive fragility (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reinforced by 76.0% Poisson probability density and key wide attacking absences (Confidence: High, Value: Moderate)",
+      "0:1 Primary Scoreline reflecting a tight, single-goal breakthrough game state controlled by Mjällby's low block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494320",
+      "league": "Allsvenskan",
+      "homeTeam": "Orgryte IS",
+      "awayTeam": "Mjallby AIF",
+      "match_time": "18:00",
+      "match_highlight": "Relegation desperation meets low-block resistance at Gamla Ullevi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494320,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 0:1 away victory and 1:1 stalemate scripts against Örgryte's leakiest defense in Allsvenskan."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both outfits suffer from key attacking injuries and boast combined low-scoring road and home tactical profiles."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 represents Mjällby's modal defensive grind, while 1:1 accounts for Örgryte's frequent home stalemates."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson matrix heavily concentrates 57.5% of probability density across exact counts of 1 and 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cagey opening halves at Gamla Ullevi routinely lead to level intervals before second-half attrition decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 06:03:35 UTC"
+}
