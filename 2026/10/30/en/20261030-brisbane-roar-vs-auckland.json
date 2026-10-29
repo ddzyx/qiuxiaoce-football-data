@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593692,
+    "matchup": "Brisbane Roar vs Auckland",
+    "home_team": "Brisbane Roar",
+    "away_team": "Auckland",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-30 09:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-brisbane-roar-vs-auckland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brisbane Roar vs Auckland Prediction: Can Roar Exploit Black Knights' Defense? — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1593692",
+      "league": "A-League",
+      "matchup": "Brisbane Roar vs Auckland",
+      "matchTime": "2026-10-30 09:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brisbane Roar to exploit Auckland's defensive crisis in a high-tempo contest, taking Home Win / Draw to cover the championship rebound threat.",
+    "possibilityAssessment": [
+      "Primary Thesis: Brisbane Roar capitalize on midfield control via Nam Tae-hee to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Secondary Scenario: Auckland deploy a resolute low-block to grind out a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Contingency Risk: Brisbane suffer late defensive fatigue allowing a high-volatility HT/FT Win-Draw reversal (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593692",
+      "league": "A-League",
+      "homeTeam": "Brisbane Roar",
+      "awayTeam": "Auckland",
+      "match_time": "09:00",
+      "match_highlight": "Roar midfield fluency tests Auckland's fragile backline at Suncorp.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593692,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Brisbane's 1.90 xG attacking form supports a 2:1 win, while Auckland's title-winning pedigree warrants 1:1 draw protection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Auckland's 6 goals conceded in two games combined with Brisbane's dynamic two-striker shape favors Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Brisbane's attacking edge (2:1) while guarding against Auckland's low-block rebound (1:1)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A three-goal outcome matches the primary 2:1 scoreline, with two goals covering the tight 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Auckland's 100% half-time draw rate precedes a second-half Brisbane surge or sustained stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 21:05:31 UTC"
+}
