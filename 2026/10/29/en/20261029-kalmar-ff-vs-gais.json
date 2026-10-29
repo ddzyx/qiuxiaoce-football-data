@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494319,
+    "matchup": "Kalmar FF vs Gais",
+    "home_team": "Kalmar FF",
+    "away_team": "Gais",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-10-29 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261029-kalmar-ff-vs-gais/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kalmar FF vs GAIS Prediction & Preview: Relegation Battle Meets GAIS Defense — Scoreline & xG Model",
+    "meta": {
+      "matchId": "1494319",
+      "league": "Allsvenskan",
+      "matchup": "Kalmar FF vs Gais",
+      "matchTime": "2026-10-29 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back GAIS to avoid defeat in a cagey, low-scoring affair at Guldfågeln Arena via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win core thesis anchored by GAIS defensive compactness (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 driven by Kalmar severe offensive conversion drought (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 representing the natural convergence point of both sides (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494319",
+      "league": "Allsvenskan",
+      "homeTeam": "Kalmar FF",
+      "awayTeam": "Gais",
+      "match_time": "18:00",
+      "match_highlight": "Relegation desperation meets GAIS resilient backline at Guldfågeln Arena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494319,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "GAIS boasts 10 clean sheets while Kalmar has failed to score in half their league games, making an outright home win statistically improbable while GAIS avoids defeat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.35 alongside Kalmar 0.9 goals per match output solidly favors Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate captures Kalmar home fighting spirit meeting GAIS counter resilience, while 0:1 covers an away shutout."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 and 1 goals reflect two offensively restricted setups with disciplined defensive blocks."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "GAIS scores 71.4% of away goals after the break, pointing toward a level first half before late resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 06:03:27 UTC"
+}
