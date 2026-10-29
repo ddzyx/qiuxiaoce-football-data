@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603076,
+    "matchup": "Al-Nassr vs Al Kholood",
+    "home_team": "Al-Nassr",
+    "away_team": "Al Kholood",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-29 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261029-al-nassr-vs-al-kholood/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Nassr vs Al Kholood Prediction & Match Analysis: Tactical Mismatch at Al-Awwal — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1603076",
+      "league": "Pro League",
+      "matchup": "Al-Nassr vs Al Kholood",
+      "matchTime": "2026-10-29 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Nassr are projected to secure a regulation home victory driven by an overwhelming disparity in defensive stability and chance creation.",
+    "possibilityAssessment": [
+      "Al-Nassr break down Al Kholood's low block in the second half to win comfortably (Confidence: Moderate, Value: High)",
+      "High-volume offensive pressure pushes total goals Over 2.5 (Confidence: Moderate, Value: Moderate)",
+      "Al-Nassr keep a controlled clean sheet in a routine 2:0 victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603076",
+      "league": "Pro League",
+      "homeTeam": "Al-Nassr",
+      "awayTeam": "Al Kholood",
+      "match_time": "18:00",
+      "match_highlight": "Al-Nassr host reeling Al Kholood seeking fifth straight victory.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603076,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Al-Nassr's flawless home record and elite 0.79 xGA easily overpower an opponent on a four-game losing run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Al Kholood's porous defense conceding 2.8 goals per game recently aligns with an empirical lambda of 3.30."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory serves as the primary matrix anchor, with a controlled 2:0 clean sheet as the alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Primary total of 3 goals reflects home attacking efficiency, while 2 goals represents a managed second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Al Kholood's 80% away first-half draw rate makes Draw-Win the leading script, ahead of an early Win-Win breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 06:03:01 UTC"
+}
