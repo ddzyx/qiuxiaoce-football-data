@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640385,
+    "matchup": "Everton vs Newcastle",
+    "home_team": "Everton",
+    "away_team": "Newcastle",
+    "league": "League Cup",
+    "kickoff_utc": "2026-10-29 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261029-everton-vs-newcastle/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Everton vs Newcastle Prediction & Match Analysis: Tactical Clash at Hill Dickinson — Scoreline Preview",
+    "meta": {
+      "matchId": "1640385",
+      "league": "League Cup",
+      "matchup": "Everton vs Newcastle",
+      "matchTime": "2026-10-29 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Everton to avoid defeat in regulation time against Newcastle via a Home Win / Draw selection, led by an opportunistic 2:1 victory.",
+    "possibilityAssessment": [
+      "Everton exploit Newcastle's defensive transition gaps to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Contested tactical stalemate produces a 1:1 regulation draw requiring penalty resolution (Confidence: Moderate, Value: Moderate)",
+      "Open second-half tempo drives total goals Over 2.5 as defensive fatigue sets in (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640385",
+      "league": "League Cup",
+      "homeTeam": "Everton",
+      "awayTeam": "Newcastle",
+      "match_time": "19:45",
+      "match_highlight": "Everton host Newcastle battling for a quarter-final clash against Fleetwood Town.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640385,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Everton's superior defensive foundation and home advantage provide resilience, while Newcastle's counter threat preserves a 1:1 stalemate script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.70 and Newcastle's 1.8 goals conceded per game support an active scoreline led by a 2:1 margin."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 Everton victory capitalizes on Newcastle's road vulnerabilities, with a 1:1 draw reflecting cup knockout caution."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring clusters tightly in the 2 to 3 goal range across both regulation outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, goalless first half precedes second-half adjustments, favoring Draw-Win primarily and Draw-Draw secondarily."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 07:53:24 UTC"
+}
