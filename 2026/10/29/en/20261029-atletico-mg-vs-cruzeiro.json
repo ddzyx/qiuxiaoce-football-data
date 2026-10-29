@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492430,
+    "matchup": "Atletico-MG vs Cruzeiro",
+    "home_team": "Atletico-MG",
+    "away_team": "Cruzeiro",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-29 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261029-atletico-mg-vs-cruzeiro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Atletico-MG vs Cruzeiro: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1492430",
+      "league": "Serie A",
+      "matchup": "Atletico-MG vs Cruzeiro",
+      "matchTime": "2026-10-29 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Atletico-MG to leverage their dominant Arena MRV home form and avoid defeat via Home Win / Draw against road-fragile Cruzeiro.",
+    "possibilityAssessment": [
+      "Atletico-MG secures a hard-fought 2:1 home victory by punishing Cruzeiro's leaky road transitions (Confidence: Moderate, Value: High)",
+      "Cruzeiro exploits Galo's defensive absences to forge a competitive 1:1 derby stalemate (Confidence: Moderate, Value: Moderate)",
+      "Depleted backlines on both sides push total scoring above 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492430",
+      "league": "Serie A",
+      "homeTeam": "Atletico-MG",
+      "awayTeam": "Cruzeiro",
+      "match_time": "22:30",
+      "match_highlight": "Galo defends Arena MRV fortress amidst key defensive absences in Clássico Mineiro.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492430,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Combines Atletico-MG's 92.9% home unbeaten record with draw coverage necessitated by goalkeeping and defensive absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both defenses enter with critical missing starters while attacks average over 1.4 goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 Galo victory represents the primary tactical convergence, backed by a 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with an open 2:1 outcome, while two goals captures the 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tense first-half derby stalemate opens up in the second half favoring Galo's home pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 10:33:23 UTC"
+}
