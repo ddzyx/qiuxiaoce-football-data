@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492439,
+    "matchup": "Vasco DA Gama vs Flamengo",
+    "home_team": "Vasco DA Gama",
+    "away_team": "Flamengo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-29 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261029-vasco-da-gama-vs-flamengo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vasco da Gama vs Flamengo Prediction: Can Mengão Break Derby Deadlock? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492439",
+      "league": "Serie A",
+      "matchup": "Vasco DA Gama vs Flamengo",
+      "matchTime": "2026-10-29 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as the primary strategic foundation, combining match scripts that account for Flamengo's title quality while insulating against Vasco's proven derby resilience.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory capitalizing on Flamengo's superior attack and title urgency while acknowledging Vasco's 71.4% home unbeaten record (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a combined 3.40 season xG baseline and defensive absences on both sides (Confidence: Moderate, Value: Moderate)",
+      "Vasco da Gama to Score First / Second-Half Stalemate hedge exploiting home counter-attacking efficiency (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492439",
+      "league": "Serie A",
+      "homeTeam": "Vasco DA Gama",
+      "awayTeam": "Flamengo",
+      "match_time": "23:00",
+      "match_highlight": "Flamengo seek title momentum against resilient derby rivals Vasco.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492439,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Flamengo's 2.0 goals per game and title incentive provide the winning edge, while Vasco's 71.4% home unbeaten rate justifies draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined seasonal xG of 3.40 and Vasco's low 14.3% clean-sheet rate strongly favor an open, goal-rich contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 away victory represents superior finishing depth, while 1:1 covers the classic Rio derby tactical stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serves as the primary expectation reflecting recent 3:2 matches, with two goals offering natural deadlock protection."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first-half derby dynamics favor a level score at the interval before Flamengo's depth pushes for second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-29 11:03:35 UTC"
+}
