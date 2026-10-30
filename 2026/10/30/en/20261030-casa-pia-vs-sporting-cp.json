@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575531,
+    "matchup": "Casa Pia vs Sporting CP",
+    "home_team": "Casa Pia",
+    "away_team": "Sporting CP",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-30 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261030-casa-pia-vs-sporting-cp/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Casa Pia vs Sporting CP Prediction & Match Analysis: Can Geese Contain Lions' Box Threat? — xG Preview",
+    "meta": {
+      "matchId": "1575531",
+      "league": "Primeira Liga",
+      "matchup": "Casa Pia vs Sporting CP",
+      "matchTime": "2026-10-30 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sporting CP's overwhelming expected-goal supremacy and Casa Pia's four straight home defeats point toward a controlled away victory.",
+    "possibilityAssessment": [
+      "Sporting CP regulation away victory built on dominant possession and defensive containment (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by Casa Pia's severe home scoring drought (Confidence: Moderate, Value: Moderate)",
+      "Defensive stalemate draw if Casa Pia's low block holds unbroken for 90 minutes (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575531",
+      "league": "Primeira Liga",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "Sporting CP",
+      "match_time": "20:15",
+      "match_highlight": "Lions eye top spot against struggling hosts",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575531,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Sporting CP commands an insurmountable 1.96 to 0.93 xG advantage against a Casa Pia side that has lost all four home matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Casa Pia averages only 0.60 goals per match and has failed to score in 75% of home fixtures, heavily suppressing the goal total."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Sporting's controlled game-state management and clean-sheet probability make 0:2 and 0:1 the most probable convergence points."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model goal distributions peak at 2 goals (24.4%) and 1 goal (17.9%), perfectly aligning with an away shutout victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Casa Pia routinely holds parity until halftime before conceding to Sporting's superior second-half depth and pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 08:22:06 UTC"
+}
