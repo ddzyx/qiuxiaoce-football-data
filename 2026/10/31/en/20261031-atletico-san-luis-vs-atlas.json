@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551020,
+    "matchup": "Atletico San Luis vs Atlas",
+    "home_team": "Atletico San Luis",
+    "away_team": "Atlas",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-31 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-atletico-san-luis-vs-atlas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico San Luis vs Atlas Prediction & Match Analysis: Can Rojinegro Road Form Overcome Defensive Leaks? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551020",
+      "league": "Liga MX",
+      "matchup": "Atletico San Luis vs Atlas",
+      "matchTime": "2026-10-31 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atlas's lethal road transition offense provides the primary winning vector, but defensive volatility necessitates Draw coverage in a high-tempo Over 2.5 environment.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory powered by Atlas's 83.3% away win rate and San Luis's steady home floor (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals driven by an aggregate 3.29 goal expectancy and Atlas's 1.86 goals conceded per match (Confidence: High, Value: High)",
+      "A competitive 2:2 scoreline hedge reflecting Atlas's late defensive fatigue and San Luis's second-half scoring capacity (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551020",
+      "league": "Liga MX",
+      "homeTeam": "Atletico San Luis",
+      "awayTeam": "Atlas",
+      "match_time": "01:00",
+      "match_highlight": "Atlas road counter meets San Luis midfield control in high-stakes Apertura clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551020,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Atlas possesses superior transition firepower having won five of six away matches, but their 26 conceded goals make Draw coverage essential against an unbeaten San Luis side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda expectancy of 3.29 goals and Atlas's average of 3.65 total goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A 1:2 Atlas victory reflects away counter-attacking superiority, while 2:2 captures the secondary game state where defensive concessions force a shared spoils finish."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals represents the primary convergence point of both attacks, with four goals serving as the volatile high-tempo secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "San Luis's 85.7% home halftime draw rate supports an opening 45-minute deadlock before Atlas's late transition pace decides the final result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 13:08:20 UTC"
+}
