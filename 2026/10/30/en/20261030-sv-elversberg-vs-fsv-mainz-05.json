@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575211,
+    "matchup": "SV Elversberg vs FSV Mainz 05",
+    "home_team": "SV Elversberg",
+    "away_team": "FSV Mainz 05",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-30 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261030-sv-elversberg-vs-fsv-mainz-05/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling SV Elversberg vs FSV Mainz 05: Expected Goals, High-Line Vulnerabilities & Tactical Preview",
+    "meta": {
+      "matchId": "1575211",
+      "league": "Bundesliga",
+      "matchup": "SV Elversberg vs FSV Mainz 05",
+      "matchTime": "2026-10-30 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FSV Mainz 05 are projected to exploit SV Elversberg's league-worst 2.29 xGA defensive line to secure a high-scoring away victory.",
+    "possibilityAssessment": [
+      "FSV Mainz 05 away victory driven by transitional speed against Elversberg's high defensive line (Confidence: Moderate, Value: High)",
+      "High-scoring Over 2.5 game script supported by a combined 3.815 Poisson goal expectancy (Confidence: High, Value: Moderate)",
+      "Competitive 2:2 draw contingency if Elversberg sustain their clinical home finishing conversion (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575211",
+      "league": "Bundesliga",
+      "homeTeam": "SV Elversberg",
+      "awayTeam": "FSV Mainz 05",
+      "match_time": "19:30",
+      "match_highlight": "Mainz's transition pace confronts Elversberg's porous high-line defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575211,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Mainz's flawless 3-0-0 away form and superior transition xG will overwhelm Elversberg's league-worst defensive baseline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal parameter of 3.815 strongly supports a minimum three-goal match trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Primary scoreline 1:2 represents the natural convergence of Elversberg home scoring and Mainz counter-attacking potency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson density peaks at 3 goals (20.4%) with 4 goals (19.5%) providing direct script coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Primary Draw-Loss reflects a competitive opening half before Mainz's transition depth decides the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:34:27 UTC"
+}
