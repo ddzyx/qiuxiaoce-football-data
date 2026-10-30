@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593695,
+    "matchup": "Macarthur vs Western Sydney Wanderers",
+    "home_team": "Macarthur",
+    "away_team": "Western Sydney Wanderers",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-31 08:40:00",
+    "source_url": "https://xgmind.com/matches/20261031-macarthur-vs-western-sydney-wanderers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Macarthur vs Western Sydney Wanderers Prediction & Match Analysis: Can Bulls Contain Talay's High-Flying Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593695",
+      "league": "A-League",
+      "matchup": "Macarthur vs Western Sydney Wanderers",
+      "matchTime": "2026-10-31 08:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Western Sydney Wanderers hold the superior attacking profile, making Draw / Away Win the premier risk-adjusted projection led by a 1:2 scoreline.",
+    "possibilityAssessment": [
+      "Western Sydney breakthrough in second half yielding a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Macarthur defensive resilience holding firm for a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transition contest escalating into an over 2.5 goal encounter (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593695",
+      "league": "A-League",
+      "homeTeam": "Macarthur",
+      "awayTeam": "Western Sydney Wanderers",
+      "match_time": "08:40",
+      "match_highlight": "Wanderers attacking fluency tests Macarthur defensive resilience in Campbelltown derby",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593695,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Western Sydney's decisive 1:2 victory alongside Macarthur's resilient 1:1 home stalemate script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined season metrics averaging 2.95 xG and 4.0 actual goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 away win leads model density with 1:1 acting as the primary defensive hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects primary 1:2 conversion, with two goals capturing the 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Loss represents level opening half before Wanderers accelerate late, while Draw-Draw covers the stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 20:42:53 UTC"
+}
