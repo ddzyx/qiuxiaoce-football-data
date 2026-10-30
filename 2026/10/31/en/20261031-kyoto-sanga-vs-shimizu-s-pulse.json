@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556124,
+    "matchup": "Kyoto Sanga vs Shimizu S-pulse",
+    "home_team": "Kyoto Sanga",
+    "away_team": "Shimizu S-pulse",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-31 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-kyoto-sanga-vs-shimizu-s-pulse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kyoto Sanga vs Shimizu S-Pulse Prediction: Can Popovic's High Press Penetrate? — Scoreline & xG Breakdown",
+    "meta": {
+      "matchId": "1556124",
+      "league": "J1 League",
+      "matchup": "Kyoto Sanga vs Shimizu S-pulse",
+      "matchTime": "2026-10-31 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kyoto Sanga avoid defeat in a competitive encounter converging on a 1:1 stalemate or narrow 2:1 home win.",
+    "possibilityAssessment": [
+      "Stalemate thesis leading with 1:1 deadlock as both sides trade transition goals (Confidence: Moderate, Value: Moderate)",
+      "Home victory thesis via 2:1 scoreline as Kyoto exploit Shimizu's fragile backline (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring defensive hedge favoring Under 2.5 goals in a cautious relegation clash (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556124",
+      "league": "J1 League",
+      "homeTeam": "Kyoto Sanga",
+      "awayTeam": "Shimizu S-pulse",
+      "match_time": "05:00",
+      "match_highlight": "Bottom-half tactical clash as Popovic's press meets Shimizu's transition block",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556124,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and the secondary 2:1 home victory; a single call would overlook Shimizu's road persistence and Kyoto's high draw rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Shimizu's low goal output of 0.80 per game curbs match totals, aligning with the primary 1:1 scoreline."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 draw represents the highest-density Poisson convergence, while 2:1 reflects Kyoto's offensive ceiling."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal outcome of a 1:1 draw, while three goals covers the 2:1 home branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides post a 50% half-time draw rate, leading to level first-half play before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 17:04:23 UTC"
+}
