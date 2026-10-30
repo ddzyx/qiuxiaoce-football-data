@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552521,
+    "matchup": "Rodez vs Dunkerque",
+    "home_team": "Rodez",
+    "away_team": "Dunkerque",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-rodez-vs-dunkerque/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rodez vs Dunkerque Prediction & Match Analysis: Defensive Vulnerabilities & xG Projections — Scoreline Preview",
+    "meta": {
+      "matchId": "1552521",
+      "league": "Ligue 2",
+      "matchup": "Rodez vs Dunkerque",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back USL Dunkerque on the double-chance spectrum (Draw / Away Win) as their structural discipline capitalizes on Rodez's porous defensive spine.",
+    "possibilityAssessment": [
+      "Dunkerque avoids defeat via structured transition control (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals materialized through porous backlines (Confidence: Moderate, Value: Moderate)",
+      "Scoreline deadlock at 1:1 continuing recent head-to-head precedent (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552521",
+      "league": "Ligue 2",
+      "homeTeam": "Rodez",
+      "awayTeam": "Dunkerque",
+      "match_time": "19:00",
+      "match_highlight": "Dunkerque transition attack challenges Rodez porous defensive backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552521,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Dunkerque's 60% unbeaten rate and superior 1.67 xGA defense provide the edge over Rodez's league-worst 2.20 goals conceded per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Neither side has kept a clean sheet this season while combined xG metrics indicate an open, multi-goal environment."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Dunkerque road triumph represents the primary transition script, with 1:1 serving as the proven historical stalemate hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A three-goal outcome represents the single highest Poisson density (22.3%), followed closely by a two-goal stalemate (20.9%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half gives way to Dunkerque's superior second-half counter-attacking efficiency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:09:06 UTC"
+}
