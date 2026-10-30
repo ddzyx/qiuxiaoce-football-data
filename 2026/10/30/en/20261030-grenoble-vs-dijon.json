@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552514,
+    "matchup": "Grenoble vs Dijon",
+    "home_team": "Grenoble",
+    "away_team": "Dijon",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-grenoble-vs-dijon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grenoble vs Dijon Prediction & Match Analysis: Can Frapolli's Low Block Stem DFCO's Firepower? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552514",
+      "league": "Ligue 2",
+      "matchup": "Grenoble vs Dijon",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dijon's superior chance creation (1.77 xG/match) edges a vulnerable Grenoble side, with defensive fragility warranting draw coverage.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Dijon controls territory and edges transition battle while draw covers defensive lapses (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals: Dijon's 3.50 match goal average and zero clean sheets drive high-tempo scoring (Confidence: Moderate, Value: High)",
+      "Grenoble First-Half Resistance: Hosts lean on 66.7% first-half scoring share before late fade (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552514",
+      "league": "Ligue 2",
+      "homeTeam": "Grenoble",
+      "awayTeam": "Dijon",
+      "match_time": "19:00",
+      "match_highlight": "Dijon's high-powered attack faces Grenoble's desperate low block at Stade des Alpes.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552514,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Dijon possess twice the expected goal output of winless-at-home Grenoble, but DFCO's zero clean sheets necessitate draw inclusion."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Dijon concede 2.00 xGA per match and have cleared 2.5 goals in five consecutive competitive fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 road victory serves as the primary convergence point, with 1:1 acting as the structured low-block hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the leading expectation in a clash featuring two vulnerable defensive units."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Grenoble's 75% home halftime draw rate leads into Dijon's proven second-half scoring acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:05:54 UTC"
+}
