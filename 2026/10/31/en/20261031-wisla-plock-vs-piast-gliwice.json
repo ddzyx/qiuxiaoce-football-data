@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553216,
+    "matchup": "Wisla Plock vs Piast Gliwice",
+    "home_team": "Wisla Plock",
+    "away_team": "Piast Gliwice",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-31 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261031-wisla-plock-vs-piast-gliwice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wisla Plock vs Piast Gliwice Prediction & Match Analysis: Can Plock Exploit Piast's 2.11 xGA Fragility? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1553216",
+      "league": "Ekstraklasa",
+      "matchup": "Wisla Plock vs Piast Gliwice",
+      "matchTime": "2026-10-31 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wisla Plock are projected to exploit Piast Gliwice's severe defensive vulnerabilities (2.11 xGA per match) to secure a positive result at home via a Home Win or Draw.",
+    "possibilityAssessment": [
+      "Wisla Plock capitalize on Piast's porous backline to claim a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Piast Gliwice's clinical finishing forces a hard-fought 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "A high-tempo exchange sees both sides trading goals, favoring Over 2.5 match goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553216",
+      "league": "Ekstraklasa",
+      "homeTeam": "Wisla Plock",
+      "awayTeam": "Piast Gliwice",
+      "match_time": "11:15",
+      "match_highlight": "Plock target Piast's leaky 2.11 xGA defense at Orlen Stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553216,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Wisla Plock's strong 75% home unbeaten record and Piast's alarming 2.11 xGA concession rate make a home win or stalemate the primary probabilistic path."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Piast Gliwice's combined 3.33 match goal average and fragile backline strongly elevate the probability of an open contest reaching at least three goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Wisla Plock's home attacking threat against Piast's porous defense, balanced by Piast's transition scoring punch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The independent Poisson model and defensive metrics point toward a tightly contested 2 to 3-goal cluster."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Piast's 80% first-half away draw rate points to a level opening before Plock exert second-half home pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 23:52:33 UTC"
+}
