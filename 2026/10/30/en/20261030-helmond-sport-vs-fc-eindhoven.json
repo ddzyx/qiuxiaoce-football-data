@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551859,
+    "matchup": "Helmond Sport vs FC Eindhoven",
+    "home_team": "Helmond Sport",
+    "away_team": "FC Eindhoven",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-helmond-sport-vs-fc-eindhoven/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Helmond Sport vs FC Eindhoven Prediction: Brabant Derby Defensive Breakdown — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1551859",
+      "league": "Eerste Divisie",
+      "matchup": "Helmond Sport vs FC Eindhoven",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Helmond Sport's resilient home record (83.3% unbeaten) combined with FC Eindhoven's road struggles (60% loss rate) points to the hosts avoiding defeat in an open, high-scoring Brabant derby.",
+    "possibilityAssessment": [
+      "Helmond Sport early control and direct transition dominance produces a narrow home victory (Confidence: Moderate, Value: High)",
+      "High aggregate scoring rates and defensive leakiness yield a volatile 2:2 deadlock (Confidence: Moderate, Value: High)",
+      "Both porous backlines combine to clear Over 2.5 goals comfortably (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551859",
+      "league": "Eerste Divisie",
+      "homeTeam": "Helmond Sport",
+      "awayTeam": "FC Eindhoven",
+      "match_time": "19:00",
+      "match_highlight": "Brabant derby clashes feature two backlines conceding over two goals per match.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551859,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Helmond Sport hold an 83.3% home unbeaten rate against an Eindhoven side that has lost 60% of away matches, with the double chance covering both a 2:1 home win and a 2:2 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.0 goals conceded per match with zero clean sheets for the hosts, supporting an aggregate goal expectancy of 3.65."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 home victory reflects baseline home scoring output, while 2:2 accounts for Helmond Sport's chronic 50% lead-not-won rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Total goal density peaks at 3 goals (21.1%) and 4 goals (19.2%) across the independent Poisson simulation."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Helmond score 60% of their goals before the break against an Eindhoven side that has trailed at half-time in 60% of away matches."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:03:37 UTC"
+}
