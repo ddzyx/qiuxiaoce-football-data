@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1551862,
+    "matchup": "Waalwijk vs Almere City FC",
+    "home_team": "Waalwijk",
+    "away_team": "Almere City FC",
+    "league": null,
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-waalwijk-vs-almere-city-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Eerste Divisie",
+      "matchId": "1551862",
+      "matchup": "Waalwijk vs Almere City FC",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Waalwijk vs Almere City FC Prediction & Match Analysis: Mandemakers Stalemate or Road Breakthrough? — Scoreline Preview",
+    "coreRecommendation": "Waalwijk's resilient home draw profile (W2 D4 L0) collides with Almere City's superior attacking firepower, making a composite Draw / Away Win the premier risk-adjusted position.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Almere draw at half-time in 83.3% of away fixtures, leading to either an unbroken stalemate or a late away winner.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Waalwijk's dominant home stalemate trend alongside Almere City's second-half transition breakthrough against fatigued legs.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Two goals represent the primary 1:1 distribution peak, followed by three goals via a late deciding strike.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "1:1 reflects Waalwijk's persistent draw pattern, with 1:2 serving as the logical hedge should home fatigue take a late toll.",
+        "selection": [
+          "1:1",
+          "1:2"
+        ]
+      },
+      "league": "Eerste Divisie",
+      "matchId": "1551862",
+      "awayTeam": "Almere City FC",
+      "homeTeam": "Waalwijk",
+      "fixtureId": 1551862,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "Almere concede only 1.0 goal per game while Waalwijk's home fixtures consistently produce low-tempo 1:1 stalemates.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Unbeaten home fortress faces fresh promotion-chasing attack after cup marathon"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance posture capturing Waalwijk's home stalemate baseline and Almere's second-half transition threat (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by Waalwijk's compact mid-block structure and Almere's conservative away first-half posture (Confidence: Moderate, Value: High)",
+      "Primary exact scoreline 1:1 representing the natural convergence point of both sides' scoring metrics (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-2",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-30 21:25:11 UTC"
+  }
+}
