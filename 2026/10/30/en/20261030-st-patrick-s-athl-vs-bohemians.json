@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492795,
+    "matchup": "St Patrick's Athl. vs Bohemians",
+    "home_team": "St Patrick's Athl.",
+    "away_team": "Bohemians",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-10-30 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261030-st-patrick-s-athl-vs-bohemians/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St Patrick's Athl. vs Bohemians Prediction & Match Analysis: Battle for Europe — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492795",
+      "league": "Premier Division",
+      "matchup": "St Patrick's Athl. vs Bohemians",
+      "matchTime": "2026-10-30 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back St Patrick's Athletic on the double chance (Home Win / Draw) in a high-stakes Dublin derby where their elite home defense provides a dominant structural floor.",
+    "possibilityAssessment": [
+      "St Patrick's Athletic secure a hard-fought 2:1 home victory by exploiting Bohemians' weakened midfield (Confidence: Moderate, Value: High)",
+      "Bohemians successfully absorb home pressure to secure the 1:1 draw required for runners-up status (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals lands as late-game desperation forces an expansive tactical environment (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492795",
+      "league": "Premier Division",
+      "homeTeam": "St Patrick's Athl.",
+      "awayTeam": "Bohemians",
+      "match_time": "19:45",
+      "match_highlight": "Dublin derby showdown for second place and European qualification seeding.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492795,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers St Patrick's superior home defensive floor alongside Bohemians' strong tactical incentive to protect a draw for second place."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined xG parameters of 3.27 and inevitable late-game space expansion once either side breaks the deadlock."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:1 home victory script and the alternative 1:1 stalemate where Bohemians successfully defend their single-point cushion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Captures the top two mathematical densities from bivariate Poisson modeling under active game-state shifts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a disciplined, level first half before St Patrick's second-half push determines whether they snatch the win or share the spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:53:13 UTC"
+}
