@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556127,
+    "matchup": "Fagiano Okayama vs FC Tokyo",
+    "home_team": "Fagiano Okayama",
+    "away_team": "FC Tokyo",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-31 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-fagiano-okayama-vs-fc-tokyo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fagiano Okayama vs FC Tokyo Prediction & Match Analysis: Can Okayama Break Tokyo's Elite Backline? — xG Preview",
+    "meta": {
+      "matchId": "1556127",
+      "league": "J1 League",
+      "matchup": "Fagiano Okayama vs FC Tokyo",
+      "matchTime": "2026-10-31 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Tokyo to secure maximum points in regulation time behind an elite defensive process and superior second-half attacking firepower.",
+    "possibilityAssessment": [
+      "FC Tokyo Outright Away Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Match Goals (Confidence: Moderate, Value: Moderate)",
+      "FC Tokyo Win to Nil / Scoreline 0:2 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556127",
+      "league": "J1 League",
+      "homeTeam": "Fagiano Okayama",
+      "awayTeam": "FC Tokyo",
+      "match_time": "05:00",
+      "match_highlight": "Tokyo's 75% clean-sheet defense faces Okayama's depleted central backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556127,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "FC Tokyo's +12.2 xG process advantage and unbeaten away form outweigh Okayama's modest direct counter-threat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Tokyo's 75% clean-sheet frequency and 0.70 conceded goals per match strongly support a controlled, low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A disciplined 0:2 road win represents the primary convergence point, with 1:2 covering an opportunistic home set-piece goal."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution peaks at exactly 2 total goals, with 3 goals representing the open-game secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Okayama's 83.3% home HT draw rate pairs with Tokyo's 74.1% second-half scoring concentration to favor Draw-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 17:07:18 UTC"
+}
