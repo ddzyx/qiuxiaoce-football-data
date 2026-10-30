@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552518,
+    "matchup": "Nantes vs Clermont Foot",
+    "home_team": "Nantes",
+    "away_team": "Clermont Foot",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-nantes-vs-clermont-foot/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nantes vs Clermont Foot Prediction: Robinet Absence Tests Beaujoire Edge — xG & Scoreline Breakdown",
+    "meta": {
+      "matchId": "1552518",
+      "league": "Ligue 2",
+      "matchup": "Nantes vs Clermont Foot",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nantes' superior underlying metrics give them the edge at home, but Clermont's seven draws make Home Win or Draw with Under 2.5 goals the optimal risk-managed play.",
+    "possibilityAssessment": [
+      "Nantes edge a low-scoring victory through superior territorial chance creation despite Robinet's injury (Confidence: Moderate, Value: High)",
+      "Clermont Foot enforce their trademark defensive deadlock to secure another road stalemate (Confidence: Moderate, Value: Moderate)",
+      "A tight defensive attrition battle keeps total match scoring under 2.5 goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552518",
+      "league": "Ligue 2",
+      "homeTeam": "Nantes",
+      "awayTeam": "Clermont Foot",
+      "match_time": "19:00",
+      "match_highlight": "Robinet hamstring injury tests Nantes against Ligue 2 deadlock specialists Clermont Foot.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552518,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Nantes hold a substantial underlying xG advantage, but Clermont's seven draws in ten games necessitate covering the deadlock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average under 1.2 goals scored per match, making a low-scoring encounter highly probable."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A controlled 1:0 Nantes victory represents the modal model outcome, with a 1:1 stalemate covering Clermont's persistent deadlock form."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Total goals distribution peaks at 2 goals (26.0%) followed closely by 1 goal (21.4%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half points to a level interval, after which Nantes possess the superior quality to edge a win or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:08:42 UTC"
+}
