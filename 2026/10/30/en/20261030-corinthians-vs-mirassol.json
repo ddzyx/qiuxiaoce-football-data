@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492433,
+    "matchup": "Corinthians vs Mirassol",
+    "home_team": "Corinthians",
+    "away_team": "Mirassol",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-30 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-corinthians-vs-mirassol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Corinthians vs Mirassol Prediction & Match Analysis: Relegation Six-Pointer — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492433",
+      "league": "Serie A",
+      "matchup": "Corinthians vs Mirassol",
+      "matchTime": "2026-10-30 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Corinthians' home resilience and Mirassol's zero-percent away clean-sheet vulnerability support a Home Win or Draw outcome, led by a 1:1 scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance captures the dominant 1:1 stalemate alongside a narrow 2:1 home breakthrough (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with attacking absences and high relegation caution across both camps (Confidence: Moderate, Value: High)",
+      "Primary scoreline convergence at 1:1 reflects Mirassol's leaky road backline meeting Corinthians' blunt attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492433",
+      "league": "Serie A",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Mirassol",
+      "match_time": "23:00",
+      "match_highlight": "High-stakes relegation six-pointer at Neo Química Arena",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492433,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:1 draw script and Corinthians' home desperation victory while excluding a Mirassol road win due to their 14.3% away win rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 holds a 54.7% model density supported by Memphis Depay's absence and conservative relegation pacing."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Primary 1:1 modal density node paired with a secondary 2:1 home triumph."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Primary 2-goal count reflects the modal 1:1 baseline, with 3 goals accounting for a late winner."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious opening halves produce a level interval score before second-half fatigue dictates the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 11:06:30 UTC"
+}
