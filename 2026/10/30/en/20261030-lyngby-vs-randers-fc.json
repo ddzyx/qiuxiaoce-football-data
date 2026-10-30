@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549047,
+    "matchup": "Lyngby vs Randers FC",
+    "home_team": "Lyngby",
+    "away_team": "Randers FC",
+    "league": "Superliga",
+    "kickoff_utc": "2026-10-30 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-lyngby-vs-randers-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lyngby vs Randers FC Prediction & Match Analysis: Can Colyn Exploit Randers' Depleted Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1549047",
+      "league": "Superliga",
+      "matchup": "Lyngby vs Randers FC",
+      "matchTime": "2026-10-30 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lyngby's superior chance creation and 83.3% home unbeaten record will exploit Randers' decimated defense to secure points via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Primary: Home Win / Draw as Lyngby leverages superior xG against a depleted away backline (Confidence: Moderate, Value: High)",
+      "Secondary: Over 2.5 Goals driven by Lyngby's defensive porosity and Randers' makeshift defense (Confidence: Moderate, Value: High)",
+      "Contingency: 1:1 Draw reflecting Lyngby's chronic big-chance waste and home draw habit (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549047",
+      "league": "Superliga",
+      "homeTeam": "Lyngby",
+      "awayTeam": "Randers FC",
+      "match_time": "18:00",
+      "match_highlight": "Simon Colyn tests Randers' decimated central defense at Lyngby Stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549047,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Lyngby's attacking superiority and Randers' defensive absences while safeguarding against Lyngby's high draw frequency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Lyngby's average of 2.3 conceded goals per game and Randers' makeshift defensive pairings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Balances Lyngby's high 1.66 xG volume with their defensive fragility and frequent home stalemates."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Represents the two highest Poisson density clusters across open transitions and defensive errors."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight, compact opening half before second-half defensive fatigue opens up scoring lanes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 06:06:21 UTC"
+}
