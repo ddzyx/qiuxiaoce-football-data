@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510483,
+    "matchup": "Gyeongnam FC vs Hwaseong",
+    "home_team": "Gyeongnam FC",
+    "away_team": "Hwaseong",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-31 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-gyeongnam-fc-vs-hwaseong/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gyeongnam FC vs Hwaseong Prediction: Can Changwon Defense Contain Pllana? — Scoreline & Tactical Preview",
+    "meta": {
+      "matchId": "1510483",
+      "league": "K League 2",
+      "matchup": "Gyeongnam FC vs Hwaseong",
+      "matchTime": "2026-10-31 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gyeongnam's 71.4% home unbeaten resilience balances Hwaseong's superior playoff firepower, pointing toward a low-scoring stalemate or narrow visitor edge in Draw / Away Win.",
+    "possibilityAssessment": [
+      "Tactical stalemate with Gyeongnam's middle block containing Hwaseong's wide runners into a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Hwaseong's offensive quality extracts a professional 0:1 road victory via Leonard Pllana (Confidence: Moderate, Value: Moderate)",
+      "Gyeongnam low-block shut-out restricts the game to an attritional 0:0 deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510483",
+      "league": "K League 2",
+      "homeTeam": "Gyeongnam FC",
+      "awayTeam": "Hwaseong",
+      "match_time": "05:00",
+      "match_highlight": "Changwon fortress defense tests Hwaseong's promotion playoff ambitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510483,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-density 1:1 stalemate and Hwaseong's individual quality edge to claim a narrow 0:1 road victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 55.6% Poisson density and Gyeongnam's low-scoring home game states solidly favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "The 1:1 draw represents the modal convergence point, with 0:1 providing the most credible alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture the top two probability outcomes in low-margin K League 2 clashes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Gyeongnam draw 57.1% of first halves at home, leading either to prolonged parity or a second-half away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 17:04:14 UTC"
+}
