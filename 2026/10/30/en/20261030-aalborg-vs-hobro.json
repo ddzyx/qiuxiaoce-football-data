@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551365,
+    "matchup": "Aalborg vs Hobro",
+    "home_team": "Aalborg",
+    "away_team": "Hobro",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-30 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-aalborg-vs-hobro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aalborg vs Hobro Prediction & Match Analysis: Northern Jutland Derby Stalemate — Scoreline & Goal Projections",
+    "meta": {
+      "matchId": "1551365",
+      "league": "1. Division",
+      "matchup": "Aalborg vs Hobro",
+      "matchTime": "2026-10-30 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aalborg's territorial superiority and Hobro's porous away defense favor the hosts, but persistent derby resilience points to Home Win / Draw as the optimal stance.",
+    "possibilityAssessment": [
+      "Aalborg break their winless streak with a hard-fought 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "Hobro capitalize on second-half defensive complacency to force a 1:1 derby draw (Confidence: Moderate, Value: Moderate)",
+      "High defensive transition volatility leads to an open encounter exceeding 2.5 total goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551365",
+      "league": "1. Division",
+      "homeTeam": "Aalborg",
+      "awayTeam": "Hobro",
+      "match_time": "18:00",
+      "match_highlight": "Northern Jutland derby pits AaB possession against Hobro vertical transitions",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551365,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Aalborg's territorial edge to win 2:1 alongside their high seasonal draw frequency against a stubborn regional rival"
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Projected combined goal expectancy of 2.90 meets Hobro's leaky 1.80 road concession rate"
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:1 home breakthrough alongside the Poisson modal 1:1 stalemate"
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serve as the primary total with two goals providing direct scoreline coverage"
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects AaB breaking a tight first half, while Win-Draw reflects AaB's 100% home lead-loss rate"
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 06:06:22 UTC"
+}
