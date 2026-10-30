@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563844,
+    "matchup": "Newport County vs Chesterfield",
+    "home_team": "Newport County",
+    "away_team": "Chesterfield",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-30 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261030-newport-county-vs-chesterfield/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newport County vs Chesterfield Prediction & Match Analysis: Can Exiles Halt Spireites Attack? — xG Preview",
+    "meta": {
+      "matchId": "1563844",
+      "league": "League Two",
+      "matchup": "Newport County vs Chesterfield",
+      "matchTime": "2026-10-30 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win captures Chesterfield's superior attacking metrics while respecting Newport County's unblemished home record at Rodney Parade.",
+    "possibilityAssessment": [
+      "Draw / Away Win compound direction accounts for Newport's home defensive strength and Chesterfield's 2.03 xG firepower (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with Newport's concession rate of just 0.83 goals per game at Rodney Parade (Confidence: Moderate, Value: Moderate)",
+      "Primary scoreline 1:1 reflects the most probable Poisson convergence point between both sides' styles (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563844",
+      "league": "League Two",
+      "homeTeam": "Newport County",
+      "awayTeam": "Chesterfield",
+      "match_time": "19:45",
+      "match_highlight": "Unbeaten home defense meets League Two top-scoring attack under Friday floodlights",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563844,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Combines Chesterfield's league-leading 2.03 xG attacking metrics with Newport County's stubborn 3W-3D-0L unbeaten home record at Rodney Parade."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Newport County concede only 0.83 goals per home fixture, providing strong structural resistance against Chesterfield's road attack."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Primary 1:1 reflects the natural Poisson convergence, while 1:2 covers Chesterfield's superior second-half bench firepower."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary statistical anchor, with three goals accounting for a potential late Spireites breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Newport's 53.8% first-half draw tendency supports a level interval, transitioning into either a sustained deadlock or a narrow away win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:54:05 UTC"
+}
