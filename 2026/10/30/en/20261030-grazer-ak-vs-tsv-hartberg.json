@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1561956,
+    "matchup": "Grazer AK vs TSV Hartberg",
+    "home_team": "Grazer AK",
+    "away_team": "TSV Hartberg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-30 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261030-grazer-ak-vs-tsv-hartberg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grazer AK vs TSV Hartberg Prediction: Can Decimated Defense Survive Derby? — Scoreline Preview",
+    "meta": {
+      "matchId": "1561956",
+      "league": "Bundesliga",
+      "matchup": "Grazer AK vs TSV Hartberg",
+      "matchTime": "2026-10-30 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "TSV Hartberg hold the structural edge against Grazer AK's injury-ravaged defense, making Draw / Away Win the premier risk-adjusted angle.",
+    "possibilityAssessment": [
+      "TSV Hartberg capitalize on late second-half transitions against a depleted home backline to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Grazer AK construct a resilient low-block stalemate in their 1,000th Bundesliga fixture to hold a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "An open second half pushes total scoring past the standard line to deliver an Over 2.5 game script (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1561956",
+      "league": "Bundesliga",
+      "homeTeam": "Grazer AK",
+      "awayTeam": "TSV Hartberg",
+      "match_time": "18:30",
+      "match_highlight": "Hartberg test Grazer AK's decimated defense in historic 1,000th Bundesliga fixture",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1561956,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "TSV Hartberg's transition efficiency exploits Grazer AK's injury-ravaged defense, while the hosts' home stalemate tendencies justify protecting the draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.30 and Grazer AK conceding 2.30 goals per game favor an Over 2.5 trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Hartberg victory captures the visitors' late attacking superiority, with 1:1 providing the primary defensive stalemate hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals aligns with the primary 1:2 projection, followed by two goals reflecting a tighter 1:1 contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half precedes Hartberg's typical second-half surge, with Draw-Draw serving as the secondary defensive script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 06:33:13 UTC"
+}
