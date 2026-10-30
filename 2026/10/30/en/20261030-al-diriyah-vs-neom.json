@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603072,
+    "matchup": "Al Diriyah vs NEOM",
+    "home_team": "Al Diriyah",
+    "away_team": "NEOM",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-30 14:50:00",
+    "source_url": "https://xgmind.com/matches/20261030-al-diriyah-vs-neom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Diriyah vs NEOM Prediction & Match Analysis: Can Núñez Exploit Galtier's Absence? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1603072",
+      "league": "Pro League",
+      "matchup": "Al Diriyah vs NEOM",
+      "matchTime": "2026-10-30 14:50 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win anchored by an Under 2.5 total as Al Diriyah's home defense balances NEOM's disrupted road attack.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capturing a 1:1 stalemate or a narrow 0:1 away victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting low venue goal expectancies and compact structures (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 1:1 serving as the primary statistical convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603072",
+      "league": "Pro League",
+      "homeTeam": "Al Diriyah",
+      "awayTeam": "NEOM",
+      "match_time": "14:50",
+      "match_highlight": "Diriyah home defense tests Galtier-less NEOM transition in low-scoring duel",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603072,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate and a narrow 0:1 away victory where NEOM's superior quality edges a tight game."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson baseline of 2.05 total goals aligns with Al Diriyah's solid home defense and NEOM's 0.8 away scoring average."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Primary 1:1 represents modal density; secondary 0:1 captures a clinical Lacazette strike deciding a low-event road clash."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary outcome node, with one goal reflecting the tight single-break alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "High venue half-time draw rates (66.7% home, 60.0% away) support level first halves before late resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 02:54:23 UTC"
+}
