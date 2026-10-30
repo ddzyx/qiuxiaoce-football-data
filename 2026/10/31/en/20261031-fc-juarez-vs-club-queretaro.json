@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551021,
+    "matchup": "FC Juarez vs Club Queretaro",
+    "home_team": "FC Juarez",
+    "away_team": "Club Queretaro",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-31 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-juarez-vs-club-queretaro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Juarez vs Club Queretaro Prediction: Can Bravos Halt Gallos Blancos? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551021",
+      "league": "Liga MX",
+      "matchup": "FC Juarez vs Club Queretaro",
+      "matchTime": "2026-10-31 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club Queretaro's superior road transition efficiency makes Draw / Away Win the premier risk-adjusted angle against a defensively porous Juarez.",
+    "possibilityAssessment": [
+      "Queretaro counter-attack exploits Juarez high line to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Juarez low-block resistance holds firm for a 1:1 regulation stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive concession rates push match scoring above the 2.5 goal threshold (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551021",
+      "league": "Liga MX",
+      "homeTeam": "FC Juarez",
+      "awayTeam": "Club Queretaro",
+      "match_time": "01:00",
+      "match_highlight": "Queretaro targets away redemption against basement-dwelling Juarez.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551021,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Queretaro's road counter-attack leads, while Juarez's recent low-block draws demand draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Juarez's leaky defense conceding 2.36 goals per match aligns with Queretaro's offensive output."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Queretaro victory serves as the primary convergence, backed by a 1:1 low-block stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring dynamics favor a 3-goal clash, with a 2-goal deadlock serving as secondary support."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half gives way to Queretaro's second-half edge or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 13:05:51 UTC"
+}
