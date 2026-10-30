@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1553211,
+    "matchup": "Gornik Zabrze vs Legia Warszawa",
+    "home_team": "Gornik Zabrze",
+    "away_team": "Legia Warszawa",
+    "league": null,
+    "kickoff_utc": "2026-10-30 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261030-gornik-zabrze-vs-legia-warszawa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ekstraklasa",
+      "matchId": "1553211",
+      "matchup": "Gornik Zabrze vs Legia Warszawa",
+      "matchTime": "2026-10-30 19:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Gornik Zabrze vs Legia Warszawa Prediction: Fatigue & Tactical Stalemate — XG Mind AI Analysis",
+    "coreRecommendation": "Back Gornik Zabrze or Draw (Home Win / Draw) in a tight, physically demanding encounter anchored by a 1:1 draw.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Conservative opening halves favor level scores at the break before second-half fatigue dictates the outcome.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the high-probability 1:1 stalemate and Gornik's 2:1 home edge while mitigating post-120-minute cup fatigue.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "A 2-goal match represents the primary statistical anchor, backed by an alternative 3-goal branch.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "1:1 represents natural game-state convergence; 2:1 captures home set-piece resilience.",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "Ekstraklasa",
+      "matchId": "1553211",
+      "awayTeam": "Legia Warszawa",
+      "homeTeam": "Gornik Zabrze",
+      "fixtureId": 1553211,
+      "match_time": "19:30",
+      "over_under": {
+        "comment": "Both defenses concede only 0.9 goals per game, and heavy legs will curb transition tempo.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Fatigued Gornik hosts unbeaten road travelers Legia in pivotal top-four battle."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance providing optimal coverage against post-cup physical fatigue (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting elite defensive records of 0.9 goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Correct scoreline 1:1 aligning with underlying Poisson density and recent form (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-0",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-30 21:55:14 UTC"
+  }
+}
