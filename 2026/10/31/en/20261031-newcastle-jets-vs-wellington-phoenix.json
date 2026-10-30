@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593693,
+    "matchup": "Newcastle Jets vs Wellington Phoenix",
+    "home_team": "Newcastle Jets",
+    "away_team": "Wellington Phoenix",
+    "league": "A-League",
+    "kickoff_utc": "2026-10-31 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-newcastle-jets-vs-wellington-phoenix/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newcastle Jets vs Wellington Phoenix Prediction: Transition Asymmetry & Fatigue Dynamics — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593693",
+      "league": "A-League",
+      "matchup": "Newcastle Jets vs Wellington Phoenix",
+      "matchTime": "2026-10-31 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wellington Phoenix hold the structural and physical advantage to avoid defeat against a travel-weary Newcastle side, favoring Draw / Away Win alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Wellington Phoenix exploit Newcastle's transition fatigue to secure a narrow away win (Confidence: Moderate, Value: High)",
+      "Newcastle's rested playmakers dictate possession to hold a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional battle exceeds defensive containment to yield Over 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593693",
+      "league": "A-League",
+      "homeTeam": "Newcastle Jets",
+      "awayTeam": "Wellington Phoenix",
+      "match_time": "04:00",
+      "match_highlight": "Wellington counter-attack targets travel-fatigued Newcastle backline at McDonald Jones Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593693,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Wellington's defensive stability and transition speed give them the edge against tired hosts, while Newcastle's rested playmakers provide draw protection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Newcastle's domestic baseline of 2.30 xGA per match combined with Wellington's sharp conversion points to at least three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory represents the leading script, with a 1:1 stalemate serving as the primary game-state hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary Poisson probability cluster, supported secondarily by a tighter two-goal outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Wellington routinely draw at the interval before accelerating late against tiring opponents."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 16:04:20 UTC"
+}
