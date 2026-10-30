@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510486,
+    "matchup": "Daegu FC vs Suwon Bluewings",
+    "home_team": "Daegu FC",
+    "away_team": "Suwon Bluewings",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-31 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-daegu-fc-vs-suwon-bluewings/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Daegu FC vs Suwon Bluewings Prediction & Preview: Can High Press Tame Cesinha? — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1510486",
+      "league": "K League 2",
+      "matchup": "Daegu FC vs Suwon Bluewings",
+      "matchTime": "2026-10-31 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Suwon Bluewings to maintain their promotion charge via Draw / Away Win, spearheaded by a 1:2 victory.",
+    "possibilityAssessment": [
+      "Suwon Bluewings break through late to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Daegu FC leverage home aerial dominance to battle to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High scoring pace produces Over 2.5 goals across 90 minutes (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510486",
+      "league": "K League 2",
+      "homeTeam": "Daegu FC",
+      "awayTeam": "Suwon Bluewings",
+      "match_time": "07:30",
+      "match_highlight": "League leaders Suwon confront Daegu's explosive home firepower in a promotion clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510486,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Suwon's six-match winning run gives them the edge, but Daegu's 78.6% home unbeaten record warrants draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "An expected goal lambda sum of 2.95 and Daegu's 2.0 goals per game support an Over 2.5 trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away win reflects Suwon's technical edge, with 1:1 covering Daegu's resolute home defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring distributions concentrate heavily around 3 goals in an open match, followed by 2 goals in a cagey draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Daegu's 64.3% first-half draw rate at home points to a level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 19:33:39 UTC"
+}
