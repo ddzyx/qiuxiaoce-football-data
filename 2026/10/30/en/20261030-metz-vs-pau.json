@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552517,
+    "matchup": "Metz vs PAU",
+    "home_team": "Metz",
+    "away_team": "PAU",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-metz-vs-pau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Metz vs PAU Prediction & Match Analysis: Can Les Grenats Halt Pau's Form? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552517",
+      "league": "Ligue 2",
+      "matchup": "Metz vs PAU",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Metz's unblemished home record and offensive firepower make Home Win / Draw the optimal probabilistic selection against in-form Pau.",
+    "possibilityAssessment": [
+      "Metz secures a hard-fought 2:1 home victory driven by Pape Moussa Fall's penalty-box finishing (Confidence: Moderate, Value: High)",
+      "Pau's compact low block absorbs wide overloads to enforce a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Dynamic transitions from both sides push total goals Over 2.5 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552517",
+      "league": "Ligue 2",
+      "homeTeam": "Metz",
+      "awayTeam": "PAU",
+      "match_time": "19:00",
+      "match_highlight": "Unbeaten home fortress meets Pau's four-match league winning streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552517,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Metz's unbeaten 3-2-0 home record provides a solid foundation, while Pau's counter-attacking form warrants draw inclusion."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Metz's home matches average 3.8 goals, which combines with Pau's 1.60 xG output to support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 home win reflects Metz's superior box occupancy, while 1:1 represents the primary model deadlock point."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary attacking convergence, with two goals covering the tight defensive stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half precedes Metz's second-half acceleration, while Draw-Draw covers sustained low-block resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:08:24 UTC"
+}
