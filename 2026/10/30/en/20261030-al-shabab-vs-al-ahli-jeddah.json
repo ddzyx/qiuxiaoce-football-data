@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603078,
+    "matchup": "Al Shabab vs Al-Ahli Jeddah",
+    "home_team": "Al Shabab",
+    "away_team": "Al-Ahli Jeddah",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-30 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-al-shabab-vs-al-ahli-jeddah/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Shabab vs Al-Ahli Jeddah Prediction: Can Toney's xG Surge Breach Letsch's Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1603078",
+      "league": "Pro League",
+      "matchup": "Al Shabab vs Al-Ahli Jeddah",
+      "matchTime": "2026-10-30 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Al-Ahli Jeddah to secure an away victory in a competitive, high-scoring encounter driven by Ivan Toney's finishing form.",
+    "possibilityAssessment": [
+      "Al-Ahli Jeddah Away Win driven by 2.85 xG attacking volume and superior finishing form (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a 3.70 combined model lambda and high-tempo transitions (Confidence: High, Value: Moderate)",
+      "Draw / Away Win double-chance contingency covering Al Shabab's disciplined first-half low block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603078",
+      "league": "Pro League",
+      "homeTeam": "Al Shabab",
+      "awayTeam": "Al-Ahli Jeddah",
+      "match_time": "18:00",
+      "match_highlight": "Ivan Toney's red-hot scoring form tests Al Shabab's disciplined low block in Riyadh.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603078,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Al-Ahli's overwhelming 2.85 xG attacking output and five-match winning run provide the decisive edge over Al Shabab's defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined model lambda of 3.70 goals and consistent head-to-head goal tallies strongly favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A 1:2 primary scoreline reflects Al-Ahli's road offensive output alongside Al Shabab's home transition threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring distribution peaks at 3 goals (20.9%) and 4 goals (19.3%) due to high attacking quality."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Al Shabab's high first-half draw rate (70%) gives way to Al-Ahli's dominant second-half scoring acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 06:09:54 UTC"
+}
