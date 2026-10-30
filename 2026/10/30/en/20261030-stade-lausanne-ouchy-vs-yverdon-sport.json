@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555073,
+    "matchup": "Stade Lausanne-Ouchy vs Yverdon Sport",
+    "home_team": "Stade Lausanne-Ouchy",
+    "away_team": "Yverdon Sport",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-10-30 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261030-stade-lausanne-ouchy-vs-yverdon-sport/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stade Lausanne-Ouchy vs Yverdon Sport Prediction: Can League Leaders Breach Resilient Defense? — XG Mind AI",
+    "meta": {
+      "matchId": "1555073",
+      "league": "Challenge League",
+      "matchup": "Stade Lausanne-Ouchy vs Yverdon Sport",
+      "matchTime": "2026-10-30 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stade Lausanne-Ouchy to protect their home summit advantage via a Home Win or Draw in a disciplined, low-scoring contest under 2.5 goals.",
+    "possibilityAssessment": [
+      "Stade Lausanne-Ouchy Win or Draw (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 (Confidence: High, Value: Moderate)",
+      "Correct Score 1:0 or 1:1 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555073",
+      "league": "Challenge League",
+      "homeTeam": "Stade Lausanne-Ouchy",
+      "awayTeam": "Yverdon Sport",
+      "match_time": "18:30",
+      "match_highlight": "Summit clash pits flawless home defense against lethal away counter.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555073,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Lausanne-Ouchy's controlled 1:0 victory and a secondary 1:1 stalemate, reflecting top-of-the-table parity."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Lausanne-Ouchy's 100% home clean sheet rate and a recent 0:0 H2H stalemate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 home triumph represents the primary script, with 1:1 capturing the highest Poisson density draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the median Poisson outcome, with a single goal serving as the low-scoring defensive alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Yverdon's 80% away HT draw rate supports a level interval before Lausanne-Ouchy accelerates late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 06:32:36 UTC"
+}
