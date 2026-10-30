@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606726,
+    "matchup": "Consadole Sapporo vs Shonan Bellmare",
+    "home_team": "Consadole Sapporo",
+    "away_team": "Shonan Bellmare",
+    "league": "J2 League",
+    "kickoff_utc": "2026-10-31 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-consadole-sapporo-vs-shonan-bellmare/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Consadole Sapporo vs Shonan Bellmare Prediction: Can Sapporo Breach Bellmare's Wall? — Scoreline Preview",
+    "meta": {
+      "matchId": "1606726",
+      "league": "J2 League",
+      "matchup": "Consadole Sapporo vs Shonan Bellmare",
+      "matchTime": "2026-10-31 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Shonan Bellmare's unbeaten road record meets Consadole Sapporo's three-match clean-sheet streak in a tight, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory anchored by Shonan's 100% away unbeaten rate and high draw frequency (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by Bellmare's 0.92 seasonal goals-against average and Sapporo's defensive resurgence (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 capturing the natural structural equilibrium between both mid-blocks (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606726",
+      "league": "J2 League",
+      "homeTeam": "Consadole Sapporo",
+      "awayTeam": "Shonan Bellmare",
+      "match_time": "04:00",
+      "match_highlight": "Bellmare away invincibility meets Sapporo defensive resurgence",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606726,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Shonan Bellmare's season-long road invincibility alongside their 53.8% draw propensity and Sapporo's recent defensive shutouts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by Bellmare's 0.92 goals-conceded average, attacking injury attrition, and Sapporo's three consecutive clean sheets."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Reflects the primary 1:1 stalemate mode and the secondary one-goal away victory margin."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Anticipates a tightly contained game state yielding exactly two or three total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Projects a level first half transitioning into either a sustained deadlock or a late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 16:04:28 UTC"
+}
