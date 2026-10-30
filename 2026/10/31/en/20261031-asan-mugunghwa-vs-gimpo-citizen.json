@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510485,
+    "matchup": "Asan Mugunghwa vs Gimpo Citizen",
+    "home_team": "Asan Mugunghwa",
+    "away_team": "Gimpo Citizen",
+    "league": "K League 2",
+    "kickoff_utc": "2026-10-31 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-asan-mugunghwa-vs-gimpo-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chungnam Asan vs Gimpo Citizen Prediction: Can Asan's Home Form Pierce Gimpo's Low Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1510485",
+      "league": "K League 2",
+      "matchup": "Asan Mugunghwa vs Gimpo Citizen",
+      "matchTime": "2026-10-31 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Chungnam Asan's 84.6% home unbeaten record and three consecutive head-to-head clean sheets point toward a narrow home win, with a low-scoring 1:1 stalemate retained as necessary protection against Gimpo's league-leading draw tendency.",
+    "possibilityAssessment": [
+      "Chungnam Asan breaks through Gimpo's low block in the second half for a 1:0 victory (Confidence: Moderate, Value: High)",
+      "Gimpo's compact 5-3-2 structure frustrates Asan to secure a grinding 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "An early Asan goal forces Gimpo open, allowing the hosts to double their lead to 2:0 (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510485",
+      "league": "K League 2",
+      "homeTeam": "Asan Mugunghwa",
+      "awayTeam": "Gimpo Citizen",
+      "match_time": "07:30",
+      "match_highlight": "Asan's home dominance meets Gimpo's stubborn road defensive wall.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510485,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Chungnam Asan's strong 53.8% home win rate leads the thesis, but Gimpo's division-high 11 draws require double-chance draw containment."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model expectancy of 2.45 goals and Gimpo's 1.20 road conceded average strongly indicate a low-scoring environment below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home win serves as the natural convergence of Asan's defensive form, with 1:1 covering Gimpo's high-frequency away stalemate script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal Poisson total at 25.9%, with a single goal serving as the second most probable band at 21.1%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Gimpo draws 64.3% of away first halves, setting up a level interval before Asan's superior bench pushes them toward a second-half result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 19:33:22 UTC"
+}
