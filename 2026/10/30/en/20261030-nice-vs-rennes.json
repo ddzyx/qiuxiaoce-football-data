@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552806,
+    "matchup": "Nice vs Rennes",
+    "home_team": "Nice",
+    "away_team": "Rennes",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-30 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-nice-vs-rennes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nice vs Rennes Prediction & Match Analysis: Can Aiglons Exploit Lepaul Absence? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552806",
+      "league": "Ligue 1",
+      "matchup": "Nice vs Rennes",
+      "matchTime": "2026-10-30 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back OGC Nice to protect their unblemished home record and capitalize on Rennes' critical spine absences via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw double-chance trajectory capitalizing on Nice's unbeaten home record and Rennes' away defensive fragility (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals anchored by Nice's compact home structure and Lepaul's confirmed attacking absence (Confidence: Moderate, Value: Moderate)",
+      "1:1 Stalemate representing the primary Poisson convergence point between two contrasting tactical setups (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552806",
+      "league": "Ligue 1",
+      "homeTeam": "Nice",
+      "awayTeam": "Rennes",
+      "match_time": "18:00",
+      "match_highlight": "Nice's unbeaten home record tests a depleted Rennes missing top-scorer Lepaul.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552806,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Nice remain undefeated at home this season and hold a distinct tactical edge against a Rennes side winless in four away matches and missing both Esteban Lepaul and Brice Samba."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Nice allow only 1.00 goal per game at Allianz Riviera, and the absence of Ligue 1 top scorer Lepaul significantly blunts Rennes' road scoring capacity."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw serves as the modal Poisson scoreline, while a 2:1 Nice victory represents the natural transition-exploit alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Probabilistic densities concentrate heavily around two or three total goals given Nice's defensive discipline and Rennes' leaky away backline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Nice have drawn 75% of first halves at home, positioning a tied interval to translate into either a full-time draw or a second-half home surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 06:09:23 UTC"
+}
