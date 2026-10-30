@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556122,
+    "matchup": "Kashima vs Cerezo Osaka",
+    "home_team": "Kashima",
+    "away_team": "Cerezo Osaka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-10-31 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-kashima-vs-cerezo-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashima vs Cerezo Osaka Prediction: Can Antlers Exploit Cerezo's Away xGA Flaws? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556122",
+      "league": "J1 League",
+      "matchup": "Kashima vs Cerezo Osaka",
+      "matchTime": "2026-10-31 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kashima Antlers' superior home attacking metrics and Cerezo Osaka's winless road record support a regulation home victory.",
+    "possibilityAssessment": [
+      "Kashima home win driven by 1.68 xG attacking output (Confidence: Moderate, Value: High)",
+      "Match total exceeding 2.5 goals due to combined 2.80 goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Both teams to score reflecting Kashima's high concession rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556122",
+      "league": "J1 League",
+      "homeTeam": "Kashima",
+      "awayTeam": "Cerezo Osaka",
+      "match_time": "06:00",
+      "match_highlight": "Kashima's home attack meets Cerezo Osaka's winless road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556122,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kashima Antlers possess a 66.7% home win rate and +6.5 net xG against an opponent winless across five road league outings."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match goal averages of 3.83 for Kashima and a 2.80 Poisson lambda support an open contest clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Kashima's scoring volume and transitional vulnerabilities, with 2:0 serving as a game-management alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence point of both attacks, with two goals covering a lower-tempo home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kashima frequently secure early leads at home while Cerezo have trailed at halftime in 80% of away matches."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 18:03:08 UTC"
+}
