@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576215,
+    "matchup": "Arminia Bielefeld vs Eintracht Braunschweig",
+    "home_team": "Arminia Bielefeld",
+    "away_team": "Eintracht Braunschweig",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-10-30 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261030-arminia-bielefeld-vs-eintracht-braunschweig/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arminia Bielefeld vs Eintracht Braunschweig Prediction: Can Lions Breach the Alm Fortress? — xG Analysis",
+    "meta": {
+      "matchId": "1576215",
+      "league": "2. Bundesliga",
+      "matchup": "Arminia Bielefeld vs Eintracht Braunschweig",
+      "matchTime": "2026-10-30 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Arminia Bielefeld's resilience at the SchücoArena meets Eintracht Braunschweig's away fragility, establishing Home Win / Draw as the optimal projection alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Arminia Bielefeld to leverage home advantage and secure a 2:1 victory against a defensively vulnerable road side (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate should Braunschweig replicate their resilient derby counter-pressing structure (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals capitalizing on Braunschweig's heavy road concession rate and Arminia's 2.0 home scoring average (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576215",
+      "league": "2. Bundesliga",
+      "homeTeam": "Arminia Bielefeld",
+      "awayTeam": "Eintracht Braunschweig",
+      "match_time": "17:30",
+      "match_highlight": "Bielefeld's home fortress faces Braunschweig's derby-fueled counter-attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576215,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Arminia's unbeaten home strength in a 2:1 win while hedging against Braunschweig's counter-threat in a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Braunschweig's road defensive average of 4.0 goals conceded aligns with Arminia's 2.0 goals per game output."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects baseline finishing edge, with 1:1 serving as the primary game-state stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the distribution via Arminia pressure, while two goals covers the low-block transition scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Arminia scores 61.5% of goals in the second half, favoring a level opening period before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 05:36:35 UTC"
+}
