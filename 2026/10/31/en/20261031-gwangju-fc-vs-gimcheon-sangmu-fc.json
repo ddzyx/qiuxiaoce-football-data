@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647390,
+    "matchup": "Gwangju FC vs Gimcheon Sangmu FC",
+    "home_team": "Gwangju FC",
+    "away_team": "Gimcheon Sangmu FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-31 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-gwangju-fc-vs-gimcheon-sangmu-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gwangju FC vs Gimcheon Sangmu FC Prediction: Relegation xG Metrics & Stalemate Script — XG Mind AI",
+    "meta": {
+      "matchId": "1647390",
+      "league": "K League 1",
+      "matchup": "Gwangju FC vs Gimcheon Sangmu FC",
+      "matchTime": "2026-10-31 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gimcheon Sangmu's 80% away unbeaten resilience and 19-draw baseline strongly favor a shared-points outcome, warranting a paired Draw / Away Win direction.",
+    "possibilityAssessment": [
+      "Stalemate Hegemony: Structural deadlock produces a 1:1 draw reflecting Gimcheon's unmatched draw rate (Confidence: Moderate, Value: High)",
+      "Late Road Breakthrough: Gimcheon punish Gwangju's overextended defensive transition for a 1:2 away win (Confidence: Low, Value: Moderate)",
+      "Defensive Attrition Under: Tactical caution keeps the scoring capped Under 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647390",
+      "league": "K League 1",
+      "homeTeam": "Gwangju FC",
+      "awayTeam": "Gimcheon Sangmu FC",
+      "match_time": "07:30",
+      "match_highlight": "Gimcheon's league-high 19 draws meet Gwangju's desperate survival push.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647390,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the dominant 1:1 stalemate script alongside Gimcheon's transition-threat 1:2 victory branch."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Gimcheon's 40% away clean-sheet rate and tactical tempo control favor a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 deadlock mirrors both 2026 meetings, while 1:2 captures the late away-win transition contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exactly 2 goals leads the probabilistic distribution, closely followed by the 3-goal away win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Gwangju have zero HT leads in 16 home matches, pointing toward a level first half before late divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 19:33:00 UTC"
+}
