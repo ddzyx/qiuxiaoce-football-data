@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1552802,
+    "matchup": "Lille vs Lens",
+    "home_team": "Lille",
+    "away_team": "Lens",
+    "league": null,
+    "kickoff_utc": "2026-10-30 20:05:00",
+    "source_url": "https://xgmind.com/matches/20261030-lille-vs-lens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ligue 1",
+      "matchId": "1552802",
+      "matchup": "Lille vs Lens",
+      "matchTime": "2026-10-30 20:05 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Lille vs Lens Prediction & Match Analysis: Midfield Attrition and High Derby Stakes — Scoreline & xG Preview",
+    "coreRecommendation": "Lille leverage home superiority and defensive structure to remain unbeaten against Lens in a dynamic 2:1 or 1:1 contest.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Lille's 75% home first-half lead rate drives Win-Win, with Draw-Win reflecting second-half acceleration.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Lille's dominant home record and Lens's zero clean sheet vulnerability while acknowledging Lens's potent xG threat.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Primary 3 goals aligns with Over 2.5 thesis, while 2 goals covers the balanced deadlock script.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "2:1 reflects Lille's edge against a leaky away backline, with 1:1 covering Poisson modal density.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Ligue 1",
+      "matchId": "1552802",
+      "awayTeam": "Lens",
+      "homeTeam": "Lille",
+      "fixtureId": 1552802,
+      "match_time": "20:05",
+      "over_under": {
+        "comment": "Combined lambda expectancy of 2.82 and absences of key central defenders favor a high-tempo 3-goal clash.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Derby du Nord clash defined by Lens defensive absences and Lille home dominance."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Lille capitalize on Lens's depleted defense to secure a hard-fought 2:1 home victory (Confidence: Moderate, Value: High)",
+      "High attacking volume from both sides drives total goals Over 2.5 (Confidence: Moderate, Value: High)",
+      "Lens's attacking output forces a stubborn 1:1 derby draw (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-0",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-10-30 22:25:04 UTC"
+  }
+}
