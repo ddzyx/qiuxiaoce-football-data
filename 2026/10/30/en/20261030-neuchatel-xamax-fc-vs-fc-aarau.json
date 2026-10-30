@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555076,
+    "matchup": "Neuchatel Xamax FC vs FC Aarau",
+    "home_team": "Neuchatel Xamax FC",
+    "away_team": "FC Aarau",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-10-30 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261030-neuchatel-xamax-fc-vs-fc-aarau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Neuchatel Xamax FC vs FC Aarau Prediction: Likar's Clean-Sheet Run Meets Aarau Slump — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1555076",
+      "league": "Challenge League",
+      "matchup": "Neuchatel Xamax FC vs FC Aarau",
+      "matchTime": "2026-10-30 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Neuchatel Xamax FC to capitalize on defensive stability and visitor squad attrition to secure points in a competitive encounter.",
+    "possibilityAssessment": [
+      "Neuchatel Xamax FC breaks through Aarau's depleted defense in the second half to claim a 2:1 victory (Confidence: Moderate, Value: Moderate)",
+      "High defensive resistance produces a balanced 1:1 stalemate covering Aarau's persistent scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals lands comfortably driven by Aarau's season-long 100% defensive concession rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555076",
+      "league": "Challenge League",
+      "homeTeam": "Neuchatel Xamax FC",
+      "awayTeam": "FC Aarau",
+      "match_time": "19:15",
+      "match_highlight": "Xamax defensive momentum meets Aarau's depleted backline in Neuchatel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555076,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Xamax's leading 2:1 home victory script while providing robust insurance for a competitive 1:1 stalemate against a scoring visitor."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a combined lambda of 3.10, Aarau conceding 1.80 goals per match, and a 0% visitor clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 scoreline captures home transition superiority; secondary 1:1 scoreline covers the modal Poisson deadlock density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the top Poisson distribution peak at 22.4%, closely backed by two goals at 21.6%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win accounts for Aarau's 60% away HT draw rate before late fatigue; Draw-Draw directly anchors the 1:1 contingency path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:19:46 UTC"
+}
