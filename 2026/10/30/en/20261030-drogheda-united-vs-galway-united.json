@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492791,
+    "matchup": "Drogheda United vs Galway United",
+    "home_team": "Drogheda United",
+    "away_team": "Galway United",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-10-30 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261030-drogheda-united-vs-galway-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Drogheda United vs Galway United: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1492791",
+      "league": "Premier Division",
+      "matchup": "Drogheda United vs Galway United",
+      "matchTime": "2026-10-30 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Drogheda United to avoid defeat at home against an away side with an 18.8% road win rate and zero road clean sheets.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 1:1 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492791",
+      "league": "Premier Division",
+      "homeTeam": "Drogheda United",
+      "awayTeam": "Galway United",
+      "match_time": "19:45",
+      "match_highlight": "Drogheda eye home momentum ahead of play-offs against travel-weary Galway.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492791,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Drogheda are unbeaten in 60% of home league matches, while Galway have won just 3 of 16 away trips and kept zero road clean sheets."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides average under 3.7 shots on target per 90 minutes and rank bottom-three in possession, supporting a low-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate represents the primary mathematical node, with a 2:1 home counter-attacking win covering the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 goals combine for over 46% aggregate model probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A tight opening half aligns with Galway's road draw tendencies, followed by Drogheda holding or edging the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:49:40 UTC"
+}
