@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559189,
+    "matchup": "Seraing United vs Liège",
+    "home_team": "Seraing United",
+    "away_team": "Liège",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-seraing-united-vs-li-ge/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RFC Seraing vs RFC Liège Prediction & Match Analysis: Defensive Fragility Collides — Scoreline Preview",
+    "meta": {
+      "matchId": "1559189",
+      "league": "Challenger Pro League",
+      "matchup": "Seraing United vs Liège",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "RFC Seraing avoid defeat in a volatile local derby characterized by multiple goals at both ends (Home Win / Draw & Over 2.5).",
+    "possibilityAssessment": [
+      "RFC Seraing capitalizes on Liège's porous transition defense to secure a high-tempo 2:1 home victory (Confidence: Moderate, Value: High)",
+      "RFC Liège's technical playmakers exploit Seraing's inability to keep clean sheets to force an open 2:2 draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals verified by both clubs' combined seasonal goal-expectancy rate of 3.81 (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559189",
+      "league": "Challenger Pro League",
+      "homeTeam": "Seraing United",
+      "awayTeam": "Liège",
+      "match_time": "19:00",
+      "match_highlight": "Relegation derby clash where severe defensive deficits guarantee high goal expectancy.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559189,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Seraing's home attacking resurgence holds the upper hand over Liège's leaky defense, but zero clean sheets make draw coverage essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both defenses concede heavily, driving combined goal expectancy to 3.81 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A narrow 2:1 home triumph leads the distribution, backed by a 2:2 stalemate if Seraing's lead protection fails."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals represent the highest probabilistic density across underlying models."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive opening half paves the way for Seraing's second-half edge or a shared 2:2 deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:11:05 UTC"
+}
