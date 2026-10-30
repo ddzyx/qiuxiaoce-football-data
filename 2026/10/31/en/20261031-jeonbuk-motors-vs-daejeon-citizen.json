@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647375,
+    "matchup": "Jeonbuk Motors vs Daejeon Citizen",
+    "home_team": "Jeonbuk Motors",
+    "away_team": "Daejeon Citizen",
+    "league": "K League 1",
+    "kickoff_utc": "2026-10-31 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-jeonbuk-motors-vs-daejeon-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jeonbuk Motors vs Daejeon Citizen Prediction & Preview: Final A Battle & Attack Metrics — Scoreline Analysis",
+    "meta": {
+      "matchId": "1647375",
+      "league": "K League 1",
+      "matchup": "Jeonbuk Motors vs Daejeon Citizen",
+      "matchTime": "2026-10-31 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jeonbuk Motors' superior underlying xG creation and home momentum make them favored to control tempo and avoid defeat against Daejeon Citizen.",
+    "possibilityAssessment": [
+      "Jeonbuk Motors avoids defeat through home dominance and Tiago Orobo finishing form (Confidence: Moderate, Value: High)",
+      "High attacking pace and leaky transitions push total match scoring above 2.5 goals (Confidence: Moderate, Value: High)",
+      "Daejeon counter-punch holds hosts to a 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647375",
+      "league": "K League 1",
+      "homeTeam": "Jeonbuk Motors",
+      "awayTeam": "Daejeon Citizen",
+      "match_time": "05:00",
+      "match_highlight": "Jeonju Castle hosts decisive Final A continental qualification battle",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647375,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Jeonbuk's 2:1 home supremacy script while hedging against Daejeon's clinical road counter-attack producing a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.065 and porous defensive numbers support an open multi-goal contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Jeonbuk's offensive edge at home alongside the primary stalemate Poisson distribution point."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary expected total with two goals serving as the conservative low-block alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Jeonbuk draws at halftime in 66.7% of home matches before accelerating in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 17:15:45 UTC"
+}
