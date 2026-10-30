@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552516,
+    "matchup": "Laval vs Boulogne",
+    "home_team": "Laval",
+    "away_team": "Boulogne",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-30 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261030-laval-vs-boulogne/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Laval vs Boulogne Prediction & Match Analysis: Can Les Tango Break the Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552516",
+      "league": "Ligue 2",
+      "matchup": "Laval vs Boulogne",
+      "matchTime": "2026-10-30 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win in a low-scoring encounter dominated by Boulogne's defensive compactness.",
+    "possibilityAssessment": [
+      "Boulogne low-block resistance securing a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Boulogne clinical second-half transition yielding a 0:1 away victory (Confidence: Moderate, Value: High)",
+      "Sterile Laval possession creating an Under 2.5 goals environment (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552516",
+      "league": "Ligue 2",
+      "homeTeam": "Laval",
+      "awayTeam": "Boulogne",
+      "match_time": "19:00",
+      "match_highlight": "Boulogne elite defense confronts Laval leaky backline in stalemate clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552516,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Boulogne's 80% unbeaten record and 0.70 goals conceded per game comfortably cover both the draw and away victory scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Boulogne's matches average just 1.40 goals this season, strongly favoring an Under 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "The 1:1 draw represents natural convergence, with a 0:1 counter-attacking win serving as the principal alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A tight two-goal contest leads expectations, with a single-goal defensive shutout as strong backup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Boulogne's 80% away half-time draw rate underpins a level first half followed by a balanced or late-snatched conclusion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-30 07:06:11 UTC"
+}
