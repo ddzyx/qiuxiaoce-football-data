@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490589,
+    "matchup": "New York City FC vs CF Montreal",
+    "home_team": "New York City FC",
+    "away_team": "CF Montreal",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-31 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-new-york-city-fc-vs-cf-montreal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling New York City FC vs CF Montreal: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1490589",
+      "league": "Major League Soccer",
+      "matchup": "New York City FC vs CF Montreal",
+      "matchTime": "2026-10-31 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "New York City FC will exploit CF Montreal's league-worst road defense to secure a crucial home victory at Citi Field.",
+    "possibilityAssessment": [
+      "New York City FC win in regulation time behind sustained territorial pressure and Montreal's severe defensive injuries (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals as Montreal's road concession rate of 2.1 goals per match pushes the scoring line (Confidence: Moderate, Value: High)",
+      "New York City FC win accompanied by both teams scoring in a 2:1 game script (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490589",
+      "league": "Major League Soccer",
+      "homeTeam": "New York City FC",
+      "awayTeam": "CF Montreal",
+      "match_time": "18:00",
+      "match_highlight": "NYCFC chase vital playoff points against Montreal's leaky road backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490589,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Montreal have lost 12 of 16 road matches and conceded 66 goals this season, giving NYCFC a clear edge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Montreal surrender 2.1 goals per away match, driving combined goal expectancy above the 2.5 mark."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory is the model focal point, with a 2:0 home shutout serving as the primary secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary expectation, closely shadowed by a two-goal script if Montreal fail to score."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Montreal trail at half-time in 56% of away games and consistently drop points after trailing."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 06:03:30 UTC"
+}
