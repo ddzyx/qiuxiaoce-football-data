@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552212,
+    "matchup": "PEC Zwolle vs ADO Den Haag",
+    "home_team": "PEC Zwolle",
+    "away_team": "ADO Den Haag",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-01 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261101-pec-zwolle-vs-ado-den-haag/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling PEC Zwolle vs ADO Den Haag: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1552212",
+      "league": "Eredivisie",
+      "matchup": "PEC Zwolle vs ADO Den Haag",
+      "matchTime": "2026-11-01 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "PEC Zwolle hold a territorial edge at the MAC³PARK Stadion, but acute defensive volatility warrants supporting Home Win or Draw alongside Over 2.5 Goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance provides optimal risk-adjusted coverage against defensive instability (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflects shared concession rates exceeding 2.0 goals per match (Confidence: Moderate, Value: Moderate)",
+      "A 2:1 or 1:1 scoreline distribution captures late second-half scoring tendencies (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552212",
+      "league": "Eredivisie",
+      "homeTeam": "PEC Zwolle",
+      "awayTeam": "ADO Den Haag",
+      "match_time": "11:15",
+      "match_highlight": "Relegation six-pointer defined by high possession clash and defensive vulnerabilities",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552212,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Zwolle's home territorial dominance and ADO's winless away record favor the hosts, but Zwolle's defensive lapses make the draw an essential hedge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams concede over two goals per match, producing a combined expectancy favoring an open, three-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects second-half pressure, while 1:1 captures ADO's counter-attacking resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence point of both leaky backlines, with two goals as the primary defensive deadlock alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Zwolle's 0% first-half lead rate and 72.7% second-half scoring rate strongly favor an even opening forty-five minutes before late resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 23:17:58 UTC"
+}
