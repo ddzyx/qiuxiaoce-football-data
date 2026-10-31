@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490585,
+    "matchup": "FC Cincinnati vs Philadelphia Union",
+    "home_team": "FC Cincinnati",
+    "away_team": "Philadelphia Union",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-31 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-cincinnati-vs-philadelphia-union/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Cincinnati vs Philadelphia Union Prediction: Can Shorthanded Defenses Halt Evander? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490585",
+      "league": "Major League Soccer",
+      "matchup": "FC Cincinnati vs Philadelphia Union",
+      "matchTime": "2026-10-31 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Cincinnati to protect home turf and clinch their playoff push via Home Win / Draw in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Cincinnati 2:1 victory driven by Evander and Denkey exploiting Philadelphia's depleted midfield (Confidence: Moderate, Value: High)",
+      "High-scoring 2:2 draw where Philadelphia capitalize on Cincinnati's backup center-backs (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals supported by a combined 3.47 goal expectancy baseline (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490585",
+      "league": "Major League Soccer",
+      "homeTeam": "FC Cincinnati",
+      "awayTeam": "Philadelphia Union",
+      "match_time": "18:00",
+      "match_highlight": "Cincinnati playoff clinch bid meets shorthanded Union at TQL Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490585,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Cincinnati's 78.6% home unbeaten record and intact attack lead the way, while defensive absences justify draw retention."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both defenses suffer from key absences, easily pushing combined goal expectancy beyond the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence, while a 2:2 deadlock accounts for Cincinnati's late concessions."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "The Poisson model concentrates 40.5% of probability density across 3 and 4 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cincinnati's 80% win conversion from half-time draws supports Draw-Win, with Draw-Draw covering the 2:2 branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 06:02:54 UTC"
+}
