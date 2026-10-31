@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490596,
+    "matchup": "San Jose Earthquakes vs Real Salt Lake",
+    "home_team": "San Jose Earthquakes",
+    "away_team": "Real Salt Lake",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-31 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-san-jose-earthquakes-vs-real-salt-lake/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "San Jose Earthquakes vs Real Salt Lake Prediction: Arena's High Press vs RSL Transition — XG Mind AI Model",
+    "meta": {
+      "matchId": "1490596",
+      "league": "Major League Soccer",
+      "matchup": "San Jose Earthquakes vs Real Salt Lake",
+      "matchTime": "2026-10-31 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "San Jose Earthquakes hold a decisive structural and situational edge at PayPal Park against a heavily depleted Real Salt Lake squad, supporting a Home Win / Draw position alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "San Jose Earthquakes win or draw in regulation (Home Win / Draw) exploiting RSL road defensive vulnerabilities (Confidence: Moderate, Value: High)",
+      "Combined match total finishes Over 2.5 Goals driven by porous defensive records on both sides (Confidence: Moderate, Value: High)",
+      "A tight 1:1 stalemate should Werner's suspension dampen San Jose's finishing efficiency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490596",
+      "league": "Major League Soccer",
+      "homeTeam": "San Jose Earthquakes",
+      "awayTeam": "Real Salt Lake",
+      "match_time": "21:00",
+      "match_highlight": "Depleted RSL midfield faces Arena's home-dominant Earthquakes at PayPal Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490596,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers San Jose's 73.3% home unbeaten rate and RSL's zero away clean sheets while accounting for Werner's suspension and SJ's 10 season draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.15 lambda expectancy and RSL conceding in 100% of road fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects home offensive edge; secondary 1:1 captures recent stalemate tendencies."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with 2:1 primary scoreline; two goals aligns with 1:1 draw contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win captures RSL's frequent away second-half fades; Draw-Draw serves as the level-match branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 09:05:44 UTC"
+}
