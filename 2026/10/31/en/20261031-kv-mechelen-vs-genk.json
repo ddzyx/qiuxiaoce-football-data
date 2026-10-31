@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558666,
+    "matchup": "KV Mechelen vs Genk",
+    "home_team": "KV Mechelen",
+    "away_team": "Genk",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-kv-mechelen-vs-genk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "KV Mechelen vs Genk Prediction & Match Analysis: Can Malinois Contain Durosinmi's xG Surge? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1558666",
+      "league": "Jupiler Pro League",
+      "matchup": "KV Mechelen vs Genk",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Genk's superior 2.12 xG firepower gives them the definitive edge over Mechelen's porous defense, making Draw / Away Win alongside Over 2.5 the optimal projection.",
+    "possibilityAssessment": [
+      "Genk overcome early resistance to secure a 1:2 victory through Durosinmi and Ito (Confidence: Moderate, Value: High)",
+      "Mechelen exploit Genk's away defensive lapses to grind out a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo game state yields Over 2.5 total goals as both attacks find space (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558666",
+      "league": "Jupiler Pro League",
+      "homeTeam": "KV Mechelen",
+      "awayTeam": "Genk",
+      "match_time": "15:00",
+      "match_highlight": "Genk's elite attack tests Mechelen's leaky backline at Achter de Kazerne.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558666,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Genk's decisive class advantage (1:2) while hedging against their winless 0-2-2 away record (1:1)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Fixture lambda of 3.035 and Mechelen's 2.10 goals conceded per match strongly favour an open clash."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Genk triumph reflects attacking quality, with 1:1 representing the secondary road-fatigue hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model probabilities peak at 3 goals (22.4%) followed closely by 2 goals (22.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Mechelen's early physical resistance gives way to Genk's superior second-half depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:19:32 UTC"
+}
