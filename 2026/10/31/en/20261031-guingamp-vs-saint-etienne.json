@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552515,
+    "matchup": "Guingamp vs Saint Etienne",
+    "home_team": "Guingamp",
+    "away_team": "Saint Etienne",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-31 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-guingamp-vs-saint-etienne/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guingamp vs Saint Etienne Prediction & Match Analysis: Can Ripoll's Defense Contain Boakye's xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552515",
+      "league": "Ligue 2",
+      "matchup": "Guingamp vs Saint Etienne",
+      "matchTime": "2026-10-31 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Saint-Étienne's league-leading attacking efficiency and transition firepower make an away win the primary projection against a depleted Guingamp pivot.",
+    "possibilityAssessment": [
+      "Saint-Étienne to secure an away victory behind their dynamic front line (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a 2.95 combined goal expectancy (Confidence: Moderate, Value: High)",
+      "Guingamp to breach the scoreline but fall short in a 1:2 script (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552515",
+      "league": "Ligue 2",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Saint Etienne",
+      "match_time": "19:00",
+      "match_highlight": "League leaders Saint-Étienne test away form against resurgent Guingamp at Roudourou.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552515,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Saint-Étienne's league-leading attack (2.30 goals per game) holds the decisive structural advantage over Guingamp's depleted defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.95 goals favors an open contest matching Saint-Étienne's high scoring rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away victory represents the primary convergence, backed by a 0:2 clean-sheet away script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary scoring cluster, with two goals offering strong secondary support."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Saint-Étienne's 60% first-half away lead rate supports Loss-Loss, with Draw-Loss covering a patient second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:07:00 UTC"
+}
