@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601586,
+    "matchup": "Cremonese vs Benevento",
+    "home_team": "Cremonese",
+    "away_team": "Benevento",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-31 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-cremonese-vs-benevento/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cremonese vs Benevento Prediction: Defensive Absences Face Transition xG — XG Mind AI Breakdown",
+    "meta": {
+      "matchId": "1601586",
+      "league": "Serie B",
+      "matchup": "Cremonese vs Benevento",
+      "matchTime": "2026-10-31 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Benevento's transition efficiency and Cremonese's depleted backline establish Draw / Away Win as the primary trajectory.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance projection (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on mutual defensive low blocks (Confidence: High, Value: Moderate)",
+      "1:1 draw as the primary tactical attractor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601586",
+      "league": "Serie B",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Benevento",
+      "match_time": "14:00",
+      "match_highlight": "Depleted Grigiorossi host flying Stregoni at Stadio Giovanni Zini",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601586,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Benevento holds superior attacking fluency and form against Cremonese's heavily depleted backline, while the Grigiorossi's low block preserves draw equity."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by Cremonese failing to score in 75% of home matches and both sides averaging tight margins."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects a cagey 1:1 stalemate as primary and a narrow 0:1 Benevento smash-and-grab as secondary."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Captures the dominant 1-2 goal band expected in Italian Serie B tactical gridlocks."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Projects a scoreless or balanced first half resolving into either a shared point or a second-half away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:08:52 UTC"
+}
