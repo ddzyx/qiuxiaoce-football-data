@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557448,
+    "matchup": "Bournemouth vs Leeds",
+    "home_team": "Bournemouth",
+    "away_team": "Leeds",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-bournemouth-vs-leeds/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Bournemouth vs Leeds: Expected Goals, Midfield Absences & Vitality Match Intelligence",
+    "meta": {
+      "matchId": "1557448",
+      "league": "Premier League",
+      "matchup": "Bournemouth vs Leeds",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bournemouth's superior tactical momentum and defensive impermeability provide the platform to outmaneuver Leeds United's low-scoring block, with Leeds's high draw frequency justifying formal double-chance protection.",
+    "possibilityAssessment": [
+      "Bournemouth to win or draw via Home Win / Draw as Leeds struggle for attacking penetration (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 reflecting combined defensive metrics under 0.40 expected goals against (Confidence: High, Value: Moderate)",
+      "Primary exact scoreline 1:0 with 0:0 serving as secondary defensive hedge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557448",
+      "league": "Premier League",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Leeds",
+      "match_time": "15:00",
+      "match_highlight": "Cherries seek sixth straight clean-sheet win against draw-specialist Leeds",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557448,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bournemouth's dominant 1:0 transitional breakthrough and Leeds's stubborn 0:0 defensive stalemate script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goals profile under 1.25 and Leeds's league-leading five draws heavily reinforce Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "Reflects Bournemouth's narrow attacking edge alongside Leeds's proven capability to secure scoreless draws."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Low scoring density supported by both sides conceding under 0.40 expected goals per game."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Leeds's 75% away half-time draw rate points to a level opening period before a second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:14:09 UTC"
+}
