@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1561954,
+    "matchup": "SCR Altach vs Ried",
+    "home_team": "SCR Altach",
+    "away_team": "Ried",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-31 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-scr-altach-vs-ried/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling SCR Altach vs Ried: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1561954",
+      "league": "Bundesliga",
+      "matchup": "SCR Altach vs Ried",
+      "matchTime": "2026-10-31 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SCR Altach to leverage their fortress home form and physical rest advantage to avoid defeat in an open, high-intensity encounter.",
+    "possibilityAssessment": [
+      "SCR Altach Win or Draw (Home Win / Draw) underpinned by extreme venue asymmetry and Ried's 120-minute cup fatigue (Confidence: Moderate, Value: High)",
+      "Total Goals Over 2.5 driven by Ried's 3.50 goals-per-game season environment and Altach's home scoring rate (Confidence: Moderate, Value: High)",
+      "Scoreline 2:1 as the primary convergence point of home attacking momentum and away transition efficiency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1561954",
+      "league": "Bundesliga",
+      "homeTeam": "SCR Altach",
+      "awayTeam": "Ried",
+      "match_time": "16:00",
+      "match_highlight": "Altach home dominance collides with Ried's 120-minute midweek cup exhaustion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1561954,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Altach's 100% home point share and decisive 48-hour rest advantage make Home Win / Draw the optimal risk-adjusted selection over a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Ried's 1.70 goals conceded per game and Altach's 2.00 home scoring average strongly support an open fixture surpassing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary operational trajectory, with a 1:1 draw providing robust coverage against finishing variance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals emerges as the primary density peak from combined lambdas, followed by two goals in a low-block stalemate scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half preceding a second-half Altach physical surge defines Draw-Win as primary, with Draw-Draw covering the low-block outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 04:05:00 UTC"
+}
