@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551023,
+    "matchup": "CF Pachuca vs Tigres UANL",
+    "home_team": "CF Pachuca",
+    "away_team": "Tigres UANL",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-31 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-cf-pachuca-vs-tigres-uanl/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "CF Pachuca vs Tigres UANL Prediction: Can Rondón Exploit Tigres' Depleted Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551023",
+      "league": "Liga MX",
+      "matchup": "CF Pachuca vs Tigres UANL",
+      "matchTime": "2026-10-31 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CF Pachuca hold the edge to break their home winless run against a center-back-depleted Tigres, with the stalemate covered via Home Win / Draw.",
+    "possibilityAssessment": [
+      "CF Pachuca Win / Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 2:1 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551023",
+      "league": "Liga MX",
+      "homeTeam": "CF Pachuca",
+      "awayTeam": "Tigres UANL",
+      "match_time": "23:00",
+      "match_highlight": "Rondón faces Tigres' injury-ravaged defense in a crucial Liguilla qualification duel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551023,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Pachuca's attacking momentum behind Salomón Rondón exploits Tigres' central defensive absences, while Tigres' high stalemate rate justifies the draw hedge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Pachuca's 2.3 conceded goals per game and Tigres' makeshift backline point toward a 3-goal threshold led by a 2:1 primary scoreline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence, while a 1:1 stalemate provides the logical contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 script, while two goals covers the secondary 1:1 outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight, level opening 45 minutes gives way to second-half separation as Pachuca wears down Tigres' depleted defensive depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 11:05:43 UTC"
+}
