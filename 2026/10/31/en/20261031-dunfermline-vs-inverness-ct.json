@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556888,
+    "matchup": "Dunfermline vs Inverness CT",
+    "home_team": "Dunfermline",
+    "away_team": "Inverness CT",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-dunfermline-vs-inverness-ct/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dunfermline vs Inverness CT Prediction & Match Analysis: Can Pars Stifle Caley Jags? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556888",
+      "league": "Championship",
+      "matchup": "Dunfermline vs Inverness CT",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dunfermline to protect their unbeaten home record in an attritional, low-scoring battle where a 1:1 stalemate or narrow 1:0 victory represents the most probable outcome.",
+    "possibilityAssessment": [
+      "Dunfermline or Draw double chance underpinned by league-best defense conceding only 0.50 goals per game (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by combined 1.79 goal expectancy and five consecutive head-to-head draws (Confidence: High, Value: Moderate)",
+      "Exact Scoreline 1:1 Stalemate reflecting historical deadlock and balanced tactical profiles (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556888",
+      "league": "Championship",
+      "homeTeam": "Dunfermline",
+      "awayTeam": "Inverness CT",
+      "match_time": "15:00",
+      "match_highlight": "Dunfermline's elite defense confronts Inverness's transition form in promotion playoff clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556888,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the dominant 1:1 stalemate script and Dunfermline's narrow 1:0 home win branch, as Dunfermline's low scoring output precludes a single win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by combined match goal expectancy of 1.79 and Dunfermline's 91.7% season Under 2.5 frequency."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The 1:1 stalemate mirrors three of the last five head-to-head clashes, while 1:0 aligns with Dunfermline's signature low-margin victory pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the exact median of both teams' combined expectancies, with one goal serving as the defensive clean-sheet alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Dunfermline have drawn the first half in 75% of their matches, setting up a level interval followed by either a drawn conclusion or late home strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:11:22 UTC"
+}
