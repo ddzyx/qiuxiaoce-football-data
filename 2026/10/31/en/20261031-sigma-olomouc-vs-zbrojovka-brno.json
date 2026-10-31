@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560063,
+    "matchup": "Sigma Olomouc vs Zbrojovka Brno",
+    "home_team": "Sigma Olomouc",
+    "away_team": "Zbrojovka Brno",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-31 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-sigma-olomouc-vs-zbrojovka-brno/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sigma Olomouc vs Zbrojovka Brno: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1560063",
+      "league": "Czech Liga",
+      "matchup": "Sigma Olomouc vs Zbrojovka Brno",
+      "matchTime": "2026-10-31 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sigma Olomouc's superior early-tempo transition play gives them the edge, though Brno's counter-threat justifies backing Home Win with a Draw safety hedge.",
+    "possibilityAssessment": [
+      "Primary script: Sigma Olomouc converts first-half territorial dominance into a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Secondary script: Zbrojovka Brno's compact low block forces a tactical 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Contingency script: Brno steals a late transition point after an early Olomouc lead via HT/FT Win-Draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560063",
+      "league": "Czech Liga",
+      "homeTeam": "Sigma Olomouc",
+      "awayTeam": "Zbrojovka Brno",
+      "match_time": "17:00",
+      "match_highlight": "Moravian derby clash as fourth-placed Olomouc hosts resilient newcomers Brno at Andrův stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560063,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Sigma Olomouc's home dominance warrants the primary win script, while Brno's 60% away unbeaten rate makes the draw coverage essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive concessions averaging over 2.6 goals per match and a 2.9 total lambda support an open, multi-goal derby."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the natural convergence of Olomouc's attack, balanced by a 1:1 stalemate as the principal draw vector."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects the primary 2:1 scenario, while two goals covers the competitive 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Olomouc's 66.7% half-time lead rate supports Win-Win, with Draw-Win reflecting second-half breakthrough pressure against Brno's block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 05:12:59 UTC"
+}
