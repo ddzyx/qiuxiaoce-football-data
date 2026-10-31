@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575532,
+    "matchup": "FC Porto vs Estoril",
+    "home_team": "FC Porto",
+    "away_team": "Estoril",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-10-31 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-porto-vs-estoril/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Porto vs Estoril Prediction & Match Analysis: Can Estoril Breach Dragão Fortress? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575532",
+      "league": "Primeira Liga",
+      "matchup": "FC Porto vs Estoril",
+      "matchTime": "2026-10-31 20:30 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Back FC Porto to secure a controlled home victory against winless Estoril with the match remaining Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "FC Porto regulation home victory driven by elite defensive prevention (Confidence: High, Value: Moderate)",
+      "Total goals settling Under 2.5 due to Estoril's scoring drought and Porto European congestion (Confidence: Moderate, Value: High)",
+      "Exact scoreline converging on 2:0 as Porto manage game tempo post-lead (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575532",
+      "league": "Primeira Liga",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Estoril",
+      "match_time": "20:30",
+      "match_highlight": "Porto's flawless domestic defense meets winless Estoril at Dragão fortress.",
+      "ai_confidence": "High",
+      "fixtureId": 1575532,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "FC Porto's 9-0-0 league record and 0.40 goals conceded per game heavily outmatch winless Estoril."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Estoril's 0.60 goals scored per match and Porto's energy conservation ahead of Napoli support a low total."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Porto have won 75% of home games by a 2-goal margin while conceding just four league goals all season."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model density peaks at 2 goals (23.7%) followed by 1 goal (16.8%) in low-tempo game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Porto have drawn at half-time in 55.6% of league games before securing second-half breakthroughs."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 08:36:36 UTC"
+}
