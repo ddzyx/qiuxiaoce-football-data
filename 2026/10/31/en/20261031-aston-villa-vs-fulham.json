@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557447,
+    "matchup": "Aston Villa vs Fulham",
+    "home_team": "Aston Villa",
+    "away_team": "Fulham",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-aston-villa-vs-fulham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aston Villa vs Fulham Prediction & Match Analysis: Can Cottagers Contain Emery's Fresh Attack? — xG Preview",
+    "meta": {
+      "matchId": "1557447",
+      "league": "Premier League",
+      "matchup": "Aston Villa vs Fulham",
+      "matchTime": "2026-10-31 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Aston Villa to secure all three points in a low-scoring, professionally managed contest.",
+    "possibilityAssessment": [
+      "Aston Villa grind out a narrow second-half victory against Fulham's compact low block (Confidence: Moderate, Value: High)",
+      "A tightly contested encounter finishes Under 2.5 Total Goals due to suppressed chance creation (Confidence: High, Value: Moderate)",
+      "Aston Villa score late on the counter-attack to seal a controlled clean-sheet victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557447",
+      "league": "Premier League",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Fulham",
+      "match_time": "20:00",
+      "match_highlight": "Emery's rested frontline tests Arbeloa's compact low block at Villa Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557447,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Emery's deliberate midweek rotation gives Villa a substantial physical advantage over an offensively depleted Fulham side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Fulham's low-block suppression and modest 0.89 xG per match align with model simulations projecting an Under 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "Both scorelines reflect Villa's historical single-goal margin profile and Fulham's propensity to suffer 1-goal defeats."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One and two exact goals dominate independent Poisson distributions with over 54% combined density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Fulham's 100% away half-time draw rate favors Draw-Win, with Win-Win supported by Villa's flawless 100% lead conversion record."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 08:08:03 UTC"
+}
