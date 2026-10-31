@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603074,
+    "matchup": "Al-Hilal Saudi FC vs Al-Fateh",
+    "home_team": "Al-Hilal Saudi FC",
+    "away_team": "Al-Fateh",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-31 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-al-hilal-saudi-fc-vs-al-fateh/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Hilal Saudi FC vs Al-Fateh Prediction: Inzaghi's High-xG Attack vs Relegation Block — Model Breakdown",
+    "meta": {
+      "matchId": "1603074",
+      "league": "Pro League",
+      "matchup": "Al-Hilal Saudi FC vs Al-Fateh",
+      "matchTime": "2026-10-31 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Hilal Saudi FC are projected to secure a regulation-time victory at Kingdom Arena as their 3.43 xG per match overwhelms Al-Fateh's porous defensive structure.",
+    "possibilityAssessment": [
+      "Al-Hilal dominant multi-goal victory capitalizing on half-space overloads against a low block (Confidence: Moderate, Value: High)",
+      "High-tempo encounter surpassing the 2.5 total goal threshold anchored by 3.45 combined expectancy (Confidence: Moderate, Value: Moderate)",
+      "Competitive low-block resistance by Al-Fateh keeping the deficit to a single goal before late fatigue (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603074",
+      "league": "Pro League",
+      "homeTeam": "Al-Hilal Saudi FC",
+      "awayTeam": "Al-Fateh",
+      "match_time": "18:00",
+      "match_highlight": "Inzaghi's prolific attack confronts Sellami's fragile relegation-threatened backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603074,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Al-Hilal's 90% league win rate and 3.0 goals-per-match output establish an overwhelming structural advantage over 16th-placed Al-Fateh."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal expectancy of 3.45 and Al-Fateh's 2.01 xGA per match strongly favour an open multi-goal contest."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "A 3:1 convergence point reflects Al-Hilal's attacking dominance alongside an opportunistic consolation counter via Batna."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Probabilistic goal density clusters heavily between three and four goals across both simulation models."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Al-Hilal's 60% first-half lead rate points to Win-Win, with Draw-Win providing coverage against an early defensive hold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 06:06:17 UTC"
+}
