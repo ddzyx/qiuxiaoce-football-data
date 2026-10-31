@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556125,
+    "matchup": "Machida Zelvia vs Gamba Osaka",
+    "home_team": "Machida Zelvia",
+    "away_team": "Gamba Osaka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-01 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-machida-zelvia-vs-gamba-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Machida Zelvia vs Gamba Osaka Prediction & Match Analysis: Direct Structure vs Midfield Control — xG Preview",
+    "meta": {
+      "matchId": "1556125",
+      "league": "J1 League",
+      "matchup": "Machida Zelvia vs Gamba Osaka",
+      "matchTime": "2026-11-01 07:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Machida Zelvia's league-leading attack and elite defensive prevention will overwhelm Gamba Osaka's fragile road structure.",
+    "possibilityAssessment": [
+      "Machida Zelvia regulation victory built on set-piece dominance and vertical counter-pressing (Confidence: High, Value: High)",
+      "Controlled low-conceding match resulting in Under 2.5 total goals (Confidence: Moderate, Value: High)",
+      "Secondary scoreline branch seeing Gamba register an isolated consolation strike in a 2:1 home win (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556125",
+      "league": "J1 League",
+      "homeTeam": "Machida Zelvia",
+      "awayTeam": "Gamba Osaka",
+      "match_time": "07:00",
+      "match_highlight": "League leaders Machida face leaky Gamba missing starting goalkeeper Rui Araki",
+      "ai_confidence": "High",
+      "fixtureId": 1556125,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Machida Zelvia's massive xG differential advantage and pristine defensive record at home firmly point to an outright victory against a Gamba side conceding 1.80 goals per match."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Machida have conceded zero goals in five of their last six competitive fixtures, heavily suppressing Gamba's road output in a controlled 2:0 game state."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 victory represents the most probable convergence of Machida's finishing and defensive stability, while 2:1 provides contingency for Gamba's individual transition moments."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "The independent Poisson model concentrates 45.6% of probability density across exact totals of two and three goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Machida lead at half-time in 50% of matches, while Gamba trail at the interval in 57% of away games and hold an away HT lead rate of 0%."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 19:03:37 UTC"
+}
