@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560059,
+    "matchup": "FK Jablonec vs Slavia Praha",
+    "home_team": "FK Jablonec",
+    "away_team": "Slavia Praha",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-31 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-fk-jablonec-vs-slavia-praha/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FK Jablonec vs Slavia Praha Prediction: Can Kozel Halt Trpisovsky's Attack? — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1560059",
+      "league": "Czech Liga",
+      "matchup": "FK Jablonec vs Slavia Praha",
+      "matchTime": "2026-10-31 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Slavia Praha's unbeaten league form and elite road defensive record establish them as clear favorites to secure an away win at Stadion Střelnice.",
+    "possibilityAssessment": [
+      "Slavia Praha away win with a clean sheet (Confidence: Moderate, Value: High)",
+      "Under 2.5 total match goals based on Slavia's 0.20 away goals conceded average (Confidence: Moderate, Value: Moderate)",
+      "Controlled first-half lead converted into full-time victory (Loss-Loss) (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560059",
+      "league": "Czech Liga",
+      "homeTeam": "FK Jablonec",
+      "awayTeam": "Slavia Praha",
+      "match_time": "14:00",
+      "match_highlight": "Slavia's high press challenges Jablonec's resilient low-block at Střelnice.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560059,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Slavia Praha boasts an unbeaten 8-4-0 league record and an 80.0% road win rate, outclassing Jablonec across all fundamental metrics."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Slavia has conceded just 0.20 goals per match on the road, keeping four clean sheets in five away fixtures."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "A controlled away victory reflecting Slavia's defensive steel and Jablonec's sluggish opening tempo."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top probabilistic densities centered on a professional, low-scoring away triumph."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Slavia has led at half-time in 100% of away matches, with a second-half breakthrough serving as the secondary branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:04:34 UTC"
+}
