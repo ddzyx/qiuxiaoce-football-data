@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551026,
+    "matchup": "Club America vs Toluca",
+    "home_team": "Club America",
+    "away_team": "Toluca",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-01 03:10:00",
+    "source_url": "https://xgmind.com/matches/20261101-club-america-vs-toluca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Club America vs Toluca: Expected Goals, Transition Threat & Match Intelligence",
+    "meta": {
+      "matchId": "1551026",
+      "league": "Liga MX",
+      "matchup": "Club America vs Toluca",
+      "matchTime": "2026-11-01 03:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Club America or Draw (Home Win / Draw) alongside an Over 2.5 goal trajectory anchored by a 2:1 primary scoreline.",
+    "possibilityAssessment": [
+      "Club America Win / Draw double chance trajectory (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined offensive firepower (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 2:1 via late second-half home acceleration (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551026",
+      "league": "Liga MX",
+      "homeTeam": "Club America",
+      "awayTeam": "Toluca",
+      "match_time": "03:10",
+      "match_highlight": "Almada's rested leaders face Mohamed's resilient counter-attacking road specialists",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551026,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "América's superior offensive depth at home faces Toluca's league-leading draw tendency, justifying double-chance protection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined attacking output exceeding 4.5 goals per match historically supports an open game surpassing the 2.5 barrier."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 América triumph reflects late offensive breakthroughs, with a 1:1 stalemate guarding against defensive stubbornness."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring distribution centers directly on 3 goals via 2:1, closely trailed by 2 goals in a drawn scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A low-scoring opening 45 minutes gives way to second-half scoring where both sides register over 60% of their total output."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 15:13:30 UTC"
+}
