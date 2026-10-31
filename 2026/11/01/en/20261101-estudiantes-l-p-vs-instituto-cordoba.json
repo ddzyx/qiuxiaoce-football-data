@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493217,
+    "matchup": "Estudiantes L.P. vs Instituto Cordoba",
+    "home_team": "Estudiantes L.P.",
+    "away_team": "Instituto Cordoba",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-01 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-estudiantes-l-p-vs-instituto-cordoba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estudiantes L.P. vs Instituto Cordoba Prediction: Leaders Face UNO Test — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1493217",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Estudiantes L.P. vs Instituto Cordoba",
+      "matchTime": "2026-11-01 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Instituto Córdoba to avoid defeat in a low-scoring tactical encounter at Jorge Luis Hirschi (Draw / Away Win).",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance covers Instituto's point incentive and defensive solidity against a distracted Pincha (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals aligns with aggregate 2.10 lambda expectancy and Instituto conceding just 0.71 goals per match (Confidence: High, Value: Moderate)",
+      "Exact scoreline 1:1 serves as natural equilibrium between Estudiantes home grit and Instituto table-topping form (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493217",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Estudiantes L.P.",
+      "awayTeam": "Instituto Cordoba",
+      "match_time": "00:30",
+      "match_highlight": "League leaders Instituto test defensive resolve at fortress UNO.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493217,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-probability 1:1 stalemate and a narrow 0:1 counter-attacking away win against a depleted, distracted host."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson lambda total of 2.10 and Instituto allowing only 10 goals across 14 Clausura games heavily favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 scoreline represents the primary balance point, while 0:1 provides coverage for a clinical Instituto counter-punch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary convergence of team scoring averages, with a single-goal slugfest serving as secondary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "High venue first-half draw rates (Estudiantes 75%, Instituto 57%) point toward a level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 12:33:40 UTC"
+}
