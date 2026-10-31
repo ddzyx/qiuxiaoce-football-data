@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520957,
+    "matchup": "Nautico Recife vs Avai",
+    "home_team": "Nautico Recife",
+    "away_team": "Avai",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-31 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-nautico-recife-vs-avai/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nautico Recife vs Avai Prediction & Match Analysis: Timbu Attack vs Leao Survival — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520957",
+      "league": "Serie B",
+      "matchup": "Nautico Recife vs Avai",
+      "matchTime": "2026-10-31 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Náutico Recife with draw protection in the double chance market (Home Win / Draw) in a tightly contested, low-scoring relegation clash.",
+    "possibilityAssessment": [
+      "Náutico edges a narrow 1:0 victory through sustained second-half territorial pressure at the Aflitos (Confidence: Moderate, Value: High)",
+      "Avaí's disciplined low block frustrates the hosts into a grinding 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals materializes as both blunt attacks fail to exceed two combined strikes (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520957",
+      "league": "Serie B",
+      "homeTeam": "Nautico Recife",
+      "awayTeam": "Avai",
+      "match_time": "22:30",
+      "match_highlight": "Relegation stakes meet home fortress as Náutico battles an Avaí survival stand.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520957,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Náutico's home superiority alongside the high-density draw risk created by their recent five-match scoring drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average 1.10 and 0.90 goals per match respectively, aligning with heavy historical and rolling Under 2.5 trends."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "The two highest probabilistic convergence points reflecting a narrow home win or a low-scoring shared-point stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates 45.0% of total probability mass across exact totals of one or two goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Avaí's 55.6% away half-time draw rate strongly points to an opening deadlock before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 10:35:14 UTC"
+}
