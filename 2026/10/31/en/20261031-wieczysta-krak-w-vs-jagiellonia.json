@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553215,
+    "matchup": "Wieczysta Kraków vs Jagiellonia",
+    "home_team": "Wieczysta Kraków",
+    "away_team": "Jagiellonia",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-31 13:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-wieczysta-krak-w-vs-jagiellonia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Wieczysta Kraków vs Jagiellonia: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1553215",
+      "league": "Ekstraklasa",
+      "matchup": "Wieczysta Kraków vs Jagiellonia",
+      "matchTime": "2026-10-31 13:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Jagiellonia's transitional quality targets Wieczysta's late defensive frailties.",
+    "possibilityAssessment": [
+      "Jagiellonia capitalize on late-game fatigue to secure an away win (Confidence: Moderate, Value: High)",
+      "Wieczysta maintain sustained possession to earn a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transition end-to-end flow pushing total goals Over 2.5 (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553215",
+      "league": "Ekstraklasa",
+      "homeTeam": "Wieczysta Kraków",
+      "awayTeam": "Jagiellonia",
+      "match_time": "13:45",
+      "match_highlight": "Wieczysta's late defensive vulnerability faces fatigued Jagiellonia transition threat",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553215,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Jagiellonia's late transitional victory script and a competitive 1:1 stalemate script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "High combined xG metrics and leaky defenses support a three-goal game state."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 1:2 road victory and secondary 1:1 level deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary density, with two goals covering the draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a level opening 45 minutes before late fatigue dictates the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 01:48:17 UTC"
+}
