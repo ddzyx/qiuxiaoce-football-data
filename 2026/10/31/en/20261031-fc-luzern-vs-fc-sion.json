@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555416,
+    "matchup": "FC Luzern vs FC Sion",
+    "home_team": "FC Luzern",
+    "away_team": "FC Sion",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-31 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-luzern-vs-fc-sion/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Luzern vs FC Sion Prediction: Can Leaky Defense Contain Sion? — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1555416",
+      "league": "Super League",
+      "matchup": "FC Luzern vs FC Sion",
+      "matchTime": "2026-10-31 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Sion double chance (Draw / Away Win) offers the optimal risk-adjusted direction against a porous Luzern defense.",
+    "possibilityAssessment": [
+      "FC Sion exploits transition channels to secure an away win (Confidence: Moderate, Value: High)",
+      "Luzern relies on home scoring consistency to hold a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo exchanges push match total Over 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555416",
+      "league": "Super League",
+      "homeTeam": "FC Luzern",
+      "awayTeam": "FC Sion",
+      "match_time": "19:30",
+      "match_highlight": "Sion's transition attack tests Luzern's league-worst defense at Swissporarena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555416,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Sion holds superior efficiency to punish Luzern's porous backline while Luzern's home scoring keeps the draw viable."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 3.7 combined goals per game, making Over 2.5 mathematically compelling."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Sion's counter-attacking edge points to a 1:2 win, while a disciplined home effort anchors a 1:1 draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Expected scoring parameters center around three goals, with two goals forming the secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams register low first-half goal shares, pointing to a level opening before Sion strikes late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:35:10 UTC"
+}
