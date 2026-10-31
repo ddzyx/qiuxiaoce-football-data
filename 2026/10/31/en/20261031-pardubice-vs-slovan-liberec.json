@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560058,
+    "matchup": "Pardubice vs Slovan Liberec",
+    "home_team": "Pardubice",
+    "away_team": "Slovan Liberec",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-10-31 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-pardubice-vs-slovan-liberec/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pardubice vs Slovan Liberec Prediction: Can Liberec's Defense Halt In-Form Hosts? — Scoreline Preview",
+    "meta": {
+      "matchId": "1560058",
+      "league": "Czech Liga",
+      "matchup": "Pardubice vs Slovan Liberec",
+      "matchTime": "2026-10-31 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Slovan Liberec's league-leading road defensive solidity should see them avoid defeat against a resurgent Pardubice in a low-scoring duel.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance coverage reflects Liberec's defensive floor and Pardubice's home resistance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with Liberec's 0.60 conceded per match and 62.3% model density (Confidence: Moderate, Value: High)",
+      "Scoreline 0:1 represents the primary convergence of second-half away efficiency and home fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560058",
+      "league": "Czech Liga",
+      "homeTeam": "Pardubice",
+      "awayTeam": "Slovan Liberec",
+      "match_time": "14:00",
+      "match_highlight": "Liberec's road defense meets Pardubice's fast-starting attack at Letní Stadion",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560058,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Liberec's primary 0:1 road victory while respecting Pardubice's four wins in five games via the 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined expected goal parameter of 2.20 and Liberec conceding just 0.60 goals per game heavily support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Liberec's clinical away counter-punching (0:1) alongside Pardubice's proven home resilience (1:1)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one goals combine for over 51% of the derived Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Liberec draw at half-time in 66.7% of away matches before accelerating in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:03:16 UTC"
+}
