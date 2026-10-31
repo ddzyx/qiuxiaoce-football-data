@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1570441,
+    "matchup": "Rayo Vallecano vs Celta Vigo",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Celta Vigo",
+    "league": null,
+    "kickoff_utc": "2026-10-31 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261031-rayo-vallecano-vs-celta-vigo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "La Liga",
+      "matchId": "1570441",
+      "matchup": "Rayo Vallecano vs Celta Vigo",
+      "matchTime": "2026-10-31 15:15 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Rayo Vallecano vs Celta Vigo Prediction & Match Analysis: Midfield Void vs Away Rut — Scoreline & xG Preview",
+    "coreRecommendation": "Rayo Vallecano's historical Vallecas dominance and Celta Vigo's four consecutive road draws point toward a low-scoring stalemate, with double chance Home Win / Draw representing the optimal risk-adjusted position.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Celta have drawn at half-time in 75% of away games, leading to a level full-time finish or a late Rayo breakthrough.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Expresses a primary 1:1 stalemate alongside a 1:0 Rayo victory, eliminating an away win due to Celta's 1-goal road output and 5 confirmed injuries.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "A 2-goal exact total aligns with the 1:1 primary score, while 1 goal covers the narrow 1:0 defensive grind.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Reflects the convergence between Celta's four away draws and Rayo's home territorial advantage.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "La Liga",
+      "matchId": "1570441",
+      "awayTeam": "Celta Vigo",
+      "homeTeam": "Rayo Vallecano",
+      "fixtureId": 1570441,
+      "match_time": "15:15",
+      "over_under": {
+        "comment": "Independent Poisson models indicate an 84.5% probability for Under 2.5, supported by Celta's 0.70 goals conceded per match.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Celta's road goal drought meets Rayo's 10-match unbeaten Vallecas H2H record"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Low-scoring draw (1:1) underpinned by Celta's 0-4-0 away road record and defensive stability (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals dictated by Celta's road goal shortage and 84.5% cumulative Poisson low-total density (Confidence: High, Value: Moderate)",
+      "Narrow 1:0 Rayo Vallecano victory should Celta's injury-depleted defense buckle under wide pressure (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-0",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-10-31 18:12:51 UTC"
+  }
+}
