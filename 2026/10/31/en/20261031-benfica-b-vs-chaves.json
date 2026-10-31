@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576513,
+    "matchup": "Benfica B vs Chaves",
+    "home_team": "Benfica B",
+    "away_team": "Chaves",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-31 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-benfica-b-vs-chaves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Benfica B vs Chaves Prediction & Match Analysis: Seixal Defensive Edge — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1576513",
+      "league": "Segunda Liga",
+      "matchup": "Benfica B vs Chaves",
+      "matchTime": "2026-10-31 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Benfica B to capitalize on superior defensive structure and secure a controlled victory at Benfica Campus against away-struggling Chaves.",
+    "possibilityAssessment": [
+      "Benfica B Home Win backed by elite 0.60 GA/game defense and Chaves winless road form (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by 60.9% model density and historical H2H precedent (Confidence: High, Value: Moderate)",
+      "Benfica B Win-Win HT/FT driven by early territorial dominance and 100% lead retention (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576513",
+      "league": "Segunda Liga",
+      "homeTeam": "Benfica B",
+      "awayTeam": "Chaves",
+      "match_time": "18:00",
+      "match_highlight": "Benfica B defensive wall meets road-struggling Chaves attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576513,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Benfica B's elite 0.60 goals conceded per match and home control comfortably counter Chaves' winless away record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 holds a 60.9% cumulative Poisson density and aligns with four consecutive low-scoring H2H clashes."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "A 1:0 victory represents the modal model convergence, with 2:0 covering a second-half transition breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal represent the highest individual Poisson expectancies at 26.7% and 23.7% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Benfica B possess a 100% full-time conversion when leading at half-time, with Draw-Win providing depth if Chaves resist early."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 06:05:12 UTC"
+}
