@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555417,
+    "matchup": "FC ST. Gallen vs Servette FC",
+    "home_team": "FC ST. Gallen",
+    "away_team": "Servette FC",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-31 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-st-gallen-vs-servette-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC St. Gallen vs Servette FC Prediction & Match Analysis: Transition Speed vs High Press — Scoreline Preview",
+    "meta": {
+      "matchId": "1555417",
+      "league": "Super League",
+      "matchup": "FC ST. Gallen vs Servette FC",
+      "matchTime": "2026-10-31 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC St. Gallen hold the tactical advantage via intense pressing and home goal expectancy, warranting a primary Home Win / Draw selection.",
+    "possibilityAssessment": [
+      "FC St. Gallen exploit transitional space to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Servette FC capitalize on defensive concessions to force a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo exchanges push scoring volume beyond 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555417",
+      "league": "Super League",
+      "homeTeam": "FC ST. Gallen",
+      "awayTeam": "Servette FC",
+      "match_time": "17:00",
+      "match_highlight": "St. Gallen high press confronts Servette counter-attack at Kybunpark",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555417,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers St. Gallen's 2:1 home edge while safeguarding against a 1:1 stalemate given personnel absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.48 and BTTS probability of 67.0% support an open contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win represents the primary convergence, backed by a 1:1 draw contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead Poisson distributions at 21.6%, closely followed by two goals at 18.7%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight opening half yields to St. Gallen's second-half surge, with level resilience as hedge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 05:12:39 UTC"
+}
