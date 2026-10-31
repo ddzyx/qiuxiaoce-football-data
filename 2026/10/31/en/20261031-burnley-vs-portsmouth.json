@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563228,
+    "matchup": "Burnley vs Portsmouth",
+    "home_team": "Burnley",
+    "away_team": "Portsmouth",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-burnley-vs-portsmouth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burnley vs Portsmouth Prediction & Match Analysis: Can Celestini Solve Clarets' Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563228",
+      "league": "Championship",
+      "matchup": "Burnley vs Portsmouth",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Portsmouth to avoid defeat at Turf Moor via the Draw / Away Win corridor as Burnley's defensive fragility offsets their possession control.",
+    "possibilityAssessment": [
+      "Tactical stalemate with Burnley dominating territory but failing to breach Portsmouth's compact block (Confidence: Moderate, Value: High)",
+      "Portsmouth exploit Burnley's transitional vulnerability to steal a narrow road win (Confidence: Moderate, Value: Moderate)",
+      "Celestini's new-manager bounce inspires a resilient home defensive performance (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563228",
+      "league": "Championship",
+      "homeTeam": "Burnley",
+      "awayTeam": "Portsmouth",
+      "match_time": "15:00",
+      "match_highlight": "Celestini's Clarets debut meets Portsmouth's resilient 4-match unbeaten streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563228,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Portsmouth's compact defensive structure and 4-match unbeaten run should resist a fragile, injury-ravaged Burnley side winless at home this season."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Attritional midfield battle and extensive offensive absences across both squads favor a controlled, low-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate serves as the natural convergence point, while a 1:2 away win covers Portsmouth's dangerous counter-attacking threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal baseline distribution, with three goals providing coverage for a dynamic second-half transition script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious, level opening half is expected, transitioning either into a sustained draw or a second-half Portsmouth breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:22:08 UTC"
+}
