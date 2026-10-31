@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555413,
+    "matchup": "Grasshoppers vs FC Vaduz",
+    "home_team": "Grasshoppers",
+    "away_team": "FC Vaduz",
+    "league": "Super League",
+    "kickoff_utc": "2026-10-31 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-grasshoppers-vs-fc-vaduz/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Grasshoppers vs FC Vaduz: Injury Crisis, Road Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1555413",
+      "league": "Super League",
+      "matchup": "Grasshoppers vs FC Vaduz",
+      "matchTime": "2026-10-31 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Vaduz's superior attacking health will exploit Grasshoppers' eight-man injury crisis to avoid defeat in an open encounter.",
+    "possibilityAssessment": [
+      "FC Vaduz breaks road losing streak with a high-tempo 1:2 win (Confidence: Moderate, Value: High)",
+      "Grasshoppers' defensive low block holds Vaduz to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transition battle pushes total over 2.5 goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555413",
+      "league": "Super League",
+      "homeTeam": "Grasshoppers",
+      "awayTeam": "FC Vaduz",
+      "match_time": "17:00",
+      "match_highlight": "Vaduz potent attack faces depleted Grasshoppers defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555413,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vaduz's offensive firepower advantage against Grasshoppers' eight-man injury list while respecting Vaduz's 0-0-6 road record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs concede over two goals per match on average, combining for 49 total goals conceded in 22 league games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Vaduz's consistent scoring and conceding profile, with 1:1 serving as the disciplined low-block hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome represents the primary convergence of both defenses' season-long concession rates."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Grasshoppers' 60% home first-half draw rate supports a level interval before second-half fatigue takes a toll."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 05:12:08 UTC"
+}
