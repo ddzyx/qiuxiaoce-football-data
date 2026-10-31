@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647392,
+    "matchup": "FC Anyang vs Bucheon FC 1995",
+    "home_team": "FC Anyang",
+    "away_team": "Bucheon FC 1995",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-01 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-fc-anyang-vs-bucheon-fc-1995/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Anyang vs Bucheon FC 1995 Prediction: xG Diagnostics & Low-Block Clash — XG Mind AI Analysis",
+    "meta": {
+      "matchId": "1647392",
+      "league": "K League 1",
+      "matchup": "FC Anyang vs Bucheon FC 1995",
+      "matchTime": "2026-11-01 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Anyang are projected to maintain territorial control and secure points against a struggling Bucheon side, with a 2:1 home victory leading a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "FC Anyang win or draw (Home Win / Draw) anchored by recent 5-match unbeaten form against top-tier opposition (Confidence: Moderate, Value: High)",
+      "Total goals settling on 2 or 3 in a tightly contested, low-block battle favoring Under 2.5 (Confidence: Moderate, Value: Moderate)",
+      "Bucheon FC 1995 salvage a 1:1 survival stalemate via Rodrigo Bassani transitional counter-attack (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647392",
+      "league": "K League 1",
+      "homeTeam": "FC Anyang",
+      "awayTeam": "Bucheon FC 1995",
+      "match_time": "07:30",
+      "match_highlight": "Unbeaten Anyang host relegation-threatened Bucheon in tactical derby clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647392,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Anyang's structural superiority in a 2:1 win while accounting for their high 39.4% season draw rate and Bucheon's survival desperation in a 1:1 deadlock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bucheon's low-block containment and recent scoring drought combine with Anyang's controlled possession to favor a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win represents the leading script as Anyang break down Bucheon's porous defense, with 1:1 standing as the primary contingency stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals command over 45% of model probability density across competitive K League 1 Relegation Round scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs draw over 54% of their first halves, pointing toward a level opening before Anyang's superior bench impact dictates the second-half outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 19:36:21 UTC"
+}
