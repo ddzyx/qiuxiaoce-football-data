@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570434,
+    "matchup": "Barcelona vs Alaves",
+    "home_team": "Barcelona",
+    "away_team": "Alaves",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-31 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-barcelona-vs-alaves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Barcelona vs Alaves: Expected Goals (xG), Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1570434",
+      "league": "La Liga",
+      "matchup": "Barcelona vs Alaves",
+      "matchTime": "2026-10-31 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Barcelona to secure a high-scoring regulation victory against an out-of-form Alaves side despite makeshift defensive personnel.",
+    "possibilityAssessment": [
+      "Barcelona Home Win in open multi-goal contest (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined 3.60 xG projection (Confidence: Moderate, Value: High)",
+      "Stubborn Alaves low block holding competitive 2:1 margin (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570434",
+      "league": "La Liga",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Alaves",
+      "match_time": "20:00",
+      "match_highlight": "Barcelona attack aims to overcome backline crisis against struggling Alaves.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570434,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Barcelona's league-leading 3.48 xG per match provides decisive separation against an Alaves squad winless in six fixtures."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Barcelona's prolific home attacking output combined with defensive absences strongly favors a match with 3 or more goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "Projected scorelines reflect sustained Barcelona attacking supremacy alongside a likely transition concession from an improvised backline."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Poisson distribution models concentrate heavily across the 3 and 4 goal spectrum."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Barcelona have led at half-time in 80% of league matches, with Draw-Win providing cover against early Basque resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 08:07:29 UTC"
+}
