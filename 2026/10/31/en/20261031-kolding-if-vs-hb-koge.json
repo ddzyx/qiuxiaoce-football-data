@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551369,
+    "matchup": "Kolding IF vs HB Koge",
+    "home_team": "Kolding IF",
+    "away_team": "HB Koge",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-31 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-kolding-if-vs-hb-koge/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kolding IF vs HB Koge Prediction & Match Analysis: Stalemate Risk at Autocentralen Park — Scoreline Preview",
+    "meta": {
+      "matchId": "1551369",
+      "league": "1. Division",
+      "matchup": "Kolding IF vs HB Koge",
+      "matchTime": "2026-10-31 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kolding IF with draw protection via Home Win / Draw, capitalizing on their defensive stability while guarding against their high draw frequency.",
+    "possibilityAssessment": [
+      "Home Win / Draw provides resilient coverage against Kolding's 50% stalemate rate and HB Koge's leaky defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with HB Koge's 1.80 conceded average and recent direct head-to-head encounters (Confidence: Moderate, Value: Moderate)",
+      "A 2:1 home victory serves as the primary matrix scoreline reflecting second-half transition efficiency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551369",
+      "league": "1. Division",
+      "homeTeam": "Kolding IF",
+      "awayTeam": "HB Koge",
+      "match_time": "12:00",
+      "match_highlight": "Kolding defensive structure meets HB Koge high-event attacking transitions at Autocentralen Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551369,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kolding's defensive baseline at home alongside their chronic 50% draw tendency against Køge's potent counter."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda of 2.80 and HB Køge's 1.80 conceded goals per match across the campaign."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects home offensive efficiency against Køge's backline; 1:1 provides coverage for modal deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals captures the decisive 2:1 script, while two goals covers the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Level opening half anticipated before Kolding exploit late defensive fatigue in the decisive second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 00:08:19 UTC"
+}
