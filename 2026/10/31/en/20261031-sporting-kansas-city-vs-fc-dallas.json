@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490594,
+    "matchup": "Sporting Kansas City vs FC Dallas",
+    "home_team": "Sporting Kansas City",
+    "away_team": "FC Dallas",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-31 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-sporting-kansas-city-vs-fc-dallas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sporting Kansas City vs FC Dallas: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490594",
+      "league": "Major League Soccer",
+      "matchup": "Sporting Kansas City vs FC Dallas",
+      "matchTime": "2026-10-31 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Dallas capitalizes on Kansas City's record-breaking defensive collapse to secure an away win in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Away Win: Dallas exploits Kansas City's depleted backline via Petar Musa to claim maximum points (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals: Sustained scoring efficiency from Dallas coupled with KC home pride yields three or more goals (Confidence: High, Value: Moderate)",
+      "Draw (2:2): Reshuffled Dallas defense allows KC to salvage a high-scoring home finale point (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490594",
+      "league": "Major League Soccer",
+      "homeTeam": "Sporting Kansas City",
+      "awayTeam": "FC Dallas",
+      "match_time": "19:00",
+      "match_highlight": "Dallas attack targets Kansas City's league-worst defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490594,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Dallas's superior attacking firepower and playoff seeding motivation will overpower an SKC squad missing five defensive contributors."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Kansas City's league-record 80 goals conceded and Dallas's 1.54 xG average strongly favor an open encounter exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Dallas possesses the finishing edge to score multiple times while Kansas City's attack snatches a single strike against rotated fullbacks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "A 3.00 combined xG expectancy and high defensive transition vulnerability pinpoint 3 and 4 goals as the primary totals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Kansas City's initial emotional resistance gives way to Dallas's second-half transition efficiency and superior depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:03:56 UTC"
+}
