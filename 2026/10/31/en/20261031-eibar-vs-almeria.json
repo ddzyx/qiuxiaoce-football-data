@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1569996,
+    "matchup": "Eibar vs Almeria",
+    "home_team": "Eibar",
+    "away_team": "Almeria",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-10-31 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261031-eibar-vs-almeria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eibar vs Almeria Prediction & Match Analysis: Fatigue Meets Ipurua Fortress — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1569996",
+      "league": "Segunda División",
+      "matchup": "Eibar vs Almeria",
+      "matchTime": "2026-10-31 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "UD Almería possess the division's sharpest attack, but Eibar's 80% home unbeaten rate makes Draw / Away Win the prudent risk-managed selection.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory covering a 1:2 away triumph or 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by a 3.07 combined expected-goal baseline (Confidence: Moderate, Value: Moderate)",
+      "Correct score convergence on 1:2 with secondary hedge on 1:1 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1569996",
+      "league": "Segunda División",
+      "homeTeam": "Eibar",
+      "awayTeam": "Almeria",
+      "match_time": "15:15",
+      "match_highlight": "Promotion contenders clash as Almeria's attack tests Eibar's home fortress.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1569996,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Almería possess the division's sharpest finishing, but Eibar's 80% home unbeaten record makes a shared point or narrow away win the optimal dual coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal baseline of 3.07 and prolific scoring records support an open encounter surpassing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A competitive 1:2 away triumph represents the primary outcome, with a resilient 1:1 stalemate serving as the direct secondary script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring dynamics heavily concentrate in the 2-to-3 goal band across both simulation branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half reflects early tactical caution before second-half interventions decide the margin."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:46:33 UTC"
+}
