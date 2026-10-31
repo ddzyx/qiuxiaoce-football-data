@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563237,
+    "matchup": "West Ham vs West Brom",
+    "home_team": "West Ham",
+    "away_team": "West Brom",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-west-ham-vs-west-brom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "West Ham vs West Brom Prediction: Can Hammers Firepower Pierce Baggies Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563237",
+      "league": "Championship",
+      "matchup": "West Ham vs West Brom",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back West Ham or Draw (Home Win / Draw) as the Hammers' division-leading firepower faces West Brom's stubborn away low-block at London Stadium.",
+    "possibilityAssessment": [
+      "West Ham to edge a tight second-half contest 2:1 behind persistent crossing pressure (Confidence: Moderate, Value: High)",
+      "West Brom's organized away low block secures a resilient 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals materialized through West Ham's porous transition defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563237",
+      "league": "Championship",
+      "homeTeam": "West Ham",
+      "awayTeam": "West Brom",
+      "match_time": "15:00",
+      "match_highlight": "Third meets fifth in a crucial Championship promotion showdown at London Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563237,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers West Ham's superior 32-goal attacking edge while hedging against West Brom's resolute away defense that holds an 83.3% first-half draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by West Ham's 3.92 combined match-goals average and defensive vulnerabilities exposed against Southampton."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:1 home victory and the secondary 1:1 deadlock script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the 2:1 primary scoreline (3 goals) and the 1:1 secondary projection (2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw at the interval is heavily indicated by West Brom's 83.3% away first-half draw rate, preceding second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:27:19 UTC"
+}
