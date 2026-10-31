@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564392,
+    "matchup": "Bradford vs Huddersfield",
+    "home_team": "Bradford",
+    "away_team": "Huddersfield",
+    "league": "League One",
+    "kickoff_utc": "2026-10-31 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-bradford-vs-huddersfield/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bradford vs Huddersfield Prediction: Can City's Defense Halt Division Leaders? — xG Analysis",
+    "meta": {
+      "matchId": "1564392",
+      "league": "League One",
+      "matchup": "Bradford vs Huddersfield",
+      "matchTime": "2026-10-31 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bradford's league-leading defensive structure under Michael Duff will stifle division leaders Huddersfield Town, securing at least a point in a low-scoring West Yorkshire derby.",
+    "possibilityAssessment": [
+      "Bradford or Draw double chance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals in a cagey tactical battle (Confidence: High, Value: High)",
+      "Scoreless Draw 0:0 leading the probability distribution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564392",
+      "league": "League One",
+      "homeTeam": "Bradford",
+      "awayTeam": "Huddersfield",
+      "match_time": "12:30",
+      "match_highlight": "Michael Duff's impenetrable defense hosts league leaders Huddersfield in West Yorkshire derby",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564392,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Bradford's five consecutive clean sheets under Michael Duff and Huddersfield's travel friction justify backing the hosts to avoid defeat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bradford have conceded only 5 goals all season, creating an extremely suppressed expected-goals environment."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "A 0:0 stalemate is the primary mathematical anchor, with a narrow 1:0 home triumph via set-pieces representing the chief decisive path."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "Defensive suppression dominates, concentrating over 80% of model probability on zero or one total goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A goalless first half is heavily favored, with Bradford either holding the draw or finding a solitary second-half winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 00:42:33 UTC"
+}
