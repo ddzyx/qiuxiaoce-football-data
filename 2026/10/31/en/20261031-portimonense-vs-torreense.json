@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576518,
+    "matchup": "Portimonense vs Torreense",
+    "home_team": "Portimonense",
+    "away_team": "Torreense",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-31 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-portimonense-vs-torreense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portimonense vs Torreense Prediction: Low-Block Clash & Tactical Gridlock — Scoreline Analysis",
+    "meta": {
+      "matchId": "1576518",
+      "league": "Segunda Liga",
+      "matchup": "Portimonense vs Torreense",
+      "matchTime": "2026-10-31 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Portimonense or Draw (1X) in a defensive, low-scoring encounter where neither attack possesses the clinical edge to dominate.",
+    "possibilityAssessment": [
+      "Stalemate between low-scoring mid-table attacks yielding a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Portimonense capitalize on second-half home territory to edge a 1:0 victory (Confidence: Moderate, Value: Moderate)",
+      "Strict officiating and tactical caution restrict overall total goals firmly Under 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576518",
+      "league": "Segunda Liga",
+      "homeTeam": "Portimonense",
+      "awayTeam": "Torreense",
+      "match_time": "14:00",
+      "match_highlight": "Tight Algarve battle as mid-table rivals fight for points",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576518,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 deadlock and secondary 1:0 home victory between two teams averaging under 1.0 goal per game."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson goal expectancy sits at 2.15, supported by low conversion rates and organized mid-blocks."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the modal outcome density, with 1:0 acting as the leading low-variance alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture over 51% of the cumulative probabilistic density distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Low first-half scoring shares favor an interval tie, which either holds or converts late for Portimonense."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:09:00 UTC"
+}
