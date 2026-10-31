@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575203,
+    "matchup": "Bayern München vs Borussia Dortmund",
+    "home_team": "Bayern München",
+    "away_team": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-31 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-bayern-m-nchen-vs-borussia-dortmund/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bayern München vs Borussia Dortmund Prediction & Match Analysis: Can Kovac's Low Block Neutralize Kane? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575203",
+      "league": "Bundesliga",
+      "matchup": "Bayern München vs Borussia Dortmund",
+      "matchTime": "2026-10-31 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bayern München to edge a fiercely contested Klassiker through their superior home attacking volume and elite box finishing.",
+    "possibilityAssessment": [
+      "Bayern München break down Dortmund's stubborn 5-4-1 low block through sustained second-half pressure to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Borussia Dortmund's elite defensive structure limits Bayern to a low-scoring contest but fails to create enough road threat, yielding a 2:0 home win (Confidence: Moderate, Value: Moderate)",
+      "Dortmund exploit Bayern's high defensive line on counter-attacks to snatch a dramatic 2:2 road stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575203",
+      "league": "Bundesliga",
+      "homeTeam": "Bayern München",
+      "awayTeam": "Borussia Dortmund",
+      "match_time": "17:30",
+      "match_highlight": "Table-toppers collide at Allianz Arena in a titanic Klassiker clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575203,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bayern's historical home firepower and Kane's finishing will ultimately break Dortmund's compact defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Expect a 2:1 encounter as Bayern's high defensive line leaves transition space for Guirassy."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 convergence represents the primary script, with 2:0 serving as the defensive contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary density band, supported by a 3.00 combined lambda expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Dortmund's disciplined first-half shape holds early before Bayern's depth decides the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 05:36:17 UTC"
+}
