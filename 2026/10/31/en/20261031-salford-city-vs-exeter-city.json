@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563847,
+    "matchup": "Salford City vs Exeter City",
+    "home_team": "Salford City",
+    "away_team": "Exeter City",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-salford-city-vs-exeter-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Salford City vs Exeter City Prediction: Can Leaders Pierce Grecians' Low Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563847",
+      "league": "League Two",
+      "matchup": "Salford City vs Exeter City",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Salford City's home dominance faces Exeter's elite defense; back Home Win / Draw alongside Under 2.5 Total Goals.",
+    "possibilityAssessment": [
+      "Salford City narrow breakthrough victory (Confidence: Moderate, Value: High)",
+      "Low-scoring defensive stalemate or 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals defensive containment (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563847",
+      "league": "League Two",
+      "homeTeam": "Salford City",
+      "awayTeam": "Exeter City",
+      "match_time": "15:00",
+      "match_highlight": "League leaders test resilience against division's stingiest defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563847,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Salford's narrow 1-0 home breakthrough and Exeter's proven low-block stalemate capacity without Powell."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Exeter's 0.54 goals conceded per match and Salford's 1-goal home margin profile firmly support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A solitary second-half Salford breakthrough is the primary line, with a 1-1 set-piece equalizer as the reserve."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson density peaks on 1 goal (34.7%) and 2 goals (24.0%) amid two disciplined defensive structures."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs draw at half-time in 66.7% of respective venue splits before Salford's late push decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:34:15 UTC"
+}
