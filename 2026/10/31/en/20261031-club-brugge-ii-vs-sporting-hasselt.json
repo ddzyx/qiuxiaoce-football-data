@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559184,
+    "matchup": "Club Brugge II vs Sporting Hasselt",
+    "home_team": "Club Brugge II",
+    "away_team": "Sporting Hasselt",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-10-31 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-club-brugge-ii-vs-sporting-hasselt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Club Brugge II vs Sporting Hasselt Prediction: Can Club NXT Contain Hasselt's Away Form? — Scoreline Preview",
+    "meta": {
+      "matchId": "1559184",
+      "league": "Challenger Pro League",
+      "matchup": "Club Brugge II vs Sporting Hasselt",
+      "matchTime": "2026-10-31 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sporting Hasselt's 75% road winning record and transitional efficiency provide the decisive edge, but Club NXT's resilience warrants backing Draw / Away Win alongside Over 2.5.",
+    "possibilityAssessment": [
+      "Sporting Hasselt exploit transitional spaces late to secure a narrow road victory (Confidence: Moderate, Value: High)",
+      "Club NXT control territorial possession to forge a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Club NXT's creative young wingers capitalize on home territory in a high-tempo shootout (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559184",
+      "league": "Challenger Pro League",
+      "homeTeam": "Club Brugge II",
+      "awayTeam": "Sporting Hasselt",
+      "match_time": "19:00",
+      "match_highlight": "Club NXT's high-line possession meets Hasselt's lethal away transition counter-attacks",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559184,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 tactical stalemate and Hasselt's signature 1:2 road victory, reflecting their 75% away win rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Aggregate scoring lambda of 3.00 and Club NXT's 1.57 goals per match point toward an open, multi-goal contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away win reflects Hasselt's single-goal road margin trend, while 1:1 represents the natural modal Poisson equilibrium."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with Club NXT's open transition dynamics, with two goals covering the tight draw scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides exhibit high first-half draw rates, with Hasselt's late road punch favoring a second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:07:05 UTC"
+}
