@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552513,
+    "matchup": "Annecy vs Montpellier",
+    "home_team": "Annecy",
+    "away_team": "Montpellier",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-10-31 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-annecy-vs-montpellier/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Annecy vs Montpellier: Expected Goals, Fullback Injuries & Second-Half Match Intelligence",
+    "meta": {
+      "matchId": "1552513",
+      "league": "Ligue 2",
+      "matchup": "Annecy vs Montpellier",
+      "matchTime": "2026-10-31 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Montpellier's division-best defensive spine and second-half composure provide a decisive edge over volatile, fast-starting Annecy, supporting Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance as primary structural thesis (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals capitalizing on Annecy's open transitions (Confidence: Moderate, Value: High)",
+      "1:2 Away Win as primary scoreline convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552513",
+      "league": "Ligue 2",
+      "homeTeam": "Annecy",
+      "awayTeam": "Montpellier",
+      "match_time": "13:00",
+      "match_highlight": "Montpellier's elite defense confronts Annecy's fast-starting attack in Haute-Savoie",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552513,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Montpellier's 90% unbeaten rate and elite 0.60 conceded goals average outweigh Annecy's home struggles, with Draw offering protection against early variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Annecy's high-tempo 1.47 xG attacking style and Montpellier's depleted fullback flanks favor a three-goal match environment."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Montpellier's late-game acceleration supports a 1:2 away triumph, while a 1:1 stalemate serves as the modal Poisson contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the leading decisive script, while two goals cover the tighter central defensive deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Montpellier's 100% away halftime draw rate transitions into either a second-half away victory or a shared draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 01:04:07 UTC"
+}
