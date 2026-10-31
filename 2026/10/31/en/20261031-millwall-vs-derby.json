@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563231,
+    "matchup": "Millwall vs Derby",
+    "home_team": "Millwall",
+    "away_team": "Derby",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-millwall-vs-derby/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Millwall vs Derby County Prediction: Rams Face Injury Crisis at The Den — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563231",
+      "league": "Championship",
+      "matchup": "Millwall vs Derby",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Millwall capitalize on Derby County's catastrophic defensive injury crisis to secure a regulation home victory at The Den.",
+    "possibilityAssessment": [
+      "Millwall Home Win via aerial crossing dominance against a makeshift Derby backline (Confidence: Moderate, Value: High)",
+      "Total Goals Over 2.5 driven by defensive absences and reserve goalkeeping on both sides (Confidence: Moderate, Value: High)",
+      "Draw-Win Half-Time/Full-Time transition as Derby's low block fatigues in the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563231",
+      "league": "Championship",
+      "homeTeam": "Millwall",
+      "awayTeam": "Derby",
+      "match_time": "15:00",
+      "match_highlight": "Depleted Rams defense faces Lions aerial bombardment at The Den.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563231,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Millwall's 1.78 xG per game creation rate and box dominance overwhelm a Derby side missing six senior defenders and winless in eight."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.95 and depleted defensive personnel on both sides support a three-goal match profile."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Millwall's attacking edge alongside minor defensive leakage; 2:0 covers the clean-sheet low-block scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence point (22.4% density), with two goals serving as the immediate secondary baseline (22.5%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures Millwall's heavy second-half goal skew (63.6%); Win-Win reflects an early set-piece breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:24:30 UTC"
+}
