@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490592,
+    "matchup": "Los Angeles Galaxy vs Austin",
+    "home_team": "Los Angeles Galaxy",
+    "away_team": "Austin",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-10-31 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-los-angeles-galaxy-vs-austin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Los Angeles Galaxy vs Austin Prediction: Exploiting Road Defensive Flaws — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490592",
+      "league": "Major League Soccer",
+      "matchup": "Los Angeles Galaxy vs Austin",
+      "matchTime": "2026-10-31 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Los Angeles Galaxy possess the territorial edge to dispatch Austin's fragile road defense, but covering the draw remains essential given creative midfield absences.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance trajectory (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals convergence (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 2:1 primary outcome (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490592",
+      "league": "Major League Soccer",
+      "homeTeam": "Los Angeles Galaxy",
+      "awayTeam": "Austin",
+      "match_time": "21:00",
+      "match_highlight": "Galaxy chase playoff positioning against Austin's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490592,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Galaxy hold strong home form against Austin's porous defense, but Puig's absence and defensive concessions make draw coverage mandatory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.20 and high conceded xGA for both clubs heavily favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 victory reflects home attacking pressure, while 1:1 accounts for midfield creative friction without Puig."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal distribution point, with two goals covering tighter game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Austin's 53% first-half away draw rate points to a level opening interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 09:05:39 UTC"
+}
