@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575209,
+    "matchup": "Werder Bremen vs 1899 Hoffenheim",
+    "home_team": "Werder Bremen",
+    "away_team": "1899 Hoffenheim",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-31 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-werder-bremen-vs-1899-hoffenheim/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Werder Bremen vs 1899 Hoffenheim Prediction: Can Füllkrug Exploit Kraichgauer Fatigue? — xG Preview",
+    "meta": {
+      "matchId": "1575209",
+      "league": "Bundesliga",
+      "matchup": "Werder Bremen vs 1899 Hoffenheim",
+      "matchTime": "2026-10-31 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Werder Bremen to exploit superior rest and Kraichgauer defensive absences to protect their unbeaten home record in an open match exceeding 2.5 goals.",
+    "possibilityAssessment": [
+      "Werder Bremen win or draw (Home Win / Draw) backed by home form and physical superiority (Confidence: Moderate, Value: High)",
+      "Match total exceeding 2.5 goals based on both sides conceding 2.0 goals per game (Confidence: High, Value: High)",
+      "High-scoring score draw contingency (2:2) covering Hoffenheim's elite shot generation (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575209",
+      "league": "Bundesliga",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "1899 Hoffenheim",
+      "match_time": "14:30",
+      "match_highlight": "Füllkrug targets fatigued Kraichgauer defense in high-scoring Weserstadion clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575209,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Werder's physical rest edge and home form while respecting Hoffenheim's potent transitional threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.0 goals scored and conceded per match with zero combined clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Converges on Bremen's late attacking edge against an exhausted opponent while leaving room for an open draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "High combined scoring lambda of 3.50 supports a dynamic 3 or 4 goal match distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight, contested first half before Hoffenheim's 120-minute midweek fatigue manifests late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:37:58 UTC"
+}
