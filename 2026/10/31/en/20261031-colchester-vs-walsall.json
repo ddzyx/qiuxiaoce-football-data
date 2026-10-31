@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563840,
+    "matchup": "Colchester vs Walsall",
+    "home_team": "Colchester",
+    "away_team": "Walsall",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-colchester-vs-walsall/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Colchester vs Walsall: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1563840",
+      "league": "League Two",
+      "matchup": "Colchester vs Walsall",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as the primary full-time direction, anchoring the tactical assessment around a hard-fought 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capturing Walsall's away draw tendency and superior depth (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting Colchester's missing creators and solid home defense (Confidence: Moderate, Value: Moderate)",
+      "1:1 exact scoreline as the primary convergence point across venue metrics (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563840",
+      "league": "League Two",
+      "homeTeam": "Colchester",
+      "awayTeam": "Walsall",
+      "match_time": "15:00",
+      "match_highlight": "Clash of unblemished venue streaks as draw-heavy Walsall visit unbeaten home hosts Colchester.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563840,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a low-scoring 1:1 stalemate alongside a narrow 1:2 Walsall victory; a single call understates Walsall's heavy away draw rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Colchester's missing creators and Walsall's 0.90 road goals conceded strongly favor an Under 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Primary 1:1 reflects historical head-to-head stalemates and Walsall's away run; secondary 1:2 covers a late visitor breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the core convergence point of 1:1, while three goals capture the secondary 1:2 Walsall victory script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Primary Draw-Draw aligns with cagey first halves and the 1:1 result; Draw-Loss reflects Walsall's 87.5% second-half road goal share."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:29:37 UTC"
+}
