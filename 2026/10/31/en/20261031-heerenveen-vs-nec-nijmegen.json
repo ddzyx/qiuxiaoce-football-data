@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552208,
+    "matchup": "Heerenveen vs NEC Nijmegen",
+    "home_team": "Heerenveen",
+    "away_team": "NEC Nijmegen",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-31 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-heerenveen-vs-nec-nijmegen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Heerenveen vs NEC Nijmegen Prediction: Defensive Injuries Tilt xG Dynamics — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1552208",
+      "league": "Eredivisie",
+      "matchup": "Heerenveen vs NEC Nijmegen",
+      "matchTime": "2026-10-31 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Heerenveen's transitional firepower against a severely depleted NEC backline makes Home Win / Draw with Over 2.5 the optimal projection.",
+    "possibilityAssessment": [
+      "Heerenveen exploit defensive absences to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "NEC's possession dominance forces a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional flow pushes total scoring past 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552208",
+      "league": "Eredivisie",
+      "homeTeam": "Heerenveen",
+      "awayTeam": "NEC Nijmegen",
+      "match_time": "17:45",
+      "match_highlight": "Depleted NEC backline faces Heerenveen's surging transition attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552208,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Heerenveen's attack holds the edge over NEC's injury-hit defense, while covering NEC's 50% draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match lambda of 3.42 and poor defensive metrics heavily favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:1 home victory script and the 1:1 possession-stalemate alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary density, with two goals capturing a tightly managed contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs score the majority of their goals after the break, pointing to a drawn opening half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 05:50:44 UTC"
+}
