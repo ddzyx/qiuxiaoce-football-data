@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557452,
+    "matchup": "Hull City vs Ipswich",
+    "home_team": "Hull City",
+    "away_team": "Ipswich",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-hull-city-vs-ipswich/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Hull City vs Ipswich: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1557452",
+      "league": "Premier League",
+      "matchup": "Hull City vs Ipswich",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hull City's resilient defensive structure at the MKM Stadium will preserve their unbeaten home run against Ipswich's direct transitions in a balanced low-scoring contest.",
+    "possibilityAssessment": [
+      "Primary full-time outcome leans towards a disciplined stalemate or narrow home margin under double-chance coverage (Confidence: Moderate, Value: High)",
+      "Game progression heavily favors Under 2.5 goals as Hull's 5-4-1 low block neutralizes central penetration (Confidence: High, Value: Moderate)",
+      "Secondary scoreline branch accounts for a solitary set-piece breakthrough delivering a 1:0 victory for the hosts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557452",
+      "league": "Premier League",
+      "homeTeam": "Hull City",
+      "awayTeam": "Ipswich",
+      "match_time": "15:00",
+      "match_highlight": "Unbeaten home defense clashes with direct away counter-attacking transitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557452,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Hull's unbeaten home record and 5-4-1 defensive block counter Ipswich's road fragility, covering both a tight stalemate and a narrow home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Hull concede only 1.0 goal per match and generate low baseline xG, keeping total scoring volume restricted."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 tactical deadlock reflects Hull's high home draw rate, with a 1:0 set-piece win serving as the principal alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represent the peak probability convergence, followed closely by a single-goal defensive grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Win-Draw"
+        ],
+        "comment": "Hull's strong first-half defensive stability points to level intervals, with second-half attrition driving the final split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:17:01 UTC"
+}
