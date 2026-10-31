@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552210,
+    "matchup": "Ajax vs AZ Alkmaar",
+    "home_team": "Ajax",
+    "away_team": "AZ Alkmaar",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-10-31 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-ajax-vs-az-alkmaar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ajax vs AZ Alkmaar Prediction & Match Analysis: Can Godenzonen Neutralize Bogey Threat? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552210",
+      "league": "Eredivisie",
+      "matchup": "Ajax vs AZ Alkmaar",
+      "matchTime": "2026-10-31 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ajax hold sufficient attacking potency to secure points at home, but persistent defensive vulnerabilities and AZ's head-to-head resilience make Home Win / Draw the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Ajax capitalise on early territorial dominance through Brandt and Arokodare to claim a hard-fought 2:1 home victory (Confidence: Moderate, Value: High)",
+      "AZ Alkmaar absorb central pressure and exploit transitional spaces to enforce a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "An open tactical exchange sees defensive lapses on both sides push total goals above the 2.5 threshold (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552210",
+      "league": "Eredivisie",
+      "homeTeam": "Ajax",
+      "awayTeam": "AZ Alkmaar",
+      "match_time": "20:00",
+      "match_highlight": "Ajax battle bogey team AZ Alkmaar in crucial top-five Eredivisie showdown.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552210,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Ajax's offensive output provides the primary winning edge, while their 20% home win rate and AZ's 11-match unbeaten H2H run necessitate covering the draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 2.85 and Ajax's 1.80 conceded goals per home match strongly support exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Ajax's attacking edge, while a 1:1 stalemate captures AZ's proven counter-attacking resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence of both attacks, with two goals acting as the natural low-variance hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win mirrors Ajax leading early and closing out the win, whereas Draw-Draw captures a disciplined, deadlocked tactical battle."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 08:05:16 UTC"
+}
