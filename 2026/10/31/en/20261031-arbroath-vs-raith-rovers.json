@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556886,
+    "matchup": "Arbroath vs Raith Rovers",
+    "home_team": "Arbroath",
+    "away_team": "Raith Rovers",
+    "league": "Championship",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-arbroath-vs-raith-rovers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arbroath vs Raith Rovers Prediction & Preview: Gayfield Grind vs Road Prowess — Scoreline Analysis",
+    "meta": {
+      "matchId": "1556886",
+      "league": "Championship",
+      "matchup": "Arbroath vs Raith Rovers",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Raith Rovers' elite defense and traveling form favor a positive road result, with a low-scoring draw providing necessary cover against Gayfield's coastal resilience.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance aligns with Raith's 83.3% road unbeaten record and Arbroath's 0.58 goals/match output (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a combined lambda of 2.08 and Arbroath failing to score in 58.3% of league games (Confidence: High, Value: Moderate)",
+      "0:1 Correct Score as the primary convergence point of Raith's 0.67 road xGA and Arbroath's goal drought (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556886",
+      "league": "Championship",
+      "homeTeam": "Arbroath",
+      "awayTeam": "Raith Rovers",
+      "match_time": "15:00",
+      "match_highlight": "Raith Rovers aim to breach Arbroath's stubborn Gayfield low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556886,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Raith's superior technical quality (0:1 win) alongside Gayfield's coastal stalemate potential (1:1 draw), which a single away win would leave exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Solidified by a 2.08 lambda goal expectancy and Arbroath failing to score in seven of their 12 league matches."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Raith's division-best defense holding Arbroath scoreless or settling for an attritional coastal draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Conforms to tight Championship margins where both sides average under 1.5 combined goals in recent road and home splits."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Arbroath's 60% home halftime draw rate leads to a level opening 45 minutes before Raith's quality decides the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:11:01 UTC"
+}
