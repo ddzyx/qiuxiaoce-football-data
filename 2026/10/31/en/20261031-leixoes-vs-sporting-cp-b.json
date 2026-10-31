@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576515,
+    "matchup": "Leixoes vs Sporting CP B",
+    "home_team": "Leixoes",
+    "away_team": "Sporting CP B",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-31 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-leixoes-vs-sporting-cp-b/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Leixões vs Sporting CP B: Match Analysis, Midfield Suspension & Tactical Breakdown",
+    "meta": {
+      "matchId": "1576515",
+      "league": "Segunda Liga",
+      "matchup": "Leixoes vs Sporting CP B",
+      "matchTime": "2026-10-31 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sporting CP B's tactical fluidity and defensive organization exploit Leixões' missing midfield anchor to secure points at Estádio do Mar.",
+    "possibilityAssessment": [
+      "Sporting CP B exploits transition gaps to break down a reshuffled Leixões midfield (Confidence: Moderate, Value: High)",
+      "Leixões relies on veteran grit and Bryan Róchez to force a low-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Early tactical caution yields an Under 2.5 grind decided in the second half (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576515",
+      "league": "Segunda Liga",
+      "homeTeam": "Leixoes",
+      "awayTeam": "Sporting CP B",
+      "match_time": "15:30",
+      "match_highlight": "Suspension to Leixões anchor Baldé gives Lions midfield control",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576515,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sporting CP B's primary victory route and Leixões' low-block home stalemate scenario."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by Sporting CP B conceding just 0.8 goals per match and Leixões' cagey home setup."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects a controlled Lions breakthrough, while 1:1 captures Leixões' veteran resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson matrix concentrates 46.2% probability density across exactly 1 or 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening 45 minutes precedes Sporting CP B's superior bench impact and second-half tempo."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:52:32 UTC"
+}
