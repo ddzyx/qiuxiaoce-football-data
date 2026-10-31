@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552809,
+    "matchup": "Estac Troyes vs Le Mans",
+    "home_team": "Estac Troyes",
+    "away_team": "Le Mans",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-31 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-estac-troyes-vs-le-mans/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estac Troyes vs Le Mans Prediction & Match Analysis: Relegation Six-Pointer & xG Model Preview",
+    "meta": {
+      "matchId": "1552809",
+      "league": "Ligue 1",
+      "matchup": "Estac Troyes vs Le Mans",
+      "matchTime": "2026-10-31 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win in a low-scoring relegation battle, supported by an Under 2.5 goals script.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals defensive containment (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 tactical equilibrium (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552809",
+      "league": "Ligue 1",
+      "homeTeam": "Estac Troyes",
+      "awayTeam": "Le Mans",
+      "match_time": "19:45",
+      "match_highlight": "Relegation six-pointer featuring Troyes home winless hex against Le Mans away scoring.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552809,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:1 stalemate and 0:1 away win scripts, avoiding a single call due to Le Mans' defensive concessions."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 1.845 and Troyes' league-low five goals scored support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects Le Mans away scoring meeting Troyes home resistance; 0:1 covers a late visitor breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the primary convergence, while a single-goal attrition contest serves as secondary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw reflects conservative parity throughout; Draw-Loss captures a second-half away decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:49:42 UTC"
+}
