@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505553,
+    "matchup": "O'Higgins vs Nublense",
+    "home_team": "O'Higgins",
+    "away_team": "Nublense",
+    "league": "Primera División",
+    "kickoff_utc": "2026-10-31 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-o-higgins-vs-nublense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "O'Higgins vs Nublense Prediction & Match Analysis: Midfield Strain at El Teniente — Scoreline Preview",
+    "meta": {
+      "matchId": "1505553",
+      "league": "Primera División",
+      "matchup": "O'Higgins vs Nublense",
+      "matchTime": "2026-10-31 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Statistical modeling and away resilience favor Nublense avoiding defeat in a disciplined tactical stalemate against O'Higgins.",
+    "possibilityAssessment": [
+      "Tactical Draw / Away Win double chance supported by Nublense's 72.7% away unbeaten rate and O'Higgins' defensive injuries (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reinforced by mutual 1.2 goals-per-game scoring baselines and low road conversion (Confidence: Moderate, Value: Moderate)",
+      "Low-margin 1:1 stalemate or narrow 0:1 away counter-attack representing the primary scoreline convergence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505553",
+      "league": "Primera División",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Nublense",
+      "match_time": "21:00",
+      "match_highlight": "Nublense's road resilience tests O'Higgins' fragile defense at El Teniente.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505553,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 tactical deadlock and the secondary 0:1 away transition victory, reflecting Nublense's superior road stability."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides average just 1.2 goals per match while Nublense has kept seven clean sheets this season."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 draw serves as the model median, with a 0:1 away victory capturing Nublense's counter-attacking efficiency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the most probable outcome at 24.2%, with a single goal providing the immediate defensive hedge at 17.6%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half is projected to produce a level interval before second-half adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 09:06:03 UTC"
+}
