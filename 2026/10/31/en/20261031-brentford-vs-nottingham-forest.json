@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557449,
+    "matchup": "Brentford vs Nottingham Forest",
+    "home_team": "Brentford",
+    "away_team": "Nottingham Forest",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-brentford-vs-nottingham-forest/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Brentford vs Nottingham Forest: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1557449",
+      "league": "Premier League",
+      "matchup": "Brentford vs Nottingham Forest",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brentford on the double chance (Home Win / Draw) in a tightly contested, low-scoring fixture that heavily favours Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Brentford control territory but get held to a 1:1 stalemate by Forest's compact low block (Confidence: Moderate, Value: High)",
+      "Brentford's sustained home pressure produces a narrow 2:1 breakthrough late in the second half (Confidence: Moderate, Value: Moderate)",
+      "A defensive war of attrition limits clear-cut chances, anchoring the total firmly Under 2.5 goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557449",
+      "league": "Premier League",
+      "homeTeam": "Brentford",
+      "awayTeam": "Nottingham Forest",
+      "match_time": "15:00",
+      "match_highlight": "Stalemate-prone Brentford face Forest's low block missing creator Carvalho",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557449,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-density 1:1 stalemate and Brentford's 2:1 home victory script while eliminating the low-probability away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 commands a 62.8% probability density given Forest's 0.75 goals per match and Brentford's 0.54 conceded xG."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 scoreline serves as the Poisson modal peak, with 2:1 capturing the late home breakthrough scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 goals directly align with the two leading scorelines in a closely fought clash."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Forest draw 75% of first halves, pointing toward a level opening period before the second half decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:14:23 UTC"
+}
