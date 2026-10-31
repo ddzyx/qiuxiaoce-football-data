@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576220,
+    "matchup": "1. FC Kaiserslautern vs Hertha BSC",
+    "home_team": "1. FC Kaiserslautern",
+    "away_team": "Hertha BSC",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-10-31 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-1-fc-kaiserslautern-vs-hertha-bsc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Kaiserslautern vs Hertha BSC Prediction: Can Betzenberg Stifle the Leaders? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576220",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Kaiserslautern vs Hertha BSC",
+      "matchTime": "2026-10-31 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kaiserslautern's unyielding home defensive record and Hertha's low-tempo away approach converge on a low-scoring draw or narrow away win, strongly favoring Draw / Away Win under 2.5 goals.",
+    "possibilityAssessment": [
+      "Stalemate thesis: Kaiserslautern's flawless home clean-sheet wall neutralizes Hertha's possession build-up across 90 minutes (Confidence: Moderate, Value: High)",
+      "Late breakthrough thesis: Hertha's second-half possession pressure yields a solitary goal against tired home legs (Confidence: Moderate, Value: Moderate)",
+      "Counter-strike thesis: Prtajin's aerial presence on a late set piece snatches a shock 1-0 home victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576220",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Kaiserslautern",
+      "awayTeam": "Hertha BSC",
+      "match_time": "12:00",
+      "match_highlight": "Kaiserslautern's clean sheet fortress meets Hertha's league-leading machine at Betzenberg.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576220,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the dominant goalless stalemate while acknowledging Hertha's superior individual quality to pinch a solitary late second-half winner."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 0.725 and Kaiserslautern's zero home goals conceded point decisively to a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "A 0:0 stalemate reflects the convergence of elite xGA metrics, with 0:1 providing the primary alternative via Hertha's late bench depth."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "Extremely low combined xG outputs make 0 and 1 goals the overwhelming density leaders."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Hertha have drawn at half-time in 80% of away matches, leading naturally to Draw-Draw and Draw-Loss game progressions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 00:07:19 UTC"
+}
