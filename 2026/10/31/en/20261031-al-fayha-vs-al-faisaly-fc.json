@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1603073,
+    "matchup": "Al-Fayha vs Al-Faisaly FC",
+    "home_team": "Al-Fayha",
+    "away_team": "Al-Faisaly FC",
+    "league": "Pro League",
+    "kickoff_utc": "2026-10-31 14:55:00",
+    "source_url": "https://xgmind.com/matches/20261031-al-fayha-vs-al-faisaly-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Fayha vs Al-Faisaly FC Prediction & Match Analysis: Sudair Derby Stalemate or Breakthrough? — Scoreline Preview",
+    "meta": {
+      "matchId": "1603073",
+      "league": "Pro League",
+      "matchup": "Al-Fayha vs Al-Faisaly FC",
+      "matchTime": "2026-10-31 14:55 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Faisaly's marginal offensive edge and Al-Fayha's high draw frequency point to Draw / Away Win as the optimal risk-adjusted selection.",
+    "possibilityAssessment": [
+      "Draw / Away Win core thesis anchored by tactical parity in the Sudair Derby (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by cagey relegation dynamics and low open-play chance volume (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 reflecting balanced scoring efficiency and high stalemate probability (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603073",
+      "league": "Pro League",
+      "homeTeam": "Al-Fayha",
+      "awayTeam": "Al-Faisaly FC",
+      "match_time": "14:55",
+      "match_highlight": "Sudair Derby clash pits Sakala's pace against Mendy's clinical penalty-box presence",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603073,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and secondary 1:2 away win; a single call understates Al-Fayha's 60% home unbeaten rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average around 1.1 goals per match with conservative mid-blocks capping total scoring chances."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate represents the primary convergence, while 1:2 accounts for late transition exploitation by Mendy."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal outcome of a 1:1 draw, while three goals reflects the secondary away win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Al-Faisaly have zero halftime leads this season, strongly favoring a level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:00:35 UTC"
+}
