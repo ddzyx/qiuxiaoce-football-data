@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564401,
+    "matchup": "Wigan vs Bromley",
+    "home_team": "Wigan",
+    "away_team": "Bromley",
+    "league": "League One",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-wigan-vs-bromley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wigan vs Bromley Prediction & Match Analysis: Can Latics Punish Ravens' Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1564401",
+      "league": "League One",
+      "matchup": "Wigan vs Bromley",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Wigan Athletic Double Chance (Home Win / Draw) in an attritional relegation encounter defined by defensive discipline and limited goalmouth efficiency.",
+    "possibilityAssessment": [
+      "Wigan capitalize on home stability and Bromley's porous defense to secure a narrow 1:0 victory (Confidence: Moderate, Value: High)",
+      "An attritional basement battle ends in a cagey 1:1 stalemate as Wigan's finishing struggles persist (Confidence: Moderate, Value: Moderate)",
+      "A tense defensive standoff where neither side breaks through resulting in a low-scoring Under 2.5 grind (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564401",
+      "league": "League One",
+      "homeTeam": "Wigan",
+      "awayTeam": "Bromley",
+      "match_time": "15:00",
+      "match_highlight": "Relegation six-pointer hinges on Wigan's home defense versus Bromley's porous backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564401,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Wigan's respectable home defensive record should hold against Bromley's road woes, while covering the draw addresses the Latics' low scoring output."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides struggle for open-play chance creation, pointing to a low-tempo relegation battle that stays below three goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A disciplined 1:0 Wigan home victory leads, with a 1:1 stalemate covering finishing variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represent the primary expectation across 1:1 and 2:0 scripts, with a single-goal 1:0 grind as the immediate alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Wigan score 87.5% of their goals after halftime, favoring a level first half before late adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:46:10 UTC"
+}
