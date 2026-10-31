@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558663,
+    "matchup": "SK Beveren vs Union St. Gilloise",
+    "home_team": "SK Beveren",
+    "away_team": "Union St. Gilloise",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-10-31 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-sk-beveren-vs-union-st-gilloise/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SK Beveren vs Union St. Gilloise Prediction: Can Host Defense Halt Les Unionistes? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1558663",
+      "league": "Jupiler Pro League",
+      "matchup": "SK Beveren vs Union St. Gilloise",
+      "matchTime": "2026-10-31 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Union Saint-Gilloise to overpower SK Beveren's fragile transition defense and secure a regulation away victory.",
+    "possibilityAssessment": [
+      "Union Saint-Gilloise assert positional dominance and outscore Beveren in a multi-goal contest (Confidence: Moderate, Value: High)",
+      "Total goals surpass the 2.5 threshold driven by Union's 3.00 goals-per-match offensive rate (Confidence: Moderate, Value: High)",
+      "SK Beveren maintain first-half resistance before Union's superior squad depth breaks through (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558663",
+      "league": "Jupiler Pro League",
+      "homeTeam": "SK Beveren",
+      "awayTeam": "Union St. Gilloise",
+      "match_time": "19:45",
+      "match_highlight": "Unbeaten Union visit Freethiel targeting their fifth consecutive away victory.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558663,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Union Saint-Gilloise possess overwhelming advantages in expected goals (2.13 vs 1.14) and road form (4-0-0) against Beveren's porous defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "An aggregate goal expectancy of 3.17 and Beveren conceding 1.97 xGA per match strongly favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away victory reflects the primary model convergence, while 0:2 covers a controlled clean-sheet scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal distribution point, with two goals offering strong alternative coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures Beveren's typical first-half resistance before Union's second-half depth decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:52:07 UTC"
+}
