@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1557451,
+    "matchup": "Coventry vs Sunderland",
+    "home_team": "Coventry",
+    "away_team": "Sunderland",
+    "league": null,
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-coventry-vs-sunderland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Premier League",
+      "matchId": "1557451",
+      "matchup": "Coventry vs Sunderland",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ],
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "0",
+        "1"
+      ]
+    },
+    "articleTitle": "Coventry vs Sunderland Prediction & Match Analysis: Relegation Six-Pointer Tactical xG Preview",
+    "coreRecommendation": "Sunderland hold the tactical and midfield stability to secure at least a point against a depleted Coventry side lacking Haji Wright in a low-scoring stalemate.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Sunderland's 75% first-half draw rate supports a scoreless opening half before either holding out or finding a late winner.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Covers the dominant goalless stalemate and Sunderland's superior transitional quality against Coventry's makeshift central defense.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Extreme lack of penalty-box efficiency heavily favors 0 or 1 total goal.",
+        "selection": [
+          "0",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Goalless draw is the primary probabilistic convergence point, with a 0:1 away steal as the contingency branch.",
+        "selection": [
+          "0:0",
+          "0:1"
+        ]
+      },
+      "league": "Premier League",
+      "matchId": "1557451",
+      "awayTeam": "Sunderland",
+      "homeTeam": "Coventry",
+      "fixtureId": 1557451,
+      "match_time": "15:00",
+      "over_under": {
+        "comment": "Combined xG creation sits below 0.90 per match with both teams failing to score in over half their league outings.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Basement battle defined by absent talisman and conservative tactical blocks"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Draw (0:0 deadlock driven by mutual attacking deficiencies) (Confidence: Moderate, Value: High)",
+      "Away Win (Sunderland edge a 0:1 smash-and-grab via second-half transition) (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals (Systemic lack of box threat across both units) (Confidence: High, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-1",
+    "halftime_score": "2-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-10-31 18:11:09 UTC"
+  }
+}
