@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575204,
+    "matchup": "Bayer Leverkusen vs VfB Stuttgart",
+    "home_team": "Bayer Leverkusen",
+    "away_team": "VfB Stuttgart",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-31 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-bayer-leverkusen-vs-vfb-stuttgart/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bayer Leverkusen vs VfB Stuttgart Prediction & Match Analysis: Midfield Void at BayArena — xG Preview",
+    "meta": {
+      "matchId": "1575204",
+      "league": "Bundesliga",
+      "matchup": "Bayer Leverkusen vs VfB Stuttgart",
+      "matchTime": "2026-10-31 14:30 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Bayer Leverkusen to secure victory at home against a heavily depleted VfB Stuttgart side.",
+    "possibilityAssessment": [
+      "Bayer Leverkusen to win in regulation time (Confidence: High, Value: High)",
+      "Over 2.5 total match goals (Confidence: Moderate, Value: Moderate)",
+      "Both teams to score with home victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575204",
+      "league": "Bundesliga",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "VfB Stuttgart",
+      "match_time": "14:30",
+      "match_highlight": "Leverkusen aim to extend perfect BayArena run against depleted Stuttgart.",
+      "ai_confidence": "High",
+      "fixtureId": 1575204,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bayer Leverkusen's pristine BayArena record and Stuttgart's critical midfield absence anchor a decisive home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goals profile of 2.69 and Stuttgart's leaky 2.50 away xGA support a high-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence, with 2:0 serving as the shutout alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead the expectancy distribution, closely shadowed by a controlled two-goal game state."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Leverkusen's early BayArena pressure favors a half-time lead, with a second-half breakthrough as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:34:46 UTC"
+}
