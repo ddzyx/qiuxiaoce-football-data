@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550177,
+    "matchup": "AC Milan vs Inter",
+    "home_team": "AC Milan",
+    "away_team": "Inter",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-31 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-ac-milan-vs-inter/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AC Milan vs Inter Prediction & Match Analysis: Lautaro Absence & Derby xG Modeling — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1550177",
+      "league": "Serie A",
+      "matchup": "AC Milan vs Inter",
+      "matchTime": "2026-10-31 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Inter on a Draw / Away Win double-chance perspective in a match trending toward Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Inter exploit Milan's transitional flaws to edge a 1:2 derby victory (Confidence: Moderate, Value: High)",
+      "High-tempo tactical exchange pushes total goals Over 2.5 (Confidence: High, Value: High)",
+      "Milan's derby resilience forces a gritty 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550177",
+      "league": "Serie A",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Inter",
+      "match_time": "19:45",
+      "match_highlight": "Derby della Madonnina clash with Inter missing captain Lautaro Martínez.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550177,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Inter's superior 2.83 xG attacking machinery alongside the viable 1:1 derby stalemate caused by Lautaro's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a combined 3.56 goal expectancy and Milan conceding six goals across their last two outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Inter triumph serves as the primary matrix convergence, with 1:1 representing the competitive deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with Inter's 1:2 victory script, while two goals reflects the 1:1 contingency branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Inter have converted six of six level half-times into full-time victories, supporting Draw-Loss ahead of Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:49:51 UTC"
+}
