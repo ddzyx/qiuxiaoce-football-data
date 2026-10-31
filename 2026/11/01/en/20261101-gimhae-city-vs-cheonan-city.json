@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510490,
+    "matchup": "Gimhae City vs Cheonan City",
+    "home_team": "Gimhae City",
+    "away_team": "Cheonan City",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-01 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-gimhae-city-vs-cheonan-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimhae City vs Cheonan City Prediction & Match Analysis: Can Seol Ki-hyeon Halt Road Favorites? — Scoreline Preview",
+    "meta": {
+      "matchId": "1510490",
+      "league": "K League 2",
+      "matchup": "Gimhae City vs Cheonan City",
+      "matchTime": "2026-11-01 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cheonan City possess the superior attacking firepower to claim points at Gimhae Stadium, but their road inconsistency warrants covering the draw via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Cheonan City exploit Gimhae's league-worst defense to secure a hard-fought 1:2 road win (Confidence: Moderate, Value: High)",
+      "Gimhae City's managerial bounce under Seol Ki-hyeon holds Cheonan to an attritional 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "An open transitional encounter pushes total goals Over 2.5 behind multiple second-half strikes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510490",
+      "league": "K League 2",
+      "homeTeam": "Gimhae City",
+      "awayTeam": "Cheonan City",
+      "match_time": "07:30",
+      "match_highlight": "Seol Ki-hyeon managerial debut meets Cheonan's Lamas-led attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510490,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Combines Cheonan's offensive edge with necessary protection against their 14.3% away win rate and Gimhae's fresh managerial bounce."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by an aggregate goal expectancy of 2.75 and Gimhae's average concession of 2.20 goals per home match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects the primary away victory trajectory alongside the principal drawn scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Concentrates on the two highest Poisson density bands capturing 46.4% cumulative probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey opening half followed by Cheonan's second-half attacking escalation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 19:33:47 UTC"
+}
