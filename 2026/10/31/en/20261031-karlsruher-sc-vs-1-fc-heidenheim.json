@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576221,
+    "matchup": "Karlsruher SC vs 1. FC Heidenheim",
+    "home_team": "Karlsruher SC",
+    "away_team": "1. FC Heidenheim",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-10-31 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-karlsruher-sc-vs-1-fc-heidenheim/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Karlsruher SC vs 1. FC Heidenheim Prediction: Can KSC Defense Halt Heidenheim? — Scoreline & xG Breakdown",
+    "meta": {
+      "matchId": "1576221",
+      "league": "2. Bundesliga",
+      "matchup": "Karlsruher SC vs 1. FC Heidenheim",
+      "matchTime": "2026-10-31 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back 1. FC Heidenheim to avoid defeat against Karlsruher SC's vulnerable defense, favoring Draw / Away Win and Over 2.5 goals.",
+    "possibilityAssessment": [
+      "1. FC Heidenheim capitalize on Marcel Franke's absence to secure a 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Heidenheim dominate possession but finishing variance results in a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Early KSC lead triggers a fierce second-half Heidenheim comeback to force a draw (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576221",
+      "league": "2. Bundesliga",
+      "homeTeam": "Karlsruher SC",
+      "awayTeam": "1. FC Heidenheim",
+      "match_time": "19:30",
+      "match_highlight": "Heidenheim's aerial firepower tests Karlsruhe's leakiest defense at BBBank Wildpark",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576221,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Heidenheim hold the structural edge against KSC's depleted backline, while Draw / Away Win protects against the visitors' recent conversion slump."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Karlsruhe's league-worst 20 goals conceded and Heidenheim's 18.8 shots per game strongly favor three or more match goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory reflects Heidenheim's aerial dominance, while 1:1 covers persistent finishing inefficiency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary expectation from an open contest, with two goals providing the low-conversion secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half gives way to Heidenheim's superior depth in Draw-Loss, with Draw-Draw covering the stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:35:35 UTC"
+}
