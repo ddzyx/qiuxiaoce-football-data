@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563850,
+    "matchup": "Tranmere vs Cheltenham",
+    "home_team": "Tranmere",
+    "away_team": "Cheltenham",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-tranmere-vs-cheltenham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tranmere vs Cheltenham Prediction & Tactical Breakdown: Darrell Clarke Reunion — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1563850",
+      "league": "League Two",
+      "matchup": "Tranmere vs Cheltenham",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tranmere's exceptional home resilience and dominant recent head-to-head record position them to capitalize on Cheltenham's fragile away defense via a Home Win / Draw projection.",
+    "possibilityAssessment": [
+      "Tranmere capitalize on early Prenton Park pressure to overcome Cheltenham's porous away backline (Confidence: Moderate, Value: High)",
+      "Cheltenham's transitional midfield quality prompts second-half resilience to force a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High match tempo and defensive lapses from both sides push total scoring beyond 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563850",
+      "league": "League Two",
+      "homeTeam": "Tranmere",
+      "awayTeam": "Cheltenham",
+      "match_time": "15:00",
+      "match_highlight": "Prenton Park resilience confronts Cheltenham's porous away backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563850,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Tranmere's 83.3% home unbeaten rate and superior H2H history while accounting for their league-high draw tendency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Cheltenham's 3.38 season goals per game and a complete absence of away clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary tactical model convergence, with 1:1 covering lead-erosion risk."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary attacking expectation, while two goals covers an attritional level finish."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Tranmere lead at half-time in 83.3% of home games, resulting in Win-Win or second-half equalizer Win-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:37:41 UTC"
+}
