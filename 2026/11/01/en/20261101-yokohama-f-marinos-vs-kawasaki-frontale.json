@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556130,
+    "matchup": "Yokohama F. Marinos vs Kawasaki Frontale",
+    "home_team": "Yokohama F. Marinos",
+    "away_team": "Kawasaki Frontale",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-01 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-yokohama-f-marinos-vs-kawasaki-frontale/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama F. Marinos vs Kawasaki Frontale Prediction: Kanagawa Derby xG Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1556130",
+      "league": "J1 League",
+      "matchup": "Yokohama F. Marinos vs Kawasaki Frontale",
+      "matchTime": "2026-11-01 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kawasaki Frontale to preserve their momentum and avoid defeat at Nissan Stadium in an open, competitive Kanagawa Derby.",
+    "possibilityAssessment": [
+      "Frontale exploit central midfield gaps to edge a 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Marinos maintain compact defensive discipline to secure a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Porous defensive transitions from both sides drive the contest Over 2.5 Goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556130",
+      "league": "J1 League",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "Kawasaki Frontale",
+      "match_time": "04:00",
+      "match_highlight": "Frontale's potent attack meets Marinos' resilient home structure at Nissan Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556130,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Frontale's 2.1 goals per game give them winning edge, but Marinos' 50% draw rate makes covering the stalemate essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.84 and Frontale's 1.5 conceded per game heavily favor three or more total goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Frontale's attacking edge alongside Marinos' capacity to force low-block deadlocks at home."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Converges naturally on the 1:2 away victory and 1:1 stalemate scoreline branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Frontale score 75% of away goals after halftime, making a level opening half followed by late resolution the primary trajectory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 16:02:55 UTC"
+}
