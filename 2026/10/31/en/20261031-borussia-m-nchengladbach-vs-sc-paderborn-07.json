@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575208,
+    "matchup": "Borussia Mönchengladbach vs SC Paderborn 07",
+    "home_team": "Borussia Mönchengladbach",
+    "away_team": "SC Paderborn 07",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-31 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-borussia-m-nchengladbach-vs-sc-paderborn-07/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Borussia Mönchengladbach vs SC Paderborn 07 Prediction: Tactical Clash & Lineup Voids — Scoreline Preview",
+    "meta": {
+      "matchId": "1575208",
+      "league": "Bundesliga",
+      "matchup": "Borussia Mönchengladbach vs SC Paderborn 07",
+      "matchTime": "2026-10-31 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Borussia Mönchengladbach hold the tactical edge at home to avoid defeat against travel-weary Paderborn in a tightly contested, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Borussia Mönchengladbach Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "Correct Scoreline 1:0 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575208",
+      "league": "Bundesliga",
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "SC Paderborn 07",
+      "match_time": "14:30",
+      "match_highlight": "Gladbach seek first home win against winless travelers Paderborn.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575208,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Gladbach's resurgent momentum under Blessin provides a narrow edge, but covering the draw addresses their missing talisman Kleindienst and Paderborn's low block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Suppressed combined xG rates of 0.74 and 0.51 alongside extensive attacking injuries heavily favour a low-scoring duel."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 home triumph represents the primary probabilistic cluster, with a 1:1 stalemate serving as the principal hedge."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A 1-goal outcome is statistically favoured by Poisson baseline modeling, closely followed by a 2-goal scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A scoreless opening 45 minutes precedes either a decisive second-half Gladbach breakthrough or an enduring tactical stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:34:54 UTC"
+}
