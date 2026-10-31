@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520951,
+    "matchup": "Botafogo SP vs Sport Recife",
+    "home_team": "Botafogo SP",
+    "away_team": "Sport Recife",
+    "league": "Serie B",
+    "kickoff_utc": "2026-10-31 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-botafogo-sp-vs-sport-recife/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Botafogo SP vs Sport Recife Prediction: Low-Block Counter vs G6 Ambition — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1520951",
+      "league": "Serie B",
+      "matchup": "Botafogo SP vs Sport Recife",
+      "matchTime": "2026-10-31 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Botafogo SP to avoid defeat via Home Win / Draw, capitalizing on their four-match winning streak and defensive stability against Sport Recife's vulnerable away setup.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Botafogo SP avoids defeat via counter-attacking stability) (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (Defensive low block limits chance volume below 2.5) (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 (Tactical equilibrium between Sport's urgency and Botafogo's resistance) (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520951",
+      "league": "Serie B",
+      "homeTeam": "Botafogo SP",
+      "awayTeam": "Sport Recife",
+      "match_time": "19:00",
+      "match_highlight": "Botafogo SP's low block challenges Sport Recife's promotion playoff ambitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520951,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 stalemate and Botafogo SP's 2:1 counter-attack victory; single away win is weakened by Sport's 60% road loss rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model projects 60.4% density for Under 2.5 goals supported by Botafogo SP's 1.06 season xGA and compact 5-4-1 setup."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw represents the primary tactical balance, while 2:1 captures Botafogo SP punishing Sport Recife's late overextension."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact counts of 2 and 3 goals encompass the dominant probabilistic nodes for this competitive matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "High first-half draw frequency (72.2% for Botafogo SP) transitions into second-half tactical balance or home counter breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:06:32 UTC"
+}
