@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551025,
+    "matchup": "Monterrey vs Club Tijuana",
+    "home_team": "Monterrey",
+    "away_team": "Club Tijuana",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-01 01:05:00",
+    "source_url": "https://xgmind.com/matches/20261101-monterrey-vs-club-tijuana/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Monterrey vs Club Tijuana Prediction & Match Analysis: Tactical Stalemate or Home Rebound? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551025",
+      "league": "Liga MX",
+      "matchup": "Monterrey vs Club Tijuana",
+      "matchTime": "2026-11-01 01:05 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Monterrey to avoid defeat against Club Tijuana in a low-scoring tactical contest shaped by key midfield suspensions.",
+    "possibilityAssessment": [
+      "Monterrey asserts territorial dominance to grind out a narrow home victory (Confidence: Moderate, Value: High)",
+      "Club Tijuana extends their road stalemate streak to secure a hard-fought draw (Confidence: Moderate, Value: High)",
+      "Tijuana snatches an early transition lead before Monterrey recovers a second-half point (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551025",
+      "league": "Liga MX",
+      "homeTeam": "Monterrey",
+      "awayTeam": "Club Tijuana",
+      "match_time": "01:05",
+      "match_highlight": "Monterrey home power meets Tijuana road stalemate mastery at Estadio BBVA",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551025,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Monterrey's 57% home winning rate alongside Tijuana's remarkable road record of five draws in six matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aggregate Poisson goal expectancy of 1.99 and Pineda's suspension strongly favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the two primary game states: a controlled narrow home win or another classic Tijuana road draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson density peaks at 1 goal (27.2%) and 2 goals (27.1%), capturing the low-margin dynamic."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tijuana's compact first-half structure points toward level intervals before second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 13:07:53 UTC"
+}
