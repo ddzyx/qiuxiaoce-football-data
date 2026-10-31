@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647377,
+    "matchup": "FC Seoul vs Incheon United",
+    "home_team": "FC Seoul",
+    "away_team": "Incheon United",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-01 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-fc-seoul-vs-incheon-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Seoul vs Incheon United Prediction & Match Analysis: Can Incheon Contain Patryk Klimala's xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647377",
+      "league": "K League 1",
+      "matchup": "FC Seoul vs Incheon United",
+      "matchTime": "2026-11-01 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Seoul is well-positioned to protect their championship lead against Incheon United, with a narrow 2:1 victory leading the probability matrix while a 1:1 draw requires coverage.",
+    "possibilityAssessment": [
+      "FC Seoul breaks through Incheon's low block in the second half to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Incheon's disciplined road structure holds firm for a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Incheon catches Seoul on early transitional breaks to force a tight away upset (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647377",
+      "league": "K League 1",
+      "homeTeam": "FC Seoul",
+      "awayTeam": "Incheon United",
+      "match_time": "07:30",
+      "match_highlight": "Gyeongin Derby clash tests FC Seoul's title resolve against Incheon's resilient road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647377,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "FC Seoul's superior home metrics warrant favoritism, but Incheon's active five-match unbeaten run and road stability necessitate draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goals of 3.02 for Seoul and 2.50 for Incheon, paired with a 55.7% BTTS density, support an open second half surpassing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 Seoul victory reflects second-half territorial dominance, while 1:1 captures Incheon's deadlock-forcing away profile."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with Seoul's home scoring rate and Incheon's transition threat, with two goals covering the low-tempo draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Incheon's 81.2% away half-time draw rate indicates an opening deadlock before Seoul's depth decides the contest after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 19:33:43 UTC"
+}
