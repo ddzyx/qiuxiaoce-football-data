@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558662,
+    "matchup": "Anderlecht vs KVC Westerlo",
+    "home_team": "Anderlecht",
+    "away_team": "KVC Westerlo",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-10-31 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-anderlecht-vs-kvc-westerlo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Anderlecht vs KVC Westerlo Prediction: Can Lotto Park Solidity Halt Westel's xG Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1558662",
+      "league": "Jupiler Pro League",
+      "matchup": "Anderlecht vs KVC Westerlo",
+      "matchTime": "2026-10-31 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Anderlecht to secure a hard-fought home victory as their superior underlying process prevails over Westerlo's porous backline.",
+    "possibilityAssessment": [
+      "Anderlecht Home Win driven by territorial dominance and home defensive solidity (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals fueled by Westerlo's high-tempo transitional style and league-high conceded goals (Confidence: High, Value: Moderate)",
+      "Both Teams To Score reflecting Westerlo's in-form attacking tandem of Bassette and Saito (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558662",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "KVC Westerlo",
+      "match_time": "19:45",
+      "match_highlight": "Anderlecht home defensive fortress confronts Westerlo's explosive transitional attack at Lotto Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558662,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anderlecht's superior net expected goals (+5.2 vs -1.5) and near-flawless home defensive record make them decisive favorites against a Westerlo defense conceding 2.3 goals per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Projected lambda total of 3.07 and Westerlo's permeable defense strongly support an open encounter clearing the 2.5-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects the natural convergence of Anderlecht's chance creation and Westerlo's counter-threat, with 2:0 covering a defensive shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the median Poisson distribution, with two goals providing coverage for a more controlled home performance."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Anderlecht's tendency to accelerate after half-time favors a level opening followed by a decisive second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:50:14 UTC"
+}
