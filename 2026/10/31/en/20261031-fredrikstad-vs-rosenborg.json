@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494791,
+    "matchup": "Fredrikstad vs Rosenborg",
+    "home_team": "Fredrikstad",
+    "away_team": "Rosenborg",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-fredrikstad-vs-rosenborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fredrikstad vs Rosenborg Prediction & Match Analysis: Can FFK Contain Chiakha's xG Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494791",
+      "league": "Eliteserien",
+      "matchup": "Fredrikstad vs Rosenborg",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rosenborg to capitalize on Fredrikstad's defensive vulnerabilities and secure an away victory in an open encounter.",
+    "possibilityAssessment": [
+      "Rosenborg break down Fredrikstad in the second half to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "High match expectancy drives total scoring Over 2.5 goals (Confidence: Moderate, Value: Moderate)",
+      "Disciplined road game management yields a clean sheet 0:2 win for the visitors (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494791",
+      "league": "Eliteserien",
+      "homeTeam": "Fredrikstad",
+      "awayTeam": "Rosenborg",
+      "match_time": "15:00",
+      "match_highlight": "Rosenborg's lethal attack tests Fredrikstad's depleted defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494791,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Rosenborg's superior attacking metrics and Fredrikstad's defensive crisis make the away victory the strongest probabilistic direction."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 3.275 and Fredrikstad's 1.95 conceded xGA per match strongly favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "The 1:2 scoreline aligns with Rosenborg's away firepower and Fredrikstad's home threat, while 0:2 reflects Rosenborg's clean sheet potential."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal distribution outcome, followed closely by two goals in a controlled away performance."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss reflects Rosenborg's habit of scoring after halftime, while Loss-Loss accounts for an early breakthrough like the July reverse fixture."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:05:41 UTC"
+}
