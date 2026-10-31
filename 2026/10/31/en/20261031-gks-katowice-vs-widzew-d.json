@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553210,
+    "matchup": "GKS Katowice vs Widzew Łódź",
+    "home_team": "GKS Katowice",
+    "away_team": "Widzew Łódź",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-10-31 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261031-gks-katowice-vs-widzew-d/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "GKS Katowice vs Widzew Łódź Prediction: Can GieKSa Breach Stalemate Magnet? — xG Analysis",
+    "meta": {
+      "matchId": "1553210",
+      "league": "Ekstraklasa",
+      "matchup": "GKS Katowice vs Widzew Łódź",
+      "matchTime": "2026-10-31 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "GKS Katowice's superior home firepower and late-game acceleration should ultimately edge a depleted Widzew Łódź side, though Widzew's league-leading draw tendency warrants pairing Home Win with Draw.",
+    "possibilityAssessment": [
+      "Katowice late home breakthrough yields 2:1 victory against depleted visitors (Confidence: Moderate, Value: High)",
+      "Widzew compact shape and dead-ball quality forces a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Katowice early control and clean sheet produces a 2:0 home win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553210",
+      "league": "Ekstraklasa",
+      "homeTeam": "GKS Katowice",
+      "awayTeam": "Widzew Łódź",
+      "match_time": "19:15",
+      "match_highlight": "Katowice's late-game surge confronts Widzew's persistent stalemate resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553210,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Katowice's late home breakthrough as the primary path alongside Widzew's established 1:1 stalemate profile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG expectations and Katowice's 2.6 home goals per game tilt the balance toward a high-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Katowice's late 2:1 winner as primary convergence and Widzew's trademark 1:1 draw as secondary cover."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the primary three-goal matrix peak and the secondary two-goal stalemate scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Captures a guarded opening 45 minutes followed by Katowice's decisive second-half push or a level conclusion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 07:19:56 UTC"
+}
