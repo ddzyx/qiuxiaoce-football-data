@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510487,
+    "matchup": "Jeonnam Dragons vs Seongnam FC",
+    "home_team": "Jeonnam Dragons",
+    "away_team": "Seongnam FC",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-01 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-jeonnam-dragons-vs-seongnam-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jeonnam Dragons vs Seongnam FC Prediction: Can Valdivia Exploit Magpies' Road Slump? — Model Analysis",
+    "meta": {
+      "matchId": "1510487",
+      "league": "K League 2",
+      "matchup": "Jeonnam Dragons vs Seongnam FC",
+      "matchTime": "2026-11-01 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Jeonnam Dragons on the Double Chance (Home Win / Draw) as home resilience and Valdivia's playmaking counter Seongnam's five-game winless slump.",
+    "possibilityAssessment": [
+      "Jeonnam Dragons avoid defeat via Double Chance Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as both sides exhibit blunt conversion spells (Confidence: Moderate, Value: Moderate)",
+      "Primary Correct Score 1:1 Stalemate reflecting balanced game-state friction (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510487",
+      "league": "K League 2",
+      "homeTeam": "Jeonnam Dragons",
+      "awayTeam": "Seongnam FC",
+      "match_time": "05:00",
+      "match_highlight": "Valdivia leads Jeonnam against reeling Seongnam at Gwangyang Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510487,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Jeonnam's 58.3% home unbeaten rate and Seongnam's five-game winless skid make the home double chance the most stable risk-adjusted trajectory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1:1 modal scoreline and Seongnam's modest 1.1 goals-per-game scoring rate anchor projections beneath the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate represents the primary convergence, while a 2:1 home victory covers Jeonnam's offensive upside through Valdivia."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals command a combined 46.5% density in bivariate Poisson modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "High first-half draw rates for both clubs point toward a level interval before second-half adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 17:02:56 UTC"
+}
