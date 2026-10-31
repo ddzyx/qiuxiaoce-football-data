@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551367,
+    "matchup": "Esbjerg vs Hvidovre",
+    "home_team": "Esbjerg",
+    "away_team": "Hvidovre",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-esbjerg-vs-hvidovre/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Esbjerg vs Hvidovre Prediction & Match Analysis: Can Nørregaard Halt Leaders? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551367",
+      "league": "1. Division",
+      "matchup": "Esbjerg vs Hvidovre",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hvidovre's league-leading offensive efficiency and rest advantage favor an away result, with a draw providing essential coverage.",
+    "possibilityAssessment": [
+      "Hvidovre control second-half transitions to secure a narrow 1:2 victory (Confidence: Moderate, Value: High)",
+      "Esbjerg's reorganized 4-5-1 shape holds firm for a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open match state pushes total scoring over the 2.5 threshold (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551367",
+      "league": "1. Division",
+      "homeTeam": "Esbjerg",
+      "awayTeam": "Hvidovre",
+      "match_time": "15:00",
+      "match_highlight": "Unbeaten Hvidovre test Esbjerg's managerial revival at Blue Water Arena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551367,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Hvidovre's 83.3% road win rate alongside Esbjerg's 50% home draw tendency under Nørregaard."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson lambda total of 3.05 and Esbjerg's 1.90 conceded goals per match support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory leads model density, hedged by a 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact counts of 3 goals (22.4%) and 2 goals (22.0%) dominate probabilistic distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Esbjerg's 66.7% first-half draw rate supports Draw-Loss, with Loss-Loss covering an early away blitz."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:05:37 UTC"
+}
