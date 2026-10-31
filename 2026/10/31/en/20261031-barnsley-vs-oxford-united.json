@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564391,
+    "matchup": "Barnsley vs Oxford United",
+    "home_team": "Barnsley",
+    "away_team": "Oxford United",
+    "league": "League One",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-barnsley-vs-oxford-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Barnsley vs Oxford United: Expected Goals, Second-Half Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1564391",
+      "league": "League One",
+      "matchup": "Barnsley vs Oxford United",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Oxford United's defensive solidity and clinical transitions will exploit Barnsley's chronic second-half collapses to secure an away victory at Oakwell.",
+    "possibilityAssessment": [
+      "Oxford United full-time victory driven by superior defensive metrics and Barnsley's six-match losing slide (Confidence: Moderate, Value: High)",
+      "Total match goals terminating at Under 2.5 based on Oxford conceding only 0.91 goals per match (Confidence: Moderate, Value: High)",
+      "Half-time parity resolving into an away second-half breakthrough for a Draw-Loss outcome (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564391",
+      "league": "League One",
+      "homeTeam": "Barnsley",
+      "awayTeam": "Oxford United",
+      "match_time": "15:00",
+      "match_highlight": "Struggling Tykes face promotion-chasing Oxford United at Oakwell",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564391,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Oxford United's defensive organization and Barnsley's six-match losing streak heavily support a decisive away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Oxford's stingy defense conceding just 0.91 goals per game points toward a controlled, lower-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A disciplined 0:2 road win represents the primary trajectory, with a 1:2 scoreline covering a Barnsley consolation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the model's modal distribution, backed by three goals if Barnsley breaks their scoring slump."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A cagey opening 45 minutes followed by Oxford's superior bench impact underpins Draw-Loss as the leading trend."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:41:12 UTC"
+}
