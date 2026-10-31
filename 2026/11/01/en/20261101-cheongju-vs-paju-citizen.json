@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510489,
+    "matchup": "Cheongju vs Paju Citizen",
+    "home_team": "Cheongju",
+    "away_team": "Paju Citizen",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-01 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-cheongju-vs-paju-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cheongju vs Paju Citizen Prediction & Match Analysis: Deadlock Tactics & Midfield Control — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1510489",
+      "league": "K League 2",
+      "matchup": "Cheongju vs Paju Citizen",
+      "matchTime": "2026-11-01 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cheongju or Draw (Home Win / Draw) in a tightly contested fixture leaning toward a 1:1 stalemate under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Cheongju's 67.9% unbeaten rate and league-high 14 draws (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a combined 2.50 goal expectancy and Paju's compact 5-4-1 away structure (Confidence: Moderate, Value: Moderate)",
+      "Primary Scoreline 1:1 as the tactical convergence of Cheongju's ball control and Paju's transitional threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510489",
+      "league": "K League 2",
+      "homeTeam": "Cheongju",
+      "awayTeam": "Paju Citizen",
+      "match_time": "07:30",
+      "match_highlight": "Cheongju's league-leading draw tendency meets Paju's structured counter-attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510489,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Cheongju holds strong home unbeaten resilience (60%), but 14 season stalemates make draw coverage mandatory against Paju's away counter threat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.50 and Paju's disciplined low block support a low-scoring outcome under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate serves as the modal Poisson outcome, with a 2:1 home breakthrough representing the primary positive variance branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "An exact count of 2 goals leads model density at 25.7%, followed by 3 goals at 21.4%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "High half-time draw frequencies (50% for Cheongju, 63% for Paju) point toward a level first half preceding a drawn or narrow home victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 19:33:31 UTC"
+}
