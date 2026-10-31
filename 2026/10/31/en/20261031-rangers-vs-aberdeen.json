@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556699,
+    "matchup": "Rangers vs Aberdeen",
+    "home_team": "Rangers",
+    "away_team": "Aberdeen",
+    "league": "Premiership",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-rangers-vs-aberdeen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rangers vs Aberdeen Prediction & Match Analysis: Can Dons Disrupt Gers' Ibrox Hegemony? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556699",
+      "league": "Premiership",
+      "matchup": "Rangers vs Aberdeen",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rangers are projected to assert territorial supremacy and secure a regulation victory at Ibrox against an out-of-form Aberdeen side.",
+    "possibilityAssessment": [
+      "Rangers Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Rangers Win by Exactly One Goal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556699",
+      "league": "Premiership",
+      "homeTeam": "Rangers",
+      "awayTeam": "Aberdeen",
+      "match_time": "15:00",
+      "match_highlight": "Rangers' elite 2.4 xG attack hosts Aberdeen's vulnerable road backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556699,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Rangers' dominant 2.40 xG output and 80% home win rate provide decisive advantages over an Aberdeen squad that has lost three of four."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match xG of 3.70 and Aberdeen's 1.55 xGA per game strongly support surpassing the 2.5 goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence of Rangers' attacking pressure and Aberdeen's transition threat, backed by a 2:0 clean-sheet margin."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals align with the 2:1 primary scoreline, while two goals capture the 2:0 secondary outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Rangers hold a 60% half-time lead rate at Ibrox with zero dropped leads, while Draw-Win covers second-half breakthroughs."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:08:59 UTC"
+}
