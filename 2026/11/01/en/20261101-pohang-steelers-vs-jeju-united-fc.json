@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647391,
+    "matchup": "Pohang Steelers vs Jeju United FC",
+    "home_team": "Pohang Steelers",
+    "away_team": "Jeju United FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-01 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-pohang-steelers-vs-jeju-united-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pohang Steelers vs Jeju United FC Prediction: Defensive Bans vs Interim Reset — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1647391",
+      "league": "K League 1",
+      "matchup": "Pohang Steelers vs Jeju United FC",
+      "matchTime": "2026-11-01 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pohang Steelers avoid defeat against suspension-hit Jeju in a low-scoring tactical contest (Home Win / Draw).",
+    "possibilityAssessment": [
+      "Pohang claim a narrow 1:0 home victory under interim coach Kim Sung-jae (Confidence: Moderate, Value: High)",
+      "Disciplined low-block defending results in a 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals prevails across all primary game states (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647391",
+      "league": "K League 1",
+      "homeTeam": "Pohang Steelers",
+      "awayTeam": "Jeju United FC",
+      "match_time": "05:00",
+      "match_highlight": "Pohang seek interim bounce against suspension-hit Jeju backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647391,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Pohang's underlying xG superiority and Jeju's key defensive suspensions favor the hosts, while chronic home conversion issues necessitate draw protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average under 1.2 goals conceded per match, and tactical conservatism in the Relegation Group firmly favors Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home triumph represents the primary reset scenario, with a 1:1 draw serving as the mathematical distribution mode."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution models place the highest scoring densities at exactly 2 goals (25.2%) and 1 goal (19.5%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, goalless first half is projected to unfold into either a decisive Pohang second-half winner or an unbroken stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 17:06:09 UTC"
+}
