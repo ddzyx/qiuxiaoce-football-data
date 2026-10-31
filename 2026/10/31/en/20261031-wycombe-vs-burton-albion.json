@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564402,
+    "matchup": "Wycombe vs Burton Albion",
+    "home_team": "Wycombe",
+    "away_team": "Burton Albion",
+    "league": "League One",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-wycombe-vs-burton-albion/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Wycombe vs Burton Albion: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1564402",
+      "league": "League One",
+      "matchup": "Wycombe vs Burton Albion",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wycombe are positioned to exploit Burton Albion's severe squad depletion and fatigue to secure at least a point, with a 2:1 home victory leading the probabilistic matrix over a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Wycombe Win / Draw double chance capitalizing on Chairboys' form under Tom Hounsell and Burton's thin bench (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflecting both sides' 2.0 goals conceded per game baseline (Confidence: Moderate, Value: Moderate)",
+      "Scoreline 2:1 primary conversion driven by late second-half pressure at Adams Park (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564402",
+      "league": "League One",
+      "homeTeam": "Wycombe",
+      "awayTeam": "Burton Albion",
+      "match_time": "15:00",
+      "match_highlight": "Wycombe target Burton's depleted bench to extend unbeaten Adams Park record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564402,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Wycombe's attacking resurgence under Tom Hounsell and superior bench depth counter Burton's resilience while covering Wycombe's 50% league draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average 2.0 goals conceded per match, indicating defensive vulnerabilities that favor a multi-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home triumph reflects late territorial dominance, while 1:1 provides coverage for a resilient low-block stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Combined expectancy centers around 2.5 to 3.0 goals based on season scoring metrics and open transitional spaces."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half gives way to Wycombe's second-half fitness advantage, with Draw-Draw covering a sustained deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:46:41 UTC"
+}
