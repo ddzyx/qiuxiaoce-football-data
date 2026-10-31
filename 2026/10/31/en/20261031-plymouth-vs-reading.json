@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564398,
+    "matchup": "Plymouth vs Reading",
+    "home_team": "Plymouth",
+    "away_team": "Reading",
+    "league": "League One",
+    "kickoff_utc": "2026-10-31 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-plymouth-vs-reading/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Plymouth vs Reading Prediction & Match Analysis: Tactical Shift Meets Royals Transition — Scoreline Preview",
+    "meta": {
+      "matchId": "1564398",
+      "league": "League One",
+      "matchup": "Plymouth vs Reading",
+      "matchTime": "2026-10-31 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Plymouth in a double-chance structure (Home Win / Draw) in an open clash likely to surpass 2.5 total goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance driven by Plymouth's 3-4-3 attacking shape against depleted Reading flanks (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on both teams combining for over 3.10 seasonal goals per fixture (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 2:1 as the natural convergence of Plymouth's attacking volume and defensive transition leakage (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564398",
+      "league": "League One",
+      "homeTeam": "Plymouth",
+      "awayTeam": "Reading",
+      "match_time": "12:30",
+      "match_highlight": "Cleverley's 3-4-3 tests Reading's compromised attack in League One clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564398,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Plymouth's rejuvenated 3-4-3 system provides territorial dominance, while their defensive leakage necessitates covering the draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average over 3.0 goals per match, supporting an open clash that clears the 2.5 goal threshold."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Plymouth's edge, while 1:1 captures Reading's low-block counter resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Peak probabilistic scoring density aligns around 3 total goals, followed closely by a 2-goal stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reading's conservative away first-half profile favors a level interval before second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 00:45:15 UTC"
+}
