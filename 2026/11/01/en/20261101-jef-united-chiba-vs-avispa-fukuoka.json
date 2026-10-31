@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556121,
+    "matchup": "JEF United Chiba vs Avispa Fukuoka",
+    "home_team": "JEF United Chiba",
+    "away_team": "Avispa Fukuoka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-01 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-jef-united-chiba-vs-avispa-fukuoka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "JEF United Chiba vs Avispa Fukuoka Prediction & Match Analysis: Relegation Clash — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556121",
+      "league": "J1 League",
+      "matchup": "JEF United Chiba vs Avispa Fukuoka",
+      "matchTime": "2026-11-01 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back JEF United Chiba to avoid defeat via Home Win / Draw in a tightly contested relegation clash favoring Under 2.5 goals.",
+    "possibilityAssessment": [
+      "JEF United Chiba avoid defeat via Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Total Match Goals Under 2.5 (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 Stalemate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556121",
+      "league": "J1 League",
+      "homeTeam": "JEF United Chiba",
+      "awayTeam": "Avispa Fukuoka",
+      "match_time": "05:00",
+      "match_highlight": "Relegation six-pointer tests Chiba's home resilience against Fukuoka's five-game away losing streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556121,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the dominant 1:1 stalemate and the 2:1 home victory script while insulating against Chiba's late lead management fragility."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underlying xG generation of 1.09 per team and high relegation stakes strongly favor a low-scoring ceiling under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Reflects the mathematical modal peak of Poisson expectancies (1:1 at 12.7%) alongside Chiba's primary winning branch (2:1)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Concentrates on the two most probable exact goal bands (25.5% for two goals and 21.5% for three goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anticipates a cagey opening half followed by either shared points or Chiba exploiting Fukuoka's second-half away defensive fade."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 17:02:50 UTC"
+}
