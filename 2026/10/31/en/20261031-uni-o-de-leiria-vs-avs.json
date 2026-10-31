@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576514,
+    "matchup": "União de Leiria vs AVS",
+    "home_team": "União de Leiria",
+    "away_team": "AVS",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-10-31 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-uni-o-de-leiria-vs-avs/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "União de Leiria vs AVS Prediction & Match Analysis: Can Leiria Breach Aves' Resilient Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576514",
+      "league": "Segunda Liga",
+      "matchup": "União de Leiria vs AVS",
+      "matchTime": "2026-10-31 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AVS's superior defensive structure and clinical transitional counter-attacking make backing the visitors to avoid defeat via Draw / Away Win the premier risk-adjusted position.",
+    "possibilityAssessment": [
+      "AVS avoids defeat through compact mid-block resilience and transition efficiency (Confidence: Moderate, Value: Moderate)",
+      "Total match goals remain Under 2.5 governed by tight midfield consolidation (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate materializes as both sides trade single goals without overextending (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576514",
+      "league": "Segunda Liga",
+      "homeTeam": "União de Leiria",
+      "awayTeam": "AVS",
+      "match_time": "18:00",
+      "match_highlight": "Tight tactical deadlock as AVS tests Leiria's home defensive resolve",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576514,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "AVS possesses superior defensive balance and transition punch, positioning them to secure at least a point against Leiria."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model baseline yields 54.4% Under 2.5 probability supported by AVS's stingy 1.00 conceded goal average."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 scoreline represents the statistical mode, while 1:2 accounts for AVS's clinical edge in transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals encompass 47.1% of Poisson density in an evenly matched mid-table contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "AVS registers a 62.5% half-time draw rate, favoring cautious first halves transitioning to narrow second-half resolutions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 06:05:58 UTC"
+}
