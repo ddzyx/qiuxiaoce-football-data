@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575210,
+    "matchup": "FC Schalke 04 vs RB Leipzig",
+    "home_team": "FC Schalke 04",
+    "away_team": "RB Leipzig",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-31 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-schalke-04-vs-rb-leipzig/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Schalke 04 vs RB Leipzig Prediction & Preview: Low-Block Resistance vs High xG — Scoreline Analysis",
+    "meta": {
+      "matchId": "1575210",
+      "league": "Bundesliga",
+      "matchup": "FC Schalke 04 vs RB Leipzig",
+      "matchTime": "2026-10-31 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "RB Leipzig's high-octane attack will breach FC Schalke 04's injury-depleted defense to secure a hard-fought 2-1 away victory.",
+    "possibilityAssessment": [
+      "RB Leipzig victory via second-half attacking breakthrough against Schalke's depleted backline (Confidence: Moderate, Value: Moderate)",
+      "Total Goals settling on 3 as Leipzig's finishing overcomes Schalke's low block (Confidence: Moderate, Value: Moderate)",
+      "Scoreline converging on a 1:2 Leipzig triumph at the VELTINS-Arena (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575210",
+      "league": "Bundesliga",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "RB Leipzig",
+      "match_time": "14:30",
+      "match_highlight": "Leipzig attack tests Schalke depleted defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575210,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "RB Leipzig's superior chance creation (2.37 xG/match) should decisively exploit Schalke's injury-ravaged defense shorn of Wöber and Gosens."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.05 and Leipzig's aggressive pressing point toward a game exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away triumph reflects Leipzig's attacking potency and occasional defensive lapses, while 0:2 covers a controlled shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Primary density lands on 3 total goals, with 2 goals acting as the primary lower-scoring defensive alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Schalke's compact opening setup supports a level first half before Leipzig's depth drives a second-half away victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 02:37:59 UTC"
+}
