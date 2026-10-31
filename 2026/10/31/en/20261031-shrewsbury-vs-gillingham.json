@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563848,
+    "matchup": "Shrewsbury vs Gillingham",
+    "home_team": "Shrewsbury",
+    "away_team": "Gillingham",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-31 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-shrewsbury-vs-gillingham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shrewsbury vs Gillingham Prediction & Match Analysis: Salop Firepower vs Gills Crisis — Scoreline Preview",
+    "meta": {
+      "matchId": "1563848",
+      "league": "League Two",
+      "matchup": "Shrewsbury vs Gillingham",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shrewsbury Town's surging attacking momentum and Gillingham's midfield injury crisis support a home win or draw in an open, high-tempo clash.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance supported by Salop's 11-goal surge and Gills' depleted roster (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by leaky defensive records and a derived lambda total of 2.90 (Confidence: Moderate, Value: High)",
+      "Correct score 2:1 reflecting Shrewsbury's finishing efficiency and chronic inability to keep clean sheets (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563848",
+      "league": "League Two",
+      "homeTeam": "Shrewsbury",
+      "awayTeam": "Gillingham",
+      "match_time": "15:00",
+      "match_highlight": "Salop's resurgent attack meets Gills' injury-depleted midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563848,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Shrewsbury's primary 2:1 attacking victory while hedging against their porous defense conceding a 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average a combined 2.77 goals per match, well supported by a situational total lambda of 2.90."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline represents the primary attacking breakthrough, while 1:1 covers a stubborn low-block stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serve as the natural convergence point, with two goals representing the conservative secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Shrewsbury's 83.3% home half-time draw rate points toward a level first half before late adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 03:37:19 UTC"
+}
