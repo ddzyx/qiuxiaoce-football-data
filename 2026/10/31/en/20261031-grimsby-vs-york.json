@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563843,
+    "matchup": "Grimsby vs York",
+    "home_team": "Grimsby",
+    "away_team": "York",
+    "league": "League Two",
+    "kickoff_utc": "2026-10-31 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-grimsby-vs-york/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grimsby Town vs York City Prediction: Exploiting Minstermen Road Woes — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1563843",
+      "league": "League Two",
+      "matchup": "Grimsby vs York",
+      "matchTime": "2026-10-31 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Grimsby Town hold the tactical and physical upper hand to capitalize on York City's winless road record, with Home Win / Draw offering optimal coverage.",
+    "possibilityAssessment": [
+      "Grimsby Town to win in a high-tempo 2:1 transition battle (Confidence: Moderate, Value: High)",
+      "York City grind out a 1:1 stalemate via possession management (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total match goals landing via second-half acceleration (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563843",
+      "league": "League Two",
+      "homeTeam": "Grimsby",
+      "awayTeam": "York",
+      "match_time": "12:30",
+      "match_highlight": "Mariners target winless road travellers York",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563843,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Grimsby's home momentum and York's winless 0-3-3 road record make Home Win the primary vector while respecting York's high draw share."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.81 and York's defensive concessions on the road favour a three-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Grimsby's transitional punch, with 1:1 preserving York's road stalemate habit."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence point with two goals serving as the primary defensive alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "York's 83% first-half away draw rate points to a level opening before second-half attrition decides the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 00:40:16 UTC"
+}
