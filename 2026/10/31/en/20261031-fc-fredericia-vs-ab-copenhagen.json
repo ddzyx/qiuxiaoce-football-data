@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551368,
+    "matchup": "FC Fredericia vs AB Copenhagen",
+    "home_team": "FC Fredericia",
+    "away_team": "AB Copenhagen",
+    "league": "1. Division",
+    "kickoff_utc": "2026-10-31 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261031-fc-fredericia-vs-ab-copenhagen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Fredericia vs AB Copenhagen Prediction & Preview: Fortress Defense vs Promotion Surge — Model Analysis",
+    "meta": {
+      "matchId": "1551368",
+      "league": "1. Division",
+      "matchup": "FC Fredericia vs AB Copenhagen",
+      "matchTime": "2026-10-31 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Fredericia to protect their unbeaten home record in a disciplined, low-scoring encounter via Home Win or Draw.",
+    "possibilityAssessment": [
+      "Fredericia positional control leads to a narrow 1:0 victory (Confidence: Moderate, Value: Moderate)",
+      "AB Copenhagen counter-attack forces a competitive 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Controlled match flow keeps total scoring under 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551368",
+      "league": "1. Division",
+      "homeTeam": "FC Fredericia",
+      "awayTeam": "AB Copenhagen",
+      "match_time": "12:30",
+      "match_highlight": "Fredericia home fortress collides with AB Copenhagen four-match winning streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551368,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Fredericia's unbeaten home defense makes them primary favorites, but their 50% home draw rate and AB's form require draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expectancy of 2.30 goals and Fredericia's 0.67 home concession rate firmly favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A disciplined 1:0 Fredericia victory serves as the primary convergence point, flanked by a 1:1 draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals and one goal capture the highest mathematical density in this low-scoring matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Fredericia draw 66.7% of first halves at home, setting up a level opening half before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 00:37:05 UTC"
+}
