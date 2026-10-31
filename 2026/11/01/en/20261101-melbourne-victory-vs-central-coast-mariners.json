@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593696,
+    "matchup": "Melbourne Victory vs Central Coast Mariners",
+    "home_team": "Melbourne Victory",
+    "away_team": "Central Coast Mariners",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-01 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-melbourne-victory-vs-central-coast-mariners/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Melbourne Victory vs Central Coast Mariners Prediction: Travel Strain Meets Youth Rebuild — xG Preview",
+    "meta": {
+      "matchId": "1593696",
+      "league": "A-League",
+      "matchup": "Melbourne Victory vs Central Coast Mariners",
+      "matchTime": "2026-11-01 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Melbourne Victory to avoid defeat at AAMI Park in an open encounter featuring defensive vulnerabilities on both sides.",
+    "possibilityAssessment": [
+      "Melbourne Victory capitalize on Central Coast defensive absences to secure a hard-fought 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Fixture congestion and second-half fatigue limit Victory to a competitive 1:1 stalemate against energetic Mariners (Confidence: Moderate, Value: Moderate)",
+      "High defensive transition volume drives total goals over the 2.5 threshold (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593696",
+      "league": "A-League",
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Central Coast Mariners",
+      "match_time": "04:00",
+      "match_highlight": "Rested Victory stars clash with depleted Mariners backline at AAMI Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593696,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Victory's superior technical quality at AAMI Park while hedging against severe travel fatigue from Indonesia."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Mariners' average of 2.0 goals conceded per match without Sainsbury favors a multi-goal contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Convergence point between Victory's attacking depth and Central Coast's youthful transition threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution and defensive metrics concentrate most heavily in the 2-3 goal band."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Primary reflects second-half breakthrough; secondary reflects Victory leading early before late fatigue concession."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 16:02:49 UTC"
+}
