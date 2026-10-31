@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493216,
+    "matchup": "Deportivo Riestra vs Talleres Cordoba",
+    "home_team": "Deportivo Riestra",
+    "away_team": "Talleres Cordoba",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-10-31 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261031-deportivo-riestra-vs-talleres-cordoba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo Riestra vs Talleres Cordoba Prediction: Attrition Clash at Guillermo Laza — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493216",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Deportivo Riestra vs Talleres Cordoba",
+      "matchTime": "2026-10-31 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Riestra's defensive solidity at Guillermo Laza secures at least a point against a struggling Talleres side in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Low-block attrition produces a tightly contested 1:1 stalemate or narrow 1:0 host victory (Confidence: Moderate, Value: High)",
+      "Total goals stay Under 2.5 with defensive structures dominating open play (Confidence: High, Value: Moderate)",
+      "Extreme offensive bluntness and tactical caution lock the contest into a 0:0 draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493216",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Talleres Cordoba",
+      "match_time": "20:00",
+      "match_highlight": "Defensive attrition dominates as Riestra battles struggling Talleres at Guillermo Laza",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493216,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a cagey 1:1 stalemate alongside a narrow 1:0 host triumph on set pieces."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined goal expectancy of 1.80 aligns with both clubs' chronic attacking limitations."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents primary deadlock, while 1:0 reflects Riestra's dead-ball edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals lead the distribution via 1:1, closely trailed by a single-goal contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A scoreless first half precedes either sustained deadlock or a late Riestra breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-10-31 08:05:11 UTC"
+}
