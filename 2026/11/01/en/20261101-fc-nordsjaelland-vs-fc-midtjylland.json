@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549048,
+    "matchup": "FC Nordsjaelland vs FC Midtjylland",
+    "home_team": "FC Nordsjaelland",
+    "away_team": "FC Midtjylland",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-01 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-fc-nordsjaelland-vs-fc-midtjylland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Nordsjaelland vs FC Midtjylland: Expected Goals, Defensive Injuries & Match Intelligence",
+    "meta": {
+      "matchId": "1549048",
+      "league": "Superliga",
+      "matchup": "FC Nordsjaelland vs FC Midtjylland",
+      "matchTime": "2026-11-01 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Nordsjaelland are primed to exploit FC Midtjylland's heavily depleted defensive spine and maintain their undefeated home record via a Home Win or Draw.",
+    "possibilityAssessment": [
+      "FC Nordsjaelland Win / Draw double chance capitalizing on Midtjylland's defensive injuries (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by Nordsjaelland's 80% home clean sheet rate and controlled tempo (Confidence: Moderate, Value: High)",
+      "1:1 Exact Scoreline representing the statistical convergence of both attacking profiles (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549048",
+      "league": "Superliga",
+      "homeTeam": "FC Nordsjaelland",
+      "awayTeam": "FC Midtjylland",
+      "match_time": "15:00",
+      "match_highlight": "Depleted Midtjylland defense faces Farum synthetic turf test",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549048,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-probability 1:1 stalemate and Nordsjaelland's 2:1 home breakthrough against a reserve away backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson expected goals total of 2.10 and Midtjylland's protective away posture heavily favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Reflects Midtjylland's flawless scoring record balanced against FCN's synthetic turf dominance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the 27.0% mathematical modal peak, with three goals capturing the alternative home win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both teams consistently level at the break (FCN 80% home HT draw rate), with second halves deciding the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:05:57 UTC"
+}
