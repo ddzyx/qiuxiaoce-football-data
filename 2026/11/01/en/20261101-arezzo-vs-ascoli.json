@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601583,
+    "matchup": "Arezzo vs Ascoli",
+    "home_team": "Arezzo",
+    "away_team": "Ascoli",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-arezzo-vs-ascoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arezzo vs Ascoli Prediction & Match Analysis: Defensive Crisis vs Aerial Threat — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601583",
+      "league": "Serie B",
+      "matchup": "Arezzo vs Ascoli",
+      "matchTime": "2026-11-01 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ascoli Calcio are projected to secure an away victory against a structurally vulnerable Arezzo outfit.",
+    "possibilityAssessment": [
+      "Ascoli exploit Arezzo's fractured midfield to secure a clinical away victory (Confidence: Moderate, Value: High)",
+      "High game-state transition tempo pushes match total over the 2.5 goal threshold (Confidence: Moderate, Value: Moderate)",
+      "Disciplined Ascoli backline suffocates home attack for a controlled 0:2 shutout (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601583",
+      "league": "Serie B",
+      "homeTeam": "Arezzo",
+      "awayTeam": "Ascoli",
+      "match_time": "14:00",
+      "match_highlight": "Ascoli aim to exploit Arezzo's depleted midfield and fragile defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601583,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Ascoli's elite defensive structure and transition efficiency heavily outmatch Arezzo's injury-depleted lineup."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Arezzo's 2.11 goals conceded per match combined with Ascoli's prolific form favors an open 3-goal encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A competitive 1:2 victory serves as the primary matrix convergence, with a 0:2 shutout as the secondary."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 total goals represents the highest probabilistic outcome, closely followed by 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A level first half followed by a decisive second-half Ascoli surge reflects both teams' seasonal HT/FT metrics."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 02:11:40 UTC"
+}
