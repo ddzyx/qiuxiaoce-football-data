@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493214,
+    "matchup": "Boca Juniors vs River Plate",
+    "home_team": "Boca Juniors",
+    "away_team": "River Plate",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-01 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-boca-juniors-vs-river-plate/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Boca Juniors vs River Plate Prediction & Match Analysis: Midfield Attrition at La Bombonera — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493214",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Boca Juniors vs River Plate",
+      "matchTime": "2026-11-01 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Boca Juniors to maintain their season-long unbeaten home record via a Home Win or Draw in a low-scoring Superclásico.",
+    "possibilityAssessment": [
+      "Boca Juniors capitalize on River Plate's depleted central midfield to secure a narrow home victory (Confidence: Moderate, Value: High)",
+      "River Plate absorb sustained pressure to grind out a competitive low-scoring draw (Confidence: Moderate, Value: Moderate)",
+      "Severe weather and conservative tactical setups lead to an attritional goalless deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493214",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "River Plate",
+      "match_time": "18:00",
+      "match_highlight": "Boca's unbeaten home fortress faces River's depleted midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493214,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Boca's dominant 1:0 victory script and their season-long 42.9% home draw frequency against River's resilient backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides concede an identical 0.90 goals per game, yielding a low calibrated combined goal expectancy of 2.35."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects River's season profile of losing strictly by 1-goal margins and Boca's disciplined low-block management."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates 48.7% of total probability density across exactly one and two match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Boca have drawn 71.4% of their first halves at home, setting up late second-half acceleration or an unbroken stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 06:05:25 UTC"
+}
