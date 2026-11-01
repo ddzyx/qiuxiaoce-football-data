@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494328,
+    "matchup": "Vasteras SK FK vs IF Brommapojkarna",
+    "home_team": "Vasteras SK FK",
+    "away_team": "IF Brommapojkarna",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-01 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-vasteras-sk-fk-vs-if-brommapojkarna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Västerås SK vs IF Brommapojkarna: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1494328",
+      "league": "Allsvenskan",
+      "matchup": "Vasteras SK FK vs IF Brommapojkarna",
+      "matchTime": "2026-11-01 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Västerås SK to maintain their home stability and avoid defeat (Home Win / Draw) in an open, competitive encounter exceeding 2.5 total goals.",
+    "possibilityAssessment": [
+      "Västerås SK capitalize on Simon Strand's defensive suspension to secure a high-tempo 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Brommapojkarna strike via Mads Hansen on transition to force an open 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Both attacks exploit structural defensive gaps to produce Over 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494328",
+      "league": "Allsvenskan",
+      "homeTeam": "Vasteras SK FK",
+      "awayTeam": "IF Brommapojkarna",
+      "match_time": "15:30",
+      "match_highlight": "Västerås home strength meets Brommapojkarna transition threat",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494328,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Västerås SK's primary 2:1 home victory and the 1:1 transition stalemate script against Brommapojkarna's suspended defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average 1.50 goals per match while Brommapojkarna have conceded in 11 of 12 away fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the central convergence of attacking outputs, with 1:1 as the balanced alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 scoreline, while two goals covers the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Brommapojkarna's compact opening structure holds until halftime before Västerås SK's second-half pressure tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:36:47 UTC"
+}
