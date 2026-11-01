@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560062,
+    "matchup": "Baník Ostrava vs Plzen",
+    "home_team": "Baník Ostrava",
+    "away_team": "Plzen",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-11-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-ban-k-ostrava-vs-plzen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Baník Ostrava vs Plzen Prediction: Attack Deficit Meets Fatigue — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1560062",
+      "league": "Czech Liga",
+      "matchup": "Baník Ostrava vs Plzen",
+      "matchTime": "2026-11-01 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Plzen's superior attacking quality is balanced by acute fixture congestion, making Draw / Away Win alongside Under 2.5 Goals the optimal low-scoring thesis.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance containment (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on Banik's offensive drought and fatigue pace (Confidence: High, Value: High)",
+      "Scoreline 0:1 as the primary convergence point of low-block defense and tired favorites (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560062",
+      "league": "Czech Liga",
+      "homeTeam": "Baník Ostrava",
+      "awayTeam": "Plzen",
+      "match_time": "14:00",
+      "match_highlight": "Fatigued Plzen face toothless Banik low block in Ostrava.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560062,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Plzen possess the superior offensive ceiling to edge a narrow victory, but severe schedule fatigue and Banik's resilient home low block make a drawn stalemate an equally viable containment scenario."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Banik's league-low 0.64 goals per game and Gning's absence combine with Plzen's heavy legs to strongly favor a low-scoring outcome below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A controlled 0:1 away win represents the leading modal outcome, while a 1:1 stalemate captures Plzen's late defensive drop-off."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One and two total goals represent over 51% of model density due to sluggish tempo and Banik's finishing drought."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Banik are projected to keep things level through a scoreless first half before second-half squad depth or fatigue decides the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 02:09:21 UTC"
+}
