@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1564399,
+    "matchup": "Sheffield Wednesday vs Blackpool",
+    "home_team": "Sheffield Wednesday",
+    "away_team": "Blackpool",
+    "league": "League One",
+    "kickoff_utc": "2026-11-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-sheffield-wednesday-vs-blackpool/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sheffield Wednesday vs Blackpool Prediction: Defensive Flaws vs Owls' xG Edge — Scoreline Preview",
+    "meta": {
+      "matchId": "1564399",
+      "league": "League One",
+      "matchup": "Sheffield Wednesday vs Blackpool",
+      "matchTime": "2026-11-01 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sheffield Wednesday's territorial superiority and Blackpool's road defensive vulnerabilities support backing the Owls with draw protection in a measured contest.",
+    "possibilityAssessment": [
+      "Sheffield Wednesday to win or draw (Home Win / Draw) backed by an 83.3% home unbeaten record and Blackpool's 2.50 away goals conceded per game (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting Sheffield Wednesday's 50% Hillsborough clean-sheet rate and disciplined second-half game management (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 stalemate contingency covering transition vulnerabilities in the Owls' depleted central defensive pairing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564399",
+      "league": "League One",
+      "homeTeam": "Sheffield Wednesday",
+      "awayTeam": "Blackpool",
+      "match_time": "14:00",
+      "match_highlight": "Owls' possession meets Seasiders' fragile away defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564399,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Sheffield Wednesday's dominant 2:0 home projection while hedging against an injury-hit defense yielding a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by a 70.5% Poisson probability baseline and Wednesday's 50% home clean-sheet frequency."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "A 2:0 home win is the primary tactical outcome, with 1:1 retained as the defensive contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the peak distribution density, followed closely by a low-scoring one-goal grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Wednesday's 66.7% home half-time draw rate points to a level opening before second-half separation or deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 02:09:54 UTC"
+}
