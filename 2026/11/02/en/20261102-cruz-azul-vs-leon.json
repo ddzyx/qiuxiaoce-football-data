@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551028,
+    "matchup": "Cruz Azul vs Leon",
+    "home_team": "Cruz Azul",
+    "away_team": "Leon",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-02 01:10:00",
+    "source_url": "https://xgmind.com/matches/20261102-cruz-azul-vs-leon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Cruz Azul vs Leon: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1551028",
+      "league": "Liga MX",
+      "matchup": "Cruz Azul vs Leon",
+      "matchTime": "2026-11-02 01:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cruz Azul's superior possession dominance and 2.2 goals per game output will overcome Leon's leaky road backline in regulation time.",
+    "possibilityAssessment": [
+      "Cruz Azul outright regulation victory via sustained box pressure (Confidence: Moderate, Value: Moderate)",
+      "Total match goals exceeding the 2.5 threshold based on combined 3.30 expectancy (Confidence: Moderate, Value: High)",
+      "Competitive 2:1 scoreline reflecting Cruz Azul dominance with transition concession risk (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551028",
+      "league": "Liga MX",
+      "homeTeam": "Cruz Azul",
+      "awayTeam": "Leon",
+      "match_time": "01:10",
+      "match_highlight": "Cruz Azul's prolific attack confronts Leon's porous road backline at Estadio Azteca.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551028,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Cruz Azul's 63.2% possession dominance and 3-match winning streak provide decisive edge over Leon's fragile road defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined scoring and concession averages yield a high 3.30 goal expectancy, with all last 5 H2H meetings clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the natural convergence of Cruz Azul's attacking output and occasional counter-attack concession."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serves as primary expectancy, with two goals offering a strong secondary game-management branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Leon's first-half compactness points to level interval terms before Cruz Azul's pressure breaks through after the restart."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 13:14:13 UTC"
+}
