@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520953,
+    "matchup": "Cuiaba vs São Bernardo",
+    "home_team": "Cuiaba",
+    "away_team": "São Bernardo",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-01 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-cuiaba-vs-s-o-bernardo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cuiaba vs São Bernardo Prediction: Can Dourado Exploit Miraíma Absence? — Scoreline & xG Breakdown",
+    "meta": {
+      "matchId": "1520953",
+      "league": "Serie B",
+      "matchup": "Cuiaba vs São Bernardo",
+      "matchTime": "2026-11-01 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cuiaba to avoid defeat via a Home Win / Draw double chance, leaning on elite home defensive suppression and Dudu Miraíma's suspension.",
+    "possibilityAssessment": [
+      "Primary Direction: Home Win / Draw double chance capitalizing on Cuiaba's 0.94 xGA defensive floor and São Bernardo's creative void (Confidence: Moderate, Value: High)",
+      "Total Goals: Under 2.5 goals aligned with combined goal expectancies and Cuiaba's 0.8 goals conceded per match (Confidence: High, Value: High)",
+      "Scoreline Trajectory: Primary 1:0 home victory with a 1:1 stalemate serving as the vital structural hedge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520953",
+      "league": "Serie B",
+      "homeTeam": "Cuiaba",
+      "awayTeam": "São Bernardo",
+      "match_time": "21:30",
+      "match_highlight": "Cuiaba defense faces Miraíma-less São Bernardo in tight Arena Pantanal duel",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520953,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Cuiaba's 80% home unbeaten rate and elite 0.94 xGA defense provide a sturdy floor against an away side missing its primary playmaker, while Cuiaba's low conversion rate necessitates covering the draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams profile with conservative scoring rates, with Cuiaba conceding just 0.8 goals per match and yielding 57.8% baseline probability for under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 Cuiaba breakthrough reflects second-half pressure against a weakened visitor, while 1:1 covers potential finishing frustration."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Total goals heavily center on 2 and 1 in Poisson modeling, capturing 48.5% of projected scoring distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cuiaba's low first-half goal share (28.6% at home) favors a scoreless opening before a second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 09:34:57 UTC"
+}
