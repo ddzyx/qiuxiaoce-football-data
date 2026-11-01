@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490599,
+    "matchup": "Portland Timbers vs Houston Dynamo",
+    "home_team": "Portland Timbers",
+    "away_team": "Houston Dynamo",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-02 02:45:00",
+    "source_url": "https://xgmind.com/matches/20261102-portland-timbers-vs-houston-dynamo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Portland Timbers vs Houston Dynamo: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490599",
+      "league": "Major League Soccer",
+      "matchup": "Portland Timbers vs Houston Dynamo",
+      "matchTime": "2026-11-02 02:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Portland Timbers to avoid defeat in an open encounter where their home attacking potency offsets critical backline absences.",
+    "possibilityAssessment": [
+      "Portland Timbers to Win or Draw (Home Win / Draw) anchored by dominant home scoring (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals capitalizing on Portland's depleted backline (Confidence: Moderate, Value: Moderate)",
+      "Scoreline 2:1 as primary tactical convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490599",
+      "league": "Major League Soccer",
+      "homeTeam": "Portland Timbers",
+      "awayTeam": "Houston Dynamo",
+      "match_time": "02:45",
+      "match_highlight": "Depleted Timbers backline meets Dynamo counter at Providence Park",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490599,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Portland's potent home offense should secure points, but Kamal Miller's suspension necessitates draw protection against Dynamo counters."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Aggregate lambda expectancy of 3.10 and Portland's chronic lack of clean sheets favor an open, multi-goal environment."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Portland's 2:1 home victory represents the primary convergence, while a 1:1 stalemate covers Houston's defensive resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary projection, with two goals offering a realistic secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to Portland's second-half home acceleration or a sustained tactical stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 14:49:34 UTC"
+}
