@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576516,
+    "matchup": "Lusitânia Lourosa vs Farense",
+    "home_team": "Lusitânia Lourosa",
+    "away_team": "Farense",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-01 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-lusit-nia-lourosa-vs-farense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lusitânia Lourosa vs Farense Prediction: Can Unbeaten Leaders Halt Farense Counters? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576516",
+      "league": "Segunda Liga",
+      "matchup": "Lusitânia Lourosa vs Farense",
+      "matchTime": "2026-11-01 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back unbeaten leaders Lusitânia Lourosa on Home Win / Draw, prioritizing a 2:1 victory and Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Lusitânia Lourosa establish early lead and secure a 2:1 victory (Confidence: Moderate, Value: Moderate)",
+      "Total Goals exceed 2.5 in a high-tempo open encounter (Confidence: Moderate, Value: High)",
+      "Farense exploit late lead fragility to claim a 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576516",
+      "league": "Segunda Liga",
+      "homeTeam": "Lusitânia Lourosa",
+      "awayTeam": "Farense",
+      "match_time": "15:30",
+      "match_highlight": "Unbeaten leaders Lourosa face Farense's lethal second-half transition attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576516,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Lourosa's primary winning trajectory alongside the draw risk stemming from their 40% lead-erosion rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 2.90 goal expectancy with both sides averaging 1.80 goals scored per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 represents the natural convergence of attacking firepower, while 1:1 serves as the modal Poisson outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 2:1 home triumph; 2 goals covers the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Win-Win reflects Lourosa's 62.5% half-time lead rate; Win-Draw captures Farense's 71.4% second-half scoring surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:42:12 UTC"
+}
