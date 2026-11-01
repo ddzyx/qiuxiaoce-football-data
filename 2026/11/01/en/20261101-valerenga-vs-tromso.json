@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494795,
+    "matchup": "Valerenga vs Tromso",
+    "home_team": "Valerenga",
+    "away_team": "Tromso",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-01 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261101-valerenga-vs-tromso/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valerenga vs Tromso Prediction & Match Analysis: Can Host Defense Survive xG Deficit? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494795",
+      "league": "Eliteserien",
+      "matchup": "Valerenga vs Tromso",
+      "matchTime": "2026-11-01 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tromso's superior defensive structure and finishing edge warrant backing the visitors to avoid defeat via Draw / Away Win in an open, multi-goal contest.",
+    "possibilityAssessment": [
+      "Tromso exploits Valerenga's 2.00 xGA defensive vulnerability to secure a tight 2-1 road victory (Confidence: Moderate, Value: High)",
+      "Valerenga's artificial-pitch resilience and transition pace hold Tromso to a competitive 1-1 stalemate (Confidence: Moderate, Value: High)",
+      "Both attacks generate sufficient conversion efficiency to push the match total Over 2.5 Goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494795",
+      "league": "Eliteserien",
+      "homeTeam": "Valerenga",
+      "awayTeam": "Tromso",
+      "match_time": "18:15",
+      "match_highlight": "Tromso's defensive metrics meet Valerenga's resurgent home transition attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494795,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Tromso possesses the structural advantage to avoid defeat against a Valerenga side missing suspended creator Carl Lange."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Over 2.5 is heavily supported by Valerenga's chronic 2.00 xGA concession rate and a 67.5% Poisson model density."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Convergence point between Tromso's multi-goal road potential and Valerenga's home scoring resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads probabilistic density at 21.6%, with 2 goals serving as the primary lower-bound hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tromso scores over 76% of their road goals in the second half, favoring a level opening 45 minutes before decisive second-half movement."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 06:20:49 UTC"
+}
