@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593348,
+    "matchup": "Levadiakos vs Aris Thessalonikis",
+    "home_team": "Levadiakos",
+    "away_team": "Aris Thessalonikis",
+    "league": "Super League 1",
+    "kickoff_utc": "2026-11-01 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-levadiakos-vs-aris-thessalonikis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Levadiakos vs Aris Thessalonikis Prediction & Match Analysis: Can Low Block Stifle High xG? — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1593348",
+      "league": "Super League 1",
+      "matchup": "Levadiakos vs Aris Thessalonikis",
+      "matchTime": "2026-11-01 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Aris Thessalonikis to avoid defeat in a low-scoring tactical battle dominated by Levadiakos's low defensive block.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance driven by Aris's superior xG creation and Levadiakos's defensive floor (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a 57.8% Poisson density and Levadiakos's 8-match goal drought (Confidence: High, Value: Moderate)",
+      "0:1 Correct Score as the primary convergence point of defensive attrition and away quality (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593348",
+      "league": "Super League 1",
+      "homeTeam": "Levadiakos",
+      "awayTeam": "Aris Thessalonikis",
+      "match_time": "15:00",
+      "match_highlight": "Levadiakos's 8-match goal drought meets Aris's top-four road offense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593348,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Aris's superior attacking quality to edge a narrow win while hedging against Levadiakos's proven low-block home stalemates."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Strongly supported by Levadiakos's zero domestic goals scored and a combined 2.37 Poisson goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Anticipates a narrow 0:1 away win as the leading outcome, with a 1:1 stalemate covering the primary defensive risk path."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates heavily on 2 goals (26.3%) and 1 goal (22.2%) across low-scoring match branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Levadiakos have drawn 75% of first halves, setting up a level interval before Aris's depth decides the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:08:25 UTC"
+}
