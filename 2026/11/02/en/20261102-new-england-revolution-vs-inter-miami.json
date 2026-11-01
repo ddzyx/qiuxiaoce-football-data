@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490598,
+    "matchup": "New England Revolution vs Inter Miami",
+    "home_team": "New England Revolution",
+    "away_team": "Inter Miami",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-02 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-new-england-revolution-vs-inter-miami/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New England Revolution vs Inter Miami Prediction: Revs Home Form vs Messi's xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1490598",
+      "league": "Major League Soccer",
+      "matchup": "New England Revolution vs Inter Miami",
+      "matchTime": "2026-11-02 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter Miami's league-leading attacking efficiency and superior expected goals creation provide a decisive edge to secure points against New England Revolution in an open, competitive encounter.",
+    "possibilityAssessment": [
+      "Primary: Draw / Away Win — Inter Miami leverage superior offensive output through Messi and Suárez to exploit New England's transition vulnerabilities (Confidence: Moderate, Value: High)",
+      "Secondary: Over 2.5 Total Goals — High combined xG generation and both teams' defensive fragility favor an open, goal-rich fixture (Confidence: High, Value: Moderate)",
+      "Contingency: 1:1 Stalemate — New England's formidable 71.4% home win rate and Matt Turner's shot-stopping restrict Miami to a single point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490598",
+      "league": "Major League Soccer",
+      "homeTeam": "New England Revolution",
+      "awayTeam": "Inter Miami",
+      "match_time": "00:00",
+      "match_highlight": "Messi and Miami attack test New England's formidable Gillette Stadium record",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490598,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Inter Miami's superior attacking punch (1:2) alongside New England's formidable home resilience (1:1), where a single call understates the competitive deadlock."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined xG expectation exceeding 3.3 goals per game makes Over 2.5 the statistically dominant total goals trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A narrow 1:2 victory for Inter Miami represents the primary convergence, while a 1:1 stalemate provides direct risk containment."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the primary 1:2 away victory, with two goals covering the low-variance 1:1 draw scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tight, contested first half precedes decisive second-half separation from Miami's stars or a disciplined defensive stand."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 12:04:38 UTC"
+}
