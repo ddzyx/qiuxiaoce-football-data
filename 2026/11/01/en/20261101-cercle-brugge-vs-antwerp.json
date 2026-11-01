@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558664,
+    "matchup": "Cercle Brugge vs Antwerp",
+    "home_team": "Cercle Brugge",
+    "away_team": "Antwerp",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-01 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-cercle-brugge-vs-antwerp/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Cercle Brugge vs Antwerp: Expected Goals, High-Press Fragility & Scoreline Projections",
+    "meta": {
+      "matchId": "1558664",
+      "league": "Jupiler Pro League",
+      "matchup": "Cercle Brugge vs Antwerp",
+      "matchTime": "2026-11-01 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Royal Antwerp Avoids Defeat (Draw / Away Win) backed by an Over 2.5 goal trajectory against Cercle Brugge's fragile defense.",
+    "possibilityAssessment": [
+      "Antwerp transition efficiency exploits Cercle high line for 1:2 away victory (Confidence: Moderate, Value: Moderate)",
+      "Both teams score but defensive errors cancel out in 1:1 or 2:2 draw (Confidence: Moderate, Value: High)",
+      "Cercle high press dominates territory but finishing waste limits total to narrow stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558664",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Cercle Brugge",
+      "awayTeam": "Antwerp",
+      "match_time": "12:30",
+      "match_highlight": "Antwerp transition pace tests Cercle's winless and clean-sheet-free high defensive line",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558664,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:2 Antwerp counter-attacking triumph and the 1:1 stalemate, recognizing Cercle's chronic defensive lapses."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams concede over 2.20 goals per match with combined xGA approaching 4.0, strongly supporting Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 scoreline captures Antwerp's transition edge, while 1:1 serves as the primary deadlock scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence total with two goals acting as the lower-scoring deadlock fallback."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Antwerp regularly draw at half-time away before deciding fixtures in the second half as Cercle fatigue sets in."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 00:33:23 UTC"
+}
