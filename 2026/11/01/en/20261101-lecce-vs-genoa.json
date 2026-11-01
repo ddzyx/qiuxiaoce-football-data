@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550184,
+    "matchup": "Lecce vs Genoa",
+    "home_team": "Lecce",
+    "away_team": "Genoa",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-01 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-lecce-vs-genoa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lecce vs Genoa Prediction & Match Analysis: Defensive Crisis vs Grifone Form — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550184",
+      "league": "Serie A",
+      "matchup": "Lecce vs Genoa",
+      "matchTime": "2026-11-01 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Genoa hold a distinct structural edge against a severely depleted Lecce backline, making Draw / Away Win alongside Under 2.5 goals the primary probabilistic scenario.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance captures Genoa's transition edge and covers away friction (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflects low open-play goal expectancy and Genoa's consecutive clean sheets (Confidence: High, Value: Moderate)",
+      "0:1 Genoa away win serves as the primary scoreline convergence point on second-half transitions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550184",
+      "league": "Serie A",
+      "homeTeam": "Lecce",
+      "awayTeam": "Genoa",
+      "match_time": "17:00",
+      "match_highlight": "Depleted Lecce host resurgent Genoa in tactical Via del Mare clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550184,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Genoa's defensive solidity exploits Lecce's defensive absences, while Genoa's away caution preserves draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides generate under one expected goal per match, projecting a tight, low-scoring defensive contest."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A narrow 0:1 Genoa away breakthrough represents the modal outcome, with a 1:1 stalemate acting as the primary draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Scoring dynamics overwhelmingly favor one or two total match goals across Poisson distribution bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half approaches support a level interval before Genoa's superior bench tests Lecce late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 05:06:12 UTC"
+}
