@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576219,
+    "matchup": "Hannover 96 vs Dynamo Dresden",
+    "home_team": "Hannover 96",
+    "away_team": "Dynamo Dresden",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-01 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-hannover-96-vs-dynamo-dresden/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hannover 96 vs Dynamo Dresden Prediction: Can Wagner Fix Finishing Woes? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1576219",
+      "league": "2. Bundesliga",
+      "matchup": "Hannover 96 vs Dynamo Dresden",
+      "matchTime": "2026-11-01 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hannover 96 avoid defeat against a travel-weary Dynamo Dresden in a cagey, low-scoring basement battle dominated by Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Hannover 96 capitalize on territorial dominance to secure a narrow 1:0 victory (Confidence: Moderate, Value: High)",
+      "Persistent finishing wastefulness results in a low-event 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Defensively insulated game state keeps total scoring strictly Under 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576219",
+      "league": "2. Bundesliga",
+      "homeTeam": "Hannover 96",
+      "awayTeam": "Dynamo Dresden",
+      "match_time": "12:30",
+      "match_highlight": "Struggling Hannover host winless-away Dresden in critical relegation battle",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576219,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Hannover possess superior underlying metrics against winless-away Dresden, with the draw formally covering Hannover's acute finishing wastefulness."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs generate low underlying expected goals while maintaining strong open-play defensive suppression, locking total goals firmly Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A solitary home breakthrough represents the primary convergence point, while a 1:1 stalemate acts as the prime contingency."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Independent Poisson distribution heavily concentrates across the 1 and 2 goal bands in this tightly contested relegation clash."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey, goalless opening half leads into Hannover's late pressure deciding the match or settling into an unbroken defensive deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 00:32:46 UTC"
+}
