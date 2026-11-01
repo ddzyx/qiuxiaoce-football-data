@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555075,
+    "matchup": "FC WIL 1900 vs FC Winterthur",
+    "home_team": "FC WIL 1900",
+    "away_team": "FC Winterthur",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-fc-wil-1900-vs-fc-winterthur/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Challenge League Intelligence: FC Wil 1900 vs FC Winterthur Preview — Tactical Projections",
+    "meta": {
+      "matchId": "1555075",
+      "league": "Challenge League",
+      "matchup": "FC WIL 1900 vs FC Winterthur",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Winterthur to avoid defeat via Draw / Away Win with primary orientation toward a 1:2 road victory.",
+    "possibilityAssessment": [
+      "FC Winterthur exploit Wil's leaky backline to secure a high-scoring 1:2 away victory (Confidence: Moderate, Value: High)",
+      "FC Wil 1900 utilize synthetic pitch dynamics to hold Winterthur to a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High combined goal expectancy of 3.45 goals produces an open match exceeding Over 2.5 Total Goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555075",
+      "league": "Challenge League",
+      "homeTeam": "FC WIL 1900",
+      "awayTeam": "FC Winterthur",
+      "match_time": "13:00",
+      "match_highlight": "Winterthur quality battles Wil's synthetic turf transition threat",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555075,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Winterthur hold decisive attacking superiority (2.10 goals/match) against Wil's fragile backline, while Wil's division-high draw rate mandates pairing."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 3.45 goals and Wil's concession average of 2.20 goals per match strongly corroborate Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away triumph reflects Winterthur's offensive edge, while 1:1 captures Wil's resilient home stalemate tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals covering a tighter tactical deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss accounts for Wil's initial resistance before Winterthur's depth breaks through, while Loss-Loss covers early away dominance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:06:06 UTC"
+}
