@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520956,
+    "matchup": "Londrina vs America Mineiro",
+    "home_team": "Londrina",
+    "away_team": "America Mineiro",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-01 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-londrina-vs-america-mineiro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Londrina vs America Mineiro: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1520956",
+      "league": "Serie B",
+      "matchup": "Londrina vs America Mineiro",
+      "matchTime": "2026-11-01 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Londrina are projected to leverage home stability against America Mineiro's winless travel record, with Draw protection warranted.",
+    "possibilityAssessment": [
+      "Londrina Win / Draw double chance via superior territory and opponent road collapse (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by low attacking output and conservative tempo (Confidence: Moderate, Value: High)",
+      "Low-scoring 1:0 victory as primary anchor, with 1:1 stalemate as main hedge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520956",
+      "league": "Serie B",
+      "homeTeam": "Londrina",
+      "awayTeam": "America Mineiro",
+      "match_time": "19:00",
+      "match_highlight": "Londrina host travel-weary America Mineiro in critical round 36 clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520956,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a tight 1:0 home win and 1:1 draw given America-MG's winless road record and Londrina's modest scoring punch."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.50 alongside America-MG's 0.70 road scoring rate supports a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 home triumph stands as the primary script, with 1:1 representing the leading low-block deadlock risk."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Concentration across 1 and 2 total goals aligns directly with both sides' sub-1.35 attacking profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a cautious opening half followed by either a decisive Tubarão breakthrough or an unyielding stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 07:03:42 UTC"
+}
