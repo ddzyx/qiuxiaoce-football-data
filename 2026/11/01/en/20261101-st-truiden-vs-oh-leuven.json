@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558669,
+    "matchup": "St. Truiden vs OH Leuven",
+    "home_team": "St. Truiden",
+    "away_team": "OH Leuven",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-01 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-st-truiden-vs-oh-leuven/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St. Truiden vs OH Leuven Prediction: Stayen Turf Edge Meets Low-Block Trap — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1558669",
+      "league": "Jupiler Pro League",
+      "matchup": "St. Truiden vs OH Leuven",
+      "matchTime": "2026-11-01 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "St. Truiden hold the structural and synthetic pitch advantage, but OH Leuven's low-block resilience and recent five-match unbeaten run warrant covering the draw in a tight, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Primary Thesis: St. Truiden edge a narrow contest or share the spoils (Home Win / Draw) as Stayen's artificial turf limits Leuven's transition fluidity (Confidence: Moderate, Value: Moderate)",
+      "Secondary Thesis: Combined expected goals remain depressed beneath 2.5 goals given Leuven's away goal drought and St. Truiden's European load management (Confidence: High, Value: High)",
+      "Contingency Thesis: Exact scoreline 1:1 serves as the primary hedge against home defensive lapses in late game states (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558669",
+      "league": "Jupiler Pro League",
+      "homeTeam": "St. Truiden",
+      "awayTeam": "OH Leuven",
+      "match_time": "15:00",
+      "match_highlight": "Synthetic turf clash tests Leuven's five-match unbeaten run",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558669,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "St. Truiden's superior possession and home turf edge make them favorites, but OH Leuven's 5-match unbeaten streak and defensive compactness necessitate draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "OH Leuven's 0.25 away goal average and historical low-scoring meetings at Stayen strongly support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A controlled 1:0 home victory represents the primary convergence, while a 1:1 stalemate covers Leuven's low-block counter threat."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Expect a low-scoring affair concentrated on 1 or 2 total goals given both teams' low Poisson expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, scoreless first half is anticipated before second-half adjustments decide the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:06:12 UTC"
+}
