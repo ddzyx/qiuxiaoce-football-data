@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494325,
+    "matchup": "Malmo FF vs Hammarby FF",
+    "home_team": "Malmo FF",
+    "away_team": "Hammarby FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-malmo-ff-vs-hammarby-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Malmo FF vs Hammarby FF Prediction & Match Analysis: Title Chase Pressure vs Defensive Crisis — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494325",
+      "league": "Allsvenskan",
+      "matchup": "Malmo FF vs Hammarby FF",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Hammarby FF to capitalize on Malmo's depleted defense and secure an essential road victory in their Allsvenskan title pursuit.",
+    "possibilityAssessment": [
+      "Hammarby Outright Victory (Confidence: High, Value: High)",
+      "Over 2.5 Total Match Goals (Confidence: High, Value: Moderate)",
+      "Hammarby 2-1 Exact Scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494325",
+      "league": "Allsvenskan",
+      "homeTeam": "Malmo FF",
+      "awayTeam": "Hammarby FF",
+      "match_time": "13:00",
+      "match_highlight": "Hammarby title push exploits depleted Malmo backline at Eleda Stadion",
+      "ai_confidence": "High",
+      "fixtureId": 1494325,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Hammarby's dominant 2.20 xG attack directly overwhelms Malmo's injury-ravaged central defensive pairing."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.065 lambda total and vulnerable home backline support high goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Reflects Hammarby's multi-goal attacking capacity against Malmo's compromised defensive structure."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution peaks at 3 goals (22.4%) followed closely by 2 goals (21.9%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Hammarby excels in second-half breakthroughs while possessing the firepower for an early lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:02:27 UTC"
+}
