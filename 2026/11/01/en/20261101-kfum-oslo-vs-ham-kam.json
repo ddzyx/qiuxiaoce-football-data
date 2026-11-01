@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494792,
+    "matchup": "KFUM Oslo vs Ham-Kam",
+    "home_team": "KFUM Oslo",
+    "away_team": "Ham-Kam",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-01 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-kfum-oslo-vs-ham-kam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "KFUM Oslo vs Ham-Kam Prediction & Match Analysis: Turf Advantage vs Road Fragility — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494792",
+      "league": "Eliteserien",
+      "matchup": "KFUM Oslo vs Ham-Kam",
+      "matchTime": "2026-11-01 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "KFUM Oslo's home synthetic pitch fluency and five-match unbeaten run make them favorites, but Ham-Kam's survival urgency warrants Home Win / Draw protection.",
+    "possibilityAssessment": [
+      "KFUM Oslo Home Win / Draw double chance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined 3.94 xGA baseline (Confidence: Moderate, Value: Moderate)",
+      "Primary scoreline 2:1 reflecting home dominance and defensive concessions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494792",
+      "league": "Eliteserien",
+      "homeTeam": "KFUM Oslo",
+      "awayTeam": "Ham-Kam",
+      "match_time": "16:00",
+      "match_highlight": "KFUM turf fluency meets Ham-Kam low block in survival clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494792,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers KFUM's primary 2:1 home victory while protecting against a stubborn 1:1 stalemate given Aleesami's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams concede heavily with combined xGA exceeding 3.9 goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory is the primary convergence point, with 1:1 as the secondary draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the highest model density at 22.0%, followed by two goals at 19.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "KFUM convert 100% of half-time home leads into wins, while Ham-Kam's low block can force a level half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 04:05:47 UTC"
+}
