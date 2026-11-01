@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555414,
+    "matchup": "Lausanne vs FC Thun",
+    "home_team": "Lausanne",
+    "away_team": "FC Thun",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-01 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-lausanne-vs-fc-thun/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lausanne vs FC Thun Prediction & Match Analysis: Attack Asymmetry in Relegation Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1555414",
+      "league": "Super League",
+      "matchup": "Lausanne vs FC Thun",
+      "matchTime": "2026-11-01 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Thun to avoid defeat in an open encounter via Draw / Away Win, with Over 2.5 goals favoured.",
+    "possibilityAssessment": [
+      "FC Thun capitalize on their superior offensive output to secure a 1:2 road victory against a struggling Lausanne side (Confidence: Moderate, Value: Moderate)",
+      "Lausanne's disciplined low block holds a fatigued Thun squad to a grinding 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "A high-volatility reversal where Lausanne lead at the interval before Thun's depth sparks a second-half turnaround (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555414",
+      "league": "Super League",
+      "homeTeam": "Lausanne",
+      "awayTeam": "FC Thun",
+      "match_time": "15:30",
+      "match_highlight": "Thun's sharp attack faces Lausanne's home struggles in a pivotal clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555414,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "FC Thun hold a clear firepower advantage and strong away record, but their 2.7 goals conceded per match make covering the draw essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by FC Thun's season average of 4.45 total match goals and their fragile 2.21 xGA defensive record."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Thun's attacking superiority in a 1:2 win alongside the alternative 1:1 stalemate script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary expectation in Thun's high-variance matches, with two goals covering the low-scoring deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Loss captures a cautious first half followed by Thun's late winner, while Draw-Draw represents the sustained stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:39:17 UTC"
+}
