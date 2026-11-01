@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565291,
+    "matchup": "Oţelul vs Sepsi OSK Sfantu Gheorghe",
+    "home_team": "Oţelul",
+    "away_team": "Sepsi OSK Sfantu Gheorghe",
+    "league": "Liga I",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-o-elul-vs-sepsi-osk-sfantu-gheorghe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Oţelul vs Sepsi OSK Prediction & Match Analysis: Can Duarte Exploit Covasna Fragility? — Scoreline Preview",
+    "meta": {
+      "matchId": "1565291",
+      "league": "Liga I",
+      "matchup": "Oţelul vs Sepsi OSK Sfantu Gheorghe",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Oțelul Galați to avoid defeat in a cagey, low-scoring encounter, led by a 1:0 victory script.",
+    "possibilityAssessment": [
+      "Oțelul Win / Draw double chance based on 66.7% home resilience and Sepsi's road scoring drought (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals backed by Sepsi's 57.1% away goalless frequency and 2.39 lambda total (Confidence: Moderate, Value: High)",
+      "Exact Total 2 Goals representing 1:0 and 1:1 central distribution peaks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565291",
+      "league": "Liga I",
+      "homeTeam": "Oţelul",
+      "awayTeam": "Sepsi OSK Sfantu Gheorghe",
+      "match_time": "13:00",
+      "match_highlight": "Duarte's fluid wing attacks meet Sepsi's fragile low-block defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565291,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Oțelul's primary 1:0 victory path and hedges against a low-scoring 1:1 stalemate given both teams' high draw rates."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by Sepsi's 0.62 seasonal goals-per-match rate and Oțelul's disciplined home defensive shape."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 home victory serves as the natural convergence point, with 1:1 remaining the primary deadlock alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one goals capture 48.1% of the Poisson probability distribution for this lower-tier Liga I matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sepsi have drawn 85.7% of their away first halves, pointing toward a level opening period followed by second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:08:48 UTC"
+}
