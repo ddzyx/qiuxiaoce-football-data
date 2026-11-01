@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550182,
+    "matchup": "Juventus vs Napoli",
+    "home_team": "Juventus",
+    "away_team": "Napoli",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-01 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261101-juventus-vs-napoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Juventus vs Napoli Prediction & Match Analysis: Midfield Injury Crisis & Low xGA — Scoreline Preview",
+    "meta": {
+      "matchId": "1550182",
+      "league": "Serie A",
+      "matchup": "Juventus vs Napoli",
+      "matchTime": "2026-11-01 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventus leverage league-best 0.60 xGA defensive stability to contain a Lobotka-deprived Napoli in a tightly contested Home Win / Draw.",
+    "possibilityAssessment": [
+      "Tactical stalemate ends in 1:1 deadlock as mutual midfield absences cancel attacking flow (Confidence: Moderate, Value: High)",
+      "Juventus secure narrow 1:0 victory via set-piece header against depleted Napoli central defense (Confidence: Moderate, Value: Moderate)",
+      "High-friction defensive battle holds total match goals Under 2.5 throughout 90 minutes (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550182",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "Napoli",
+      "match_time": "19:45",
+      "match_highlight": "Depleted midfields clash at Allianz Stadium with European stakes on the line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550182,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:1 stalemate and narrow 1:0 home victory; single selection would understate mutual offensive injury blunting."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Juventus's 0.60 xGA defensive record and severe personnel absences keep scoring chances heavily restricted."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the primary Poisson convergence point, while 1:0 captures Juventus's set-piece defensive grind."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The 2-goal and 1-goal brackets account for over 43% of quantitative probability density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides exhibit heavy second-half scoring shares and cautious opening first-half tendencies."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 07:48:13 UTC"
+}
