@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558665,
+    "matchup": "Charleroi vs RAAL La Louvière",
+    "home_team": "Charleroi",
+    "away_team": "RAAL La Louvière",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-01 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261101-charleroi-vs-raal-la-louviere/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Charleroi vs RAAL La Louvière Prediction: Can Still's Defense Resist Zebra Pressure? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1558665",
+      "league": "Jupiler Pro League",
+      "matchup": "Charleroi vs RAAL La Louvière",
+      "matchTime": "2026-11-01 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Charleroi's superior chance creation and formidable home form will overpower La Louvière's struggling away defense.",
+    "possibilityAssessment": [
+      "Charleroi Home Win driven by 1.87 xG per match and La Louviere's 0-0-4 away record (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by La Louviere's 2.50 away goals conceded average (Confidence: Moderate, Value: Moderate)",
+      "Charleroi Clean Sheet 2:0 victory exploiting visitor road scoring drought (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558665",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Charleroi",
+      "awayTeam": "RAAL La Louvière",
+      "match_time": "18:15",
+      "match_highlight": "Charleroi aim to maintain top-four standing against traveling La Louvière.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558665,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Charleroi's 75% home win rate and +0.68 net xG balance decisively outclass La Louviere's four-match road losing streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.25 goals and La Louviere leaking 2.50 goals per away match support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory leads the model density, while a 2:0 clean sheet covers La Louviere's 75% away scoreless rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the modal distribution peak, closely backed by a controlled two-goal game state."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Charleroi's 80% win rate following half-time draws makes Draw-Win the prime transition ahead of a Win-Win start."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 06:20:28 UTC"
+}
