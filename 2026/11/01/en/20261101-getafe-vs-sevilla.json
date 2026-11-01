@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570438,
+    "matchup": "Getafe vs Sevilla",
+    "home_team": "Getafe",
+    "away_team": "Sevilla",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-getafe-vs-sevilla/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Getafe vs Sevilla: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1570438",
+      "league": "La Liga",
+      "matchup": "Getafe vs Sevilla",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sevilla's operational stability and Getafe's decimated defensive spine point toward a low-scoring Draw / Away Win anchored by Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance reflecting Sevilla's edge against bottom-half sides and Getafe's home resilience (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on combined suppressed xG expectancy and Getafe's 0.50 goals per match average (Confidence: High, Value: Moderate)",
+      "Exact Scoreline 0:1 representing Sevilla's typical late-game away breakthrough against a tired low block (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570438",
+      "league": "La Liga",
+      "homeTeam": "Getafe",
+      "awayTeam": "Sevilla",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Getafe host in-form Sevilla in tight Coliseum clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570438,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sevilla's superior squad health and 10-game scoring run alongside Getafe's unbeaten Coliseum home record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Getafe's league-low 0.42 xG output and Sevilla's low-event away profile heavily compress total goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 away win represents the primary trajectory, with a 1:1 stalemate retaining secondary probability."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Expected goals distribution heavily clusters between one and two total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Getafe draw 60% of home first halves, while 14 of Sevilla's 18 away goals occur after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:11:24 UTC"
+}
