@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494794,
+    "matchup": "Start vs Lillestrom",
+    "home_team": "Start",
+    "away_team": "Lillestrom",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-01 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-start-vs-lillestrom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Start vs Lillestrom Prediction & Match Analysis: Relegation Pressure vs Away Form — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494794",
+      "league": "Eliteserien",
+      "matchup": "Start vs Lillestrom",
+      "matchTime": "2026-11-01 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lillestrøm's superior transition efficiency against Start's depleted defense makes Draw / Away Win the premier risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Lillestrøm capitalizes on Start's defensive injuries to claim a hard-fought 2-1 road victory (Confidence: Moderate, Value: High)",
+      "Start's relegation survival desperation holds Lillestrøm to a resilient 1-1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional flow breaches defensive lines to comfortably push total goals over 2.5 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494794",
+      "league": "Eliteserien",
+      "homeTeam": "Start",
+      "awayTeam": "Lillestrom",
+      "match_time": "16:00",
+      "match_highlight": "Depleted Start backline confronts lethal Lillestrøm away transition attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494794,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Lillestrøm's 1:2 victory thesis alongside Start's gritty 1:1 home survival deadlock script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "High combined Poisson lambda of 3.38 and Start's 2.25 goals conceded per match strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 scoreline reflects away attacking edge while secondary 1:1 captures home low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 1:2 convergence point, followed by two goals under the 1:1 scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Lillestrøm converts 66.7% of away half-time draws into wins, while Draw-Draw preserves the 1:1 hedge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 04:05:27 UTC"
+}
