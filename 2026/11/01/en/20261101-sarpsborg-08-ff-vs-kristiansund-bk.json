@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494793,
+    "matchup": "Sarpsborg 08 FF vs Kristiansund BK",
+    "home_team": "Sarpsborg 08 FF",
+    "away_team": "Kristiansund BK",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-01 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-sarpsborg-08-ff-vs-kristiansund-bk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sarpsborg 08 vs Kristiansund BK Prediction: xG Disparity & Relegation Battle — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1494793",
+      "league": "Eliteserien",
+      "matchup": "Sarpsborg 08 FF vs Kristiansund BK",
+      "matchTime": "2026-11-01 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sarpsborg 08 FF are poised to exploit Kristiansund BK's severe defensive vulnerabilities and captain Dan Ulvestad's suspension to secure a decisive home victory.",
+    "possibilityAssessment": [
+      "Sarpsborg 08 FF Home Win secured via high-volume wing pressure (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals driven by Kristiansund's 2.12 road xGA (Confidence: Moderate, Value: Moderate)",
+      "Competitive 2:1 scoreline reflecting Kristiansund's transitional threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494793",
+      "league": "Eliteserien",
+      "homeTeam": "Sarpsborg 08 FF",
+      "awayTeam": "Kristiansund BK",
+      "match_time": "16:00",
+      "match_highlight": "Kristiansund miss suspended captain Ulvestad against Sarpsborg's potent home offense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494793,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sarpsborg's superior 1.72 xG production and Kristiansund's 72.7% away loss rate solidly underpin a home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.33 and Kristiansund's 2.12 road xGA indicate a high likelihood of crossing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Sarpsborg's trend of one-goal home wins points directly to 2:1, with 2:0 covering a defensive shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Independent Poisson modeling concentrates peak probability at 3 goals (22.0%) followed by 2 goals (19.8%)."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kristiansund's 63.6% away halftime deficit rate favors Win-Win, while Draw-Win provides coverage for early resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 04:05:28 UTC"
+}
