@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505554,
+    "matchup": "U. Catolica vs Universidad de Chile",
+    "home_team": "U. Catolica",
+    "away_team": "Universidad de Chile",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-01 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-u-catolica-vs-universidad-de-chile/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "U. Catolica vs Universidad de Chile Prediction: Can Gago's Attack Breach Claro Arena? — Scoreline Preview",
+    "meta": {
+      "matchId": "1505554",
+      "league": "Primera División",
+      "matchup": "U. Catolica vs Universidad de Chile",
+      "matchTime": "2026-11-01 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Universidad de Chile's superior form and defensive stability give them the edge over a fatigued Católica side missing Zuqui.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance trajectory covering a 1:2 away victory or 1:1 tactical stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined 3.10 expected goal baseline and leaky host backline (Confidence: Moderate, Value: High)",
+      "Exact Score 1:2 reflecting visitors' superior transitional sharpness in late game states (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505554",
+      "league": "Primera División",
+      "homeTeam": "U. Catolica",
+      "awayTeam": "Universidad de Chile",
+      "match_time": "15:30",
+      "match_highlight": "Gago's explosive attack challenges fatigued Cruzados in crucial precordillera derby clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505554,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Universidad de Chile's 1:2 winning momentum alongside a 1:1 derby stalemate where a single call would understate Católica's home resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.10 and Católica's 1.5 goals conceded per match comfortably tilt the projection Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away triumph represents the primary transitional script, while 1:1 provides the primary level contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact totals of 3 and 2 goals account for 44.0% of the Poisson probability density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Universidad de Chile draw 70% of away first halves before asserting physical dominance in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:39:09 UTC"
+}
