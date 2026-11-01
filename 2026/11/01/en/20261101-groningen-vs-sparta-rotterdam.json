@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552215,
+    "matchup": "Groningen vs Sparta Rotterdam",
+    "home_team": "Groningen",
+    "away_team": "Sparta Rotterdam",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-01 15:45:00",
+    "source_url": "https://xgmind.com/matches/20261101-groningen-vs-sparta-rotterdam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Groningen vs Sparta Rotterdam Prediction: Willumsson & Attack Exploit Fragile Sparta — XG Mind AI Model",
+    "meta": {
+      "matchId": "1552215",
+      "league": "Eredivisie",
+      "matchup": "Groningen vs Sparta Rotterdam",
+      "matchTime": "2026-11-01 15:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Groningen to avoid defeat against a fragile Sparta Rotterdam backline in a high-octane encounter projected to exceed 2.5 total goals.",
+    "possibilityAssessment": [
+      "Groningen exploit Sparta's porous defense to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Both teams trade goals in an open, end-to-end 2:2 draw (Confidence: Moderate, Value: Moderate)",
+      "High scoring volume pushes the contest Over 2.5 total goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552215",
+      "league": "Eredivisie",
+      "homeTeam": "Groningen",
+      "awayTeam": "Sparta Rotterdam",
+      "match_time": "15:45",
+      "match_highlight": "Willumsson and Van Bergen test Sparta's winless clean sheet defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552215,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Groningen hold superior attacking firepower but their vulnerable defense makes pairing the home win with a draw the optimal risk-adjusted selection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.0 conceded goals per match, producing a cumulative 4.00 Poisson expectancy that heavily favors Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 home victory represents the primary tactical convergence, while a 2:2 stalemate accounts for Groningen's documented lead-erosion tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring dynamics center on 3 and 4 total goals given both clubs' high offensive output and leaky defensive records."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Groningen's 62.5% first-half goal share supports an interval lead, converting either into a full-time victory or being pegged back to a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:50:27 UTC"
+}
