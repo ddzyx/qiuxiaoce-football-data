@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557453,
+    "matchup": "Liverpool vs Arsenal",
+    "home_team": "Liverpool",
+    "away_team": "Arsenal",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-01 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-liverpool-vs-arsenal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Liverpool vs Arsenal: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1557453",
+      "league": "Premier League",
+      "matchup": "Liverpool vs Arsenal",
+      "matchTime": "2026-11-01 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Liverpool are primed to capitalize on Arsenal's pivotal absences of William Saliba and Bukayo Saka, making Home Win / Draw the premier analytical thesis.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance trajectory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals tactical containment (Confidence: Moderate, Value: Moderate)",
+      "1:1 Primary Scoreline equilibrium anchor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557453",
+      "league": "Premier League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "match_time": "16:30",
+      "match_highlight": "Saliba and Saka absences severely undermine Arsenal's Anfield title defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557453,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Arsenal's critical structural absences paired with Liverpool's unbeaten Anfield resilience make a home win or tactical draw the dominant probability."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Compromised wide wing creation for the Gunners and Liverpool's compact mid-block cap overall goal expectation below three."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate captures tactical parity while 2:1 reflects Liverpool's transition efficiency against a rotated defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A two-goal base aligns with the primary stalemate, while three goals accounts for a late home winner."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Opening tactical conservatism indicates a level first half before Liverpool's transition press tests Arsenal late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 04:35:37 UTC"
+}
