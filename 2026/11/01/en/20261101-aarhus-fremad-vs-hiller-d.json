@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551366,
+    "matchup": "Aarhus Fremad vs Hillerød",
+    "home_team": "Aarhus Fremad",
+    "away_team": "Hillerød",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-aarhus-fremad-vs-hiller-d/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aarhus Fremad vs Hillerød Prediction: Can Fremad's Defense Hold Off Away Threat? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551366",
+      "league": "1. Division",
+      "matchup": "Aarhus Fremad vs Hillerød",
+      "matchTime": "2026-11-01 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aarhus Fremad's stout defensive foundation and Hillerød's winless away record favor the hosts in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Aarhus Fremad secure a grinding 1:0 victory via second-half territorial control (Confidence: Moderate, Value: Moderate)",
+      "Match terminates in a 1:1 stalemate due to Fremad's persistent offensive inefficiency (Confidence: Moderate, Value: Moderate)",
+      "Game stays under 2.5 total goals driven by Fremad conceding just 0.90 goals per match (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551366",
+      "league": "1. Division",
+      "homeTeam": "Aarhus Fremad",
+      "awayTeam": "Hillerød",
+      "match_time": "14:00",
+      "match_highlight": "Fremad's elite defense clashes with Hillerød's winless away record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551366,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Fremad's narrow victory script alongside their seasonal 50% draw rate against winless travelers."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Fremad conceding only 0.90 goals per game and generating a combined 2.25 lambda total."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Fremad's low-scoring defensive profile and Hillerød's road struggles."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two Poisson total-goal densities representing over 50% cumulative probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Chronological progression points to a tight first half preceding second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 02:06:51 UTC"
+}
