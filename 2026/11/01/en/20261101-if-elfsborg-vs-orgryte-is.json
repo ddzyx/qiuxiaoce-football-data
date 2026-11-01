@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494322,
+    "matchup": "IF Elfsborg vs Orgryte IS",
+    "home_team": "IF Elfsborg",
+    "away_team": "Orgryte IS",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-01 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-if-elfsborg-vs-orgryte-is/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "IF Elfsborg vs Orgryte IS Prediction & Match Analysis: Relegation Defense Meets Boras Press — xG Preview",
+    "meta": {
+      "matchId": "1494322",
+      "league": "Allsvenskan",
+      "matchup": "IF Elfsborg vs Orgryte IS",
+      "matchTime": "2026-11-01 15:30 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Back IF Elfsborg to defeat relegation-threatened Orgryte IS in regulation time at Borås Arena.",
+    "possibilityAssessment": [
+      "IF Elfsborg Home Win capitalizing on superior territorial control and Orgryte's depleted central midfield (Confidence: High, Value: High)",
+      "Total Goals Over 2.5 driven by combined 2.95 Poisson expectancy and away defensive leakage (Confidence: High, Value: Moderate)",
+      "Draw-Win Half-Time/Full-Time transition reflecting Elfsborg's measured early tempo and second-half acceleration (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494322",
+      "league": "Allsvenskan",
+      "homeTeam": "IF Elfsborg",
+      "awayTeam": "Orgryte IS",
+      "match_time": "15:30",
+      "match_highlight": "Elfsborg home superiority meets Orgryte defensive leakage",
+      "ai_confidence": "High",
+      "fixtureId": 1494322,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "IF Elfsborg's 83.3% home unbeaten record intersects with Orgryte losing 10 of 13 away matches while conceding 2.03 xGA per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 2.95 and Orgryte conceding 2.61 goals per away match support an open, high-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the optimal convergence of Elfsborg chance creation and Orgryte counter-threat, backed by a 2:0 clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals lead the probability density matrix, with two goals offering a realistic secondary game management scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win accounts for Elfsborg's high home interval draw rate (66.7%), while Win-Win reflects Orgryte trailing at halftime in 69.2% of away fixtures."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:36:35 UTC"
+}
