@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551857,
+    "matchup": "Emmen vs Den Bosch",
+    "home_team": "Emmen",
+    "away_team": "Den Bosch",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-01 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-emmen-vs-den-bosch/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Emmen vs Den Bosch Prediction & Match Analysis: High-Line Transition Vulnerabilities — Scoreline Preview",
+    "meta": {
+      "matchId": "1551857",
+      "league": "Eerste Divisie",
+      "matchup": "Emmen vs Den Bosch",
+      "matchTime": "2026-11-01 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Emmen are projected to leverage home field advantage and transitional punch to avoid defeat against an open Den Bosch side.",
+    "possibilityAssessment": [
+      "Primary scenario envisions Emmen absorbing possession before striking decisively in the second half for a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Secondary scenario accounts for midweek cup fatigue leading to a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-scoring variance scenario sees defensive open spaces driving total goals over 2.5 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551857",
+      "league": "Eerste Divisie",
+      "homeTeam": "Emmen",
+      "awayTeam": "Den Bosch",
+      "match_time": "13:30",
+      "match_highlight": "Emmen target Den Bosch high-line vulnerabilities at De Oude Meerdijk.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551857,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Emmen's 83% home win rate and counter-attack edge while hedging fatigue after their midweek Groningen cup clash."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Den Bosch's leaky away defense and Emmen's clinical home finishing favor a high-probability Over 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary tactical convergence, backed by a 1:1 stalemate contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the median expectation in an open contest, with two goals covering the draw script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to second-half acceleration, where Emmen score over 60% of their goals."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:36:40 UTC"
+}
