@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493213,
+    "matchup": "Belgrano Cordoba vs Barracas Central",
+    "home_team": "Belgrano Cordoba",
+    "away_team": "Barracas Central",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-01 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-belgrano-cordoba-vs-barracas-central/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Belgrano Cordoba vs Barracas Central Prediction & Match Analysis: Can Pirata Rebound? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493213",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Belgrano Cordoba vs Barracas Central",
+      "matchTime": "2026-11-01 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Belgrano Cordoba are projected to capitalize on Barracas Central's depleted central defense to secure a narrow victory, with a low-scoring draw formally retained due to the visitors' elite road resilience.",
+    "possibilityAssessment": [
+      "Belgrano Cordoba narrow victory (1:0) via second-half aerial breakthrough exploiting makeshift visiting central defense (Confidence: Moderate, Value: High)",
+      "Low-scoring tactical stalemate (1:1) extending Barracas Central's 85.7% away unbeaten record and recent H2H draw streak (Confidence: Moderate, Value: High)",
+      "Match total finishing Under 2.5 goals driven by conservative playoff stakes and both sides conceding under 1.0 goal per game (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493213",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Belgrano Cordoba",
+      "awayTeam": "Barracas Central",
+      "match_time": "21:30",
+      "match_highlight": "Depleted Barracas central defense tests Belgrano's aerial power in playoff showdown",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493213,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Belgrano's structural edge against a depleted visiting defense while hedging against Barracas Central's 85.7% road unbeaten record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Total expected goal matrix sits at 1.90 with both teams conceding 0.90 or fewer goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 1:0 home win driven by set pieces, alongside the 1:1 stalemate seen in recent head-to-head fixtures."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact goal counts of two and one represent over 59% of combined modeled Poisson density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win accounts for Belgrano's heavy second-half scoring bias (75.8%), while Draw-Draw captures sustained tactical caution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 09:32:38 UTC"
+}
