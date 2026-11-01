@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549049,
+    "matchup": "Odense vs Silkeborg",
+    "home_team": "Odense",
+    "away_team": "Silkeborg",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-odense-vs-silkeborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Odense vs Silkeborg Prediction & Match Analysis: Defensive Crisis vs Low Block — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1549049",
+      "league": "Superliga",
+      "matchup": "Odense vs Silkeborg",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Odense are positioned to avoid defeat against a depleted Silkeborg side, making Home Win / Draw the premier risk-adjusted projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance trajectory reflecting Odense unbeaten momentum and Silkeborg high draw frequency (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored on mutual mid-table tactical caution and Odense recent defensive tightening (Confidence: Moderate, Value: Moderate)",
+      "Primary 1:1 scoreline consensus driven by Silkeborg counter-attack versus Odense physical home pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549049",
+      "league": "Superliga",
+      "homeTeam": "Odense",
+      "awayTeam": "Silkeborg",
+      "match_time": "13:00",
+      "match_highlight": "Odense physical pressure tests Silkeborg depleted central defensive unit.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549049,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Odense's five-match unbeaten run meets Silkeborg's high draw frequency, making the double chance the most resilient expression."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Four of Odense's last five Superliga games remained Under 2.5, matching tactical mid-table caution."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate anchors the Poisson matrix, with a 2:1 home victory serving as the logical ceiling."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal primary count directly reflects the 1:1 anchor, with 3 goals representing the secondary home-win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A level opening half reflects early tactical conservatism before Odense's superior depth impacts the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:02:55 UTC"
+}
