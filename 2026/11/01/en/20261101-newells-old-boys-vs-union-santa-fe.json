@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493222,
+    "matchup": "Newells Old Boys vs Union Santa Fe",
+    "home_team": "Newells Old Boys",
+    "away_team": "Union Santa Fe",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-01 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-newells-old-boys-vs-union-santa-fe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Newells Old Boys vs Union Santa Fe: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1493222",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Newells Old Boys vs Union Santa Fe",
+      "matchTime": "2026-11-01 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Newell's Old Boys on a double-chance Home Win / Draw selection alongside Under 2.5 total goals as Lepra's defensive organization at El Coloso neutralizes Unión's blunt away counter.",
+    "possibilityAssessment": [
+      "Newell's Old Boys grind out a controlled 1:0 victory behind defensive organization (Confidence: Moderate, Value: High)",
+      "Low scoring stalemate produces a 1:1 draw as Newell's under-convert possession (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals materializes through conservative tactical approaches (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493222",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Newells Old Boys",
+      "awayTeam": "Union Santa Fe",
+      "match_time": "21:30",
+      "match_highlight": "Kudelka's defensive fortress meets Madelón's fragile away transition unit",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493222,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Newell's 80% home unbeaten record establishes a high floor, while limited attacking volume justifies covering the low-scoring stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is strongly favored by combined defensive metrics and Newell's 0.71 goals conceded average in Clausura."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A compact 1:0 victory represents the modal home triumph, while a 1:1 draw hedges against offensive under-conversion."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Tactical attrition and low-tempo buildup project a narrow goal count within the 1-2 band."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, low-risk opening 45 minutes precedes Newell's second-half territorial escalation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 09:35:15 UTC"
+}
