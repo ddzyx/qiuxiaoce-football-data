@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494324,
+    "matchup": "BK Hacken vs IFK Goteborg",
+    "home_team": "BK Hacken",
+    "away_team": "IFK Goteborg",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-01 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-bk-hacken-vs-ifk-goteborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "BK Hacken vs IFK Goteborg Prediction & Match Analysis: Tactical Derby Collision — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1494324",
+      "league": "Allsvenskan",
+      "matchup": "BK Hacken vs IFK Goteborg",
+      "matchTime": "2026-11-01 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back BK Häcken to control the derby trajectory via Home Win / Draw with Over 2.5 goals.",
+    "possibilityAssessment": [
+      "BK Häcken win 2:1 behind sustained second-half pressure (Confidence: Moderate, Value: High)",
+      "IFK Göteborg secure a 1:1 stalemate via defensive low block (Confidence: Moderate, Value: Moderate)",
+      "Open encounter yielding Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494324",
+      "league": "Allsvenskan",
+      "homeTeam": "BK Hacken",
+      "awayTeam": "IFK Goteborg",
+      "match_time": "15:30",
+      "match_highlight": "Gothenburg derby collision as Lindgren suspension blunts host edge",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494324,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Häcken's dominant home foundation alongside Göteborg's proven low-block stalemate resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model baseline yields 57.9% density for three or more goals in an open derby."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects home territorial supremacy; secondary 1:1 insulates against finishing variance without Lindgren."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Combined attacking metrics and direct counter-threat favor a 2 to 3 goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Göteborg's 50% away HT draw rate points toward a level first half before second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 03:36:32 UTC"
+}
