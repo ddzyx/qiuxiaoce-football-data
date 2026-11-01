@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551370,
+    "matchup": "Vendsyssel FF vs Vejle",
+    "home_team": "Vendsyssel FF",
+    "away_team": "Vejle",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-vendsyssel-ff-vs-vejle/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vendsyssel FF vs Vejle Prediction & Match Analysis: Claus Nørgaard's Away Form Test — Scoreline Preview",
+    "meta": {
+      "matchId": "1551370",
+      "league": "1. Division",
+      "matchup": "Vendsyssel FF vs Vejle",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vejle to secure all three points in regulation time behind their elite road defensive structure.",
+    "possibilityAssessment": [
+      "Vejle breaks through in the second half to secure a controlled away win (Confidence: Moderate, Value: High)",
+      "High-tempo game state yields Over 2.5 total goals driven by Vendsyssel defensive leaks (Confidence: Moderate, Value: Moderate)",
+      "Vendsyssel employs a deep low-block to hold a tight first-half stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551370",
+      "league": "1. Division",
+      "homeTeam": "Vendsyssel FF",
+      "awayTeam": "Vejle",
+      "match_time": "13:00",
+      "match_highlight": "Vejle aims to protect undefeated road record against struggling Vendsyssel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551370,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Vejle's undefeated away record and 2.0 goals per match output clearly outmatch Vendsyssel's porous backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model goal expectancy reaches lambda 3.05, establishing a 58.9% mathematical edge toward Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A competitive 1:2 win serves as primary convergence, backed by a 0:2 clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact counts of 3 and 2 goals represent 44.4% of the Poisson probability distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Vejle's tendency to draw first halves on the road points toward second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:05:36 UTC"
+}
