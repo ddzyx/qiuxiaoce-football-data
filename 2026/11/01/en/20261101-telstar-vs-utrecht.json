@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552214,
+    "matchup": "Telstar vs Utrecht",
+    "home_team": "Telstar",
+    "away_team": "Utrecht",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-01 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-telstar-vs-utrecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Telstar vs Utrecht Prediction & Match Analysis: Correia's Return Tests Leaky Defenses — Model Preview",
+    "meta": {
+      "matchId": "1552214",
+      "league": "Eredivisie",
+      "matchup": "Telstar vs Utrecht",
+      "matchTime": "2026-11-01 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Utrecht to avoid defeat via Draw / Away Win in an open, multi-goal encounter at BUKO Stadion.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance foundation (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals multi-goal game state (Confidence: Moderate, Value: Moderate)",
+      "FC Utrecht 2:1 away victory primary scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552214",
+      "league": "Eredivisie",
+      "homeTeam": "Telstar",
+      "awayTeam": "Utrecht",
+      "match_time": "13:30",
+      "match_highlight": "Anthony Correia returns to face porous former club Telstar.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552214,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Utrecht's superior attacking ceiling while hedging against their porous defense that has conceded 27 goals without a shutout."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both defenses have combined to concede 48 league goals across 20 matches, creating high multi-goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Utrecht's 2:1 road victory as the primary convergence point with a 1:1 scoring stalemate as the secondary hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary attacking baseline with two goals serving as the secondary game-state branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Telstar's early home energy supports a level first half before Utrecht's second-half scoring weight decides full time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:39:31 UTC"
+}
