@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576222,
+    "matchup": "FC St. Pauli vs 1. FC Nürnberg",
+    "home_team": "FC St. Pauli",
+    "away_team": "1. FC Nürnberg",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-01 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-fc-st-pauli-vs-1-fc-nurnberg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC St. Pauli vs 1. FC Nürnberg: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1576222",
+      "league": "2. Bundesliga",
+      "matchup": "FC St. Pauli vs 1. FC Nürnberg",
+      "matchTime": "2026-11-01 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC St. Pauli on the double chance (Home Win / Draw) in a controlled, low-scoring encounter against a fatigued visitor.",
+    "possibilityAssessment": [
+      "FC St. Pauli capitalize on superior rest and opponent defensive fatigue to grind out a low-scoring victory (Confidence: Moderate, Value: High)",
+      "Persistent finishing bottlenecks see St. Pauli share points in a tight stalemate (Confidence: Moderate, Value: Moderate)",
+      "Depleted Nürnberg backline holds firm under heavy pressure to preserve a low total under 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576222",
+      "league": "2. Bundesliga",
+      "homeTeam": "FC St. Pauli",
+      "awayTeam": "1. FC Nürnberg",
+      "match_time": "12:30",
+      "match_highlight": "Fatigued Nürnberg battle St. Pauli's 14-game H2H stranglehold at Millerntor",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576222,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers St. Pauli's rest and structural superiority alongside their demonstrated propensity for low-scoring draws."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "St. Pauli's 1.00 goal concession rate and Zoma's absence heavily suppress overall goal expectancy below 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents St. Pauli's clean-sheet home breakthrough, while 1:1 hedges their chronic draw frequency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution and matchup metrics strongly cluster on 1 and 2 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tense opening half gives way to St. Pauli's superior fitness late, with a level finish as the primary hedge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 00:35:18 UTC"
+}
