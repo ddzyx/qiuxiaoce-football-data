@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575207,
+    "matchup": "Union Berlin vs 1. FC Köln",
+    "home_team": "Union Berlin",
+    "away_team": "1. FC Köln",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-01 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-union-berlin-vs-1-fc-k-ln/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Union Berlin vs 1. FC Köln Prediction: Striker Crisis & Low-Block Clash — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575207",
+      "league": "Bundesliga",
+      "matchup": "Union Berlin vs 1. FC Köln",
+      "matchTime": "2026-11-01 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Union Berlin to avoid defeat in an ultra-low-scoring affair via Home Win / Draw alongside Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "Union Berlin maintain home defensive compactness to secure a 0:0 draw or 1:0 win against a depleted Köln attack (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals proves mathematically decisive with combined xG under 1.00 (Confidence: High, Value: High)",
+      "1. FC Köln struggle to penetrate Union's low block due to missing all senior centre-forwards (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575207",
+      "league": "Bundesliga",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "1. FC Köln",
+      "match_time": "14:30",
+      "match_highlight": "Union's fortress meets Köln's decimated striker corps",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575207,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the modal 0:0 stalemate and a 1:0 Union set-piece victory, exploiting Köln's 0-0-3 away league record and severe striker crisis."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined match xG expectancy is below 1.00 with both sides generating under 0.70 xG per game in league play."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "0:0 represents the statistical modal scoreline (37.2%), with 1:0 reflecting Union's primary aerial set-piece edge."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "A 0-goal or 1-goal outcome accounts for 74.0% of independent Poisson model distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both teams feature suppressed first-half scoring rates, favoring a level interval followed by continued deadlock or a late Union winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 02:35:37 UTC"
+}
