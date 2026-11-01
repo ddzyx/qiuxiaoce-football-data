@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638116,
+    "matchup": "AC Oulu vs KuPS",
+    "home_team": "AC Oulu",
+    "away_team": "KuPS",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-ac-oulu-vs-kups/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AC Oulu vs KuPS Prediction & Match Analysis: Tactical Friction & Rest Asymmetry — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1638116",
+      "league": "Veikkausliiga",
+      "matchup": "AC Oulu vs KuPS",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "KuPS are projected to avoid defeat in an attritional, low-scoring Championship Group battle at Raatin stadion, with a 1:1 stalemate or narrow 0:1 away victory leading projections.",
+    "possibilityAssessment": [
+      "KuPS Avoids Defeat via Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 (Confidence: High, Value: Moderate)",
+      "Primary Scoreline 1:1 Draw (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638116",
+      "league": "Veikkausliiga",
+      "homeTeam": "AC Oulu",
+      "awayTeam": "KuPS",
+      "match_time": "13:00",
+      "match_highlight": "KuPS battle travel fatigue against Oulu's counter-attacking low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638116,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-density 1:1 stalemate and a narrow 0:1 KuPS victory, insulating against KuPS's European travel fatigue while respecting their 78.6% away unbeaten baseline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined model goal expectancy of 2.45 and Oulu's compact defensive structure favor an Under 2.5 game state."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 captures the balanced tactical friction, while 0:1 accounts for a clinical set-piece or defensive KuPS away victory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A 2-goal match represents the statistical convergence anchor (25.9%), followed closely by a 1-goal attrition outcome (21.1%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "AC Oulu's 60% home first-half draw rate indicates a level opening 45 minutes, resolving into a shared point or late KuPS decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:13:40 UTC"
+}
