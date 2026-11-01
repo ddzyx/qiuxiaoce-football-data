@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601587,
+    "matchup": "Empoli vs Juve Stabia",
+    "home_team": "Empoli",
+    "away_team": "Juve Stabia",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-01 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-empoli-vs-juve-stabia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Empoli vs Juve Stabia Prediction & Match Analysis: Low-Block Grudge at Castellani — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601587",
+      "league": "Serie B",
+      "matchup": "Empoli vs Juve Stabia",
+      "matchTime": "2026-11-01 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juve Stabia hold the tactical edge to avoid defeat against out-of-form Empoli in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Juve Stabia avoid defeat via Draw / Away Win double-chance trajectory (Confidence: Moderate, Value: High)",
+      "Total Goals stay Under 2.5 in a tight, low-block defensive battle (Confidence: High, Value: Moderate)",
+      "Correct score converges on a 0:1 away win or 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601587",
+      "league": "Serie B",
+      "homeTeam": "Empoli",
+      "awayTeam": "Juve Stabia",
+      "match_time": "14:00",
+      "match_highlight": "Juve Stabia road resilience confronts Empoli home losing streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601587,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow Juve Stabia away victory and a low-scoring tactical stalemate; Empoli's defensive leaks give the visitors the edge, but Juve Stabia's modest scoring punch leaves 1:1 in play."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides average exactly 1.00 goal scored per match with Juve Stabia conceding only 0.80 goals away."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A 0:1 transitional away win is the leading convergence point, with a 1:1 stalemate serving as the primary game-state hedge."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Underlying goal expectancies heavily concentrate scoring density on one or two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tight opening half yields an interval deadlock before Juve Stabia's structured organization determines the second-half split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 02:12:59 UTC"
+}
