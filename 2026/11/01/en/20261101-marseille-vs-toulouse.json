@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552805,
+    "matchup": "Marseille vs Toulouse",
+    "home_team": "Marseille",
+    "away_team": "Toulouse",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-01 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261101-marseille-vs-toulouse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Marseille vs Toulouse Prediction & Match Analysis: Can Les Phoceens Contain Away Counters? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552805",
+      "league": "Ligue 1",
+      "matchup": "Marseille vs Toulouse",
+      "matchTime": "2026-11-01 19:45 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Toulouse's elite road transition attack exploits Marseille's league-worst 18.5 xGA defense to avoid defeat in an open, high-scoring clash.",
+    "possibilityAssessment": [
+      "Toulouse exploit transition space and short Marseille recovery to secure a multi-goal away result (Confidence: High, Value: High)",
+      "High-paced exchange of chances produces a volatile second-half scoreline deadlock (Confidence: Moderate, Value: Moderate)",
+      "Marseille individual attacking brilliance forces early control before physical stamina wanes (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552805",
+      "league": "Ligue 1",
+      "homeTeam": "Marseille",
+      "awayTeam": "Toulouse",
+      "match_time": "19:45",
+      "match_highlight": "Marseille's league-worst xGA faces Toulouse's unbeaten road counter-attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552805,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Toulouse's +4.3 xG differential and unblemished away record exploit Marseille's 2.31 xGA per game and European fatigue."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match lambda of 3.40 and porous home transitions establish a 70% probability for three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Primary scoreline captures a clinical 1:2 road counter, while 2:2 reflects Toulouse's trademark away comeback dynamic."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "High offensive firepower from both sides anchors 3 and 4 total goals as the primary model distribution peaks."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Toulouse's 75% half-time draw rate sets up decisive second-half transition breakthroughs as Marseille tire."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 07:48:54 UTC"
+}
