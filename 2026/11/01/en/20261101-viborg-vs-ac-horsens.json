@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549051,
+    "matchup": "Viborg vs AC Horsens",
+    "home_team": "Viborg",
+    "away_team": "AC Horsens",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-01 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-viborg-vs-ac-horsens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Viborg vs AC Horsens Prediction & Match Analysis: Defensive Suspensions Tilt Jutland Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1549051",
+      "league": "Superliga",
+      "matchup": "Viborg vs AC Horsens",
+      "matchTime": "2026-11-01 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Viborg to capitalize on their strong home form and AC Horsens' severe defensive suspensions to secure a regulation victory.",
+    "possibilityAssessment": [
+      "Viborg regulation Home Win supported by superior xG metrics and Horsens' missing defensive spine (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflecting Horsens' zero away clean sheets and high seasonal concession rate (Confidence: Moderate, Value: Moderate)",
+      "Viborg to win by exactly a one-goal margin via a 2:1 scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549051",
+      "league": "Superliga",
+      "homeTeam": "Viborg",
+      "awayTeam": "AC Horsens",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Horsens defense faces Viborg's potent home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549051,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Viborg's 66.7% home win rate and Horsens' critical defensive suspensions point toward a decisive home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "AC Horsens have conceded 20 goals and kept zero away clean sheets, ensuring an open contest surpassing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 scoreline serves as the natural convergence point of Viborg dominance and Horsens transition danger, flanked by a 2:0 shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Scoring expectation concentrates between 2 and 3 goals based on Viborg's 1.57 xG anchor and Horsens' compromised backline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A level opening half giving way to second-half Viborg dominance as Horsens tires leads the distribution, backed by wire-to-wire home control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 01:04:50 UTC"
+}
