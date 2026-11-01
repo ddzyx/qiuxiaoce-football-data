@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1570440,
+    "matchup": "Racing Santander vs Real Madrid",
+    "home_team": "Racing Santander",
+    "away_team": "Real Madrid",
+    "league": null,
+    "kickoff_utc": "2026-11-01 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261101-racing-santander-vs-real-madrid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "La Liga",
+      "matchId": "1570440",
+      "matchup": "Racing Santander vs Real Madrid",
+      "matchTime": "2026-11-01 15:15 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Racing Santander vs Real Madrid Prediction & Tactical Breakdown: Mbappé Threat & Scoreline Preview",
+    "coreRecommendation": "Real Madrid to overcome Racing Santander's spirited home resistance and claim three points in a high-tempo match exceeding 2.5 total goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Racing's high home first-half draw rate gives way to Real Madrid's superior second-half depth.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Real Madrid possess decisive technical and transitional advantages to breach Racing's porous defense.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Multi-goal game script supported by high combined seasonal xG expectancy and defensive transitions.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "Convergence point between Racing's home scoring capacity and Real Madrid's superior finishing quality.",
+        "selection": [
+          "1:2",
+          "1:3"
+        ]
+      },
+      "league": "La Liga",
+      "matchId": "1570440",
+      "awayTeam": "Real Madrid",
+      "homeTeam": "Racing Santander",
+      "fixtureId": 1570440,
+      "match_time": "15:15",
+      "over_under": {
+        "comment": "Racing concede 2.60 goals per game while Madrid average 2.50 goals scored, creating high over potential.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Mbappé targets Racing's league-worst defense at fortress El Sardinero"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Real Madrid full-time away victory driven by transitional clinical efficiency (Confidence: Moderate, Value: High)",
+      "Match total exceeding Over 2.5 goals due to host defensive frailties and away firepower (Confidence: High, Value: Moderate)",
+      "Both teams finding the back of the net as Racing score at El Sardinero (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-3",
+    "halftime_score": "0-3",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-01 18:07:10 UTC"
+  }
+}
