@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490591,
+    "matchup": "Vancouver Whitecaps vs Seattle Sounders",
+    "home_team": "Vancouver Whitecaps",
+    "away_team": "Seattle Sounders",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-01 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261101-vancouver-whitecaps-vs-seattle-sounders/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vancouver Whitecaps vs Seattle Sounders Prediction: Cascadia Derby xG Analysis & Scoreline Preview",
+    "meta": {
+      "matchId": "1490591",
+      "league": "Major League Soccer",
+      "matchup": "Vancouver Whitecaps vs Seattle Sounders",
+      "matchTime": "2026-11-01 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vancouver Whitecaps are positioned to capitalize on their dominant home scoring output and Seattle's critical defensive absences to secure a regulation Cascadia derby victory.",
+    "possibilityAssessment": [
+      "Vancouver establishes early territorial control and converts transitional overloads to secure a decisive home win (Confidence: Moderate, Value: High)",
+      "Yeimar Gómez Andrade's defensive absence opens passing lanes for Vancouver while Seattle's desperation pushes total goals past the 2.5 mark (Confidence: Moderate, Value: High)",
+      "Seattle relies on compact mid-block containment to force a low-scoring game state but succumbs to second-half pressure (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490591",
+      "league": "Major League Soccer",
+      "homeTeam": "Vancouver Whitecaps",
+      "awayTeam": "Seattle Sounders",
+      "match_time": "20:30",
+      "match_highlight": "Cascadia derby clash where Whitecaps attack meets depleted Sounders backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490591,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Vancouver's 2.12 xG per match and 62.5% home win rate provide a decisive edge against a struggling Seattle squad missing Yeimar Gómez Andrade."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined baseline expectancy of 3.09 goals alongside missing defensive anchors on both sides supports an open, high-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "The 2:1 scoreline represents the modal probabilistic convergence, while 2:0 provides secondary coverage for a controlled home shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal total leads model distributions at 22.4%, closely followed by 2 goals at 21.7%."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Vancouver's 56.2% home first-half lead rate underpins Win-Win, while Draw-Win covers Seattle's initial compact resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-01 08:33:11 UTC"
+}
