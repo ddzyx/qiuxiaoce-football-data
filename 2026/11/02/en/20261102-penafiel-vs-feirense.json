@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576517,
+    "matchup": "Penafiel vs Feirense",
+    "home_team": "Penafiel",
+    "away_team": "Feirense",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-02 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-penafiel-vs-feirense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Penafiel vs Feirense: Expected Goals, Firepower Asymmetry & Match Intelligence",
+    "meta": {
+      "matchId": "1576517",
+      "league": "Segunda Liga",
+      "matchup": "Penafiel vs Feirense",
+      "matchTime": "2026-11-02 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Penafiel to capitalize on Feirense's severe attacking drought and secure a controlled victory at Estádio Municipal 25 de Abril.",
+    "possibilityAssessment": [
+      "Penafiel Home Win via sustained territorial dominance and early breakthrough (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as Feirense's defensive shell limits overall game tempo (Confidence: High, Value: Moderate)",
+      "Feirense low-block resistance grinding out a narrow 0:0 or 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576517",
+      "league": "Segunda Liga",
+      "homeTeam": "Penafiel",
+      "awayTeam": "Feirense",
+      "match_time": "18:00",
+      "match_highlight": "Penafiel's potent attack faces winless bottom side Feirense in Matchday 9 clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576517,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Penafiel's 2.30 goals per game and strong home momentum outmatch Feirense's winless and anemic road form."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Feirense have scored only two goals all season, making a low-scoring Penafiel clean sheet the primary trajectory."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "A dominant 2:0 home win is the primary convergence point, with a tighter 1:0 grind acting as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the peak density in the Poisson distribution, supported by one goal in an attrition scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Penafiel's 75% half-time lead rate supports Win-Win, with Draw-Win providing coverage for a stubborn first-half visitor block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 06:07:25 UTC"
+}
