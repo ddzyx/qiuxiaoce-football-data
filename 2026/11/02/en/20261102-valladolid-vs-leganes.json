@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570002,
+    "matchup": "Valladolid vs Leganes",
+    "home_team": "Valladolid",
+    "away_team": "Leganes",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-02 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261102-valladolid-vs-leganes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valladolid vs Leganes Prediction & Match Analysis: Can Pucela Exploit Pepinero Away Drought? — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1570002",
+      "league": "Segunda División",
+      "matchup": "Valladolid vs Leganes",
+      "matchTime": "2026-11-02 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Valladolid's superior attacking creation and strong home record warrant backing via Home Win / Draw double chance alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance driven by Valladolid's 1.54 xG per game and 60% home win rate against Leganés' road struggles (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by combined lambda of 2.78 and Valladolid seeing 3+ goals in five straight league matches (Confidence: Moderate, Value: High)",
+      "1:1 Correct Score acting as primary tactical hedge against Carrión's organized mid-block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570002",
+      "league": "Segunda División",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Leganes",
+      "match_time": "17:30",
+      "match_highlight": "Valladolid attacking firepower meets Carrión's newly organized Leganés mid-block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570002,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Valladolid hold clear territorial and xG supremacy at Zorrilla, while the draw provides necessary coverage for their fragile backline against Carrión's low block."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG of 2.79 and Valladolid seeing Over 2.5 in five consecutive league matches support a three-goal game."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory represents the natural convergence of Pucela's attack and defense, with 1:1 covering the low-block stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 scoreline, while two goals covers the tight 1:1 contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides exhibit 45.5% half-time draw rates, with Valladolid favored to break the deadlock in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 05:35:41 UTC"
+}
