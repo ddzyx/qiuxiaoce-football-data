@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557455,
+    "matchup": "Newcastle vs Everton",
+    "home_team": "Newcastle",
+    "away_team": "Everton",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-02 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-newcastle-vs-everton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newcastle vs Everton Prediction & Match Analysis: Can Magpies Avenge Cup Defeat? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557455",
+      "league": "Premier League",
+      "matchup": "Newcastle vs Everton",
+      "matchTime": "2026-11-02 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Newcastle's home attacking output and Everton's disciplined away low block point toward a closely fought contest covered by Home Win / Draw, with 1:1 and 2:1 leading the probability distribution.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance provides optimal risk-adjusted coverage against Everton's high road draw frequency (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals aligns with Everton's compact away defensive metrics and Newcastle's forward rotation doubts (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 stalemate reflects both clubs' low first-half goal shares and balanced underlying expected goal profiles (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557455",
+      "league": "Premier League",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Everton",
+      "match_time": "20:00",
+      "match_highlight": "Rapid rematch tests Newcastle's shaky backline against Everton's resolute road counter-attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557455,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Newcastle's home territorial dominance alongside Everton's proven ability to secure road draws, guarding against defensive volatility."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Everton's low-block structure and 1.1 goals conceded per match suppress overall volume despite Newcastle's leaky defensive metrics."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw represents the primary modal convergence, while a hard-fought 2:1 home victory covers Newcastle's late attacking pressure."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals represent the highest probability mass, combining for over 46% of simulated outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both clubs score under 35% of their goals before halftime, making a level opening half followed by second-half drama highly likely."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 08:07:04 UTC"
+}
