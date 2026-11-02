@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638117,
+    "matchup": "Inter Turku vs Gnistan",
+    "home_team": "Inter Turku",
+    "away_team": "Gnistan",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-11-02 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-inter-turku-vs-gnistan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inter Turku vs Gnistan Prediction & Match Analysis: Can Title Chasers Break Bogey Curse? — Scoreline Preview",
+    "meta": {
+      "matchId": "1638117",
+      "league": "Veikkausliiga",
+      "matchup": "Inter Turku vs Gnistan",
+      "matchTime": "2026-11-02 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter Turku hold a narrow edge at Veritas Stadion, but Gnistan's counter-attacking setup makes a low-scoring Home Win or Draw the most balanced projection.",
+    "possibilityAssessment": [
+      "Inter Turku edge a controlled home victory via territorial dominance (Confidence: Moderate, Value: Moderate)",
+      "Gnistan exploit transitional space to secure a resilient low-scoring stalemate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals materializes as Inter's low-block prevention limits open-field volume (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638117",
+      "league": "Veikkausliiga",
+      "homeTeam": "Inter Turku",
+      "awayTeam": "Gnistan",
+      "match_time": "16:00",
+      "match_highlight": "Inter pursue title lifeline against bogey visitors Gnistan at Veritas Stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638117,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Inter's territorial control for a 1:0 victory and Gnistan's proven counter-attacking resilience for a 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by a combined lambda of 2.45 and Inter's league-leading 16 clean sheets conceding just 0.8 goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Inter's pattern of 1-0 victories alongside the Poisson model's modal 1:1 deadlock."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the highest Poisson goal densities of 25.9% for two goals and 21.1% for a single goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Inter draw at half-time in 53.3% of home fixtures, projecting a level first half before late divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 04:05:46 UTC"
+}
