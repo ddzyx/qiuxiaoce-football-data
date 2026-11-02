@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493212,
+    "matchup": "Atletico Tucuman vs Argentinos JRS",
+    "home_team": "Atletico Tucuman",
+    "away_team": "Argentinos JRS",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-03 00:15:00",
+    "source_url": "https://xgmind.com/matches/20261103-atletico-tucuman-vs-argentinos-jrs/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico Tucuman vs Argentinos JRS Prediction: Will Decano's Home Drought End? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493212",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Atletico Tucuman vs Argentinos JRS",
+      "matchTime": "2026-11-03 00:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Argentinos Juniors to avoid defeat in an attritional, low-scoring battle where a disciplined draw remains live.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance captures the two leading game-state trajectories (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with both teams' conservative attacking and defensive metrics (Confidence: High, Value: Moderate)",
+      "1:1 Correct Score represents the highest-probability scoreline convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493212",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Atletico Tucuman",
+      "awayTeam": "Argentinos JRS",
+      "match_time": "00:15",
+      "match_highlight": "Decano home drought meets Argentinos control",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493212,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both an attritional 1:1 stalemate driven by Tucumán's home draw profile and a narrow 0:1 Argentinos victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.00 goals reinforces a low-scoring encounter beneath the 2.5 ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 deadlock and a professional 0:1 away win represent the two most probable game-state endpoints."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals serves as the central equilibrium, with a single-goal defensive grinder as the secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, drawn first half is expected before second-half conditioning and depth decide the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 12:18:49 UTC"
+}
