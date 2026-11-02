@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1550178,
+    "matchup": "Atalanta vs Parma",
+    "home_team": "Atalanta",
+    "away_team": "Parma",
+    "league": null,
+    "kickoff_utc": "2026-11-02 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261102-atalanta-vs-parma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Serie A",
+      "matchId": "1550178",
+      "matchup": "Atalanta vs Parma",
+      "matchTime": "2026-11-02 19:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Atalanta vs Parma Prediction & Match Analysis: Can La Dea Overcome Defensive Depletion? — Scoreline & xG Preview",
+    "coreRecommendation": "Atalanta are firmly projected to overcome their defensive injuries and defeat a scoreless Parma side at home.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Atalanta's habit of leading early at home points toward Win-Win, backed by a second-half breakthrough scenario.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Atalanta's overwhelming attacking superiority should dismantle an away side that has lost all four road matches without scoring.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Two goals represent the peak probability cluster given Parma's deep block and low offensive contribution.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A controlled 2:0 home clean sheet represents the primary convergence, with 2:1 covering minor defensive lapses.",
+        "selection": [
+          "2:0",
+          "2:1"
+        ]
+      },
+      "league": "Serie A",
+      "matchId": "1550178",
+      "awayTeam": "Parma",
+      "homeTeam": "Atalanta",
+      "fixtureId": 1550178,
+      "match_time": "19:45",
+      "over_under": {
+        "comment": "Parma's anemic road offense makes a low-to-medium scoring home victory the most probable distribution.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Atalanta's potent attack meets Parma's scoreless road run in Bergamo."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Atalanta regulation home victory driven by offensive superiority (Confidence: High, Value: High)",
+      "Under 2.5 total goals reflecting Parma's complete lack of away scoring (Confidence: Moderate, Value: Moderate)",
+      "Atalanta leading at both half-time and full-time (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-3",
+    "halftime_score": "0-1",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-02 21:57:14 UTC"
+  }
+}
