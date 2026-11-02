@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565293,
+    "matchup": "Universitatea Cluj vs FCSB",
+    "home_team": "Universitatea Cluj",
+    "away_team": "FCSB",
+    "league": "Liga I",
+    "kickoff_utc": "2026-11-02 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261102-universitatea-cluj-vs-fcsb/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Universitatea Cluj vs FCSB Prediction & Analysis: Can U Cluj Exploit FCSB Away Flaws? — Scoreline Preview",
+    "meta": {
+      "matchId": "1565293",
+      "league": "Liga I",
+      "matchup": "Universitatea Cluj vs FCSB",
+      "matchTime": "2026-11-02 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Universitatea Cluj's 71.4% home unbeaten record and prolific 1.90 goals-per-match attack make Home Win / Draw the premier risk-adjusted position against an inconsistent FCSB road defense.",
+    "possibilityAssessment": [
+      "Universitatea Cluj capitalize on home ground advantage and second-half scoring acceleration to secure a narrow 2:1 victory (Confidence: Moderate, Value: High)",
+      "FCSB manage to withstand central aerial pressure and extract a competitive 1:1 stalemate via transition counters (Confidence: Moderate, Value: Moderate)",
+      "High defensive concession rates across both teams push the match beyond the 2.5 total goal barrier (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565293",
+      "league": "Liga I",
+      "homeTeam": "Universitatea Cluj",
+      "awayTeam": "FCSB",
+      "match_time": "18:30",
+      "match_highlight": "U Cluj home dominance clashes with FCSB resurgent transition attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565293,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers U Cluj's primary 2:1 victory script alongside the 1:1 draw contingency, accounting for FCSB's 50% away loss rate and U Cluj's home resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson aggregate expectancy of 3.20 goals combined with both sides averaging 1.50+ goals scored and conceded justifies Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline reflects U Cluj's home attacking output against FCSB leaks, while 1:1 provides the natural deadlock hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal model convergence for a 2:1 outcome, with two goals directly backing the 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects U Cluj's low 32% first-half goal share leading to level intervals before their decisive second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 06:34:55 UTC"
+}
