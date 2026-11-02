@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494326,
+    "matchup": "Mjallby AIF vs Kalmar FF",
+    "home_team": "Mjallby AIF",
+    "away_team": "Kalmar FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-02 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-mjallby-aif-vs-kalmar-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mjallby AIF vs Kalmar FF Prediction: Relegation Stakes & Low-Block Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1494326",
+      "league": "Allsvenskan",
+      "matchup": "Mjallby AIF vs Kalmar FF",
+      "matchTime": "2026-11-02 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Mjallby AIF to avoid defeat in an attrition-heavy, low-scoring battle against a travel-weary Kalmar FF side.",
+    "possibilityAssessment": [
+      "Mjallby AIF Win or Draw (Home Win / Draw) (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 (Confidence: Moderate, Value: High)",
+      "Correct Score 1:0 or 1:1 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494326",
+      "league": "Allsvenskan",
+      "homeTeam": "Mjallby AIF",
+      "awayTeam": "Kalmar FF",
+      "match_time": "18:00",
+      "match_highlight": "Struggling Kalmar face aerial pressure at Strandvallen in relegation fight.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494326,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Mjallby's aerial dominance against Kalmar's 75% away loss rate while protecting against the host's 25% home win rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sub-2.3 total lambda expectancy and Kalmar's 0.4 recent goals per match strongly support a low total."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents the natural outcome of Mjallby's aerial edge, while 1:1 covers Kalmar's low-block survival push."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Both teams feature modest finishing efficiency, clustering the vast majority of probability mass into 1 and 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Elevated first-half draw rates for both sides precede a second-half breakthrough or low-block stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 06:05:20 UTC"
+}
