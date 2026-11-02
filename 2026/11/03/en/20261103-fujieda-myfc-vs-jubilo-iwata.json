@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606739,
+    "matchup": "Fujieda MYFC vs Jubilo Iwata",
+    "home_team": "Fujieda MYFC",
+    "away_team": "Jubilo Iwata",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-03 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-fujieda-myfc-vs-jubilo-iwata/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fujieda MYFC vs Jubilo Iwata Prediction: Shizuoka Derby Stalemate Dynamics — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1606739",
+      "league": "J2 League",
+      "matchup": "Fujieda MYFC vs Jubilo Iwata",
+      "matchTime": "2026-11-03 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Fujieda MYFC on the double chance (Home Win / Draw) in a tight, defensively oriented Shizuoka derby.",
+    "possibilityAssessment": [
+      "Fujieda MYFC Home Win / Draw double chance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on strong defensive baselines (Confidence: High, Value: Moderate)",
+      "Exact Score 1:1 Stalemate as the primary convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606739",
+      "league": "J2 League",
+      "homeTeam": "Fujieda MYFC",
+      "awayTeam": "Jubilo Iwata",
+      "match_time": "05:00",
+      "match_highlight": "Fujieda's home resilience clashes with Jubilo's road scoring struggles.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606739,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Fujieda's 85.7% home unbeaten record and Jubilo's modest 28.6% away win rate make home double chance the optimal position."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams concede barely one goal per match, with recent form overwhelmingly favoring an Under 2.5 outcome."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the primary statistical convergence, with a narrow 1:0 home victory as the main secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the most probable outcome, closely followed by a single-goal defensive battle."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious, low-risk opening half is projected, leading to either a drawn finish or a narrow late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 17:06:40 UTC"
+}
