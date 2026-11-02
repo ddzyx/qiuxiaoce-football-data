@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1570001,
+    "matchup": "Tenerife vs FC Andorra",
+    "home_team": "Tenerife",
+    "away_team": "FC Andorra",
+    "league": null,
+    "kickoff_utc": "2026-11-02 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261101-tenerife-vs-fc-andorra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Segunda División",
+      "matchId": "1570001",
+      "matchup": "Tenerife vs FC Andorra",
+      "matchTime": "2026-11-01 20:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Tenerife vs FC Andorra Prediction & Match Analysis: Tactical Deadlock & xG Collision — Scoreline Preview",
+    "coreRecommendation": "Tenerife's formidable home defensive compactness (0.90 conceded per game) and Andorra's chronic road inefficiency make Home Win / Draw the premier risk-adjusted position.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Anticipates a cagey opening half leading to persistent level pegging or a late Tenerife counter-break.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Tenerife's low-block home resilience and frequent 1:1 stalemate tendency against Andorra's toothless away possession.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Concentrates density across a 2-goal shared stalemate or a 1-goal narrow defensive grind.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Tenerife's persistent 1:1 deadlock script alongside a tight 1:0 home attrition victory.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "Segunda División",
+      "matchId": "1570001",
+      "awayTeam": "FC Andorra",
+      "homeTeam": "Tenerife",
+      "fixtureId": 1570001,
+      "match_time": "20:00",
+      "over_under": {
+        "comment": "Anchored by Tenerife generating merely 0.90 xG per match and Andorra failing to score in 60% of their away fixtures.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Tenerife's Heliodoro fortress confronts Andorra's sterile possession dominance."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance capitalizing on Tenerife's 80% home unbeaten record and Andorra's three road scoring blanks (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals grounded in a combined 53.2% Poisson density for two goals or fewer and Tenerife's 0.90 xG average (Confidence: Moderate, Value: Moderate)",
+      "Exact 1:1 Stalemate reflecting Tenerife's four 1:1 scorelines across their last five league outings (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "2-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-02 15:34:05 UTC"
+  }
+}
