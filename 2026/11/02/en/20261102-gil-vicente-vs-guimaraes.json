@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575533,
+    "matchup": "GIL Vicente vs Guimaraes",
+    "home_team": "GIL Vicente",
+    "away_team": "Guimaraes",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-02 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261102-gil-vicente-vs-guimaraes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gil Vicente vs Guimarães Prediction: Can Host Exploit Conquerors' Road Slump? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575533",
+      "league": "Primeira Liga",
+      "matchup": "GIL Vicente vs Guimaraes",
+      "matchTime": "2026-11-02 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gil Vicente are primed to protect home territory and avoid defeat against a Guimarães side burdened by four consecutive away league losses.",
+    "possibilityAssessment": [
+      "Home Win via disciplined low-block transition (Confidence: Moderate, Value: High)",
+      "Low-scoring 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total match goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575533",
+      "league": "Primeira Liga",
+      "homeTeam": "GIL Vicente",
+      "awayTeam": "Guimaraes",
+      "match_time": "20:15",
+      "match_highlight": "Gil Vicente's sturdy defense tests Guimarães' four-game away losing streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575533,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Gil Vicente's 1:0 counter-attacking victory and a 1:1 stalemate against Guimarães' road drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Gil Vicente concede only 0.8 goals per game while Guimarães have scored just twice away."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Both scorelines represent the natural convergence of Gil Vicente's low block and Guimarães' away struggles."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Low-scoring environment centered around a tight two-goal peak and a single-goal defensive grinder."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw at halftime in 55.6% of league games, leading to second-half resolutions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 08:22:14 UTC"
+}
