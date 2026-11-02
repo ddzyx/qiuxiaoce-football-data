@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551865,
+    "matchup": "Jong PSV U21 vs NAC Breda",
+    "home_team": "Jong PSV U21",
+    "away_team": "NAC Breda",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-02 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-jong-psv-u21-vs-nac-breda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jong PSV U21 vs NAC Breda Prediction & Match Analysis: Can Youth Repel Kruys' Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551865",
+      "league": "Eerste Divisie",
+      "matchup": "Jong PSV U21 vs NAC Breda",
+      "matchTime": "2026-11-02 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "NAC Breda's superior offensive firepower and established transitional structure will carry them to a hard-fought 2-1 victory over Jong PSV.",
+    "possibilityAssessment": [
+      "Away Win as the primary trajectory driven by NAC's 3.0 goals per game and clinical front line (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals capitalizing on Jong PSV's leaky backline and 67.5% market probability (Confidence: High, Value: High)",
+      "Draw contingency if Jong PSV's home possession disrupts NAC's transitional rhythm (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551865",
+      "league": "Eerste Divisie",
+      "homeTeam": "Jong PSV U21",
+      "awayTeam": "NAC Breda",
+      "match_time": "19:00",
+      "match_highlight": "NAC Breda's senior attacking efficiency confronts Jong PSV's expansive academy possession.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551865,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "NAC Breda possess superior tactical maturity and finishing efficiency against an expansive, leaky Jong PSV defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined goal expectancy of 3.50 and Jong PSV conceding in 91.7% of fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away win represents the Poisson convergence point, while 0:2 reflects a controlled clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal distribution peak at 21.6%, closely followed by two goals at 18.5%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Jong PSV's 58.3% first-half draw rate indicates early parity before NAC's physical second-half surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 07:08:06 UTC"
+}
