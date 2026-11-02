@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505550,
+    "matchup": "Concepción vs Palestino",
+    "home_team": "Concepción",
+    "away_team": "Palestino",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-02 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261102-concepci-n-vs-palestino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Concepción vs Palestino Prediction & Match Analysis: Can Collao Fortify Against Farré's Attack? — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1505550",
+      "league": "Primera División",
+      "matchup": "Concepción vs Palestino",
+      "matchTime": "2026-11-02 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Concepción are primed to defend their Collao fortress and avoid defeat against an away-vulnerable Palestino side.",
+    "possibilityAssessment": [
+      "Concepción avoids defeat via Home Win / Draw grounded in their 75.0% home unbeaten rate (Confidence: Moderate, Value: High)",
+      "Match finishes Under 2.5 Total Goals reflecting low-event dynamics at Collao (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 stalemate emerges as the highest probability discrete scoreline convergence (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505550",
+      "league": "Primera División",
+      "homeTeam": "Concepción",
+      "awayTeam": "Palestino",
+      "match_time": "23:30",
+      "match_highlight": "Concepción's resilient Collao fortress tests Palestino's fragile road form.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505550,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Concepción's 75% home unbeaten record and Palestino's 58% away loss rate, where a single call would overlook the high draw density."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Driven by Concepción's compact home structure conceding only 1.0 goal per game and 4 of their last 5 home games staying Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the natural Poisson equilibrium, while 2:1 captures Concepción's counter-attacking upside against Palestino's open defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads at 24.8% model density, with 3 goals forming the primary secondary contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Reflects a cagey opening half followed by either a sustained stalemate or a late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 11:34:45 UTC"
+}
