@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570436,
+    "matchup": "Deportivo La Coruna vs Osasuna",
+    "home_team": "Deportivo La Coruna",
+    "away_team": "Osasuna",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-02 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-deportivo-la-coruna-vs-osasuna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo La Coruna vs Osasuna Prediction: Aubameyang Absence & Away Fragility — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570436",
+      "league": "La Liga",
+      "matchup": "Deportivo La Coruna vs Osasuna",
+      "matchTime": "2026-11-02 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo La Coruna or Draw (Home Win / Draw) provides the most balanced risk-adjusted thesis amid Aubameyang's absence and Osasuna's road struggles.",
+    "possibilityAssessment": [
+      "Deportivo La Coruna or Draw (Home Win / Draw) covers host defensive solidity and road frailties (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with Aubameyang's absence and low-conversion dynamics (Confidence: High, Value: High)",
+      "Exact Score 1:1 serves as the modal statistical convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570436",
+      "league": "La Liga",
+      "homeTeam": "Deportivo La Coruna",
+      "awayTeam": "Osasuna",
+      "match_time": "20:00",
+      "match_highlight": "Aubameyang absence blunts host attack against Osasuna's vulnerable away defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570436,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Deportivo's disciplined home defensive baseline against Osasuna's road vulnerability while accounting for the hosts' reduced finishing power without Aubameyang."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aubameyang's knee injury combined with Aimar Oroz's creative absence severely restricts goal expectancy on both sides."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects the high probability of a low-scoring draw or a narrow home victory driven by structural defensive control."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution matrix concentrates peak mass across the one-goal and two-goal bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening 45 minutes projects a level interval before second-half attrition tests defensive concentration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 08:06:39 UTC"
+}
