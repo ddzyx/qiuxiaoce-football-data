@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520955,
+    "matchup": "Goias vs CRB",
+    "home_team": "Goias",
+    "away_team": "CRB",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-02 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261102-goias-vs-crb/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Goias vs CRB Prediction & Match Analysis: Serrinha Fortress Challenges Regatiano Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520955",
+      "league": "Serie B",
+      "matchup": "Goias vs CRB",
+      "matchTime": "2026-11-02 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Goiás to capitalize on their 72.7% home unbeaten record and avoid defeat against an away-vulnerable CRB side in a competitive multi-goal encounter.",
+    "possibilityAssessment": [
+      "Goias Win / Draw Double Chance provides the most robust structural foundation given CRB's 55.6% away loss rate and defensive flank absence (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals aligns with CRB's league-leading season pace of 2.91 total goals per fixture and Goias' attacking requirement (Confidence: Moderate, Value: Moderate)",
+      "Primary 2:1 scoreline reflects Goias' superior territorial command at the Serrinha against CRB's volatile counter-attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520955",
+      "league": "Serie B",
+      "homeTeam": "Goias",
+      "awayTeam": "CRB",
+      "match_time": "23:30",
+      "match_highlight": "Goiás target G-6 playoff gap against defensively depleted CRB at the Serrinha",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520955,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Goiás' high-probability 2:1 victory and the competitive 1:1 stalemate against CRB's direct transition threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by CRB's season average of 2.91 total goals per match and combined expected goals exceeding 2.50."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 score captures home territorial conversion, while 1:1 protects against a determined CRB low block."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution models concentrate 48.4% probability across exactly two and three cumulative match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to second-half separation as Goiás exploit late defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 11:34:12 UTC"
+}
