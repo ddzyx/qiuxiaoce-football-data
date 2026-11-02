@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492442,
+    "matchup": "RB Bragantino vs Santos",
+    "home_team": "RB Bragantino",
+    "away_team": "Santos",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-02 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-rb-bragantino-vs-santos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RB Bragantino vs Santos Prediction & Match Analysis: Can Depleted Peixe Halt Braga's High Press? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1492442",
+      "league": "Serie A",
+      "matchup": "RB Bragantino vs Santos",
+      "matchTime": "2026-11-02 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "RB Bragantino's home pressure against a depleted Santos spine establishes Home Win / Draw as the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "RB Bragantino exploits Santos' central midfield absences to secure a high-tempo 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Santos rely on clinical counter-punching through Gabigol and Coutinho to hold a resilient 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Bragantino's continuous territorial box pressure breaks through late following a tight first half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492442",
+      "league": "Serie A",
+      "homeTeam": "RB Bragantino",
+      "awayTeam": "Santos",
+      "match_time": "23:00",
+      "match_highlight": "Depleted Santos midfield faces intense Bragantino high press at Nabi Abi Chedid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492442,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bragantino's primary 2:1 victory and the secondary 1:1 counter-attacking stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson combined lambda of 2.88 and Santos' porous defensive transition favor goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects host territorial dominance alongside Santos' clinical transitional threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with 2:1; two goals represents the secondary 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "First-half parity is projected before Bragantino's pressure decides the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 11:03:57 UTC"
+}
