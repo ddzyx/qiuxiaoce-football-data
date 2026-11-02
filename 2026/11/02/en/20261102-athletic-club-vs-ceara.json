@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520950,
+    "matchup": "Athletic Club vs Ceara",
+    "home_team": "Athletic Club",
+    "away_team": "Ceara",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-02 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-athletic-club-vs-ceara/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Athletic Club vs Ceara Prediction & Match Analysis: Relegation Six-Pointer Tactical xG Preview",
+    "meta": {
+      "matchId": "1520950",
+      "league": "Serie B",
+      "matchup": "Athletic Club vs Ceara",
+      "matchTime": "2026-11-02 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Athletic Club's strong home unbeaten record and tactical territorial control give them a slight edge, but severe relegation tension and the absence of top scorer Ronaldo Tavares point toward a tightly contested stalemate, making Athletic Club or Draw the most balanced projection.",
+    "possibilityAssessment": [
+      "Athletic Club Win or Draw double chance grounded in 62.5% home unbeaten rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals based on combined xG baseline under 2.50 and missing offensive focal points (Confidence: High, Value: Moderate)",
+      "Exact Scoreline 1:1 representing mutual inability to pull clear in a relegation six-pointer (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520950",
+      "league": "Serie B",
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Ceara",
+      "match_time": "21:00",
+      "match_highlight": "High-stakes Round 36 relegation duel dominated by defensive caution and mutual draw tendencies.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520950,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:1 stalemate and the secondary 1:0 home edge while discarding an away win due to Ceará's poor road finishing."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underlying xG totals of 2.30 to 2.55 and the absence of top scorer Ronaldo Tavares strongly favor a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 deadlock serves as the statistical convergence point, with a narrow 1:0 Athletic win acting as the primary alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the most probable exact outcome, followed closely by a single-goal defensive battle."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides exhibit high first-half draw rates, leading to level intervals before second-half game states develop."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 09:03:39 UTC"
+}
