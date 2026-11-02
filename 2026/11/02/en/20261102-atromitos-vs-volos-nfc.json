@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593345,
+    "matchup": "Atromitos vs Volos NFC",
+    "home_team": "Atromitos",
+    "away_team": "Volos NFC",
+    "league": "Super League 1",
+    "kickoff_utc": "2026-11-02 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261102-atromitos-vs-volos-nfc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atromitos vs Volos NFC Prediction & Match Analysis: Relegation Six-Pointer & xG Breakdown",
+    "meta": {
+      "matchId": "1593345",
+      "league": "Super League 1",
+      "matchup": "Atromitos vs Volos NFC",
+      "matchTime": "2026-11-02 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atromitos hold the transitional edge against an injury-hit Volos side, but chronic late-game defensive lapses make Home Win / Draw the optimal probabilistic selection.",
+    "possibilityAssessment": [
+      "Atromitos exploit Volos midfield absences to claim a breakthrough 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Atromitos take an early lead but concede a second-half equalizer in a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Tight tactical confrontation strictly contained Under 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593345",
+      "league": "Super League 1",
+      "homeTeam": "Atromitos",
+      "awayTeam": "Volos NFC",
+      "match_time": "16:00",
+      "match_highlight": "Winless relegation six-pointer clashing Atromitos transition pace against Volos depleted spine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593345,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Combines Atromitos transitional edge against a depleted Volos defense with protection against the hosts chronic lead-surrendering tendency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model baseline yields 2.41 expected goals with heavy 56.7% probability density clustered between 0 and 2 total goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Reflects the natural convergence of Atromitos early scoring habit and their 0% clean sheet frequency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the most dense Poisson distribution band, backed secondarily by a three-goal transition script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Projects a tightly contested opening 45 minutes followed by Atromitos capitalizing on second-half midfield fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-02 04:05:22 UTC"
+}
