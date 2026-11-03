@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563240,
+    "matchup": "Blackburn vs Stoke City",
+    "home_team": "Blackburn",
+    "away_team": "Stoke City",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-03 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261103-blackburn-vs-stoke-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Blackburn vs Stoke City Prediction & Match Analysis: Can Potters' Low Block Stifle Rovers at Ewood Park? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563240",
+      "league": "Championship",
+      "matchup": "Blackburn vs Stoke City",
+      "matchTime": "2026-11-03 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stoke City's defensive compactness and Blackburn's severe 1.85 xGA vulnerability make Draw / Away Win the most resilient tactical thesis.",
+    "possibilityAssessment": [
+      "Stoke City or Draw double chance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on low combined xG (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 stalemate convergence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563240",
+      "league": "Championship",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Stoke City",
+      "match_time": "19:45",
+      "match_highlight": "Stoke's rigid back three tests Blackburn's vulnerable defensive structure at Ewood Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563240,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and Stoke's 0:1 transition victory, reflecting superior defensive organization against Blackburn's porous backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with Stoke's three consecutive clean sheets, Blackburn's low 0.98 xG, and H2H low-scoring history."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects the two highest-density Poisson scorelines where Stoke's defensive floor limits Blackburn's attacking returns."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal projection of a 1:1 draw, with one goal capturing the 0:1 defensive masterclass branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Expects a cagey, scoreless or level first half before either parity holds or Stoke edges a second-half winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 07:54:22 UTC"
+}
