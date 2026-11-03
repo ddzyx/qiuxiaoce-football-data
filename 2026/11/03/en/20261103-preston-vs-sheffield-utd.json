@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563243,
+    "matchup": "Preston vs Sheffield Utd",
+    "home_team": "Preston",
+    "away_team": "Sheffield Utd",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-03 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261103-preston-vs-sheffield-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Preston vs Sheffield Utd Prediction & Match Analysis: Can Blades Exploit Deepdale Slump? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563243",
+      "league": "Championship",
+      "matchup": "Preston vs Sheffield Utd",
+      "matchTime": "2026-11-03 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sheffield United's superior defensive structure and Preston's 10 defeats in 13 matches point decisively toward a low-scoring encounter where Draw / Away Win captures the full probability distribution.",
+    "possibilityAssessment": [
+      "Sheffield United secure a disciplined 1-0 or 2-0 road victory by punishing Preston's persistent second-half defensive fatigue (Confidence: Moderate, Value: High)",
+      "Preston pack the penalty area and rely on goalkeeper Daniel Iversen to hold the Blades to a grinding 1-1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Tactical attrition and low shot conversion keep the contest locked under 2.5 total goals throughout regulation (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563243",
+      "league": "Championship",
+      "homeTeam": "Preston",
+      "awayTeam": "Sheffield Utd",
+      "match_time": "19:45",
+      "match_highlight": "Blades eye playoff push against bottom-placed Preston at Deepdale",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563243,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sheffield United's leading 0-1 road victory script alongside a tight 1-1 stalemate caused by Kitching's suspension."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs average under 1.35 goals scored per match and tactical caution will restrict high-quality chances."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Sheffield United's penchant for 1-0 victories and the contingency of an attritional Deepdale deadlock."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Low goal expectancies across both sides strongly concentrate model density on exactly 2 or 1 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Preston's early defensive resistance should hold level at halftime before Sheffield United's quality prevails after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 07:57:02 UTC"
+}
