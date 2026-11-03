@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563241,
+    "matchup": "Derby vs Norwich",
+    "home_team": "Derby",
+    "away_team": "Norwich",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-03 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261103-derby-vs-norwich/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Derby vs Norwich Prediction & Match Analysis: Defensive Crisis vs Transition Attack — Scoreline Preview",
+    "meta": {
+      "matchId": "1563241",
+      "league": "Championship",
+      "matchup": "Derby vs Norwich",
+      "matchTime": "2026-11-03 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norwich's transition attack holds the structural edge against Derby's injury-depleted defense, supporting Draw / Away Win with 1:2 as the primary scoreline.",
+    "possibilityAssessment": [
+      "Away Win via second-half transition breakthrough against Derby's depleted defense (Confidence: Moderate, Value: High)",
+      "Low-scoring stalemate where Derby's low block holds Norwich to a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "High-tempo shootout where defensive lapses push the match over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563241",
+      "league": "Championship",
+      "homeTeam": "Derby",
+      "awayTeam": "Norwich",
+      "match_time": "19:45",
+      "match_highlight": "Canaries transition pace tests Derby's decimated defense at Pride Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563241,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Norwich's vertical firepower targets Derby's heavily depleted backline, while Canaries' defensive leaks keep a 1:1 stalemate in play."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive concessions of 3.7 goals per match and high-tempo direct transitions favor an open, goal-rich contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory represents the primary tactical script, with a 1:1 attrition stalemate serving as the principal hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson densities peak identically at 2 and 3 total goals, mirroring the two primary scoreline trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "An evenly contested opening half is projected to break in Norwich's favor late, or preserve a deadlocked draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 07:54:05 UTC"
+}
