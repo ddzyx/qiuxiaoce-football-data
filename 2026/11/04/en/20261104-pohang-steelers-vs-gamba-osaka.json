@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1629973,
+    "matchup": "Pohang Steelers vs Gamba Osaka",
+    "home_team": "Pohang Steelers",
+    "away_team": "Gamba Osaka",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-04 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261104-pohang-steelers-vs-gamba-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pohang Steelers vs Gamba Osaka Prediction: Backline Crisis vs Interim Bounce — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1629973",
+      "league": "AFC Champions League Elite",
+      "matchup": "Pohang Steelers vs Gamba Osaka",
+      "matchTime": "2026-11-04 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gamba Osaka to avoid defeat in a competitive encounter favoring Draw / Away Win, with Under 2.5 Goals anchoring the match total.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance direction capturing a 1:1 stalemate or narrow 1:2 Gamba victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on a 2.40 combined lambda goal expectancy and Pohang's continental scoring drought (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 reflecting home survival urgency against Gamba's depleted backline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629973",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Pohang Steelers",
+      "awayTeam": "Gamba Osaka",
+      "match_time": "10:00",
+      "match_highlight": "Interim Pohang host unbeaten Gamba in pivotal East Asian continental clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629973,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Pohang's home survival urgency balances Gamba's technical edge, covering the 1:1 stalemate and 1:2 road win where a single win call would overlook Gamba's heavy draw trend."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model baseline total expectation of 2.40 goals aligns with Pohang scoring just once in three continental fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw represents the primary structural convergence point, with 1:2 serving as the secondary late-break scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary exact count supported by 1:1, with three goals covering the secondary 1:2 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A level opening half reflects high early caution, with second-half stamina determining whether the match remains drawn or tilts to Gamba."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 22:04:54 UTC"
+}
