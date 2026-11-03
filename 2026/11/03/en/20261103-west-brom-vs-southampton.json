@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1563246,
+    "matchup": "West Brom vs Southampton",
+    "home_team": "West Brom",
+    "away_team": "Southampton",
+    "league": null,
+    "kickoff_utc": "2026-11-03 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-west-brom-vs-southampton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Championship",
+      "matchId": "1563246",
+      "matchup": "West Brom vs Southampton",
+      "matchTime": "2026-11-03 20:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "West Brom vs Southampton Prediction & Match Analysis: Can Baggies Contain Saints' Transition Machine? — Scoreline & xG Preview",
+    "coreRecommendation": "Southampton avoid defeat at The Hawthorns behind superior expected goals creation and creative midfield dominance (Draw / Away Win).",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "West Brom have been level at half-time in 69.2% of fixtures, setting up a deadlocked opening period before second-half resolution.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Southampton's high-probability 1:2 victory and the resilient 1:1 Hawthorns draw, reflecting the visitors' superior underlying xG metrics.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Dynamic game states and high transition volume make 3 goals the primary projection, with a 2-goal deadlock as secondary backup.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Southampton's 1.61 to 1.23 attacking lambda superiority alongside West Brom's stubborn home defensive baseline.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Championship",
+      "matchId": "1563246",
+      "awayTeam": "Southampton",
+      "homeTeam": "West Brom",
+      "fixtureId": 1563246,
+      "match_time": "20:00",
+      "over_under": {
+        "comment": "Supported by an aggregate model lambda of 2.84 and Southampton averaging 2.15 goals scored per Championship outing.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Southampton's league-leading attack confronts West Brom's injury-hit home setup."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Southampton exploit West Brom's missing wing outlets to secure a 1:2 road victory (Confidence: Moderate, Value: High)",
+      "West Brom's disciplined home structure grinds out a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transition tempo pushes total scoring past the 2.5 goal threshold (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-03 23:17:19 UTC"
+  }
+}
