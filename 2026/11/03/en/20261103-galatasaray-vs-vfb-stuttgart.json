@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635669,
+    "matchup": "Galatasaray vs VfB Stuttgart",
+    "home_team": "Galatasaray",
+    "away_team": "VfB Stuttgart",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-03 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261103-galatasaray-vs-vfb-stuttgart/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Galatasaray vs VfB Stuttgart Prediction & Match Analysis: Can Cimbom Exploit Stiller's Absence? — Scoreline Preview",
+    "meta": {
+      "matchId": "1635669",
+      "league": "UEFA Champions League",
+      "matchup": "Galatasaray vs VfB Stuttgart",
+      "matchTime": "2026-11-03 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Galatasaray are positioned to capitalize on Angelo Stiller's confirmed absence and secure at least a point in an open, high-scoring RAMS Park clash.",
+    "possibilityAssessment": [
+      "Galatasaray exploit Stuttgart's weakened pivot to claim a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "High-tempo attacking exchanges culminate in a chaotic 2:2 draw (Confidence: Moderate, Value: High)",
+      "Defensive frailties on both sides propel the match total Over 2.5 Goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635669",
+      "league": "UEFA Champions League",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "VfB Stuttgart",
+      "match_time": "17:45",
+      "match_highlight": "Stiller absence compromises Stuttgart midfield against Osimhen at RAMS Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635669,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Galatasaray's primary 2:1 home victory script while hedging against a high-scoring 2:2 draw driven by Stuttgart's clinical front two."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides possess explosive attacking units while consistently conceding European chances, creating strong alignment for Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 Galatasaray victory reflects home attacking pressure, while 2:2 accommodates Stuttgart's transitional counter threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Primary total of 3 goals aligns with 2:1, while 4 goals captures open game-state branches such as 2:2."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Galatasaray's 100% UCL half-time draw rate supports a level opening before second-half pressure decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 05:48:30 UTC"
+}
