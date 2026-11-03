@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494327,
+    "matchup": "Sirius vs Halmstad",
+    "home_team": "Sirius",
+    "away_team": "Halmstad",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-03 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-sirius-vs-halmstad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sirius vs Halmstad Prediction: Title Race Stakes Meet Relegation Scrap — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494327",
+      "league": "Allsvenskan",
+      "matchup": "Sirius vs Halmstad",
+      "matchTime": "2026-11-03 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "IK Sirius to secure a regulation full-time victory at Studenternas IP.",
+    "possibilityAssessment": [
+      "Sirius Full-Time Victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Match Goals (Confidence: Moderate, Value: Moderate)",
+      "Sirius to Win 2:1 Exact Scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494327",
+      "league": "Allsvenskan",
+      "homeTeam": "Sirius",
+      "awayTeam": "Halmstad",
+      "match_time": "18:00",
+      "match_highlight": "Sirius title hunt collides with Halmstad relegation battle in Uppsala",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494327,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sirius's superior chance creation (1.94 xG/game) should decisively overwhelm Halmstad's league-worst road defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Halmstad's concession rate of 2.10 road xGA aligns with Sirius's prolific 2.20 goals per game to support an open match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "The 2:1 primary score captures Sirius's territorial dominance alongside minor transitional vulnerabilities."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution establishes 3 goals (22.4%) and 2 goals (21.5%) as the dominant scoring branches."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Sirius's high home first-half lead conversion pairs with Halmstad's second-half defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 06:03:10 UTC"
+}
