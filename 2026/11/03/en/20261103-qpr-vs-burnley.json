@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563244,
+    "matchup": "QPR vs Burnley",
+    "home_team": "QPR",
+    "away_team": "Burnley",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-03 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261103-qpr-vs-burnley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "QPR vs Burnley Prediction & Match Analysis: Can Clarets Contain Richard Kone? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563244",
+      "league": "Championship",
+      "matchup": "QPR vs Burnley",
+      "matchTime": "2026-11-03 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Queens Park Rangers to defeat an injury-hit Burnley side at Loftus Road.",
+    "possibilityAssessment": [
+      "QPR Home Win driven by superior attacking momentum and road defensive frailties of Burnley (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflecting high conceded goal volume in Burnley away matches (Confidence: Moderate, Value: Moderate)",
+      "1:1 Low-Block Draw in the event of a successful Celestini defensive shutout (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563244",
+      "league": "Championship",
+      "homeTeam": "QPR",
+      "awayTeam": "Burnley",
+      "match_time": "19:45",
+      "match_highlight": "Kone form and Clarets injury crisis favour Loftus Road home victory",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563244,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "QPR's dynamic home attack faces a Burnley side that has lost 4 of 6 away games while conceding 15 goals."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG expectancy of 2.89 and Burnley's average of 2.50 away goals conceded strongly favour Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 convergence represents the primary script, with a 2:0 shutout serving as the primary alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with open transitions, while two goals reflects a disciplined home-controlled victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A level opening half before second-half home penetration leads the model, supported by wire-to-wire control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 07:56:28 UTC"
+}
