@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1637494,
+    "matchup": "Melbourne Victory vs Persib Bandung",
+    "home_team": "Melbourne Victory",
+    "away_team": "Persib Bandung",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-04 07:45:00",
+    "source_url": "https://xgmind.com/matches/20261104-melbourne-victory-vs-persib-bandung/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Melbourne Victory vs Persib Bandung Prediction: Can Persib Withstand AAMI Park? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1637494",
+      "league": "AFC Champions League Two",
+      "matchup": "Melbourne Victory vs Persib Bandung",
+      "matchTime": "2026-11-04 07:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Persib Bandung's flawless defensive shape and clinical transition efficiency support backing the visitors to avoid defeat via Draw / Away Win alongside Under 2.5 Total Goals.",
+    "possibilityAssessment": [
+      "Persib Bandung avoids defeat via Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on combined 1.96 goal expectancy (Confidence: High, Value: Moderate)",
+      "Melbourne Victory 1:0 narrow set-piece reversal hedge (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1637494",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Persib Bandung",
+      "match_time": "07:45",
+      "match_highlight": "Persib's perfect defensive record tested by Victory's returning senior spine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1637494,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Persib's clinical 0:1 transition victory alongside a grinding 1:1 territorial stalemate, reflecting the visitors' 100% clean sheet continental record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by combined 1.96 expected goal lambda and Persib's zero continental goals conceded across 270 minutes."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A compact 0:1 away counter-attack represents the primary modal scoreline, with 1:1 capturing a second-half Melbourne equalizer."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Single and two-goal match states account for over 54% of modeled probability density in a tight continental fixture."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Melbourne Victory's 100% first-half draw rate in Asia points toward a goalless opening 45 minutes before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 19:52:29 UTC"
+}
