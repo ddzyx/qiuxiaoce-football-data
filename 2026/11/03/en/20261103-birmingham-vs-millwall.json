@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1563239,
+    "matchup": "Birmingham vs Millwall",
+    "home_team": "Birmingham",
+    "away_team": "Millwall",
+    "league": null,
+    "kickoff_utc": "2026-11-03 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-birmingham-vs-millwall/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Championship",
+      "matchId": "1563239",
+      "matchup": "Birmingham vs Millwall",
+      "matchTime": "2026-11-03 20:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Decoupling Birmingham vs Millwall: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "coreRecommendation": "Birmingham to exploit Millwall's depleted midfield and secure an assertive home victory at St. Andrew's.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Draw-Win accounts for opening physical parity before Birmingham's superior second-half depth decides the tie.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Birmingham's formidable home record and wing threat outmatch a Millwall side missing key midfield defensive personnel.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Expect 2 to 3 goals based on the teams' balanced scoring metrics and defensive splits.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "The 2:1 primary score reflects home dominance with an away set-piece reply, while 2:0 represents the clean-sheet alternative.",
+        "selection": [
+          "2:1",
+          "2:0"
+        ]
+      },
+      "league": "Championship",
+      "matchId": "1563239",
+      "awayTeam": "Millwall",
+      "homeTeam": "Birmingham",
+      "fixtureId": 1563239,
+      "match_time": "20:00",
+      "over_under": {
+        "comment": "Combined lambda expectancy of 3.09 and Millwall's leaky away defense support a 3-goal match environment.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "High",
+      "match_highlight": "Birmingham target St. Andrew's dominance against midfield-depleted Millwall."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "High",
+    "possibilityAssessment": [
+      "Birmingham 2:1 Millwall victory driven by wide penetration and transition control (Confidence: High, Value: High)",
+      "Over 2.5 Total Goals capitalizing on Millwall's high-tempo road concessions (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win Half-Time/Full-Time transition as Birmingham wear down Millwall's block (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-0",
+    "halftime_score": "3-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-03 23:17:15 UTC"
+  }
+}
