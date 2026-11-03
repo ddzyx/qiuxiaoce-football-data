@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1635622,
+    "matchup": "Atletico Madrid vs Bayern München",
+    "home_team": "Atletico Madrid",
+    "away_team": "Bayern München",
+    "league": null,
+    "kickoff_utc": "2026-11-03 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-atletico-madrid-vs-bayern-m-nchen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Champions League",
+      "matchId": "1635622",
+      "matchup": "Atletico Madrid vs Bayern München",
+      "matchTime": "2026-11-03 20:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Decoupling Atletico Madrid vs Bayern München: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "coreRecommendation": "Bayern München possess the tactical firepower to edge a competitive clash, but Atletico Madrid's home resilience warrants Draw / Away Win double-chance positioning.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Bayern's low first-half goal share (10%) points toward a level first half preceding a second-half resolution.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Bayern's superior offensive output while hedging against Atletico's disciplined home low block.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "The convergence of Bayern's attack and defensive concessions aligns with 3 or 2 total goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A hard-fought 1:2 Bayern victory represents the primary script, with a 1:1 stalemate as secondary.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Champions League",
+      "matchId": "1635622",
+      "awayTeam": "Bayern München",
+      "homeTeam": "Atletico Madrid",
+      "fixtureId": 1635622,
+      "match_time": "20:00",
+      "over_under": {
+        "comment": "Underlying xG totals of 3.67 and Bayern's high scoring rate strongly support three or more goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Kane and Olise test Atletico's depleted central midfield pivot."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Bayern München capitalize on Atletico midfield absences to secure an away victory (Confidence: Moderate, Value: High)",
+      "Simeone's low block holds firm to enforce a low-margin stalemate (Confidence: Moderate, Value: Moderate)",
+      "High transition tempo pushes total scoreline over 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-2",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-03 23:17:23 UTC"
+  }
+}
