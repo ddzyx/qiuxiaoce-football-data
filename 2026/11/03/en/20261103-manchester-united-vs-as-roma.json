@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635695,
+    "matchup": "Manchester United vs AS Roma",
+    "home_team": "Manchester United",
+    "away_team": "AS Roma",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-03 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-manchester-united-vs-as-roma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Manchester United vs AS Roma Prediction: Carrick's Crisis Meets Gasperini's xG Wave — Scoreline Preview",
+    "meta": {
+      "matchId": "1635695",
+      "league": "UEFA Champions League",
+      "matchup": "Manchester United vs AS Roma",
+      "matchTime": "2026-11-03 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AS Roma's prolific attacking form gives them the decisive edge against a shorthanded, winless Manchester United, warranting a Draw / Away Win double-chance projection with Over 2.5 goals.",
+    "possibilityAssessment": [
+      "AS Roma exploit transitional defensive gaps to secure a hard-fought 1:2 away victory at Old Trafford (Confidence: Moderate, Value: High)",
+      "An end-to-end battle between two porous defenses concludes in a high-scoring 2:2 stalemate (Confidence: Moderate, Value: High)",
+      "High-event dynamics push the aggregate scoreline safely past Over 2.5 total goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635695",
+      "league": "UEFA Champions League",
+      "homeTeam": "Manchester United",
+      "awayTeam": "AS Roma",
+      "match_time": "20:00",
+      "match_highlight": "Carrick's winless Red Devils face Gasperini's rampant Roman attack at Old Trafford",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635695,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Roma's primary transition victory (1:2) alongside a fighting Old Trafford stalemate (2:2), reflecting United's nine-game winless slide and Roma's leaky defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Roma's 2.8 goals-per-match offense and United's 1.7 conceded average point strongly toward a high-scoring contest exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "The primary 1:2 scoreline reflects Roma's superior finishing, while 2:2 serves as the primary hedge against Old Trafford home resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals align perfectly with the projected 1:2 and 2:2 scoreline distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "United's opening adrenaline secures a level first half before Roma's second-half quality decides the match or holds a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 08:12:19 UTC"
+}
