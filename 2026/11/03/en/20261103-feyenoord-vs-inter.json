@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635662,
+    "matchup": "Feyenoord vs Inter",
+    "home_team": "Feyenoord",
+    "away_team": "Inter",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-03 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-feyenoord-vs-inter/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Feyenoord vs Inter: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1635662",
+      "league": "UEFA Champions League",
+      "matchup": "Feyenoord vs Inter",
+      "matchTime": "2026-11-03 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Feyenoord holds decisive tactical and physical leverage at De Kuip to exploit Inter's severe spine absences, making Home Win / Draw the optimal probabilistic selection.",
+    "possibilityAssessment": [
+      "Feyenoord Double Chance (Home Win / Draw) backed by De Kuip intensity and Inter defensive reshuffle (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by open transitions and high combined expected goals (Confidence: Moderate, Value: High)",
+      "Both Teams to Score reflecting Feyenoord wide pressure and Marcus Thuram transitional threat (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635662",
+      "league": "UEFA Champions League",
+      "homeTeam": "Feyenoord",
+      "awayTeam": "Inter",
+      "match_time": "20:00",
+      "match_highlight": "Bastoni suspension and Lautaro absence leave Inter vulnerable at De Kuip",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635662,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Feyenoord's 2:1 home victory and a resilient 1:1 Inter draw while excluding an away win due to severe defensive and attacking absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a combined lambda expectation of 4.00 and Feyenoord's aggressive attacking tempo at De Kuip."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win represents the primary attacking breakthrough, while 1:1 captures Inter's midfield containment script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence, with two goals serving as the competitive stalemate backup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a tightly contested first half followed by Feyenoord's late physical surge or an organized Italian stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 08:08:54 UTC"
+}
