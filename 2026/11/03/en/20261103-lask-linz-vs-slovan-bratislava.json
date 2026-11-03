@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635677,
+    "matchup": "Lask Linz vs Slovan Bratislava",
+    "home_team": "Lask Linz",
+    "away_team": "Slovan Bratislava",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-03 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261103-lask-linz-vs-slovan-bratislava/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lask Linz vs Slovan Bratislava Prediction: Kalajdzic Return & xG Mismatch — Scoreline Analysis",
+    "meta": {
+      "matchId": "1635677",
+      "league": "UEFA Champions League",
+      "matchup": "Lask Linz vs Slovan Bratislava",
+      "matchTime": "2026-11-03 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "LASK Linz are projected to secure a high-scoring home victory against Slovan Bratislava, driven by Sasa Kalajdzic's aerial advantage over a defense that has conceded 13 European goals.",
+    "possibilityAssessment": [
+      "LASK Linz Home Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "LASK Linz 2:1 Slovan Bratislava Correct Score (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635677",
+      "league": "UEFA Champions League",
+      "homeTeam": "Lask Linz",
+      "awayTeam": "Slovan Bratislava",
+      "match_time": "20:00",
+      "match_highlight": "Kalajdzic returns to spearhead Linz attack against Bratislava's porous backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635677,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "LASK Linz possess decisive attacking superiority against Slovan Bratislava's defense, which has conceded a competition-worst 13 goals in 3 Champions League matches."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams exhibit leaky defensive structures, combining for a projected goal expectancy exceeding 3.90."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary Poisson convergence point, with 3:1 reflecting a late-game transition breakdown."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals capture over 39% of probabilistic density across our simulated match states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win accounts for Slovan's initial defensive resistance before second-half fatigue, while Win-Win covers an early Kalajdzic aerial breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-03 08:11:30 UTC"
+}
