@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563247,
+    "matchup": "Bristol City vs Wolves",
+    "home_team": "Bristol City",
+    "away_team": "Wolves",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-04 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261104-bristol-city-vs-wolves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bristol City vs Wolves Prediction & Match Analysis: Can Robins Halt Old Gold Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1563247",
+      "league": "Championship",
+      "matchup": "Bristol City vs Wolves",
+      "matchTime": "2026-11-04 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wolverhampton Wanderers are projected to capitalize on Bristol City's severe home scoring drought and secure a controlled road victory at Ashton Gate.",
+    "possibilityAssessment": [
+      "Wolves win to nil in a controlled low-scoring script (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals as both defenses prioritize central compactness (Confidence: High, Value: Moderate)",
+      "Wolves break the deadlock in the second half following a tight opening 45 minutes (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563247",
+      "league": "Championship",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Wolves",
+      "match_time": "20:00",
+      "match_highlight": "Wolves' aerial threat challenges Robins' home scoring drought at Ashton Gate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563247,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Wolves' back-to-back clean sheets and aerial efficiency outweigh Bristol City's four defeats in six home matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined goal expectancy of 2.075 and Bristol City's 66.7% home blank rate heavily support a low-scoring game."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Wolves possess the defensive compactness to keep a clean sheet while converting set-piece and transition chances."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A 2-0 or 1-0 away victory represents the most probable cluster in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Wolves frequently draw at half-time away (66.7%) before breaking through in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-04 08:05:04 UTC"
+}
