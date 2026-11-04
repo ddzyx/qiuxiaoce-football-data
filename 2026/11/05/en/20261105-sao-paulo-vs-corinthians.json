@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492448,
+    "matchup": "Sao Paulo vs Corinthians",
+    "home_team": "Sao Paulo",
+    "away_team": "Corinthians",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-05 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261105-sao-paulo-vs-corinthians/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "São Paulo vs Corinthians Prediction: Relegation Stakes at Vila Belmiro — xG Preview & Scorelines",
+    "meta": {
+      "matchId": "1492448",
+      "league": "Serie A",
+      "matchup": "Sao Paulo vs Corinthians",
+      "matchTime": "2026-11-05 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "São Paulo's superior underlying metrics and Corinthians' severe away frailties support the hosts avoiding defeat in a tense, low-scoring derby.",
+    "possibilityAssessment": [
+      "São Paulo breaks through a compact low block in the second half to secure a narrow 1:0 victory (Confidence: Moderate, Value: High)",
+      "Corinthians leverages set-piece efficiency to grind out a vital 1:1 relegation survival point (Confidence: Moderate, Value: Moderate)",
+      "A scoreless tactical deadlock where neither side converts limited clear-cut opportunities (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492448",
+      "league": "Serie A",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Corinthians",
+      "match_time": "00:30",
+      "match_highlight": "Relegation desperation clashes with home dominance at neutral Vila Belmiro",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492448,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "São Paulo's 80% home unbeaten record and superior 1.39 xG per match firmly favor the hosts avoiding defeat against a Corinthians side suffering five straight away losses."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined goal expectancy of 2.435 and Corinthians' blunt road attack heavily favor a low-scoring derby below the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 São Paulo win serves as the primary convergence point, with a gritty 1:1 stalemate covering Corinthians' survival fight."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Mathematical modeling concentrates 47.3% of outcome density across exactly 2 goals and 1 goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Corinthians' passive opening half away (23.5% first-half goal share) points toward a level interval before late physical divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-04 12:36:05 UTC"
+}
