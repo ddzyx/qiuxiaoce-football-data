@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635656,
+    "matchup": "FC Porto vs Napoli",
+    "home_team": "FC Porto",
+    "away_team": "Napoli",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-04 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261104-fc-porto-vs-napoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Porto vs Napoli Prediction & Match Analysis: Partenopei Injury Crisis Meets Dragão xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1635656",
+      "league": "UEFA Champions League",
+      "matchup": "FC Porto vs Napoli",
+      "matchTime": "2026-11-04 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Porto are positioned to capitalize on Napoli's extensive defensive injury crisis to secure their first Champions League points, with a home win leading and a draw covered.",
+    "possibilityAssessment": [
+      "FC Porto capitalise on Napoli's depleted backline to secure a high-intensity victory (Confidence: Moderate, Value: High)",
+      "Stalemate scenario where Allegri's compact low block forces a frustrating draw (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals driven by Napoli's structural defensive concessions and Porto's offensive output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635656",
+      "league": "UEFA Champions League",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Napoli",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Napoli backline faces Porto's must-win Dragão offensive test",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635656,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Porto's primary 2:1 victory exploiting Napoli's ten-man injury crisis and a secondary 1:1 stalemate against Allegri's low block."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.95 combined goal lambda and Napoli conceding thirteen goals across their last six outings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Porto's home territorial pressure breaking Napoli's patched defense with a resilient stalemate as secondary."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Projects scoring concentration around two to three goals aligned with the 2:1 and 1:1 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anchored by Porto's 100% half-time draw rate in Europe before second-half physical attrition takes effect."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-04 08:05:19 UTC"
+}
