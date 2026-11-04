@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1558657,
+    "matchup": "Kortrijk vs KV Mechelen",
+    "home_team": "Kortrijk",
+    "away_team": "KV Mechelen",
+    "league": null,
+    "kickoff_utc": "2026-11-04 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261023-kortrijk-vs-kv-mechelen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Jupiler Pro League",
+      "matchId": "1558657",
+      "matchup": "Kortrijk vs KV Mechelen",
+      "matchTime": "2026-10-23 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "0:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Kortrijk vs KV Mechelen Prediction: Attacking Impasse Meets Transition Threat — Scoreline & xG Preview",
+    "coreRecommendation": "KV Mechelen capitalize on Kortrijk's severe offensive absences and defensive vulnerabilities to secure an outright away victory.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Kortrijk withstand early probing before Mechelen's second-half transition quality decides the match.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "KV Mechelen hold superior offensive firepower to exploit a Kortrijk side missing their two primary goal contributors.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "Three goals represents the modal outcome of both vulnerable defenses, while two goals covers an efficient away display.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:2 away victory represents the primary tactical convergence, with 0:1 covering a complete home shutout.",
+        "selection": [
+          "1:2",
+          "0:1"
+        ]
+      },
+      "league": "Jupiler Pro League",
+      "matchId": "1558657",
+      "awayTeam": "KV Mechelen",
+      "homeTeam": "Kortrijk",
+      "fixtureId": 1558657,
+      "match_time": "18:45",
+      "over_under": {
+        "comment": "Combined defensive concession rates exceeding 4.3 goals per game favor an open, three-goal encounter.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Mechelen transition punch targets Kortrijk's injury-depleted lineup"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "KV Mechelen exploit transition space to secure a 1:2 away victory against Kortrijk's fragile backline (Confidence: Moderate, Value: High)",
+      "Kortrijk's offensive paralysis leads to a controlled 0:1 shutout victory for the visitors (Confidence: Moderate, Value: Moderate)",
+      "Daniel Beichler's low defensive block holds firm in a low-scoring 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-3",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-04 21:59:39 UTC"
+  }
+}
