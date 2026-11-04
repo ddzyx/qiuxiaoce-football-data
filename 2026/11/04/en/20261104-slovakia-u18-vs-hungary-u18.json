@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1647633,
+    "matchup": "Slovakia U18 vs Hungary U18",
+    "home_team": "Slovakia U18",
+    "away_team": "Hungary U18",
+    "league": null,
+    "kickoff_utc": "2026-11-04 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261104-slovakia-u18-vs-hungary-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1647633",
+      "matchup": "Slovakia U18 vs Hungary U18",
+      "matchTime": "2026-11-04 11:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Slovakia U18 vs Hungary U18 Prediction & Match Analysis: Youth Tactical Conflict — Scoreline & Model Preview",
+    "coreRecommendation": "Slovakia U18 are projected to maintain home resilience and avoid defeat against Hungary U18 in a balanced, low-to-medium scoring encounter.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Youth international caution suggests a balanced opening half preceding a shared or late home-decided outcome",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the modal 1:1 score draw and a narrow 2:1 home victory against Hungary's vulnerable road defense",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "The combined goal-expectancy lambda of 2.25 peaks around a two-goal distribution",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "A 1:1 stalemate serves as the modal density outcome, with a 2:1 home triumph representing the primary alternative",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1647633",
+      "awayTeam": "Hungary U18",
+      "homeTeam": "Slovakia U18",
+      "fixtureId": 1647633,
+      "match_time": "11:00",
+      "over_under": {
+        "comment": "Poisson model indicates a 60.9% cumulative likelihood of two or fewer aggregate goals",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Balanced regional youth friendly pointing to tight transitional stalemate"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Slovakia U18 Win or Draw double-chance baseline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals via balanced youth tempo (Confidence: Moderate, Value: High)",
+      "Exactly 2 Total Goals modal concentration (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-04 13:16:18 UTC"
+  }
+}
