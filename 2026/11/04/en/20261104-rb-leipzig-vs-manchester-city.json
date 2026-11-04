@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635710,
+    "matchup": "RB Leipzig vs Manchester City",
+    "home_team": "RB Leipzig",
+    "away_team": "Manchester City",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-04 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261104-rb-leipzig-vs-manchester-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RB Leipzig vs Manchester City Prediction: Haaland Record vs Red Bull Arena Fortress — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1635710",
+      "league": "UEFA Champions League",
+      "matchup": "RB Leipzig vs Manchester City",
+      "matchTime": "2026-11-04 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Manchester City are projected to avoid defeat at the Red Bull Arena, with an away win representing the primary expectation alongside high goal expectancy.",
+    "possibilityAssessment": [
+      "Manchester City secure a hard-fought 1:2 victory driven by Erling Haaland's clinical finishing against Leipzig's high line (Confidence: Moderate, Value: High)",
+      "RB Leipzig's flawless home defensive structure holds Manchester City to a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-event offensive exchange clearing Over 2.5 total goals driven by both sides' transitional vulnerabilities (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635710",
+      "league": "UEFA Champions League",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Manchester City",
+      "match_time": "20:00",
+      "match_highlight": "Haaland aims to extend his 12-goal record against Leipzig.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635710,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers City's superior chance creation while insulating against Leipzig's resilient home form."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson lambda total of 4.35 and historical head-to-head metrics heavily support three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory reflects City's attacking edge, while 1:1 covers a resolute Leipzig home stand."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary expectation, with two goals offering a realistic low-variance hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive opening half is projected to break in City's favor late, with Draw-Draw covering the stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-04 08:08:13 UTC"
+}
