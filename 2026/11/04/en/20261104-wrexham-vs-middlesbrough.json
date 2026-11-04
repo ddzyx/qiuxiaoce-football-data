@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563250,
+    "matchup": "Wrexham vs Middlesbrough",
+    "home_team": "Wrexham",
+    "away_team": "Middlesbrough",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-04 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261104-wrexham-vs-middlesbrough/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Wrexham vs Middlesbrough: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1563250",
+      "league": "Championship",
+      "matchup": "Wrexham vs Middlesbrough",
+      "matchTime": "2026-11-04 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back league leaders Middlesbrough to overcome Wrexham's depleted low block and secure a clinical away victory.",
+    "possibilityAssessment": [
+      "Middlesbrough technical dominance and clinical finishing secure a decisive away victory (Confidence: Moderate, Value: High)",
+      "High-tempo attacking output drives the contest over the 2.5 total goals threshold (Confidence: Moderate, Value: Moderate)",
+      "Wrexham's physical set-piece resilience grinds out an unexpected low-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563250",
+      "league": "Championship",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Middlesbrough",
+      "match_time": "19:45",
+      "match_highlight": "Boro's lethal attack tests depleted Wrexham at Racecourse.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563250,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Middlesbrough's league-leading attacking efficiency and Wrexham's severe forward injuries strongly point to an away triumph."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Boro's prolific road scoring pace and Wrexham's set-piece aerial threat combine to breach the 2.5-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 Middlesbrough victory represents the primary convergence, with 0:2 serving as the controlled clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects the primary 1:2 script, while two goals covers a controlled 0:2 Middlesbrough shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Middlesbrough's fast away starts support a half-time lead, while initial home resistance could delay the breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-04 07:49:27 UTC"
+}
