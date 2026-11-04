@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1635707,
+    "matchup": "PSV Eindhoven vs Club Brugge KV",
+    "home_team": "PSV Eindhoven",
+    "away_team": "Club Brugge KV",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-04 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261104-psv-eindhoven-vs-club-brugge-kv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "PSV Eindhoven vs Club Brugge Prediction & Match Analysis: High-Press vs Counter — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1635707",
+      "league": "UEFA Champions League",
+      "matchup": "PSV Eindhoven vs Club Brugge KV",
+      "matchTime": "2026-11-04 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back PSV Eindhoven to avoid defeat in an entertaining, high-tempo European clash against Club Brugge featuring goals at both ends.",
+    "possibilityAssessment": [
+      "Home Win / Draw double-chance thesis anchored by PSV's home scoring run (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals driven by an aggregate 3.90 match expectancy lambda (Confidence: High, Value: High)",
+      "Competitive 2:2 stalemate contingency branch via Brugge transitional counters (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635707",
+      "league": "UEFA Champions League",
+      "homeTeam": "PSV Eindhoven",
+      "awayTeam": "Club Brugge KV",
+      "match_time": "20:00",
+      "match_highlight": "High-press meets clinical transition counter-attack in Dutch-Belgian continental derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635707,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers PSV's formidable Philips Stadion home attacking pedigree (2:1 primary) alongside Brugge's electric transition counter threat (2:2 secondary)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined match lambda of 3.90 and critical defensive absences (Schouten, Ordonez) strongly support high scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 home victory reflects PSV's attacking pressure, while a 2:2 draw captures Brugge's clinical counter-attacking efficiency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the dominant probabilistic density peaks from Poisson goal-expectancy modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive opening 45 minutes yields a half-time stalemate before PSV's second-half pressure decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-04 08:10:18 UTC"
+}
