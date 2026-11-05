@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505561,
+    "matchup": "Universidad de Concepcion vs O'Higgins",
+    "home_team": "Universidad de Concepcion",
+    "away_team": "O'Higgins",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-05 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261105-universidad-de-concepcion-vs-o-higgins/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Universidad de Concepcion vs O'Higgins Prediction: Relegation Pressure vs Road Stability — Model Breakdown",
+    "meta": {
+      "matchId": "1505561",
+      "league": "Primera División",
+      "matchup": "Universidad de Concepcion vs O'Higgins",
+      "matchTime": "2026-11-05 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "O'Higgins hold superior structural stability to navigate Estadio Ester Roa, making Draw / Away Win the most resilient risk-adjusted position.",
+    "possibilityAssessment": [
+      "Primary direction points to Draw / Away Win with O'Higgins edging a low-scoring road contest (Confidence: Moderate, Value: Moderate)",
+      "Total goals gravitate toward Under 2.5 driven by UdeC's anemic attack and O'Higgins' road caution (Confidence: Moderate, Value: Moderate)",
+      "A stubborn low-block 1:1 stalemate serves as the primary hedge against an outright away victory (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505561",
+      "league": "Primera División",
+      "homeTeam": "Universidad de Concepcion",
+      "awayTeam": "O'Higgins",
+      "match_time": "23:00",
+      "match_highlight": "UdeC fight relegation against disciplined O'Higgins at Ester Roa",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505561,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers O'Higgins' technical edge for a 0:1 win while protecting against UdeC's home survival desperation in a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams exhibit subdued attacking outputs with combined lambda of 2.60 and heavy historical under-rates."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 0:1 away victory alongside a 1:1 defensive stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model probabilities peak at 2 goals (25.1%) and 1 goal (19.3%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to either a second-half away breakthrough or a sustained level deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 11:03:06 UTC"
+}
