@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492444,
+    "matchup": "Cruzeiro vs Bahia",
+    "home_team": "Cruzeiro",
+    "away_team": "Bahia",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-06 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-cruzeiro-vs-bahia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cruzeiro vs Bahia Prediction & Match Analysis: Key Suspensions Test Mineirão Edge — Scoreline Preview",
+    "meta": {
+      "matchId": "1492444",
+      "league": "Serie A",
+      "matchup": "Cruzeiro vs Bahia",
+      "matchTime": "2026-11-06 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cruzeiro or Draw in a low-scoring tactical clash heavily impacted by key creative suspensions.",
+    "possibilityAssessment": [
+      "Cruzeiro edges a narrow home victory behind Mineirão fortress defense and Kaio Jorge finishing (Confidence: Moderate, Value: Moderate)",
+      "Bahia's compact structure and league-leading draw tendency extracts a stubborn 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Severe creative absences lock both sides into a sterile, low-chance tactical deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492444",
+      "league": "Serie A",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Bahia",
+      "match_time": "00:30",
+      "match_highlight": "Suspensions deplete Cruzeiro creation as Bahia tests Mineirão fortress",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492444,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Cruzeiro holds strong home form but key suspensions elevate draw probability."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Low combined goal expectancy and key creative absences favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 home edge leads, with a stubborn 1:1 stalemate as prime alternative."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Underlying Poisson distribution heavily concentrates probability across 1 and 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half points to level intervals before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 12:33:04 UTC"
+}
