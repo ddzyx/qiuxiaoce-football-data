@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636208,
+    "matchup": "AC Milan vs Ferencvarosi TC",
+    "home_team": "AC Milan",
+    "away_team": "Ferencvarosi TC",
+    "league": null,
+    "kickoff_utc": "2026-11-05 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261105-ac-milan-vs-ferencvarosi-tc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa League",
+      "matchId": "1636208",
+      "matchup": "AC Milan vs Ferencvarosi TC",
+      "matchTime": "2026-11-05 17:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "AC Milan vs Ferencvarosi TC Prediction: Can Rossoneri Overcome Defensive Absences? — xG Analysis",
+    "coreRecommendation": "Back AC Milan to claim victory at San Siro in a high-tempo match exceeding 2.5 total goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Ferencvaros maintain opening defensive discipline before Milan's superior bench breaks through.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Milan's midfield dominance and attacking quality will overcome their defensive injury crisis at San Siro.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Both 3 and 4 total goals capture the high probability of both teams scoring at San Siro.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory reflects Milan's chance creation advantage while acknowledging defensive concession risk.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "UEFA Europa League",
+      "matchId": "1636208",
+      "awayTeam": "Ferencvarosi TC",
+      "homeTeam": "AC Milan",
+      "fixtureId": 1636208,
+      "match_time": "17:45",
+      "over_under": {
+        "comment": "Depleted Milan backline combined with lethal home wing play points to an open multi-goal contest.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Rossoneri attack overpowers Ferencvaros mid-block despite defensive absentees"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "AC Milan win in regulation time with territorial control (Confidence: Moderate, Value: High)",
+      "Both teams find the net due to Milan's defensive injuries (Confidence: High, Value: High)",
+      "Ferencvaros hold a competitive first half before succumbing late (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "0-2",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-11-05 20:13:09 UTC"
+  }
+}
