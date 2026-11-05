@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636245,
+    "matchup": "Celta Vigo vs Union St. Gilloise",
+    "home_team": "Celta Vigo",
+    "away_team": "Union St. Gilloise",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-05 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261105-celta-vigo-vs-union-st-gilloise/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celta Vigo vs Union St. Gilloise Prediction: Can Celestes Halt Belgian xG Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1636245",
+      "league": "UEFA Europa League",
+      "matchup": "Celta Vigo vs Union St. Gilloise",
+      "matchTime": "2026-11-05 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Union Saint-Gilloise's 13-match unbeaten form and elite 2.60 xG transition attack make Draw / Away Win the premier probabilistic trajectory against a depleted Celta side.",
+    "possibilityAssessment": [
+      "Union SG transition victory via 1:2 scoreline capitalizing on Celta's high defensive line (Confidence: Moderate, Value: High)",
+      "Disciplined 1:1 stalemate where Celta's possession volume neutralizes counter-attacking tempo (Confidence: Moderate, Value: Moderate)",
+      "High-scoring second-half surge pushing total match volume over 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636245",
+      "league": "UEFA Europa League",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Union St. Gilloise",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Celta host red-hot Union SG in decisive Europa League clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636245,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Union SG's transition victory as the primary script while accounting for Celta's home possession resilience to hold a draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Union SG's 2.60 xG average, Celta's defensive absentees, and a combined 2.785 goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Belgian transition finishing against a weakened backline, while 1:1 provides the natural stalemate contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model goal distributions peak tightly at 3 goals (22.2%) and 2 goals (23.9%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a tight first-half tactical battle at Balaídos followed by Union SG's superior second-half transition efficiency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 08:08:08 UTC"
+}
