@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636376,
+    "matchup": "Aarhus vs SC Braga",
+    "home_team": "Aarhus",
+    "away_team": "SC Braga",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-05 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261105-aarhus-vs-sc-braga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aarhus vs SC Braga Prediction & Match Analysis: Tactical Mismatch & Low-Block Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1636376",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Aarhus vs SC Braga",
+      "matchTime": "2026-11-05 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Braga possesses the technical quality to edge a low-scoring European encounter, with the Draw / Away Win double chance providing optimal risk mitigation against their documented away fragility.",
+    "possibilityAssessment": [
+      "Braga secures a narrow second-half away victory against a depleted Aarhus attack (Confidence: Moderate, Value: High)",
+      "Aarhus's compact low block successfully frustrates Braga into a 0:0 or 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Match stays comfortably under the total goal line due to low combined attacking output (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636376",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Aarhus",
+      "awayTeam": "SC Braga",
+      "match_time": "17:45",
+      "match_highlight": "Depleted Aarhus attack hosts technically superior Braga in low-margin clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636376,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Braga's superior individual quality edging a 0:1 win while protecting against their documented European away scoring struggles producing a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derived total goal expectancy of 1.90 combined with Aarhus's missing key attackers strongly underpins a low-scoring environment."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A clinical 0:1 away victory serves as the primary matrix node, with a 1:1 set-piece stalemate as the secondary risk hedge."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One and two goals capture over 64% of model probability density across all analyzed game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Aarhus's zero first-half goal output and Braga's 100% away halftime draw rate point decisively toward a level opening 45 minutes before second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 06:01:56 UTC"
+}
