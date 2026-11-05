@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636337,
+    "matchup": "Sparta Praha vs Bournemouth",
+    "home_team": "Sparta Praha",
+    "away_team": "Bournemouth",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-05 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261105-sparta-praha-vs-bournemouth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sparta Praha vs Bournemouth: Expected Goals, High-Press Asymmetry & Scoreline Projections",
+    "meta": {
+      "matchId": "1636337",
+      "league": "UEFA Europa League",
+      "matchup": "Sparta Praha vs Bournemouth",
+      "matchTime": "2026-11-05 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AFC Bournemouth's relentless transition press and six-match clean-sheet streak will prove decisive against an injury-depleted Sparta Praha side.",
+    "possibilityAssessment": [
+      "Bournemouth exploit transition space to secure a controlled 0:2 away victory (Confidence: Moderate, Value: High)",
+      "A tight, physical first half gives way to a second-half Cherries breakthrough via Draw-Loss progression (Confidence: Moderate, Value: Moderate)",
+      "Sparta Praha breach the Bournemouth defense from a set-piece but the visitors prevail 1:2 (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636337",
+      "league": "UEFA Europa League",
+      "homeTeam": "Sparta Praha",
+      "awayTeam": "Bournemouth",
+      "match_time": "17:45",
+      "match_highlight": "Bournemouth chase a seventh straight win against depleted Sparta Praha.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636337,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Bournemouth possess overwhelming advantages in transition speed and defensive form against a Sparta attack missing Mercado and Ryneš."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bournemouth's six consecutive clean sheets combined with Sparta's recent domestic scoring drought strongly favor a lower-scoring script."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A disciplined 0:2 Bournemouth victory represents the primary convergence, with 1:2 serving as the set-piece contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal match total leads the Poisson probability distribution at 23.6%, followed by 3 goals at 22.3%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Sparta will compete hard in a cagey first half before Bournemouth's pressing quality breaks the deadlock after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 06:05:25 UTC"
+}
