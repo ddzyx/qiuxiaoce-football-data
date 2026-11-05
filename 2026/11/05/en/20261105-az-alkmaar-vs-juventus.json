@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636219,
+    "matchup": "AZ Alkmaar vs Juventus",
+    "home_team": "AZ Alkmaar",
+    "away_team": "Juventus",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-05 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261105-az-alkmaar-vs-juventus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling AZ Alkmaar vs Juventus: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1636219",
+      "league": "UEFA Europa League",
+      "matchup": "AZ Alkmaar vs Juventus",
+      "matchTime": "2026-11-05 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AZ Alkmaar are projected to avoid defeat at the AFAS Stadion against an injury-ravaged Juventus side undergoing extensive squad rotation.",
+    "possibilityAssessment": [
+      "AZ Alkmaar Win or Draw Double Chance via tactical fortress at AFAS Stadion and Juventus rotation (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by both sides averaging over 2.0 goals per Europa League fixture (Confidence: Moderate, Value: Moderate)",
+      "Scoreline Convergence on 2:1 or 1:1 reflecting Dutch territorial control vs Bianconeri transition quality (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636219",
+      "league": "UEFA Europa League",
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "Juventus",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Bianconeri face Alkmaar fortress at AFAS Stadion",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636219,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "AZ Alkmaar's 17-match European home unbeaten run and Juventus's double-digit injury crisis favor the hosts avoiding defeat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined European xG profiles and Juventus's 2.43 xGA per match signal ample scoring opportunities."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects either an efficient 2:1 home victory or a hard-fought 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Conforms to the 2-to-3 goal distribution indicated by Poisson expectancy modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey opening half before second-half intensity unlocks the scoring."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 08:05:54 UTC"
+}
