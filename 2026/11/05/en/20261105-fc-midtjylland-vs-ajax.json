@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1636448,
+    "matchup": "FC Midtjylland vs Ajax",
+    "home_team": "FC Midtjylland",
+    "away_team": "Ajax",
+    "league": null,
+    "kickoff_utc": "2026-11-05 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261105-fc-midtjylland-vs-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Europa Conference League",
+      "matchId": "1636448",
+      "matchup": "FC Midtjylland vs Ajax",
+      "matchTime": "2026-11-05 17:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "FC Midtjylland vs Ajax Prediction & Match Analysis: Midfield Crisis Tests Amsterdammers — Scoreline Preview",
+    "coreRecommendation": "FC Midtjylland's high-intensity pressing and physical superiority at MCH Arena are primed to exploit Ajax's severely depleted midfield pivot to secure at least a point in a competitive encounter.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A closely fought opening half gives way to Midtjylland's superior second-half intensity against tired legs.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Midtjylland's high-pressing victory and a resilient Ajax stalemate while ruling out an away sweep given Ajax's extensive midfield injuries.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "The Poisson model concentrates 40.4% probability on two or three total match goals.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Midtjylland's edge in physical transitions alongside a tight tactical deadlock branch.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Europa Conference League",
+      "matchId": "1636448",
+      "awayTeam": "Ajax",
+      "homeTeam": "FC Midtjylland",
+      "fixtureId": 1636448,
+      "match_time": "17:45",
+      "over_under": {
+        "comment": "High combined xG metrics of 3.95 and porous transitional defenses point toward a high-scoring exchange.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Value Upset",
+      "match_highlight": "Depleted Ajax midfield faces ferocious Midtjylland press at MCH Arena"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Value Upset",
+    "possibilityAssessment": [
+      "FC Midtjylland to win or draw via high-tempo transition dominance (Confidence: Moderate, Value: High)",
+      "Both teams to score with match total exceeding 2.5 goals (Confidence: Moderate, Value: High)",
+      "Ajax salvaging a low-scoring 1:1 stalemate behind Ter Stegen's goalkeeping (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-6",
+    "halftime_score": "1-1",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-05 20:13:47 UTC"
+  }
+}
