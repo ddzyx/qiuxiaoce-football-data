@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493227,
+    "matchup": "Aldosivi vs River Plate",
+    "home_team": "Aldosivi",
+    "away_team": "River Plate",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-05 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261105-aldosivi-vs-river-plate/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aldosivi vs River Plate Prediction & Match Analysis: Can Millonario Clinch Playoff Seed? — Scoreline Preview",
+    "meta": {
+      "matchId": "1493227",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Aldosivi vs River Plate",
+      "matchTime": "2026-11-05 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "River Plate's urgent motivation to secure playoff localía supports a positive result, with the Draw / Away Win double chance providing essential cover against Aldosivi's resilient home block.",
+    "possibilityAssessment": [
+      "River Plate patient second-half breakthrough yielding a controlled road win (Confidence: Moderate, Value: High)",
+      "Low-scoring attritional stalemate driven by River defensive absences and Aldosivi low block (Confidence: Moderate, Value: Moderate)",
+      "Open transition contest where early aerial set piece forces River into high-tempo comeback (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493227",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "River Plate",
+      "match_time": "18:00",
+      "match_highlight": "River Plate eye vital playoff localía against relegated Aldosivi in Mar del Plata",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493227,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers River Plate's superior technical quality and playoff incentive alongside Aldosivi's 50% home draw tendency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson simulations assign 55.4% density to Under 2.5 as Aldosivi sit in a deep-lying defensive shell."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "Reflects River Plate's second-half control while hedging against a set-piece inspired 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exactly 2 goals captures the primary modal distribution with 3 goals accounting for an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Aldosivi's 58.3% home half-time draw rate underpins level opening 45 minutes before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-05 06:21:55 UTC"
+}
