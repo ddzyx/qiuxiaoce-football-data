@@ -142,5 +142,15 @@
         "favorite_prob": 0.4985,
         "spread": -1,
         "ai_level": "中"
+    },
+    "result": {
+        "half_score": "0-1",
+        "actual_score": "1-1",
+        "score_hit": false,
+        "goals_hit": false,
+        "htft_hit": false,
+        "direction_hit": false,
+        "is_correct": false,
+        "is_wrong": true
     }
 }
