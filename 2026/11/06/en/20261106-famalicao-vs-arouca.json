@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575539,
+    "matchup": "Famalicao vs Arouca",
+    "home_team": "Famalicao",
+    "away_team": "Arouca",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-06 20:45:00",
+    "source_url": "https://xgmind.com/matches/20261106-famalicao-vs-arouca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Famalicão vs Arouca Prediction & Match Analysis: Can Famalicão Break Arouca's Wall? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575539",
+      "league": "Primeira Liga",
+      "matchup": "Famalicao vs Arouca",
+      "matchTime": "2026-11-06 20:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Arouca's league-leading defensive compactness under Vítor Severino gives them the edge over winless home side Famalicão, making Draw / Away Win and Under 2.5 goals the primary selections.",
+    "possibilityAssessment": [
+      "Arouca secure a narrow 1-0 victory behind disciplined defensive structure (Confidence: Moderate, Value: High)",
+      "Famalicão battle to a 1-1 low-scoring stalemate at the Municipal 22 de Junho (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals materializes as both sides average below 1.30 xG per match (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575539",
+      "league": "Primeira Liga",
+      "homeTeam": "Famalicao",
+      "awayTeam": "Arouca",
+      "match_time": "20:45",
+      "match_highlight": "Arouca's defensive discipline tests winless Famalicao at home",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575539,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Arouca's second-ranked defense and 80% away unbeaten rate counter Famalicão's winless home form, making the double chance the most robust call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Arouca concede only 0.70 goals per game and Famalicão average 0.93 xG, strongly favoring a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Arouca's trademark 1-0 away victory leads, with a 1-1 low-block stalemate as the primary risk cover."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution and recent 1-0 trends concentrate highest probability density across 1 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Famalicão have drawn 100% of first halves at home, setting up a second-half away breakthrough or level finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 08:54:43 UTC"
+}
