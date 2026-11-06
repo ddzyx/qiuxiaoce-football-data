@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493235,
+    "matchup": "Independiente vs Deportivo Riestra",
+    "home_team": "Independiente",
+    "away_team": "Deportivo Riestra",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-06 22:15:00",
+    "source_url": "https://xgmind.com/matches/20261106-independiente-vs-deportivo-riestra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Independiente vs Deportivo Riestra Prediction: Must-Win Playoff Battle & xG Dynamics — Scoreline Preview",
+    "meta": {
+      "matchId": "1493235",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Independiente vs Deportivo Riestra",
+      "matchTime": "2026-11-06 22:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Independiente to secure a vital regulation home victory over Deportivo Riestra in a low-scoring matchday 16 decider.",
+    "possibilityAssessment": [
+      "Independiente Home Win anchored by playoff qualification necessity and Riestra's winless road record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals supported by a 1.90 lambda baseline and Riestra failing to score in 80% of away matches (Confidence: High, Value: High)",
+      "1:0 Correct Score reflecting Independiente's territorial control and patient breakdown of a 5-3-2 low block (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493235",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Independiente",
+      "awayTeam": "Deportivo Riestra",
+      "match_time": "22:15",
+      "match_highlight": "Independiente must defeat travel-sick Deportivo Riestra to secure Clausura playoff qualification.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493235,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Independiente's existential playoff stakes and Riestra's winless away campaign (0-6-9) justify a decisive home win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aggregate lambda of 1.90 and Riestra's 80% away failure-to-score rate heavily favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "A patient 1:0 breakthrough represents the primary path, with 2:0 serving as the late transition insurance score."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Extremely low combined attacking tempo and Riestra's defensive block concentrate probability tightly on 1 or 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Riestra's 60% first-half away draw rate points to a level opening 45 before Independiente break through in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 10:23:49 UTC"
+}
