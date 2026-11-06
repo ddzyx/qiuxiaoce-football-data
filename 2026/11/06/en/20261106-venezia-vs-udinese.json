@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550196,
+    "matchup": "Venezia vs Udinese",
+    "home_team": "Venezia",
+    "away_team": "Udinese",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-06 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261106-venezia-vs-udinese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Venezia vs Udinese Prediction & Match Analysis: Relegation Six-Pointer at the Penzo — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550196",
+      "league": "Serie A",
+      "matchup": "Venezia vs Udinese",
+      "matchTime": "2026-11-06 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 goals as the primary strategic posture in a tense relegation battle.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance captures the dominant stalemate script while shielding Udinese's transition quality (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals aligns with Venezia's 60% failed-to-score rate and Zanetti's defensive restructuring (Confidence: High, Value: Moderate)",
+      "Correct score 1:1 serves as the primary statistical convergence point between home territory and away counter-attacks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550196",
+      "league": "Serie A",
+      "homeTeam": "Venezia",
+      "awayTeam": "Udinese",
+      "match_time": "19:45",
+      "match_highlight": "Paolo Zanetti debuts against his former club in a high-stakes survival battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550196,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-density deadlock script and Udinese's counter-attacking edge under Paolo Zanetti."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Venezia's league-low six goals scored and Udinese's risk-averse mandate anchor scoring under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate represents the primary convergence, backed by a 0:1 away counter-attack contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Expect a tight defensive grind yielding exactly two or one total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Venezia's 80% home HT draw rate underpins a level first half before late fatigue decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:51:08 UTC"
+}
