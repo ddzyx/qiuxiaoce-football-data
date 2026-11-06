@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551371,
+    "matchup": "AB Copenhagen vs Vendsyssel FF",
+    "home_team": "AB Copenhagen",
+    "away_team": "Vendsyssel FF",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-06 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-ab-copenhagen-vs-vendsyssel-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling AB Copenhagen vs Vendsyssel FF: Expected Goals, Transition Defense & Match Intelligence",
+    "meta": {
+      "matchId": "1551371",
+      "league": "1. Division",
+      "matchup": "AB Copenhagen vs Vendsyssel FF",
+      "matchTime": "2026-11-06 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back AB Copenhagen or Draw (1X) alongside Over 2.5 Goals in an expected 2:1 home victory or competitive 1:1 stalemate.",
+    "possibilityAssessment": [
+      "AB Copenhagen capitalize on Gladsaxe home dominance to secure a hard-fought 2:1 victory (Confidence: Moderate, Value: High)",
+      "Vendsyssel FF execute their trademark road low block to force a 1:1 score draw (Confidence: Moderate, Value: Moderate)",
+      "High-tempo exchanges push total scoring above the Over 2.5 threshold (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551371",
+      "league": "1. Division",
+      "homeTeam": "AB Copenhagen",
+      "awayTeam": "Vendsyssel FF",
+      "match_time": "18:00",
+      "match_highlight": "AB Copenhagen's attacking potency meets Vendsyssel's road stalemate resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551371,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers AB Copenhagen's 83.3% home unbeaten strength alongside Vendsyssel's persistent road draw profile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined match lambda of 2.65 and Vendsyssel scoring in 100% of away matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges on AB's 2:1 attacking edge with a 1:1 road deadlock as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the dominant 3-goal and 2-goal Poisson density bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight, level first half before AB's superior second-half attacking depth takes effect."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 06:09:19 UTC"
+}
