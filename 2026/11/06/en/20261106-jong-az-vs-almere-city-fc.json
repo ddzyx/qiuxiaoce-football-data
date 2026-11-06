@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551871,
+    "matchup": "Jong AZ vs Almere City FC",
+    "home_team": "Jong AZ",
+    "away_team": "Almere City FC",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-06 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-jong-az-vs-almere-city-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jong AZ vs Almere City FC Prediction & Match Analysis: Can Youth Firepower Breach Almere? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551871",
+      "league": "Eerste Divisie",
+      "matchup": "Jong AZ vs Almere City FC",
+      "matchTime": "2026-11-06 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Almere City FC to exploit Jong AZ's porous defense and secure an away victory in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Almere City FC to win regulation full-time (Confidence: Moderate, Value: High)",
+      "Total match goals to exceed 2.5 goals (Confidence: High, Value: Moderate)",
+      "Match to finish level at half-time before Almere City pull away (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551871",
+      "league": "Eerste Divisie",
+      "homeTeam": "Jong AZ",
+      "awayTeam": "Almere City FC",
+      "match_time": "19:00",
+      "match_highlight": "High-scoring clash as Almere target Jong AZ's vulnerable defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551871,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Almere City's superior defensive structure and Ferdy Druijf's finishing should overcome Jong AZ's leaky back line."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Jong AZ's 2.2 conceded per match and 0 clean sheets guarantee high scoring alongside Almere's clinical attack."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A 1:2 victory represents the primary Poisson convergence node, with 1:3 covering Almere's late counter-attacking margin."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals dominate the distribution curve, matching the 3.90 combined lambda expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Almere draw 71.4% of away first halves before accelerating late, making Draw-Loss the premier trend."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:10:40 UTC"
+}
