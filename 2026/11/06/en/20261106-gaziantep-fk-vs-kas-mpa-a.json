@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1584462,
+    "matchup": "Gaziantep FK vs Kasımpaşa",
+    "home_team": "Gaziantep FK",
+    "away_team": "Kasımpaşa",
+    "league": "Süper Lig",
+    "kickoff_utc": "2026-11-06 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-gaziantep-fk-vs-kas-mpa-a/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gaziantep FK vs Kasımpaşa: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1584462",
+      "league": "Süper Lig",
+      "matchup": "Gaziantep FK vs Kasımpaşa",
+      "matchTime": "2026-11-06 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kasımpaşa on the Double Chance (Draw / Away Win) as superior structural form overcomes Gaziantep's historic head-to-head resistance.",
+    "possibilityAssessment": [
+      "Kasımpaşa road victory via late transition efficiency (Confidence: Moderate, Value: High)",
+      "High-tempo tactical stalemate resulting in a competitive 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Open encounter breaching defensive lines to surpass Over 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1584462",
+      "league": "Süper Lig",
+      "homeTeam": "Gaziantep FK",
+      "awayTeam": "Kasımpaşa",
+      "match_time": "17:00",
+      "match_highlight": "Kasımpaşa's top-five form challenges Gaziantep's historical dominance at Gaziantep Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1584462,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Kasımpaşa's 90% unbeaten season record while respecting their 50% draw rate and Gaziantep's stubborn head-to-head resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined goal expectancy of 2.75 and Gaziantep's defense conceding 1.70 goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects the natural convergence of Kasımpaşa's road attacking output against Gaziantep's chronic defensive concessions."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The 2.75 aggregate lambda anchors the primary density at exactly 3 goals, with 2 goals as the main defensive hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Gaziantep regularly hold level at half-time at home before succumbing to Kasımpaşa's superior second-half scoring punch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 05:06:28 UTC"
+}
