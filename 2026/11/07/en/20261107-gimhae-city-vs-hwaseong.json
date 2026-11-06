@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510493,
+    "matchup": "Gimhae City vs Hwaseong",
+    "home_team": "Gimhae City",
+    "away_team": "Hwaseong",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-07 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-gimhae-city-vs-hwaseong/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimhae City vs Hwaseong Prediction & Match Analysis: Can Seol Debut Halt Hwaseong? — Scoreline Preview",
+    "meta": {
+      "matchId": "1510493",
+      "league": "K League 2",
+      "matchup": "Gimhae City vs Hwaseong",
+      "matchTime": "2026-11-07 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Hwaseong's underlying baseline edges a vulnerable Gimhae City, while Hwaseong's recent winless run keeps the draw firmly in play.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance projection reflecting Hwaseong's superior baseline against Gimhae's home draw resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals capitalizing on Gimhae City's league-worst defense conceding 2.10 goals per match (Confidence: Moderate, Value: High)",
+      "1:2 Away Victory as the primary scoreline convergence point with 1:1 serving as the primary defensive hedge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510493",
+      "league": "K League 2",
+      "homeTeam": "Gimhae City",
+      "awayTeam": "Hwaseong",
+      "match_time": "07:30",
+      "match_highlight": "Seol Ki-hyeon debut tests slumping Hwaseong at Gimhae",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510493,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Hwaseong's superior overall quality while factoring in their five-match winless slump and Gimhae's five home draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Gimhae's porous backline conceding 2.10 goals per game combines with Hwaseong's 1.50 attacking output to favor a high-scoring threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory represents the leading transition script, with 1:1 capturing Gimhae's tactical stalemate potential."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with Hwaseong's expected 1.80 lambda firepower, while two goals captures the tight 1:1 deadlock scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half under Seol Ki-hyeon resolves after the interval as Hwaseong either edges ahead or settles for a point."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 19:35:53 UTC"
+}
