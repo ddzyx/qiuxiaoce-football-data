@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510491,
+    "matchup": "Seongnam FC vs Daegu FC",
+    "home_team": "Seongnam FC",
+    "away_team": "Daegu FC",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-07 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-seongnam-fc-vs-daegu-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Seongnam FC vs Daegu FC Prediction: Can Magpies Contain Cesinha? — Model Scoreline & Tactical Preview",
+    "meta": {
+      "matchId": "1510491",
+      "league": "K League 2",
+      "matchup": "Seongnam FC vs Daegu FC",
+      "matchTime": "2026-11-07 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Daegu FC's potent forward line gives them the decisive edge, but Seongnam FC's home drawing habit warrants double-chance coverage via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance projection supported by Daegu's 2.0 goals per game and Seongnam's six-match winless slide (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by combined lambda expectancy of 2.90 and Daegu's open road dynamics (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Score Stalemate hedge reflecting Seongnam's 69.2% unbeaten home record (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510491",
+      "league": "K League 2",
+      "homeTeam": "Seongnam FC",
+      "awayTeam": "Daegu FC",
+      "match_time": "05:00",
+      "match_highlight": "Daegu firepower tests Seongnam defensive low block at Tancheon",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510491,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Daegu's superior 57-goal attacking quality alongside Seongnam's high home draw rate of 46.2%."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda expectation of 2.90 and Daegu averaging 3.4 total goals in their matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 scoreline captures Daegu's offensive edge; secondary 1:1 covers the stubborn home stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Primary total of 3 goals mirrors the 1:2 script; secondary total of 2 goals accounts for defensive containment."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Loss reflects Daegu's 64.2% second-half scoring share; Draw-Draw reflects Seongnam's home parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 17:07:54 UTC"
+}
