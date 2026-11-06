@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1576522,
+    "matchup": "AVS vs Vizela",
+    "home_team": "AVS",
+    "away_team": "Vizela",
+    "league": null,
+    "kickoff_utc": "2026-11-06 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261106-avs-vs-vizela/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Segunda Liga",
+      "matchId": "1576522",
+      "matchup": "AVS vs Vizela",
+      "matchTime": "2026-11-06 18:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "AVS vs Vizela Prediction & Match Analysis: Can Aves Stifle Lacava in Northern Derby Clash? — Scoreline Preview",
+    "coreRecommendation": "AVS are projected to leverage their 75% home unbeaten record to secure a positive result against travel-weary Vizela via Home Win / Draw.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "AVS register a 75% half-time draw rate at home, paving the way for level intervals.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the high-density 1:1 stalemate and a 2:1 home triumph driven by AVS's venue stability.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Two goals represent the prime convergence mark (26.8%), followed by 3 goals on a second-half breakthrough.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "The 1:1 deadlock leads Poisson density at 13.4%, while 2:1 reflects AVS's proven home winning template.",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "Segunda Liga",
+      "matchId": "1576522",
+      "awayTeam": "Vizela",
+      "homeTeam": "AVS",
+      "fixtureId": 1576522,
+      "match_time": "18:45",
+      "over_under": {
+        "comment": "Poisson lambda total of 2.22 and Segunda Liga tactical caution support a low-scoring ceiling.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "AVS defend fortress against Vizela's creative midfield spark in tight derby."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "AVS secure at least a point at home against a Vizela side with only one road win (Confidence: Moderate, Value: High)",
+      "Total match scoring remains suppressed under the 2.5 goal threshold due to tactical mid-block conservatism (Confidence: High, Value: Moderate)",
+      "A 1:1 deadlock serves as the natural convergence point for both sides' identical 1.11 Poisson goal expectancies (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "0-2",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-06 21:22:10 UTC"
+  }
+}
