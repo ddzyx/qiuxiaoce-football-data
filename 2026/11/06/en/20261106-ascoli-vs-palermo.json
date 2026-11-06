@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601593,
+    "matchup": "Ascoli vs Palermo",
+    "home_team": "Ascoli",
+    "away_team": "Palermo",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-06 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-ascoli-vs-palermo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ascoli vs Palermo Prediction & Match Analysis: Can Ascoli's Wall Halt Inzaghi's Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601593",
+      "league": "Serie B",
+      "matchup": "Ascoli vs Palermo",
+      "matchTime": "2026-11-06 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ascoli's league-best defense at Stadio Del Duca provides the resilience to hold Palermo to a 1:1 draw, with Draw / Away Win covering the leaders' quality.",
+    "possibilityAssessment": [
+      "Tactical Stalemate (1:1 Draw) anchored by Ascoli's low block and Palermo's persistent possession (Confidence: Moderate, Value: High)",
+      "Narrow Palermo Breakthrough (1:2 Away Win) driven by Dennis Johnsen's late individual quality (Confidence: Moderate, Value: Moderate)",
+      "Defensive Attrition (Under 2.5 Goals) reflecting Ascoli's division-low 0.6 goals conceded per match (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601593",
+      "league": "Serie B",
+      "homeTeam": "Ascoli",
+      "awayTeam": "Palermo",
+      "match_time": "19:30",
+      "match_highlight": "Ascoli's league-best defense hosts unbeaten leaders Palermo at Del Duca",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601593,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Ascoli's ironclad home defense sets up a probable 1:1 deadlock, with Palermo's firepower offering narrow 1:2 coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Ascoli's record of conceding just 0.6 goals per game heavily restrains scoring volume."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A tight 1:1 stalemate leads, with a narrow 1:2 Palermo victory as the primary alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals reflect the primary 1:1 projection, while three goals capture the 1:2 away win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both sides feature heavy first-half draw rates, leading to level intervals before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:43:21 UTC"
+}
