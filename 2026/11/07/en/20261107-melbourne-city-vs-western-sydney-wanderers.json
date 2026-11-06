@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593700,
+    "matchup": "Melbourne City vs Western Sydney Wanderers",
+    "home_team": "Melbourne City",
+    "away_team": "Western Sydney Wanderers",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-07 08:40:00",
+    "source_url": "https://xgmind.com/matches/20261107-melbourne-city-vs-western-sydney-wanderers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Melbourne City vs Western Sydney Wanderers Prediction: Vidmar's Attack Meets Talay's Wall — xG Preview",
+    "meta": {
+      "matchId": "1593700",
+      "league": "A-League",
+      "matchup": "Melbourne City vs Western Sydney Wanderers",
+      "matchTime": "2026-11-07 08:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Western Sydney Wanderers are positioned to preserve their unbeaten start against Melbourne City in a controlled, low-scoring encounter where a 1:1 stalemate or narrow 0:1 road win prevails.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win (Leading script: 1:1 stalemate as City's second-half resurgence collides with Western Sydney's disciplined road block) (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Under 2.5 Total Goals based on combined defensive stability and conservative away chance conversion (Confidence: High, Value: Moderate)",
+      "Contingency Angle: Melbourne City 1:0 narrow home win should Marcondes and Mabil unlock the match early (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593700",
+      "league": "A-League",
+      "homeTeam": "Melbourne City",
+      "awayTeam": "Western Sydney Wanderers",
+      "match_time": "08:40",
+      "match_highlight": "Wanderers' stout road defense tests City's second-half resurgence at AAMI Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593700,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Western Sydney's league-leading defensive metrics and unbeaten away record make a 1:1 deadlock or a 0:1 smash-and-grab the most probable scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined expected goal baseline of 2.115 and Wanderers' consecutive scoreless away outings strongly favor a low-scoring ceiling under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "The 1:1 draw captures the tactical deadlock between possession and transition, while 0:1 hedges Wanderers' structural defensive edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the peak Poisson density for a 1:1 deadlock, backed by a single-goal tally for a 0:1 margin."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half is projected to produce a scoreless break, leading either to a shared point or a late Wanderers breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 20:47:03 UTC"
+}
