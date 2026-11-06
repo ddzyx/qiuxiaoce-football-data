@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510494,
+    "matchup": "Gimpo Citizen vs Ansan Greeners",
+    "home_team": "Gimpo Citizen",
+    "away_team": "Ansan Greeners",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-07 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-gimpo-citizen-vs-ansan-greeners/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimpo Citizen vs Ansan Greeners Prediction: Tactical Breakdown & Scoreline Forecast — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1510494",
+      "league": "K League 2",
+      "matchup": "Gimpo Citizen vs Ansan Greeners",
+      "matchTime": "2026-11-07 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gimpo Citizen to remain unbeaten against Ansan Greeners in an open clash leaning toward Home Win or Draw.",
+    "possibilityAssessment": [
+      "Gimpo Citizen Home Win / Draw double chance supported by Ansan's league-worst 57 conceded goals and Gimpo's 11 season draws (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined 2.80 goal expectancy and Ansan's 1.90 conceded goals per match (Confidence: Moderate, Value: Moderate)",
+      "Scoreline 2:1 or 1:1 reflecting Gimpo's attacking edge offset by defensive transition vulnerabilities (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510494",
+      "league": "K League 2",
+      "homeTeam": "Gimpo Citizen",
+      "awayTeam": "Ansan Greeners",
+      "match_time": "07:30",
+      "match_highlight": "Gimpo targets Ansan's porous defense to snap two-game slump at Solteo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510494,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Gimpo's clear offensive mismatch against Ansan's 57 conceded goals while protecting against the hosts' modest 23.1% home win rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Ansan concedes 1.90 goals per game and Gimpo has shipped seven in their last two outings, pushing expectancy past 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 represents Gimpo's breakthrough against Ansan's low block, while 1:1 accounts for the high-frequency stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution clusters heavily around 2 and 3 total goals, comprising 46% of total simulation density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Over 50% of both teams' first halves finish drawn, before second-half fatigue favors Gimpo or locks a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 19:36:07 UTC"
+}
