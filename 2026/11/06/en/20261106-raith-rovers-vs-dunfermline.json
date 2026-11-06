@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556895,
+    "matchup": "Raith Rovers vs Dunfermline",
+    "home_team": "Raith Rovers",
+    "away_team": "Dunfermline",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-06 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-raith-rovers-vs-dunfermline/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Raith Rovers vs Dunfermline Prediction: Fife Derby Rest Disparity & Defensive Clash — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1556895",
+      "league": "Championship",
+      "matchup": "Raith Rovers vs Dunfermline",
+      "matchTime": "2026-11-06 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dunfermline Athletic are primed to capitalize on Raith's 72-hour turnaround and key playmaker absences to secure at least a point at Stark's Park.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capitalizing on Dunfermline's 11-match unbeaten streak and league-best defense (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals backed by aggregate Poisson expectancy of 1.96 and stingy defensive metrics (Confidence: High, Value: Moderate)",
+      "Scoreline 1:1 reflecting Raith's early attacking energy cancelled out by late host fatigue (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556895",
+      "league": "Championship",
+      "homeTeam": "Raith Rovers",
+      "awayTeam": "Dunfermline",
+      "match_time": "19:30",
+      "match_highlight": "Fife derby clash defined by Raith's congestion versus Dunfermline's 11-game streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556895,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 deadlock and a 0:1 away win, recognizing Dunfermline's 92.3% seasonal unbeaten rate against Raith's severe 72-hour cup hangover."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with aggregate lambda 1.96, Dunfermline allowing only 7 goals in 13 matches, and Easton being sidelined."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 serves as the primary convergence of Raith's home intent and away resilience, while 0:1 captures Dunfermline's counter-attacking efficiency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects low-scoring derby dynamics where defensive compactness limits clear-cut transitional opportunities."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw accounts for Dunfermline's 71.4% away HT draw rate, while Draw-Loss captures Raith's physical drop-off after the 65th minute."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:40:22 UTC"
+}
