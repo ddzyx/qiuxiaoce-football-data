@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552525,
+    "matchup": "Dunkerque vs Guingamp",
+    "home_team": "Dunkerque",
+    "away_team": "Guingamp",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-06 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-dunkerque-vs-guingamp/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dunkerque vs Guingamp Prediction: Can Webó's Defense Contain In-Form Guingamp? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552525",
+      "league": "Ligue 2",
+      "matchup": "Dunkerque vs Guingamp",
+      "matchTime": "2026-11-06 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Guingamp's backline momentum counters Dunkerque's home resilience in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Guingamp edge a tight encounter via second-half counter-attack (Confidence: Moderate, Value: High)",
+      "Stubborn home performance by Dunkerque holds visitors to a low-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Attritional midfield battle limits total match output below 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552525",
+      "league": "Ligue 2",
+      "homeTeam": "Dunkerque",
+      "awayTeam": "Guingamp",
+      "match_time": "19:00",
+      "match_highlight": "Guingamp's clean-sheet momentum challenges Webó's reshuffled Dunkerque side.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552525,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Guingamp's sharp counter-attacking edge while respecting Dunkerque's 66.7% home unbeaten record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model projects just 1.52 combined expected goals with an 80.4% density for two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 0:1 Guingamp road win or a hard-fought 1:1 stalemate at Marcel-Tribut."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A 1-goal outcome leads Poisson distributions at 33.2%, closely followed by 2 goals at 25.3%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first half followed by Guingamp's late counter-punch or a shared point."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:20:16 UTC"
+}
