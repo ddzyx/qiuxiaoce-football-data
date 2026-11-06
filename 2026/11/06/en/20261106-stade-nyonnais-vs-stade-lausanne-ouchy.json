@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555079,
+    "matchup": "Stade Nyonnais vs Stade Lausanne-Ouchy",
+    "home_team": "Stade Nyonnais",
+    "away_team": "Stade Lausanne-Ouchy",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-06 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-stade-nyonnais-vs-stade-lausanne-ouchy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stade Nyonnais vs Stade Lausanne-Ouchy Prediction: League Leaders Test Leaky Defense — Model Analysis",
+    "meta": {
+      "matchId": "1555079",
+      "league": "Challenge League",
+      "matchup": "Stade Nyonnais vs Stade Lausanne-Ouchy",
+      "matchTime": "2026-11-06 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stade Lausanne-Ouchy's league-best defense and undefeated form make an Away Win the most reliable outcome against bottom-placed Stade Nyonnais.",
+    "possibilityAssessment": [
+      "Stade Lausanne-Ouchy to secure an ordinary Away Win behind their league-leading defense (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Under 2.5 as Lausanne-Ouchy control game tempo and preserve a clean sheet (Confidence: Moderate, Value: High)",
+      "Correct Score 1:2 contingency where Nyonnais score an isolated home goal but fall short (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555079",
+      "league": "Challenge League",
+      "homeTeam": "Stade Nyonnais",
+      "awayTeam": "Stade Lausanne-Ouchy",
+      "match_time": "18:30",
+      "match_highlight": "Unbeaten league leaders test Challenge League's leakiest home defensive backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555079,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Stade Lausanne-Ouchy's league-best defense (5 goals conceded in 12 matches) and superior attacking depth should comfortably overwhelm Nyonnais' fragile backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lausanne-Ouchy's remarkable 66.7% clean sheet rate and controlled road game management strongly favor a compact, low-scoring total."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A controlled 0:2 road win represents the statistical convergence point, with 1:2 covering a potential home set-piece response."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak Poisson density (23.5%), with three goals serving as the primary secondary volume branch (22.3%)."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Lausanne-Ouchy have led at half-time in 66.7% of their matches, while Nyonnais have trailed at the interval in 66.7% of fixtures."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 06:35:46 UTC"
+}
