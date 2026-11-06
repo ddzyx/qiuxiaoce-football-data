@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647394,
+    "matchup": "Gimcheon Sangmu FC vs FC Anyang",
+    "home_team": "Gimcheon Sangmu FC",
+    "away_team": "FC Anyang",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-07 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-gimcheon-sangmu-fc-vs-fc-anyang/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimcheon Sangmu vs FC Anyang Prediction: Can Sangmu Rebound Against Anyang? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1647394",
+      "league": "K League 1",
+      "matchup": "Gimcheon Sangmu FC vs FC Anyang",
+      "matchTime": "2026-11-07 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Anyang's six-match unbeaten momentum provides a tactical floor against Gimcheon Sangmu FC's league-leading draw tendency, favoring a Draw / Away Win double chance anchored around a 1:1 or 0:1 scoreline.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance anchored by Anyang's road stability and Gimcheon's 20 draws (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by 1.0 and 1.2 season goal averages and low-block defensive setups (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 as the central probabilistic equilibrium between possession and transition (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647394",
+      "league": "K League 1",
+      "homeTeam": "Gimcheon Sangmu FC",
+      "awayTeam": "FC Anyang",
+      "match_time": "07:30",
+      "match_highlight": "Anyang's unbeaten streak challenges Gimcheon's record-setting 20-draw season grind.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647394,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anyang's 6-match unbeaten form and Oct 10 away win contrast with Gimcheon's 20 draws in 34 games, making the Draw / Away Win pair the most mathematically secure projection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams combine for low baseline conversion and disciplined defensive structures, strongly favoring Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate mirrors Gimcheon's home draw pattern, while 0:1 reflects Anyang's proven counter-attacking blueprint at Gimcheon Stadium."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal Poisson outcome, with a single-goal away victory serving as the sharp defensive alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first half points toward level terms at the interval, followed either by shared spoils or a decisive Anyang second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 19:39:10 UTC"
+}
