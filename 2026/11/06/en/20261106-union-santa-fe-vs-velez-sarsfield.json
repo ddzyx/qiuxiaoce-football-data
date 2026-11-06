@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493241,
+    "matchup": "Union Santa Fe vs Velez Sarsfield",
+    "home_team": "Union Santa Fe",
+    "away_team": "Velez Sarsfield",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-06 22:15:00",
+    "source_url": "https://xgmind.com/matches/20261106-union-santa-fe-vs-velez-sarsfield/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Union Santa Fe vs Velez Sarsfield: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1493241",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Union Santa Fe vs Velez Sarsfield",
+      "matchTime": "2026-11-06 22:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Velez Sarsfield's defensive stinginess and midfield control should secure at least a point against an injury-hit Union Santa Fe in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Velez Sarsfield avoid defeat via Draw or Away Win (Confidence: Moderate, Value: High)",
+      "Total match goals settle Under 2.5 (Confidence: High, Value: Moderate)",
+      "Primary scoreline converges on a 1:1 stalemate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493241",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Union Santa Fe",
+      "awayTeam": "Velez Sarsfield",
+      "match_time": "22:15",
+      "match_highlight": "Fortin defensive wall tests depleted Tatengue midfield at Estadio 15 de Abril",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493241,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Velez's league-leading defense (0.9 conceded per game) avoids defeat against a Union side missing key midfielders, with road draw tendencies demanding stalemate coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Velez's 11 clean sheets and Union's missing transition playmaker Menossi support a tight, low-scoring tactical clash."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A balanced 1:1 deadlock serves as the primary matrix anchor, with a 1:2 road victory representing the secondary late-game alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "The Poisson distribution concentrates over 60% of probability mass across 2 and 3 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Velez's 53.8% halftime draw rate on the road points to a level opening half, with full-time outcomes splitting between a draw and an away triumph."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 10:22:23 UTC"
+}
