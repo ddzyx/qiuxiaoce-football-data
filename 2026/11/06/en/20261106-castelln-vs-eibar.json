@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570006,
+    "matchup": "Castellón vs Eibar",
+    "home_team": "Castellón",
+    "away_team": "Eibar",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-06 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-castellón-vs-eibar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Castellón vs Eibar Prediction & Match Analysis: High Press vs Transition Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570006",
+      "league": "Segunda División",
+      "matchup": "Castellón vs Eibar",
+      "matchTime": "2026-11-06 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CD Castellón's elite home defense (0.4 goals conceded/game) and territorial dominance provide the decisive advantage against an Eibar side missing key defender Unai Elgezabal.",
+    "possibilityAssessment": [
+      "CD Castellón establish early control to secure a clinical 2:0 home victory (Confidence: Moderate, Value: High)",
+      "SD Eibar breach Castellón on the counter-attack but fall to a 2:1 defeat (Confidence: Moderate, Value: High)",
+      "SD Eibar absorb pressure in a low block to hold a 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570006",
+      "league": "Segunda División",
+      "homeTeam": "Castellón",
+      "awayTeam": "Eibar",
+      "match_time": "19:30",
+      "match_highlight": "Top-of-the-table clash at SkyFi Castalia tests Eibar's away resilience",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570006,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Castellón's league-leading defensive record and superior xG generation give them a commanding edge over an out-of-form Eibar side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Castellón concede only 0.4 goals per match and boast an 80% home clean sheet rate, pointing toward a low-scoring outcome."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home win is the primary statistical convergence point, with 2:1 covering Eibar's direct transition threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the modal aggregate, while three goals capture the secondary scenario where both teams score."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Castellón's high first-half goal share favors an early lead, with Draw-Win reflecting an initial tight defensive stand from Eibar."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:35:47 UTC"
+}
