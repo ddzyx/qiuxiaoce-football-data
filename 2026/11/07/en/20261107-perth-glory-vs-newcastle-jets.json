@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593701,
+    "matchup": "Perth Glory vs Newcastle Jets",
+    "home_team": "Perth Glory",
+    "away_team": "Newcastle Jets",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-07 10:45:00",
+    "source_url": "https://xgmind.com/matches/20261107-perth-glory-vs-newcastle-jets/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Perth Glory vs Newcastle Jets Prediction & Analysis: Transition Edge vs Jets Fatigue — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593701",
+      "league": "A-League",
+      "matchup": "Perth Glory vs Newcastle Jets",
+      "matchTime": "2026-11-07 10:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Perth Glory's transition efficiency and rest advantage favor them to take points against travel-weary Newcastle Jets in an open clash.",
+    "possibilityAssessment": [
+      "Perth Glory Home Win / Draw double chance capitalizing on Newcastle's defensive regression (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by Newcastle's 2.27 xGA per match and Perth's clinical finishing (Confidence: Moderate, Value: Moderate)",
+      "A 2:1 primary scoreline reflecting Perth's transition punch against Newcastle's travel fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593701",
+      "league": "A-League",
+      "homeTeam": "Perth Glory",
+      "awayTeam": "Newcastle Jets",
+      "match_time": "10:45",
+      "match_highlight": "Glory counters target fatigued Jets backline at HBF Park",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593701,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Perth exploiting Newcastle's post-ACL fatigue (2:1) while buffering against Tom Lawrence's creative absence (1:1)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.385 Poisson goal expectancy and Newcastle conceding 2.27 xGA per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline is the primary transition outcome, with 1:1 covering potential attacking friction without Lawrence."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal distribution in an open tactical contest, with two goals as a competitive backup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win accounts for Newcastle's physical collapse in the second half, while Win-Win reflects an early Perth transition blitz."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 22:49:08 UTC"
+}
