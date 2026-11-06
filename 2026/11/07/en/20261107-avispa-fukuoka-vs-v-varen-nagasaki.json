@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556131,
+    "matchup": "Avispa Fukuoka vs V-varen Nagasaki",
+    "home_team": "Avispa Fukuoka",
+    "away_team": "V-varen Nagasaki",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-07 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-avispa-fukuoka-vs-v-varen-nagasaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Avispa Fukuoka vs V-varen Nagasaki Prediction: Can Murakami Spark Rebound? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556131",
+      "league": "J1 League",
+      "matchup": "Avispa Fukuoka vs V-varen Nagasaki",
+      "matchTime": "2026-11-07 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Avispa Fukuoka avoid defeat at Best Denki Stadium against a travel-shy Nagasaki side that remains winless on the road.",
+    "possibilityAssessment": [
+      "Avispa Fukuoka / Draw double chance capitalizing on Nagasaki's 0-1-5 away record (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting conservative tactical restructuring under interim boss Murakami (Confidence: Moderate, Value: Moderate)",
+      "Correct score 1:1 as the central mathematical convergence of both leaky defenses (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556131",
+      "league": "J1 League",
+      "homeTeam": "Avispa Fukuoka",
+      "awayTeam": "V-varen Nagasaki",
+      "match_time": "06:00",
+      "match_highlight": "Relegation six-pointer Kyushu derby marked by Avispa managerial change",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556131,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and secondary 2:1 home win, exploiting Nagasaki's winless road record (0-1-5)."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson baseline and tactical caution under new management point toward a tightly contested low-scoring derby."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 draw serves as the modal Poisson peak, while 2:1 reflects Fukuoka's home set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the primary expectation, with three goals covering the higher-tempo home win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Win-Win"
+        ],
+        "comment": "Draw-Draw aligns with a cagey first half, while Win-Win captures Fukuoka's strong 42.9% home interval lead rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 18:07:30 UTC"
+}
