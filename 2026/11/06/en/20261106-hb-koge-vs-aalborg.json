@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551375,
+    "matchup": "HB Koge vs Aalborg",
+    "home_team": "HB Koge",
+    "away_team": "Aalborg",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-06 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-hb-koge-vs-aalborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "HB Koge vs Aalborg Prediction: Can AaB Halt Lead Erosion on Turf? — Scoreline & Tactical Preview",
+    "meta": {
+      "matchId": "1551375",
+      "league": "1. Division",
+      "matchup": "HB Køge vs Aalborg",
+      "matchTime": "2026-11-06 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Aalborg's early structural supremacy meets HB Køge's potent second-half home equalizer script.",
+    "possibilityAssessment": [
+      "Stalemate thesis via Aalborg taking a first-half lead before HB Køge equalizes late on turf (Confidence: Moderate, Value: High)",
+      "Away Win thesis anchored by Aalborg's higher technical floor and Nicklas Helenius's finishing (Confidence: Moderate, Value: Moderate)",
+      "Low-margin Under 2.5 thesis reflecting recent head-to-head scoreline patterns (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Draw",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551375",
+      "league": "1. Division",
+      "homeTeam": "HB Køge",
+      "awayTeam": "Aalborg",
+      "match_time": "18:00",
+      "match_highlight": "Aalborg seeks to halt lead erosion against HB Køge's second-half turf pressure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551375,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate driven by Aalborg's 60% lead-not-won rate alongside a 1:2 road victory hedge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with the leading 1:1 scoreline and recent tight head-to-head encounters."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the primary analytical convergence point with 1:2 as the secondary road win scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the highest density outcome, closely trailed by three goals on an open late branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Draw",
+          "Loss-Loss"
+        ],
+        "comment": "Loss-Draw captures Aalborg leading at half-time before Køge's second-half equalizer, while Loss-Loss covers AaB holding on."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 06:09:29 UTC"
+}
