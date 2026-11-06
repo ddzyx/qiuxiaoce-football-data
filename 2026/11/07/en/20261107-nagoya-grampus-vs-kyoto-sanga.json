@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556137,
+    "matchup": "Nagoya Grampus vs Kyoto Sanga",
+    "home_team": "Nagoya Grampus",
+    "away_team": "Kyoto Sanga",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-07 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-nagoya-grampus-vs-kyoto-sanga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nagoya Grampus vs Kyoto Sanga Prediction: Sanga's ACLE Fatigue vs Grampus Press — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556137",
+      "league": "J1 League",
+      "matchup": "Nagoya Grampus vs Kyoto Sanga",
+      "matchTime": "2026-11-07 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nagoya Grampus's rest advantage over a travel-fatigued Kyoto Sanga establishes a strong platform, but Nagoya's zero clean sheets warrant protective coverage on Home Win / Draw.",
+    "possibilityAssessment": [
+      "Nagoya Grampus capitalise on Kyoto's second-half fatigue to edge a high-tempo 2:1 victory (Confidence: Moderate, Value: High)",
+      "Kyoto's disciplined low block and Rafael Elias transition threat force a typical 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Nagoya's persistent defensive errors allow Kyoto an unexpected road upset (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556137",
+      "league": "J1 League",
+      "homeTeam": "Nagoya Grampus",
+      "awayTeam": "Kyoto Sanga",
+      "match_time": "05:00",
+      "match_highlight": "Sanga battle ACLE travel fatigue against Grampus's possession attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556137,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Nagoya hold the decisive rest and territorial edge, but their zero clean sheets mandate retaining the 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both defenses concede heavily (3.4 combined goals conceded per match), pushing total expectancy to 2.95."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 win reflects home superiority, while the 1:1 draw captures the single highest Poisson density outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary score, while two goals provide coverage for the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Kyoto draw 71.4% of first halves away, with second-half fatigue determining whether Nagoya take all three points or share the spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 17:07:34 UTC"
+}
