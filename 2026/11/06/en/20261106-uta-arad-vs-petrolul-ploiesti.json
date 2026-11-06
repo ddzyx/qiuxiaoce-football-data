@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565302,
+    "matchup": "Uta Arad vs Petrolul Ploiesti",
+    "home_team": "Uta Arad",
+    "away_team": "Petrolul Ploiesti",
+    "league": "Liga I",
+    "kickoff_utc": "2026-11-06 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-uta-arad-vs-petrolul-ploiesti/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UTA Arad vs Petrolul Ploiesti Prediction: Can Old Lady Extend Unbeaten Home Run? — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1565302",
+      "league": "Liga I",
+      "matchup": "UTA Arad vs Petrolul Ploiesti",
+      "matchTime": "2026-11-06 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "UTA Arad maintain tactical superiority at home to secure a win or draw against a defensively vulnerable Petrolul side.",
+    "possibilityAssessment": [
+      "UTA Arad 1:0 narrow home victory driven by second-half set-piece efficiency (Confidence: Moderate, Value: High)",
+      "1:1 tactical stalemate balancing host compactness against visitor transition threat (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals sustained by Romanian winter pitch conditions and disciplined low blocks (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565302",
+      "league": "Liga I",
+      "homeTeam": "UTA Arad",
+      "awayTeam": "Petrolul Ploiesti",
+      "match_time": "15:30",
+      "match_highlight": "Unbeaten home defense meets road-weary Petrolul attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565302,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers UTA's 1:0 victory script and the 1:1 stalemate, backed by an unbeaten home record and 10-match H2H dominance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Solidified by UTA conceding only 0.67 goals per home match and historical low-margin clashes between both clubs."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the two primary game states: a clean-sheet host victory or an opportunistic away equalizer."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal distribution point, with a single-goal defensive lock serving as secondary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "UTA's conservative first-half home metrics (66.7% HT draw rate) point toward level intervals before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 03:34:33 UTC"
+}
