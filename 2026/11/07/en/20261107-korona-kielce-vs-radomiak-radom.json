@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553220,
+    "matchup": "Korona Kielce vs Radomiak Radom",
+    "home_team": "Korona Kielce",
+    "away_team": "Radomiak Radom",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-07 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261107-korona-kielce-vs-radomiak-radom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Korona Kielce vs Radomiak Radom Prediction & Match Analysis: Defensive Crisis vs Home Fortress — xG Preview",
+    "meta": {
+      "matchId": "1553220",
+      "league": "Ekstraklasa",
+      "matchup": "Korona Kielce vs Radomiak Radom",
+      "matchTime": "2026-11-07 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Korona Kielce in the Home Win / Draw market, with a 2:1 victory serving as the primary probabilistic convergence point.",
+    "possibilityAssessment": [
+      "Korona Kielce 2:1 victory exploiting Radomiak's depleted defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by Radomiak's 2.20 away goals conceded average (Confidence: Moderate, Value: High)",
+      "1:1 tactical stalemate hedging against Korona's high home draw tendency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553220",
+      "league": "Ekstraklasa",
+      "homeTeam": "Korona Kielce",
+      "awayTeam": "Radomiak Radom",
+      "match_time": "11:15",
+      "match_highlight": "Radomiak's depleted defense faces Korona's solid 83% home fortress",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553220,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Korona's 83.3% home unbeaten record and Radomiak's 0-1-5 road slump make home points highly probable, with draw covering Korona's 50% home tie frequency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Radomiak's league-worst 2.02 away xGA and 2.20 goals conceded per road match drive an elevated 63.4% model probability for Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 Korona win captures home set-piece dominance and late defensive fatigue, while 1:1 hedges against a stubborn low block."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model goal expectancies peak at 3 goals (22.2%) followed by 2 goals (20.4%) in bivariate Poisson distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tense derby opening produces a level first half before Korona's superior depth breaks the deadlock in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 23:19:22 UTC"
+}
