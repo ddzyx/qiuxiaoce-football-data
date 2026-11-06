@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575218,
+    "matchup": "Hamburger SV vs Borussia Mönchengladbach",
+    "home_team": "Hamburger SV",
+    "away_team": "Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-06 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261106-hamburger-sv-vs-borussia-m-nchengladbach/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Hamburger SV vs Borussia Mönchengladbach: Expected Goals, Midfield Voids & Match Intelligence",
+    "meta": {
+      "matchId": "1575218",
+      "league": "Bundesliga",
+      "matchup": "Hamburger SV vs Borussia Mönchengladbach",
+      "matchTime": "2026-11-06 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hamburger SV hold the home edge at Volksparkstadion, but creative absences require pairing the home win with a draw.",
+    "possibilityAssessment": [
+      "Hamburger SV edge a narrow single-goal victory behind Terem Moffi's finishing (Confidence: Moderate, Value: High)",
+      "Alexander Blessin's structured pressing secures an attritional 1-1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Mutual offensive absences produce a tight low-scoring contest Under 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575218",
+      "league": "Bundesliga",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "Borussia Mönchengladbach",
+      "match_time": "19:30",
+      "match_highlight": "Relegation six-pointer hinges on HSV midfield voids against Blessin's press.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575218,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Hamburger SV's single-goal home precedent while guarding against a stalemate caused by Fabio Vieira's absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Low season xG generation and offensive personnel doubts point decisively to a low-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects HSV's established 100% win-by-one home margin and a cautious relegation-battle deadlock."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Tight tactical positioning and key attacking absences favor exactly one or two match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected to stay level before second-half adjustments dictate the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:38:25 UTC"
+}
