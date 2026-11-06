@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551030,
+    "matchup": "Necaxa vs Club Tijuana",
+    "home_team": "Necaxa",
+    "away_team": "Club Tijuana",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-07 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-necaxa-vs-club-tijuana/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Necaxa vs Club Tijuana Prediction & Match Analysis: Can Xolos End Away Draw Rut? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551030",
+      "league": "Liga MX",
+      "matchup": "Necaxa vs Club Tijuana",
+      "matchTime": "2026-11-07 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Club Tijuana to avoid defeat in an encounter heavily indexed toward a 1:1 stalemate given their persistent away draw trend.",
+    "possibilityAssessment": [
+      "Primary stalemate trajectory converging at 1:1 as Tijuana's road draw tendency persists (Confidence: Moderate, Value: Moderate)",
+      "Controlled tempo keeping scoring bounded beneath the 2.5 goal threshold (Confidence: Moderate, Value: Moderate)",
+      "Secondary transition branch yielding a narrow 1:2 victory for Club Tijuana (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551030",
+      "league": "Liga MX",
+      "homeTeam": "Necaxa",
+      "awayTeam": "Club Tijuana",
+      "match_time": "01:00",
+      "match_highlight": "Tijuana seek first away win against eliminated Necaxa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551030,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Tijuana's road stalemate vulnerability and secondary transition victory while excluding an improbable Necaxa home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Tactical conservatism and strict officiating favor a controlled match staying within a two-goal ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw aligns with Tijuana's six road draws, while 1:2 represents their counter-attacking breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 capture over 45% of the Poisson probability distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a level opening half followed by either shared second-half points or a late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 13:10:57 UTC"
+}
