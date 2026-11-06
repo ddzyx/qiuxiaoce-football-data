@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556135,
+    "matchup": "Kashiwa Reysol vs Kawasaki Frontale",
+    "home_team": "Kashiwa Reysol",
+    "away_team": "Kawasaki Frontale",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-07 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-kashiwa-reysol-vs-kawasaki-frontale/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashiwa Reysol vs Kawasaki Frontale Prediction: High-Press Duels & Transition xG — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1556135",
+      "league": "J1 League",
+      "matchup": "Kashiwa Reysol vs Kawasaki Frontale",
+      "matchTime": "2026-11-07 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kashiwa Reysol on a Home Win / Draw double chance, with a 2:1 home victory leading the tactical projections.",
+    "possibilityAssessment": [
+      "Kashiwa Reysol to win or draw via fluid positional overloads and home efficiency (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals driven by both clubs' porous defenses and combined 2.98 xG expectancy (Confidence: Moderate, Value: High)",
+      "Exact scoreline 1:1 stalemate if Kashiwa experience late physical fatigue from continental play (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556135",
+      "league": "J1 League",
+      "homeTeam": "Kashiwa Reysol",
+      "awayTeam": "Kawasaki Frontale",
+      "match_time": "07:00",
+      "match_highlight": "Fatigue asymmetry collides with Kawasaki's leaky defense at Sankyo Frontier Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556135,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kashiwa's superior home attacking output (2:1) while guarding against late second-half fatigue resulting in a stalemate (1:1)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.1 goals scored per match while conceding 1.35 xGA, supporting a high-scoring 2.98 lambda total."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home triumph serves as the primary tactical script, backed by a 1:1 stalemate as the Poisson modal deviation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads the distribution, closely followed by 2 goals in a controlled stalemate scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A measured opening half from the fatigued hosts precedes second-half breakthroughs or sustained level scoring."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 19:05:56 UTC"
+}
