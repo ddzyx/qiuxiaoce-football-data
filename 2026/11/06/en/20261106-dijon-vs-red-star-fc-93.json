@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1552524,
+    "matchup": "Dijon vs RED Star FC 93",
+    "home_team": "Dijon",
+    "away_team": "RED Star FC 93",
+    "league": null,
+    "kickoff_utc": "2026-11-06 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-dijon-vs-red-star-fc-93/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ligue 2",
+      "matchId": "1552524",
+      "matchup": "Dijon vs RED Star FC 93",
+      "matchTime": "2026-11-06 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Dijon vs RED Star FC 93 Prediction & Match Analysis: Road Prowess Meets Leaky Defense — Scoreline & xG Preview",
+    "coreRecommendation": "Support RED Star FC 93 to exploit Dijon's chronically vulnerable backline and secure a positive result via Draw / Away Win in an open, high-scoring contest.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Dijon have lost three of five home games after entering half-time level, matching Red Star's strong away second-half conversion rate.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Red Star's superior away tactical setup (1:2) and a shared-point equilibrium (1:1), where a single home call ignores Dijon's alarming 1.98 xGA.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Three goals represent the primary distribution convergence point, backed by two goals as the secondary defensive consolidation branch.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 1:2 away win reflects Red Star's transitional efficiency against Dijon's leaky defense, while 1:1 captures a resilient lower-tempo deadlock.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Ligue 2",
+      "matchId": "1552524",
+      "awayTeam": "RED Star FC 93",
+      "homeTeam": "Dijon",
+      "fixtureId": 1552524,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "Strongly supported by an aggregate lambda of 3.14 and Dijon's streak of five consecutive fixtures exceeding 2.5 goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Red Star away counter-attack targets Dijon backline with zero clean sheets."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "RED Star FC 93 counter-attacking road efficiency capitalizes on Dijon defensive lapses for a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "High-tempo tactical stalemate resulting in a competitive 1:1 score draw (Confidence: Moderate, Value: Moderate)",
+      "Uncontrolled transition exchange pushing match total past 2.5 goals (Confidence: High, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-0",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-11-06 21:22:51 UTC"
+  }
+}
