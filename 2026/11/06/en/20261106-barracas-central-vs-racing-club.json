@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493230,
+    "matchup": "Barracas Central vs Racing Club",
+    "home_team": "Barracas Central",
+    "away_team": "Racing Club",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-06 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-barracas-central-vs-racing-club/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barracas Central vs Racing Club Prediction: Can Racing Overcome Striker Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493230",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Barracas Central vs Racing Club",
+      "matchTime": "2026-11-06 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barracas Central to maintain defensive superiority and avoid defeat against an injury-ravaged Racing Club side in a tightly contested, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Barracas Central avoids defeat via Home Win or Draw (Confidence: Moderate, Value: High)",
+      "Total Match Goals Under 2.5 anchored by 2.05 expected goals baseline (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 representing the primary modal deadlock scenario (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493230",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Racing Club",
+      "match_time": "18:00",
+      "match_highlight": "Racing striker crisis meets Barracas Central five-match unbeaten run",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493230,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Barracas Central's 72.4% unbeaten baseline and defensive compactness match Racing's road misery and missing top striker, with the draw firmly covered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.05 and Racing's lack of attacking focal point strongly suppress high-scoring scripts."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 deadlock serves as the natural convergence point with a 2:1 home victory covering second-half set-piece dominance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary modal expectation with three goals capturing a potential late second-half breakdown."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious first-half pacing yields a level interval, progressing into either full-time parity or a late Barracas breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 06:06:16 UTC"
+}
