@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1552526,
+    "matchup": "Grenoble vs Reims",
+    "home_team": "Grenoble",
+    "away_team": "Reims",
+    "league": null,
+    "kickoff_utc": "2026-11-06 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-grenoble-vs-reims/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ligue 2",
+      "matchId": "1552526",
+      "matchup": "Grenoble vs Reims",
+      "matchTime": "2026-11-06 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ],
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Grenoble vs Reims Prediction & Match Analysis: Can GF38 Neutralize Fofana's Midfield Dominance? — Scoreline & xG Preview",
+    "coreRecommendation": "Reims' unbeaten momentum, tactical cohesion, and vast midfield superiority make an away win the definitive projection.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Grenoble frequently draw the first half at home before crumbling under second-half pressure.",
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ]
+      },
+      "spf": {
+        "comment": "Reims' unbeaten 11-match record and superior attacking efficiency easily overpower Grenoble's four-match losing streak.",
+        "selection": "Away Win"
+      },
+      "goals": {
+        "comment": "3 goals is the primary convergence point with 2 goals serving as the controlled alternative.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Reims have the firepower to score twice against a fragile defense, yielding 1:2 or 0:2.",
+        "selection": [
+          "1:2",
+          "0:2"
+        ]
+      },
+      "league": "Ligue 2",
+      "matchId": "1552526",
+      "awayTeam": "Reims",
+      "homeTeam": "Grenoble",
+      "fixtureId": 1552526,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "Combined lambda expectancy of 2.91 and Grenoble's 1.82 goals conceded per match support an open game.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Undefeated Reims visit struggling Grenoble eyeing automatic promotion."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Reims victory driven by midfield control and finishing efficiency (Confidence: Moderate, Value: High)",
+      "High-probability goal line crossing Over 2.5 with a 1:2 script (Confidence: Moderate, Value: High)",
+      "Tactical draw hedge if Grenoble's low-block holds firm (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "2-1",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-06 21:22:55 UTC"
+  }
+}
