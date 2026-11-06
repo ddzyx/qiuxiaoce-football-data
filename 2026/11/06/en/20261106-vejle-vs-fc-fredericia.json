@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551376,
+    "matchup": "Vejle vs FC Fredericia",
+    "home_team": "Vejle",
+    "away_team": "FC Fredericia",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-06 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-vejle-vs-fc-fredericia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vejle vs FC Fredericia Prediction & Match Analysis: Duelund vs Rieper Duel — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1551376",
+      "league": "1. Division",
+      "matchup": "Vejle vs FC Fredericia",
+      "matchTime": "2026-11-06 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vejle to avoid defeat in a tightly contested top-of-the-table clash (Home Win / Draw), with 1:1 representing the most probable scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance anchored by Vejle's home form and Fredericia's defensive solidity (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by Fredericia's 0.69 goals conceded per match (Confidence: Moderate, Value: High)",
+      "Stalemate contingency with exact scoreline 1:1 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551376",
+      "league": "1. Division",
+      "homeTeam": "Vejle",
+      "awayTeam": "FC Fredericia",
+      "match_time": "17:00",
+      "match_highlight": "Promotion showdown pits Vejle attack against Fredericia's impenetrable defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551376,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-density 1:1 stalemate script and a narrow 2:1 home victory, reflecting Vejle's strong home record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Fredericia's division-best defense (9 goals conceded in 13 games) strongly suppresses overall scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 draw represents the primary Poisson convergence point, while 2:1 accounts for late home pressure."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal total holds highest probability (24.5%), with 3 goals representing the open secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides exhibit elevated first-half draw rates, leading to level intervals followed by second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 05:06:10 UTC"
+}
