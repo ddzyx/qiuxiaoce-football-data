@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647393,
+    "matchup": "Jeju United FC vs Gwangju FC",
+    "home_team": "Jeju United FC",
+    "away_team": "Gwangju FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-07 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-jeju-united-fc-vs-gwangju-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jeju United FC vs Gwangju FC Prediction & Preview: Can Leaky Defense Survive? — Scoreline & xG Analysis",
+    "meta": {
+      "matchId": "1647393",
+      "league": "K League 1",
+      "matchup": "Jeju United FC vs Gwangju FC",
+      "matchTime": "2026-11-07 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jeju United FC's structural defensive stability and 75% home unbeaten rate position them to claim points against Gwangju FC's league-worst defense.",
+    "possibilityAssessment": [
+      "Home Win / Draw core thesis supported by massive 32-goal defensive differential and Gwangju's solitary road win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by Gwangju conceding 2.02 away xGA and scoring 12 in their last five fixtures (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency scenario via isolated John Iredale transition finish and Jeju home finishing variance (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647393",
+      "league": "K League 1",
+      "homeTeam": "Jeju United FC",
+      "awayTeam": "Gwangju FC",
+      "match_time": "05:00",
+      "match_highlight": "Jeju's disciplined defense confronts Gwangju's volatile attack in Seogwipo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647393,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Jeju holds the class advantage against Gwangju's 70-goal defense, but Jeju's 43.8% home draw frequency makes the compound selection optimal."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Gwangju's 2.02 away xGA and recent 12-goal scoring surge combine with Jeju's attacking talent to favor Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects Jeju's superior chance creation, while 1:1 accounts for Jeju's recurring home draw tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model density concentrates heavily across 3 and 2 total goals, driven by Gwangju's high-event transition game."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half gives way to Jeju's superior second-half scoring punch, with Draw-Draw covering the stalemate scenario."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 17:18:20 UTC"
+}
