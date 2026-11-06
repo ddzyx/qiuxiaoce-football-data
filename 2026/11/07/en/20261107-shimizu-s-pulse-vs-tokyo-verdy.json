@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556138,
+    "matchup": "Shimizu S-pulse vs Tokyo Verdy",
+    "home_team": "Shimizu S-pulse",
+    "away_team": "Tokyo Verdy",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-07 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-shimizu-s-pulse-vs-tokyo-verdy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shimizu S-pulse vs Tokyo Verdy Prediction: Can Verdy Exploit S-Pulse's Defense? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1556138",
+      "league": "J1 League",
+      "matchup": "Shimizu S-pulse vs Tokyo Verdy",
+      "matchTime": "2026-11-07 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shimizu S-pulse's alarming defensive fragility makes an outright victory unviable, directing optimal value toward Home Win / Draw anchored by a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Stalemate trajectory where mutual relegation caution results in a balanced 1:1 draw (Confidence: Moderate, Value: High)",
+      "Low-scoring home reclamation where Shimizu stabilize defensively to claim a narrow 1:0 victory (Confidence: Moderate, Value: Moderate)",
+      "Transitional battle resulting in total goals remaining strictly Under 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556138",
+      "league": "J1 League",
+      "homeTeam": "Shimizu S-pulse",
+      "awayTeam": "Tokyo Verdy",
+      "match_time": "04:00",
+      "match_highlight": "Shimizu's leaking defense faces Verdy's stubborn road counter-press.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556138,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:1 stalemate while formally retaining Shimizu's home venue advantage in a tight 1:0 victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs average just 0.8 goals per match with underlying combined expectancy well beneath the 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw is the model's top density point, with a gritty 1:0 home win serving as the secondary script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Clusters around the two most probable exact total goal distributions within Poisson modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anticipates a cagey first-half deadlock progressing into either a sustained draw or a narrow second-half Shimizu breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 16:09:41 UTC"
+}
