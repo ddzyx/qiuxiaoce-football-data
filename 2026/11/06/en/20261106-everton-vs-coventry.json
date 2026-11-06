@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557460,
+    "matchup": "Everton vs Coventry",
+    "home_team": "Everton",
+    "away_team": "Coventry",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-06 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-everton-vs-coventry/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Everton vs Coventry: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1557460",
+      "league": "Premier League",
+      "matchup": "Everton vs Coventry",
+      "matchTime": "2026-11-06 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Everton's elite defensive suppression and Coventry's key attacking absences point toward a disciplined home victory in a low-scoring affair.",
+    "possibilityAssessment": [
+      "Everton to secure a controlled home victory via second-half attrition (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by combined sub-1.3 xG metrics (Confidence: High, Value: High)",
+      "Everton clean sheet victory with a 1:0 scoreline as the primary convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557460",
+      "league": "Premier League",
+      "homeTeam": "Everton",
+      "awayTeam": "Coventry",
+      "match_time": "20:00",
+      "match_highlight": "Moyes' disciplined defense clashes with Lampard's transitional attack at Hill Dickinson Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557460,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Everton's exceptional defensive suppression (0.31 xGA per game) and Coventry's major absence in Haji Wright support a controlled home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A low-event fixture governed by Everton's 0.31 xGA per match and combined expected goals below 1.25."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "A disciplined 1:0 victory represents the primary convergence point, with 2:0 covering a late transition breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One or two total goals align directly with a 1:0 or 2:0 scoreline distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "A patient first half paving the way for a second-half breakthrough leads the chronology."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 08:05:34 UTC"
+}
