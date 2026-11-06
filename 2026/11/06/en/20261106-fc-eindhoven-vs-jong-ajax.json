@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551868,
+    "matchup": "FC Eindhoven vs Jong Ajax",
+    "home_team": "FC Eindhoven",
+    "away_team": "Jong Ajax",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-06 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-fc-eindhoven-vs-jong-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Eindhoven vs Jong Ajax Prediction & Match Analysis: Transition Chaos Meets Leaky Defenses — Scoreline Preview",
+    "meta": {
+      "matchId": "1551868",
+      "league": "Eerste Divisie",
+      "matchup": "FC Eindhoven vs Jong Ajax",
+      "matchTime": "2026-11-06 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Eindhoven to avoid defeat in an open, high-scoring contest via Home Win / Draw with Over 2.5 goals.",
+    "possibilityAssessment": [
+      "FC Eindhoven edge a high-tempo physical battle by exploiting Ajax defensive vulnerabilities on set pieces (Confidence: Moderate, Value: High)",
+      "Both teams trade goals in an open transition-heavy script that finishes in a 2:2 deadlock (Confidence: Moderate, Value: Moderate)",
+      "Match total surges past 2.5 goals due to combined defensive concession averages exceeding 4.3 goals per game (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551868",
+      "league": "Eerste Divisie",
+      "homeTeam": "FC Eindhoven",
+      "awayTeam": "Jong Ajax",
+      "match_time": "19:00",
+      "match_highlight": "Leaky defenses and physical mismatch point toward home edge and goals.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551868,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Eindhoven's physical and historical upper hand while protecting against their 0% home clean-sheet rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.15 goals conceded per match, making an open game virtually inevitable."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Primary 2:1 home victory reflects set-piece edge; secondary 2:2 reflects Ajax transition threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson expectation and defensive stats point directly to the 3 and 4 total goal brackets."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides score predominantly in the second half, favoring level intervals before late breakthroughs."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:03:00 UTC"
+}
