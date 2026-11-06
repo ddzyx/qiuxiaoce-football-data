@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556139,
+    "matchup": "Yokohama F. Marinos vs Fagiano Okayama",
+    "home_team": "Yokohama F. Marinos",
+    "away_team": "Fagiano Okayama",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-07 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-yokohama-f-marinos-vs-fagiano-okayama/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama F. Marinos vs Fagiano Okayama Prediction & Match Analysis: Nissan Stadium xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1556139",
+      "league": "J1 League",
+      "matchup": "Yokohama F. Marinos vs Fagiano Okayama",
+      "matchTime": "2026-11-07 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Yokohama F. Marinos will capitalize on their dominant first-half home form to defeat a defensively vulnerable Fagiano Okayama side.",
+    "possibilityAssessment": [
+      "Yokohama F. Marinos win in a competitive, multi-goal contest (Confidence: Moderate, Value: High)",
+      "Total Goals breaches the Over 2.5 threshold via open second-half transitions (Confidence: Moderate, Value: Moderate)",
+      "Fagiano Okayama low-block resistance forces a narrow low-scoring stalemate hedge (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556139",
+      "league": "J1 League",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "Fagiano Okayama",
+      "match_time": "05:00",
+      "match_highlight": "Marinos' early pressure tests Okayama's fragile road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556139,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Yokohama's 83.3% home first-half lead rate and superior chance creation decisively outweigh Okayama's depleted defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Yokohama's 1.50 goals per game and Okayama conceding 1.62 per match on the road."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 scoreline captures Yokohama's offensive firepower alongside their characteristic late defensive vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary model convergence point with two goals as the controlled clean-sheet backup."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Yokohama consistently build first-half leads at Nissan Stadium and Okayama have zero comeback rate when trailing at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 17:10:19 UTC"
+}
