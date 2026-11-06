@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1552817,
+    "matchup": "Toulouse vs Strasbourg",
+    "home_team": "Toulouse",
+    "away_team": "Strasbourg",
+    "league": null,
+    "kickoff_utc": "2026-11-06 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261106-toulouse-vs-strasbourg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Ligue 1",
+      "matchId": "1552817",
+      "matchup": "Toulouse vs Strasbourg",
+      "matchTime": "2026-11-06 19:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Toulouse vs Strasbourg Prediction & Preview: xG Modeling, Lineup Absences & Scoreline Analysis",
+    "coreRecommendation": "Toulouse to leverage superior underlying xG metrics and defensive stability to avoid defeat against road-fragile Strasbourg.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Toulouse's 0% first-half lead rate points toward a level opening interval before second-half adjustments take hold.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Toulouse's superior chance creation dominates Strasbourg's porous away defense, with the draw covering Toulouse's high finishing variance.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Primary total of 3 goals converges with high-tempo transitions, while 2 goals covers a tighter drawn affair.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home victory reflects expected chances converted, while 1:1 hedges against persistent conversion struggles.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "Ligue 1",
+      "matchId": "1552817",
+      "awayTeam": "Strasbourg",
+      "homeTeam": "Toulouse",
+      "fixtureId": 1552817,
+      "match_time": "19:45",
+      "over_under": {
+        "comment": "Aggregate lambda expectancy of 3.39 coupled with Strasbourg conceding 2.11 goals per road match favors a high-chance script.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Toulouse's 1.88 xG hosts Strasbourg's leaky defense in a crucial mid-table clash."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Toulouse Win / Draw double chance driven by territorial control and Strasbourg's 80% road loss rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals based on combined 3.39 lambda expectancy and Strasbourg's 0% clean sheet record (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 tactical hedge covering Toulouse's established finishing wastefulness (Confidence: Low, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-1",
+    "halftime_score": "1-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-06 21:52:14 UTC"
+  }
+}
