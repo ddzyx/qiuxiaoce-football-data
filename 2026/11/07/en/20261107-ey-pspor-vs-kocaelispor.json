@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1584460,
+    "matchup": "Eyüpspor vs Kocaelispor",
+    "home_team": "Eyüpspor",
+    "away_team": "Kocaelispor",
+    "league": "Süper Lig",
+    "kickoff_utc": "2026-11-07 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-ey-pspor-vs-kocaelispor/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eyüpspor vs Kocaelispor Prediction & Match Analysis: Can Dalcı Halve Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1584460",
+      "league": "Süper Lig",
+      "matchup": "Eyüpspor vs Kocaelispor",
+      "matchTime": "2026-11-07 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kocaelispor to avoid defeat in a cagey, low-scoring encounter dominated by defensive caution.",
+    "possibilityAssessment": [
+      "Kocaelispor grind out a 0:1 away victory via second-half transitional efficiency (Confidence: Moderate, Value: High)",
+      "Both attacks cancel each other out in a defensive 0:0 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Eyüpspor collapse late on the counter leading to a 0:2 away victory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1584460",
+      "league": "Süper Lig",
+      "homeTeam": "Eyüpspor",
+      "awayTeam": "Kocaelispor",
+      "match_time": "10:30",
+      "match_highlight": "Eyüpspor search for salvation against disciplined Kocaelispor",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1584460,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Kocaelispor's primary 0:1 away breakthrough and the 0:0 low-block stalemate scenario."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.10 and chronic scoring droughts heavily favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "A 0:1 away win reflects Kocaelispor's defensive edge, while 0:0 captures Petkovic's absence."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson matrix concentrates over 61% of distributional density on 1 or 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Eyüpspor's early low block produces a tight first half before second-half quality decides it."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 22:35:14 UTC"
+}
