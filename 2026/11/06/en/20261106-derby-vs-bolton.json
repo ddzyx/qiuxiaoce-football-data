@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563256,
+    "matchup": "Derby vs Bolton",
+    "home_team": "Derby",
+    "away_team": "Bolton",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-06 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261106-derby-vs-bolton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Derby vs Bolton Prediction: Rams Defensive Void vs Trotters Away Form — XG Mind AI Scoreline Preview",
+    "meta": {
+      "matchId": "1563256",
+      "league": "Championship",
+      "matchup": "Derby vs Bolton",
+      "matchTime": "2026-11-06 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bolton Wanderers are projected to avoid defeat at Pride Park against an injury-ravaged Derby County side in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Canonical double chance, Away Win leading) (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "Correct Score 0:1 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563256",
+      "league": "Championship",
+      "homeTeam": "Derby",
+      "awayTeam": "Bolton",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Rams defense tests Trotters road discipline at Pride Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563256,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Bolton's primary 0:1 away victory alongside a resilient 1:1 Derby deadlock given high defensive stakes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson baseline projects a 78.1% density for Under 2.5, underpinned by conservative road metrics."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A compact 0:1 Bolton triumph leads, followed by a tight 1:1 attrition stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Expectancies cluster tightly at 1 goal (32.2%) and 2 goals (25.9%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "First-half parity is projected, with Bolton exploiting late transition fatigue for the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 08:05:52 UTC"
+}
