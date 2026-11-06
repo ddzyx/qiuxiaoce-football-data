@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555077,
+    "matchup": "FC Aarau vs FC WIL 1900",
+    "home_team": "FC Aarau",
+    "away_team": "FC WIL 1900",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-06 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261106-fc-aarau-vs-fc-wil-1900/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Aarau vs FC WIL 1900 Prediction: Leaky Defenses & Brügglifeld Form Clash — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1555077",
+      "league": "Challenge League",
+      "matchup": "FC Aarau vs FC WIL 1900",
+      "matchTime": "2026-11-06 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Aarau's home firepower and 83.3% Brügglifeld unbeaten record favor the hosts, but persistent defensive leakage makes Home Win / Draw paired with Over 2.5 goals the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "FC Aarau Win / Draw double chance capitalizing on venue strength and Wil's depleted central defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals driven by a 3.60 combined lambda expectancy and mutual 0% clean-sheet rates (Confidence: High, Value: Moderate)",
+      "Both Teams To Score with a 2:2 draw contingency reflecting three consecutive identical H2H stalemates (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555077",
+      "league": "Challenge League",
+      "homeTeam": "FC Aarau",
+      "awayTeam": "FC WIL 1900",
+      "match_time": "19:15",
+      "match_highlight": "Iacopetta faces former club Wil as leaky defenses collide at Brügglifeld.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555077,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Aarau's primary 2:1 home victory script while guarding against Wil's recurring 2:2 comeback draw tendency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.60 combined lambda and zero clean sheets at Brügglifeld strongly indicate at least three goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Aarau's 50% 1-goal home win distribution, while 2:2 captures their persistent head-to-head deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "The Poisson matrix concentrates 40.3% of outcome probability across exactly 3 and 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win reflects Aarau's second-half acceleration, while Draw-Draw accounts for Wil's 100% away draw rate when level at halftime."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:40:37 UTC"
+}
