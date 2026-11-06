@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558677,
+    "matchup": "Standard Liege vs SK Beveren",
+    "home_team": "Standard Liege",
+    "away_team": "SK Beveren",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-06 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261106-standard-liege-vs-sk-beveren/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Standard Liege vs SK Beveren Prediction: Can Les Rouches Exploit Away Frailty? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1558677",
+      "league": "Jupiler Pro League",
+      "matchup": "Standard Liege vs SK Beveren",
+      "matchTime": "2026-11-06 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Standard Liege's superior 1.90 xG creation and Beveren's 80% road loss rate favor the hosts via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Standard Liege exploit Beveren's road defensive frailty to grind out a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Standard's depleted midfield leads to finishing frustration and a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional flow pushes the total past 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558677",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Standard Liege",
+      "awayTeam": "SK Beveren",
+      "match_time": "19:45",
+      "match_highlight": "Standard host traveling Beveren seeking to exploit defensive gaps at Sclessin.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558677,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Standard's dominant 2:1 home victory script while hedging against the 1:1 stalemate observed against Kortrijk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Beveren concede 2.0 goals per away match, elevating the Poisson projection for Over 2.5 to 63.5%."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win reflects the xG gap, while 1:1 accounts for Casper Nielsen's creative absence."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the median expectation, with two goals capturing the low-conversion scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Standard draw 80% of first halves at home, setting up second-half decisions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 07:57:53 UTC"
+}
