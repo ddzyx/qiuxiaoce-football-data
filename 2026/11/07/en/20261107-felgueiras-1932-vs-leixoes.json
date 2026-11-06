@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576526,
+    "matchup": "Felgueiras 1932 vs Leixoes",
+    "home_team": "Felgueiras 1932",
+    "away_team": "Leixoes",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-07 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-felgueiras-1932-vs-leixoes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Felgueiras 1932 vs Leixões Prediction & Match Analysis: Can Moreno's Men Exploit Fangueiro's Fragile Backline? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1576526",
+      "league": "Segunda Liga",
+      "matchup": "Felgueiras 1932 vs Leixoes",
+      "matchTime": "2026-11-07 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Felgueiras 1932 are projected to leverage their 75% home unbeaten record to hold or overcome a struggling Leixões outfit.",
+    "possibilityAssessment": [
+      "Home Win / Draw provides resilient double chance coverage across the primary 1:1 and 2:1 scripts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with the statistical 54.4% probability and conservative lower-table game states (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 1:1 captures the modal distribution point between two sides averaging around 1.05 goals per match (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576526",
+      "league": "Segunda Liga",
+      "homeTeam": "Felgueiras 1932",
+      "awayTeam": "Leixoes",
+      "match_time": "11:00",
+      "match_highlight": "Felgueiras aims to exploit Leixões' fragile defense to climb from danger.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576526,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1:1 draw and the 2:1 home victory against an away side on a four-game losing run."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by combined goal expectancy of 2.50 and cautious lower-table tactical approaches."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Reflects the natural convergence between Felgueiras' home stability and Leixões' road vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "The two highest probability goal bands representing 25.7% and 21.4% model densities respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anticipates an evenly contested first half with Felgueiras holding or pushing ahead in the second 45 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-06 23:04:21 UTC"
+}
