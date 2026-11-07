@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555424,
+    "matchup": "FC Vaduz vs FC Sion",
+    "home_team": "FC Vaduz",
+    "away_team": "FC Sion",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-07 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-fc-vaduz-vs-fc-sion/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Vaduz vs FC Sion Prediction & Match Analysis: Midfield Injury Crisis Tests Rheinpark Resilience — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1555424",
+      "league": "Super League",
+      "matchup": "FC Vaduz vs FC Sion",
+      "matchTime": "2026-11-07 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Sion to preserve their upper-table advantage through Draw / Away Win in a high-tempo, goal-rich fixture.",
+    "possibilityAssessment": [
+      "FC Sion execute clinical transition breaks to secure a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "High-scoring 2:2 deadlock driven by Vaduz's potent home attacking volume (Confidence: Moderate, Value: Moderate)",
+      "Contingency HT/FT reversal where Vaduz lead early before succumbing 1:3 (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555424",
+      "league": "Super League",
+      "homeTeam": "FC Vaduz",
+      "awayTeam": "FC Sion",
+      "match_time": "17:00",
+      "match_highlight": "Sion's transition attack tests Vaduz's depleted midfield spine at Rheinpark",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555424,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sion's fundamental class advantage alongside the plausible high-scoring draw driven by Vaduz's 2.0 goals-per-match home offense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Underpinned by aggregate 3.78 lambda goal expectancy and Vaduz's 100% scoring rate alongside 2.08 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Primary 1:2 scoreline captures Sion's transition edge, while secondary 2:2 accounts for Vaduz's prolific home firepower."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Combines the two highest Poisson density bands at 20.5% and 19.4% probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Vaduz's 60% home half-time draw rate transitioning into Sion's second-half scoring acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:09:14 UTC"
+}
