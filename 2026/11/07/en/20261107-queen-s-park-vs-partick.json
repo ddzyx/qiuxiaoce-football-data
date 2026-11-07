@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556894,
+    "matchup": "Queen's Park vs Partick",
+    "home_team": "Queen's Park",
+    "away_team": "Partick",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-queen-s-park-vs-partick/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Queen's Park vs Partick Thistle Prediction & Match Analysis: Defensive Asymmetry & Scoreline Preview",
+    "meta": {
+      "matchId": "1556894",
+      "league": "Championship",
+      "matchup": "Queen's Park vs Partick",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Partick Thistle's league-leading defensive solidity and dominant first-half control should decisively overcome bottom-placed Queen's Park in a low-scoring encounter.",
+    "possibilityAssessment": [
+      "Away Win for Partick Thistle capitalizing on Queen's Park's defensive frailty (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting Partick's tight away management and Queen's Park's scoring drought (Confidence: Moderate, Value: Moderate)",
+      "Partick leading at half-time and holding full-time control via Loss-Loss (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556894",
+      "league": "Championship",
+      "homeTeam": "Queen's Park",
+      "awayTeam": "Partick",
+      "match_time": "15:00",
+      "match_highlight": "League leaders Partick target tenth-placed Queen's Park's porous defensive line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556894,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Partick Thistle's league-leading defense (7 conceded in 13) meets Queen's Park's toothless attack (failed to score in 8 of 13)."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.08 and Partick's narrow away win margins strongly support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "Partick's historical 1-goal away winning margin makes 0:1 the primary convergence, backed by a 0:2 transition branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson probabilities concentrate at 2 Goals (27.0%) and 1 Goal (26.0%) in a controlled derby."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Partick has not trailed at half-time all season, while Queen's Park has trailed at half-time in 8 of 13 matches."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:17:04 UTC"
+}
