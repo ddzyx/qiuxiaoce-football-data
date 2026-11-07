@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556140,
+    "matchup": "Vissel Kobe vs Urawa",
+    "home_team": "Vissel Kobe",
+    "away_team": "Urawa",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-08 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-vissel-kobe-vs-urawa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Vissel Kobe vs Urawa Red Diamonds: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1556140",
+      "league": "J1 League",
+      "matchup": "Vissel Kobe vs Urawa",
+      "matchTime": "2026-11-08 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vissel Kobe to capitalize on Urawa's defensive fragility and secure a regulation home victory.",
+    "possibilityAssessment": [
+      "Vissel Kobe secure a hard-fought 2:1 home victory driven by second-half tactical dominance (Confidence: Moderate, Value: High)",
+      "Vissel Kobe maintain defensive control to register a 2:0 shutout against Urawa's transitions (Confidence: Moderate, Value: Moderate)",
+      "High match tempo pushes total goals Over 2.5 as Urawa's defense concedes multiple times (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556140",
+      "league": "J1 League",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Urawa",
+      "match_time": "05:00",
+      "match_highlight": "Unbeaten Kobe host Urawa's fragile defense in a pivotal J1 League clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556140,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Vissel Kobe's undefeated home record and defensive stability contrast sharply with Urawa's 2.10 conceded goals per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.10 and Urawa's porous backline strongly favor an open, multi-goal affair."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 Kobe victory reflects expected attacking output, with a 2:0 shutout serving as the primary structural alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary mathematical convergence, supported by two goals as the low-variance secondary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Kobe's 83.3% home half-time draw rate points to a level opening before second-half superiority seals the win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 17:05:21 UTC"
+}
