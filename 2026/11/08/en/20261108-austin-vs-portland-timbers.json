@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490611,
+    "matchup": "Austin vs Portland Timbers",
+    "home_team": "Austin",
+    "away_team": "Portland Timbers",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-08 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-austin-vs-portland-timbers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Austin FC vs Portland Timbers Prediction: Can Evander Exploit xGA Void? — Scoreline & AI Preview",
+    "meta": {
+      "matchId": "1490611",
+      "league": "Major League Soccer",
+      "matchup": "Austin vs Portland Timbers",
+      "matchTime": "2026-11-08 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Portland Timbers to avoid defeat in an open Decision Day clash, capitalizing on Austin's fragile defense while respecting home draw density.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance supported by Portland's urgent playoff stakes and Austin's 2.09 xGA per match (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on Portland's 100% away concession rate and Austin's consistent home scoring (Confidence: Moderate, Value: High)",
+      "1:2 Primary Scoreline reflecting a hard-fought second-half breakthrough by the visiting Timbers (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490611",
+      "league": "Major League Soccer",
+      "homeTeam": "Austin",
+      "awayTeam": "Portland Timbers",
+      "match_time": "00:00",
+      "match_highlight": "Evander's creative incision tests Austin's league-worst 2.09 xGA defensive baseline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490611,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Portland's high-motivation winning script while protecting against Austin's established 66.7% home unbeaten resilience"
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson simulations yield 61.7% Over 2.5 expectation against a combined 3.18 goal expectancy"
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 road win captures Portland's attacking edge; secondary 1:1 reflects Austin's home draw density"
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects full open play realization; two goals covers a tighter 1:1 stalemate"
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Austin's strong 53.3% home first-half draw rate leads into Portland's decisive second-half push"
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 12:07:13 UTC"
+}
