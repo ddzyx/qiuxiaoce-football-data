@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553224,
+    "matchup": "Slask Wroclaw vs Piast Gliwice",
+    "home_team": "Slask Wroclaw",
+    "away_team": "Piast Gliwice",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-07 13:45:00",
+    "source_url": "https://xgmind.com/matches/20261107-slask-wroclaw-vs-piast-gliwice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Slask Wroclaw vs Piast Gliwice Prediction: Caretaker Reset vs Fragile Defenses — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1553224",
+      "league": "Ekstraklasa",
+      "matchup": "Slask Wroclaw vs Piast Gliwice",
+      "matchTime": "2026-11-07 13:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Piast Gliwice are projected to avoid defeat via a Draw or Away Win against defensively fragile Śląsk Wrocław.",
+    "possibilityAssessment": [
+      "Draw / Away Win as Piast's transition attack punishes Śląsk's defensive lapses (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals driven by combined xGA exceeding 4.15 and backup goalkeeping vulnerabilities (Confidence: Moderate, Value: High)",
+      "Correct Score 1:1 if Śląsk's interim managerial reset tightens defensive compactness (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553224",
+      "league": "Ekstraklasa",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Piast Gliwice",
+      "match_time": "13:45",
+      "match_highlight": "Caretaker reset faces lethal Piast counter-attack at Tarczyński Arena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553224,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Piast's offensive efficiency and Śląsk's 2.08 xGA concession rate favour the visitors, with the home draw covered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides concede in excess of 1.50 goals per match with high combined underlying xGA."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory leads the model distribution, followed by a competitive 1:1 score draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "High combined scoring expectancy anchors the outcome between 2 and 3 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Piast's tendency for level first halves away from home precedes decisive second-half scoring."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 01:49:48 UTC"
+}
