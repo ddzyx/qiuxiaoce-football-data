@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493234,
+    "matchup": "Gimnasia de Mendoza vs Independ. Rivadavia",
+    "home_team": "Gimnasia de Mendoza",
+    "away_team": "Independ. Rivadavia",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-07 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-gimnasia-de-mendoza-vs-independ-rivadavia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimnasia de Mendoza vs Independ. Rivadavia Prediction: Derby Battle for Playoffs — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1493234",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Gimnasia de Mendoza vs Independ. Rivadavia",
+      "matchTime": "2026-11-07 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as the primary match trajectory, anchored by a 1:1 scoreline in a high-stakes playoff derby.",
+    "possibilityAssessment": [
+      "Mutually cautious tactical stalemate resulting in playoff qualification (Confidence: High, Value: High)",
+      "Independiente Rivadavia transition breakthrough exploiting depleted home backline (Confidence: Moderate, Value: Moderate)",
+      "Early Gimnasia home pressing goal countered by second-half away response (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493234",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Gimnasia de Mendoza",
+      "awayTeam": "Independ. Rivadavia",
+      "match_time": "18:00",
+      "match_highlight": "Clásico Mendocino decider with direct playoff qualification at stake.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493234,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the mutually protective draw scenario while accounting for Independiente Rivadavia's superior attacking firepower against a depleted host defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derby tension, elimination jeopardy, and high foul frequency favor a controlled, low-scoring tactical contest."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 draw represents the primary game-state convergence, with 1:2 covering an away counter-attacking breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the peak probability density, with three goals accommodating an open late-game scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Reflects a tight, cagey opening half followed by either shared points or a late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 06:05:13 UTC"
+}
