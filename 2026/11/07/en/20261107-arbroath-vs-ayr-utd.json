@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556891,
+    "matchup": "Arbroath vs Ayr Utd",
+    "home_team": "Arbroath",
+    "away_team": "Ayr Utd",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-arbroath-vs-ayr-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arbroath vs Ayr Utd Prediction & Match Analysis: Red Lichties Slump vs Honest Men Form — Scoreline Preview",
+    "meta": {
+      "matchId": "1556891",
+      "league": "Championship",
+      "matchup": "Arbroath vs Ayr Utd",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ayr United's superior form and nine-match unbeaten head-to-head dominance make Draw / Away Win with Under 2.5 goals the primary thesis.",
+    "possibilityAssessment": [
+      "Ayr United secure a narrow 0:1 away victory by exploiting Arbroath's second-half defensive fatigue (Confidence: Moderate, Value: Moderate)",
+      "Gayfield coastal conditions and Arbroath's low block force a gritty 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "A defensive masterclass from the hosts produces a low-event 0:0 deadlock (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556891",
+      "league": "Championship",
+      "homeTeam": "Arbroath",
+      "awayTeam": "Ayr Utd",
+      "match_time": "15:00",
+      "match_highlight": "Ayr target third straight win against struggling Arbroath at blustery Gayfield",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556891,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Ayr United's superior form and nine-match unbeaten head-to-head edge lead the assessment, while Gayfield's defensive environment supports covering the low-scoring draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.24 alongside Arbroath's 61.5% failed-to-score rate heavily favours a low-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Ayr United's narrow tactical edge and Gayfield Park's historical propensity for low-scoring 1:1 stalemates."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A tight defensive contest where two goals or a single solitary strike represent over 50% of model density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Arbroath's 50% home halftime draw rate points to a level opening 45 minutes before Ayr's second-half edge surfaces."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:08:55 UTC"
+}
