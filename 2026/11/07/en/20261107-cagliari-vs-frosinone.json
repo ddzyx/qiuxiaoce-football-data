@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550188,
+    "matchup": "Cagliari vs Frosinone",
+    "home_team": "Cagliari",
+    "away_team": "Frosinone",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-07 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-cagliari-vs-frosinone/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cagliari vs Frosinone Prediction & Match Analysis: Defensive Crisis vs Aerial Blitz — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1550188",
+      "league": "Serie A",
+      "matchup": "Cagliari vs Frosinone",
+      "matchTime": "2026-11-07 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Frosinone's dynamic attack should exploit Cagliari's depleted left flank, making Draw / Away Win the premier risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Frosinone secure a hard-fought 1:2 away victory exploiting wide defensive fractures (Confidence: Moderate, Value: High)",
+      "Cagliari execute a low-block containment strategy to grind out a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High attacking volume drives the contest over 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550188",
+      "league": "Serie A",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Frosinone",
+      "match_time": "14:00",
+      "match_highlight": "Frosinone's 24-goal attack targets Cagliari's depleted left defensive flank.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550188,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Frosinone's superior attacking momentum (1:2 away win) while hedging against Cagliari's desperate low-block survival effort (1:1 draw)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Underpinned by Frosinone averaging 2.40 goals per game and Cagliari conceding 12 goals in their last four matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 road win represents the primary attacking convergence, with 1:1 reflecting a resolute home stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary 1:2 scenario, with two goals capturing the 1:1 or 0:2 defensive branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures a tight first half broken by Frosinone's late bench quality, while Loss-Loss accounts for early flank dominance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:05:29 UTC"
+}
