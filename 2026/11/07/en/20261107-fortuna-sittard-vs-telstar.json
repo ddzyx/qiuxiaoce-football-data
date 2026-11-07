@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552217,
+    "matchup": "Fortuna Sittard vs Telstar",
+    "home_team": "Fortuna Sittard",
+    "away_team": "Telstar",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-07 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-fortuna-sittard-vs-telstar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fortuna Sittard vs Telstar Prediction & Match Analysis: Can Buijs' Low-Block Punish Depleted Visitors? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552217",
+      "league": "Eredivisie",
+      "matchup": "Fortuna Sittard vs Telstar",
+      "matchTime": "2026-11-07 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fortuna Sittard to avoid defeat against an injury-depleted Telstar side, with a 2:1 home victory serving as the primary script alongside a 1:1 draw hedge.",
+    "possibilityAssessment": [
+      "Fortuna Sittard transitional efficiency punishes Telstar high line (Confidence: Moderate, Value: High)",
+      "Open match state producing Over 2.5 goals (Confidence: Moderate, Value: Moderate)",
+      "Fortuna share spoils in 1:1 stalemate due to defensive concessions (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552217",
+      "league": "Eredivisie",
+      "homeTeam": "Fortuna Sittard",
+      "awayTeam": "Telstar",
+      "match_time": "15:30",
+      "match_highlight": "Buijs' resilient low-block confronts Telstar's depleted attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552217,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Fortuna's full squad health and transition threat lead the home win script, while four draws in five outings necessitate draw inclusion."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Telstar concede 2.1 goals per match while Fortuna average 1.6 goals for and against."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects clinical counter-punching; 1:1 hedges Fortuna's chronic draw habit."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the highest Poisson probability peak at 22%, followed closely by two goals at 19.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Fortuna's 54.5% first-half draw rate supports level intervals before second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 04:17:37 UTC"
+}
