@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520969,
+    "matchup": "Vila Nova vs Criciuma",
+    "home_team": "Vila Nova",
+    "away_team": "Criciuma",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-07 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-vila-nova-vs-criciuma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vila Nova vs Criciuma Prediction & Match Analysis: Can OBA Fortress Break Louzer's Low Block? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1520969",
+      "league": "Serie B",
+      "matchup": "Vila Nova vs Criciuma",
+      "matchTime": "2026-11-07 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vila Nova to maintain their dominant home unbeaten record against Criciúma's low block in a tense, low-scoring promotion encounter (Home Win / Draw).",
+    "possibilityAssessment": [
+      "Vila Nova 1:0 victory via second-half wide overload (Confidence: Moderate, Value: High)",
+      "1:1 stalemate driven by Criciúma set-piece resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals reflecting collective defensive discipline (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520969",
+      "league": "Serie B",
+      "homeTeam": "Vila Nova",
+      "awayTeam": "Criciuma",
+      "match_time": "23:00",
+      "match_highlight": "Penultimate round promotion showdown as Vila Nova defends OBA fortress against Criciúma",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520969,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Vila Nova's 90% home unbeaten record while hedging against their recent late defensive lapses against Criciúma's compact structure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goals of 2.20 and Criciúma's 17 clean sheets heavily support a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A narrow 1:0 Vila Nova triumph or a 1:1 stalemate represent the natural convergence of both teams' xG metrics."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal Poisson density (26.8%), followed closely by a single-goal outcome (24.5%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half followed by Vila Nova's second-half push or a persistent 90-minute defensive stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 11:11:32 UTC"
+}
