@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490614,
+    "matchup": "Houston Dynamo vs St. Louis City",
+    "home_team": "Houston Dynamo",
+    "away_team": "St. Louis City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-08 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-houston-dynamo-vs-st-louis-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Houston Dynamo vs St. Louis City Prediction & Match Analysis: Playoff Seeding Battle — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1490614",
+      "league": "Major League Soccer",
+      "matchup": "Houston Dynamo vs St. Louis City",
+      "matchTime": "2026-11-08 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Houston Dynamo are well-positioned to capitalize on St. Louis City's defensive collapse and road regression to secure a home win or draw on Decision Day.",
+    "possibilityAssessment": [
+      "Houston Dynamo exploit St. Louis's defensive fragility to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Decision Day caution and Houston's finishing limits produce a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High transition pace and defensive lapses push the match Over 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490614",
+      "league": "Major League Soccer",
+      "homeTeam": "Houston Dynamo",
+      "awayTeam": "St. Louis City",
+      "match_time": "00:00",
+      "match_highlight": "Decision Day battle for fourth seed and home-field playoff advantage",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490614,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 Houston victory and the 1:1 stalemate contingency where St. Louis protect their goal-differential tiebreaker."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by St. Louis conceding ten goals in their last four matches and an expected cumulative lambda of 2.95."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline reflects Houston's home dominance over St. Louis's leaky defense, with 1:1 as the tactical hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of attacking tempo, while two goals reflects a cagey playoff scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Houston score 61.1% of their home goals in the second half, while St. Louis never win away after a level halftime."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 12:12:57 UTC"
+}
