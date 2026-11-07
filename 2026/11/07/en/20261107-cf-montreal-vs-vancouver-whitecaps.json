@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490604,
+    "matchup": "CF Montreal vs Vancouver Whitecaps",
+    "home_team": "CF Montreal",
+    "away_team": "Vancouver Whitecaps",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-07 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-cf-montreal-vs-vancouver-whitecaps/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling CF Montreal vs Vancouver Whitecaps: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490604",
+      "league": "Major League Soccer",
+      "matchup": "CF Montreal vs Vancouver Whitecaps",
+      "matchTime": "2026-11-07 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vancouver Whitecaps' league-leading 70.3 xG attacking efficiency will overpower CF Montreal's depleted defense in a high-tempo away victory.",
+    "possibilityAssessment": [
+      "Vancouver Whitecaps capitalize on transitional spacing against Montreal's leaky backline to secure a decisive road win (Confidence: Moderate, Value: Moderate)",
+      "Match total stretches Over 2.5 goals as Vancouver's finishing quality exploits Montreal's 2.0 conceded goals per match (Confidence: High, Value: Moderate)",
+      "CF Montreal holds a compact mid-block early before second-half fatigue and personnel limitations trigger concession (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490604",
+      "league": "Major League Soccer",
+      "homeTeam": "CF Montreal",
+      "awayTeam": "Vancouver Whitecaps",
+      "match_time": "21:00",
+      "match_highlight": "Western leaders Vancouver challenge Montreal's leaky defense at Stade Saputo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490604,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Vancouver's superior offensive output (2.13 xG/game) decisively exploits Montreal's porous backline conceding 2.0 goals per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined expected goal baseline of 3.12 goals and Montreal's defensive fragility favor an open contest exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away triumph reflects Vancouver's chance conversion and Montreal's persistent defensive errors."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence of Vancouver's offensive surge and Montreal's transitional vulnerabilities."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Montreal's home first-half resilience gives way to Vancouver's superior second-half attacking adjustments."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 09:08:11 UTC"
+}
