@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570446,
+    "matchup": "Espanyol vs Deportivo La Coruna",
+    "home_team": "Espanyol",
+    "away_team": "Deportivo La Coruna",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-07 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261107-espanyol-vs-deportivo-la-coruna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Espanyol vs Deportivo La Coruna Prediction: Aubameyang Threat & Low-Block Clash — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1570446",
+      "league": "La Liga",
+      "matchup": "Espanyol vs Deportivo La Coruna",
+      "matchTime": "2026-11-07 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo La Coruna's elite defensive stability and transitional efficiency through Aubameyang favor the visitors avoiding defeat in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Deportivo avoid defeat via Draw / Away Win double chance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals based on low combined xG output (Confidence: Moderate, Value: Moderate)",
+      "Primary 1:1 Scoreline reflects tactical parity and high draw density (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570446",
+      "league": "La Liga",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Deportivo La Coruna",
+      "match_time": "15:15",
+      "match_highlight": "Deportivo's low block challenges Espanyol's possession control at RCDE Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570446,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Deportivo's 72.7% unbeaten rate and superior defensive structure make the draw and away win the primary supported scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Suppressed combined xG outputs and Deportivo's elite defensive metrics point directly to a low-scoring match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate captures the modal scoreline, while 0:1 covers Deportivo's late transition breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represent the primary convergence point, with a single-goal contest as the main low-risk alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A high half-time draw frequency sets up either full-time parity or a late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 04:15:07 UTC"
+}
