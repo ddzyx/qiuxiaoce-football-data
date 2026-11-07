@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494336,
+    "matchup": "Orgryte IS vs Vasteras SK FK",
+    "home_team": "Orgryte IS",
+    "away_team": "Vasteras SK FK",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-07 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-orgryte-is-vs-vasteras-sk-fk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Orgryte IS vs Vasteras SK FK: Expected Goals, Relegation Stakes & Tactical Breakdown",
+    "meta": {
+      "matchId": "1494336",
+      "league": "Allsvenskan",
+      "matchup": "Orgryte IS vs Vasteras SK FK",
+      "matchTime": "2026-11-07 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Västerås SK's transition sharpness and defensive solidity favor an away victory (1:2), while Örgryte's home draw grit justifies retaining the 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Västerås SK FK transition victory exploiting Örgryte defensive overcommitment (Confidence: Moderate, Value: Moderate)",
+      "High-friction Gamla Ullevi stalemate where Örgryte grinds out a survival point (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by Örgryte's season-long 2.08 xGA concession rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494336",
+      "league": "Allsvenskan",
+      "homeTeam": "Orgryte IS",
+      "awayTeam": "Vasteras SK FK",
+      "match_time": "16:30",
+      "match_highlight": "Relegation desperation meets road counter-attacking efficiency at Gamla Ullevi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494336,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Västerås SK's superior defensive structure makes an away win the primary script (1:2), but Örgryte's 50% home draw rate warrants retaining the 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Örgryte's porous defensive average of 2.08 xGA per match pushes combined scoring density over the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away triumph reflects Västerås transition edge, while 1:1 covers Örgryte's established home resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal total serves as the natural convergence point, with 2 goals capturing the low-block stalemate scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Örgryte frequently holds level at halftime at home before second-half fatigue favors Västerås's bench and transition pace."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 04:36:07 UTC"
+}
