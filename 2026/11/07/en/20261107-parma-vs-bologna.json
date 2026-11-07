@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550194,
+    "matchup": "Parma vs Bologna",
+    "home_team": "Parma",
+    "away_team": "Bologna",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-07 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-parma-vs-bologna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Parma vs Bologna Prediction & Match Analysis: Can Resurgent Rossoblu Overcome Tardini Trap? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550194",
+      "league": "Serie A",
+      "matchup": "Parma vs Bologna",
+      "matchTime": "2026-11-07 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bologna to capitalize on superior attacking metrics and Parma's midfield absences to secure an away victory.",
+    "possibilityAssessment": [
+      "Bologna control possession and outscore Parma in an open second half (Confidence: Moderate, Value: High)",
+      "Bologna register a controlled clean sheet victory as Parma struggle for central progression (Confidence: Moderate, Value: Moderate)",
+      "Parma frustrate the visitors with a low block to snatch a low-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550194",
+      "league": "Serie A",
+      "homeTeam": "Parma",
+      "awayTeam": "Bologna",
+      "match_time": "17:00",
+      "match_highlight": "Bologna wide overloads test Parma defense stripped of playmaker Bernabe",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550194,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Bologna possess commanding advantages in chance creation (1.47 xG vs 0.78 xG) and road scoring form."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Bologna have conceded in 90% of fixtures while Parma leak 1.79 xGA per match, favoring an open 3-goal script."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A competitive 1:2 away win leads the matrix, with a 0:2 shutout providing the primary defensive alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Expected goal density clusters heavily around 3 goals in an active match, with 2 goals as the tighter secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Parma's early compactness points to a level opening half before Bologna's depth prevails after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:06:40 UTC"
+}
