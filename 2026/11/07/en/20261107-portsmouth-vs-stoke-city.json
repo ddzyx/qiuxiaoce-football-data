@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563257,
+    "matchup": "Portsmouth vs Stoke City",
+    "home_team": "Portsmouth",
+    "away_team": "Stoke City",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-07 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-portsmouth-vs-stoke-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portsmouth vs Stoke City Prediction & Match Analysis: Can Pompey Halt Potters' Away Form? — xG Preview",
+    "meta": {
+      "matchId": "1563257",
+      "league": "Championship",
+      "matchup": "Portsmouth vs Stoke City",
+      "matchTime": "2026-11-07 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Portsmouth to leverage Fratton Park momentum and underlying process metrics to avoid defeat against Stoke City.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance supported by Portsmouth's 71.4% home unbeaten rate and superior net xGD (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals anchored by a 25.4% density on exactly 2 goals in a disciplined lunchtime clash (Confidence: Moderate, Value: Moderate)",
+      "1:1 correct scoreline representing the primary statistical convergence between Stoke's early threat and Pompey's late push (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563257",
+      "league": "Championship",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Stoke City",
+      "match_time": "12:30",
+      "match_highlight": "Fratton Park momentum collides with Potters' four-match away winning streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563257,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Portsmouth's home process stability and Stoke's 1.54 road xGA make a home win or shared points the most probable game script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model goal expectancy clusters 53.3% of probability below 2.5 goals in a tactical lunchtime duel."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate serves as the primary convergence point, with 2:1 capturing Portsmouth's late Fratton Park surge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact totals of 2 and 3 goals command nearly 47% of aggregate model expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A level opening half reflects early tactical caution before second-half attrition decides the final margin."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 00:37:46 UTC"
+}
