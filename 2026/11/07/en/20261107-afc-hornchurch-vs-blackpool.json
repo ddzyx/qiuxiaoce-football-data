@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646804,
+    "matchup": "AFC Hornchurch vs Blackpool",
+    "home_team": "AFC Hornchurch",
+    "away_team": "Blackpool",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-afc-hornchurch-vs-blackpool/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AFC Hornchurch vs Blackpool Prediction: Can Urchins Exploit Seasiders' Injury Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1646804",
+      "league": "FA Cup",
+      "matchup": "AFC Hornchurch vs Blackpool",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Blackpool possess the offensive pedigree to progress, but their decimated backline makes a regulation draw a live risk against Hornchurch.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance captures Blackpool's attacking edge while insulating against defensive lapses (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals aligns with Blackpool's chronic defensive concessions and Hornchurch's home scoring form (Confidence: Moderate, Value: Moderate)",
+      "AFC Hornchurch 1:1 regulation stalemate serves as the prime defensive hedge against Seasiders' backline instability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646804",
+      "league": "FA Cup",
+      "homeTeam": "AFC Hornchurch",
+      "awayTeam": "Blackpool",
+      "match_time": "15:00",
+      "match_highlight": "Hornchurch test decimated Blackpool defence in FA Cup clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646804,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Blackpool's attacking pedigree is favored over 90 minutes, but their severe defensive injuries make covering the regulation draw essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Blackpool have kept only one clean sheet in 12 matches while Hornchurch have scored in seven consecutive home games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A competitive 1:2 Blackpool win leads the matrix, with a 1:1 stalemate acting as the primary game-state deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of two vulnerable backlines, followed closely by a tighter two-goal script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half is anticipated before Blackpool's superior depth impacts the second half, with Draw-Draw the core hedge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:49:18 UTC"
+}
