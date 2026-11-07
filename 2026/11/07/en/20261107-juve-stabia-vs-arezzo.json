@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601598,
+    "matchup": "Juve Stabia vs Arezzo",
+    "home_team": "Juve Stabia",
+    "away_team": "Arezzo",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-07 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-juve-stabia-vs-arezzo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Juve Stabia vs Arezzo Prediction & Match Analysis: Can Di Nardo Exploit Tuscan Defensive Fractures? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601598",
+      "league": "Serie B",
+      "matchup": "Juve Stabia vs Arezzo",
+      "matchTime": "2026-11-07 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juve Stabia's territorial control and Di Nardo's clinical form should secure points against a depleted Arezzo defense.",
+    "possibilityAssessment": [
+      "Juve Stabia break through a depleted Tuscan rearguard to claim a controlled 1:0 victory (Confidence: Moderate, Value: High)",
+      "Arezzo absorb sustained pressure and snatch a 1:1 stalemate via set-piece opportunism (Confidence: Moderate, Value: Moderate)",
+      "Total goals remain heavily suppressed below 2.5 in a classic Italian tactical grind (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601598",
+      "league": "Serie B",
+      "homeTeam": "Juve Stabia",
+      "awayTeam": "Arezzo",
+      "match_time": "14:00",
+      "match_highlight": "Di Nardo tests depleted Arezzo defense at Stadio Romeo Menti",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601598,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Juve Stabia hold clear territorial superiority, but high draw tendency warrants double chance coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Compressed scoring expectancies and Arezzo's deep block heavily favor Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home win is the leading convergence point, with 1:1 covering the primary draw risk."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution concentrates 58.6% probability within the 1-2 goal band."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Arezzo have never led at half-time, making a level opening 45 minutes overwhelmingly probable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:14:40 UTC"
+}
