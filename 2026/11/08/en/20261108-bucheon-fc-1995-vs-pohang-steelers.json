@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647395,
+    "matchup": "Bucheon FC 1995 vs Pohang Steelers",
+    "home_team": "Bucheon FC 1995",
+    "away_team": "Pohang Steelers",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-08 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-bucheon-fc-1995-vs-pohang-steelers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bucheon FC 1995 vs Pohang Steelers Prediction: Relegation Clash & Fatigue Dilemma — Scoreline Preview",
+    "meta": {
+      "matchId": "1647395",
+      "league": "K League 1",
+      "matchup": "Bucheon FC 1995 vs Pohang Steelers",
+      "matchTime": "2026-11-08 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pohang's individual class is offset by continental fatigue and Bucheon's head-to-head dominance, making Draw / Away Win the definitive projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win represents the primary risk-adjusted outcome (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals reflects low seasonal scoring rates and tight relegation stakes (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate serves as the modal convergence point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647395",
+      "league": "K League 1",
+      "homeTeam": "Bucheon FC 1995",
+      "awayTeam": "Pohang Steelers",
+      "match_time": "07:30",
+      "match_highlight": "Fatigued Pohang face bogey team Bucheon in tense relegation group clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647395,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate driven by Pohang's schedule fatigue and the 1:2 late decider driven by their superior bench quality."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average exactly 1.00 goal per game in league play, and Pohang have failed to score against Bucheon in three meetings this season."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Reflects Bucheon's ability to score on transition balanced against their chronic inability to maintain clean sheets."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution and matchup metrics concentrate heavily across the 2 and 3 goal spectrum."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, conservative first half gives way either to a persistent second-half deadlock or a late Pohang winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 19:44:40 UTC"
+}
