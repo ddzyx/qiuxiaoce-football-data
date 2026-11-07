@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563255,
+    "matchup": "Charlton vs Sheffield Utd",
+    "home_team": "Charlton",
+    "away_team": "Sheffield Utd",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-charlton-vs-sheffield-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Charlton vs Sheffield Utd Prediction: Will Blades Exploit Valley Slump? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563255",
+      "league": "Championship",
+      "matchup": "Charlton vs Sheffield Utd",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sheffield United to secure a disciplined away victory, capitalizing on Charlton's acute goalscoring drought and four-match losing streak.",
+    "possibilityAssessment": [
+      "Away Win — Chris Wilder's well-drilled side exploits Charlton's defensive transition fragilities to claim a narrow away win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Charlton's 42.9% failure-to-score rate combined with Sheffield United's compact away structure limits total goal expectancy (Confidence: High, Value: Moderate)",
+      "Draw / Away Win — Charlton's historical stubbornness at The Valley provides an outside avenue to absorb pressure and snatch a low-scoring draw (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563255",
+      "league": "Championship",
+      "homeTeam": "Charlton",
+      "awayTeam": "Sheffield Utd",
+      "match_time": "15:00",
+      "match_highlight": "Blades seek third consecutive away win against reeling Addicks",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563255,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Sheffield United's superior territorial control and Charlton's four-match losing slump point decisively toward an away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Charlton have failed to score in 42.9% of fixtures, keeping the match tempo heavily constrained."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A compact 0:1 breakthrough represents the primary path, backed by a secondary 0:2 cushion."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A low-scoring baseline of 1 to 2 goals reflects Charlton's blunt frontline and Sheffield United's organized backline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A level opening half preceding a Sheffield United second-half winner represents the leading game script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:24:02 UTC"
+}
