@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557463,
+    "matchup": "Leeds vs Tottenham",
+    "home_team": "Leeds",
+    "away_team": "Tottenham",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-07 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-leeds-vs-tottenham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leeds vs Tottenham Prediction & Match Analysis: Can Depleted Spurs Breach Elland Road Fortress? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557463",
+      "league": "Premier League",
+      "matchup": "Leeds vs Tottenham",
+      "matchTime": "2026-11-07 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Leeds' undefeated home fortress and Tottenham's winger absences point toward a tight 1:1 stalemate or narrow away victory.",
+    "possibilityAssessment": [
+      "Tactical stalemate ends in 1:1 draw as Leeds' compact block resists depleted Spurs (Confidence: Moderate, Value: High)",
+      "Tottenham's midfield quality edges a narrow 1:2 road victory via late substitution impact (Confidence: Moderate, Value: Moderate)",
+      "Leeds hold firm in a scoreless 0:0 first-half before second-half attrition decides the points (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557463",
+      "league": "Premier League",
+      "homeTeam": "Leeds",
+      "awayTeam": "Tottenham",
+      "match_time": "12:30",
+      "match_highlight": "Depleted Spurs attack tests Leeds' unblemished Elland Road home fortress.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557463,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and the secondary 1:2 Spurs win where visiting midfield class edges a tight contest."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Leeds concede only 0.90 goals per game and Tottenham miss four wingers, supporting a low total."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the natural tactical convergence point while 1:2 covers Tottenham's late technical edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak model probability distribution followed closely by three."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Tottenham have not led at half-time away this season, pointing to a level opening 45 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 00:34:40 UTC"
+}
