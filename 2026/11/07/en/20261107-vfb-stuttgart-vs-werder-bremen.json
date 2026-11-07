@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575214,
+    "matchup": "VfB Stuttgart vs Werder Bremen",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Werder Bremen",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-07 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-vfb-stuttgart-vs-werder-bremen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VfB Stuttgart vs Werder Bremen Prediction: Can Füllkrug Exploit Swabian Fatigue? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1575214",
+      "league": "Bundesliga",
+      "matchup": "VfB Stuttgart vs Werder Bremen",
+      "matchTime": "2026-11-07 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Werder Bremen to preserve their seven-match unbeaten league run with a Draw / Away Win double chance as Stuttgart battle European fatigue and defensive depletion.",
+    "possibilityAssessment": [
+      "Werder Bremen edge a high-scoring transition contest 1:2 behind Füllkrug's finishing form (Confidence: Moderate, Value: High)",
+      "Stuttgart rally to salvage a 1:1 stalemate via Demirović despite heavy midfield absences (Confidence: Moderate, Value: Moderate)",
+      "Both attacks exploit defensive injuries to produce Over 2.5 total goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575214",
+      "league": "Bundesliga",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Werder Bremen",
+      "match_time": "17:30",
+      "match_highlight": "Füllkrug tests weary Swabian defense at MHPArena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575214,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Bremen's transition edge and a level stalemate as Stuttgart struggle with post-Champions League fatigue."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Elevated combined goal average of 3.85 and severe defensive absences favor multiple goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory leads on Füllkrug's clinical finishing, with 1:1 covering an early Swabian push."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the primary script, with two goals offering resilience if tempo slows."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "First-half parity gives way to Bremen's late counter-punch or a shared second-half stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:38:56 UTC"
+}
