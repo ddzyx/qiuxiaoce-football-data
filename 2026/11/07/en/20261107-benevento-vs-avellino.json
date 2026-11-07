@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601594,
+    "matchup": "Benevento vs Avellino",
+    "home_team": "Benevento",
+    "away_team": "Avellino",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-07 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-benevento-vs-avellino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Benevento vs Avellino Prediction & Match Analysis: Midfield Battle in Derby Campano — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601594",
+      "league": "Serie B",
+      "matchup": "Benevento vs Avellino",
+      "matchTime": "2026-11-07 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Benevento are primed to avoid defeat in a fiercely contested, low-scoring Campania derby at the Ciro Vigorito.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance trajectory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals defensive containment (Confidence: High, Value: Moderate)",
+      "Correct Score 1:0 or 1:1 tight margin script (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601594",
+      "league": "Serie B",
+      "homeTeam": "Benevento",
+      "awayTeam": "Avellino",
+      "match_time": "18:30",
+      "match_highlight": "Derby Campano deadlock points toward a narrow Benevento edge or draw",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601594,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Benevento's strong home record and territorial advantage provide a sturdy base, while Avellino's compact 3-5-2 ensures a stalemate must be covered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs concede exactly 1.00 goal per game and derby tactical tension heavily suppresses high-scoring outcomes."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A solitary home goal via Salvemini or a 1:1 transition equalizer represent the dominant probability peaks."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Strict defensive structures and tactical caution naturally cap the scoring distribution at 1 or 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half is expected before second-half adjustments test Avellino's defensive resolve."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 06:34:59 UTC"
+}
