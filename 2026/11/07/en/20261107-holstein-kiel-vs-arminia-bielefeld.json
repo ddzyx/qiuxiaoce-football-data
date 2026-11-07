@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576228,
+    "matchup": "Holstein Kiel vs Arminia Bielefeld",
+    "home_team": "Holstein Kiel",
+    "away_team": "Arminia Bielefeld",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-07 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-holstein-kiel-vs-arminia-bielefeld/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Holstein Kiel vs Arminia Bielefeld Prediction & Match Analysis: Home Resilience Meets Road Vulnerabilities — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1576228",
+      "league": "2. Bundesliga",
+      "matchup": "Holstein Kiel vs Arminia Bielefeld",
+      "matchTime": "2026-11-07 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Holstein Kiel's unblemished home record (1W-4D-0L) and superior 1.46 xG generation provide a resilient baseline to avoid defeat against travel-sick Arminia Bielefeld.",
+    "possibilityAssessment": [
+      "Holstein Kiel avoid defeat via Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Total Goals Under 2.5 in a tight, structured tactical clash (Confidence: Moderate, Value: Moderate)",
+      "Primary Scoreline 1:1 Stalemate at the Holstein-Stadion (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576228",
+      "league": "2. Bundesliga",
+      "homeTeam": "Holstein Kiel",
+      "awayTeam": "Arminia Bielefeld",
+      "match_time": "12:00",
+      "match_highlight": "Undefeated home hosts meet an Arminia side beaten in 4 of 5 road trips.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576228,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kiel's high home draw frequency (4 in 5) and potential 2:1 breakthrough against a Bielefeld team beaten in 80% of away fixtures."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Kiel concede only 0.80 goals per match at home while Bielefeld's road output remains subdued beneath 1.00 goal per game."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 represents the natural systemic equilibrium, while 2:1 accounts for Kiel's superior territorial and xG generation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary convergence point with three goals covering the secondary decisive home victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Bielefeld's cautious road start points to a level first half, resolving into either a 1:1 draw or late Kiel breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 00:04:02 UTC"
+}
