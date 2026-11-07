@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606753,
+    "matchup": "Tochigi City vs Omiya Ardija",
+    "home_team": "Tochigi City",
+    "away_team": "Omiya Ardija",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-08 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-tochigi-city-vs-omiya-ardija/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tochigi City vs Omiya Ardija Prediction: Attacking Firepower vs Home Resistance — XG Mind AI",
+    "meta": {
+      "matchId": "1606753",
+      "league": "J2 League",
+      "matchup": "Tochigi City vs Omiya Ardija",
+      "matchTime": "2026-11-08 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Omiya Ardija to preserve their promotion push at City Football Station via Draw / Away Win double chance, anchored by a 1:2 primary scoreline.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capturing Omiya's superior transition quality while covering a competitive home stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflecting Tochigi's 100% home scoring record and Omiya's 2.0 goals per game offensive baseline (Confidence: Moderate, Value: High)",
+      "Primary 1:2 away victory scoreline representing the natural convergence of both clubs' underlying performance profiles (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606753",
+      "league": "J2 League",
+      "homeTeam": "Tochigi City",
+      "awayTeam": "Omiya Ardija",
+      "match_time": "05:00",
+      "match_highlight": "Omiya seeks promotion momentum at Tochigi amid Pelach touchline absence",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606753,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Omiya Ardija's 85.7% road unbeaten rate leads the primary 1:2 script, while Tochigi's 100% home scoring record justifies covering the 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.25 and a 64.2% BTTS probability support a three-goal baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 road victory represents the primary convergence point, hedged by a 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The quantitative goal distribution concentrates 42.7% of density across 3 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss captures early away dominance, while Draw-Draw reflects a resilient home defensive block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 17:06:01 UTC"
+}
