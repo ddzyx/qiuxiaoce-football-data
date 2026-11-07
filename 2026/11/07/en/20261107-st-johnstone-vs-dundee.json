@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556703,
+    "matchup": "ST Johnstone vs Dundee",
+    "home_team": "ST Johnstone",
+    "away_team": "Dundee",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-st-johnstone-vs-dundee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St Johnstone vs Dundee Prediction & Match Analysis: Can Dark Blues Exploit Saints' xGA? — Scoreline Preview",
+    "meta": {
+      "matchId": "1556703",
+      "league": "Premiership",
+      "matchup": "ST Johnstone vs Dundee",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dundee possess superior attacking metrics to breach St Johnstone's compromised backline, yet Perth's resilient home record demands covering the stalemate via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Thesis 1: Dundee edge a high-tempo away victory as their frontline exploits St Johnstone's reserve goalkeeping (Confidence: Moderate, Value: High)",
+      "Thesis 2: St Johnstone maintain their McDiarmid Park fortitude to grind out an intense score draw (Confidence: Moderate, Value: Moderate)",
+      "Thesis 3: Defensive vulnerabilities on both sides push total goals into the 2 to 3 goal corridor (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556703",
+      "league": "Premiership",
+      "homeTeam": "ST Johnstone",
+      "awayTeam": "Dundee",
+      "match_time": "15:00",
+      "match_highlight": "Dundee firepower tests 10-man hero Saints missing suspended keeper Steward",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556703,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Dundee carry superior attacking xG, but St Johnstone's 83.3% home unbeaten record makes covering the draw essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined defensive xGA of 3.69 and Dundee's five straight Over 2.5 fixtures support goals at McDiarmid Park."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Dundee victory represents the primary script, with a 1:1 derby stalemate acting as the high-probability alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "The Poisson distribution clusters tightly around 3 and 2 goals, reflecting both teams' porous backlines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a cautious first half before Dundee's bench quality or late pressure tests the hosts in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:10:23 UTC"
+}
