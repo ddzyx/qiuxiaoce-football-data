@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510498,
+    "matchup": "Paju Citizen vs Asan Mugunghwa",
+    "home_team": "Paju Citizen",
+    "away_team": "Asan Mugunghwa",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-08 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-paju-citizen-vs-asan-mugunghwa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Paju Citizen vs Asan Mugunghwa Prediction & Match Analysis: Can Paju's Low Block Halt Asan's Playoff Push? — Scoreline Preview",
+    "meta": {
+      "matchId": "1510498",
+      "league": "K League 2",
+      "matchup": "Paju Citizen vs Asan Mugunghwa",
+      "matchTime": "2026-11-08 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Asan Mugunghwa hold superior form and offensive cohesion, but their 21.4% away win rate necessitates protecting against a low-block stalemate via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Asan Mugunghwa breaks down Paju's low block in the second half for a narrow victory (Confidence: Moderate, Value: Moderate)",
+      "Paju Citizen's five-man backline holds firm for a low-scoring 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Paju exploits a transitional set piece to snatch an unexpected home clean sheet (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510498",
+      "league": "K League 2",
+      "homeTeam": "Paju Citizen",
+      "awayTeam": "Asan Mugunghwa",
+      "match_time": "07:30",
+      "match_highlight": "Asan's playoff push meets Paju's stubborn low-block defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510498,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Asan's narrow edge while accounting for their 21.4% away win rate and Paju's draw frequency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 is supported by a 57.0% cumulative density and Paju's 50% home scoreless rate."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A late 0:1 away breakthrough is the primary track, with a 1:1 stalemate as the core alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the dominant 1-goal and 2-goal Poisson distributions in a low-tempo matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Paju's 64.3% first-half draw rate indicates a level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 19:33:16 UTC"
+}
