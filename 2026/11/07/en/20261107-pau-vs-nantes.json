@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552529,
+    "matchup": "PAU vs Nantes",
+    "home_team": "PAU",
+    "away_team": "Nantes",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-07 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-pau-vs-nantes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pau vs Nantes Prediction & Match Analysis: Can Depleted Canaris Halt Palois Momentum? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552529",
+      "league": "Ligue 2",
+      "matchup": "PAU vs Nantes",
+      "matchTime": "2026-11-07 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pau's superior offensive momentum and Nantes' depleted backline favor the hosts, with a cautious Draw cover addressing defensive concessions.",
+    "possibilityAssessment": [
+      "Pau 1:0 Nantes: Sustained home pressure yields a solitary second-half breakthrough (Confidence: Moderate, Value: High)",
+      "Pau 1:1 Nantes: Visitors absorb pressure and equalize on a transition counter (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals: Disciplined low-block defensive dynamics keep scoring limited (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552529",
+      "league": "Ligue 2",
+      "homeTeam": "PAU",
+      "awayTeam": "Nantes",
+      "match_time": "19:00",
+      "match_highlight": "Pau eye sixth straight win against depleted Nantes backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552529,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Pau's dominant second-half breakthrough and a low-event defensive stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Nantes away goal scarcity and compact low blocks cap overall match scoring below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the convergence of a 1-0 home victory or a 1-1 attrition draw."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson peak density at 1 goal (30.0%) and 2 goals (26.7%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Nantes' 80% away HT draw rate points directly toward level opening periods."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 07:06:33 UTC"
+}
