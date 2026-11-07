@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490602,
+    "matchup": "Philadelphia Union vs Toronto FC",
+    "home_team": "Philadelphia Union",
+    "away_team": "Toronto FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-07 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-philadelphia-union-vs-toronto-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Philadelphia Union vs Toronto FC Prediction: Defense Without Zimmerman Meets High xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1490602",
+      "league": "Major League Soccer",
+      "matchup": "Philadelphia Union vs Toronto FC",
+      "matchTime": "2026-11-07 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Philadelphia Union are projected to secure an outright home victory against an eliminated, rotated Toronto FC missing Walker Zimmerman.",
+    "possibilityAssessment": [
+      "Philadelphia Union win with both teams contributing to a 2:1 scoreline (Confidence: Moderate, Value: High)",
+      "Total match goals exceed 2.5 on high transitional volume (Confidence: Moderate, Value: High)",
+      "Philadelphia Union control game state to record a 2:0 clean sheet win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490602",
+      "league": "Major League Soccer",
+      "homeTeam": "Philadelphia Union",
+      "awayTeam": "Toronto FC",
+      "match_time": "21:00",
+      "match_highlight": "Philadelphia must win on Decision Day to secure direct playoff entry.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490602,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Philadelphia holds critical Decision Day motivation and a +17.4 xG advantage over an eliminated Toronto squad missing Walker Zimmerman."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides combine for over 3.4 total goals per game this season, supported by a 60.4% Over 2.5 Poisson expectancy."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 Philadelphia win represents the natural convergence of home attacking output against Toronto's compromised road defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals forms the modal outcome under Poisson distribution, with two goals offering a defensive control hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Philadelphia is favored to lead early or break through a stubborn first half as Toronto's rotated defense tires."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 09:05:09 UTC"
+}
