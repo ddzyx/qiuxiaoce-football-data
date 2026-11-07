@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556132,
+    "matchup": "JEF United Chiba vs Mito Hollyhock",
+    "home_team": "JEF United Chiba",
+    "away_team": "Mito Hollyhock",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-08 08:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-jef-united-chiba-vs-mito-hollyhock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "JEF United Chiba vs Mito Hollyhock Prediction: Can Chiba Exploit Mito's Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556132",
+      "league": "J1 League",
+      "matchup": "JEF United Chiba vs Mito Hollyhock",
+      "matchTime": "2026-11-08 08:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "JEF United Chiba's defensive resilience at Fukuda Denshi Arena and superior chance creation should overpower a defensively compromised Mito Hollyhock side enduring a five-match losing skid.",
+    "possibilityAssessment": [
+      "JEF United Chiba capitalize on Mito's disarray to secure a measured 2:0 home victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with Mito's chronic scoring drought and Chiba's 50% home clean sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Mito Hollyhock snatch a set-piece goal on the counter to push the scoreline to a tighter 2:1 home win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556132",
+      "league": "J1 League",
+      "homeTeam": "JEF United Chiba",
+      "awayTeam": "Mito Hollyhock",
+      "match_time": "08:00",
+      "match_highlight": "Relegation six-pointer pits Chiba's home stability against Mito's five-game defensive collapse",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556132,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "JEF United Chiba's home defensive compactness and Mito Hollyhock's ongoing defensive crisis support a decisive home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Mito's four-match scoring drought and Chiba's 50% home clean sheet rate heavily favor Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A controlled 2:0 home victory serves as the primary matrix anchor, with a 2:1 margin covering transitional defensive lapses."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the statistical modal density, while three goals accommodate secondary attacking efficiency."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Chiba's 50% home half-time lead rate drives Win-Win, with Win-Draw covering the club's 60% historical lead attrition risk."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 20:04:54 UTC"
+}
