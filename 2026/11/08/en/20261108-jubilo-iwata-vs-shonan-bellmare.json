@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606754,
+    "matchup": "Jubilo Iwata vs Shonan Bellmare",
+    "home_team": "Jubilo Iwata",
+    "away_team": "Shonan Bellmare",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-08 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-jubilo-iwata-vs-shonan-bellmare/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jubilo Iwata vs Shonan Bellmare Prediction & Match Analysis: Yamaha Fortress Edge — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1606754",
+      "league": "J2 League",
+      "matchup": "Jubilo Iwata vs Shonan Bellmare",
+      "matchTime": "2026-11-08 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jubilo Iwata's positive domestic momentum and Yamaha Stadium record give them the decisive edge, but Shonan Bellmare's 87.5% road unbeaten rate warrants double-chance coverage via Home Win / Draw under a strict low-scoring ceiling.",
+    "possibilityAssessment": [
+      "Jubilo Iwata 1:0 victory via patient flank buildup and second-half consolidation (Confidence: Moderate, Value: Moderate)",
+      "Stubborn 1:1 stalemate should Shonan Bellmare's road low block hold firm (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by low seasonal scoring averages and defensive setups (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606754",
+      "league": "J2 League",
+      "homeTeam": "Jubilo Iwata",
+      "awayTeam": "Shonan Bellmare",
+      "match_time": "05:00",
+      "match_highlight": "Yamaha Stadium fortress hosts clash of 22-point mid-table rivals",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606754,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Jubilo Iwata's primary 1:0 winning script alongside Shonan Bellmare's demonstrated road resilience that has yielded four away draws this season."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides average approximately 1.0 goal per match, supporting a 74.4% model probability for Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the narrow convergence between Iwata's patient home attack and Bellmare's compact road defensive structure."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "The Poisson distribution peaks heavily at 1 goal (30.4%) and 2 goals (26.6%) total scoring volume."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "First-half parity is highly probable given high HT draw rates, with Iwata favored to break through after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 17:07:15 UTC"
+}
