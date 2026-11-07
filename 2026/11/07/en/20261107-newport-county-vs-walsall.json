@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646809,
+    "matchup": "Newport County vs Walsall",
+    "home_team": "Newport County",
+    "away_team": "Walsall",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-newport-county-vs-walsall/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newport County vs Walsall Prediction & Match Analysis: Rodney Parade Clash — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1646809",
+      "league": "FA Cup",
+      "matchup": "Newport County vs Walsall",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Walsall's structural balance and defensive discipline should see them avoid defeat against a resilient Newport County outfit at Rodney Parade.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance captures the primary match scripts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with Poisson distribution and tournament caution (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 serves as the statistical convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646809",
+      "league": "FA Cup",
+      "homeTeam": "Newport County",
+      "awayTeam": "Walsall",
+      "match_time": "15:00",
+      "match_highlight": "Unbeaten home fortress meets road-resilient Saddlers in FA Cup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646809,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate driven by Newport's home invincibility and a narrow 1:2 Walsall victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Expected goals aggregate of 2.55 and disciplined defensive structures favor a tight, low-scoring cup tie."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 draw represents the statistical modal score, with 1:2 reflecting Walsall's superior late bench impact."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A 2-goal total holds top probability density at 25.4%, backed by a secondary 3-goal scenario at 21.6%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a tight opening half ending level, followed by either sustained parity or a late Walsall winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:54:07 UTC"
+}
