@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575220,
+    "matchup": "SC Paderborn 07 vs Eintracht Frankfurt",
+    "home_team": "SC Paderborn 07",
+    "away_team": "Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-07 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-sc-paderborn-07-vs-eintracht-frankfurt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Paderborn 07 vs Eintracht Frankfurt Prediction: Can Eagles Pierce Low Block? — xG & Scoreline Analysis",
+    "meta": {
+      "matchId": "1575220",
+      "league": "Bundesliga",
+      "matchup": "SC Paderborn 07 vs Eintracht Frankfurt",
+      "matchTime": "2026-11-07 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Eintracht Frankfurt's technical quality should eventually edge a tight, low-scoring battle against Paderborn's resolute low block.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance covers the primary scripts of a narrow Frankfurt win or a stubborn defensive stalemate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals is heavily supported by both teams' low combined xG output of under 1.40 per match (Confidence: High, Value: High)",
+      "Exact Score 0:1 serves as the primary convergence point where Frankfurt's individual quality breaks the deadlock (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575220",
+      "league": "Bundesliga",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "Eintracht Frankfurt",
+      "match_time": "14:30",
+      "match_highlight": "Frankfurt probe Paderborn's resolute low block in a battle of fine margins.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575220,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Frankfurt edging a 0:1 victory alongside Paderborn holding out for a 0:0 stalemate, which a single call would inadequately represent."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Strongly supported by Paderborn's 0.45 xG average and exceptional 0.55 xGA defensive suppression."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "0:1 reflects Frankfurt's individual breakthrough, while 0:0 captures Paderborn's low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "Poisson model concentrates 67.9% of total density across one or zero goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Paderborn's compact opening shape points to a level first half before Frankfurt's quality or stamina tests them late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:37:57 UTC"
+}
