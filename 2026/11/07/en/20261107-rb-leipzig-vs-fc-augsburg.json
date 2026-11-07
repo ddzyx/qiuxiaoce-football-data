@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575213,
+    "matchup": "RB Leipzig vs FC Augsburg",
+    "home_team": "RB Leipzig",
+    "away_team": "FC Augsburg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-07 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-rb-leipzig-vs-fc-augsburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling RB Leipzig vs FC Augsburg: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1575213",
+      "league": "Bundesliga",
+      "matchup": "RB Leipzig vs FC Augsburg",
+      "matchTime": "2026-11-07 14:30 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "RB Leipzig to capitalize on FC Augsburg's decimated central defense to secure an emphatic home victory in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "RB Leipzig to Win (Home Win) backed by an 18-0 domestic home goal differential (Confidence: High, Value: High)",
+      "Over 2.5 Total Goals supported by Augsburg conceding 2.33 goals per away match (Confidence: High, Value: High)",
+      "RB Leipzig to Win by 2+ Goals via 3:1 or 2:0 scoreline distribution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575213",
+      "league": "Bundesliga",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "FC Augsburg",
+      "match_time": "14:30",
+      "match_highlight": "Leipzig's pristine home attack targets Augsburg's emergency backline.",
+      "ai_confidence": "High",
+      "fixtureId": 1575213,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Leipzig's flawless domestic home record and Augsburg's severe defensive absences justify a decisive single home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "High combined attacking output and Augsburg's leaky road rearguard strongly favor Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:0"
+        ],
+        "comment": "A 3:1 home victory serves as the primary matrix convergence, with a controlled 2:0 clean sheet as the alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring distribution centers on 3 and 4 total goals given both teams' high season goal averages."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Leipzig's fast home starts point to Win-Win, with Draw-Win providing coverage if European fatigue delays the breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:38:25 UTC"
+}
