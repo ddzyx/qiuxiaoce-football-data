@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551372,
+    "matchup": "Hillerød vs Kolding IF",
+    "home_team": "Hillerød",
+    "away_team": "Kolding IF",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-07 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-hiller-d-vs-kolding-if/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hillerød vs Kolding IF Prediction: Can Aksum's Road Setup Breach Lønstrup's Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551372",
+      "league": "1. Division",
+      "matchup": "Hillerød vs Kolding IF",
+      "matchTime": "2026-11-07 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kolding IF's persistent away draw rate combined with Hillerød's solid home record points decisively to a balanced stalemate with an away-win contingency.",
+    "possibilityAssessment": [
+      "Draw / Away Win compound selection capturing Kolding IF's road stability and Hillerød's home resistance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by disciplined mid-block defensive structures (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 as the central mathematical convergence of both clubs' 1.20 goals per match output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551372",
+      "league": "1. Division",
+      "homeTeam": "Hillerød",
+      "awayTeam": "Kolding IF",
+      "match_time": "12:00",
+      "match_highlight": "Stalemate-prone Kolding IF face resilient home underdogs Hillerød in tactical deadlock",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551372,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Kolding IF possess superior defensive metrics but have drawn four of six away matches, making Draw / Away Win the optimal coverage over an outright away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average 1.20 goals scored per match with combined lambda of 2.60 favoring an Under 2.5 distribution."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline reflects the primary deadlock trajectory while 1:2 accounts for a late Kolding transitional breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A two-goal total serves as the statistical mode, supported by a three-goal secondary branch if second-half space expands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey opening 45 minutes projects a level half-time state, leading either to a full-time draw or a late away decider."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 00:04:37 UTC"
+}
