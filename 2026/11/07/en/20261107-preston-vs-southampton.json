@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563258,
+    "matchup": "Preston vs Southampton",
+    "home_team": "Preston",
+    "away_team": "Southampton",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-preston-vs-southampton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Preston vs Southampton Prediction: Can Saints Exploit Deepdale Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563258",
+      "league": "Championship",
+      "matchup": "Preston vs Southampton",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Southampton's prolific possession attack will overcome Preston's league-worst defense to secure a regulation away victory.",
+    "possibilityAssessment": [
+      "Southampton win in regulation time as superior chance creation breaks down Preston's low block (Confidence: Moderate, Value: High)",
+      "Match exceeds 2.5 total goals driven by Preston's 0% clean sheet frequency (Confidence: Moderate, Value: Moderate)",
+      "Preston manage an isolated transitional goal while Southampton control overall tempo (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563258",
+      "league": "Championship",
+      "homeTeam": "Preston",
+      "awayTeam": "Southampton",
+      "match_time": "15:00",
+      "match_highlight": "Saints' league-leading attack challenges Preston's zero clean sheet defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563258,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Southampton's 66% possession dominance and 29 goals scored exploit Preston's 11 losses in 14 matches."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Preston's 30 goals conceded and lack of clean sheets support an open 3-goal match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away win leads probability models, with a 0:2 clean sheet victory as backup."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the statistical convergence of both sides' scoring expectancies."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Preston's first-half resistance breaking after the interval makes Draw-Loss the primary trend."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:25:47 UTC"
+}
