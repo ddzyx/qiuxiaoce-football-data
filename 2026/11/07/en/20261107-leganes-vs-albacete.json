@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570012,
+    "matchup": "Leganes vs Albacete",
+    "home_team": "Leganes",
+    "away_team": "Albacete",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-07 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-leganes-vs-albacete/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leganés vs Albacete Prediction & Match Analysis: Can Carrión Exploit Alba's Road Fragility? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570012",
+      "league": "Segunda División",
+      "matchup": "Leganes vs Albacete",
+      "matchTime": "2026-11-07 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Leganés to capitalize on home advantage and Albacete's travel woes in a high-tempo contest.",
+    "possibilityAssessment": [
+      "Leganés victory supported by underlying xG creation and Albacete's road collapse (Confidence: Moderate, Value: High)",
+      "Both teams find the net as mutual defensive fragility elevates scoring rates (Confidence: Moderate, Value: High)",
+      "Resilient Albacete mid-block holds out for a competitive low-scoring draw (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570012",
+      "league": "Segunda División",
+      "homeTeam": "Leganes",
+      "awayTeam": "Albacete",
+      "match_time": "17:30",
+      "match_highlight": "Carrión targets first win against travel-weary Albacete",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570012,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Leganés hold decisive home and squad depth edges, while Albacete's transition threat preserves a secondary draw script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both backlines concede heavily (1.67 xGA/match), aligning with Carrión's open 2:1 projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Leganés's second-half territorial breakthrough alongside a resilient Albacete counter-hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Anchored by Poisson total lambda of 2.60 and fragile defensive records on both sides."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Captures a cagey first half followed by second-half tactical separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:36:11 UTC"
+}
