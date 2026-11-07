@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576525,
+    "matchup": "Feirense vs Lusitânia Lourosa",
+    "home_team": "Feirense",
+    "away_team": "Lusitânia Lourosa",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-08 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-feirense-vs-lusit-nia-lourosa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Feirense vs Lusitânia Lourosa Prediction: Can Fogaceiros Halt Unbeaten Rivals? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576525",
+      "league": "Segunda Liga",
+      "matchup": "Feirense vs Lusitânia Lourosa",
+      "matchTime": "2026-11-08 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Lusitânia Lourosa to extend their unbeaten record and claim a low-scoring road victory against winless Feirense.",
+    "possibilityAssessment": [
+      "Lusitânia Lourosa secures a controlled 0:1 away win by breaching Feirense's low block in the second half (Confidence: Moderate, Value: High)",
+      "Feirense's defensive resistance caps total scoring beneath 2.5 goals in a tight regional derby (Confidence: High, Value: Moderate)",
+      "Feirense holds on for a 0:0 stalemate if Diego Altube produces an inspired goalkeeping display (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576525",
+      "league": "Segunda Liga",
+      "homeTeam": "Feirense",
+      "awayTeam": "Lusitânia Lourosa",
+      "match_time": "11:00",
+      "match_highlight": "Unbeaten Lourosa targets first place against winless bottom club Feirense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576525,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Lusitânia Lourosa's undefeated form and prolific attack provide a decisive structural edge over a Feirense side with just two goals all season."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Feirense's league-low 0.20 goals per match and Lourosa's disciplined defense firmly support an Under 2.5 game total."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A controlled 0:1 away victory serves as the primary convergence point, with a 0:2 scoreline covering transitional expansion."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution models concentrate 54.2% of total probability density across exactly 1 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures Lourosa's expected second-half breakthrough, while Loss-Loss accounts for early set-piece dominance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 23:05:01 UTC"
+}
