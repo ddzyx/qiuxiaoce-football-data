@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576232,
+    "matchup": "VfL Osnabrück vs 1. FC Kaiserslautern",
+    "home_team": "VfL Osnabrück",
+    "away_team": "1. FC Kaiserslautern",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-07 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-vfl-osnabruck-vs-1-fc-kaiserslautern/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VfL Osnabrück vs 1. FC Kaiserslautern Prediction: Can Schultz Breach Krahl's Wall? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576232",
+      "league": "2. Bundesliga",
+      "matchup": "VfL Osnabrück vs 1. FC Kaiserslautern",
+      "matchTime": "2026-11-07 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win offers the optimal risk-adjusted thesis, balancing Kaiserslautern's defensive floor against Osnabrück's potent home chance creation.",
+    "possibilityAssessment": [
+      "Draw / Away Win compound direction covering 1:1 stalemate and 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals grounded in Kaiserslautern's 0.70 goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 reflecting statistical convergence between opposing styles (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576232",
+      "league": "2. Bundesliga",
+      "homeTeam": "VfL Osnabrück",
+      "awayTeam": "1. FC Kaiserslautern",
+      "match_time": "12:00",
+      "match_highlight": "Krahl's league-leading goalkeeping confronts Osnabrück's high-volume home offense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576232,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Kaiserslautern's defensive organization provides a safe floor, but Osnabrück's 1.77 xG at home makes covering the draw essential."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by Kaiserslautern's 70% clean-sheet rate and stingy 0.70 season goals-conceded average."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Reflects the primary 1:1 Poisson peak and the secondary 1:2 late transition branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Aligned with the 1:1 deadlock and 1:2 narrow away victory scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Expect a cautious, low-risk opening half resulting in a level interval before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 00:06:50 UTC"
+}
