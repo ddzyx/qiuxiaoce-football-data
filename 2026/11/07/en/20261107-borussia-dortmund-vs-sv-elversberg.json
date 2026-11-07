@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575212,
+    "matchup": "Borussia Dortmund vs SV Elversberg",
+    "home_team": "Borussia Dortmund",
+    "away_team": "SV Elversberg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-07 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-borussia-dortmund-vs-sv-elversberg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Borussia Dortmund vs SV Elversberg Prediction: Guirassy Absence & Tactical xG Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1575212",
+      "league": "Bundesliga",
+      "matchup": "Borussia Dortmund vs SV Elversberg",
+      "matchTime": "2026-11-07 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Borussia Dortmund's league-leading defensive structure and Signal Iduna Park dominance will overpower an Elversberg side suffering an away goal drought.",
+    "possibilityAssessment": [
+      "Borussia Dortmund regulation Home Win driven by elite defensive prevention (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals reflecting Guirassy's absence and post-European match tempo control (Confidence: Moderate, Value: High)",
+      "Draw-Win Half-Time/Full-Time transition based on Dortmund scoring 78% of goals in the second half (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575212",
+      "league": "Bundesliga",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "SV Elversberg",
+      "match_time": "14:30",
+      "match_highlight": "Unbeaten Dortmund host scoreless away travelers Elversberg without striker Guirassy.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575212,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Dortmund's league-best defense (6 conceded in 8 matches) will suffocate an Elversberg attack that has failed to score in three straight away games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absence of top scorer Serhou Guirassy combined with Dortmund's post-Champions League fatigue supports a controlled 2:0 scoreline."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A methodical 2:0 home clean sheet represents the primary convergence, with 2:1 covering late fatigue variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary expectation under Dortmund's patient tempo, followed by three on a late Elversberg consolation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Dortmund score 78% of their goals after halftime while Elversberg concede 75% in the second half, heavily favoring Draw-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:35:25 UTC"
+}
