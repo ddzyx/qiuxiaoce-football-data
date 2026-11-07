@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1523296,
+    "matchup": "Shanghai Shenhua vs Qingdao Youth Island",
+    "home_team": "Shanghai Shenhua",
+    "away_team": "Qingdao Youth Island",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-08 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-shanghai-shenhua-vs-qingdao-youth-island/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shanghai Shenhua vs Qingdao Youth Island Prediction & Match Analysis: Fatigue Dilemma vs Draw Specialists",
+    "meta": {
+      "matchId": "1523296",
+      "league": "Super League",
+      "matchup": "Shanghai Shenhua vs Qingdao Youth Island",
+      "matchTime": "2026-11-08 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Qingdao Youth Island to avoid defeat via Draw / Away Win as host continental fatigue collides with visitor defensive organization.",
+    "possibilityAssessment": [
+      "Qingdao Youth Island exploit host travel fatigue to secure a narrow transition victory (Confidence: Moderate, Value: Moderate)",
+      "Disciplined low-block stalemate produces a competitive 1:1 deadlock (Confidence: Moderate, Value: Moderate)",
+      "Low scoring intensity keeps total match goals beneath the 2.5 threshold (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1523296",
+      "league": "Super League",
+      "homeTeam": "Shanghai Shenhua",
+      "awayTeam": "Qingdao Youth Island",
+      "match_time": "07:30",
+      "match_highlight": "Fatigued Shenhua face CSL draw specialists Qingdao in dead-rubber finale",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1523296,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the clinical 0:1 transition away win and the 1:1 stalemate, reflecting Shenhua's 72-hour turnaround from Tokyo."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model projects 62.3% density under 2.5 goals due to host fatigue and Qingdao's low-block structure."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Qingdao's low-event defensive profile and clinical transition efficiency against tired legs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Concentrates on the 2-goal and 1-goal bands representing over 51% cumulative probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a tight first-half deadlock before physical fatigue tilts the second half toward the visitors."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 19:41:39 UTC"
+}
