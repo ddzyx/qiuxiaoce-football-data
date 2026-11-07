@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576227,
+    "matchup": "Hertha BSC vs VfL Wolfsburg",
+    "home_team": "Hertha BSC",
+    "away_team": "VfL Wolfsburg",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-07 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-hertha-bsc-vs-vfl-wolfsburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Hertha BSC vs VfL Wolfsburg: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1576227",
+      "league": "2. Bundesliga",
+      "matchup": "Hertha BSC vs VfL Wolfsburg",
+      "matchTime": "2026-11-07 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hertha BSC are projected to overcome a depleted Wolfsburg side through superior defensive control and positional dominance at the Olympiastadion.",
+    "possibilityAssessment": [
+      "Hertha BSC regulation win driven by midfield control and defensive solidity (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals reflecting Hertha's tempo suppression and low conceded xGA (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough following a drawn opening 45 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576227",
+      "league": "2. Bundesliga",
+      "homeTeam": "Hertha BSC",
+      "awayTeam": "VfL Wolfsburg",
+      "match_time": "19:30",
+      "match_highlight": "Hertha's ironclad backline faces Wolfsburg's injury-hit midfield at Olympiastadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576227,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Hertha's flawless home record and Wolfsburg's critical midfield absences justify a single home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Hertha's league-leading defense conceding only 0.5 goals per match will suppress Wolfsburg's transition volume."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A controlled 2:0 home clean sheet serves as the primary matrix anchor, with 2:1 covering Wolfsburg's punch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the natural statistical convergence, while three goals accounts for an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Hertha's frequent half-time level state (70%) and decisive second-half conversion rate (85.7%) lead the chronology."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 07:34:59 UTC"
+}
