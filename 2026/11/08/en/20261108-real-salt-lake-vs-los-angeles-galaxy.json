@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490609,
+    "matchup": "Real Salt Lake vs Los Angeles Galaxy",
+    "home_team": "Real Salt Lake",
+    "away_team": "Los Angeles Galaxy",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-08 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-real-salt-lake-vs-los-angeles-galaxy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Salt Lake vs Los Angeles Galaxy Prediction: Can RSL Exploit Galaxy's Road Defense? — xG Analysis",
+    "meta": {
+      "matchId": "1490609",
+      "league": "Major League Soccer",
+      "matchup": "Real Salt Lake vs Los Angeles Galaxy",
+      "matchTime": "2026-11-08 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Salt Lake's commanding home attacking metrics and the Galaxy's chronic road defensive vulnerabilities support backing Real Salt Lake or Draw in an open Decision Day encounter.",
+    "possibilityAssessment": [
+      "Real Salt Lake to secure victory or draw at America First Field (Confidence: Moderate, Value: High)",
+      "Total goals to exceed the 2.5 threshold driven by the Galaxy's porous road defense (Confidence: Moderate, Value: Moderate)",
+      "Stalemate contingency via a 1:1 scoreline if Galaxy counter-attacks withstand host pressure (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490609",
+      "league": "Major League Soccer",
+      "homeTeam": "Real Salt Lake",
+      "awayTeam": "Los Angeles Galaxy",
+      "match_time": "00:00",
+      "match_highlight": "Decision Day playoff survival battle at America First Field",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490609,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "RSL must win to keep playoff hopes alive and faces a Galaxy side conceding 1.81 xGA away without a road clean sheet, while the draw provides necessary insurance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined expected goal metrics of 3.16 and severe Galaxy road defensive concession heavily favor an open, goal-filled affair."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home victory reflects RSL's superior home balance, while 1:1 represents the primary stalemate containment script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals acting as the primary low-margin contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to a high-tempo second period where RSL's home pressure edges a victory or settles level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 12:04:25 UTC"
+}
