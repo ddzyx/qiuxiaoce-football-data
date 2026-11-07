@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493239,
+    "matchup": "Talleres Cordoba vs Estudiantes L.P.",
+    "home_team": "Talleres Cordoba",
+    "away_team": "Estudiantes L.P.",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-07 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-talleres-cordoba-vs-estudiantes-l-p/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Talleres Cordoba vs Estudiantes L.P.: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1493239",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Talleres Cordoba vs Estudiantes L.P.",
+      "matchTime": "2026-11-07 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Talleres Cordoba's home half-time resilience and Estudiantes' continental distraction favor the hosts securing at least a point in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance reflects the primary tactical trajectory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with historical attrition and combined 2.10 lambda expectancy (Confidence: High, Value: Moderate)",
+      "Exact Score 1:1 represents the natural statistical convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493239",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Talleres Cordoba",
+      "awayTeam": "Estudiantes L.P.",
+      "match_time": "18:00",
+      "match_highlight": "Talleres home defense challenges rotated Estudiantes squad ahead of Libertadores final.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493239,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Talleres' home resilience and Estudiantes' winless away run make the home double chance optimal."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Nine straight low-scoring head-to-head meetings and a 2.10 lambda total strongly support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate leads probabilities, with a 1:0 home win as the primary decisive alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the median outcome, followed closely by a tightly contested single-goal match."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Talleres' 60% home half-time draw rate makes Draw-Draw leading and Draw-Win secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 06:05:22 UTC"
+}
