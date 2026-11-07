@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576230,
+    "matchup": "1. FC Nürnberg vs SV Darmstadt 98",
+    "home_team": "1. FC Nürnberg",
+    "away_team": "SV Darmstadt 98",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-07 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-1-fc-nurnberg-vs-sv-darmstadt-98/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Nürnberg vs SV Darmstadt 98 Prediction: Road Flaws Meet Offensive Firepower — xG Preview & Modeling",
+    "meta": {
+      "matchId": "1576230",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Nürnberg vs SV Darmstadt 98",
+      "matchTime": "2026-11-07 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "1. FC Nürnberg capitalize on Darmstadt's severe away frailties to secure an essential home victory at Max-Morlock-Stadion.",
+    "possibilityAssessment": [
+      "1. FC Nürnberg to claim victory in regulation time (Confidence: Moderate, Value: High)",
+      "Total goals to eclipse the 2.5 threshold driven by Franconian attacking volume (Confidence: Moderate, Value: High)",
+      "2:0 home win if Darmstadt's travel scoring drought persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576230",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Nürnberg",
+      "awayTeam": "SV Darmstadt 98",
+      "match_time": "12:00",
+      "match_highlight": "Nürnberg's prolific attack tests Darmstadt's winless road record",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576230,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Nürnberg's 2.4 goals per game and Darmstadt's four consecutive road defeats make the home victory the paramount analytical selection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined scoring averages of 3.3 goals and Darmstadt's leaky away defense support a high-scoring encounter."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Convergence around a 2:1 home victory with a 2:0 shutout representing the principal defensive contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson model densities peak across 3 and 2 total goals with Over 2.5 holding statistical preference."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Darmstadt's habitual half-time deficits away from home heavily favour early or sustained Nürnberg dominance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 00:04:25 UTC"
+}
