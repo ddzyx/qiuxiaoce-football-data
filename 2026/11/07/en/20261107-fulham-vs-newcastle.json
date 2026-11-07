@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557461,
+    "matchup": "Fulham vs Newcastle",
+    "home_team": "Fulham",
+    "away_team": "Newcastle",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-fulham-vs-newcastle/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fulham vs Newcastle Prediction & Match Analysis: Can Cottagers Exploit Magpies' Defensive Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557461",
+      "league": "Premier League",
+      "matchup": "Fulham vs Newcastle",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Fulham on the double chance (Home Win / Draw) as their elite 0.30 xGA defense capitalizes on Newcastle's acute road slump.",
+    "possibilityAssessment": [
+      "Fulham control tempo and secure a low-scoring victory behind elite box defending (Confidence: Moderate, Value: High)",
+      "An attritional midfield battle produces a low-scoring 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Newcastle's direct counter-attacks exploit transitional space against the run of play (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557461",
+      "league": "Premier League",
+      "homeTeam": "Fulham",
+      "awayTeam": "Newcastle",
+      "match_time": "15:00",
+      "match_highlight": "Fulham's elite backline tests Jaissle's beleaguered Magpies at Craven Cottage",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557461,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Fulham's resolute 0.30 xGA defense and Newcastle's road slump make the host double chance the safest expression."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model lambda total of 2.01 and Fulham's stingy backline strongly favour Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A disciplined 1:0 home triumph represents the modal convergence, with 1:1 covering an away breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Combined goal expectancies heavily condense into the 1 to 2 goal scoring corridor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half gives way to Fulham's superior second-half control or an attrition stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:16:49 UTC"
+}
