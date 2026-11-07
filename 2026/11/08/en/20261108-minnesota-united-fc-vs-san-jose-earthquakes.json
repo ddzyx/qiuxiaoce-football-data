@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490613,
+    "matchup": "Minnesota United FC vs San Jose Earthquakes",
+    "home_team": "Minnesota United FC",
+    "away_team": "San Jose Earthquakes",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-08 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-minnesota-united-fc-vs-san-jose-earthquakes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Minnesota United FC vs San Jose Earthquakes: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490613",
+      "league": "Major League Soccer",
+      "matchup": "Minnesota United FC vs San Jose Earthquakes",
+      "matchTime": "2026-11-08 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "San Jose Earthquakes are projected to leverage their 80% road unbeaten record and defensive structure to avoid defeat against a desperate Minnesota United side.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance as San Jose absorb Minnesota's press (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals governed by tactical caution and Decision Day game management (Confidence: Moderate, Value: Moderate)",
+      "Exact 1:1 Scoreline as Minnesota's second-half surge balances San Jose's early control (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490613",
+      "league": "Major League Soccer",
+      "homeTeam": "Minnesota United FC",
+      "awayTeam": "San Jose Earthquakes",
+      "match_time": "00:00",
+      "match_highlight": "Loons' desperate playoff press meets Quakes' disciplined road counter-structure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490613,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "San Jose's 80% road unbeaten rate and tactical pragmatism under Bruce Arena cover both a 1:1 stalemate and a 1:2 counter-attacking away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Decision Day tactical stakes and San Jose's game-management priority suppress scoring volume toward the 1:1 modal outcome."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw serves as the statistical convergence point, while 1:2 represents late transition exploitation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the primary low-volatility outcome, with three goals capturing late-game state escalation."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Draw reflects Minnesota's habit of overturning halftime deficits at home, while Draw-Loss covers a second-half away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 12:07:30 UTC"
+}
