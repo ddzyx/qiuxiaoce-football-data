@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593702,
+    "matchup": "Macarthur vs Brisbane Roar",
+    "home_team": "Macarthur",
+    "away_team": "Brisbane Roar",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-08 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-macarthur-vs-brisbane-roar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Macarthur vs Brisbane Roar Prediction & Match Analysis: Possession Control vs Low-Block — xG Preview",
+    "meta": {
+      "matchId": "1593702",
+      "league": "A-League",
+      "matchup": "Macarthur vs Brisbane Roar",
+      "matchTime": "2026-11-08 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brisbane Roar's superior possession structure and underlying xG generation position them to secure at least a point against Macarthur's stubborn low block.",
+    "possibilityAssessment": [
+      "Brisbane Roar control territory and convert a decisive second-half chance to claim a narrow away win (Confidence: Moderate, Value: High)",
+      "Macarthur's resolute central defense absorbs sustained pressure to enforce a low-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Early set-piece deadlock yields a defensive attrition battle anchored firmly Under 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593702",
+      "league": "A-League",
+      "homeTeam": "Macarthur",
+      "awayTeam": "Brisbane Roar",
+      "match_time": "04:00",
+      "match_highlight": "Clash of styles: Brisbane possession dominance meets Macarthur low-block resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593702,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Brisbane's metric superiority while respecting Macarthur's home defensive solidity that has yielded two stalemates."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson distribution establishes 55.6% density for Under 2.5, supported by Macarthur conceding just 0.70 goals per match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A controlled 0-1 road victory represents the mathematical peak, with a resilient 1-1 draw acting as prime secondary convergence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Combined scoring density peaks at exactly 2 goals (25.9%) and 1 goal (21.1%) in a tight tactical encounter."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Macarthur's 0.0% first-half scoring rate points to a level opening 45 minutes before Brisbane's depth impacts the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 16:03:16 UTC"
+}
