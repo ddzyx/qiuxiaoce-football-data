@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558671,
+    "matchup": "Antwerp vs Lommel United",
+    "home_team": "Antwerp",
+    "away_team": "Lommel United",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-07 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261107-antwerp-vs-lommel-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Antwerp vs Lommel United: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1558671",
+      "league": "Jupiler Pro League",
+      "matchup": "Antwerp vs Lommel United",
+      "matchTime": "2026-11-07 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lommel United's superior defensive structure and 80% away unbeaten record make Draw / Away Win the premier risk-adjusted posture against Antwerp's leaky defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance posture capturing Lommel's counter-attacking edge and Antwerp's home scoring capacity (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by Antwerp's season average of 3.80 match goals and 2.20 conceded per game (Confidence: Moderate, Value: High)",
+      "Correct Score 1:2 reflecting Lommel's clinical transitional execution against Antwerp's fragile backline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558671",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Antwerp",
+      "awayTeam": "Lommel United",
+      "match_time": "19:45",
+      "match_highlight": "Lommel's 80% road unbeaten run meets Antwerp's 2.2-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558671,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Lommel's lethal transition attack while respecting Antwerp's home firepower through Vincent Janssen."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Antwerp's 2.20 goals conceded per match and 70.2% model density heavily favor an open, multi-goal contest."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Convergence point between Antwerp's reliable home scoring and persistent defensive lapses."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal primary tally directly reflects Antwerp's 3.80 season match-goal baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Antwerp frequently holds parity through 45 minutes before succumbing to second-half defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 07:50:05 UTC"
+}
