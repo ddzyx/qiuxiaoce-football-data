@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549053,
+    "matchup": "FC Copenhagen vs Brondby",
+    "home_team": "FC Copenhagen",
+    "away_team": "Brondby",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-08 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-fc-copenhagen-vs-brondby/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Copenhagen vs Brondby Prediction & Match Analysis: Derby Clash & xG Dynamics — Scoreline Preview",
+    "meta": {
+      "matchId": "1549053",
+      "league": "Superliga",
+      "matchup": "FC Copenhagen vs Brondby",
+      "matchTime": "2026-11-08 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Copenhagen to maintain their unbeaten home record in the New Firm derby via a Home Win or Draw double chance, led by a 2:1 home victory.",
+    "possibilityAssessment": [
+      "FC Copenhagen utilize home supremacy and defensive solidity to edge Brondby 2:1 in a competitive derby (Confidence: Moderate, Value: High)",
+      "Brondby leverage superior physical rest to punish Copenhagen's European fatigue in a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "High attacking volume from both sides pushes the contest over the 2.5 goal threshold (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549053",
+      "league": "Superliga",
+      "homeTeam": "FC Copenhagen",
+      "awayTeam": "Brondby",
+      "match_time": "11:00",
+      "match_highlight": "Copenhagen target derby supremacy at Parken against dangerous Brondby transition attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549053,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Copenhagen's unbeaten home record and superior defense support a 2:1 win, but schedule fatigue warrants retaining the 1:1 draw script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined scoring averages of 4.0 goals per game and a 3.20 lambda total support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline reflects Copenhagen's edge in quality, while 1:1 captures the primary fatigue-driven deadlock scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with Copenhagen's 2:1 home win script, with two goals covering the tight 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half points to a level interval before Copenhagen's superior depth or sustained stalemate resolves the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 23:04:44 UTC"
+}
