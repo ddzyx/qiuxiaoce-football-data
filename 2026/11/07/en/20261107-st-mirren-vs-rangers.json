@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556704,
+    "matchup": "ST Mirren vs Rangers",
+    "home_team": "ST Mirren",
+    "away_team": "Rangers",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-07 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-st-mirren-vs-rangers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "ST Mirren vs Rangers Prediction & Match Analysis: Midfield Void Meets Gers' Away xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1556704",
+      "league": "Premiership",
+      "matchup": "ST Mirren vs Rangers",
+      "matchTime": "2026-11-07 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rangers to exploit St Mirren's suspended and ineligible central midfield to secure an away victory in a competitive encounter.",
+    "possibilityAssessment": [
+      "Rangers full-time victory exploiting midfield transition superiority (Confidence: Moderate, Value: High)",
+      "Match total exceeding 2.5 goals driven by Rangers' 2.40 xG generation (Confidence: Moderate, Value: Moderate)",
+      "St Mirren low-block stalemate holding a low-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556704",
+      "league": "Premiership",
+      "homeTeam": "ST Mirren",
+      "awayTeam": "Rangers",
+      "match_time": "20:00",
+      "match_highlight": "Rangers target Paisley summit push against depleted Saints midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556704,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Rangers' 2.40 xG per match and St Mirren's midfield crisis point toward a decisive away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Rangers' potent offensive creation and St Mirren's 1.95 xGA support a high-tempo clash reaching three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 scoreline reflects Rangers' offensive edge alongside St Mirren's home scoring capacity, with 0:2 serving as the defensive shut-out alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal Poisson convergence, while two goals captures a controlled road display."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A cautious opening half breaking into second-half Rangers control represents the most probable trajectory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 08:04:54 UTC"
+}
