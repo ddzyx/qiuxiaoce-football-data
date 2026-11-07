@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563252,
+    "matchup": "Blackburn vs West Ham",
+    "home_team": "Blackburn",
+    "away_team": "West Ham",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-blackburn-vs-west-ham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Blackburn vs West Ham Prediction & Match Analysis: Can Rovers Contain Parker's Potent Attack? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1563252",
+      "league": "Championship",
+      "matchup": "Blackburn vs West Ham",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "West Ham's superior offensive output and undefeated road record provide the decisive edge to secure points at Ewood Park in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance coverage reflects West Ham's unbeaten road record and defensive transition leakage (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by West Ham's 3.0 goals per game and Blackburn's 100% home scoring consistency (Confidence: High, Value: High)",
+      "Secondary 2:2 draw scenario captures West Ham's tendency to draw away fixtures following short turnaround congestion (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563252",
+      "league": "Championship",
+      "homeTeam": "Blackburn",
+      "awayTeam": "West Ham",
+      "match_time": "15:00",
+      "match_highlight": "Parker's prolific Hammers test depleted Rovers backline at Ewood Park",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563252,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "West Ham's divisional-best 36-goal attack holds the decisive winning edge, while their four away draws and defensive leakage mandate formal draw retention."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy lambda of 3.85 and West Ham's 4.7 combined match goals make Over 2.5 the standout totals direction."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A 1:2 away victory represents the primary convergence point, with a 2:2 draw covering West Ham's chronic away stalemate tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals represents the primary volume peak, followed by four goals in a high-tempo bidirectional script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A tight first half opening into a second-half West Ham victory leads, backed by an alternative wire-to-wire away win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:21:31 UTC"
+}
