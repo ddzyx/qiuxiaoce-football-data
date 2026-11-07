@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551875,
+    "matchup": "Vitesse vs De Graafschap",
+    "home_team": "Vitesse",
+    "away_team": "De Graafschap",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-08 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-vitesse-vs-de-graafschap/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vitesse vs De Graafschap Prediction: Gelderse Derby Pressure & Defensive Gaps — Scoreline Analysis",
+    "meta": {
+      "matchId": "1551875",
+      "league": "Eerste Divisie",
+      "matchup": "Vitesse vs De Graafschap",
+      "matchTime": "2026-11-08 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vitesse or Draw (Home Win / Draw) as the primary direction, anticipating a hard-fought Gelderse derby where the hosts leverage defensive stability and an exclusively home crowd against De Graafschap's porous road defense.",
+    "possibilityAssessment": [
+      "Vitesse to win or draw via Home Win / Draw double chance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals capitalizing on De Graafschap's 2.1 road concession average (Confidence: Moderate, Value: High)",
+      "Vitesse 2:1 De Graafschap as primary scoreline convergence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551875",
+      "league": "Eerste Divisie",
+      "homeTeam": "Vitesse",
+      "awayTeam": "De Graafschap",
+      "match_time": "11:15",
+      "match_highlight": "Gelderse derby clash with visiting supporters officially banned at GelreDome",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551875,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Vitesse's superior defensive record and home edge alongside a competitive derby deadlock."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a combined 3.05 lambda expectancy and De Graafschap's 2.1 away concession average."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects a tight 2:1 home victory or a 1:1 stalemate under intense derby conditions."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Primary 3 goals aligns with the 2:1 scoreline, with 2 goals as the main low-scoring branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a level opening 45 minutes before second-half adjustments dictate the final outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 23:19:08 UTC"
+}
