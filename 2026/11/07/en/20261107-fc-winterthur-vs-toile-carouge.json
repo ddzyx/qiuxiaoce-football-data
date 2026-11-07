@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555080,
+    "matchup": "FC Winterthur vs Étoile Carouge",
+    "home_team": "FC Winterthur",
+    "away_team": "Étoile Carouge",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-07 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-fc-winterthur-vs-toile-carouge/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Winterthur vs Étoile Carouge: Expected Goals, Tactical Asymmetry & Match Intelligence",
+    "meta": {
+      "matchId": "1555080",
+      "league": "Challenge League",
+      "matchup": "FC Winterthur vs Étoile Carouge",
+      "matchTime": "2026-11-07 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Winterthur's unbeaten home record and superior attacking firepower will prove decisive against Étoile Carouge's low block.",
+    "possibilityAssessment": [
+      "FC Winterthur Home Win via sustained territorial dominance and multi-pronged finishing (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals as Winterthur's 0.90 goals conceded average stifles Carouge's isolated transitions (Confidence: Moderate, Value: High)",
+      "Win-Win Half-Time/Full-Time conversion capitalizing on Carouge's lack of first-half away threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555080",
+      "league": "Challenge League",
+      "homeTeam": "FC Winterthur",
+      "awayTeam": "Étoile Carouge",
+      "match_time": "17:00",
+      "match_highlight": "Winterthur's Schützenwiese dominance faces Carouge's compact away resistance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555080,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Winterthur's pristine 4-2-0 home record and 2.20 goals per match provide clear structural superiority over Carouge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Winterthur's 50% clean-sheet rate and Carouge's 1.00 goal per game away average point toward a controlled, low-scoring victory."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 home win is the most probable convergence point, with 2:1 covering the primary away counter-attack contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "High model density between 2 and 3 goals reflects Winterthur's attacking output alongside defensive containment."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Winterthur's 100% home conversion when leading at half-time leads the market, while Draw-Win covers a tight opening half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:08:15 UTC"
+}
