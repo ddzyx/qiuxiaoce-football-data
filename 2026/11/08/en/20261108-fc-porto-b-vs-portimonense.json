@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576524,
+    "matchup": "FC Porto B vs Portimonense",
+    "home_team": "FC Porto B",
+    "away_team": "Portimonense",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-08 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-fc-porto-b-vs-portimonense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Porto B vs Portimonense Prediction & Match Analysis: Can Young Dragons Shore Up Defensive Leaks? — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1576524",
+      "league": "Segunda Liga",
+      "matchup": "FC Porto B vs Portimonense",
+      "matchTime": "2026-11-08 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Portimonense's defensive discipline on the road provides a decisive edge against Porto B's vulnerable backline, warranting a Draw / Away Win double chance.",
+    "possibilityAssessment": [
+      "Away Win via pragmatic counter-attack (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring Draw through defensive stalemate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on offensive metrics (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576524",
+      "league": "Segunda Liga",
+      "homeTeam": "FC Porto B",
+      "awayTeam": "Portimonense",
+      "match_time": "11:00",
+      "match_highlight": "Struggling Porto B host pragmatic Portimonense in low-scoring second-tier clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576524,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Portimonense's solid away form contrasts with Porto B's winless home record, though visitors' low scoring requires draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Suppressed offensive outputs of 0.89 and 0.67 goals per match point decisively toward a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A compact 0:1 away victory represents the modal projection, with 1:1 serving as the primary game-state alternative."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution concentrates heavily on 1 and 2 total goals given Portimonense's frequent clean sheets and scoreless outings."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half transitioning into a late Portimonense winner or drawn conclusion aligns with both teams' scoring timelines."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 23:04:14 UTC"
+}
