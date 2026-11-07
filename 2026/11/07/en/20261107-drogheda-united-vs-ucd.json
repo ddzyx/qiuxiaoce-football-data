@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648307,
+    "matchup": "Drogheda United vs UCD",
+    "home_team": "Drogheda United",
+    "away_team": "UCD",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-11-07 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-drogheda-united-vs-ucd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Drogheda United vs UCD Prediction: Can Drogs Stifle Students in Playoff Final? — xG Preview",
+    "meta": {
+      "matchId": "1648307",
+      "league": "Premier Division",
+      "matchup": "Drogheda United vs UCD",
+      "matchTime": "2026-11-07 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Drogheda United's physical top-flight pedigree gives them the edge to survive in regulation, but UCD's rapid counter-attack makes Home Win / Draw the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Drogheda United win in regulation driven by set-piece dominance and top-flight finishing (Confidence: Moderate, Value: High)",
+      "Cagey regulation stalemate sending the playoff decider into extra time (Confidence: Moderate, Value: Moderate)",
+      "High-tempo scoring script producing Over 2.5 total goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648307",
+      "league": "Premier Division",
+      "homeTeam": "Drogheda United",
+      "awayTeam": "UCD",
+      "match_time": "17:30",
+      "match_highlight": "Drogheda fight for survival against high-flying Students at Tallaght",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648307,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Drogheda's primary 2:1 victory script while safeguarding against UCD's counter-attacking capacity to force a 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Drogheda conceded 57 goals this season and face a confident UCD attack that scored 14 goals in five games."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 win reflects Drogheda's set-piece superiority, while 1:1 represents the primary regulation deadlock branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal outcome leads based on defensive transitions, with 2 goals serving as the conservative playoff scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a cautious opening half before Drogheda's physical depth breaks through or UCD hold firm for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:42:03 UTC"
+}
