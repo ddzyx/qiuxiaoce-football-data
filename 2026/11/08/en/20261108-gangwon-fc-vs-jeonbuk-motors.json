@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647380,
+    "matchup": "Gangwon FC vs Jeonbuk Motors",
+    "home_team": "Gangwon FC",
+    "away_team": "Jeonbuk Motors",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-08 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-gangwon-fc-vs-jeonbuk-motors/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gangwon FC vs Jeonbuk Motors Prediction: Deadlock Dynamics & Defensive Resilience — XG Mind AI Preview",
+    "meta": {
+      "matchId": "1647380",
+      "league": "K League 1",
+      "matchup": "Gangwon FC vs Jeonbuk Motors",
+      "matchTime": "2026-11-08 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gangwon FC to maintain their resilient home baseline and secure a positive result via Home Win / Draw against a fatigued Jeonbuk outfit.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance reflects Gangwon's 80% home unbeaten record and Jeonbuk's 50% away draw rate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with Gangwon's 0.94 goals conceded per match and playoff risk aversion (Confidence: High, Value: Moderate)",
+      "Correct Score 1:1 captures the statistical intersection of two teams sharing 28 league draws this season (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647380",
+      "league": "K League 1",
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Jeonbuk Motors",
+      "match_time": "07:30",
+      "match_highlight": "Gangwon's fortified backline clashes with Jeonbuk's continental fatigue in Championship round battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647380,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the highly probable 1:1 draw and a 1:0 home win driven by Gangwon's 80% home unbeaten record and Jeonbuk's post-continental fatigue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Gangwon's elite 0.94 season concession rate and 14 clean sheets heavily favor a disciplined, low-scoring engagement."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate represents the primary statistical anchor between two prominent draw specialists, while 1:0 reflects a second-half home breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the peak distribution for a competitive 1:1 outcome, with single-goal suppression standing as the primary secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious opening approaches favor a level halftime scoreline, with the host possessing the stamina edge to either hold parity or edge a late winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 19:43:53 UTC"
+}
