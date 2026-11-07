@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556700,
+    "matchup": "Aberdeen vs Hibernian",
+    "home_team": "Aberdeen",
+    "away_team": "Hibernian",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-07 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261107-aberdeen-vs-hibernian/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aberdeen vs Hibernian Prediction & Match Analysis: Defensive Crises & xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1556700",
+      "league": "Premiership",
+      "matchup": "Aberdeen vs Hibernian",
+      "matchTime": "2026-11-07 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hibernian's underlying attacking efficiency and derby momentum provide strong value to avoid defeat against an Aberdeen side crippled by severe defensive injuries.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capitalizes on Aberdeen's chronic home scoring drought and defensive reshuffle (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with Aberdeen failing to score in 66.7% of home league fixtures and cagey early tactics (Confidence: Moderate, Value: High)",
+      "Correct Score 1:1 represents the central mathematical convergence of mutual backline vulnerabilities (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556700",
+      "league": "Premiership",
+      "homeTeam": "Aberdeen",
+      "awayTeam": "Hibernian",
+      "match_time": "17:45",
+      "match_highlight": "Defensive injury crises collide at Pittodrie in relegation battle",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556700,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a tight 1:1 stalemate and a 1:2 Hibernian transition victory while rejecting a single Aberdeen home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Grounded in Aberdeen's 66.7% failure-to-score rate at Pittodrie and cautious early game management."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Pivots between a balanced 1:1 stalemate and an efficient 1:2 Hibs counter-attacking breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Concentrates 45.1% cumulative Poisson probability across the two most likely match tempos."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Reflects Aberdeen's 66.7% first-half home draw frequency followed by second-half defensive fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:49:43 UTC"
+}
