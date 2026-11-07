@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565297,
+    "matchup": "Farul Constanta vs Rapid",
+    "home_team": "Farul Constanta",
+    "away_team": "Rapid",
+    "league": "Liga I",
+    "kickoff_utc": "2026-11-07 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-farul-constanta-vs-rapid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Farul Constanta vs Rapid Prediction & Match Analysis: Can Sailors Halt Rapid's Title Charge? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1565297",
+      "league": "Liga I",
+      "matchup": "Farul Constanta vs Rapid",
+      "matchTime": "2026-11-07 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rapid's superior defensive structure and second-half firepower make Draw / Away Win the optimal probabilistic trajectory against Farul's unblemished home record.",
+    "possibilityAssessment": [
+      "Rapid edges a high-tempo transitional contest as late second-half pressure breaks down Farul's vulnerable backline (Confidence: Moderate, Value: High)",
+      "Farul's aggressive opening half-hour blitz secures an early lead before Rapid equalizes in a shared-point stalemate (Confidence: Moderate, Value: Moderate)",
+      "Farul maintains their fortress with a clinical direct-attack masterclass capitalizing on Rapid's road vulnerabilities (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565297",
+      "league": "Liga I",
+      "homeTeam": "Farul Constanta",
+      "awayTeam": "Rapid",
+      "match_time": "15:30",
+      "match_highlight": "Rapid's late acceleration tests Farul's flawless home record in Ovidiu.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565297,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Rapid's clear structural superiority (0.93 GA/game) while formally insulating against Farul's unblemished 5-1-0 home record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Anchored by an aggregated lambda total of 2.86 goals and Farul's porous 1.50 seasonal goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "The 1:2 scoreline captures Rapid's transitional edge, while 1:1 reflects Farul's stubborn home resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Both clubs average 1.64 goals scored per match, making 3 and 2 goals the dominant Poisson distribution brackets."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Rapid is a dedicated second-half accumulator (65.2% goals post-45'), pointing toward a level first half followed by second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 04:19:10 UTC"
+}
