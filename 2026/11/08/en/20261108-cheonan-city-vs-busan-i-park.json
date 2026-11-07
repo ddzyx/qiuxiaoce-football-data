@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1510496,
+    "matchup": "Cheonan City vs Busan I Park",
+    "home_team": "Cheonan City",
+    "away_team": "Busan I Park",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-08 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-cheonan-city-vs-busan-i-park/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cheonan City vs Busan IPark Prediction: Park Jin-sub Faces Former Club — Scoreline Preview",
+    "meta": {
+      "matchId": "1510496",
+      "league": "K League 2",
+      "matchup": "Cheonan City vs Busan I Park",
+      "matchTime": "2026-11-08 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Cheonan City's resilient 76.9% home unbeaten record meets Busan IPark's vital promotion playoff push.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory anchored by a primary 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on tight head-to-head defensive precedent and low road margin rates (Confidence: Moderate, Value: Moderate)",
+      "Cheonan City resilient home stand producing a 1:1 full-time deadlock (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510496",
+      "league": "K League 2",
+      "homeTeam": "Cheonan City",
+      "awayTeam": "Busan I Park",
+      "match_time": "05:00",
+      "match_highlight": "Park Jin-sub faces former club as resilient Cheonan host playoff-chasing Busan.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510496,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-probability 1:1 tactical stalemate and Busan's late individual quality edge to secure a 1:2 win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Four of the last five head-to-head meetings have stayed under 2.5 goals amid Cheonan's compact low block."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 draw represents the primary Poisson density while 1:2 captures Busan's promotion urgency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the modal baseline tally, with three goals accounting for a late attacking gamble."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A level opening half is highly probable, resolving into either a sustained draw or a late Busan winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 17:03:03 UTC"
+}
