@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601602,
+    "matchup": "Pisa vs Sudtirol",
+    "home_team": "Pisa",
+    "away_team": "Sudtirol",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-07 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-pisa-vs-sudtirol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pisa vs Sudtirol Prediction & Match Analysis: Can Nerazzurri Break Arena Garibaldi Hex? — Scoreline Preview",
+    "meta": {
+      "matchId": "1601602",
+      "league": "Serie B",
+      "matchup": "Pisa vs Sudtirol",
+      "matchTime": "2026-11-07 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pisa hold substantial expected-goal dominance, making Home Win / Draw the optimal risk-adjusted thesis while Over 2.5 goals captures recurring defensive vulnerabilities.",
+    "possibilityAssessment": [
+      "Pisa break down Sudtirol's low block via Tramoni and Pittarello to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Sudtirol's compact defensive structure and Pisa's home defensive leaks yield a hard-fought 1:1 draw (Confidence: Moderate, Value: High)",
+      "Pisa establish early territorial control to record a professional 2:0 shutout (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601602",
+      "league": "Serie B",
+      "homeTeam": "Pisa",
+      "awayTeam": "Sudtirol",
+      "match_time": "14:00",
+      "match_highlight": "Pisa's elite 1.91 xG attack faces Sudtirol's Arena Garibaldi hex.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601602,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Pisa's dominant underlying chance creation (1.91 xG/game) while safeguarding against their chronic home defensive concession streak and Sudtirol's 50% draw profile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Derived from a 2.70-2.80 combined goal expectancy and Pisa's season average of 3.3 total match goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects the natural convergence between Pisa's attacking volume and both teams' historical propensity for shared goals."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Captures the primary 2:1 open branch and the secondary 1:1 tight tactical stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sudtirol's first-half compactness promotes early deadlock before Pisa's bench depth dictates the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:17:43 UTC"
+}
