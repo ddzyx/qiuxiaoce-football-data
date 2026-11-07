@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593358,
+    "matchup": "Volos NFC vs Kifisia",
+    "home_team": "Volos NFC",
+    "away_team": "Kifisia",
+    "league": "Super League 1",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-volos-nfc-vs-kifisia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Volos NFC vs Kifisia Prediction & Match Analysis: Winless Host Meets Pombo-Led Attack — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1593358",
+      "league": "Super League 1",
+      "matchup": "Volos NFC vs Kifisia",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kifisia in a double-chance Draw / Away Win posture, leaning toward a disciplined 0:1 away victory or 1:1 stalemate under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Kifisia unlock Volos in the second half via Jorge Pombo to claim a narrow 0:1 road win (Confidence: Moderate, Value: High)",
+      "Volos execute a disciplined low block and secure a 1:1 deadlock via set-piece parity (Confidence: Moderate, Value: Moderate)",
+      "A cagey, defensive battle keeps the aggregate scoreline strictly Under 2.5 goals (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593358",
+      "league": "Super League 1",
+      "homeTeam": "Volos NFC",
+      "awayTeam": "Kifisia",
+      "match_time": "15:00",
+      "match_highlight": "Winless Volos host surging Kifisia in tactical survival battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593358,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Kifisia's superior attacking xG process while respecting Volos's capacity to grind low-scoring home draws."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined expected goals profile and low first-half conversion point strongly toward a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Converges on Kifisia's second-half transition efficiency or a gritty shared point."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects independent Poisson peak densities between one and two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Accounts for both sides scoring over 83 percent of their goals in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:36:11 UTC"
+}
