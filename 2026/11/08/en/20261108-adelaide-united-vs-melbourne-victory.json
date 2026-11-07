@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1593703,
+    "matchup": "Adelaide United vs Melbourne Victory",
+    "home_team": "Adelaide United",
+    "away_team": "Melbourne Victory",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-08 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-adelaide-united-vs-melbourne-victory/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Adelaide United vs Melbourne Victory Prediction: Original Rivalry xG & Tactical Breakdown — Scoreline Preview",
+    "meta": {
+      "matchId": "1593703",
+      "league": "A-League",
+      "matchup": "Adelaide United vs Melbourne Victory",
+      "matchTime": "2026-11-08 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Adelaide United's catastrophic defensive metrics are balanced by Melbourne Victory's acute schedule fatigue in an intense 1:1 rivalry stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance trajectory anchored by a primary 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by Melbourne Victory's 0.73 xG attacking output and schedule congestion (Confidence: Moderate, Value: High)",
+      "Correct Score 1:2 away victory capitalizing on Adelaide's second-half defensive fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593703",
+      "league": "A-League",
+      "homeTeam": "Adelaide United",
+      "awayTeam": "Melbourne Victory",
+      "match_time": "06:00",
+      "match_highlight": "Original Rivalry clash tests Adelaide's fragile defense against fatigued Victory.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593703,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the dominant 1:1 stalemate while safeguarding against Adelaide's depleted central defense collapsing to a narrow transition defeat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Melbourne Victory's modest 0.73 xG generation and heavy schedule congestion favor a low-scoring tactical contest."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline represents the modal Poisson convergence point, with 1:2 reflecting Victory's transition edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary expectation via 1:1, expanding to three goals if Victory snatch a late winner."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A level first half gives way to either a sustained stalemate or a late second-half winner for the visitors."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 18:05:42 UTC"
+}
