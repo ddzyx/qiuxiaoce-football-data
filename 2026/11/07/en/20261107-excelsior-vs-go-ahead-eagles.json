@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552218,
+    "matchup": "Excelsior vs GO Ahead Eagles",
+    "home_team": "Excelsior",
+    "away_team": "GO Ahead Eagles",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-07 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-excelsior-vs-go-ahead-eagles/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Excelsior vs GO Ahead Eagles Prediction: Can Kralingers Rebound From 0-9 Shock? — xG Model Analysis",
+    "meta": {
+      "matchId": "1552218",
+      "league": "Eredivisie",
+      "matchup": "Excelsior vs GO Ahead Eagles",
+      "matchTime": "2026-11-07 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Go Ahead Eagles to exploit Excelsior's defensive crisis and avoid defeat via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance supported by superior xG creation and host defensive collapse (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by both sides conceding 2.50 goals per match (Confidence: High, Value: Moderate)",
+      "Score draw contingency (2:2) covering Go Ahead's road winlessness (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552218",
+      "league": "Eredivisie",
+      "homeTeam": "Excelsior",
+      "awayTeam": "GO Ahead Eagles",
+      "match_time": "20:00",
+      "match_highlight": "Eagles seek first road win against traumatized Kralingers defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552218,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Go Ahead's attacking superiority while accounting for their winless away record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams concede 2.5 goals per match and combined xG expectancy exceeds 3.0."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Reflects an away victory or high-scoring draw given mutual defensive vulnerabilities."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson distribution models concentrate heavily across 3 and 4 total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Anticipates a tight opening or early away lead converting into an away triumph."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 08:05:20 UTC"
+}
