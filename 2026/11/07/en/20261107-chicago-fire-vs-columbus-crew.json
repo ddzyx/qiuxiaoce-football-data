@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490605,
+    "matchup": "Chicago Fire vs Columbus Crew",
+    "home_team": "Chicago Fire",
+    "away_team": "Columbus Crew",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-07 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-chicago-fire-vs-columbus-crew/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chicago Fire vs Columbus Crew Prediction & Match Analysis: Decision Day xG & Fire Home Edge — Scoreline Preview",
+    "meta": {
+      "matchId": "1490605",
+      "league": "Major League Soccer",
+      "matchup": "Chicago Fire vs Columbus Crew",
+      "matchTime": "2026-11-07 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Chicago Fire's superior home attacking metrics and pursuit of a club-record points haul favor an unbeaten Decision Day outcome against a Columbus side weakened by defensive absences.",
+    "possibilityAssessment": [
+      "Chicago Fire capitalize on Columbus's center-back absences to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Columbus Crew's five-game winning momentum secures a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open transitional play pushes the goal tally Over 2.5 behind early finishing efficiency (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490605",
+      "league": "Major League Soccer",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Columbus Crew",
+      "match_time": "21:00",
+      "match_highlight": "Chicago Fire chase historic 58-point club record on Decision Day.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490605,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Chicago's 2:1 home win trajectory while respecting Columbus's five-game winning run via the 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 2.935 Poisson lambda expectancy and Chicago's 1.80 home goals average."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects home wing dominance; secondary 1:1 provides hedge against Crew midfield control."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals captures the primary 2:1 convergence, while two goals reflects the secondary 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win accounts for Chicago's 60% second-half conversion after level intervals; Draw-Draw mirrors 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 09:08:47 UTC"
+}
