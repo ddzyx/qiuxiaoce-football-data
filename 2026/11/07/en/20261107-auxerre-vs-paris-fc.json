@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552811,
+    "matchup": "Auxerre vs Paris FC",
+    "home_team": "Auxerre",
+    "away_team": "Paris FC",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-07 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-auxerre-vs-paris-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Auxerre vs Paris FC Prediction & Match Analysis: Will Still's Defense vs Sinayoko Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1552811",
+      "league": "Ligue 1",
+      "matchup": "Auxerre vs Paris FC",
+      "matchTime": "2026-11-07 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Paris FC to avoid defeat in an open, high-event encounter against Auxerre's vulnerable backline (Draw / Away Win).",
+    "possibilityAssessment": [
+      "Paris FC exploit defensive absences to secure a narrow 1:2 road victory (Confidence: Moderate, Value: High)",
+      "Auxerre leverage home resilience to force a 1:1 score stalemate (Confidence: Moderate, Value: Moderate)",
+      "High defensive concession rates drive total goals Over 2.5 (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552811",
+      "league": "Ligue 1",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Paris FC",
+      "match_time": "18:00",
+      "match_highlight": "Sinayoko faces former club against Auxerre's league-worst defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552811,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Paris FC hold the decisive attacking edge but their modest away record necessitates covering the home draw script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Auxerre concede 2.56 goals per game while scoring in 100% of fixtures, making Over 2.5 mathematically compelling."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Paris FC victory captures the primary transitional mismatch, while 1:1 insures against Parisian road fatigue."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson distribution models converge heavily on 3 and 2 total goals based on combined 3.45 goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Paris FC's 66.7% first-half lead rate drives Loss-Loss, while Auxerre's sturdy home start supports Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 06:07:45 UTC"
+}
