@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490610,
+    "matchup": "FC Dallas vs Colorado Rapids",
+    "home_team": "FC Dallas",
+    "away_team": "Colorado Rapids",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-08 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-fc-dallas-vs-colorado-rapids/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Dallas vs Colorado Rapids Prediction & Match Analysis: Musa vs Rapids Road Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1490610",
+      "league": "Major League Soccer",
+      "matchup": "FC Dallas vs Colorado Rapids",
+      "matchTime": "2026-11-08 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Dallas to leverage their dominant home form and Petar Musa's finishing to secure points against an away-vulnerable Colorado Rapids side on Decision Day.",
+    "possibilityAssessment": [
+      "FC Dallas secures a 2:1 home victory by exploiting Colorado's defensive transition gaps (Confidence: Moderate, Value: High)",
+      "A cagey 1:1 stalemate materializes as Dallas manages seeding risk while Colorado battles for postseason survival (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals cashes as Colorado pushes desperation numbers forward in the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490610",
+      "league": "Major League Soccer",
+      "homeTeam": "FC Dallas",
+      "awayTeam": "Colorado Rapids",
+      "match_time": "00:00",
+      "match_highlight": "Dallas home fortress faces Colorado's desperate win-or-bust Decision Day playoff battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490610,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Dallas' dominant 86.7% home unbeaten record and Petar Musa's scoring form alongside a cautious 1:1 Decision Day game-management script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined lambda expectancy of 3.05 and Colorado conceding 1.83 goals per road match without Zack Steffen."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects Dallas transitional conversion; secondary 1:1 represents high-density Poisson deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals is the natural convergence point of a 2:1 scoreline; 2 goals covers the 1:1 draw contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs tend toward cagey opening halves on Decision Day before Dallas' bench depth and finishing tilt the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 12:03:51 UTC"
+}
