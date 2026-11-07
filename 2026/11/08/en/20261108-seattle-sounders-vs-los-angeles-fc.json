@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490608,
+    "matchup": "Seattle Sounders vs Los Angeles FC",
+    "home_team": "Seattle Sounders",
+    "away_team": "Los Angeles FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-08 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-seattle-sounders-vs-los-angeles-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Seattle Sounders vs Los Angeles FC Prediction: Can Sounders Cope Without Yeimar? — xG Analysis",
+    "meta": {
+      "matchId": "1490608",
+      "league": "Major League Soccer",
+      "matchup": "Seattle Sounders vs Los Angeles FC",
+      "matchTime": "2026-11-08 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Los Angeles FC or the Draw via the double-chance framework, centered around a 1:1 stalemate or a 1:2 counter-attacking away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Leading: Draw 1:1, secondary: Away Win 1:2) (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals / 2 Total Goals scenario (Confidence: Moderate, Value: Moderate)",
+      "Away Win via 1:2 transition strike from Denis Bouanga (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490608",
+      "league": "Major League Soccer",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Los Angeles FC",
+      "match_time": "00:00",
+      "match_highlight": "Sounders face Decision Day survival test without Yeimar against Bouanga's counter-attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490608,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the high-density 1:1 stalemate driven by Decision Day tension and LAFC's 1:2 transition threat against Seattle's compromised backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 aligns with LAFC's 13 season clean sheets and their established 50% away draw rate suppressing runaway goal totals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline represents the statistical equilibrium of both attacks, with 1:2 covering the late transition winner."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals represent 45.5% of the Poisson density distribution across model simulations."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half leads to level terms at the interval before late game-state pressure decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 12:03:58 UTC"
+}
