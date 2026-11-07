@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552815,
+    "matchup": "Paris Saint Germain vs Estac Troyes",
+    "home_team": "Paris Saint Germain",
+    "away_team": "Estac Troyes",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-07 20:05:00",
+    "source_url": "https://xgmind.com/matches/20261107-paris-saint-germain-vs-estac-troyes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Paris Saint Germain vs Estac Troyes: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1552815",
+      "league": "Ligue 1",
+      "matchup": "Paris Saint Germain vs Estac Troyes",
+      "matchTime": "2026-11-07 20:05 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Paris Saint Germain's systemic midfield dominance and home control will comfortably overcome Estac Troyes' deep defensive block.",
+    "possibilityAssessment": [
+      "Paris Saint Germain regulation Home Win anchored by second-half territorial attrition (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals as rotational absences on Parisian flanks temper full-time scoring volume (Confidence: Moderate, Value: Moderate)",
+      "Paris Saint Germain multi-goal margin victory (2:0 / 3:0) reflecting Troyes' away attacking drought (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552815",
+      "league": "Ligue 1",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "Estac Troyes",
+      "match_time": "20:05",
+      "match_highlight": "PSG host Troyes targeting eleventh straight win despite notable wing rotations",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552815,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Paris Saint Germain's midfield control and defensive solidity will comfortably handle a Troyes side that has failed to score in three of four away games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Resting Hakimi and missing key wide creators will temper Parisian attacking rhythm against Troyes' ultra-deep 5-4-1 block."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "A disciplined 2:0 clean-sheet victory serves as the primary convergence point, with 3:0 the natural alternative if Troyes tires late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the most probable distribution given PSG's controlled game-management profile ahead of the international break."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "PSG scores over 76% of their goals in the second half, favoring a patient Draw-Win transition ahead of an early Win-Win scenario."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 08:10:46 UTC"
+}
