@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601601,
+    "matchup": "Padova vs Empoli",
+    "home_team": "Padova",
+    "away_team": "Empoli",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-07 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-padova-vs-empoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Padova vs Empoli Prediction & Match Analysis: Striker Crisis Tests Biancoscudati — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601601",
+      "league": "Serie B",
+      "matchup": "Padova vs Empoli",
+      "matchTime": "2026-11-07 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Padova's structural stability will prevent defeat at home, but severe attacking absences warrant a cautious Home Win / Draw position alongside Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Padova grind out a narrow 1:0 victory via second-half set-piece efficiency (Confidence: Moderate, Value: High)",
+      "Empoli capitalize on Padova's depleted frontline to secure a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "A cagey, fragmented contest strictly limited to Under 2.5 Total Goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601601",
+      "league": "Serie B",
+      "homeTeam": "Padova",
+      "awayTeam": "Empoli",
+      "match_time": "14:00",
+      "match_highlight": "Padova striker injury crisis collides with Empoli's desperate survival scrap.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601601,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Padova's defensive edge for a narrow victory while insulating against a low-scoring draw caused by forward injuries."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.05 and absence of elite finishers heavily favors a low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 1:0 home grinding victory and the secondary 1:1 stalemate contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Expectation concentrates heavily across the one-goal and two-goal total bands."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half is anticipated, followed by either a late Padova winner or a sustained deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 02:17:21 UTC"
+}
