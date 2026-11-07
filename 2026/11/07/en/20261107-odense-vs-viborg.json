@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549055,
+    "matchup": "Odense vs Viborg",
+    "home_team": "Odense",
+    "away_team": "Viborg",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-07 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-odense-vs-viborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Odense vs Viborg Prediction & Match Analysis: Midfield Control & Target Man Void — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1549055",
+      "league": "Superliga",
+      "matchup": "Odense vs Viborg",
+      "matchTime": "2026-11-07 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Viborg to secure at least a point via Draw / Away Win at Nature Energy Park against an Odense side missing key striker Alexander Ahl Holmström.",
+    "possibilityAssessment": [
+      "Viborg exploit Odense's 1.75 conceded xGA on rapid transitions to secure a narrow 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Odense deploy a disciplined mid-block to restrict transitional avenues and grind out a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo second half sees open exchange of chances pushing total match scoring Over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549055",
+      "league": "Superliga",
+      "homeTeam": "Odense",
+      "awayTeam": "Viborg",
+      "match_time": "17:00",
+      "match_highlight": "Viborg's elite defense challenges Odense's unbeaten streak missing target man Ahl Holmström.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549055,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Viborg's superior underlying metrics (+5.8 net xG) and Odense's resilient five-game home drawing capacity."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined 3.015 lambda expectancy and Odense's elevated 1.75 seasonal xGA concessions."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Viborg's 1.66 xG offensive firepower against Odense's stubborn home defensive baseline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the primary 1:2 away victory and secondary 1:1 stalemate scoreline branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Captures Odense's 50% home first-half draw rate before Viborg's superior bench impact asserts control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:06:35 UTC"
+}
