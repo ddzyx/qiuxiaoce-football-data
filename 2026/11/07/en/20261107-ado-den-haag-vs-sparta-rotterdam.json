@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552220,
+    "matchup": "ADO Den Haag vs Sparta Rotterdam",
+    "home_team": "ADO Den Haag",
+    "away_team": "Sparta Rotterdam",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-07 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261107-ado-den-haag-vs-sparta-rotterdam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "ADO Den Haag vs Sparta Rotterdam Prediction: Can Rotterdam's Attack Punish ADO? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552220",
+      "league": "Eredivisie",
+      "matchup": "ADO Den Haag vs Sparta Rotterdam",
+      "matchTime": "2026-11-07 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Draw / Away Win alongside Over 2.5 Goals as Sparta's superior firepower encounters mutual defensive instability.",
+    "possibilityAssessment": [
+      "Sparta Rotterdam breaks through ADO's low block to secure an open away victory (Confidence: Moderate, Value: High)",
+      "High aggregate scoring expectation driven by zero combined clean sheets comfortably clears 2.5 goals (Confidence: High, Value: High)",
+      "ADO Den Haag capitalizes on Sparta's 50% lead erosion rate to salvage a 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552220",
+      "league": "Eredivisie",
+      "homeTeam": "ADO Den Haag",
+      "awayTeam": "Sparta Rotterdam",
+      "match_time": "17:45",
+      "match_highlight": "Sparta's 2.0-goal attack meets ADO's zero-clean-sheet defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552220,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sparta's clear offensive superiority while hedging against their porous backline and 50% lead erosion rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "An aggregate goal expectancy lambda of 3.70 and zero clean sheets across 22 collective games strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 Sparta road victory represents the primary convergence, backed by a 1:1 stalemate contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects the peak probability distribution across both clubs' attacking and defensive averages."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "ADO's 100% home half-time deficit rate makes early Sparta leads and subsequent away results highly probable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:50:10 UTC"
+}
