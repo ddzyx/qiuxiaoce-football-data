@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552530,
+    "matchup": "Saint Etienne vs Laval",
+    "home_team": "Saint Etienne",
+    "away_team": "Laval",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-07 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-saint-etienne-vs-laval/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint-Étienne vs Laval Prediction & Match Analysis: Can Les Verts Rebound at Le Chaudron? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1552530",
+      "league": "Ligue 2",
+      "matchup": "Saint Etienne vs Laval",
+      "matchTime": "2026-11-07 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Saint-Étienne to reassert their unblemished home dominance with a controlled victory against away-struggling Laval.",
+    "possibilityAssessment": [
+      "Saint-Étienne Home Win anchored by a flawless 5-0-0 home record and superior technical wing output (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reflecting Saint-Étienne's solid home defense (0.60 conceded/match) and Laval's road goal shortage (Confidence: Moderate, Value: Moderate)",
+      "2:0 Scoreline serving as the most probable statistical convergence of home control and defensive restoration (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552530",
+      "league": "Ligue 2",
+      "homeTeam": "Saint Etienne",
+      "awayTeam": "Laval",
+      "match_time": "19:00",
+      "match_highlight": "League-leading Saint-Étienne defend flawless home record against travel-weary Laval.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552530,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Saint-Étienne have won all 5 home fixtures, whereas Laval have suffered 4 defeats in 5 away matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Saint-Étienne concede just 0.60 goals per match at home, while Laval average only 0.60 goals scored away."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A clinical 2:0 home victory represents the central model convergence, with 2:1 covering an isolated set-piece breach."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Expected goals distribution strongly peaks at 2 total goals, with 3 goals representing the secondary attacking branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Saint-Étienne frequently establish first-half dominance at home, with Draw-Win providing security against an initial low block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 07:05:46 UTC"
+}
