@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1490606,
+    "matchup": "Orlando City SC vs New England Revolution",
+    "home_team": "Orlando City SC",
+    "away_team": "New England Revolution",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-07 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-orlando-city-sc-vs-new-england-revolution/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Orlando City SC vs New England Revolution: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1490606",
+      "league": "Major League Soccer",
+      "matchup": "Orlando City SC vs New England Revolution",
+      "matchTime": "2026-11-07 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "New England's superior structural balance and transitional efficiency give them the decisive edge, though Orlando's elite home attack demands draw coverage via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance projection capitalizing on New England's attacking efficiency against Orlando's league-worst defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals reflecting combined lambda expectancy of 3.70 and chronic defensive concession rates (Confidence: High, Value: Moderate)",
+      "Correct scoreline convergence on 1:2 and 2:2 representing high-tempo open exchanges (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1490606",
+      "league": "Major League Soccer",
+      "homeTeam": "Orlando City SC",
+      "awayTeam": "New England Revolution",
+      "match_time": "21:00",
+      "match_highlight": "Gil's playmaking meets Orlando's porous defense in high-stakes Decision Day clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1490606,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "New England possesses the sharper transition punch to exploit Orlando's 78-goal leaky defense, but Orlando's strong 8-2-4 home scoring record warrants draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 3.70 and Orlando's 2.27 xGA per match firmly support an open, goal-rich encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A clinical 1:2 road victory leads the distribution, backed by a resilient 2:2 draw driven by Orlando's home attacking firepower."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals dominate probabilistic densities given both sides' prolific scoring and Orlando's backline concessions."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "New England's early transition potency drives halftime leads, converting into either a complete road win or a second-half Orlando comeback draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 09:11:53 UTC"
+}
