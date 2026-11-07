@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555420,
+    "matchup": "FC Luzern vs BSC Young Boys",
+    "home_team": "FC Luzern",
+    "away_team": "BSC Young Boys",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-07 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-fc-luzern-vs-bsc-young-boys/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Luzern vs BSC Young Boys Prediction & Match Analysis: Can Luzern Contain Essende? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1555420",
+      "league": "Super League",
+      "matchup": "FC Luzern vs BSC Young Boys",
+      "matchTime": "2026-11-07 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "BSC Young Boys possess superior attacking firepower to edge a high-scoring contest, but their defensive permeability requires retaining the draw.",
+    "possibilityAssessment": [
+      "BSC Young Boys win in a high-tempo transition battle (Confidence: Moderate, Value: High)",
+      "High-scoring draw resulting from Young Boys second-half lead erosion (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals capitalizing on both porous backlines (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555420",
+      "league": "Super League",
+      "homeTeam": "FC Luzern",
+      "awayTeam": "BSC Young Boys",
+      "match_time": "17:00",
+      "match_highlight": "High-scoring battle as Young Boys test Luzern backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555420,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Young Boys hold clear offensive supremacy but defensive fragility warrants retaining the high-scoring draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.94 goals and weak clean sheet records heavily favor an open encounter."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A competitive 1:2 Young Boys victory leads, with 2:2 covering late lead erosion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the dominant clusters in Poisson distribution modeling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "A level opening half preceding a Young Boys win leads, with a second-half Luzern comeback draw as secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 05:09:57 UTC"
+}
