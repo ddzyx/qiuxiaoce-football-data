@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1561962,
+    "matchup": "Ried vs Lask Linz",
+    "home_team": "Ried",
+    "away_team": "Lask Linz",
+    "league": null,
+    "kickoff_utc": "2026-11-07 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261107-ried-vs-lask-linz/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Bundesliga",
+      "matchId": "1561962",
+      "matchup": "Ried vs Lask Linz",
+      "matchTime": "2026-11-07 18:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Ried vs Lask Linz Prediction & Match Analysis: Upper Austria Derby Clash — Scoreline & xG Preview",
+    "coreRecommendation": "LASK's superior attacking quality faces heavy resistance from a well-rested Ried side, making Draw / Away Win the optimal risk-adjusted thesis.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A tight first half in derby conditions gives way to LASK's superior second-half attacking quality.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers LASK's class-driven 1:2 victory while insulating against Ried's proven capacity to force home stalemates.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "3 goals represents the modal model convergence with 2 goals providing the primary defensive alternative.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Primary 1:2 reflects LASK second-half depth breakthrough, while secondary 1:1 captures a resilient derby deadlock.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Bundesliga",
+      "matchId": "1561962",
+      "awayTeam": "Lask Linz",
+      "homeTeam": "Ried",
+      "fixtureId": 1561962,
+      "match_time": "18:30",
+      "over_under": {
+        "comment": "Backed by combined domestic scoring rates exceeding 3.4 goals per match and porous recent defensive metrics.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Upper Austria Derby puts LASK's European legs against Ried's unbeaten momentum"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "LASK utilize superior transitional attacking quality to edge a competitive encounter 1:2 (Confidence: Moderate, Value: High)",
+      "SV Ried exploit LASK European fatigue to secure a hard-fought 1:1 regional derby stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-event offensive exchange pushes the goal tally Over 2.5 in a multi-goal contest (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-4",
+    "halftime_score": "2-2",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-07 20:45:13 UTC"
+  }
+}
