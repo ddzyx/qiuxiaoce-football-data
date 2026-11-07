@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570004,
+    "matchup": "Burgos vs Celta de Vigo II",
+    "home_team": "Burgos",
+    "away_team": "Celta de Vigo II",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-07 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-burgos-vs-celta-de-vigo-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burgos vs Celta de Vigo II Prediction: El Plantío Fortress Exploits Leaky Backline — Model Analysis",
+    "meta": {
+      "matchId": "1570004",
+      "league": "Segunda División",
+      "matchup": "Burgos vs Celta de Vigo II",
+      "matchTime": "2026-11-07 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Burgos' proven home resilience and Celta de Vigo II's porous road defense point decisively toward a home win at El Plantío.",
+    "possibilityAssessment": [
+      "Burgos exploit Celta II's defensive transitions to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Open game flow drives total scoring over the 2.5-goal threshold (Confidence: Moderate, Value: Moderate)",
+      "Burgos manage game tempo after the interval to record a 2:0 clean sheet (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570004",
+      "league": "Segunda División",
+      "homeTeam": "Burgos",
+      "awayTeam": "Celta de Vigo II",
+      "match_time": "13:00",
+      "match_highlight": "El Plantío fortress tests leaky Galician defense in tactical clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570004,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Burgos' dominant home record and superior defensive structure make them solid favorites against Celta Fortuna."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Celta de Vigo II's porous backline conceding 1.92 goals per game creates a high probability of exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Burgos' attacking edge over Celta II's defense alongside a visitor consolation goal."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals represents the primary convergence point based on Celta II's high-tempo match tendencies."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Burgos' frequent first-half draws at home followed by decisive second-half acceleration support Draw-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 01:05:13 UTC"
+}
