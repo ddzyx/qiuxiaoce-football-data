@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559190,
+    "matchup": "RSC Anderlecht II vs Club Brugge II",
+    "home_team": "RSC Anderlecht II",
+    "away_team": "Club Brugge II",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-11-07 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-rsc-anderlecht-ii-vs-club-brugge-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RSC Anderlecht II vs Club Brugge II Prediction: U23 Derby xG Breakdown & Scoreline Forecast",
+    "meta": {
+      "matchId": "1559190",
+      "league": "Challenger Pro League",
+      "matchup": "RSC Anderlecht II vs Club Brugge II",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Club Brugge II to avoid defeat in an open, high-scoring contest with Draw / Away Win and Over 2.5 Goals.",
+    "possibilityAssessment": [
+      "Club NXT capitalize on a 72-hour rest disparity to edge a 1:2 away victory (Confidence: Moderate, Value: High)",
+      "Both porous backlines trade defensive errors resulting in a high-tempo 2:2 score draw (Confidence: Low, Value: Moderate)",
+      "Total goals surpass the 2.5 threshold driven by a 3.50 combined lambda expectancy (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559190",
+      "league": "Challenger Pro League",
+      "homeTeam": "RSC Anderlecht II",
+      "awayTeam": "Club Brugge II",
+      "match_time": "15:00",
+      "match_highlight": "U23 derby collision defined by acute rest disparity and leaky defenses.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559190,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Club NXT's superior firepower and freshness alongside the persistent draw risk posed by their fragile defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both developmental sides concede an identical 2.13 goals per match, producing an elevated 3.50 total goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "The 1:2 scoreline reflects Club NXT's late physical edge, while 2:2 accounts for their inability to protect advantages."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the dominant probability mass in an open, end-to-end transitional matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anderlecht's initial low block holds level before second-half fatigue enables Club NXT's late breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 03:21:02 UTC"
+}
