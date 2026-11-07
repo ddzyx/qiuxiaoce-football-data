@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552221,
+    "matchup": "Heerenveen vs Feyenoord",
+    "home_team": "Heerenveen",
+    "away_team": "Feyenoord",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-08 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-heerenveen-vs-feyenoord/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Heerenveen vs Feyenoord Prediction: Can Depleted Leaders Withstand Abe Lenstra Test? — xG Preview",
+    "meta": {
+      "matchId": "1552221",
+      "league": "Eredivisie",
+      "matchup": "Heerenveen vs Feyenoord",
+      "matchTime": "2026-11-08 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Feyenoord's superior attacking firepower provides the winning edge, but extensive defensive injuries and European fatigue make Draw / Away Win the optimal selection.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance trajectory accounts for Feyenoord's offensive class while hedging against defensive rotation fragility (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals aligns with high combined goal expectancies and historical head-to-head precedent (Confidence: Moderate, Value: Moderate)",
+      "1:2 Primary Scoreline captures an open, competitive encounter where the visitors outlast a spirited home side (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552221",
+      "league": "Eredivisie",
+      "homeTeam": "Heerenveen",
+      "awayTeam": "Feyenoord",
+      "match_time": "11:15",
+      "match_highlight": "Depleted Feyenoord defense faces surging Frisian counter-attack at Abe Lenstra.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552221,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Feyenoord's attacking class to take the points alongside a score-draw hedge necessitated by five missing defenders."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model total lambda of 3.35 and decimated backlines favor a minimum of three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 reflects away offensive superiority, while 1:1 hedges against post-European fatigue."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the primary convergence point, with two goals providing secondary low-block coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Heerenveen's 66.7% home half-time draw rate points to a level opening half before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 23:19:23 UTC"
+}
