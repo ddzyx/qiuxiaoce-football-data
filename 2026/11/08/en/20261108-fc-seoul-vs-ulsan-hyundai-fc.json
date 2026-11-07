@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647379,
+    "matchup": "FC Seoul vs Ulsan Hyundai FC",
+    "home_team": "FC Seoul",
+    "away_team": "Ulsan Hyundai FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-08 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-fc-seoul-vs-ulsan-hyundai-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Seoul vs Ulsan Hyundai FC Prediction: Post-Title Dynamics vs ACLE Ambition — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1647379",
+      "league": "K League 1",
+      "matchup": "FC Seoul vs Ulsan Hyundai FC",
+      "matchTime": "2026-11-08 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Seoul Double Chance (Home Win / Draw) in a high-tempo contest featuring over 2.5 total goals.",
+    "possibilityAssessment": [
+      "FC Seoul maintain structural dominance at home to secure a narrow 2:1 victory (Confidence: Moderate, Value: High)",
+      "Ulsan's desperate ACLE motivation yields a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "High-tempo attacking transitions drive the aggregate total Over 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647379",
+      "league": "K League 1",
+      "homeTeam": "FC Seoul",
+      "awayTeam": "Ulsan Hyundai FC",
+      "match_time": "05:00",
+      "match_highlight": "Ulsan seek ACLE qualification against relaxed champions FC Seoul at Sangam.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647379,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "FC Seoul hold structural superiority at Sangam, but Ulsan's acute ACLE motivation requires covering the stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined attacking output (2.85 lambda total) and vulnerable transitions favor an open contest exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A competitive 2:1 home triumph represents the primary model anchor, while a 1:1 deadlock captures Ulsan's urgency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead probability densities through exchanged strikes, with two goals offering secondary coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A deadlocked opening half reflects Seoul's 64.7% home HT draw rate before second-half adjustments unfold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-07 17:08:33 UTC"
+}
