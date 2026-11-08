@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494332,
+    "matchup": "IFK Goteborg vs Malmo FF",
+    "home_team": "IFK Goteborg",
+    "away_team": "Malmo FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-08 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-ifk-goteborg-vs-malmo-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling IFK Goteborg vs Malmo FF: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1494332",
+      "league": "Allsvenskan",
+      "matchup": "IFK Goteborg vs Malmo FF",
+      "matchTime": "2026-11-08 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "IFK Göteborg are primed to exploit Malmö FF's depleted central defense and secure at least a point in a contested 1:1 or 2:1 clash at Gamla Ullevi.",
+    "possibilityAssessment": [
+      "IFK Göteborg Avoids Defeat / Home Win or Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on late-season tactical tightening (Confidence: Moderate, Value: Moderate)",
+      "1:1 Stalemate as modal exact scoreline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494332",
+      "league": "Allsvenskan",
+      "homeTeam": "IFK Goteborg",
+      "awayTeam": "Malmo FF",
+      "match_time": "13:00",
+      "match_highlight": "Blåvitt challenge depleted Malmö defense at Gamla Ullevi",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494332,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 stalemate and a 2:1 Göteborg win exploiting Malmö's depleted central defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Modal concentration at 1:1 with recent low-scoring form offsetting season raw lambdas."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Captures the dominant statistical deadlock alongside Göteborg's secondary winning margin."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Aligns with the primary 1:1 projection and secondary 2:1 home victory script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Reflects first-half parity before a level finish or late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 01:06:26 UTC"
+}
