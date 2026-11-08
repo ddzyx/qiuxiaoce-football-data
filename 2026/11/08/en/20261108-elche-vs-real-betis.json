@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570445,
+    "matchup": "Elche vs Real Betis",
+    "home_team": "Elche",
+    "away_team": "Real Betis",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-08 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-elche-vs-real-betis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Elche vs Real Betis Prediction & Match Analysis: Midfield Void Meets Road Fatigue — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570445",
+      "league": "La Liga",
+      "matchup": "Elche vs Real Betis",
+      "matchTime": "2026-11-08 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Betis to leverage structural quality and navigate European fatigue to secure a low-scoring result in a Draw / Away Win corridor.",
+    "possibilityAssessment": [
+      "Real Betis edge a narrow road victory via second-half control (Confidence: Moderate, Value: High)",
+      "Total match scoring remains firmly restricted below the 2.5-goal threshold (Confidence: High, Value: High)",
+      "Fatigue-induced second-half drop-off allows Elche to salvage a 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570445",
+      "league": "La Liga",
+      "homeTeam": "Elche",
+      "awayTeam": "Real Betis",
+      "match_time": "13:00",
+      "match_highlight": "Betis aim to overcome Dortmund hangover against Elche's depleted midfield",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570445,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Betis's technical edge outweighs Elche's attack, with draw coverage hedging against midweek Champions League fatigue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A low combined goal expectancy of 1.97 and Elche's first-half goal drought strongly favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Betis's pattern of one-goal away victories alongside the risk of a late Elche equalizer."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "The Poisson distribution projects 1 or 2 total goals as holding over 54% cumulative probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Anticipates a tight opening half before Betis's superior depth decides the points in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 01:09:07 UTC"
+}
