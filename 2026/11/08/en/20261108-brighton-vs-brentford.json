@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557458,
+    "matchup": "Brighton vs Brentford",
+    "home_team": "Brighton",
+    "away_team": "Brentford",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-brighton-vs-brentford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brighton vs Brentford Prediction: Can Bees Exploit Seagulls' European Fatigue? — XG Mind AI Model",
+    "meta": {
+      "matchId": "1557458",
+      "league": "Premier League",
+      "matchup": "Brighton vs Brentford",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brighton's territorial supremacy and chance creation make them probable victors, but European congestion and Brentford's resilient road draw record warrant double-chance protection via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Brighton overcome fatigue to break down Brentford's low block in a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Brentford's road resilience and Igor Thiago's transition threat hold Brighton to a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "High-tempo tactical exchange pushes total match goals over the 2.5 threshold (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557458",
+      "league": "Premier League",
+      "homeTeam": "Brighton",
+      "awayTeam": "Brentford",
+      "match_time": "14:00",
+      "match_highlight": "Seagulls battle resilient Bees following demanding European trip to Getafe",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557458,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Brighton possess superior attacking quality and home form, but Brentford's four consecutive away draws and Brighton's 72-hour turnaround warrant covering the stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Brighton's 2.7 home goal average and Brentford's transition threat via Igor Thiago support a high-tempo match exceeding the 2.5 goal line."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Brighton's 2-1 victory as the primary winning vector while preserving a 1-1 deadlock as the primary draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Directly aligned with the 2:1 primary scoreline and 1:1 secondary stalemate scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Brighton to break through in the second half following early Brentford resistance, with an early home lead as secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:07:32 UTC"
+}
