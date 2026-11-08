@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570011,
+    "matchup": "Las Palmas vs Eldense",
+    "home_team": "Las Palmas",
+    "away_team": "Eldense",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-08 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-las-palmas-vs-eldense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Las Palmas vs Eldense: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1570011",
+      "league": "Segunda División",
+      "matchup": "Las Palmas vs Eldense",
+      "matchTime": "2026-11-08 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Las Palmas to secure points in a controlled, low-scoring encounter via a Home Win / Draw double chance structure.",
+    "possibilityAssessment": [
+      "Las Palmas secures a controlled 2:0 home victory through superior technical possession (Confidence: Moderate, Value: Moderate)",
+      "Disciplined low block from Eldense forces a 1:1 tactical stalemate (Confidence: Moderate, Value: Moderate)",
+      "Severe weather and midfield attrition suppress total scoring under 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570011",
+      "league": "Segunda División",
+      "homeTeam": "Las Palmas",
+      "awayTeam": "Eldense",
+      "match_time": "17:30",
+      "match_highlight": "Las Palmas possession dominance meets Eldense road scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570011,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Las Palmas' technical superiority while providing necessary protection against defensive transition slip-ups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Eldense's 66.7% away scoring failure rate aligns with a tight, weather-affected tactical battle."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Reflects the primary 2:0 home control scenario alongside a secondary 1:1 low-block stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact counts of two and one goals capture over 64% of projected game-state distributions."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Las Palmas' 50% home half-time lead rate supports Win-Win, with Draw-Draw covering the low-block stall."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 05:36:08 UTC"
+}
