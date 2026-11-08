@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550191,
+    "matchup": "Inter vs Como",
+    "home_team": "Inter",
+    "away_team": "Como",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-08 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-inter-vs-como/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inter vs Como Prediction & Match Analysis: Can Thuram Breach Como's Defense? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550191",
+      "league": "Serie A",
+      "matchup": "Inter vs Como",
+      "matchTime": "2026-11-08 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter's overwhelming home shot creation and transitional edge give them the decisive advantage, though Como's defensive solidity warrants covering the draw via Home Win / Draw.",
+    "possibilityAssessment": [
+      "Primary Thesis: Inter secures a hard-fought home victory as Marcus Thuram exploits Como's high defensive line (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: High attacking volume pushes the match beyond 2.5 total goals as both frontlines generate quality chances (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Como holds firm through a disciplined low block to claim a resilient 1:1 stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550191",
+      "league": "Serie A",
+      "homeTeam": "Inter",
+      "awayTeam": "Como",
+      "match_time": "17:00",
+      "match_highlight": "Inter's perfect home record collides with Como's league-best defense at San Siro.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550191,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Inter's 100% home record leads the primary script, while Como's compact defense and Lautaro's absence warrant draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.44 and elite transitional firepower favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 Inter victory reflects home dominance, with 1:1 serving as the primary defensive deadlock hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal Poisson density, while two goals captures a tight defensive contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Inter's late-accelerating profile (80% home Draw-Win rate) leads, supported by Draw-Draw for stalemate scenarios."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 05:05:09 UTC"
+}
