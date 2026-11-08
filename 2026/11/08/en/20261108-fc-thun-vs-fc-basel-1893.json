@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555423,
+    "matchup": "FC Thun vs FC Basel 1893",
+    "home_team": "FC Thun",
+    "away_team": "FC Basel 1893",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-08 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-fc-thun-vs-fc-basel-1893/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Thun vs FC Basel 1893 Prediction & Match Analysis: Can Thun Halt Defensive Rot? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1555423",
+      "league": "Super League",
+      "matchup": "FC Thun vs FC Basel 1893",
+      "matchTime": "2026-11-08 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Basel 1893 to capitalize on a substantial rest advantage and defeat a fatigued FC Thun defense that has leaked 34 league goals.",
+    "possibilityAssessment": [
+      "Basel exploitation of Thun transitional fatigue to secure an away win (Confidence: Moderate, Value: High)",
+      "High-scoring encounter exceeding 2.5 total goals driven by Thun's open style (Confidence: High, Value: Moderate)",
+      "Both teams scoring with Basel edging the contest 2:1 (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555423",
+      "league": "Super League",
+      "homeTeam": "FC Thun",
+      "awayTeam": "FC Basel 1893",
+      "match_time": "15:30",
+      "match_highlight": "Basel rest advantage targets Thun's league-worst 34 conceded goals.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555423,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Basel's superior physical freshness and playmaking exploit Thun's fatigued, injury-hit defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Thun's league-high 4.83 total goals per game and 3.86 combined lambda support an open clash."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Clinical away finishing punishes Thun's exposed backline while the hosts contribute a goal."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Combined lambda expectancy of 3.86 concentrates peak model density across 3 and 4 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A competitive first half gives way to Basel's physical freshness and superior bench impact."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:37:20 UTC"
+}
