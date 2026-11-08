@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505555,
+    "matchup": "A. Italiano vs Coquimbo Unido",
+    "home_team": "A. Italiano",
+    "away_team": "Coquimbo Unido",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-08 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-a-italiano-vs-coquimbo-unido/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Audax Italiano vs Coquimbo Unido Prediction: Tactical Gridlock at La Florida — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1505555",
+      "league": "Primera División",
+      "matchup": "A. Italiano vs Coquimbo Unido",
+      "matchTime": "2026-11-08 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Coquimbo Unido to avoid defeat in a competitive encounter dominated by the draw (Draw / Away Win).",
+    "possibilityAssessment": [
+      "Tactical stalemate leading to a 1:1 draw as Audax's home resilience cancels out Coquimbo's road passivity (Confidence: Moderate, Value: Moderate)",
+      "Coquimbo edges a narrow 1:2 victory via late transition strikes against a tired home defense (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring defensive gridlock staying firmly Under 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505555",
+      "league": "Primera División",
+      "homeTeam": "A. Italiano",
+      "awayTeam": "Coquimbo Unido",
+      "match_time": "15:30",
+      "match_highlight": "Audax home resilience meets Coquimbo transition firepower at La Florida.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505555,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Coquimbo holds the firepower advantage but their 63.6% away loss rate makes the draw the primary outcome to protect."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Audax's five straight Under 2.5 matches and disciplined low block limit overall goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 stalemate represents the modal statistical convergence, with a 1:2 away win as the secondary branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the most probable exact outcome, followed by three goals on the away transition branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "High first-half draw tendencies for both sides point to a level interval followed by a shared result or late away strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:35:51 UTC"
+}
