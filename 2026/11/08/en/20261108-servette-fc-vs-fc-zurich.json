@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555421,
+    "matchup": "Servette FC vs FC Zurich",
+    "home_team": "Servette FC",
+    "away_team": "FC Zurich",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-08 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-servette-fc-vs-fc-zurich/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Servette FC vs FC Zurich Prediction & Match Analysis: Can Servette Exploit Zurich's Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1555421",
+      "league": "Super League",
+      "matchup": "Servette FC vs FC Zurich",
+      "matchTime": "2026-11-08 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Servette FC are positioned to exploit FC Zurich's porous defense to secure a victory or draw in a high-scoring encounter.",
+    "possibilityAssessment": [
+      "Home Win / Draw thesis supported by Zurich's zero clean sheets and key midfield absences (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by combined 3.64 goal expectancy and high attacking volume (Confidence: High, Value: High)",
+      "2:2 High-Scoring Draw accounting for Zurich's resilient away comeback record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555421",
+      "league": "Super League",
+      "homeTeam": "Servette FC",
+      "awayTeam": "FC Zurich",
+      "match_time": "15:30",
+      "match_highlight": "Servette host Zurich's leaky defense in an open, high-scoring Swiss battle",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555421,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Servette hold the structural and health advantage at home, while the draw covers Zurich's dangerous counter-attack."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Zurich's 4.25 total match goal average and lack of clean sheets make Over 2.5 the standout projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence, with 2:2 reflecting Zurich's second-half resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson distribution modes peak at 3 and 4 total goals given both teams' high attacking efficiency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides exhibit 50% half-time draw rates, paving the way for decisive second-half developments."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:37:03 UTC"
+}
