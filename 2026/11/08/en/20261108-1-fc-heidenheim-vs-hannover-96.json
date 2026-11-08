@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576226,
+    "matchup": "1. FC Heidenheim vs Hannover 96",
+    "home_team": "1. FC Heidenheim",
+    "away_team": "Hannover 96",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-08 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-1-fc-heidenheim-vs-hannover-96/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Heidenheim vs Hannover 96 Prediction: Can High-xG Hosts Snap Winless Slide? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576226",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Heidenheim vs Hannover 96",
+      "matchTime": "2026-11-08 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back 1. FC Heidenheim to leverage their league-leading chance creation and home fortress to defeat road-weary Hannover 96.",
+    "possibilityAssessment": [
+      "1. FC Heidenheim regulation victory driven by underlying xG superiority and unbeaten home form (Confidence: Moderate, Value: High)",
+      "Total match scoring to surpass 2.5 goals based on high combined chance creation and defensive transitions (Confidence: High, Value: Moderate)",
+      "Both teams to score reflecting Heidenheim's 1.8 conceded goals per match and Hartel's counter threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576226",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Heidenheim",
+      "awayTeam": "Hannover 96",
+      "match_time": "12:30",
+      "match_highlight": "Heidenheim's elite xG creation tackles Hannover's vulnerable road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576226,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Heidenheim's division-leading 2.37 xG per match and unbeaten home record outweigh Hannover's 80% road loss rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Statistical Poisson expectancy of 3.05 to 3.50 goals combined with Heidenheim's high-tempo crossing ensures ample box action."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory naturally converges Heidenheim's box dominance with their occasional defensive vulnerability, backed by a 2:0 clean sheet scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome at 21.6% density, with two goals offering a robust secondary alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Hannover draws at halftime in 60% of away matches while Heidenheim accelerates after the break, scoring 72.7% of home goals in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 00:35:10 UTC"
+}
