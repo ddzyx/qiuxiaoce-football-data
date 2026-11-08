@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549052,
+    "matchup": "Aarhus vs AC Horsens",
+    "home_team": "Aarhus",
+    "away_team": "AC Horsens",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-08 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-aarhus-vs-ac-horsens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Aarhus vs AC Horsens: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1549052",
+      "league": "Superliga",
+      "matchup": "Aarhus vs AC Horsens",
+      "matchTime": "2026-11-08 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aarhus's home fortress and defensive stability will offset European fatigue and key absences to secure a result against AC Horsens' road-fragile setup.",
+    "possibilityAssessment": [
+      "Aarhus avoids defeat via structured positional control and set-piece superiority against Horsens' leaky away defense (Confidence: Moderate, Value: High)",
+      "Depleted frontline efficiency for Aarhus coupled with fatigue preservation drives total goals Under 2.5 (Confidence: Moderate, Value: High)",
+      "A tight, competitive stalemate crystallizes into a 1:1 deadlock as both sides trade transition and set-piece goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549052",
+      "league": "Superliga",
+      "homeTeam": "Aarhus",
+      "awayTeam": "AC Horsens",
+      "match_time": "13:00",
+      "match_highlight": "Aarhus rely on home stability against Horsens amid European fatigue and attacking absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549052,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Aarhus's 83.3% home unbeaten record and defensive structure while respecting Horsens's counter-attacking danger against a fatigued host."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aarhus is missing key goal contributors Serra and Arnstad on short rest, curbing open-play scoring against a Horsens team that struggled away at Viborg."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "The 1:1 stalemate represents the primary probabilistic convergence, with a 2:1 home victory serving as the set-piece breakthrough contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Expect a tightly managed 2-goal primary distribution, expanding to 3 goals only if Horsens's chronic road defensive errors force an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A measured, low-tempo opening half between fatigued hosts and cautious visitors leads to a level break before second-half tactical separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 01:06:28 UTC"
+}
