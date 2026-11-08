@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494335,
+    "matchup": "Kalmar FF vs Sirius",
+    "home_team": "Kalmar FF",
+    "away_team": "Sirius",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-08 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-kalmar-ff-vs-sirius/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Kalmar FF vs Sirius: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1494335",
+      "league": "Allsvenskan",
+      "matchup": "Kalmar FF vs Sirius",
+      "matchTime": "2026-11-08 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sirius to leverage their 75 percent away win rate and clinical attack to secure a regulation victory over low-scoring Kalmar FF.",
+    "possibilityAssessment": [
+      "Away Win via controlled 0:2 or 1:2 scoreline driven by Sirius's superior 1.94 xG per game (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by Kalmar failing to score in 53.8 percent of league matches (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring Draw in the event of an inspired defensive masterclass from Kalmar's backline (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494335",
+      "league": "Allsvenskan",
+      "homeTeam": "Kalmar FF",
+      "awayTeam": "Sirius",
+      "match_time": "15:30",
+      "match_highlight": "Sirius title push meets Kalmar's desperate relegation survival battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494335,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Sirius's league-leading away efficiency and attacking depth will overcome Kalmar's blunt defensive low block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Kalmar's severe goalscoring drought and Sirius's 41.7 percent away clean sheet rate point toward a controlled low total."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A clinical 0:2 road win represents the primary trajectory, with 1:2 serving as the high-tempo breakdown branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak density of model expectancy, while three goals accounts for late transition exploitation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Kalmar will battle to keep parity in the first half before Sirius's quality breaks through after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:33:56 UTC"
+}
