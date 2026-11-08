@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557459,
+    "matchup": "Crystal Palace vs Liverpool",
+    "home_team": "Crystal Palace",
+    "away_team": "Liverpool",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-crystal-palace-vs-liverpool/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Crystal Palace vs Liverpool: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1557459",
+      "league": "Premier League",
+      "matchup": "Crystal Palace vs Liverpool",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Liverpool's unbeaten away stability and attacking depth will overcome a toothless, suspended-hit Crystal Palace side in a disciplined low-scoring contest.",
+    "possibilityAssessment": [
+      "Liverpool control match tempo and capitalize on defensive errors to secure a clinical away victory (Confidence: Moderate, Value: High)",
+      "Crystal Palace adopt an ultra-compact low block to hold Liverpool to a low-scoring Under 2.5 game script (Confidence: Moderate, Value: Moderate)",
+      "Liverpool encounter physical resistance before breaking the deadlock in the second half via superior bench quality (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557459",
+      "league": "Premier League",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Liverpool",
+      "match_time": "14:00",
+      "match_highlight": "Mateta suspension cripples Palace attack against Iraola's travel-weary Reds",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557459,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Liverpool's unbeaten road record (3-1-0) and superior forward firepower will break through a Palace side missing banned talisman Mateta."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Palace have failed to score in three straight league outings, while Liverpool's post-Istanbul fatigue will temper excessive scoring volume."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "A controlled away performance points toward a shutout victory for Liverpool, with 0:2 representing the primary convergence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Underlying Poisson expectancies and Palace's attacking deficit heavily favour low-scoring totals of two or one."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Palace's compact early shell suggests parity at the interval before Liverpool's second-half quality settles the full-time result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:07:41 UTC"
+}
