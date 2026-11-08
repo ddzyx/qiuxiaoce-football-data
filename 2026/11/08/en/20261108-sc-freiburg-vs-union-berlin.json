@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575216,
+    "matchup": "SC Freiburg vs Union Berlin",
+    "home_team": "SC Freiburg",
+    "away_team": "Union Berlin",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-08 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-sc-freiburg-vs-union-berlin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Freiburg vs Union Berlin Prediction: Backline Crisis vs Set-Piece Edge — XG Mind AI Scoreline Analysis",
+    "meta": {
+      "matchId": "1575216",
+      "league": "Bundesliga",
+      "matchup": "SC Freiburg vs Union Berlin",
+      "matchTime": "2026-11-08 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Freiburg are projected to secure a regulation home victory against a depleted Union Berlin side missing suspended centre-back Felix Uduokhai.",
+    "possibilityAssessment": [
+      "SC Freiburg regulation victory driven by superior home efficiency and set-piece advantages (Confidence: Moderate, Value: High)",
+      "Total goals surpassing the 2.5 line anchored by Freiburg's 2:1 winning trajectory (Confidence: Moderate, Value: Moderate)",
+      "Attritional first half yielding a Draw-Win half-time/full-time transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575216",
+      "league": "Bundesliga",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "Union Berlin",
+      "match_time": "16:30",
+      "match_highlight": "Freiburg host depleted Union aiming to exploit Uduokhai's defensive suspension.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575216,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Freiburg's 75% home win rate and attacking depth will overpower a winless away Union side missing key defender Uduokhai."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Union concede 3.5 goals per away game while Freiburg average over two goals scored at home."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory represents the primary convergence, with 2:0 as the clean-sheet contingency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serves as the primary expectation, closely shadowed by a two-goal controlled home win."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Union's deep block should hold through a level first half before Freiburg accelerate after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:34:59 UTC"
+}
