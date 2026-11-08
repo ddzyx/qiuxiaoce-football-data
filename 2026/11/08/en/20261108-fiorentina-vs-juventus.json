@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550189,
+    "matchup": "Fiorentina vs Juventus",
+    "home_team": "Fiorentina",
+    "away_team": "Juventus",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-08 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261108-fiorentina-vs-juventus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Fiorentina vs Juventus: Expected Goals, Midfield Depletion & Model Analysis",
+    "meta": {
+      "matchId": "1550189",
+      "league": "Serie A",
+      "matchup": "Fiorentina vs Juventus",
+      "matchTime": "2026-11-08 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventus's midfield crisis and European fatigue balance Fiorentina's defensive vulnerabilities, pointing toward a low-scoring draw or narrow away win.",
+    "possibilityAssessment": [
+      "Tactical stalemate with both sides trading single goals (Confidence: Moderate, Value: High)",
+      "Juventus low-block preservation securing a clinical single-goal away victory (Confidence: Moderate, Value: Moderate)",
+      "Fiorentina exploiting second-half fatigue to hold home territorial ground (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550189",
+      "league": "Serie A",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Juventus",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Juventus midfield faces hostile Artemio Franchi after Europa League turnaround",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550189,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 1:1 stalemate and the secondary 0:1 defensive preservation script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Juventus's league-leading defensive record and fatigue decay suppress open chance creation."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Primary scoreline captures scoring parity; secondary scoreline captures an away defensive grind."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the natural Poisson intersection of both clubs' current output."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious first half expected before second-half fatigue and individual quality emerge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 07:49:49 UTC"
+}
