@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575541,
+    "matchup": "Rio Ave vs SC Braga",
+    "home_team": "Rio Ave",
+    "away_team": "SC Braga",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-08 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-rio-ave-vs-sc-braga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rio Ave vs SC Braga Prediction & Match Analysis: Can Vilacondenses Contain Horta's Threat? — Model Preview",
+    "meta": {
+      "matchId": "1575541",
+      "league": "Primeira Liga",
+      "matchup": "Rio Ave vs SC Braga",
+      "matchTime": "2026-11-08 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Braga are backed to secure a controlled away victory against a defensively vulnerable Rio Ave side.",
+    "possibilityAssessment": [
+      "SC Braga victory driven by defensive suppression and superior chance creation (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals supported by aggregate expected goals of 2.34 (Confidence: Moderate, Value: Moderate)",
+      "Correct score 0:2 reflecting complete away game-state control (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575541",
+      "league": "Primeira Liga",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "SC Braga",
+      "match_time": "20:30",
+      "match_highlight": "Braga's elite 0.75 xGA defense meets Rio Ave's fragile backline in Vila do Conde.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575541,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "SC Braga hold an overwhelming xG differential advantage (+6.9 vs -10.3) against a host that has lost 7 of 10 matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.34 and Braga's consecutive clean sheets support a low-scoring road win."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Braga's chance prevention points toward a clean sheet victory with 0:2 as the primary outcome."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates 48.9% probability across exactly one and two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Both sides exhibit 60% first-half draw rates, favoring a second-half breakthrough for Braga."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 08:34:18 UTC"
+}
