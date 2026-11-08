@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558676,
+    "matchup": "Union St. Gilloise vs Genk",
+    "home_team": "Union St. Gilloise",
+    "away_team": "Genk",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-08 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-union-st-gilloise-vs-genk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Union St. Gilloise vs Genk Prediction & Tactical Preview: xG Breakdown & Model Scoreline",
+    "meta": {
+      "matchId": "1558676",
+      "league": "Jupiler Pro League",
+      "matchup": "Union St. Gilloise vs Genk",
+      "matchTime": "2026-11-08 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Union Saint-Gilloise to defeat Genk in regulation time as their superior domestic scoring power overwhelms the visitors' winless road defense.",
+    "possibilityAssessment": [
+      "Union Saint-Gilloise to Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Match Goals (Confidence: High, Value: Moderate)",
+      "Union Saint-Gilloise to Win by Exactly 1 Goal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558676",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Union St. Gilloise",
+      "awayTeam": "Genk",
+      "match_time": "17:30",
+      "match_highlight": "Undefeated Union host winless away travellers Genk in Brussels.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558676,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Union Saint-Gilloise's league-leading 2.90 goals per match and unblemished domestic record clearly outmatch Genk's winless away campaign."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs clear Over 2.5 in 70% of league matches, underpinned by an aggregate 3.40 calculated lambda expectancy."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 victory captures Union's historical head-to-head dominance, while 2:0 reflects Genk's frequent away scoring droughts."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the modal distribution of Union's home attack, with two goals offering a defensive clean-sheet alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Union score 71.4% of home goals in the second half, favoring a breakthrough after a competitive opening 45 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 05:36:31 UTC"
+}
