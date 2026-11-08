@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1576224,
+    "matchup": "VfL Bochum vs Karlsruher SC",
+    "home_team": "VfL Bochum",
+    "away_team": "Karlsruher SC",
+    "league": null,
+    "kickoff_utc": "2026-11-08 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-vfl-bochum-vs-karlsruher-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "2. Bundesliga",
+      "matchId": "1576224",
+      "matchup": "VfL Bochum vs Karlsruher SC",
+      "matchTime": "2026-11-08 12:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "VfL Bochum vs Karlsruher SC Prediction & Match Analysis: Can Ruhrstadion Spark xG Rebound? — Scoreline Preview",
+    "coreRecommendation": "VfL Bochum's underlying metrics and defensive structure warrant backing them to avoid defeat via Home Win / Draw against a porous Karlsruher SC.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cautious opening half gives way to either a late Bochum breakthrough or a shared point.",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Bochum hold superior underlying process, but their home winless drought requires mandatory draw coverage.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Three goals represent the primary convergence point, with two goals providing a resilient lower baseline.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 home triumph reflects Bochum's attacking rebound, while 1:1 covers historical draw tendencies.",
+        "selection": [
+          "2:1",
+          "1:1"
+        ]
+      },
+      "league": "2. Bundesliga",
+      "matchId": "1576224",
+      "awayTeam": "Karlsruher SC",
+      "homeTeam": "VfL Bochum",
+      "fixtureId": 1576224,
+      "match_time": "12:30",
+      "over_under": {
+        "comment": "Karlsruhe concede 2.10 goals per match, driving combined goal expectancy over the 2.5 threshold.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Bochum xG rebound meets Karlsruhe defensive fragility at Ruhrstadion."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "VfL Bochum break through Karlsruhe's leaky defense to secure a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Karlsruhe's transition counters hold Bochum to a 1:1 historical deadlock (Confidence: Moderate, Value: High)",
+      "Defensive errors from both sides push total scoring Over 2.5 goals (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "1-1",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-08 14:42:29 UTC"
+  }
+}
