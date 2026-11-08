@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1494799,
+    "matchup": "Lillestrom vs Aalesund",
+    "home_team": "Lillestrom",
+    "away_team": "Aalesund",
+    "league": null,
+    "kickoff_utc": "2026-11-08 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-lillestrom-vs-aalesund/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Eliteserien",
+      "matchId": "1494799",
+      "matchup": "Lillestrom vs Aalesund",
+      "matchTime": "2026-11-08 16:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Lillestrom vs Aalesund Prediction: Defensive Fragility Meets Åråsen Firepower — Scoreline & xG Preview",
+    "coreRecommendation": "Lillestrøm's structured territorial superiority and offensive efficiency will inevitably overpower Aalesund's league-worst defense over 90 minutes.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Lillestrøm wears down opponents before striking late, winning 71.4% of matches tied at half-time.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Lillestrøm holds decisive structural superiority against an Aalesund backline that has conceded 57 goals in 25 matches.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Model density concentrates heavily across 3 and 4 total goals supported by a combined lambda of 3.695.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "A 2:1 victory serves as the central Poisson density anchor with 3:1 capturing late transition exploitation.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "Eliteserien",
+      "matchId": "1494799",
+      "awayTeam": "Aalesund",
+      "homeTeam": "Lillestrom",
+      "fixtureId": 1494799,
+      "match_time": "16:00",
+      "over_under": {
+        "comment": "Both clubs average over 1.65 xG per match and Aalesund has kept only one clean sheet all season.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Lillestrøm attack confronts Aalesund's league-worst defense at Åråsen."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win — Lillestrøm capitalizes on Aalesund's 2.33 xGA per match to secure three points (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Combined goal expectancy of 3.695 and chronic defensive leaks drive a high total (Confidence: High, Value: Moderate)",
+      "Both Teams To Score & Lillestrom Win — Accommodates Aalesund's transition scoring punch within a home victory script (Confidence: Moderate, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "1-2",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-08 18:41:42 UTC"
+  }
+}
