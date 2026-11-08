@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576527,
+    "matchup": "Farense vs Benfica B",
+    "home_team": "Farense",
+    "away_team": "Benfica B",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-farense-vs-benfica-b/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Farense vs Benfica B Prediction & Match Analysis: Faro Fortress Meets Águias Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1576527",
+      "league": "Segunda Liga",
+      "matchup": "Farense vs Benfica B",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win double-chance protection provides the most resilient coverage for a tightly contested, low-scoring second-tier clash.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance capturing a 1:1 deadlock and 0:1 away counter (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by Benfica B's 0.67 goals conceded per match (Confidence: Moderate, Value: High)",
+      "Correct Score 1:1 representing modal Poisson convergence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576527",
+      "league": "Segunda Liga",
+      "homeTeam": "Farense",
+      "awayTeam": "Benfica B",
+      "match_time": "14:00",
+      "match_highlight": "Faro fortress tests Benfica B defensive rigour in second-tier promotion clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576527,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a tight 1:1 stalemate alongside a 0:1 away victory dictated by Benfica B's elite defensive structure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson lambda of 2.40 and Benfica B's 0.67 conceded goals per match heavily favour Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 deadlock serves as the primary matrix anchor, with a 0:1 away steal as the primary contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The two most probable discrete Poisson distributions project 2 goals followed closely by 1 goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "First-half parity is heavily supported by both sides' slow early scoring shares before second-half divergence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:12:21 UTC"
+}
