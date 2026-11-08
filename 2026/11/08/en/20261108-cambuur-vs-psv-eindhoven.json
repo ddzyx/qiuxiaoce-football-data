@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552219,
+    "matchup": "Cambuur vs PSV Eindhoven",
+    "home_team": "Cambuur",
+    "away_team": "PSV Eindhoven",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-08 15:45:00",
+    "source_url": "https://xgmind.com/matches/20261108-cambuur-vs-psv-eindhoven/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cambuur vs PSV Eindhoven Prediction: Can Bosz's Attack Pierce Kooi Fortress? — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1552219",
+      "league": "Eredivisie",
+      "matchup": "Cambuur vs PSV Eindhoven",
+      "matchTime": "2026-11-08 15:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back PSV Eindhoven to claim victory in regulation time amidst an open, multi-goal contest.",
+    "possibilityAssessment": [
+      "PSV Eindhoven assert attacking supremacy to edge a high-tempo 1:2 victory (Confidence: Moderate, Value: High)",
+      "Both teams trade goals in an expansive encounter surpassing 2.5 total goals (Confidence: High, Value: Moderate)",
+      "Cambuur push late but PSV exploit transition space to secure a 1:3 road win (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552219",
+      "league": "Eredivisie",
+      "homeTeam": "Cambuur",
+      "awayTeam": "PSV Eindhoven",
+      "match_time": "15:45",
+      "match_highlight": "PSV attack tests Cambuur's unbeaten home streak at Kooi Stadion",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552219,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "PSV Eindhoven's superior attacking caliber and 3.18 goals per match output provide the decisive edge over Cambuur's porous backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides possess prolific attacking metrics with combined expected goal lambdas exceeding 3.7."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A competitive away triumph with Cambuur contributing on the scoresheet reflects the most accurate game-state trajectory."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Open tactical setups from both managers make three or four total goals the dominant probabilistic outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "PSV typically seize early first-half initiative, converting halftime leads into regulation victories."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:49:52 UTC"
+}
