@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570009,
+    "matchup": "Girona vs Almeria",
+    "home_team": "Girona",
+    "away_team": "Almeria",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-08 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-girona-vs-almeria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Girona vs Almeria Prediction & Match Analysis: Can Montilivi Halt Almeria's Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1570009",
+      "league": "Segunda División",
+      "matchup": "Girona vs Almeria",
+      "matchTime": "2026-11-08 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "UD Almería possess superior attacking firepower to claim points at Montilivi, supporting a Draw / Away Win direction led by a 1:2 scoreline.",
+    "possibilityAssessment": [
+      "Almería exploit late defensive transitions to secure a narrow road win (Confidence: Moderate, Value: Moderate)",
+      "Girona maintain home compactness to force a hard-fought 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open, multi-goal script pushes the match total beyond 2.5 goals (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570009",
+      "league": "Segunda División",
+      "homeTeam": "Girona",
+      "awayTeam": "Almeria",
+      "match_time": "15:15",
+      "match_highlight": "Montilivi home fortress tests Almeria's division-leading attack in promotion showdown",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570009,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Almería hold superior offensive efficiency, but Girona's 85.7% unbeaten home record makes a single away call incomplete without draw containment."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average approximately two goals per match, producing a 67.9% model expectancy for Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away victory represents the leading transitional script, while a 1:1 stalemate hedges Montilivi's stubborn home defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals serves as the primary convergence point of both attacks, with two goals offering a robust secondary threshold."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tight opening half yields an interval draw before Almería's second-half quality drives the decisive outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:18:45 UTC"
+}
