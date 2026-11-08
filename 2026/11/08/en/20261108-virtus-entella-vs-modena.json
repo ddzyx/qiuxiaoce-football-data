@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601597,
+    "matchup": "Virtus Entella vs Modena",
+    "home_team": "Virtus Entella",
+    "away_team": "Modena",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-virtus-entella-vs-modena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Virtus Entella vs Modena Prediction & Match Analysis: Can Chiappella's Low Block Stifle Belotti? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601597",
+      "league": "Serie B",
+      "matchup": "Virtus Entella vs Modena",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Modena to remain unbeaten at Chiavari via the Draw / Away Win corridor, anchored by Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Modena narrow road victory (0:1) as Belotti breaks down Entella's low block in the second half (Confidence: Moderate, Value: High)",
+      "Low-scoring stalemate (1:1) extending Entella's home draw pattern (Confidence: Moderate, Value: Moderate)",
+      "Defensive attrition keeping the match Under 2.5 Total Goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601597",
+      "league": "Serie B",
+      "homeTeam": "Virtus Entella",
+      "awayTeam": "Modena",
+      "match_time": "14:00",
+      "match_highlight": "Modena's Belotti tests Entella's winless home defense in Chiavari.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601597,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Modena's superior finishing edge warrants top billing, while Entella's 60% home draw rate justifies stalemate protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides operate under disciplined defensive schemes yielding low combined scoring averages."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A clinical 0:1 away win is the leading convergence point, followed by Entella's familiar 1:1 home scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The 2-goal and 1-goal bands dominate the Poisson distribution across low-block tactical game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half is expected before Modena's superior second-half bench quality decides the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:12:44 UTC"
+}
