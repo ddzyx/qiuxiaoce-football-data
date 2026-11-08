@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555081,
+    "matchup": "Yverdon Sport vs Neuchatel Xamax FC",
+    "home_team": "Yverdon Sport",
+    "away_team": "Neuchatel Xamax FC",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-08 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-yverdon-sport-vs-neuchatel-xamax-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yverdon Sport vs Neuchatel Xamax Prediction & Match Analysis: Can Abascal's Attack Unlock Xamax? — Scoreline Preview",
+    "meta": {
+      "matchId": "1555081",
+      "league": "Challenge League",
+      "matchup": "Yverdon Sport vs Neuchatel Xamax FC",
+      "matchTime": "2026-11-08 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Yverdon Sport to secure a regulation-time home victory against a defensively vulnerable Neuchatel Xamax side.",
+    "possibilityAssessment": [
+      "Home Win via sustained second-half pressure (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by combined 3.05 lambda expectation (Confidence: Moderate, Value: High)",
+      "Yverdon 2:0 clean sheet win if Xamax counter-attack is suppressed (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555081",
+      "league": "Challenge League",
+      "homeTeam": "Yverdon Sport",
+      "awayTeam": "Neuchatel Xamax FC",
+      "match_time": "15:30",
+      "match_highlight": "Unbeaten home hosts face fragile Xamax defense in Romandie derby clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555081,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Yverdon's undefeated home form and superior 1.90 goals-per-match output will overpower Xamax's porous backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson expectation of 3.05 total goals aligns with both sides averaging over 3.00 combined match goals this season."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "A 2:1 home victory reflects Yverdon's attacking strength and defensive concession tendencies, while 2:0 acts as a solid clean-sheet backup."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the primary convergence of both attacks, with two goals offering high-probability coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Xamax's first-half away resilience supports a level opening 45 minutes before Yverdon assert dominance after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:35:52 UTC"
+}
