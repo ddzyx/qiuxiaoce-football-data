@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553222,
+    "matchup": "Legia Warszawa vs Raków Częstochowa",
+    "home_team": "Legia Warszawa",
+    "away_team": "Raków Częstochowa",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-08 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-legia-warszawa-vs-rakow-czestochowa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Legia Warszawa vs Raków Częstochowa: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1553222",
+      "league": "Ekstraklasa",
+      "matchup": "Legia Warszawa vs Raków Częstochowa",
+      "matchTime": "2026-11-08 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Legia Warszawa hold structural superiority against Raków Częstochowa's leaky defense, with a 2:1 home victory leading while covering a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Legia Warszawa to win or draw via Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on combined 3.45 xG expectancy and Raków's high concession rate (Confidence: Moderate, Value: High)",
+      "Draw-Win Half-Time / Full-Time transition as Legia exploit late defensive fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553222",
+      "league": "Ekstraklasa",
+      "homeTeam": "Legia Warszawa",
+      "awayTeam": "Raków Częstochowa",
+      "match_time": "16:30",
+      "match_highlight": "Papszun confronts former club Raków in high-stakes clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553222,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Legia's structural edge against Raków's 2.25 xGA defense while safeguarding against Legia's 46.2% draw frequency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Raków's league-worst 2.2 conceded goals per game and combined 3.45 goal expectancy heavily tilt probability toward Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 represents Legia's second-half breakthrough, while secondary 1:1 accounts for Raków's persistent H2H spoiler capability."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Exact totals of 3 and 2 capture the primary 2:1 and secondary 1:1 game-state trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A compact opening 45 minutes gives way to second-half separation or a sustained level deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:35:06 UTC"
+}
