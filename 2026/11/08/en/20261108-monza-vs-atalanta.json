@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550192,
+    "matchup": "Monza vs Atalanta",
+    "home_team": "Monza",
+    "away_team": "Atalanta",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-monza-vs-atalanta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Monza vs Atalanta Prediction & Match Analysis: Can Juric Exploit Sarri's Crisis? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550192",
+      "league": "Serie A",
+      "matchup": "Monza vs Atalanta",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atalanta possess superior attacking ceiling to edge a 1:2 victory, but road fatigue and defensive absences warrant Draw / Away Win coverage.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance accommodates Atalanta's road struggles and European fatigue while respecting their technical edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals aligns with Monza's 100% scoring rate and combined 44 goals conceded across both teams (Confidence: High, Value: Moderate)",
+      "Score Draw contingency (1:1 or 2:2) covers second-half defensive fatigue in Sarri's depleted backline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550192",
+      "league": "Serie A",
+      "homeTeam": "Monza",
+      "awayTeam": "Atalanta",
+      "match_time": "14:00",
+      "match_highlight": "Sarri's road struggles meet Monza's vulnerable backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550192,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the narrow 1:2 away victory and the 1:1 stalemate given Atalanta's away winless run and defensive injuries."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both defenses have conceded over two goals per match on average, and Monza have scored in all ten fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 represents Atalanta's attacking edge over Monza's backline, while 1:1 reflects European fatigue stalling the visitors."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals is the primary expectation in an open contest, with 2 goals covering a balanced stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss reflects a competitive opening half decided by Atalanta's bench, while Loss-Loss accounts for an early Atalanta strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:04:47 UTC"
+}
