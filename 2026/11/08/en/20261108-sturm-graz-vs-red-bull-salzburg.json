@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1561964,
+    "matchup": "Sturm Graz vs Red Bull Salzburg",
+    "home_team": "Sturm Graz",
+    "away_team": "Red Bull Salzburg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-08 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-sturm-graz-vs-red-bull-salzburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sturm Graz vs Red Bull Salzburg Prediction & Match Analysis: Will Merkur Fortress Halt Bulls? — Scoreline Preview",
+    "meta": {
+      "matchId": "1561964",
+      "league": "Bundesliga",
+      "matchup": "Sturm Graz vs Red Bull Salzburg",
+      "matchTime": "2026-11-08 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Red Bull Salzburg to avoid defeat in a closely fought encounter best captured through a Draw / Away Win double chance and Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Sturm Graz hold Red Bull Salzburg to a 1:1 stalemate at Merkur Arena (Confidence: Moderate, Value: High)",
+      "Red Bull Salzburg break through late via bench depth for a 1:2 road victory (Confidence: Moderate, Value: Moderate)",
+      "Total match goals remain under the 2.5 benchmark due to short rest and tight defensive setups (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1561964",
+      "league": "Bundesliga",
+      "homeTeam": "Sturm Graz",
+      "awayTeam": "Red Bull Salzburg",
+      "match_time": "16:00",
+      "match_highlight": "Unbeaten home fortress meets undefeated league leaders in Graz",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1561964,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Salzburg's elite domestic defense protects against defeat, but three road draws and Sturm's unbeaten home form warrant draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derived total goal expectancy of 2.15 and European fatigue align with a controlled Under 2.5 trajectory."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "The 1:1 scoreline honors historical Merkur Arena meetings, while 1:2 accounts for Salzburg's late bench superiority."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the primary statistical anchor, with three goals covering the late decisive away break."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Salzburg's 80% away halftime draw rate supports level intervals, transitioning into either a full-time draw or late away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:06:44 UTC"
+}
