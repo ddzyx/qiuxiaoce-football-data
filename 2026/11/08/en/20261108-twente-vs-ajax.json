@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552222,
+    "matchup": "Twente vs Ajax",
+    "home_team": "Twente",
+    "away_team": "Ajax",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-08 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-twente-vs-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Twente vs Ajax: Expected Goals, Midfield Depletion & Eredivisie Match Intelligence",
+    "meta": {
+      "matchId": "1552222",
+      "league": "Eredivisie",
+      "matchup": "Twente vs Ajax",
+      "matchTime": "2026-11-08 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Twente on the Double Chance (Home Win / Draw) as their suffocating territorial control exploits Ajax's injury-depleted central midfield.",
+    "possibilityAssessment": [
+      "Twente utilize 73.6% possession and midfield superiority to break down Ajax's thinned spine in a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "Ajax lean on ter Stegen's shot-stopping and transition threat via Arokodare to force a competitive 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "An open, high-intensity encounter driven by defensive absences eclipses the Over 2.5 total goals threshold (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552222",
+      "league": "Eredivisie",
+      "homeTeam": "Twente",
+      "awayTeam": "Ajax",
+      "match_time": "13:30",
+      "match_highlight": "Twente's elite home territorial press targets Ajax's decimated midfield spine",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552222,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Twente's primary 2:1 home control script alongside a 1:1 transition hedge, guarding against single-margin variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.7 goals per game, and defensive absences will unlock high-probability scoring chances."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "The 2:1 scoreline represents the natural home control convergence, while 1:1 captures a resilient Ajax counter-attack."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the modal outcome of an open tactical clash, with two goals providing secondary coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Twente's 60% home half-time draw rate sets up a tight opening 45 minutes before second-half fatigue exposes Ajax."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 01:34:15 UTC"
+}
