@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1575215,
+    "matchup": "1899 Hoffenheim vs FC Schalke 04",
+    "home_team": "1899 Hoffenheim",
+    "away_team": "FC Schalke 04",
+    "league": null,
+    "kickoff_utc": "2026-11-08 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-1899-hoffenheim-vs-fc-schalke-04/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Bundesliga",
+      "matchId": "1575215",
+      "matchup": "1899 Hoffenheim vs FC Schalke 04",
+      "matchTime": "2026-11-08 18:30 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ],
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "1899 Hoffenheim vs FC Schalke 04 Prediction: Tactical Breakdown & Scoreline Projections — XG Mind AI",
+    "coreRecommendation": "1899 Hoffenheim are projected to overcome short European recovery time and secure a controlled victory against an offensively deficient FC Schalke 04 side.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Schalke's conservative low block can hold early before Hoffenheim's superior quality and depth decide the second half.",
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Hoffenheim possess clear structural and finishing advantages against a Schalke outfit that has scored just four league goals all season.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Exact goal totals of 2 and 1 represent over 55% combined probability density in statistical Poisson modeling.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Controlled home victories representing the convergence of Hoffenheim's chance creation and Schalke's toothless attack.",
+        "selection": [
+          "2:0",
+          "1:0"
+        ]
+      },
+      "league": "Bundesliga",
+      "matchId": "1575215",
+      "awayTeam": "FC Schalke 04",
+      "homeTeam": "1899 Hoffenheim",
+      "fixtureId": 1575215,
+      "match_time": "18:30",
+      "over_under": {
+        "comment": "An aggregate goal expectancy of 1.860 combined with Schalke failing to score in 6 of 8 games firmly favors a low-scoring contest.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Hoffenheim host shot-shy Schalke seeking a third straight competitive home win."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "1899 Hoffenheim win in regulation time via sustained territorial pressure and individual quality (Confidence: Moderate, Value: High)",
+      "Total match scoring remains Under 2.5 goals due to Schalke's league-worst 75% failure-to-score rate and Hoffenheim's game-state management (Confidence: High, Value: Moderate)",
+      "Defensive stalemate produces a low-scoring draw if Schalke's five-man defensive bunker withstands sustained box entries (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "2-0",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-08 20:41:52 UTC"
+  }
+}
