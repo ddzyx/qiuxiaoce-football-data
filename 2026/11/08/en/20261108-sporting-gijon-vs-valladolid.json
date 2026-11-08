@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570008,
+    "matchup": "Sporting Gijon vs Valladolid",
+    "home_team": "Sporting Gijon",
+    "away_team": "Valladolid",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-08 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-sporting-gijon-vs-valladolid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sporting Gijon vs Valladolid Prediction & Match Analysis: Pucela Test El Molinon — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1570008",
+      "league": "Segunda División",
+      "matchup": "Sporting Gijon vs Valladolid",
+      "matchTime": "2026-11-08 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sporting Gijon and Real Valladolid are projected to contest a balanced encounter where a 1:1 stalemate leads probabilities, with a narrow 2:1 home victory retained.",
+    "possibilityAssessment": [
+      "Stalemate scenario: A 1:1 draw represents the highest-density outcome as Sporting's injury-hit front line meets Valladolid's winless road setup (Confidence: Moderate, Value: Moderate)",
+      "Home edge scenario: A narrow 2:1 Sporting Gijon victory materializes if home defensive structure successfully repels late transitions (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring trajectory: Under 2.5 goals provides the sturdiest risk-adjusted boundary with both teams missing starting number nines Casas and Latasa (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570008",
+      "league": "Segunda División",
+      "homeTeam": "Sporting Gijon",
+      "awayTeam": "Valladolid",
+      "match_time": "17:30",
+      "match_highlight": "Depleted Sporting attack meets winless away Pucela at El Molinon",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570008,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 1:1 draw serves as the baseline convergence point, with a narrow 2:1 home victory retained due to Valladolid's winless road record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absences of top scorers Casas and Latasa suppress clinical box finishing, favoring a low-scoring ceiling under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Scoreline matrix heavily concentrates on 1:1 and 2:1, reflecting balanced territory and moderate defensive resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Total goals profile peaks sharply across the two-to-three goal band, aligning with the primary scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "First-half parity is heavily favored by Valladolid's 66.7% away HT draw rate, leading to second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 05:36:26 UTC"
+}
