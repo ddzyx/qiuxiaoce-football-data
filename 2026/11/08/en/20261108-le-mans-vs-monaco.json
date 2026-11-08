@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552814,
+    "matchup": "Le Mans vs Monaco",
+    "home_team": "Le Mans",
+    "away_team": "Monaco",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-08 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-le-mans-vs-monaco/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Le Mans vs Monaco: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1552814",
+      "league": "Ligue 1",
+      "matchup": "Le Mans vs Monaco",
+      "matchTime": "2026-11-08 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Monaco to avoid defeat with double-chance protection (Draw / Away Win) as superior individual quality overcomes tight turnaround fatigue.",
+    "possibilityAssessment": [
+      "Monaco victory via late attacking breakthrough (Confidence: Moderate, Value: High)",
+      "Low-scoring stalemate driven by post-European fatigue (Confidence: Moderate, Value: Moderate)",
+      "Le Mans transition steal against tired legs (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552814",
+      "league": "Ligue 1",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Monaco",
+      "match_time": "16:15",
+      "match_highlight": "Monaco look to overcome domestic slump against resilient Le Mans.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552814,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Monaco's superior attacking class while hedging against short European turnaround fatigue and Le Mans' solid home record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.30 and Le Mans' low conversion rate favor a contained scoreline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Monaco's decisive second-half quality edge alongside the primary low-block stalemate risk."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Scoring distribution converges tightly around two to three total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expect a balanced, goalless opening half before Monaco's superior depth impacts the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:20:52 UTC"
+}
