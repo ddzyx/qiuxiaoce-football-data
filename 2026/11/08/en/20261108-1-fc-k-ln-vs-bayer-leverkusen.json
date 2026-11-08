@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575219,
+    "matchup": "1. FC Köln vs Bayer Leverkusen",
+    "home_team": "1. FC Köln",
+    "away_team": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-08 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-1-fc-k-ln-vs-bayer-leverkusen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Köln vs Bayer Leverkusen Prediction & Match Analysis: Rhine Derby Fatigue & xG Preview",
+    "meta": {
+      "matchId": "1575219",
+      "league": "Bundesliga",
+      "matchup": "1. FC Köln vs Bayer Leverkusen",
+      "matchTime": "2026-11-08 14:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "1. FC Köln will defend their unbeaten home record and avoid defeat against an exhausted, reeling Bayer Leverkusen side.",
+    "possibilityAssessment": [
+      "1. FC Köln Avoids Defeat (Home Win / Draw) via compact low-block defense and rest advantage (Confidence: Value Upset, Value: High)",
+      "Under 2.5 Total Goals reflecting Köln forward injuries and Leverkusen road fatigue (Confidence: High, Value: Moderate)",
+      "Exact Scoreline 1:1 stalemate as tactical equilibrium between host defense and visitor pedigree (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575219",
+      "league": "Bundesliga",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "Bayer Leverkusen",
+      "match_time": "14:30",
+      "match_highlight": "Rest disparity and home fortress tilt Rhine Derby toward Köln resilience",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1575219,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the dominant 1:1 stalemate script and the 1:0 counter-attacking home win against a fatigued Leverkusen side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Köln's depleted front line and Leverkusen's European travel fatigue heavily restrict expected goal volume."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 draw represents the primary tactical equilibrium, while 1:0 captures a disciplined home clean-sheet scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals serves as the central scoring convergence, backed by a tight one-goal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey, goalless opening 45 minutes precedes second-half goals where Köln's freshness neutralizes Leverkusen."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:33:58 UTC"
+}
