@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1601599,
+    "matchup": "Vicenza Virtus vs Cremonese",
+    "home_team": "Vicenza Virtus",
+    "away_team": "Cremonese",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-08 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-lr-vicenza-vs-cremonese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vicenza Virtus vs Cremonese Prediction: Can Grigiorossi Exploit Fragile Hosts? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601599",
+      "league": "Serie B",
+      "matchup": "Vicenza Virtus vs Cremonese",
+      "matchTime": "2026-11-08 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cremonese to avoid defeat within a low-scoring game script via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win core thesis supported by Cremonese defensive form and Tsadjout absence (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals backed by 79.4% Poisson density and modest road scoring (Confidence: High, Value: Moderate)",
+      "Correct Score 0:1 as primary away victory convergence point (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601599",
+      "league": "Serie B",
+      "homeTeam": "Vicenza Virtus",
+      "awayTeam": "Cremonese",
+      "match_time": "18:30",
+      "match_highlight": "Cremonese look to exploit fragile Vicenza missing target man Tsadjout.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601599,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Cremonese's back-to-back clean sheets and Vicenza's defensive frailty favor the visitors, while road scoring limitations warrant draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson expected goals baseline yields an overwhelming 79.4% aggregate probability for two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "A clinical 0:1 Cremonese road win leads projections, with 1:1 covering the resilient home stalemate scenario."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson modeling concentrates 58.4% of probability density on exactly one or two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Vicenza's 75% home first-half draw rate supports level intervals before Cremonese's second-half edge takes effect."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 06:35:01 UTC"
+}
