@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552223,
+    "matchup": "Utrecht vs NEC Nijmegen",
+    "home_team": "Utrecht",
+    "away_team": "NEC Nijmegen",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-08 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-utrecht-vs-nec-nijmegen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Utrecht vs NEC Nijmegen Tactical Breakdown & Probabilistic Modeling: Galgenwaard Defensive Fragility vs European Fatigue",
+    "meta": {
+      "matchId": "1552223",
+      "league": "Eredivisie",
+      "matchup": "Utrecht vs NEC Nijmegen",
+      "matchTime": "2026-11-08 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Utrecht are projected to leverage their physical rest advantage and second-half home surge to secure a positive result against a fatigued NEC Nijmegen in an open, multi-goal contest.",
+    "possibilityAssessment": [
+      "FC Utrecht exploit NEC European fatigue to claim a 2:1 home victory (Confidence: Moderate, Value: High)",
+      "NEC ball retention and Utrecht defensive leakage force a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Late transition chaos pushes total scoring over 2.5 goals (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552223",
+      "league": "Eredivisie",
+      "homeTeam": "Utrecht",
+      "awayTeam": "NEC Nijmegen",
+      "match_time": "19:00",
+      "match_highlight": "Utrecht rest edge confronts fatigued NEC backline at Galgenwaard",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552223,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Utrecht's rest advantage supports an outright win while their 31 conceded goals mandate draw coverage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson expected goals of 3.54 and Utrecht's zero clean sheets strongly indicate an open affair."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "A 2:1 home win reflects second-half stamina divergence, while 1:1 covers NEC's draw resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 3-goal tally is the modal Poisson outcome, with 2 goals providing standard stalemate coverage."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Utrecht score 88.9% of home goals after half-time, pointing to level intervals before decisive second-half action."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 07:04:50 UTC"
+}
