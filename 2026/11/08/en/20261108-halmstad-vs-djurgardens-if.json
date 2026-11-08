@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494333,
+    "matchup": "Halmstad vs Djurgardens IF",
+    "home_team": "Halmstad",
+    "away_team": "Djurgardens IF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-08 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-halmstad-vs-djurgardens-if/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Halmstad vs Djurgardens IF Prediction: Low-Block Resistance Meets Stockholm Firepower — xG Preview",
+    "meta": {
+      "matchId": "1494333",
+      "league": "Allsvenskan",
+      "matchup": "Halmstad vs Djurgardens IF",
+      "matchTime": "2026-11-08 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Djurgårdens IF are projected to overcome Halmstad's low block and secure a crucial away victory to sustain their European push.",
+    "possibilityAssessment": [
+      "Away Win represents the most probable outcome given Djurgården's 69.2% away win rate and Halmstad's severe defensive vulnerabilities (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with Halmstad's low-block strategy and Djurgården's 61.5% road clean-sheet frequency (Confidence: Moderate, Value: Moderate)",
+      "0:2 Correct Score represents the primary convergence point between away attacking volume and defensive stability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494333",
+      "league": "Allsvenskan",
+      "homeTeam": "Halmstad",
+      "awayTeam": "Djurgardens IF",
+      "match_time": "13:00",
+      "match_highlight": "Djurgården pursue European qualification against bottom-placed Halmstad at Örjans Vall.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494333,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Djurgården possess overwhelming advantages in expected goals, chance creation, and road efficiency against the league's leakiest defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Djurgården concede only 0.90 goals per match away, while Halmstad have failed to score in half of their home fixtures."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "A controlled 0:2 victory represents the median projection, with 1:2 covering the scenario where Halmstad nick a consolation goal."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the most probable count under Djurgården's controlled away pacing, followed closely by three."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Halmstad frequently hold level until half-time at home before succumbing to Djurgården's superior second-half depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 01:06:07 UTC"
+}
