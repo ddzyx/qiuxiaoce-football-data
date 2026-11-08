@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1557464,
+    "matchup": "Manchester United vs Aston Villa",
+    "home_team": "Manchester United",
+    "away_team": "Aston Villa",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-08 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-manchester-united-vs-aston-villa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Manchester United vs Aston Villa Prediction & Match Analysis: Midfield Crisis Tests Carrick — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557464",
+      "league": "Premier League",
+      "matchup": "Manchester United vs Aston Villa",
+      "matchTime": "2026-11-08 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Manchester United's superior underlying chance creation (1.56 xG) and Old Trafford advantage provide a narrow edge against an Aston Villa side missing Matty Cash and Amadou Onana, supporting a Home Win / Draw selection.",
+    "possibilityAssessment": [
+      "Primary Thesis: Manchester United Home Win or Draw via second-half pressure exploiting Villa's depleted right flank (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Total Goals capitalizing on both sides missing defensive midfield anchors (Confidence: Moderate, Value: High)",
+      "Contingency Angle: 1:1 Stalemate if defensive fatigue and midfield caution prevail (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557464",
+      "league": "Premier League",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Aston Villa",
+      "match_time": "16:30",
+      "match_highlight": "Carrick fights for survival as depleted United host resilient Aston Villa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557464,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Manchester United home resurgence and a 1:1 stalemate, with single win undermined by United's defensive midfield injuries."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda expectancy of 3.06 and defensive absences (Baleba, Cash, Onana) favor an open three-goal match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 represents the primary second-half breakthrough script while 1:1 accounts for defensive fatigue and transition deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson densities peak at 3 goals (22.4%) followed closely by 2 goals (22.0%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "United score 80% of league goals after the interval, supporting a level first half before second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:34:56 UTC"
+}
