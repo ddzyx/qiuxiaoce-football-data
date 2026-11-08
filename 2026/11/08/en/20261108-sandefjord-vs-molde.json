@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494801,
+    "matchup": "Sandefjord vs Molde",
+    "home_team": "Sandefjord",
+    "away_team": "Molde",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-08 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-sandefjord-vs-molde/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sandefjord vs Molde: Expected Goals, Away Vulnerability & Match Intelligence",
+    "meta": {
+      "matchId": "1494801",
+      "league": "Eliteserien",
+      "matchup": "Sandefjord vs Molde",
+      "matchTime": "2026-11-08 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Molde's superior 2.34 xG attacking efficiency should ultimately prevail at Jotun Arena, though Sandefjord's 66.7% home unbeaten record warrants Draw / Away Win coverage.",
+    "possibilityAssessment": [
+      "Molde secures a high-tempo 1:2 road victory as second-half offensive rotations overwhelm Sandefjord's backline (Confidence: Moderate, Value: High)",
+      "Sandefjord maintains compact mid-block discipline to force a gritty 1:1 draw, capitalizing on Molde's 1.6 road goals conceded per match (Confidence: Moderate, Value: High)",
+      "An open end-to-end clash produces Over 2.5 goals as both sides exploit transitional defensive vulnerabilities (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494801",
+      "league": "Eliteserien",
+      "homeTeam": "Sandefjord",
+      "awayTeam": "Molde",
+      "match_time": "16:00",
+      "match_highlight": "Molde's elite attack tests Sandefjord's resilient Jotun Arena home record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494801,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Molde possess the attacking edge to claim a 1:2 victory, but Sandefjord's 66.7% home unbeaten rate justifies retaining the 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined goal expectancy of 3.20 to 3.54 goals and Molde's 2.4 goals-per-match rate strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A narrow 1:2 Molde victory represents the modal outcome, with a 1:1 stalemate as the primary risk branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 1:2 baseline, while two goals reflects the compact 1:1 contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Sandefjord regularly keep home first halves level before Molde's superior bench pushes them across the line in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:05:03 UTC"
+}
