@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1505562,
+    "matchup": "Union La Calera vs Huachipato",
+    "home_team": "Union La Calera",
+    "away_team": "Huachipato",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-08 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-union-la-calera-vs-huachipato/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Union La Calera vs Huachipato: Expected Goals, Relegation Stakes & Match Intelligence",
+    "meta": {
+      "matchId": "1505562",
+      "league": "Primera División",
+      "matchup": "Union La Calera vs Huachipato",
+      "matchTime": "2026-11-08 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Huachipato's elite five-match defensive resurgence positions them to withstand Union La Calera's survival push, supporting a Draw or Away Win in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Huachipato avoid defeat through compact transition defending (Confidence: Moderate, Value: High)",
+      "Total scoring remains restricted below 2.5 goals (Confidence: High, Value: Moderate)",
+      "Union La Calera salvage a narrow home point via set-piece persistence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505562",
+      "league": "Primera División",
+      "homeTeam": "Union La Calera",
+      "awayTeam": "Huachipato",
+      "match_time": "20:30",
+      "match_highlight": "Huachipato's defensive form meets La Calera's desperate home survival bid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505562,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Huachipato's superior defensive structure while respecting La Calera's home resilience in a tight survival battle."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Huachipato have conceded just one goal across their last five matches, strongly reinforcing a low-scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate or a clinical 0:1 away counter-attack represents the most coherent game-state convergence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Low scoring volumes dominate model distributions, led by exactly two goals and one goal."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious, low-event opening half is expected to preserve parity before tactical divergence in the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 08:34:27 UTC"
+}
