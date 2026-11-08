@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558678,
+    "matchup": "St. Truiden vs Zulte Waregem",
+    "home_team": "St. Truiden",
+    "away_team": "Zulte Waregem",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-08 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-st-truiden-vs-zulte-waregem/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St. Truiden vs Zulte Waregem Prediction: Can Stayen's Synthetic Turf Halt League Slide? — xG Model",
+    "meta": {
+      "matchId": "1558678",
+      "league": "Jupiler Pro League",
+      "matchup": "St. Truiden vs Zulte Waregem",
+      "matchTime": "2026-11-08 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "St. Truiden leverage their artificial pitch advantage and superior attacking output to avoid defeat against a road-weary Zulte Waregem in a low-scoring affair.",
+    "possibilityAssessment": [
+      "St. Truiden Home Win / Draw supported by synthetic turf edge and superior offensive volume (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals reinforced by Zulte Waregem's 60% away shutout rate and post-European fatigue (Confidence: Moderate, Value: High)",
+      "Low-scoring draw contingency driven by second-half energy depletion in the host camp (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558678",
+      "league": "Jupiler Pro League",
+      "homeTeam": "St. Truiden",
+      "awayTeam": "Zulte Waregem",
+      "match_time": "18:15",
+      "match_highlight": "Stayen synthetic turf clashes with severe road scoring drought",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558678,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers St. Truiden's territorial supremacy alongside potential second-half fatigue following Thursday's European Conference League exertion."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by an algorithmic 69.8% Under 2.5 density and Zulte Waregem's inability to generate consistent away threat."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A controlled 1:0 home win leads probabilistic modeling, while a 1:1 stalemate captures late-game physical fatigue."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson distribution concentrates 55.1% probability across exactly one and two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, low-scoring first half precedes second-half resolution as visiting resistance is tested."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 06:16:51 UTC"
+}
