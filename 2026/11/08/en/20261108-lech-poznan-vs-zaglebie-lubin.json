@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1553221,
+    "matchup": "Lech Poznan vs Zaglebie Lubin",
+    "home_team": "Lech Poznan",
+    "away_team": "Zaglebie Lubin",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-08 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-lech-poznan-vs-zaglebie-lubin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Lech Poznan vs Zaglebie Lubin: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1553221",
+      "league": "Ekstraklasa",
+      "matchup": "Lech Poznan vs Zaglebie Lubin",
+      "matchTime": "2026-11-08 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lech Poznan's elite home chance creation and 85.7% venue win rate will overpower Zaglebie Lubin's compact defense despite European travel fatigue.",
+    "possibilityAssessment": [
+      "Lech Poznan break down Zaglebie's low block in the second half to secure a 2:1 victory (Confidence: Moderate, Value: High)",
+      "Total match scoring surpasses the Over 2.5 threshold driven by Lech's high home goal volume (Confidence: Moderate, Value: Moderate)",
+      "Fatigued Lech settle for a frustrating 1:1 stalemate if early chances are squandered (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553221",
+      "league": "Ekstraklasa",
+      "homeTeam": "Lech Poznan",
+      "awayTeam": "Zaglebie Lubin",
+      "match_time": "19:15",
+      "match_highlight": "League leaders Lech face mid-block test amidst post-Lisbon fatigue",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553221,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Lech Poznan's dominant 2.31 xG baseline and formidable 6-1-0 home record outweigh offensive absences against a poor traveling side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Poisson model projects 3.08 total goals, supported by 10 of Lech's 12 league fixtures exceeding 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Primary 2:1 reflects home territorial control with second-half defensive fatigue; 2:0 represents clean-sheet game-state control."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represents the highest probability cluster (22.4%), followed by a controlled two-goal output (21.8%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Lech draw 71.4% of home first halves before winning 80.0% in the second period, making Draw-Win the prime chronological script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 07:19:32 UTC"
+}
