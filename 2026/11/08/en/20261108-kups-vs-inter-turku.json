@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1638121,
+    "matchup": "KuPS vs Inter Turku",
+    "home_team": "KuPS",
+    "away_team": "Inter Turku",
+    "league": "Veikkausliiga",
+    "kickoff_utc": "2026-11-08 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-kups-vs-inter-turku/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "KuPS vs Inter Turku Prediction: Title Ambition Collides with European Fatigue — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1638121",
+      "league": "Veikkausliiga",
+      "matchup": "KuPS vs Inter Turku",
+      "matchTime": "2026-11-08 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter Turku possess the tactical freshness and championship motivation to avoid defeat against a fatigued KuPS side, favoring a Draw / Away Win conclusion.",
+    "possibilityAssessment": [
+      "Draw / Away Win core double-chance trajectory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals defensive containment (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoreline 1:2 Inter Turku snatch-and-grab (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1638121",
+      "league": "Veikkausliiga",
+      "homeTeam": "KuPS",
+      "awayTeam": "Inter Turku",
+      "match_time": "13:00",
+      "match_highlight": "Title ambition collides with European fatigue in decisive Kuopio showdown.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1638121,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a tight 1:1 stalemate alongside Inter Turku's late push against a fatigued KuPS backline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a combined lambda expectation of 2.35 and 58.2% baseline density."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 represents the primary convergence, while 1:2 accounts for Inter's title chase."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads at 26.3% probability, with 3 goals capturing an open second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Draw-Draw reflects early parity, while Draw-Loss reflects Inter's late physical edge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 01:11:36 UTC"
+}
