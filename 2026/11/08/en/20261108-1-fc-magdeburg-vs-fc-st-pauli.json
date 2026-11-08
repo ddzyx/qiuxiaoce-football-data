@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576229,
+    "matchup": "1. FC Magdeburg vs FC St. Pauli",
+    "home_team": "1. FC Magdeburg",
+    "away_team": "FC St. Pauli",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-08 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-1-fc-magdeburg-vs-fc-st-pauli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Magdeburg vs FC St. Pauli Prediction: Can St. Pauli's Elite xGA Halt FCM? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576229",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Magdeburg vs FC St. Pauli",
+      "matchTime": "2026-11-08 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "1. FC Magdeburg hold the upper hand, but FC St. Pauli possess the defensive pedigree to secure a point; Home Win / Draw represents the optimal risk-adjusted thesis.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by Magdeburg home win rate (80%) and St. Pauli away draw run (5 of 5) (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by Magdeburg home scoring volume (2.1 goals/match) and defensive xGA vulnerability (Confidence: Moderate, Value: High)",
+      "Correct Score 2:1 reflecting high-tempo second-half home finishing over resilient road defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576229",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Magdeburg",
+      "awayTeam": "FC St. Pauli",
+      "match_time": "12:30",
+      "match_highlight": "Magdeburg home firepower collides with St. Pauli stubborn away draw record",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576229,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Magdeburg dominant 4-0-1 home record alongside St. Pauli stubborn 5-for-5 away draw run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined scoring metrics and Magdeburg porous 1.53 xGA favor an open 2:1 home victory."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Magdeburg home firepower, while 1:1 reflects St. Pauli persistent road draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead via an active 2:1 match flow, while two goals cover the 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "St. Pauli early compactness holds first halves level before Magdeburg second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 00:46:28 UTC"
+}
