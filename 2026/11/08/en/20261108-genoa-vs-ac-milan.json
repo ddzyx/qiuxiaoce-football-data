@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550190,
+    "matchup": "Genoa vs AC Milan",
+    "home_team": "Genoa",
+    "away_team": "AC Milan",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-genoa-vs-ac-milan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Genoa vs AC Milan Prediction & Match Analysis: Defensive Crisis Tests Amorim — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550190",
+      "league": "Serie A",
+      "matchup": "Genoa vs AC Milan",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win (X2) as Genoa's red-hot form and Milan's decimated central defense point to a tight, contested clash anchored by a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance reflecting Milan's unbeaten away baseline balanced against a compromised backline (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on Genoa's low-volume chance creation and Milan's fatigued attack (Confidence: Moderate, Value: Moderate)",
+      "Primary 1:1 scoreline representing the statistical convergence of both tactical profiles (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550190",
+      "league": "Serie A",
+      "homeTeam": "Genoa",
+      "awayTeam": "AC Milan",
+      "match_time": "14:00",
+      "match_highlight": "Milan's decimated central defense faces Genoa's red-hot Marassi attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550190,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a balanced 1:1 deadlock and a narrow 1:2 Milan escape, avoiding a fragile single call amid heavy squad injuries."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Underpinned by Genoa's league-low shot output and combined goal expectancy hovering beneath the three-goal mark."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw serves as the model focal point, with a 1:2 Milan away victory providing the principal decisive alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represents the peak distribution probability, followed closely by a three-goal secondary script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious first half yields a level interval, progressing either to full-time parity or a late Rossoneri winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:04:20 UTC"
+}
