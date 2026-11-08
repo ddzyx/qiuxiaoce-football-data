@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556701,
+    "matchup": "Celtic vs Kilmarnock",
+    "home_team": "Celtic",
+    "away_team": "Kilmarnock",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-08 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-celtic-vs-kilmarnock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celtic vs Kilmarnock Prediction & Match Analysis: Can Killie Resist Parkhead Siege? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1556701",
+      "league": "Premiership",
+      "matchup": "Celtic vs Kilmarnock",
+      "matchTime": "2026-11-08 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celtic's league-leading attacking output should overpower Kilmarnock's depleted defense in a high-tempo home victory featuring over 2.5 goals.",
+    "possibilityAssessment": [
+      "Celtic Home Win via sustained territorial pressure against Killie backup keeper (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals supported by high combined xG and Celtic clean sheet drought (Confidence: High, Value: High)",
+      "Celtic to win by exactly one goal (2:1) due to post-European fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556701",
+      "league": "Premiership",
+      "homeTeam": "Celtic",
+      "awayTeam": "Kilmarnock",
+      "match_time": "16:00",
+      "match_highlight": "Celtic attack tests Kilmarnock backup keeper after European heroics.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556701,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Celtic's massive 2.69 xG per game advantage and Kilmarnock's 2.33 road goals conceded per match justify an outright home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Over 2.5 is backed by a 3.605 combined goal expectancy and Celtic conceding across six straight outings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "A 2:1 home victory represents the primary Poisson convergence point, with 3:1 reflecting late transition capitalisation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals lead Poisson probability densities at 21.2% and 19.1% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Celtic boast a 100% win conversion when leading or drawing at halftime, while Killie have lost all away matches when trailing at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 04:06:31 UTC"
+}
