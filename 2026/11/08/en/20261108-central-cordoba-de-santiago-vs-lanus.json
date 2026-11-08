@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1493232,
+    "matchup": "Central Cordoba de Santiago vs Lanus",
+    "home_team": "Central Cordoba de Santiago",
+    "away_team": "Lanus",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-08 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-central-cordoba-de-santiago-vs-lanus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Central Cordoba vs Lanus: Expected Goals, Managerial Turmoil & Defensive Metrics",
+    "meta": {
+      "matchId": "1493232",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Central Cordoba de Santiago vs Lanus",
+      "matchTime": "2026-11-08 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Lanús to avoid defeat in a low-scoring contest via Draw / Away Win paired with Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Lanús tactical superiority and elite defense secure a narrow victory (Confidence: Moderate, Value: High)",
+      "Interim manager defensive bounce produces a low-scoring 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Central Córdoba attacking futility keeps total goals under 2.5 (Confidence: High, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1493232",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Central Cordoba de Santiago",
+      "awayTeam": "Lanus",
+      "match_time": "22:30",
+      "match_highlight": "Lanús defense targets winless Central Córdoba after Domínguez dismissal",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1493232,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Lanús's decisive structural advantage and their road draw tendency against an interim-led home side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.05 and seven straight head-to-head fixtures staying under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Lanús's 0.9 goals conceded average and Central Córdoba's 50% failed-to-score frequency."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Low-scoring distribution anchored by strong defensive prevention and weak home chance conversion."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "First-half tactical stalemate expected before Lanús's superior quality or endurance decides the contest."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 10:35:08 UTC"
+}
