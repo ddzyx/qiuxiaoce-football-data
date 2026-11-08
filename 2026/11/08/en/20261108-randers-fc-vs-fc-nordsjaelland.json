@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549056,
+    "matchup": "Randers FC vs FC Nordsjaelland",
+    "home_team": "Randers FC",
+    "away_team": "FC Nordsjaelland",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-08 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-randers-fc-vs-fc-nordsjaelland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Randers FC vs FC Nordsjaelland Prediction: Tigers' High xG vs Travel Fatigue — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1549056",
+      "league": "Superliga",
+      "matchup": "Randers FC vs FC Nordsjaelland",
+      "matchTime": "2026-11-08 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Nordsjaelland to avoid defeat via Draw / Away Win in an open, high-intensity encounter.",
+    "possibilityAssessment": [
+      "FC Nordsjaelland exploit Randers' depleted defense to secure a 1:2 road win (Confidence: Moderate, Value: High)",
+      "Travel fatigue and road draw tendencies restrict Nordsjaelland to a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Randers utilize early home aggression to force a high-scoring draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549056",
+      "league": "Superliga",
+      "homeTeam": "Randers FC",
+      "awayTeam": "FC Nordsjaelland",
+      "match_time": "15:00",
+      "match_highlight": "Tigers' potent xG meets travel fatigue against Randers' depleted defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549056,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers FCN's superior underlying xG creation alongside their established away draw tendency following European travel."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by combined xG metrics exceeding 3.50 and Randers conceding 1.85 xGA per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Nordsjaelland's class advantage tempered by road fatigue and Randers' home set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "High probability density centered around 2 to 3 total goals given both teams' recent defensive leaks."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tense opening half followed by Nordsjaelland's superior bench quality deciding the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:04:02 UTC"
+}
