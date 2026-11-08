@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1494330,
+    "matchup": "IF Brommapojkarna vs Mjallby AIF",
+    "home_team": "IF Brommapojkarna",
+    "away_team": "Mjallby AIF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-08 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-if-brommapojkarna-vs-mjallby-aif/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "IF Brommapojkarna vs Mjallby AIF Prediction & Match Analysis: Fatigue Meets Low-Block Standoff — xG Preview",
+    "meta": {
+      "matchId": "1494330",
+      "league": "Allsvenskan",
+      "matchup": "IF Brommapojkarna vs Mjallby AIF",
+      "matchTime": "2026-11-08 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back IF Brommapojkarna or Draw in a low-scoring contest anchored by a primary 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Deadlocked tactical stalemate concluding in a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total match goals driven by Mjallby's low block and fatigue management (Confidence: High, Value: High)",
+      "Late host breakthrough yielding a narrow 1:0 IF Brommapojkarna victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494330",
+      "league": "Allsvenskan",
+      "homeTeam": "IF Brommapojkarna",
+      "awayTeam": "Mjallby AIF",
+      "match_time": "15:30",
+      "match_highlight": "Rest disparity clashes with Mjallby low block at Grimsta IP.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494330,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 deadlock and secondary 1:0 host win stemming from Mjallby's 72-hour European turnaround."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson simulations yield an 80.1% cumulative expectancy for two or fewer goals given both sides' structural profiles."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate represents the central equilibrium, with a 1:0 home win serving as the primary fatigue-driven alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the tight scoring distribution where two goals leads at 25.3% and a solitary goal follows at 33.1%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cautious opening half establishes a level interval, progressing either to full-time parity or a late home winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 03:33:52 UTC"
+}
