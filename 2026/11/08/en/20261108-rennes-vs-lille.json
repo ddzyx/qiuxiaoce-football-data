@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1552816,
+    "matchup": "Rennes vs Lille",
+    "home_team": "Rennes",
+    "away_team": "Lille",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-08 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-rennes-vs-lille/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rennes vs Lille Prediction & Match Analysis: Breaching Ancelotti's Low Block — xG Model Preview",
+    "meta": {
+      "matchId": "1552816",
+      "league": "Ligue 1",
+      "matchup": "Rennes vs Lille",
+      "matchTime": "2026-11-08 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rennes avoid defeat at Roazhon Park against a fatigued Lille backline in a tightly contained, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance covers Rennes' unbeaten home form and Lille's Arctic travel fatigue (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals supported by Lille's league-best defense and forward injuries on both sides (Confidence: Moderate, Value: High)",
+      "1:1 draw serves as the primary scoreline convergence point of territorial dominance versus defensive resilience (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552816",
+      "league": "Ligue 1",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lille",
+      "match_time": "14:00",
+      "match_highlight": "Unbeaten Rennes home form tests Lille's league-best defense amid European fatigue.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552816,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Rennes' dominant home form against a weary Lille side while respecting Les Dogues' league-low six goals conceded."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lille's five clean sheets and injuries to primary forwards on both sides suppress goal expectancy below 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "A 1:1 stalemate represents the primary equilibrium, while 1:0 accounts for late Rennes pressure breaking through."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the most probable outcome, with a single-goal defensive battle serving as the primary backup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A disciplined, goalless first half transitions either into a shared-points draw or late Rennes home victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 02:04:59 UTC"
+}
