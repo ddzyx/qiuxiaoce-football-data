@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560071,
+    "matchup": "Teplice vs Pardubice",
+    "home_team": "Teplice",
+    "away_team": "Pardubice",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-11-08 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-teplice-vs-pardubice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Teplice vs Pardubice Prediction & Match Analysis: Direct Attack Efficiency — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1560071",
+      "league": "Czech Liga",
+      "matchup": "Teplice vs Pardubice",
+      "matchTime": "2026-11-08 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Teplice hold the tactical edge through direct transition efficiency, but their 28.6% home win percentage makes the paired Home Win / Draw the premier risk-adjusted position.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Scoreline 2:1 or 1:1 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560071",
+      "league": "Czech Liga",
+      "homeTeam": "Teplice",
+      "awayTeam": "Pardubice",
+      "match_time": "12:00",
+      "match_highlight": "Teplice direct attack tests Pardubice second half defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560071,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Teplice's direct attacking supremacy while hedging against their active three-game winless home run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Model lambda total of 2.85 and Pardubice's 68% second-half goal concession rate support scoring volume."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 reflects Teplice's late edge while secondary 1:1 captures their documented home draw tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "High clustering around 2 and 3 total goals based on both teams' offensive transition styles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Pardubice typically hold firm early before succumbing to second-half fatigue and pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 00:04:47 UTC"
+}
