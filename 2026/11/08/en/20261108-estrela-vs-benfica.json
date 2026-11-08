@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1575538,
+    "matchup": "Estrela vs Benfica",
+    "home_team": "Estrela",
+    "away_team": "Benfica",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-08 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261108-estrela-vs-benfica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estrela vs Benfica Prediction & Match Analysis: Can Tricolores Stifle Pavlidis? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1575538",
+      "league": "Primeira Liga",
+      "matchup": "Estrela vs Benfica",
+      "matchTime": "2026-11-08 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Benfica's superior attacking caliber and Estrela's porous defense support an Away Win at Estádio José Gomes.",
+    "possibilityAssessment": [
+      "Benfica establishes offensive control and secures full points away from home (Confidence: Moderate, Value: High)",
+      "High defensive transition volume drives the total over 2.5 goals (Confidence: Moderate, Value: High)",
+      "Estrela's initial low block forces a tighter contest before Benfica breaks through late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575538",
+      "league": "Primeira Liga",
+      "homeTeam": "Estrela",
+      "awayTeam": "Benfica",
+      "match_time": "20:30",
+      "match_highlight": "Benfica target eighth straight win against struggling Estrela.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575538,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Benfica's overwhelming attacking potency led by Pavlidis will prove decisive against an Estrela defense that has failed to keep a single clean sheet."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Estrela's 1.90 goals conceded per match and Benfica's 2.70 goals scored per match strongly support the Over 2.5 threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 victory reflects Benfica's offensive dominance alongside Estrela's occasional home counter, while 0:2 covers a controlled shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model distributions peak at three goals, with two goals offering strong coverage for a lower-tempo away performance."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Benfica's 60% first-half lead rate favors Loss-Loss, while Draw-Loss accounts for early defensive resistance from Estrela."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 08:34:24 UTC"
+}
