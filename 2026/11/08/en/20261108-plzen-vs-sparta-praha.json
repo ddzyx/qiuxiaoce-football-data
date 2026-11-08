@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1560069,
+    "matchup": "Plzen vs Sparta Praha",
+    "home_team": "Plzen",
+    "away_team": "Sparta Praha",
+    "league": "Czech Liga",
+    "kickoff_utc": "2026-11-08 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261108-plzen-vs-sparta-praha/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Plzen vs Sparta Praha Prediction & Match Analysis: Tactical Deadlock at Doosan Arena — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1560069",
+      "league": "Czech Liga",
+      "matchup": "Plzen vs Sparta Praha",
+      "matchTime": "2026-11-08 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win provides optimal risk-adjusted coverage against Sparta's road scoring slump and Plzen's resilience.",
+    "possibilityAssessment": [
+      "Sparta Praha control possession but struggle to penetrate Plzen's low block in a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Sparta Praha secure a clinical 0:1 away victory via second-half attrition and set-piece execution (Confidence: Moderate, Value: Moderate)",
+      "Viktoria Plzen exploit fatigue to snatch a 1-0 lead before Sparta level in an HT/FT Win-Draw script (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560069",
+      "league": "Czech Liga",
+      "homeTeam": "Plzen",
+      "awayTeam": "Sparta Praha",
+      "match_time": "17:00",
+      "match_highlight": "Tactical deadlock expected between tired Czech heavyweights at Doosan Aréna.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560069,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win captures both the primary 1:1 stalemate and the secondary 0:1 Sparta victory script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sparta's 1.00 GA per match and road scoring drought combine to suppress scoring below the 2.5 line."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects the balance of attacking output and road containment, with 0:1 as the key away branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 Goals leads the distribution through a 1:1 draw, with 1 Goal covering a narrow 0:1 outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious opening half leads into either a sustained level finish (Draw-Draw) or a late Sparta breakthrough (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 05:04:53 UTC"
+}
