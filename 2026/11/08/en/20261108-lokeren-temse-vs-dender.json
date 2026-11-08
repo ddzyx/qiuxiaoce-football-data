@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559195,
+    "matchup": "Lokeren-Temse vs Dender",
+    "home_team": "Lokeren-Temse",
+    "away_team": "Dender",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-11-08 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261108-lokeren-temse-vs-dender/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lokeren-Temse vs Dender Prediction & Match Analysis: Defensive Rigidity vs Home Counter — Scoreline Preview",
+    "meta": {
+      "matchId": "1559195",
+      "league": "Challenger Pro League",
+      "matchup": "Lokeren-Temse vs Dender",
+      "matchTime": "2026-11-08 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dender's league-leading defensive structure provides the edge to secure points, with Draw / Away Win offering optimal coverage against Lokeren-Temse's resilient home record.",
+    "possibilityAssessment": [
+      "Away Win via calculated low-block counter and late breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Draw through defensive attrition and low-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Home Win via early pressing blitz and transition efficiency (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559195",
+      "league": "Challenger Pro League",
+      "homeTeam": "Lokeren-Temse",
+      "awayTeam": "Dender",
+      "match_time": "18:15",
+      "match_highlight": "Dender's elite defense faces Lokeren's high-variance home attack at Daknamstadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559195,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Dender's superior underlying xGA metrics and winning vector alongside Lokeren's resilient 75% home unbeaten rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Dender has conceded just 4 goals all season while averaging under 1.8 total goals per match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Anticipates a compact defensive clash converging on a narrow 0:1 away win or a 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution and recent away trends heavily concentrate density on 1 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Dender draws at halftime in 75% of away fixtures before deciding games in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-08 06:17:21 UTC"
+}
