@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1494798,
+    "matchup": "Kristiansund BK vs Valerenga",
+    "home_team": "Kristiansund BK",
+    "away_team": "Valerenga",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-09 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261107-kristiansund-bk-vs-valerenga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Eliteserien",
+      "matchId": "1494798",
+      "matchup": "Kristiansund BK vs Valerenga",
+      "matchTime": "2026-11-07 15:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Kristiansund BK vs Valerenga Prediction: Relegation Battle Meets High-xG Threat — Scoreline & Model Analysis",
+    "coreRecommendation": "Valerenga's superior offensive quality should pierce Kristiansund's leaky defense, with home survival desperation justifying Draw / Away Win coverage.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Kristiansund draw 58% of first halves at home before second-half quality decides the outcome.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Valerenga's 1.85 xG attack edges the contest, but Kristiansund's 58% home unbeaten rate warrants draw protection.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "A 3-goal total is the primary Poisson convergence point, with 2 goals capturing the low-block script.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "Reflects Valerenga's edge in high-danger creation alongside Kristiansund's home resilience.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Eliteserien",
+      "matchId": "1494798",
+      "awayTeam": "Valerenga",
+      "homeTeam": "Kristiansund BK",
+      "fixtureId": 1494798,
+      "match_time": "15:00",
+      "over_under": {
+        "comment": "Both teams concede over 1.80 goals per match, producing a 70% model probability for Over 2.5.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Relegation desperation meets superior creative attack at Nordmore Stadion"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Valerenga capitalize on superior xG creation to claim a narrow road victory (Confidence: Moderate, Value: High)",
+      "Kristiansund leverage home fortress resilience to force a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Open defensive transitions drive total scoring over the 2.5 threshold (Confidence: High, Value: High)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-0",
+    "halftime_score": "1-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-11-09 20:06:29 UTC"
+  }
+}
