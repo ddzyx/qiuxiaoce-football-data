@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576529,
+    "matchup": "Torreense vs União de Leiria",
+    "home_team": "Torreense",
+    "away_team": "União de Leiria",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-09 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261109-torreense-vs-uni-o-de-leiria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Torreense vs União de Leiria Prediction & Preview: Europa Fatigue vs Road Form — XG Mind AI",
+    "meta": {
+      "matchId": "1576529",
+      "league": "Segunda Liga",
+      "matchup": "Torreense vs União de Leiria",
+      "matchTime": "2026-11-09 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back União de Leiria to win or draw (Draw / Away Win) in a low-scoring contest (Under 2.5 goals) anchored by 0:1 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Draw / Away Win — União de Leiria Win leads on superior domestic scoring and rest advantage while Draw covers Torreense's low-block resilience (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Domestic Segunda Liga scoring rates and Torreense's 44.4% clean-sheet and failed-to-score rates point to 1 or 2 total goals (Confidence: Moderate, Value: High)",
+      "Second-Half Breakthrough (Draw-Loss / Draw-Draw) — Both teams score at least 69% of their league goals after halftime following cagey opening halves (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576529",
+      "league": "Segunda Liga",
+      "homeTeam": "Torreense",
+      "awayTeam": "União de Leiria",
+      "match_time": "20:15",
+      "match_highlight": "Rested União de Leiria test ten-man Europa-fatigued Torreense after halftime.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576529,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "União de Leiria Win (0:1) leads due to a 9-day rest edge and 1.44 league goals per game against Thursday-fatigued hosts, while the Draw (1:1) is retained because both sides have drawn 50% of their venue-specific league matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by an 83.9% Under 2.5 density in the Poisson xG/xGA baseline and Torreense's last three Segunda Liga fixtures producing just 2 total goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects União de Leiria's 69.2% second-half goal share breaking a Torreense side that failed to score in 44.4% of league games, while 1:1 covers their mutual 66.7% league unbeaten rates."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (34.7% baseline probability) and 2 goals (24.0% baseline probability) capture the tight domestic defensive profiles of both sides."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams score 30.8% or less of their league goals in the first half, making a level interval followed by a late Leiria winner (Draw-Loss) or low-scoring stalemate (Draw-Draw) the primary chronological paths."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 08:20:15 UTC"
+}
