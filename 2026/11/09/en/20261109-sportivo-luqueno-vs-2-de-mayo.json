@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1632060,
+    "matchup": "Sportivo Luqueno vs 2 de Mayo",
+    "home_team": "Sportivo Luqueno",
+    "away_team": "2 de Mayo",
+    "league": "Football",
+    "kickoff_utc": "2026-11-09 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261109-sportivo-luqueno-vs-2-de-mayo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sportivo Luqueno vs 2 de Mayo Prediction & Match Analysis: Can Visitors Extend Unbeaten Run? — Scoreline Preview",
+    "meta": {
+      "matchId": "1632060",
+      "league": "Division Profesional - Clausura",
+      "matchup": "Sportivo Luqueno vs 2 de Mayo",
+      "matchTime": "2026-11-09 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back 2 de Mayo to avoid defeat via Draw / Away Win alongside Under 2.5 total goals, anchored on 0:1 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance supported by 2 de Mayo's 71-point Elo edge and 5-match unbeaten run (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by 2.25 total lambda and 60.9% baseline probability (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals capturing the 1:1 modal draw script and controlled away transitions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1632060",
+      "league": "Division Profesional - Clausura",
+      "homeTeam": "Sportivo Luqueno",
+      "awayTeam": "2 de Mayo",
+      "match_time": "22:30",
+      "match_highlight": "2 de Mayo's unbeaten momentum tests struggling Sportivo Luqueno in low-scoring clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1632060,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers 2 de Mayo's narrow one-goal winning script (0:1) backed by a 71-point Elo advantage and the modal 1:1 draw script caused by their 71.4% big-chance waste rate, whereas a single call would ignore their tight 1-goal margin profile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, a 60.9% baseline Under 2.5 probability, and Sportivo Luqueno's 0.43 decayed scoring rate."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects 2 de Mayo's 100% rate of one-goal league wins and Luqueno's 0.43 decayed scoring average, while 1:1 is the top Poisson scoreline (13.3%)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the two highest-probability buckets in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects 2 de Mayo's 60% first-half goal share and 66.7% half-time lead rate holding to full time, while Draw-Draw covers a tight stalemate throughout."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 10:53:10 UTC"
+}
