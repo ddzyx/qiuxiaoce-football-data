@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646814,
+    "matchup": "Plymouth Parkway vs Berkhamsted",
+    "home_team": "Plymouth Parkway",
+    "away_team": "Berkhamsted",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-09 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261109-plymouth-parkway-vs-berkhamsted/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Plymouth Parkway vs Berkhamsted Prediction & Match Analysis: Second-Half Surge at Bolitho Park",
+    "meta": {
+      "matchId": "1646814",
+      "league": "FA Cup",
+      "matchup": "Plymouth Parkway vs Berkhamsted",
+      "matchTime": "2026-11-09 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Plymouth Parkway to win in regulation time (Home Win), anchored by a 2:1 primary scoreline, a 2:0 secondary scoreline, and Over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Plymouth Parkway Home Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win Half-Time / Full-Time Transition (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646814",
+      "league": "FA Cup",
+      "homeTeam": "Plymouth Parkway",
+      "awayTeam": "Berkhamsted",
+      "match_time": "19:30",
+      "match_highlight": "Parkway's second-half surge tests Berkhamsted's road cup resilience at Bolitho Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646814,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Plymouth Parkway hold an 11-point divisional advantage over Berkhamsted, a five-match home winning streak at Bolitho Park, and a 2:0 home head-to-head win in February."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both the FA Cup qualifying lambda total (3.25) and Southern League Premier South lambda total (3.06) support Over 2.5 goals, with Parkway scoring 2+ goals in all four cup rounds."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Parkway's 2+ goal scoring consistency alongside Berkhamsted's road counter-attacking threat, while 2:0 mirrors Parkway's February home win over Berkhamsted and 4Q win over Chertsey."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 2:1 primary scoreline and 3.06-3.25 lambda total range, while two goals covers a tighter 2:0 home clean-sheet script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Parkway have scored 88.9% of their FA Cup goals in the second half after level or tight openings (Draw-Win), while Win-Win covers an early fast start like their 3:1 win over Uxbridge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 07:34:09 UTC"
+}
