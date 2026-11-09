@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596991,
+    "matchup": "Redditch United vs Peterborough Sports",
+    "home_team": "Redditch United",
+    "away_team": "Peterborough Sports",
+    "league": "Football",
+    "kickoff_utc": "2026-11-09 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261109-redditch-united-vs-peterborough-sports/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Redditch United vs Peterborough Sports Prediction & Match Analysis: Defensive Solidity Meets Road Volatility — Scoreline Preview",
+    "meta": {
+      "matchId": "1596991",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Redditch United vs Peterborough Sports",
+      "matchTime": "2026-11-09 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Redditch United to win or draw (Home Win / Draw) in a low-to-moderate scoring encounter anchored on 1:1 and 1:0 scorelines.",
+    "possibilityAssessment": [
+      "Redditch United Win or Draw — Home Win / Draw (Confidence: Low, Value: Moderate)",
+      "Total Goals Under 2.5 — 60.9% Poisson probability mass across 0-2 goals (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 or 1:0 convergence in a tight 0.15 lambda-diff matchup (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596991",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Redditch United",
+      "awayTeam": "Peterborough Sports",
+      "match_time": "19:45",
+      "match_highlight": "Redditch United's home defense tests Peterborough Sports' volatile road attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1596991,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:0 home shutout script (39.4% home win) and the modal 1:1 stalemate (28.6% draw) in a tight 1.20 vs 1.05 lambda matchup where unverified lineups make a single call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.25, with 0, 1, and 2 total goals accounting for 60.9% of the Poisson distribution and BTTS No at 54.6%."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 is the top individual scoreline in the Poisson matrix (13.3%), followed immediately by a narrow 1:0 home victory (12.6%)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 total goals (26.7%) and 1 total goal (23.7%) represent the two highest probability bands in the 2.25 lambda environment."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A compact opening half points to a half-time deadlock, resolving either into a 1:1 full-time draw (Draw-Draw) or a second-half home breakthrough (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 07:52:11 UTC"
+}
