@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645541,
+    "matchup": "Aurora vs Universitario de Vinto",
+    "home_team": "Aurora",
+    "away_team": "Universitario de Vinto",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261110-aurora-vs-universitario-de-vinto/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Primera División Matchday Intelligence: Aurora vs Universitario de Vinto Preview — Tactical Blueprint & Projections",
+    "meta": {
+      "matchId": "1645541",
+      "league": "Primera División",
+      "matchup": "Aurora vs Universitario de Vinto",
+      "matchTime": "2026-11-10 00:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Aurora to avoid defeat (Home Win / Draw) alongside Under 2.5 total goals, anchored by the 1:0 and 1:1 scorelines in a low-margin Cochabamba derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance covering 68.0% combined Poisson probability (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Total Goals backed by a 2.25 combined lambda and 60.9% model density (Confidence: Low, Value: Moderate)",
+      "Exact Total of 2 Goals at 26.7% model probability (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645541",
+      "league": "Primera División",
+      "homeTeam": "Aurora",
+      "awayTeam": "Universitario de Vinto",
+      "match_time": "00:30",
+      "match_highlight": "Shared Cochabamba venue pits Aurora's Elo edge against tight 2.25 goal expectancy.",
+      "ai_confidence": "Low",
+      "fixtureId": 1645541,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Aurora lead the Poisson model at 39.4% with a 105-point Elo edge (1:0 script), while the 28.6% draw (1:1 script) covers the narrow 0.15 lambda gap and shared local venue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.25 (1.20 vs 1.05), giving Under 2.5 goals a 60.9% cumulative probability in the Poisson distribution."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 (12.6%) captures Aurora's leading win script and 1.00 goals-conceded baseline, while 1:1 (13.3%) is the single highest-probability scoreline in the matrix."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two exact-goal outcomes in the 2.25-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, level opening half in this regional derby transitions either into a late Aurora breakthrough (Draw-Win) or a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 12:54:25 UTC"
+}
