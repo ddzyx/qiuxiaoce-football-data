@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570013,
+    "matchup": "Sabadell vs Real Sociedad II",
+    "home_team": "Sabadell",
+    "away_team": "Real Sociedad II",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-09 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261109-sabadell-vs-real-sociedad-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sabadell vs Real Sociedad II Prediction & Preview: xG Edge Meets Road Fragility — XG Mind AI",
+    "meta": {
+      "matchId": "1570013",
+      "league": "Segunda División",
+      "matchup": "Sabadell vs Real Sociedad II",
+      "matchTime": "2026-11-09 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sabadell on the Home Win / Draw double chance, combining a 1:0 narrow home triumph with 1:1 draw protection under a 2-to-3 goal projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Sabadell unbeaten at home (3W-2D-0L) and generating 1.52 xG/match with draw cover (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals: 52.3% Poisson baseline share and 1.92 goals/match average in Sabadell fixtures (Confidence: Moderate, Value: Moderate)",
+      "2 or 3 Total Goals: Top two exact totals in the Poisson distribution at 25.2% and 21.7% (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570013",
+      "league": "Segunda División",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Real Sociedad II",
+      "match_time": "19:30",
+      "match_highlight": "Sabadell's unbeaten home block meets Real Sociedad II's porous road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570013,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Sabadell's primary 1:0 home win script against a defense conceding 2.00 away goals per game while retaining the 1:1 draw given Sabadell's 5 draws in 12 games and key absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 52.3% Poisson probability for 0-2 goals, Sabadell's 1.92 total goals per match average, and a foul-heavy midfield tempo."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Sabadell's 0.80 home goals conceded average and narrow winning margin profile, while 1:1 is the 12.2% modal Poisson scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.2%) and 3 goals (21.7%) are the two highest-probability exact goal counts in the Poisson distribution, anchoring the 1:1/2:0 and 2:1 branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sabadell have been level at half-time in 8 of 12 league matches (66.7%), either breaking through late at home (Draw-Win) or staying deadlocked (Draw-Draw, 5 of 8 HT draws)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 07:35:32 UTC"
+}
