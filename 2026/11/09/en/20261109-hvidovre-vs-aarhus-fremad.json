@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551374,
+    "matchup": "Hvidovre vs Aarhus Fremad",
+    "home_team": "Hvidovre",
+    "away_team": "Aarhus Fremad",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-09 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261109-hvidovre-vs-aarhus-fremad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hvidovre vs Aarhus Fremad Tactical Breakdown & Probabilistic Modeling: Transition Edge vs Road Block",
+    "meta": {
+      "matchId": "1551374",
+      "league": "1. Division",
+      "matchup": "Hvidovre vs Aarhus Fremad",
+      "matchTime": "2026-11-09 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back unbeaten league leaders Hvidovre via Home Win / Draw (Home Win primary) alongside Under 2.5 Goals as their clinical counter-attack meets Aarhus Fremad's league-best 0.80 goals-conceded defense.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Hvidovre Win leads on 1.80 goals/match and a 13-game unbeaten streak while Draw covers Aarhus Fremad's 4 draws in 6 road trips (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Supported by a 60.9% Poisson probability, 2.25 combined lambda, and Aarhus Fremad's 3 consecutive league clean sheets (Confidence: Moderate, Value: High)",
+      "HT/FT Win-Draw — Captures Hvidovre's 53.8% half-time lead rate paired with their 66.7% home lead-erosion rate after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551374",
+      "league": "1. Division",
+      "homeTeam": "Hvidovre",
+      "awayTeam": "Aarhus Fremad",
+      "match_time": "18:00",
+      "match_highlight": "Unbeaten Hvidovre's clinical transition attack tests Aarhus Fremad's elite away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551374,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Hvidovre Win (1:0) is the leading script given their 13-match unbeaten run and 3:1 H2H win, while Draw (1:1) covers Hvidovre's 50% home draw rate and Aarhus Fremad's 4 draws in 6 away matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined goal expectancy of 2.25 (60.9% Under 2.5 probability) and Aarhus Fremad's league-best 0.80 goals conceded per match point to a tight, low-scoring affair."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 (13.7% model density) reflects Hvidovre winning all 3 home victories by 1 goal against an away side scoreless in 66.7% of road games, while 1:1 (13.0%) covers a second-half equalizer."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7% probability) and 1 goal (23.7% probability) are the top two exact-goal outcomes in the Poisson distribution, aligning with the 1:1, 2:0, and 1:0 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Hvidovre have led at half-time in 53.8% of league matches (4 Win-Win outcomes), while Win-Draw accounts for Hvidovre surrendering 2 of their 3 home half-time leads."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-09 06:04:42 UTC"
+}
