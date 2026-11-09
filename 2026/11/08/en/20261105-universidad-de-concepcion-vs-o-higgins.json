@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1505561,
+    "matchup": "Universidad de Concepcion vs O'Higgins",
+    "home_team": "Universidad de Concepcion",
+    "away_team": "O'Higgins",
+    "league": null,
+    "kickoff_utc": "2026-11-08 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261105-universidad-de-concepcion-vs-o-higgins/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Primera División",
+      "matchId": "1505561",
+      "matchup": "Universidad de Concepcion vs O'Higgins",
+      "matchTime": "2026-11-08 23:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Universidad de Concepcion vs O'Higgins Prediction: Relegation Pressure Meets Road Frailty — Scoreline Preview",
+    "coreRecommendation": "Back O'Higgins to avoid defeat via Draw / Away Win as home defensive vulnerabilities face road travel inconsistency.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Cautious first half expected before second-half adjustments decide the outcome.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers O'Higgins' structural superiority alongside their modest away win rate and midfield absences.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Primary total of 2 goals supported by 1:1 draw, with 3 goals as the primary away-win branch.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Reflects the two highest probability convergence points under Poisson goal modeling.",
+        "selection": [
+          "1:1",
+          "1:2"
+        ]
+      },
+      "league": "Primera División",
+      "matchId": "1505561",
+      "awayTeam": "O'Higgins",
+      "homeTeam": "Universidad de Concepcion",
+      "fixtureId": 1505561,
+      "match_time": "23:00",
+      "over_under": {
+        "comment": "Home scoring struggles combine with O'Higgins' high big-chance waste rate to cap total goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Relegation pressure meets away inconsistency in a high-stakes tactical clash."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "O'Higgins capitalize on El Campanil's league-worst defense to claim a tight victory (Confidence: Moderate, Value: High)",
+      "Relegation desperation fuels a resilient home display resulting in a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Universidad de Concepcion snatch a narrow home upset on direct transition (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "2-1",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-11-09 01:21:44 UTC"
+  }
+}
