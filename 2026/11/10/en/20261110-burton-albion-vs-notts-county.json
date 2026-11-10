@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588846,
+    "matchup": "Burton Albion vs Notts County",
+    "home_team": "Burton Albion",
+    "away_team": "Notts County",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-burton-albion-vs-notts-county/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Burton Albion vs Notts County: Tactical Blueprint, Pirelli Pitch Dynamics & EFL Trophy Projections",
+    "meta": {
+      "matchId": "1588846",
+      "league": "EFL Trophy",
+      "matchup": "Burton Albion vs Notts County",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Burton Albion are projected to avoid defeat at home against Notts County in a tight, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Burton Albion secure a narrow victory or draw in regulation time (Confidence: Moderate, Value: High)",
+      "Total match goals remain under the 2.5 threshold (Confidence: Moderate, Value: Moderate)",
+      "Notts County exploit transition opportunities to force a stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588846",
+      "league": "EFL Trophy",
+      "homeTeam": "Burton Albion",
+      "awayTeam": "Notts County",
+      "match_time": "19:00",
+      "match_highlight": "Burton's home defense battles Notts County's unblemished historical record",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588846,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Burton's home defensive record holds edge, but Notts County's historical H2H superiority warrants draw protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.25 strongly supports a low-scoring cup encounter."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 stalemate represents the Poisson mode, with a 2:1 home triumph serving as the prime decisive alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the peak probability distribution, with three goals covering the decisive branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey opening half is expected to produce a level interval before second-half intensity unfolds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:10:44 UTC"
+}
