@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597456,
+    "matchup": "Evesham United vs Yate Town",
+    "home_team": "Evesham United",
+    "away_team": "Yate Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-evesham-united-vs-yate-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Evesham United vs Yate Town Prediction & Match Analysis: Defensive Fragility & Stalemate Dynamics — Scoreline Preview",
+    "meta": {
+      "matchId": "1597456",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Evesham United vs Yate Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Evesham United Win or Draw (Home Win / Draw) with scorelines anchored at 1:1 and 2:1 in a high-expectancy (3.21 lambda) Southern South clash.",
+    "possibilityAssessment": [
+      "Evesham United Win or Draw — Home Win / Draw (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals on 3.21 Combined Expectancy (Confidence: Moderate, Value: Moderate)",
+      "1:1 Exact Scoreline Stalemate Anchor (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597456",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Evesham United",
+      "awayTeam": "Yate Town",
+      "match_time": "19:45",
+      "match_highlight": "Porous defences meet in a 3.21-lambda Southern South six-pointer.",
+      "ai_confidence": "Low",
+      "fixtureId": 1597456,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 stalemate script driven by Yate Town's 40% league draw rate and the 2:1 home win script backed by Evesham United's 5 league victories; a single call is weaker given the 0.03 lambda differential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy sits at 3.21 (1.59 vs 1.62) as Evesham United concede 2.12 goals per game and Yate Town concede 1.87, giving 3+ goals a 62.2% cumulative probability."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 is the top Poisson matrix outcome at 10.4% density, while 2:1 (8.3%) captures Evesham United's superior win count and the 22.2% modal peak on 3 total goals."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads the Poisson total distribution at 22.2% ahead of 2 goals at 20.8%, reflecting high-conceding backlines paired with 1:1 and 2:1 score anchors."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Draw aligns with the primary 1:1 stalemate script, while Loss-Draw accounts for Yate Town's 60% first-half goal share before Evesham United rally to level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 09:09:21 UTC"
+}
