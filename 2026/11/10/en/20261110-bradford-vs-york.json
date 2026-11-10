@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588832,
+    "matchup": "Bradford vs York",
+    "home_team": "Bradford",
+    "away_team": "York",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261110-bradford-vs-york/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Bradford vs York: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1588832",
+      "league": "EFL Trophy",
+      "matchup": "Bradford vs York",
+      "matchTime": "2026-11-10 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bradford for an ordinary regulation Home Win, anchored by a 2:0 or 1:0 clean-sheet script against an eliminated and heavily rotated York side.",
+    "possibilityAssessment": [
+      "Bradford Regulation Home Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win Half-Time/Full-Time Transition (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588832",
+      "league": "EFL Trophy",
+      "homeTeam": "Bradford",
+      "awayTeam": "York",
+      "match_time": "19:30",
+      "match_highlight": "Senior Bradford squad depth meets an eliminated, youth-rotated York defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588832,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bradford's senior League One depth, two-week league break, and 1.80-to-0.30 goal expectancy edge outweigh an eliminated York squad resting top scorer Ollie Pearce."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined 2.10 lambda total (64.9% Under 2.5 baseline probability), five Bradford clean sheets in six games, and wholesale lineup rotation support a controlled low-scoring script."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "1:0 (22.0%) and 2:0 (19.8%) are the top two scorelines in the Poisson matrix, matching Bradford's 0.30 goals conceded average and York's 0% away clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 goals (27.0%) and 1 goal (25.7%) hold the highest probability density as Bradford manage the tempo against a rotated York attack."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win reflects Bradford's fast cup starts against Rotherham and Marine, while Draw-Win covers first-half rotation rust before Bradford's second-half stamina prevails."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:36:41 UTC"
+}
