@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648031,
+    "matchup": "Vissel Kobe vs Machida Zelvia",
+    "home_team": "Vissel Kobe",
+    "away_team": "Machida Zelvia",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-11 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-vissel-kobe-vs-machida-zelvia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vissel Kobe vs Machida Zelvia Tactical Breakdown & Probabilistic Modeling: Set-Piece Efficiency vs Home Possession",
+    "meta": {
+      "matchId": "1648031",
+      "league": "J-League Cup",
+      "matchup": "Vissel Kobe vs Machida Zelvia",
+      "matchTime": "2026-11-11 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vissel Kobe to win or draw in regulation time (Home Win / Draw) within an Under 2.5 total-goals script anchored on 1:0 and 1:1.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Vissel Kobe lead the baseline model at 39.4% with strong home scoring form while Machida's 0.24 decayed goals-against rate keeps the 28.6% regulation draw live (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Supported by a 2.25 combined lambda, 60.9% Poisson probability for 0-2 goals, and three consecutive 0:0 domestic matches for Machida (Confidence: Moderate, Value: High)",
+      "Machida Zelvia 1:0 Set-Piece Steal — Contingency scenario leveraging Machida's 13 set-piece goals and T. Ouwejan's delivery (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648031",
+      "league": "J-League Cup",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Machida Zelvia",
+      "match_time": "10:00",
+      "match_highlight": "Kobe's home possession meets Machida's elite defense and set-piece threat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648031,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Vissel Kobe's 1.20 goal expectancy and 72.0 home form score lead the call via a 1:0 script, while Machida's 0.24 decayed goals-against rate and the recent 0:0 H2H draw make retaining the 1:1 regulation draw essential."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.25 with 0-2 goals accounting for 60.9% of the Poisson distribution and Machida missing 68.0% of big chances."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects a narrow Vissel Kobe home breakthrough via Y. Muto, while 1:1 is the top Poisson matrix outcome (13.3%) factoring in Machida's dead-ball threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the two highest-probability buckets in the Poisson model, totaling 50.4% combined density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "All three recent H2H meetings at Noevir Stadium were 0:0 at half-time, favoring an interval deadlock before either a late Kobe winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 22:29:58 UTC"
+}
