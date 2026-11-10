@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588840,
+    "matchup": "Stockport County vs Tranmere",
+    "home_team": "Stockport County",
+    "away_team": "Tranmere",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-stockport-county-vs-tranmere/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stockport County vs Tranmere Prediction & Preview: Keeper Crisis Meets Knockout Stakes",
+    "meta": {
+      "matchId": "1588840",
+      "league": "EFL Trophy",
+      "matchup": "Stockport County vs Tranmere",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Stockport County Win or Draw (Home Win / Draw) with Over 2.5 goals, centering on 2:1 and 1:1 regulation scorelines.",
+    "possibilityAssessment": [
+      "Stockport County Win or Draw — Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals on 2.90 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Second-half scoring surge via Draw-Win or Win-Draw transitions (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588840",
+      "league": "EFL Trophy",
+      "homeTeam": "Stockport County",
+      "awayTeam": "Tranmere",
+      "match_time": "19:00",
+      "match_highlight": "Stockport goalkeeper crisis and 48-hour recovery meet Tranmere knockout urgency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588840,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Stockport's League One depth and 1.90 goals/match output make a 2:1 home win the primary script, while covering the 1:1 draw accounts for Luca Ashby-Hammond's suspension, Sunday's 120-minute FA Cup load, and Tranmere's 57.1% away league draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.90 combined Poisson goal lambda (55.4% Over 2.5 baseline), Stockport's 8:3 goal tally across two EFL Trophy group games, and disrupted home goalkeeping support three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Stockport's second-half firepower overcoming an unsettled backline, while 1:1 captures Tranmere's road draw resilience against a fatigued host."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4% model density) aligns with the primary 2:1 script, while 2 goals (23.1% density) covers the 1:1 draw and 2:0 branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects Tranmere's first-half compactness and Stockport's 62.5% second-half EFL Trophy goal share, while Win-Draw covers an early Stockport lead eroded by second-half fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:06:47 UTC"
+}
