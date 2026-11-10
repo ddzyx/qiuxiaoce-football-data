@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597457,
+    "matchup": "Gloucester City vs Malvern Town",
+    "home_team": "Gloucester City",
+    "away_team": "Malvern Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-gloucester-city-vs-malvern-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gloucester City vs Malvern Town Prediction & Match Analysis: Defensive Fragility in Southern South — Scoreline & Tactical Preview",
+    "meta": {
+      "matchId": "1597457",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Gloucester City vs Malvern Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Gloucester City Win or Draw (Home Win / Draw) paired with Over 2.5 total goals, targeting a 2:1 home victory or a 2:2 high-scoring stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Gloucester City Win primary with Draw cover (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals — 3.53 combined lambda and 2.53 away GA/match (Confidence: Moderate, Value: High)",
+      "2:2 High-Scoring Stalemate Contingency (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597457",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Gloucester City",
+      "awayTeam": "Malvern Town",
+      "match_time": "19:45",
+      "match_highlight": "Gloucester's 1.95 goal expectancy tests Malvern's 2.53 goals-conceded average.",
+      "ai_confidence": "Low",
+      "fixtureId": 1597457,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Gloucester City lead on a 1.95 to 1.58 lambda edge against a defense conceding 2.53 goals per match (2:1 primary), while the Draw covers the hosts' 6 stalemates in 13 league games (2:2 secondary)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.53 combined lambda, 68.1% BTTS probability, and Malvern Town's 4.00 combined goals per league match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects the 1.95 vs 1.58 goal expectancy advantage for the hosts, while 2:2 mirrors Gloucester City's recent home draw against Berkhamsted."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.5%) and 4 goals (19.0%) are the top two exact totals in the Poisson distribution for a 3.53 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a level first half followed by a second-half home breakthrough against a leaky away defense, while Win-Draw accounts for Gloucester City's tendency to surrender half-time leads into draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 09:11:20 UTC"
+}
