@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588866,
+    "matchup": "Oxford United vs Cheltenham",
+    "home_team": "Oxford United",
+    "away_team": "Cheltenham",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-oxford-united-vs-cheltenham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Oxford United vs Cheltenham Prediction & Match Analysis: Cup Rotation Shapes EFL Trophy xG Preview",
+    "meta": {
+      "matchId": "1588866",
+      "league": "EFL Trophy",
+      "matchup": "Oxford United vs Cheltenham",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Oxford United Win with Draw cover (Home Win / Draw) alongside Over 2.5 Goals as Oxford's third-tier depth meets a heavily rotated Cheltenham defence.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Oxford United Win Primary, High-Scoring Draw Secondary Cover (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Exact Scoreline 2:2 on Rotated Defensive Lapses (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588866",
+      "league": "EFL Trophy",
+      "homeTeam": "Oxford United",
+      "awayTeam": "Cheltenham",
+      "match_time": "19:00",
+      "match_highlight": "Oxford's League One depth faces Cheltenham's confirmed wholesale cup rotation.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588866,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Oxford's third-tier home depth against Steve Cotterill's rotated Cheltenham XI supports a 2:1 home win as primary, while covering the 2:2 draw accounts for Aaron Ramsey's cup rotation and both teams' recurring 2:2 EFL Trophy group results."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.50 combined Poisson lambda total, 73.8% BTTS baseline, Cheltenham's 3.0 goals conceded per game, and three consecutive 2:2 EFL Trophy matches across both clubs."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Oxford's Kassam Stadium edge over a makeshift Cheltenham defence, while 2:2 captures the exact scoreline recorded in all three EFL Trophy matches played by these teams this season."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the premier high-event scoring bands (16.9% and 19.0% model probability) when bilateral defensive rotation meets open cup transitions."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Oxford led 1:0 at half-time in both recent home wins over Cheltenham to anchor Win-Win, while Win-Draw covers second-half defensive lapses from a rotated Oxford backline."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:16:40 UTC"
+}
