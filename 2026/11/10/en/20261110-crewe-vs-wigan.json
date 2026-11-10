@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588825,
+    "matchup": "Crewe vs Wigan",
+    "home_team": "Crewe",
+    "away_team": "Wigan",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-crewe-vs-wigan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Crewe vs Wigan Prediction & Match Analysis: EFL Trophy Squad Rotation & Goal Projections — XG Mind AI",
+    "meta": {
+      "matchId": "1588825",
+      "league": "EFL Trophy",
+      "matchup": "Crewe vs Wigan",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Crewe to avoid defeat (Home Win / Draw) in a low-scoring Under 2.5 contest anchored on 1:1 and 1:0.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance covering Crewe's 39.4% win and 28.6% draw Poisson distribution (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a 2.25 combined lambda and 60.9% probability on 0-2 goals (Confidence: Moderate, Value: High)",
+      "1:1 Draw script aligned with EFL Trophy group point management (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588825",
+      "league": "EFL Trophy",
+      "homeTeam": "Crewe",
+      "awayTeam": "Wigan",
+      "match_time": "19:00",
+      "match_highlight": "Crewe's fresher midfield tests a congested, wasteful Wigan side.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588825,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 group stalemate and a 1:0 home win driven by Crewe's fresher 14-day schedule and Wigan's 76.9% big-chance waste rate, where a single call would ignore the tight 0.15 lambda gap."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a modest 2.25 combined goal expectancy, 60.9% Poisson probability on 0-2 goals, and Wigan's 76.9% big chances missed ratio."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 (13.3%) and 1:0 (12.6%) are the top two scorelines in the Poisson matrix, reflecting balanced goal lambdas (1.20 vs 1.05)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) capture over half of the total probability distribution under a tight cup script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A balanced 0.50 first-half goal share favors a level interval before either settling at 1:1 or breaking Crewe's way late against a fatigued Wigan side."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:05:28 UTC"
+}
