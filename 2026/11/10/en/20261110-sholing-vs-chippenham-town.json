@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597460,
+    "matchup": "Sholing vs Chippenham Town",
+    "home_team": "Sholing",
+    "away_team": "Chippenham Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-sholing-vs-chippenham-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sholing vs Chippenham Town Prediction & Match Analysis: Defensive Fragility & Schedule Disparity — Scoreline Preview",
+    "meta": {
+      "matchId": "1597460",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Sholing vs Chippenham Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sholing to win or draw (Home Win / Draw), anchored by a 2:1 primary scoreline and 1:1 secondary cover in an Over 2.5 goals projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Win-Draw Contingency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597460",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Sholing",
+      "awayTeam": "Chippenham Town",
+      "match_time": "19:45",
+      "match_highlight": "Sholing's 1.65 goal expectancy meets Chippenham's leaky 1.93 GA/game road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597460,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Sholing's 1.65 lambda and Chippenham's 1.93 goals conceded per game favor a 2:1 home win, while 1:1 covers late fatigue on 76 hours' rest."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 2.98 lambda, 59.4% BTTS projection, and both defenses conceding over 1.50 goals per game support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Sholing's attacking edge against a porous road defense, while 1:1 is the top Poisson matrix scoreline at 11.1%."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (22.6%) represent the peak of the Poisson total-goals distribution around the 2.98 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Chippenham's 100% away half-time deficit rate favors a Sholing interval lead, ending either in a 2:1 Win-Win or a fatigued 1:1 Win-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 09:13:16 UTC"
+}
