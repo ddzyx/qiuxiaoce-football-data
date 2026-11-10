@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648691,
+    "matchup": "Once Caldas vs Atletico Nacional",
+    "home_team": "Once Caldas",
+    "away_team": "Atletico Nacional",
+    "league": "Football",
+    "kickoff_utc": "2026-11-11 01:30:00",
+    "source_url": "https://xgmind.com/matches/20261111-once-caldas-vs-atletico-nacional/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Once Caldas vs Atletico Nacional Prediction & Match Analysis: Can Host Resilience Overcome Visitor Class in Copa Colombia?",
+    "meta": {
+      "matchId": "1648691",
+      "league": "Copa Colombia",
+      "matchup": "Once Caldas vs Atletico Nacional",
+      "matchTime": "2026-11-11 01:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Once Caldas are projected to win or draw in regulation time (Home Win / Draw) within an Under 2.5 goals script anchored on 1:0 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Once Caldas lead via a 1.20 vs 1.05 lambda edge and 65.1 vs 21.4 form score, with the draw covering Nacional's 1738.0 Elo resilience (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Supported by a 2.25 combined lambda, 60.9% Poisson probability for 0-2 goals, and Nacional's 75.0% big-chance waste rate (Confidence: Moderate, Value: High)",
+      "Draw-Draw HT/FT — Reflects a cautious semi-final opening half that remains deadlocked if doubtful playmakers Roa and Cardona are restricted (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648691",
+      "league": "Copa Colombia",
+      "homeTeam": "Once Caldas",
+      "awayTeam": "Atletico Nacional",
+      "match_time": "01:30",
+      "match_highlight": "Once Caldas's home form meets Nacional's 75% big-chance waste rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648691,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Once Caldas's leading 1:0 home win script driven by superior recent form (65.1 vs 21.4) and a 1:1 stalemate respecting Atletico Nacional's 110-point Elo advantage and knockout draw habit."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal-expectancy lambda yields a 60.9% probability for 0-2 goals, reinforced by Nacional's 0.73 decayed scoring average and 75.0% big-chance missed ratio."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Once Caldas's home defensive solidity (1.00 conceded/game) and Nacional's finishing woes, while 1:1 is the top Poisson matrix outcome at 13.3%."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exactly 2 goals (26.7%) and 1 goal (23.7%) are the two highest-probability outcomes in the Poisson distribution, accounting for 50.4% of all match simulations."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Semi-final caution favors a level halftime state before Once Caldas leverage home altitude in the second half (Draw-Win) or both defenses hold firm (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 13:39:30 UTC"
+}
