@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596997,
+    "matchup": "Rushall Olympic vs Halesowen Town",
+    "home_team": "Rushall Olympic",
+    "away_team": "Halesowen Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-rushall-olympic-vs-halesowen-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Rushall Olympic vs Halesowen Town: Goal Expectancies, Lineup Uncertainty & Match Intelligence",
+    "meta": {
+      "matchId": "1596997",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Rushall Olympic vs Halesowen Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Rushall Olympic Win or Draw (Home Win / Draw) paired with Over 2.5 total goals, anchored by 2:1 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Rushall Olympic's 1.88 goals/game attack leads the win script while Halesowen Town's 1.64 PPG supports draw cover (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals — Backed by a 3.41 combined lambda and 66.2% model probability for 3+ goals (Confidence: Moderate, Value: High)",
+      "2:1 or 1:1 Exact Scoreline — Capturing the top decisive home margin and the raw Poisson modal draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596997",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Rushall Olympic",
+      "awayTeam": "Halesowen Town",
+      "match_time": "19:45",
+      "match_highlight": "3.41 combined goal expectancy pits 1.88 GPG host against balanced visitor.",
+      "ai_confidence": "Low",
+      "fixtureId": 1596997,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Rushall Olympic's 1.88 GPG home firepower drives the leading 2:1 win script, while Halesowen Town's 1.64 PPG efficiency and the 0.11 lambda gap make covering the 1:1 draw essential."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.41 (1.76 home vs 1.65 away) and 66.2% Poisson probability for 3+ goals strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 (8.4%) reflects Rushall Olympic's high-scoring win habit, while 1:1 (9.6%) is the highest single cell in the Poisson matrix."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.8%) and 2 goals (19.2%) are the top two exact goal counts in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive first half between evenly matched attacks sets up either a late Rushall Olympic breakthrough (Draw-Win) or a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:43:39 UTC"
+}
