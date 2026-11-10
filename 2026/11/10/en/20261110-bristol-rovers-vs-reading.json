@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588875,
+    "matchup": "Bristol Rovers vs Reading",
+    "home_team": "Bristol Rovers",
+    "away_team": "Reading",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-bristol-rovers-vs-reading/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bristol Rovers vs Reading Prediction & Match Analysis: Rotation Asymmetry & Scoreline Preview",
+    "meta": {
+      "matchId": "1588875",
+      "league": "EFL Trophy",
+      "matchup": "Bristol Rovers vs Reading",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Reading are projected to claim a regulation-time Away Win, supported by a 1.65 to 1.10 goal-expectancy advantage and superior third-tier scoring efficiency.",
+    "possibilityAssessment": [
+      "Away Win for Reading backed by a 50.2% Poisson baseline probability and 1.70 goals per match output (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals supported by a 2.75 combined goal expectancy and open cup-group dynamics (Confidence: Moderate, Value: Moderate)",
+      "Secondary 0:2 away clean-sheet script matching Reading's last two trips to the Memorial Stadium (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588875",
+      "league": "EFL Trophy",
+      "homeTeam": "Bristol Rovers",
+      "awayTeam": "Reading",
+      "match_time": "19:00",
+      "match_highlight": "Motivated League One visitors Reading face heavily rotated Bristol Rovers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588875,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Reading's 1.65 goal expectancy, 5:0 FA Cup momentum, and need to chase goals outweigh eliminated Bristol Rovers' explicitly rotated lineup."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 2.75, Reading's four-goal qualification target, and Rovers' rotated defence point toward three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Reading's attacking superiority with a home transition goal, while 0:2 repeats the exact score of the last two Memorial Stadium H2H meetings."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 1:2 Over 2.5 projection, while 2 goals covers the 24.2% Poisson peak and 0:2 clean-sheet branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss reflects Reading's urgent early push against a makeshift Rovers backline, while Draw-Loss covers a tight opening half before second-half away pressure tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:21:42 UTC"
+}
