@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597454,
+    "matchup": "Bath City vs Taunton Town",
+    "home_team": "Bath City",
+    "away_team": "Taunton Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-bath-city-vs-taunton-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bath City vs Taunton Town Prediction & Match Analysis: Defensive Solidity vs High-Variance Attack — Scoreline Preview",
+    "meta": {
+      "matchId": "1597454",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Bath City vs Taunton Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Bath City Win or Draw (Home Win / Draw), with a 2:1 home victory as the primary script and 1:1 as the secondary stalemate cover.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Bath City's 0.80 GA/g defense meets Taunton's 2.00 GA/g backline, with draw protection for high-scoring variance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Combined goal expectancy of 3.33 lambda and 64.6% model probability for 3+ goals (Confidence: Moderate, Value: Moderate)",
+      "Taunton Town First-Half Goal / Draw-Draw — High-event away offense forces an early exchange of goals settling at 1:1 (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597454",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Bath City",
+      "awayTeam": "Taunton Town",
+      "match_time": "19:45",
+      "match_highlight": "Bath City's 0.80 GA/g defense faces Taunton's 2.46 GF/g attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597454,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Bath City lead via a 2:1 home win script against Taunton's 2.00 GA/g defense, while a 1:1 draw covers the visitors' 2.46 GF/g scoring threat and narrow 0.07 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.33 combined lambda (1.70 vs 1.63) and Taunton Town's matches averaging 4.46 total goals per outing."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Bath City exploiting Taunton's porous backline while conceding once; 1:1 captures the top Poisson density cell (9.9%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals is the modal Poisson bucket (22.0%) aligned with 2:1, while 2 goals (19.8%) covers the 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win captures a tight opening half before Bath City's defensive depth prevails; Draw-Draw covers full-time parity at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:51:55 UTC"
+}
