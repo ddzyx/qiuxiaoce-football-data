@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597455,
+    "matchup": "Chertsey Town vs Chichester City",
+    "home_team": "Chertsey Town",
+    "away_team": "Chichester City",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-chertsey-town-vs-chichester-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chertsey Town vs Chichester City Prediction & Match Analysis: Playoff Rivals Clash — Scoreline & Goal Preview",
+    "meta": {
+      "matchId": "1597455",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Chertsey Town vs Chichester City",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Chertsey Town are projected to win or draw at home (Home Win / Draw) in a high-scoring Over 2.5 encounter anchored on 2:1 and 2:2 scorelines.",
+    "possibilityAssessment": [
+      "Chertsey Town Win or Draw — Home Win / Draw (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals with 3.62 combined lambda (Confidence: Moderate, Value: High)",
+      "3 or 4 Total Goals cluster at 40.4% combined probability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597455",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Chertsey Town",
+      "awayTeam": "Chichester City",
+      "match_time": "19:45",
+      "match_highlight": "Chertsey's 2.20 GPG attack tests Chichester in a top-seven clash.",
+      "ai_confidence": "Low",
+      "fixtureId": 1597455,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Chertsey Town lead the primary 2:1 winning script via their 1.91 goal lambda and 2.20 GPG output, while the 2:2 draw covers their 33.3% season draw rate against sixth-placed Chichester City."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined Poisson lambda of 3.62 (1.91 home vs 1.71 away) and both defenses conceding at least 1.60 goals per game drive a 70.1% probability for Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Chertsey's home attacking edge inside the peak 3-goal total (21.2%), while 2:2 captures a high-event stalemate between two leaky backlines."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.2%) and 4 goals (19.2%) are the top two exact totals in the Poisson distribution given the 3.62 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Win tracks a tight first half broken by Chertsey's second-half firepower, while Loss-Draw covers Chichester's fast-starting tendency followed by a home equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 09:07:22 UTC"
+}
