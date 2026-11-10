@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597453,
+    "matchup": "Wimborne Town vs Poole Town",
+    "home_team": "Wimborne Town",
+    "away_team": "Poole Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261110-wimborne-town-vs-poole-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wimborne Town vs Poole Town Prediction & Match Analysis: Dorset Derby Rest Disparity Meets Defensive Resistance — Scoreline Preview",
+    "meta": {
+      "matchId": "1597453",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Wimborne Town vs Poole Town",
+      "matchTime": "2026-11-10 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wimborne Town to avoid defeat (Home Win / Draw) in a low-scoring Dorset derby (Under 2.5 goals).",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597453",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Wimborne Town",
+      "awayTeam": "Poole Town",
+      "match_time": "19:30",
+      "match_highlight": "Wimborne's 0.69 GA/game defense faces Poole on 52 hours rest.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597453,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 derby stalemate (forced by Wimborne's 52-hour rest turnaround) and the 1:0 low-block home triumph backed by Wimborne's 1.38 to 1.22 lambda edge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Wimborne concede just 0.69 league goals per game with 37.8% possession, and post-cup physical management favours a compact match where 0-2 goals hold 51.8% Poisson probability."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 is the top Poisson scoreline (12.5%) balancing Poole's rest edge with Wimborne's resilience, while 1:0 (10.2%) reflects Wimborne's clean-sheet capability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.1%) and 1 goal (19.3%) lead the low-scoring distribution as Wimborne's compact low block restricts open-play tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Win-Win"
+        ],
+        "comment": "Draw-Draw aligns with a cautious first half and the 1:1 stalemate, while Win-Win captures an early Wimborne transition goal protected by their 0.69 GA/game defense."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:41:36 UTC"
+}
