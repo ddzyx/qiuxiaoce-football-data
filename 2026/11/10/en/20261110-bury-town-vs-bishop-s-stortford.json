@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596993,
+    "matchup": "Bury Town vs Bishop's Stortford",
+    "home_team": "Bury Town",
+    "away_team": "Bishop's Stortford",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-bury-town-vs-bishop-s-stortford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bury Town vs Bishop's Stortford Prediction & Match Analysis: Promotion Contenders Meet Relegation Threat — Scoreline Preview",
+    "meta": {
+      "matchId": "1596993",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Bury Town vs Bishop's Stortford",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bury Town are projected to secure a Home Win in an Over 2.5 goals encounter, with 2:1 and 3:1 as the primary target scorelines.",
+    "possibilityAssessment": [
+      "Bury Town Home Win based on 11 wins in 17 league matches and 1.82 goals scored per game against 20th-placed opposition (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a 3.14 combined statistical lambda and both defences conceding over 1.50 goals per league game (Confidence: Moderate, Value: Moderate)",
+      "High-scoring draw contingency if Bury Town's 1.53 goals-conceded rate allows Bishop's Stortford to convert multiple counter-attacks (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596993",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Bury Town",
+      "awayTeam": "Bishop's Stortford",
+      "match_time": "19:45",
+      "match_highlight": "Second-placed Bury Town's 1.82 scoring rate tests leaky visiting defence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596993,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bury Town's 11-2-4 league record and 1.81 goal expectancy overpower a 20th-placed Bishop's Stortford side with 11 losses in 16 games."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.14 (1.81 vs 1.33) and high league concession rates (1.53 and 1.81 per game) point to at least three goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects Bury Town's scoring edge alongside a 61.5% BTTS baseline, while 3:1 captures late home separation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals holds the highest Poisson probability (22.3%), followed by 4 goals (17.5%) in an open transitional script."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Bury Town are favoured to lead early and hold on (Win-Win), or break a 1:1 half-time deadlock after the interval (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:37:27 UTC"
+}
