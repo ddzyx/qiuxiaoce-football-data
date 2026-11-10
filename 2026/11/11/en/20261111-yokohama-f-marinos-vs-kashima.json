@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648032,
+    "matchup": "Yokohama F. Marinos vs Kashima",
+    "home_team": "Yokohama F. Marinos",
+    "away_team": "Kashima",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-11 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-yokohama-f-marinos-vs-kashima/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama F. Marinos vs Kashima Prediction & Match Analysis: High-Press Chaos Meets Clinical Transitions — Scoreline & Tactical Preview",
+    "meta": {
+      "matchId": "1648032",
+      "league": "J-League Cup",
+      "matchup": "Yokohama F. Marinos vs Kashima",
+      "matchTime": "2026-11-11 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Yokohama F. Marinos Win or Draw (Home Win / Draw) with primary scorelines of 1:1 and 2:1 as the hosts' cup resilience and schedule freshness meet Kashima's counter-attacking threat.",
+    "possibilityAssessment": [
+      "Yokohama F. Marinos Win or Draw — Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on 2.25 combined lambda and cautious first-half cup tempo (Confidence: Moderate, Value: Moderate)",
+      "2:1 Home Win as the primary decisive breakthrough script in the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648032",
+      "league": "J-League Cup",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "Kashima",
+      "match_time": "10:00",
+      "match_highlight": "Yokohama's relentless high press meets Kashima's elite counter-attacking forward trio",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648032,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the highest-density 1:1 stalemate (13.3%) and Yokohama F. Marinos' 2:1 second-half cup win script, as a single call would ignore either the narrow 0.15 lambda gap or the hosts' 3-0-0 cup record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% model probability for 0-2 goals), two Under 2.5 H2H meetings in 2026, and Kashima's two recent scoreless away games."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 is the top Poisson scoreline (13.3%) matching three of Yokohama's last five games, while 2:1 reflects their pattern of one-goal J-League Cup victories."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (26.7%) and 3 goals (20.0%) represent the two highest-probability exact goal counts around the 2.25 total goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Yokohama F. Marinos have been level at halftime in two of their three J-League Cup games (scoring 87.5% of cup goals after the break), supporting Draw-Draw and Draw-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 22:32:03 UTC"
+}
