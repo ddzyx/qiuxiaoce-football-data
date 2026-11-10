@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597461,
+    "matchup": "Uxbridge vs Hanwell Town",
+    "home_team": "Uxbridge",
+    "away_team": "Hanwell Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-uxbridge-vs-hanwell-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Uxbridge vs Hanwell Town Prediction & Match Analysis: Can League Leaders Rebound From Recent Slump? — Scoreline Preview",
+    "meta": {
+      "matchId": "1597461",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Uxbridge vs Hanwell Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back first-placed Uxbridge (Home Win) to rebound at home against 13th-placed Hanwell Town, anchored by 2:1 and 2:0 scorelines.",
+    "possibilityAssessment": [
+      "Uxbridge Home Win driven by 1.93 league goals per game and a +0.64 lambda advantage (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 2.76 combined lambda and 53.4% BTTS projection (Confidence: Moderate, Value: Moderate)",
+      "2 Goals Total (2:0 clean-sheet branch) if Uxbridge revert to their 0.80 goals-conceded league baseline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597461",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Uxbridge",
+      "awayTeam": "Hanwell Town",
+      "match_time": "19:45",
+      "match_highlight": "Can league leaders Uxbridge restore their 0.80 GA/game defensive wall?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597461,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Uxbridge hold a 16-point table lead (10W-3D-2L) and a 1.70 to 1.06 lambda edge over a Hanwell defense conceding 1.47 goals per game."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.76 combined lambda expectancy (52.1% for 3+ goals) and Hanwell's 1.33 scoring average support an open 3-goal contest."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects both teams' scoring averages (1.93 vs 1.33), while 2:0 covers Uxbridge's 0.80 GA/game clean-sheet capability."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 2:1 script and Over 2.5 call, while 2 goals (24.1% Poisson peak) covers the 2:0 home win."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures a cautious opening half before Uxbridge's depth tells, while Win-Win covers an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 09:15:12 UTC"
+}
