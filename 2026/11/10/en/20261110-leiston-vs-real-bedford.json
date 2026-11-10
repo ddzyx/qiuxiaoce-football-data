@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596996,
+    "matchup": "Leiston vs Real Bedford",
+    "home_team": "Leiston",
+    "away_team": "Real Bedford",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-leiston-vs-real-bedford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leiston vs Real Bedford Prediction & Match Analysis: Can Table-Toppers Exploit Host Defensive Fragility? — Scoreline Preview",
+    "meta": {
+      "matchId": "1596996",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Leiston vs Real Bedford",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Real Bedford (Away Win) and Over 2.5 total goals as the league leaders' 2.53 goals-per-game attack confronts a Leiston defense conceding 2.07 per match.",
+    "possibilityAssessment": [
+      "Real Bedford Away Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals with 3.84 combined lambda expectancy (Confidence: Moderate, Value: High)",
+      "1:3 Secondary Scoreline Margin on transition expansion (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596996",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Leiston",
+      "awayTeam": "Real Bedford",
+      "match_time": "19:45",
+      "match_highlight": "Real Bedford's 2.53 GF/g attack tests Leiston's 2.07 GA/g defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596996,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Real Bedford's 12-2-3 league record and 2.30 goal expectancy give them a clear edge over 16th-placed Leiston's porous backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined lambda of 3.84 (1.54 home, 2.30 away) and 70.7% BTTS probability strongly support at least three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 is the highest-density scoreline (8.8%) while 1:3 (6.7%) captures Real Bedford extending their lead against an open home defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (20.3%) and 4 goals (19.5%) represent the two highest-probability exact total buckets in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss covers an early away lead held to full time, while Draw-Loss covers a second-half breakthrough by the league leaders."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:41:54 UTC"
+}
