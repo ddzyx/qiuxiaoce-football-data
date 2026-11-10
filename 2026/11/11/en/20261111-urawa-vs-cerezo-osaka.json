@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648033,
+    "matchup": "Urawa vs Cerezo Osaka",
+    "home_team": "Urawa",
+    "away_team": "Cerezo Osaka",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-11 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261111-urawa-vs-cerezo-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Urawa vs Cerezo Osaka: Tactical Blueprint, Lineup Dynamics & Match Intelligence",
+    "meta": {
+      "matchId": "1648033",
+      "league": "J-League Cup",
+      "matchup": "Urawa vs Cerezo Osaka",
+      "matchTime": "2026-11-11 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Urawa Home Win / Draw alongside an Under 2.5 total-goals orientation anchored on the 1:1 and 1:0 scorelines.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance covering Urawa's narrow home edge and the 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals aligned with the 2.25 combined lambda expectancy and H2H defensive trends (Confidence: Moderate, Value: Moderate)",
+      "2 Goals exact total capturing the modal 1:1 draw script (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648033",
+      "league": "J-League Cup",
+      "homeTeam": "Urawa",
+      "awayTeam": "Cerezo Osaka",
+      "match_time": "10:30",
+      "match_highlight": "Urawa's 54.0 forward threat index meets Cerezo's in-form midfield playmakers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648033,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Urawa's narrow 1:0 home victory script (39.4% win density, 1.20 vs 1.05 lambda) and the modal 1:1 stalemate (13.3%), whereas a single call would ignore the razor-thin 0.15 lambda gap and Cerezo's strong midfield form."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda total, a 60.9% Poisson probability for two or fewer goals, and four of the last five H2H meetings finishing Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% density reflecting balanced attacking and midfield metrics, while 1:0 sits second at 12.6% behind Urawa's 1.00 baseline goals conceded."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent the two highest-probability exact goal counts in the 2.25 lambda distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Win-Win"
+        ],
+        "comment": "Draw-Draw reflects a cagey quarter-final stalemate across both halves on 3.2 days of rest, while Win-Win captures Urawa's 57.1% first-half cup goal share and unbeaten half-time lead protection."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 22:54:23 UTC"
+}
