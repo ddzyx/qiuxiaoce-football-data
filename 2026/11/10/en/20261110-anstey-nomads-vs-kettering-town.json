@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596992,
+    "matchup": "Anstey Nomads vs Kettering Town",
+    "home_team": "Anstey Nomads",
+    "away_team": "Kettering Town",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-anstey-nomads-vs-kettering-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Anstey Nomads vs Kettering Town Tactical Breakdown & Probabilistic Modeling: Defensive Edge vs Home Firepower",
+    "meta": {
+      "matchId": "1596992",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Anstey Nomads vs Kettering Town",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Kettering Town to win or draw (Draw / Away Win) alongside Over 2.5 total goals, anchored by primary 1:2 and secondary 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance led by Away Win (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals backed by 3.39 combined lambda (Confidence: Moderate, Value: High)",
+      "Both Teams To Score at 66.5% Poisson baseline (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596992",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Anstey Nomads",
+      "awayTeam": "Kettering Town",
+      "match_time": "19:45",
+      "match_highlight": "Kettering's 1.12 GA/game defense tests Anstey's 2.13 GF/game attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1596992,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Kettering Town lead via a 41.8% win probability and a 1:2 transition script, while Anstey Nomads' 80.0% league unbeaten rate and the 9.7% 1:1 modal scoreline make a single call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.39 (1.62 home lambda, 1.77 away lambda) yields a 65.8% probability of three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Kettering's defensive edge and 41.8% win probability in an Over 2.5 environment, while 1:1 captures the 9.7% high-density draw script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals is the peak Poisson total at 21.9% matching the 1:2 primary scoreline, followed by 2 goals at 19.4% matching the 1:1 secondary scoreline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tightly balanced opening half (0.15 lambda gap) points to a half-time draw before Kettering either edge ahead late (Draw-Loss) or settle for a shared point (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:21:00 UTC"
+}
