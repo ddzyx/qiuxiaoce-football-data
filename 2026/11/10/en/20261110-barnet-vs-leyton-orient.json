@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588896,
+    "matchup": "Barnet vs Leyton Orient",
+    "home_team": "Barnet",
+    "away_team": "Leyton Orient",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-barnet-vs-leyton-orient/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barnet vs Leyton Orient Prediction & Match Analysis: Can the O's Break the Hive Fortress? — xG Preview",
+    "meta": {
+      "matchId": "1588896",
+      "league": "EFL Trophy",
+      "matchup": "Barnet vs Leyton Orient",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Leyton Orient to win or draw (Draw / Away Win), pairing the 1:2 away triumph with the 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance led by Leyton Orient's League One class and 48.8% Poisson win density (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals driven by a 2.50 baseline lambda and both sides' recent multi-goal cup victories (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT transition as a tight first half opens up for a second-half Leyton Orient breakthrough (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588896",
+      "league": "EFL Trophy",
+      "homeTeam": "Barnet",
+      "awayTeam": "Leyton Orient",
+      "match_time": "19:00",
+      "match_highlight": "Resurgent League One attack tests Barnet's unbeaten Hive fortress.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588896,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 1:2 Away Win script (48.8% Poisson density, backed by Orient's League One quality and 8 goals in their last 2 games) alongside the 1:1 Draw script (26.0% density, reflecting Barnet's 4-match unbeaten run and group cushion); a single call would ignore Orient's recent road stalemates."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.50 baseline lambda total, Barnet's 2.2 goals-per-game League Two attack, and Leyton Orient scoring 8 goals across their last two victories."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Leyton Orient's 1.50 to 1.00 goal-expectancy edge and must-win urgency, while 1:1 captures a regulation group-stage stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 1:2 scoreline and recent cup trends, while 2 goals (25.7% Poisson share) covers the 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides trend toward level first halves in cup play before Leyton Orient's second-half urgency produces either a Draw-Loss breakthrough or a Draw-Draw stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:22:14 UTC"
+}
