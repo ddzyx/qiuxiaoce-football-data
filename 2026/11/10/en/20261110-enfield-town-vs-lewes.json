@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596051,
+    "matchup": "Enfield Town vs Lewes",
+    "home_team": "Enfield Town",
+    "away_team": "Lewes",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-enfield-town-vs-lewes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Enfield Town vs Lewes Prediction & Match Analysis: High-Scoring Home Attack Meets Playoff-Chasing Resistance — Scoreline Preview",
+    "meta": {
+      "matchId": "1596051",
+      "league": "Non League Premier - Isthmian",
+      "matchup": "Enfield Town vs Lewes",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Enfield Town to win as the primary outcome with the draw covered (Home Win / Draw), alongside an Over 2.5 goals projection anchored on the 2:1 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Enfield Town Win / Draw Double Chance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals based on 3.47 combined lambda (Confidence: Moderate, Value: High)",
+      "2:2 High-Scoring Stalemate contingency scenario (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596051",
+      "league": "Non League Premier - Isthmian",
+      "homeTeam": "Enfield Town",
+      "awayTeam": "Lewes",
+      "match_time": "19:45",
+      "match_highlight": "Enfield's 2.87 GPG attack tests Lewes's 75% league unbeaten record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596051,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Enfield Town Win (2:1) leads on their 2.87 GPG attack and 2.06 lambda, while the Draw (1:1) covers Lewes's 75% league unbeaten rate and 1.41 away goal expectancy."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 3.47 goal expectancy (2.06 vs 1.41) and 66.0% BTTS baseline support Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 (9.3% density) reflects Enfield's superior firepower overcoming Lewes, while 1:1 (9.0%) captures a tight top-four stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.7%) and 2 goals (18.7%) represent the two highest-probability exact totals in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects a tight first half against 4th-placed Lewes followed by a second-half Enfield surge, while Win-Win covers an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:15:17 UTC"
+}
