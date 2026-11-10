@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597000,
+    "matchup": "Stratford Town vs Banbury United",
+    "home_team": "Stratford Town",
+    "away_team": "Banbury United",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-stratford-town-vs-banbury-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Non League Premier - Southern Central Matchday Intelligence: Stratford Town vs Banbury United Preview — Tactical Blueprint & Projections",
+    "meta": {
+      "matchId": "1597000",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Stratford Town vs Banbury United",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Stratford Town to win or draw (Home Win / Draw), anchored by a 2:1 primary scoreline and a 1:1 secondary stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Stratford Town lead on points per game and goal expectancy (1.59 vs 1.41), while their 7 draws in 16 league matches warrant draw coverage (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals — Supported by a 3.00 combined lambda, a 60.2% BTTS rate, and both defenses conceding over 1.65 goals per match (Confidence: Low, Value: Moderate)",
+      "2 or 3 Total Goals — Co-leading exact goal counts in the Poisson distribution at 22.4% each, covering both the 2:1 and 1:1 scripts (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597000",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Stratford Town",
+      "awayTeam": "Banbury United",
+      "match_time": "19:45",
+      "match_highlight": "Stratford's 1.59 goal expectancy meets Banbury's 1.81 goals conceded per game.",
+      "ai_confidence": "Low",
+      "fixtureId": 1597000,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Stratford Town hold the stronger attack (1.38 goals/game) and a 1.59 vs 1.41 lambda edge for a 2:1 win script, but their 7 draws in 16 league games and 1.69 goals conceded per game make a single call weaker than pairing it with the 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined statistical goal expectancy reaches 3.00 (57.7% Over 2.5 probability and 60.2% BTTS) as two defenses allowing 1.69 and 1.81 goals per game face off."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Stratford's home scoring edge against Banbury's leaky backline, while 1:1 is the top Poisson scoreline (11.2%) and covers Stratford's 43.8% draw rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals and 2 goals co-lead the Poisson distribution at 22.4% each, aligning directly with the 2:1 and 1:1 projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight opening half is expected before Stratford exploit Banbury's second-half defensive fatigue (Draw-Win) or settle for another stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:47:52 UTC"
+}
