@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1597001,
+    "matchup": "Worcester City vs Racing Club Warwick",
+    "home_team": "Worcester City",
+    "away_team": "Racing Club Warwick",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-worcester-city-vs-racing-club-warwick/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Worcester City vs Racing Club Warwick Prediction & Match Analysis: Rest Disparity Tests Home League Return — Scoreline Preview",
+    "meta": {
+      "matchId": "1597001",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Worcester City vs Racing Club Warwick",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Racing Club Warwick to avoid defeat (Draw / Away Win) with a lean toward Under 2.5 goals, anchored by the 1:1 and 1:2 scorelines.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance covering 65.8% of the Poisson distribution (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 50.8% probability for 0-2 goals and home tempo management (Confidence: Low, Value: Moderate)",
+      "Draw-Loss HT/FT second-half away breakthrough script (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597001",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Worcester City",
+      "awayTeam": "Racing Club Warwick",
+      "match_time": "19:45",
+      "match_highlight": "Well-rested Racing Club Warwick test fatigued Worcester City after FA Cup exit",
+      "ai_confidence": "Low",
+      "fixtureId": 1597001,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 12.4% modal 1:1 stalemate script and Racing Club Warwick's 39.7% away win edge driven by superior 1.44 goals/pg firepower and a 76-hour home rest disadvantage; a single call would ignore either the high league draw rate or post-cup fatigue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "The 0-2 goal band holds a 50.8% Poisson share and Worcester City's recent cup matches averaged under 2.0 goals via compact mid-block defending."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the highest-density outcome at 12.4%, while 1:2 (8.6%) captures a late away breakthrough against tired home legs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (24.9%) and 3 goals (21.9%) represent the two highest probability peaks around the 2.64 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A compact opening half favours an interval draw, followed either by a full-time stalemate (Draw-Draw) or a late away winner as Worcester City's 3.2-day turnaround takes its toll (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:49:49 UTC"
+}
