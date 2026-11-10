@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588902,
+    "matchup": "Northampton vs Gillingham",
+    "home_team": "Northampton",
+    "away_team": "Gillingham",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-northampton-vs-gillingham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Northampton vs Gillingham Prediction & Match Analysis: Squad Depletion & Qualification Math",
+    "meta": {
+      "matchId": "1588902",
+      "league": "EFL Trophy",
+      "matchup": "Northampton vs Gillingham",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gillingham to avoid defeat (Draw / Away Win) paired with Under 2.5 total goals as a depleted Northampton side faces a Gillingham outfit needing only one point to qualify.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance covering Gillingham's structural and qualification edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals aligned with Northampton's attacking absences and low-tempo second-half incentives (Confidence: Moderate, Value: Moderate)",
+      "2 total match goals anchored by the 1:1 stalemate and 0:2 counter-attacking branches (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588902",
+      "league": "EFL Trophy",
+      "homeTeam": "Northampton",
+      "awayTeam": "Gillingham",
+      "match_time": "19:00",
+      "match_highlight": "Depleted Northampton host a Gillingham side needing one point to advance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588902,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Gillingham's 0:1 winning script against Northampton's backup goalkeeper alongside the 1:1 draw that mathematically seals Gillingham's knockout qualification."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 51.8% baseline model probability on two or fewer goals, Northampton's 9 goals in 13 League Two matches, and five confirmed home absences."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Gillingham capitalizing on Northampton's goalkeeping and defensive absences, while 1:1 mirrors their August League Two draw and suffices for Gillingham to advance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal 25.1% outcome in the Poisson distribution, while 1 goal (19.3%) captures a narrow 0:1 away shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss aligns with Gillingham scoring 80% of their EFL Trophy goals in the first half and Northampton trailing at the break in both group games, while Draw-Draw matches their August 1:1 meeting."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:31:24 UTC"
+}
