@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1588873,
+    "matchup": "Stevenage vs Fulham U21",
+    "home_team": "Stevenage",
+    "away_team": "Fulham U21",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-stevenage-vs-fulham-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "EFL Trophy",
+      "matchId": "1588873",
+      "matchup": "Stevenage vs Fulham U21",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "4",
+        "3"
+      ]
+    },
+    "articleTitle": "Stevenage vs Fulham U21 Prediction & Tactical Breakdown: Can Senior Physicality Punish Academy Flaws?",
+    "coreRecommendation": "Back Stevenage for a regulation Home Win alongside Over 2.5 total goals as senior penalty-box physicality meets an open academy defense.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Stevenage have led at half-time in both group wins while Fulham U21 trailed at the break in both defeats, making Win-Win primary and Draw-Win the rotational secondary branch.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Stevenage's rotational cup attack has scored eight goals in two Group B wins and holds a decisive physical edge over an eliminated U21 backline conceding 4.50 goals per game.",
+        "selection": "Home Win"
+      },
+      "goals": {
+        "comment": "Four goals (19.4%) and three goals (18.3%) represent the two highest-probability exact goal totals in the 4.25-lambda distribution.",
+        "selection": [
+          "4",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "Stevenage's multi-goal cup firepower combined with host goalkeeper rotation points to 3:1 and 2:1 as the primary scoreline convergence points.",
+        "selection": [
+          "3:1",
+          "2:1"
+        ]
+      },
+      "league": "EFL Trophy",
+      "matchId": "1588873",
+      "awayTeam": "Fulham U21",
+      "homeTeam": "Stevenage",
+      "fixtureId": 1588873,
+      "match_time": "19:00",
+      "over_under": {
+        "comment": "A combined Poisson lambda of 4.25 (2.95 home vs 1.30 away) and 79.6% probability for 3+ goals strongly support Over 2.5.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Senior cup unit targets Fulham U21's porous 4.50 GA/game defense."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Stevenage Regulation Home Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals on a 4.25 combined goal-expectancy baseline (Confidence: High, Value: High)",
+      "Both Teams to Score inside a 3:1 or 2:1 home victory (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-2",
+    "halftime_score": "1-1",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-10 21:33:35 UTC"
+  }
+}
