@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596999,
+    "matchup": "Stourbridge vs Alvechurch",
+    "home_team": "Stourbridge",
+    "away_team": "Alvechurch",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-stourbridge-vs-alvechurch/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Non League Premier - Southern Central Matchday Intelligence: Stourbridge vs Alvechurch Preview — Tactical Blueprint & Projections",
+    "meta": {
+      "matchId": "1596999",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Stourbridge vs Alvechurch",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Alvechurch on the Draw / Away Win double chance (1:2 and 1:1), balancing their +0.54 goal-expectancy advantage against a 76-hour post-FA Cup turnaround.",
+    "possibilityAssessment": [
+      "Draw / Away Win Double Chance (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals based on 2.80 combined lambda (Confidence: Low, Value: Moderate)",
+      "Exact Total of 2 Goals via 1:1 stalemate hedge (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596999",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Stourbridge",
+      "awayTeam": "Alvechurch",
+      "match_time": "19:45",
+      "match_highlight": "Alvechurch's 1.93 GPG attack tests Stourbridge after 76-hour cup turnaround.",
+      "ai_confidence": "Low",
+      "fixtureId": 1596999,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Alvechurch lead via a 50.0% Poisson win probability and 1:2 primary script, while the 1:1 draw covers their 3.2-day recovery from Saturday's FA Cup trip to Plymouth."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 2.80 (1.13 home vs 1.67 away) and 55.0% BTTS probability support a 3-goal primary outcome."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Alvechurch's 1.67 lambda versus Stourbridge's 1.13, while 1:1 is the 11.5% modal Poisson scoreline if cup fatigue slows the visitors."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the 1:2 away triumph (22.2% probability), while 2 goals covers the 1:1 draw and 0:2 away win (23.8% probability)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half from Alvechurch makes a half-time draw likely, before superior away firepower forces a second-half winner (Draw-Loss) or fatigue preserves the deadlock (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:45:55 UTC"
+}
