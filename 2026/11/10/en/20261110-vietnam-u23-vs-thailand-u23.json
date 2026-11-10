@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649006,
+    "matchup": "Vietnam U23 vs Thailand U23",
+    "home_team": "Vietnam U23",
+    "away_team": "Thailand U23",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-10 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-vietnam-u23-vs-thailand-u23/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vietnam U23 vs Thailand U23 Prediction & Match Analysis: Depleted Hosts Face War Elephants",
+    "meta": {
+      "matchId": "1649006",
+      "league": "Friendlies",
+      "matchup": "Vietnam U23 vs Thailand U23",
+      "matchTime": "2026-11-10 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win with Thailand U23 (1:2) as the primary projection and a 1:1 draw as formal cover, alongside Over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win Double Chance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Loss-Draw Half-Time/Full-Time (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649006",
+      "league": "Friendlies",
+      "homeTeam": "Vietnam U23",
+      "awayTeam": "Thailand U23",
+      "match_time": "12:00",
+      "match_highlight": "Thailand U23's 2.00 GPG attack tests depleted Vietnam U23 in Pleiku.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649006,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Thailand U23 lead at 46.1% win probability (1:2) against a Vietnam U23 side missing 13 senior-promoted regulars and two injured midfielders, while Draw coverage (1:1) accounts for Thailand's 2.30 goals conceded per match and late arrival in Pleiku."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.45 combined Poisson goal expectancy (66.8% Over 2.5 probability) as Thailand U23 average 2.00 goals scored and 2.30 conceded per match against Vietnam U23's 1.80 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Thailand U23's superior attacking continuity and 1.90 goal expectancy, while 1:1 captures Thailand's 66.7% rate of dropping half-time leads in friendlies."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.7%) and 2 goals (18.9%) are the top two exact-goal outcomes in the Poisson distribution, matching the 1:2 and 1:1 scoreline anchors."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Thailand U23 score 75.0% of their goals in the first half and lead at the break in 60.0% of friendlies, either holding on for an away win (Loss-Loss) or conceding a second-half equalizer (Loss-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 00:05:56 UTC"
+}
