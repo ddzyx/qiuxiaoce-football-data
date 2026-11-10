@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1595993,
+    "matchup": "Cray Wanderers vs Three Bridges",
+    "home_team": "Cray Wanderers",
+    "away_team": "Three Bridges",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-cray-wanderers-vs-three-bridges/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cray Wanderers vs Three Bridges Prediction & Match Analysis: Can Wanderers Exploit Visitors' Porous Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1595993",
+      "league": "Non League Premier - Isthmian",
+      "matchup": "Cray Wanderers vs Three Bridges",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cray Wanderers to win at home in an Over 2.5 goals environment, supported by a 2.48 to 1.58 goal-expectancy advantage against a visiting defense conceding 2.67 goals per game.",
+    "possibilityAssessment": [
+      "Cray Wanderers Home Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: High, Value: High)",
+      "High-Scoring 2:2 Draw Contingency (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1595993",
+      "league": "Non League Premier - Isthmian",
+      "homeTeam": "Cray Wanderers",
+      "awayTeam": "Three Bridges",
+      "match_time": "19:45",
+      "match_highlight": "Cray Wanderers' 2.30 GPG attack targets Three Bridges' 2.67 GPG conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1595993,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Cray Wanderers hold a +8 goal difference in 10 games and a 2.48 vs 1.58 lambda edge over a Three Bridges side conceding 2.67 goals per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined lambda of 4.06 and high per-match scoring/conceding averages on both sides support Over 2.5 goals at 77.0% model probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 (8.4%) and 3:1 (6.9%) lead the Poisson matrix, reflecting Cray Wanderers' multi-goal firepower and Three Bridges' 1.67 goals-per-game scoring rate."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "4 goals (19.5%) and 3 goals (19.2%) represent the peak total-goal probabilities under a 4.06 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win accounts for Cray Wanderers' second-half scoring bias and 53-hour turnaround pacing, while Win-Win covers an early breakthrough against a leaky away defense."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:11:09 UTC"
+}
