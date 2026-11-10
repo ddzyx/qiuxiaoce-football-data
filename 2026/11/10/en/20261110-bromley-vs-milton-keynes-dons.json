@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588906,
+    "matchup": "Bromley vs Milton Keynes Dons",
+    "home_team": "Bromley",
+    "away_team": "Milton Keynes Dons",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261110-bromley-vs-milton-keynes-dons/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bromley vs Milton Keynes Dons Prediction & Preview: Can Karl Robinson Halt MK Dons' Cup Surge?",
+    "meta": {
+      "matchId": "1588906",
+      "league": "EFL Trophy",
+      "matchup": "Bromley vs Milton Keynes Dons",
+      "matchTime": "2026-11-10 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Milton Keynes Dons (Away Win) to claim a third straight EFL Trophy group win against an injury-hit Bromley defense in an Over 2.5 goals encounter.",
+    "possibilityAssessment": [
+      "Away Win — Milton Keynes Dons to prevail via superior squad depth and four-match winning momentum (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — High-tempo cup clash supported by a 4.25 combined goal lambda and MK Dons' 11 goals in two group games (Confidence: High, Value: Moderate)",
+      "Half-Time Draw — Bromley to keep the opening 45 minutes level before second-half defensive attrition tells (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588906",
+      "league": "EFL Trophy",
+      "homeTeam": "Bromley",
+      "awayTeam": "Milton Keynes Dons",
+      "match_time": "19:30",
+      "match_highlight": "Karl Robinson faces former club MK Dons amid Bromley defensive injuries.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588906,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Milton Keynes Dons have won four straight matches including a 4:1 victory over Bromley two weeks ago and possess the depth to exploit the hosts' depleted backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined statistical lambda sits at 4.25 goals, reinforced by MK Dons scoring 11 goals across two EFL Trophy group games and Bromley conceding 2.50+ goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Bromley's direct set-piece threat through Michael Cheek supports a home goal, but MK Dons' second-half transition quality points to a 1:2 or 1:3 away victory."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals hold the highest combined probability densities (37.7%) in the Poisson matrix and match recent H2H scoring patterns."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Bromley held MK Dons to a 1:1 first-half draw on October 27 before collapsing after the break (Draw-Loss), while MK Dons have led at half-time in both group matches (Loss-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:36:24 UTC"
+}
