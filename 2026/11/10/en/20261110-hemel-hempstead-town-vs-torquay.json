@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588394,
+    "matchup": "Hemel Hempstead Town vs Torquay",
+    "home_team": "Hemel Hempstead Town",
+    "away_team": "Torquay",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-hemel-hempstead-town-vs-torquay/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "National League South Matchday Intelligence: Hemel Hempstead Town vs Torquay Preview — Tactical Blueprint & Projections",
+    "meta": {
+      "matchId": "1588394",
+      "league": "National League - South",
+      "matchup": "Hemel Hempstead Town vs Torquay",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Torquay to win or draw (Draw / Away Win) alongside Under 2.5 goals, anchored by 0:1 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Draw / Away Win Double Chance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals Exact Band (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588394",
+      "league": "National League - South",
+      "homeTeam": "Hemel Hempstead Town",
+      "awayTeam": "Torquay",
+      "match_time": "19:45",
+      "match_highlight": "Torquay's 1.57 GF/g attack tests Hemel's 0.94 GF/g low-scoring block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588394,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Torquay lead the win matrix at 48.2% (0:1 script) via a 1.54 vs 1.07 lambda edge, while covering the draw (1:1 script) accounts for both teams' 35%+ league stalemate rates."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 51.6% Poisson probability for 0-2 goals, Hemel Hempstead Town's 0.94 league scoring average, and Torquay's consecutive 1:0 October cup results."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 (11.3%) and 1:1 (12.1%) are the two highest-probability scorelines in the Poisson matrix, aligning with Under 2.5 goals and Draw / Away Win."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.0%) and 3 goals (21.8%) represent the top two exact scoring bands around the 2.61 combined lambda baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A compact opening half projects a halftime deadlock before Torquay either force a second-half breakthrough (Draw-Loss) or settle for a point (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:07:17 UTC"
+}
