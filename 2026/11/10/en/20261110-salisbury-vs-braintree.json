@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588396,
+    "matchup": "Salisbury vs Braintree",
+    "home_team": "Salisbury",
+    "away_team": "Braintree",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-salisbury-vs-braintree/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "National League - South Matchday Intelligence: Salisbury vs Braintree Preview — Tactical Blueprint & Projections",
+    "meta": {
+      "matchId": "1588396",
+      "league": "National League - South",
+      "matchup": "Salisbury vs Braintree",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Salisbury are projected to secure a regulation Home Win in an Over 2.5 goals encounter, anchored on the 2:1 and 3:1 scorelines.",
+    "possibilityAssessment": [
+      "Salisbury Home Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "Second-Half Braintree Consolation Goal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588396",
+      "league": "National League - South",
+      "homeTeam": "Salisbury",
+      "awayTeam": "Braintree",
+      "match_time": "19:45",
+      "match_highlight": "Salisbury's 2.16 goal expectancy meets Braintree's 2.53 goals conceded per game.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588396,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Salisbury's 2.16 lambda and 0.71 league goals conceded per match outweigh Braintree's leaky defence (2.53 conceded per game), supporting 2:1 and 3:1 home wins."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined lambda_total of 3.25 and Braintree's 38 goals conceded in 15 league matches point strongly toward three or more total goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 is the top Poisson scoreline at 9.9% density, while 3:1 (7.1%) captures Salisbury extending their margin against a stretched away defence."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.2%) and 4 goals (18.0%) represent the two highest-probability exact goal buckets in the 3.25 total-lambda distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win reflects Salisbury's fast home starts against a rusty visitor, while Draw-Win covers a level first half before Braintree's defence gives way."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:09:16 UTC"
+}
