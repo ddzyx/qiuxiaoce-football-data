@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648030,
+    "matchup": "Kawasaki Frontale vs Kashiwa Reysol",
+    "home_team": "Kawasaki Frontale",
+    "away_team": "Kashiwa Reysol",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-11 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-kawasaki-frontale-vs-kashiwa-reysol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kawasaki Frontale vs Kashiwa Reysol Prediction & Match Analysis: Cup Rematch Dynamics — Scoreline Preview",
+    "meta": {
+      "matchId": "1648030",
+      "league": "J-League Cup",
+      "matchup": "Kawasaki Frontale vs Kashiwa Reysol",
+      "matchTime": "2026-11-11 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win in regulation time, anchored by a primary 1:1 stalemate and a secondary 1:2 away transition victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Regulation draw leads via the 1:1 script with Kashiwa Reysol's superior form supporting the away win branch (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Supported by a 2.25 combined goal expectancy lambda and Kashiwa's recent defensive record (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough following a level first half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648030",
+      "league": "J-League Cup",
+      "homeTeam": "Kawasaki Frontale",
+      "awayTeam": "Kashiwa Reysol",
+      "match_time": "10:00",
+      "match_highlight": "Immediate cup rematch tests Kawasaki's attack against Kashiwa's compact defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648030,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 1:1 stalemate script and the 1:2 Kashiwa transition win script; a single call would ignore either the 28.6% baseline draw density or Kashiwa's 90.0 weighted form advantage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.25 yields a 60.9% baseline probability for two or fewer goals, reinforced by Kashiwa's 0.54 decayed goals-against average."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the top Poisson scoreline at 13.3% density, while 1:2 mirrors Kashiwa's victory over Kawasaki four days ago."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the Poisson distribution at 26.7%, while 3 goals (20.0%) covers a second-half transition winner."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both scripts project a level first half given Kawasaki's 14.3% first-half goal share in cup play, splitting between a full-time stalemate and a late Kashiwa winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 22:27:45 UTC"
+}
