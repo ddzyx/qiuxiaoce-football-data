@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596055,
+    "matchup": "Whitehawk vs Welling United",
+    "home_team": "Whitehawk",
+    "away_team": "Welling United",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-whitehawk-vs-welling-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Whitehawk vs Welling United Prediction & Match Analysis: Can League Leaders Exploit Bottom-Tier Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1596055",
+      "league": "Non League Premier - Isthmian",
+      "matchup": "Whitehawk vs Welling United",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Welling United are projected to secure a regulation-time Away Win, driven by a 2.21 goal expectancy against Whitehawk's 2.31 goals-conceded average.",
+    "possibilityAssessment": [
+      "Away Win — Welling United's 12-0-4 league record and 66.2% model probability dominate the 1X2 outlook (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Combined statistical lambda of 3.15 supports 3 or more total goals (Confidence: Moderate, Value: Moderate)",
+      "1:2 or 0:2 Scoreline Convergence — Captures both the BTTS consolation branch and the away clean-sheet script (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596055",
+      "league": "Non League Premier - Isthmian",
+      "homeTeam": "Whitehawk",
+      "awayTeam": "Welling United",
+      "match_time": "19:45",
+      "match_highlight": "League leaders Welling United target Whitehawk's porous 2.31 GA/game defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596055,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "1st-placed Welling United (12-0-4, 2.12 GF/game) hold a massive class edge over 22nd-placed Whitehawk (1-4-11, 2.31 GA/game), anchoring the 1:2 and 0:2 away-win scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined statistical goal expectancy lambda of 3.15 (0.94 home, 2.21 away) and 61.0% model probability for 3+ goals support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 aligns with the 3.15 total lambda and 54.3% BTTS baseline, while 0:2 reflects Welling United's top-ranked 10.5% clean-sheet victory density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.3%) are the two highest probability buckets in the Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss reflects Welling United establishing an early first-half lead, while Draw-Loss covers a stubborn Whitehawk first-half block broken after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:17:09 UTC"
+}
