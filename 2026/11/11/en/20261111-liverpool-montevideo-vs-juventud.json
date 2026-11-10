@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649433,
+    "matchup": "Liverpool Montevideo vs Juventud",
+    "home_team": "Liverpool Montevideo",
+    "away_team": "Juventud",
+    "league": "Football",
+    "kickoff_utc": "2026-11-11 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-liverpool-montevideo-vs-juventud/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Copa Uruguay Matchday Intelligence: Liverpool Montevideo vs Juventud Preview — Tactical Blueprint & Projections",
+    "meta": {
+      "matchId": "1649433",
+      "league": "Copa Uruguay",
+      "matchup": "Liverpool Montevideo vs Juventud",
+      "matchTime": "2026-11-11 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Liverpool Montevideo Win or Draw (Home Win / Draw) paired with Under 2.5 total goals, anchored on a 1:0 or 1:1 regulation finish.",
+    "possibilityAssessment": [
+      "Liverpool Montevideo Win or Draw — Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on 2.25 combined lambda and 60.9% Poisson density (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 regulation stalemate via set-piece parity (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649433",
+      "league": "Copa Uruguay",
+      "homeTeam": "Liverpool Montevideo",
+      "awayTeam": "Juventud",
+      "match_time": "00:00",
+      "match_highlight": "Liverpool Montevideo's defensive stability vs Juventud's 50% big-chance miss rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649433,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Liverpool Montevideo lead via a +54 Elo edge and 1.00 goals conceded per match (1:0 script), while the narrow 0.15 lambda differential and 13.3% density on 1:1 warrant formal Draw coverage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.25 with 60.9% Poisson probability under 2.5 goals and Juventud missing 50.0% of their big chances."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Liverpool Montevideo's home defensive edge and Juventud's finishing waste, while 1:1 is the highest raw Poisson density (13.3%) in a tight cup tie."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two exact-goal bands in the 2.25 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first-half cup stalemate followed by either a second-half Liverpool Montevideo breakthrough (Draw-Win) or sustained parity (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 12:09:14 UTC"
+}
