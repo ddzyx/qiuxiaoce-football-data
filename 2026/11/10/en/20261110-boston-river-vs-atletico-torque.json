@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649432,
+    "matchup": "Boston River vs Atletico Torque",
+    "home_team": "Boston River",
+    "away_team": "Atletico Torque",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261110-boston-river-vs-atletico-torque/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Boston River vs Atletico Torque Prediction & Match Analysis: Set-Piece Edge & Cup Stalemate — Scoreline Preview",
+    "meta": {
+      "matchId": "1649432",
+      "league": "Copa Uruguay",
+      "matchup": "Boston River vs Atletico Torque",
+      "matchTime": "2026-11-10 19:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Draw / Away Win and Under 2.5 goals as Atletico Torque's set-piece superiority and Elo edge meet a low-scoring quarter-final profile.",
+    "possibilityAssessment": [
+      "Draw / Away Win Double Chance (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "1:1 or 0:1 Exact Scoreline Trajectory (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649432",
+      "league": "Copa Uruguay",
+      "homeTeam": "Boston River",
+      "awayTeam": "Atletico Torque",
+      "match_time": "19:30",
+      "match_highlight": "Torque's 8 set-piece goals against Boston River's compact mid-block.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649432,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the modal 1:1 knockout stalemate (13.3% density) and a 0:1 Atletico Torque breakthrough driven by their +75 Elo edge and 8 set-piece goals, whereas a single call would ignore either Torque's away scoring struggles or Boston River's 0-for-5 recent form."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% model probability for 0-2 goals) and big-chance waste rates above 55% for both clubs."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 is the single highest-probability scoreline in the Poisson matrix (13.3%), while 0:1 (11.1%) reflects Torque's set-piece edge and Boston River's open-play droughts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) account for over half of the total probability distribution in a low-possession cup quarter-final."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Torque's cup matches have all been level at halftime; a cautious 0:0 first half leads naturally to either a 1:1 full-time draw or a late 0:1 away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:44:09 UTC"
+}
