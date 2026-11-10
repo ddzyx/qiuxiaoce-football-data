@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1596002,
+    "matchup": "Chatham Town vs Leatherhead",
+    "home_team": "Chatham Town",
+    "away_team": "Leatherhead",
+    "league": "Football",
+    "kickoff_utc": "2026-11-10 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261110-chatham-town-vs-leatherhead/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chatham Town vs Leatherhead Prediction & Match Analysis: High-Scoring Isthmian Clash — Scoreline & Goal Preview",
+    "meta": {
+      "matchId": "1596002",
+      "league": "Non League Premier - Isthmian",
+      "matchup": "Chatham Town vs Leatherhead",
+      "matchTime": "2026-11-10 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back a decisive high-scoring outcome via Home Win / Away Win (led by 1:2 and 2:1) alongside Over 2.5 Goals, driven by a 3.59 combined goal expectancy and Chatham Town's 1-in-15 league draw rate.",
+    "possibilityAssessment": [
+      "Home Win / Away Win decisive match script led by Leatherhead's 1.84 vs 1.75 lambda edge and Chatham Town's 7W-1D-7L league profile (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by 3.59 combined goal expectancy and 69.5% Poisson probability (Confidence: Moderate, Value: High)",
+      "High-scoring 2:2 Draw contingency if both defences (1.60 and 1.62 GA/game) trade goals without a late winner (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596002",
+      "league": "Non League Premier - Isthmian",
+      "homeTeam": "Chatham Town",
+      "awayTeam": "Leatherhead",
+      "match_time": "19:45",
+      "match_highlight": "Open Isthmian shootout with 3.59 expected goals and rare draw profile.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596002,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Leatherhead lead slightly via a 2.08 GF/g rate and 1.84 lambda (1:2), while Chatham Town's 1.87 GF/g and 7W-1D-7L record support the 2:1 home counter-script over a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.59 (1.75 home, 1.84 away) and both sides conceding over 1.60 league goals per match generate a 69.5% Over 2.5 probability."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:1"
+        ],
+        "comment": "1:2 (8.2% density) reflects Leatherhead's slight goal-expectancy edge, while 2:1 (7.8% density) captures Chatham Town's home scoring power."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.3%) and 4 goals (19.1%) are the two highest-probability exact totals in the 3.59-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Win"
+        ],
+        "comment": "Draw-Loss models a level first half broken by Leatherhead's 2.08 GF/g attack (1:2), while Win-Win covers Chatham Town seizing early control at home (2:1)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 08:13:22 UTC"
+}
