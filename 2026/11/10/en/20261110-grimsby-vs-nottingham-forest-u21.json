@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588850,
+    "matchup": "Grimsby vs Nottingham Forest U21",
+    "home_team": "Grimsby",
+    "away_team": "Nottingham Forest U21",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-10 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261110-grimsby-vs-nottingham-forest-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Grimsby vs Nottingham Forest U21 Prediction & Preview: Senior Depth vs Youth Transition",
+    "meta": {
+      "matchId": "1588850",
+      "league": "EFL Trophy",
+      "matchup": "Grimsby vs Nottingham Forest U21",
+      "matchTime": "2026-11-10 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Grimsby to secure a regulation-time home win alongside Over 2.5 total goals as senior attacking depth meets a porous Under-21 backline.",
+    "possibilityAssessment": [
+      "Grimsby Home Win via senior physical superiority and set-piece pressure (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by a 4.00 combined Poisson goal expectancy (Confidence: High, Value: High)",
+      "Draw-Win HT/FT transition as Grimsby's bench breaks down tiring academy legs after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588850",
+      "league": "EFL Trophy",
+      "homeTeam": "Grimsby",
+      "awayTeam": "Nottingham Forest U21",
+      "match_time": "19:00",
+      "match_highlight": "Senior forward depth tests fragile Forest U21 defence at Blundell Park",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588850,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Grimsby's senior physicality and 11 goals across their last three outings outweigh post-FA Cup rotation against a Forest U21 side conceding 3.0 goals per game in the competition."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.00 combined goal expectancy lambda (3.00 vs 1.00), Grimsby's recent 5:2 and 4:1 league wins, and Forest U21's 1:5 loss at Notts County point firmly to Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 and 2:1 reflect Grimsby's multi-goal home firepower paired with a likely transition goal for Forest U21 against a rotated Mariners defence."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 and 4 total goals each hold a peak 19.5% probability in the Poisson distribution, matching both sides' high-scoring recent cup fixtures."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win covers an early Grimsby breakthrough at Blundell Park, while Draw-Win accounts for a level first half before Forest U21 tire after the 60th minute."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-10 07:11:45 UTC"
+}
