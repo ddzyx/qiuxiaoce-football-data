@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588820,
+    "matchup": "Sheffield Wednesday vs Accrington ST",
+    "home_team": "Sheffield Wednesday",
+    "away_team": "Accrington ST",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-11 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-sheffield-wednesday-vs-accrington-st/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sheffield Wednesday vs Accrington ST: Lineup Vulnerabilities, Goal Expectancy & Match Intelligence",
+    "meta": {
+      "matchId": "1588820",
+      "league": "EFL Trophy",
+      "matchup": "Sheffield Wednesday vs Accrington ST",
+      "matchTime": "2026-11-11 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sheffield Wednesday to win or draw in a controlled, low-scoring encounter anchored by the 1:0 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Divisional superiority and unbeaten EFL Trophy record lead via a narrow home win, while three straight 1:1 draws and a 66.7% big-chance waste rate warrant draw coverage (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Supported by a 2.25 combined goal expectancy, 60.9% baseline Under 2.5 probability, and Wednesday's 0.73 decayed scoring average (Confidence: Moderate, Value: High)",
+      "2 Goals Total — Captures both the 1:1 stalemate and a controlled 2:0 home victory within the primary 26.7% Poisson total-goals bracket (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588820",
+      "league": "EFL Trophy",
+      "homeTeam": "Sheffield Wednesday",
+      "awayTeam": "Accrington ST",
+      "match_time": "19:00",
+      "match_highlight": "Wednesday possession control meets Accrington counter threat and 66.7% big-chance waste.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588820,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:0 home victory driven by League One class alongside the 1:1 stalemate script given Wednesday's three consecutive 1:1 draws and 66.7% big-chance waste rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, 60.9% baseline Under 2.5 probability, and five straight Wednesday matches finishing with two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Wednesday's 1.00 goals-conceded baseline and three straight H2H clean sheets, while 1:1 is the 13.3% Poisson modal scoreline matching their last three results."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two brackets in the Poisson distribution, aligning with a tight cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Win reflects Wednesday's 75% second-half goal share in the Trophy against a fresher visitor, while Draw-Draw covers the persistent 1:1 stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 07:32:37 UTC"
+}
