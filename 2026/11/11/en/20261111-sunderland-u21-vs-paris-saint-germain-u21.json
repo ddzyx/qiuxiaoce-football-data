@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1623285,
+    "matchup": "Sunderland U21 vs Paris Saint-Germain U21",
+    "home_team": "Sunderland U21",
+    "away_team": "Paris Saint-Germain U21",
+    "league": "Premier League International Cup",
+    "kickoff_utc": "2026-11-11 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-sunderland-u21-vs-paris-saint-germain-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sunderland U21 vs Paris Saint-Germain U21 Prediction & Match Analysis: Can Black Cats Exploit Parisian Academy Transition? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1623285",
+      "league": "Premier League International Cup",
+      "matchup": "Sunderland U21 vs Paris Saint-Germain U21",
+      "matchTime": "2026-11-11 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sunderland U21 to utilize home advantage at the Stadium of Light to secure a result against Paris Saint-Germain U21 in a competitive Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Sunderland U21 to avoid defeat via structured direct play and physical set-piece dominance (Confidence: Moderate, Value: Moderate)",
+      "A tightly contested 1:1 or 1:0 scoreline reflecting balanced underlying goal expectancies (Confidence: Moderate, Value: High)",
+      "Total match goals terminating Under 2.5 based on a 60.9% cumulative Poisson probability model (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1623285",
+      "league": "Premier League International Cup",
+      "homeTeam": "Sunderland U21",
+      "awayTeam": "Paris Saint-Germain U21",
+      "match_time": "19:00",
+      "match_highlight": "Sunderland's physical directness tests PSG academy flair at Stadium of Light.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1623285,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1:1 stalemate and Sunderland's 1:0 narrow home advantage victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Independent Poisson matrix concentrates 60.9% probability across two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 represents the natural technical convergence, while 1:0 reflects home defensive control."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A 2-goal primary count captures balanced scoring exchanges, backed by 1 goal as the hedge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Expect a cagey, tactical first half followed by a balanced or home-tilted second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 15:22:09 UTC"
+}
