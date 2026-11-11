@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559462,
+    "matchup": "Lithuania U17 vs Northern Ireland U17",
+    "home_team": "Lithuania U17",
+    "away_team": "Northern Ireland U17",
+    "league": "Football",
+    "kickoff_utc": "2026-11-11 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261111-lithuania-u17-vs-northern-ireland-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lithuania U17 vs Northern Ireland U17 Tactical Breakdown & Probabilistic Modeling: Youth Qualification Dynamics",
+    "meta": {
+      "matchId": "1559462",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Lithuania U17 vs Northern Ireland U17",
+      "matchTime": "2026-11-11 15:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Northern Ireland U17 to avoid defeat (Draw / Away Win) in a low-scoring Round 1 qualifier projected to stay Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Northern Ireland U17 unbeaten in recorded friendlies with superior coaching continuity (Confidence: Low, Value: High)",
+      "Under 2.5 Goals — Cautious Round 1 group opener dynamics and compact defensive blocks (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT — Tight first-half stalemate broken by Northern Ireland U17 after the interval (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559462",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Lithuania U17",
+      "awayTeam": "Northern Ireland U17",
+      "match_time": "15:30",
+      "match_highlight": "Northern Ireland U17's Nordic-tested form meets Lithuania U17's cold-start opener.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559462,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Northern Ireland U17's superior verified form (2:1 vs Sweden U17, 1:1 vs Norway U17) for a 0:1 win while protecting against a 1:1 Round 1 cold-start draw given unverified U17 lineups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Matchday 1 youth qualification caution and Northern Ireland U17's 1.00 goals-conceded rate support a tight contest of 1 to 2 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Northern Ireland U17's 1.44 decayed scoring rate and coaching stability; 1:1 mirrors their draw with Norway U17 in a cautious opener."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal aligns with a narrow 0:1 away breakthrough, while 2 goals covers the 1:1 stalemate or a 0:2 away margin."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A conservative opening 45 minutes favors a level half-time score before Northern Ireland U17 push for a second-half winner (Draw-Loss) or settle for a point (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 03:57:51 UTC"
+}
