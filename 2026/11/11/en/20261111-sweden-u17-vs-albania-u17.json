@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559468,
+    "matchup": "Sweden U17 vs Albania U17",
+    "home_team": "Sweden U17",
+    "away_team": "Albania U17",
+    "league": "Football",
+    "kickoff_utc": "2026-11-11 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-sweden-u17-vs-albania-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sweden U17 vs Albania U17: Tactical Breakdown, Qualification Form & Match Intelligence",
+    "meta": {
+      "matchId": "1559468",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Sweden U17 vs Albania U17",
+      "matchTime": "2026-11-11 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Sweden U17 to win or draw (Home Win / Draw) with Under 2.5 total goals, anchored by primary 2:0 and secondary 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Sweden U17's 771-day coaching continuity and 1.33 decayed scoring average lead the projection, with draw cover for Round 1 caution (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals — Two of Sweden U17's three 2026 friendlies produced exactly 2 goals with a 0.93 decayed goals-against rate (Confidence: Low, Value: Moderate)",
+      "Draw-Win HT/FT — A tight opening half against Albania U17's low block followed by a second-half Swedish breakthrough (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559468",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Sweden U17",
+      "awayTeam": "Albania U17",
+      "match_time": "13:00",
+      "match_highlight": "Sweden U17's 771-day coaching continuity meets Albania U17's opening-round block.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559468,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Sweden U17's verified 2:0 win over Estonia U17 and 771-day coaching tenure support a primary home win, while their 1:1 draw with Poland U17 and cold-start youth roster uncertainty justify retaining the draw over a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sweden U17's 1.33 decayed goals-for and 0.93 decayed goals-against averages (2.26 combined) and two 2-goal results in three 2026 friendlies support Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 mirrors Sweden U17's clean-sheet victory over Estonia U17, while 1:1 reflects their draw against Poland U17 if Albania U17's low block holds."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 total goals captures both the 2:0 and 1:1 core scripts, while 3 goals covers an open second-half transition scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects an opening-round feeling-out half before Sweden U17 break through after the break, while Win-Win covers an early Swedish lead held to full time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 01:27:15 UTC"
+}
