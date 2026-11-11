@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1588852,
+    "matchup": "Barnsley vs Oldham",
+    "home_team": "Barnsley",
+    "away_team": "Oldham",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-11 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-barnsley-vs-oldham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barnsley vs Oldham Prediction & Match Analysis: Rotation Risks and Cup Form in EFL Trophy — Scoreline Preview",
+    "meta": {
+      "matchId": "1588852",
+      "league": "EFL Trophy",
+      "matchup": "Barnsley vs Oldham",
+      "matchTime": "2026-11-11 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Barnsley Home Win / Draw paired with Under 2.5 total goals, balancing Barnsley's League One class and rest advantage against a narrow 2.25 combined goal expectancy.",
+    "possibilityAssessment": [
+      "Barnsley Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "Exact Scoreline 1:1 or 2:0 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588852",
+      "league": "EFL Trophy",
+      "homeTeam": "Barnsley",
+      "awayTeam": "Oldham",
+      "match_time": "19:00",
+      "match_highlight": "Rested Barnsley host unbeaten group leaders Oldham in tight cup clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588852,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Barnsley's Elo and 27-hour rest advantage for a home win alongside the 13.3% 1:1 draw script driven by a narrow +0.15 lambda gap and Barnsley's 69.0% big-chance waste rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, a 60.9% Poisson probability for 0-2 goals, and Oldham's 0.69 decayed goals-for average."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:0"
+        ],
+        "comment": "1:1 is the top Poisson scoreline at 13.3% matching recent draws for both clubs, while 2:0 captures a controlled home win against a fatigued Oldham defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the probability distribution at 26.7% right on the 2.25 lambda anchor, with 3 goals (20.0%) covering an open second-half transition script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides show low first-half scoring in the EFL Trophy, setting up a level interval before Barnsley's rest edge pushes for a late winner or settles into a full-time draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 07:34:53 UTC"
+}
