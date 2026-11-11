@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559470,
+    "matchup": "Ukraine U17 vs Poland U17",
+    "home_team": "Ukraine U17",
+    "away_team": "Poland U17",
+    "league": "Football",
+    "kickoff_utc": "2026-11-11 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-ukraine-u17-vs-poland-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ukraine U17 vs Poland U17 Prediction & Match Analysis: Youth Qualification Tempo & ScoringPreview",
+    "meta": {
+      "matchId": "1559470",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Ukraine U17 vs Poland U17",
+      "matchTime": "2026-11-11 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Poland U17 hold the attacking edge on recent form, making Draw / Away Win (1:2 and 1:1) the optimal cold-start qualification projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win as primary match direction (Confidence: Low, Value: Moderate)",
+      "Over 2.5 total goals driven by Poland U17's autumn scoring rate (Confidence: Low, Value: Moderate)",
+      "2 Goals exact total contingency in a tight group opener (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559470",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Ukraine U17",
+      "awayTeam": "Poland U17",
+      "match_time": "19:00",
+      "match_highlight": "Poland U17's autumn scoring momentum meets Ukraine U17's compact defence.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559470,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Poland U17 lead via their 2.26 decayed scoring rate (1:2 script), while the draw covers Ukraine U17's 0.44 decayed GA resistance in a cold-start opener (1:1 script)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Four of Poland U17's five tracked matches produced 3+ goals, and both teams' combined decayed scoring rates support an open second half."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Poland U17 scoring 2+ goals while conceding once as in all three September wins; 1:1 covers a cautious Group Stage 1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 1:2 away win script, while 2 goals captures the 1:1 defensive containment branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Opening-round caution points to a level first half before Poland U17's superior recent match rhythm edges the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 07:30:23 UTC"
+}
