@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649146,
+    "matchup": "Independiente Petrolero vs Always Ready",
+    "home_team": "Independiente Petrolero",
+    "away_team": "Always Ready",
+    "league": "Football",
+    "kickoff_utc": "2026-11-11 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-independiente-petrolero-vs-always-ready/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Independiente Petrolero vs Always Ready Prediction & Match Analysis: Can Sucre Hosts Overcome 206-Point Elo Deficit? — Scoreline Preview",
+    "meta": {
+      "matchId": "1649146",
+      "league": "Copa de la División Profesional",
+      "matchup": "Independiente Petrolero vs Always Ready",
+      "matchTime": "2026-11-11 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Always Ready to avoid defeat (Draw / Away Win) in a tightly contested semi-final projecting Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance backed by Always Ready's +206.0 Elo edge and superior finishing efficiency (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by a 2.25 combined lambda and 60.9% Poisson probability (Confidence: Moderate, Value: High)",
+      "Draw-Loss HT/FT script via a second-half set-piece or transition breakthrough by Always Ready (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649146",
+      "league": "Copa de la División Profesional",
+      "homeTeam": "Independiente Petrolero",
+      "awayTeam": "Always Ready",
+      "match_time": "23:00",
+      "match_highlight": "Always Ready's 206-point Elo and set-piece edge tests wasteful hosts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649146,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:1 modal Poisson scoreline (13.3%) and Always Ready's 0:1 victory script driven by a 206-point Elo advantage and 60.0% vs 84.6% big-chance waste superiority, whereas a single call would ignore either the tight 2.25 lambda equilibrium or the visitors' clear class edge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 total goal expectancy (60.9% Under 2.5 probability) and Independiente Petrolero's 84.6% big chances missed ratio."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 is the top Poisson scoreline (13.3%) matching the hosts' recent cup draw with Bolívar, while 0:1 (11.1%) reflects Always Ready's set-piece and defensive edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent over half of the total probability distribution in a cautious semi-final."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious semi-final opening favors a level halftime state before either ending 1:1 (Draw-Draw) or tilting to Always Ready in the second half (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 11:02:18 UTC"
+}
