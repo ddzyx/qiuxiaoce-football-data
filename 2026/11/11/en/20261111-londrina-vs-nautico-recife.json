@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1520976,
+    "matchup": "Londrina vs Nautico Recife",
+    "home_team": "Londrina",
+    "away_team": "Nautico Recife",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-11 22:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-londrina-vs-nautico-recife/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Londrina vs Nautico Recife: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1520976",
+      "league": "Serie B",
+      "matchup": "Londrina vs Nautico Recife",
+      "matchTime": "2026-11-11 22:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 goals, anchored on the 1:1 stalemate and 0:1 narrow visitor win.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1520976",
+      "league": "Serie B",
+      "homeTeam": "Londrina",
+      "awayTeam": "Nautico Recife",
+      "match_time": "22:00",
+      "match_highlight": "Midfield creators João Vitor and Jean Carlos clash in low-scoring finale",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1520976,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the modal 1:1 stalemate driven by Nautico's 50% away draw rate and the 0:1 visitor win given Londrina's three straight defeats; a single call would ignore either Nautico's 0-5-5 away winless sample or Londrina's 21 season losses."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by 51.8% Poisson probability for 0-2 goals, Nautico's 67.1% big chance waste rate, and just 1 goal scored in Nautico's last five matches."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 is the top Poisson scoreline at 12.5% with a 0.06 lambda diff, while 0:1 (9.9%) reflects Londrina's 36.4% home scoreless rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.1%) and 1 goal (19.3%) capture the primary 1:1 and 0:1 scripts inside an inefficient finishing matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Draw reflects that 100% of Nautico's level away half-times end drawn, while Loss-Loss captures Londrina's 50% HT deficit rate and 0% recovery win rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 10:32:06 UTC"
+}
