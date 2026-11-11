@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647357,
+    "matchup": "Vietnam vs Chinese Taipei",
+    "home_team": "Vietnam",
+    "away_team": "Chinese Taipei",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-11 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-vietnam-vs-chinese-taipei/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vietnam vs Chinese Taipei Prediction & Match Analysis: Class Chasm Meets Friendly Rotation — Scoreline Preview",
+    "meta": {
+      "matchId": "1647357",
+      "league": "Friendlies",
+      "matchup": "Vietnam vs Chinese Taipei",
+      "matchTime": "2026-11-11 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vietnam for a regulation-time Home Win, anchored on a controlled 2:0 or 3:0 clean-sheet victory.",
+    "possibilityAssessment": [
+      "Home Win — Vietnam's 635-point Elo advantage and 4-0-0 home friendly record outweigh friendly rotation risks (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (2:0 Primary Script) — Chinese Taipei's minimal road threat and Vietnam's 40.0% big-chance waste cap the total (Confidence: Moderate, Value: Moderate)",
+      "3 Total Goals (3:0 Secondary Script) — Late bench exploitation against a rusty visiting defense expands the margin (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647357",
+      "league": "Friendlies",
+      "homeTeam": "Vietnam",
+      "awayTeam": "Chinese Taipei",
+      "match_time": "12:00",
+      "match_highlight": "Vietnam's set-piece threat and match sharpness test rusty Chinese Taipei defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647357,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Vietnam's 1456.0 to 821.0 Elo advantage, 4-0-0 home friendly record, and recent 4:0 win over Myanmar firmly support a home victory over a Chinese Taipei side that lost 6:0 at Indonesia."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda, Chinese Taipei's negligible away scoring threat, and Vietnam's 40.0% big-chance waste rate align with a controlled 2:0 regulation outcome."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "Vietnam keep clean sheets in 50% of home friendlies while Chinese Taipei failed to score in their 6:0 loss at Indonesia, pointing to 2:0 as the primary convergence and 3:0 if late substitutions extend the margin."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals leads the Poisson distribution at 26.7% probability, with three goals (20.0%) covering the upper-bound home rout scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Vietnam score 63.6% of their home friendly goals in the first half (Win-Win in 50% of games) and won 100% of matches where they were level at the break (Draw-Win in 50%)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 00:25:24 UTC"
+}
