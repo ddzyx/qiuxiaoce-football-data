@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649008,
+    "matchup": "Thailand U23 vs Qatar U23",
+    "home_team": "Thailand U23",
+    "away_team": "Qatar U23",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-12 08:00:00",
+    "source_url": "https://xgmind.com/matches/20261112-thailand-u23-vs-qatar-u23/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Thailand U23 vs Qatar U23 Prediction & Match Analysis: Midfield Attrition on Short Rest — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1649008",
+      "league": "Friendlies",
+      "matchup": "Thailand U23 vs Qatar U23",
+      "matchTime": "2026-11-12 08:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Thailand U23 are projected to avoid defeat against Qatar U23 in a low-scoring friendly defined by short-rest fatigue.",
+    "possibilityAssessment": [
+      "Thailand U23 Win or Draw double chance capitalizing on superior set-piece efficiency (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals based on severe offensive droughts and 48-hour fixture congestion (Confidence: Moderate, Value: High)",
+      "Low-tempo 1:1 stalemate as mutual fatigue blunts transitional sharpness (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649008",
+      "league": "Friendlies",
+      "homeTeam": "Thailand U23",
+      "awayTeam": "Qatar U23",
+      "match_time": "08:00",
+      "match_highlight": "Short turnaround favors low-scoring attrition and dead-ball execution.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649008,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the high-probability 1:1 stalemate and a narrow 1:0 home win driven by set-piece superiority."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sub-2.3 combined lambda and acute two-day turnaround indicate limited chance creation."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Natural mathematical convergence points reflecting low attacking conversion on both sides."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution concentrates over 50% probability on one or two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey opening half under heavy legs gives way to late attrition or a decisive set play."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 20:43:11 UTC"
+}
