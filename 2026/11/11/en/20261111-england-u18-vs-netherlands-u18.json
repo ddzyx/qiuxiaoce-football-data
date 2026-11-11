@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647635,
+    "matchup": "England U18 vs Netherlands U18",
+    "home_team": "England U18",
+    "away_team": "Netherlands U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-11 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261111-england-u18-vs-netherlands-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling England U18 vs Netherlands U18: Goal Expectancy, Youth International Form & Match Intelligence",
+    "meta": {
+      "matchId": "1647635",
+      "league": "Friendlies",
+      "matchup": "England U18 vs Netherlands U18",
+      "matchTime": "2026-11-11 14:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "England U18 to win or draw (Home Win / Draw) with primary scorelines of 1:1 and 2:1 under a 2.25 combined goal expectancy.",
+    "possibilityAssessment": [
+      "England U18 Win or Draw (Home Win / Draw) capturing 68.0% Poisson baseline density across unbeaten youth setups (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Total Goals anchored on a 2.25 combined lambda and 1:1 modal scoreline (Confidence: Low, Value: Moderate)",
+      "Second-half comeback or parity shift via England U18's 75.0% second-half goal share (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647635",
+      "league": "Friendlies",
+      "homeTeam": "England U18",
+      "awayTeam": "Netherlands U18",
+      "match_time": "14:00",
+      "match_highlight": "England's second-half surge meets unbeaten Dutch youth resilience.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647635,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the 1:1 modal Poisson draw script (13.3%) and England U18's repeatable 2:1 second-half winning script, as a single call would ignore either England's 3-0-0 form or the Dutch 2-1-0 unbeaten run across a tiny 0.15 lambda gap."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy (1.20 vs 1.05) and a 60.9% cumulative baseline probability for 2 or fewer goals, anchored by the 1:1 primary scoreline."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 is the highest-density scoreline in the Poisson model (13.3%) matching England's zero-clean-sheet trend, while 2:1 reflects two of England's last three friendly victories."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals is the top probability bucket (26.7%) aligned with 1:1, while 3 goals (20.0%) captures the 2:1 decisive branch seen in recent friendlies for both teams."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "England U18 have been level at halftime in 100.0% of tracked matches; Draw-Draw aligns with the 1:1 stalemate while Draw-Win reflects their 75.0% second-half goal share producing a 2:1 win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-11 02:29:01 UTC"
+}
