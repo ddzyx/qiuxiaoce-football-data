@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649654,
+    "matchup": "Sur vs Dhofar",
+    "home_team": "Sur",
+    "away_team": "Dhofar",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-12 13:50:00",
+    "source_url": "https://xgmind.com/matches/20261112-sur-vs-dhofar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sur vs Dhofar Prediction & Match Analysis: Oman FA Cup Tactical Stalemate or Group Stage Breakthrough? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1649654",
+      "league": "FA Cup",
+      "matchup": "Sur vs Dhofar",
+      "matchTime": "2026-11-12 13:50 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sur to leverage home pitch familiarity and extended preparation to secure at least a point against Dhofar in a low-scoring cup contest.",
+    "possibilityAssessment": [
+      "Sur Win or Draw double chance anchored by home defensive stability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals reflecting balanced 2.25 total lambda expectation (Confidence: Moderate, Value: Moderate)",
+      "Low-margin exact scoreline concentration around 1:1 and 1:0 (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649654",
+      "league": "FA Cup",
+      "homeTeam": "Sur",
+      "awayTeam": "Dhofar",
+      "match_time": "13:50",
+      "match_highlight": "Tight tactical cup battle between rested Sur and organized Dhofar.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649654,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:1 stalemate and narrow 1:0 home win in a balanced cup fixture."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Total lambda expectation of 2.25 strongly supports a low-scoring match profile."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Reflects the two highest Poisson density scorelines in a tight regional clash."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Model projects 50.4% combined probability for exactly 1 or 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious opening 45 minutes expected to keep the contest level at halftime."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-12 02:29:09 UTC"
+}
