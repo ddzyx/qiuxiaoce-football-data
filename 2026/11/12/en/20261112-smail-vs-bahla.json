@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649655,
+    "matchup": "Smail vs Bahla",
+    "home_team": "Smail",
+    "away_team": "Bahla",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-12 13:55:00",
+    "source_url": "https://xgmind.com/matches/20261112-smail-vs-bahla/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Smail vs Bahla: Expected Goals, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1649655",
+      "league": "FA Cup",
+      "matchup": "Smail vs Bahla",
+      "matchTime": "2026-11-12 13:55 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Smail to leverage home defensive solidity to secure a result against Bahla in a tight, low-scoring encounter.",
+    "possibilityAssessment": [
+      "Home Win / Draw double chance trajectory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals defensive consolidation (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 tactical deadlock (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649655",
+      "league": "FA Cup",
+      "homeTeam": "Smail",
+      "awayTeam": "Bahla",
+      "match_time": "13:55",
+      "match_highlight": "Defensive compactness defines decisive Group 6 regional cup derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649655,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:1 deadlock and Smail's narrow 1:0 home edge where neither side holds a decisive superiority."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.25 favors a restrained match with 60.9% probability under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Poisson distribution identifies 1:1 and 1:0 as the primary probability convergence points."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Low-tempo tactical setups point toward a concentrated distribution between 1 and 2 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anticipates a cagey opening half with level scores persisting or resolving late for the hosts."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-12 02:45:25 UTC"
+}
