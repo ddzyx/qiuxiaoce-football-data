@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646119,
+    "matchup": "Vasteras SK FK vs IF Brommapojkarna",
+    "home_team": "Vasteras SK FK",
+    "away_team": "IF Brommapojkarna",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-13 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-vasteras-sk-fk-vs-if-brommapojkarna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vasteras SK FK vs IF Brommapojkarna Prediction: Tactical Clash & Low-Block Dynamics — Scoreline Preview",
+    "meta": {
+      "matchId": "1646119",
+      "league": "Friendlies Clubs",
+      "matchup": "Vasteras SK FK vs IF Brommapojkarna",
+      "matchTime": "2026-11-13 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vasteras SK FK in a double-chance posture (Home Win / Draw) alongside Under 2.5 goals in a tightly contested club friendly.",
+    "possibilityAssessment": [
+      "Vasteras SK FK edge a narrow 1:0 victory via structured pressing and set-piece superiority (Confidence: Moderate, Value: High)",
+      "Disciplined low-block defense from Brommapojkarna yields a 1:1 competitive stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals materializes as Brommapojkarna's offensive drought continues (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646119",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Vasteras SK FK",
+      "awayTeam": "IF Brommapojkarna",
+      "match_time": "11:00",
+      "match_highlight": "Vasteras pressing meets Brommapojkarna low-block resistance in friendly duel",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646119,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Vasteras's solid defensive form alongside the natural stalemate risk of club friendly rotation."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Strongly supported by a 60.9% Poisson density and Brommapojkarna failing to score in 4 of their last 5 games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents the natural convergence of Vasteras set-piece threat, while 1:1 accounts for friendly game-state variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent the top two probabilities in the total goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tight opening halves favor a level interval before late game-state adjustments determine the outcome."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 05:56:52 UTC"
+}
