@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606759,
+    "matchup": "Omiya Ardija vs Montedio Yamagata",
+    "home_team": "Omiya Ardija",
+    "away_team": "Montedio Yamagata",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-omiya-ardija-vs-montedio-yamagata/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Omiya Ardija vs Montedio Yamagata Prediction & Match Analysis: Can Backup Keeper Kasahara Hold Firm?",
+    "meta": {
+      "matchId": "1606759",
+      "league": "J2 League",
+      "matchup": "Omiya Ardija vs Montedio Yamagata",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw paired with Under 2.5 Goals, as Omiya Ardija's 1.88 goals-per-match attack faces a depleted Yamagata defense while international goalkeeping and bench absences warrant covering the stalemate.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw driven by Omiya's superior scoring output and 87.5% home unbeaten record balanced against Tom Glover's absence and zero wins from level half-times (Confidence: Moderate, Value: Moderate)",
+      "Secondary Totals Angle: Under 2.5 Goals anchored by a 2.44 combined lambda expectancy and Yamagata's 57.1% away fail-to-score rate (Confidence: Moderate, Value: High)",
+      "Contingency Variance Angle: 2:1 narrow home victory (3 total goals) if Omiya hit their two-goal scoring rhythm while backup keeper Takashi Kasahara concedes once in transition (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606759",
+      "league": "J2 League",
+      "homeTeam": "Omiya Ardija",
+      "awayTeam": "Montedio Yamagata",
+      "match_time": "05:00",
+      "match_highlight": "Omiya's 1.88 goals/match attack tests Nishimura-less Yamagata without keeper Tom Glover.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606759,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Omiya's primary 2:0 attacking win script and the 1:1 stalemate branch, because Glover's international absence and Omiya's 0-for-4 record from level half-times make a single home win too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.44 combined goal lambda (55.9% Poisson Under 2.5), Yamagata's 0.88 goals/match output, and their 1.00 goal-conceded defensive baseline."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Omiya's 2.06 decayed scoring against a side that lost 0:2 in three of its last five games, while 1:1 captures Yamagata's 71.4% away half-time draw resilience."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals is the modal Poisson bucket (25.9%) covering both 2:0 and 1:1, with 3 goals covering the 2:1 branch if Omiya's backup keeper concedes."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Omiya converted all eight half-time leads into wins (Win-Win), whereas level intervals saw Omiya go winless with 75% finishing Draw-Draw against Yamagata's 71.4% away half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:39:08 UTC"
+}
