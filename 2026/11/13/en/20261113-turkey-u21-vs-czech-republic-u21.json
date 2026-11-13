@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645401,
+    "matchup": "Turkey U21 vs Czech Republic U21",
+    "home_team": "Turkey U21",
+    "away_team": "Czech Republic U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-13 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-turkey-u21-vs-czech-republic-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Turkey U21 vs Czech Republic U21 Tactical Breakdown & Probabilistic Modeling: Defensive Discipline in Rize",
+    "meta": {
+      "matchId": "1645401",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Turkey U21 vs Czech Republic U21",
+      "matchTime": "2026-11-13 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Turkey U21's unbeaten home qualifying structure against a reshuffled Czech defense favors a narrow home win or draw in a cautious Under 2.5 first leg.",
+    "possibilityAssessment": [
+      "Turkey U21 Win or Draw backed by home clean-sheet record and Czech defensive injuries (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by 1.99 combined lambda and two-legged play-off caution (Confidence: High, Value: Moderate)",
+      "1:0 or 1:1 low-scoring scripts with level first half leading to second-half resolution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645401",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Turkey U21",
+      "awayTeam": "Czech Republic U21",
+      "match_time": "16:00",
+      "match_highlight": "Unbeaten Turkish home defense tests depleted Czech back line in Rize.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645401,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 1:0 home breakthrough against Czechia's missing defenders and a 1:1 stalemate given Turkey's 50% draw rate and Tıknaz's absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a low 1.99 combined lambda, four straight Under 2.5 Turkish home qualifiers, and first-leg play-off caution."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Turkey's 75% home clean-sheet rate against Czech absences, while 1:1 captures Mašek's set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals and 1 goal dominate the 1.99-lambda Poisson distribution and cover 1:1, 2:0, and 1:0 outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams start cautiously (80% Czech away HT draws, 75% Turkish home HT draws) before second-half separation or a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:00:32 UTC"
+}
