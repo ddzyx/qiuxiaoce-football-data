@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640006,
+    "matchup": "Bermuda vs St. Lucia",
+    "home_team": "Bermuda",
+    "away_team": "St. Lucia",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-bermuda-vs-st-lucia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bermuda vs St. Lucia Tactical Breakdown & Probabilistic Modeling: Transition Asymmetry & Relegation Fallout",
+    "meta": {
+      "matchId": "1640006",
+      "league": "CONCACAF Nations League",
+      "matchup": "Bermuda vs St. Lucia",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back St. Lucia (Away Win) to capitalize on their transition speed and superior squad depth against a depleted, already-relegated Bermuda side.",
+    "possibilityAssessment": [
+      "St. Lucia Away Win driven by vertical counter-attacks and reinforced English-league spine (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by Bermuda's 3.25 group goals conceded per match and St. Lucia's 2.25 scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT contingency if St. Lucia's six squad newcomers require 45 minutes to break down Bermuda's deeper block (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:3",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640006",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Bermuda",
+      "awayTeam": "St. Lucia",
+      "match_time": "19:00",
+      "match_highlight": "Depleted, relegated Bermuda face promotion-chasing St. Lucia on neutral turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640006,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "St. Lucia's direct pace, recent 5-2 head-to-head dominance, and upgraded roster align cleanly with a 1:3 or 1:2 away victory against a Wells-less Bermuda."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Despite a conservative 2.25 historical lambda total, Bermuda have conceded 13 goals in four group games while St. Lucia average 2.25 goals scored per match."
+      },
+      "score": {
+        "selection": [
+          "1:3",
+          "1:2"
+        ],
+        "comment": "1:3 reflects St. Lucia pulling clear on the break while Bermuda's forwards grab a consolation, with 1:2 covering tighter game management."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals bridges conservative baseline expectations and open Group B form, while four goals captures an unchecked transition contest."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "St. Lucia led at half-time in all three Group B wins (Loss-Loss from home view), while Draw-Loss covers a slower opening half before late depth tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:59:55 UTC"
+}
