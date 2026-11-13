@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545868,
+    "matchup": "Comoros vs Congo",
+    "home_team": "Comoros",
+    "away_team": "Congo",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-comoros-vs-congo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Comoros vs Congo Prediction & Match Analysis: Can Coelacanths Unlock Le Roy's Low Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545868",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Comoros vs Congo",
+      "matchTime": "2026-11-13 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Comoros hold the home defensive structure and baseline quality to edge a tight Group G qualifier, though Congo's compact setup keeps the draw firmly in play.",
+    "possibilityAssessment": [
+      "Comoros Win or Draw leads as the balanced 1X2 trajectory anchored on home resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.0 total-goal expectancy and low-scoring recent trends (Confidence: High, Value: Moderate)",
+      "Draw-Draw (0:0 stalemate) serves as the primary tactical hedge if Comoros' attack stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545868",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Comoros",
+      "awayTeam": "Congo",
+      "match_time": "13:00",
+      "match_highlight": "Comoros home structure tests Congo low block missing injured defender Mouanga.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545868,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win driven by Comoros' Elo and home edge alongside a 0:0 draw caused by Comoros' blunt attack and Congo's defensive setup, avoiding single-call exposure to a stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.0 lambda_total, 67.7% Poisson mass on 0-2 goals, and both sides' low-scoring qualifying profiles (1.0 vs 0.5 goals per game)."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 reflects Comoros' home defensive solidity and set-piece edge over a depleted Congo back line, while 0:0 captures Comoros' recent scoring drought against a deep block."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 goals share the highest independent Poisson probability mass at 27.1% each under a 2.0 lambda_total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides tend toward cautious first halves before Comoros either find a second-half breakthrough or settle into a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 06:58:23 UTC"
+}
