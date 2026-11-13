@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606757,
+    "matchup": "Shonan Bellmare vs Yokohama FC",
+    "home_team": "Shonan Bellmare",
+    "away_team": "Yokohama FC",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-shonan-bellmare-vs-yokohama-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shonan Bellmare vs Yokohama FC Tactical Breakdown & Preview: Injuries vs Promotion Momentum",
+    "meta": {
+      "matchId": "1606757",
+      "league": "J2 League",
+      "matchup": "Shonan Bellmare vs Yokohama FC",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win led by Yokohama FC represents the strongest statistical projection alongside Under 2.5 Goals in a tight, defense-driven contest.",
+    "possibilityAssessment": [
+      "Yokohama FC Away Win 0:1 leads behind a 2.00 goals-per-match offense facing an injury-hit Shonan front line (Confidence: Moderate, Value: Moderate)",
+      "Draw 1:1 remains a live secondary script given Shonan's 50% season draw rate and 0.94 defensive floor (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.50 combined lambda, 54.4% Poisson probability, and four Under 2.5 results in Shonan's last five games (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606757",
+      "league": "J2 League",
+      "homeTeam": "Shonan Bellmare",
+      "awayTeam": "Yokohama FC",
+      "match_time": "05:00",
+      "match_highlight": "Yokohama FC's 2.00 goals-per-game attack tests injury-hit Shonan Bellmare's 4-4-2 block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606757,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Away Win leads via Yokohama FC's 2.00 goals-per-game edge against depleted Shonan, while Draw covers Shonan's 8-of-16 stalemate rate and 0.94 goals conceded where a single call overlooks draw resilience."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.50 lambda total (54.4% Under 2.5 baseline), Shonan's 0.94 goals conceded per game, and Shonan's attacking absences point toward two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Yokohama FC's narrow H2H blueprint against Shonan's blunt attack, while 1:1 captures Shonan's 50% draw rate and the Poisson modal scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (25.7% baseline) and one goal (20.5% baseline, boosted by Shonan's offensive injuries) sit cleanly beneath the 2.5-goal threshold."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Both teams draw over half their respective home/away first halves before Yokohama FC's depth tells (Draw-Loss), while Loss-Draw captures Yokohama FC's 50% away lead-erosion rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:03:24 UTC"
+}
