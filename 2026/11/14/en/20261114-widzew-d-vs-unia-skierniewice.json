@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649953,
+    "matchup": "Widzew Łódź vs Unia Skierniewice",
+    "home_team": "Widzew Łódź",
+    "away_team": "Unia Skierniewice",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-widzew-d-vs-unia-skierniewice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Widzew Łódź vs Unia Skierniewice Tactical Breakdown & Preview: Depleted Host Faces 1. Liga Test",
+    "meta": {
+      "matchId": "1649953",
+      "league": "Friendlies Clubs",
+      "matchup": "Widzew Łódź vs Unia Skierniewice",
+      "matchTime": "2026-11-14 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Widzew Łódź's remaining Ekstraklasa core should avoid defeat at home in a tight, rotated friendly built around 1:1 and 2:1 scripts.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Jusuf Gazibegović's right-flank progression, 8 set-piece goals, and Unia's 26 goals conceded in 14 Betclic 1. Liga games (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals supported by 2.25 combined lambda, 60.9% baseline Poisson probability, and Widzew's 73.7% big-chance missed rate (Confidence: Moderate, Value: Moderate)",
+      "Second-half friendly substitution variance allowing Unia Skierniewice's five-goal forwards Bartosz Bida and Kamil Sabiłło to score in transition (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649953",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Widzew Łódź",
+      "awayTeam": "Unia Skierniewice",
+      "match_time": "11:00",
+      "match_highlight": "Depleted Widzew spine tests Unia Skierniewice's in-form strikers.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649953,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Widzew's narrow 2:1 home-win edge and the modal 1:1 draw script because seven international call-ups and four injuries weaken Widzew enough that a single call would understate stalemate risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (1.20 vs 1.05), a 60.9% baseline Poisson Under 2.5 share, and Widzew's depleted attack without Karol Świderski and Dani Silva."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 reflects the modal Poisson outcome as Unia attack a makeshift Widzew backline, while 2:1 captures Widzew's remaining top-flight starters edging Unia's leaky second-tier defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals aligns with the 26.7% Poisson mode and 1:1 core script, while three goals covers late second-half friendly rotation opening space for a 2:1 finish."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Experimental lineups point toward a level first half before second-half fitness and substitutions decide whether Widzew pull clear (2:1) or remain locked at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 23:33:31 UTC"
+}
