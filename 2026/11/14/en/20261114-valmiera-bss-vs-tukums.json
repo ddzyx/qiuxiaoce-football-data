@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649703,
+    "matchup": "Valmiera / BSS vs Tukums",
+    "home_team": "Valmiera / BSS",
+    "away_team": "Tukums",
+    "league": "Virsliga",
+    "kickoff_utc": "2026-11-14 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-valmiera-bss-vs-tukums/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valmiera / BSS vs Tukums Tactical Breakdown & Probabilistic Modeling: Playoff Control vs Transition",
+    "meta": {
+      "matchId": "1649703",
+      "league": "Virsliga",
+      "matchup": "Valmiera / BSS vs Tukums",
+      "matchTime": "2026-11-14 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 goals as Tukums defends its 1-0 playoff aggregate lead on Valmiera's home natural grass.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by first-leg shot superiority and aggregate game-state control (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by Tukums's zero first-half goal share in six sampled matches and cautious road setup (Confidence: Moderate, Value: Moderate)",
+      "1:1 exact scoreline capturing a home natural-grass reply offset by Tukums's counter-attacking quality (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649703",
+      "league": "Virsliga",
+      "homeTeam": "Valmiera / BSS",
+      "awayTeam": "Tukums",
+      "match_time": "11:00",
+      "match_highlight": "Tukums defends a 1-0 playoff lead on Valmiera's natural grass.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649703,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Derived from the 1:1 and 0:1 scripts, covering both a controlled aggregate-protecting stalemate and a counter-attacking away win since Tukums's three-match Virsliga away scoring drought makes an outright away-only call less resilient."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Four of Tukums's last five matches finished under 2.5 goals and their 1:0 aggregate cushion favors tight game management over open exchanges."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.0% while 0:1 mirrors Wednesday's first-leg shutout if Valmiera struggles to break down top-flight defending."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the 24.6% Poisson mode and 1 goal captures a single second-half transition decider in a tight playoff return leg."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Tukums recorded a 0% first-half goal share across its six-match sample, pointing to a level interval before either a 1:1 draw or a second-half away strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 23:41:56 UTC"
+}
