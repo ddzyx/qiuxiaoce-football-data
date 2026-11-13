@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555802,
+    "matchup": "FC Gifu vs Matsumoto Yamaga",
+    "home_team": "FC Gifu",
+    "away_team": "Matsumoto Yamaga",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-fc-gifu-vs-matsumoto-yamaga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Gifu vs Matsumoto Yamaga Tactical Breakdown & Preview: Home Fortress Against Depleted Road Grit",
+    "meta": {
+      "matchId": "1555802",
+      "league": "J3 League",
+      "matchup": "FC Gifu vs Matsumoto Yamaga",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Gifu's six-wins-from-eight home record and superior shot-on-target volume favor a controlled home victory over injury-hit Matsumoto Yamaga.",
+    "possibilityAssessment": [
+      "Thesis 1: FC Gifu leverages 2.00 home goals per game and five wins in six to breach a depleted visiting backline (Confidence: Moderate, Value: Moderate)",
+      "Thesis 2: Low-scoring Under 2.5 script backed by 2.41 combined lambda and both clubs' recent 1:0 scorelines (Confidence: Moderate, Value: High)",
+      "Thesis 3: Draw-Win half-time/full-time progression as Matsumoto's compact road defense resists early before tiring late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555802",
+      "league": "J3 League",
+      "homeTeam": "FC Gifu",
+      "awayTeam": "Matsumoto Yamaga",
+      "match_time": "05:00",
+      "match_highlight": "Promotion-chasing Gifu's home fortress tests depleted Matsumoto's road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555802,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by FC Gifu's 1:0 and 2:0 home projections, zero home draws in eight matches, and Matsumoto Yamaga's four losses in six."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson lambda_total of 2.41 gives Under 2.5 a 56.7% share, aligning with Gifu's 0.63 home goals conceded and Matsumoto's 0.94 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "1:0 leads the Poisson matrix at 13.2% and matches both sides' latest results, while 2:0 captures Gifu's late second-half transition upside."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal Poisson outcome at 26.1%, closely followed by 1 goal at 21.6% given tight recent scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Matsumoto's compact road defense can keep the first half level before Gifu pulls clear, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:50:17 UTC"
+}
