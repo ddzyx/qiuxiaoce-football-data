@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649015,
+    "matchup": "Chile U20 vs Mexico U20",
+    "home_team": "Chile U20",
+    "away_team": "Mexico U20",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-chile-u20-vs-mexico-u20/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chile U20 vs Mexico U20 Tactical Breakdown & Probabilistic Modeling: Containing Camberos Without Movillo",
+    "meta": {
+      "matchId": "1649015",
+      "league": "Friendlies",
+      "matchup": "Chile U20 vs Mexico U20",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 Goals stands as the primary trajectory for this CAR José Sulantay friendly opener.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Mexico U20's Chivas-anchored cohesion and Chile U20's reshuffled back line (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.25 combined lambda and 60.9% Poisson under-2.5 probability (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Score reflecting home territorial pressure balanced by transition and set-piece threats (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649015",
+      "league": "Friendlies",
+      "homeTeam": "Chile U20",
+      "awayTeam": "Mexico U20",
+      "match_time": "19:00",
+      "match_highlight": "Senior-promoted José Movillo leaves Chile U20 exposed to Hugo Camberos's transitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649015,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate from home territorial parity and a 0:1 Mexico win exploiting Movillo's absence, whereas a single call would neglect real friendly variance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy, Mexico's disciplined Concacaf defensive record, and cautious first-leg friendly rotation."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects the top Poisson draw branch alongside Mexico's sharpest set-piece and counter-attacking win path."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns directly with the 26.7% two-goal and 23.7% one-goal baseline Poisson densities."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Projects a cautious level opening half before either shared spoils or a late Mexican breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 11:05:44 UTC"
+}
