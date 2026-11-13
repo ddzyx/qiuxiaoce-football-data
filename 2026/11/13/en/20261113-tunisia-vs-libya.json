@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545883,
+    "matchup": "Tunisia vs Libya",
+    "home_team": "Tunisia",
+    "away_team": "Libya",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-tunisia-vs-libya/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tunisia vs Libya Tactical Breakdown & Probabilistic Modeling: Midfield Control vs Defensive Fragility",
+    "meta": {
+      "matchId": "1545883",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Tunisia vs Libya",
+      "matchTime": "2026-11-13 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Tunisia Win or Draw alongside Under 2.5 goals in a tight Maghreb derby.",
+    "possibilityAssessment": [
+      "Tunisia Win / Draw leads as the primary 1X2 call (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals fits both sides' attacking absences and tactical caution (Confidence: Moderate, Value: High)",
+      "Draw-Draw HT/FT covers Tunisia failing to unlock Libya's compact block late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545883",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Tunisia",
+      "awayTeam": "Libya",
+      "match_time": "16:00",
+      "match_highlight": "Depleted Tunisia attack seeks first Group H win against compact Libya.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545883,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Tunisia breakthrough and a 1:1 stalemate, as a single home win ignores Tunisia's attacking doubts and seven-game concession streak."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both attacks enter weakened without Achouri and Al Tabbal, favoring a tight Under 2.5 derby despite a 2.75 raw lambda total."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Tunisia's territorial control in Sfax, while 1:1 accounts for their persistent defensive leaks against Libyan transitions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal Poisson count covering 1:1 and 2:0, while one goal reflects a patient 1:0 Tunisian victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Libya's low block can hold Tunisia level at the interval before Tunisia's depth decides the second half or stalls in a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:57:38 UTC"
+}
