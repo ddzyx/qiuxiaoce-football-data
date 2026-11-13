@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545880,
+    "matchup": "Nigeria vs Tanzania",
+    "home_team": "Nigeria",
+    "away_team": "Tanzania",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-nigeria-vs-tanzania/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nigeria vs Tanzania Prediction & Match Analysis: Can Lookman Lead Super Eagles Without Osimhen?",
+    "meta": {
+      "matchId": "1545880",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Nigeria vs Tanzania",
+      "matchTime": "2026-11-13 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Nigeria to secure a controlled home victory in Uyo against depleted Tanzania in an Under 2.5 Goals contest.",
+    "possibilityAssessment": [
+      "Home Win behind Ademola Lookman, Alex Iwobi, and set-piece aerial pressure (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Osimhen, Chukwueze, Mzize, and Samatta absences (Confidence: Moderate, Value: Moderate)",
+      "Nigeria 2:1 concession contingency via Novatus Miroshi and Charles M'Mombwa transitions (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545880",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Nigeria",
+      "awayTeam": "Tanzania",
+      "match_time": "16:00",
+      "match_highlight": "Osimhen-less Super Eagles chase vital Uyo win against depleted Tanzania.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545880,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Nigeria's 454-point Elo advantage, Uyo home form, and set-piece edge outweigh Osimhen's absence against a Job-less Tanzania."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.50 statistical lambda ceiling paired with missing starting forwards for both nations favors a controlled two-goal finish."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "Nigeria's territorial pressure projects a 2:0 win, while their five-game concession streak keeps 2:1 as the main alternative."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Baseline Poisson density peaks at 2 goals (25.7%), with 3 goals capturing the transition-concession branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Tanzania's compact low block can hold until half-time before Nigeria's depth tells, though an early set-piece strike makes Win-Win viable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:52:29 UTC"
+}
