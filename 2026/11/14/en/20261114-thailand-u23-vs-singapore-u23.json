@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649017,
+    "matchup": "Thailand U23 vs Singapore U23",
+    "home_team": "Thailand U23",
+    "away_team": "Singapore U23",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 08:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-thailand-u23-vs-singapore-u23/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Thailand U23 vs Singapore U23 Tactical Breakdown & Modeling: Can Singapore's Low Block Hold Again?",
+    "meta": {
+      "matchId": "1649017",
+      "league": "Friendlies",
+      "matchup": "Thailand U23 vs Singapore U23",
+      "matchTime": "2026-11-14 08:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Home Win / Draw in an Under 2.5-goal contest anchored by 1:0 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Home Win / Draw 1X2 direction (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by 2.25 lambda total (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win and Draw-Draw HT/FT progression on short turnaround (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649017",
+      "league": "Friendlies",
+      "homeTeam": "Thailand U23",
+      "awayTeam": "Singapore U23",
+      "match_time": "08:00",
+      "match_highlight": "Thailand's developmental attack tests Singapore's disciplined low block on short rest.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649017,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retaining Home Win / Draw covers a narrow 1:0 Thailand breakthrough and a 1:1 stalemate, as neither Thailand's 1W-1D-5L friendly record nor Singapore's zero-goal Pleiku attack justifies a single-side lock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal lambda, 60.9% Poisson share for two or fewer goals, and Singapore's 0:0 and 0:1 Pleiku results favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Thailand's slight attacking and set-piece edge over a scoreless Singapore side, while 1:1 captures the top Poisson density given Thailand's 14.3% friendly clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top Poisson buckets as 44-to-48-hour recovery fatigue curbs attacking tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Singapore went 0:0 at half-time in both Pleiku fixtures, pointing to a level opening 45 minutes before Thailand either breaks through late or settles for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 20:11:14 UTC"
+}
