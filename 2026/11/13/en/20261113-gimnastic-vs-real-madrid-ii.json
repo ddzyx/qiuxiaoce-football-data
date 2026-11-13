@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1571209,
+    "matchup": "Gimnastic vs Real Madrid II",
+    "home_team": "Gimnastic",
+    "away_team": "Real Madrid II",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-13 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261113-gimnastic-vs-real-madrid-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimnastic vs Real Madrid II Prediction & Match Analysis: Can Home Might Break Road-Shy Castilla?",
+    "meta": {
+      "matchId": "1571209",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Gimnastic vs Real Madrid II",
+      "matchTime": "2026-11-13 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gimnastic are projected to avoid defeat behind a dominant home attack and Castilla's road winless streak, with a 2:1 home win leading and a 1:1 draw retained.",
+    "possibilityAssessment": [
+      "Gimnastic's 4W-0D-1L Nou Estadi home record leads the primary Home Win / Draw projection against road-winless Real Madrid II (Confidence: Moderate, Value: Moderate)",
+      "Combined goal expectancy of 2.77 and Gimnastic's four-match home streak without a clean sheet support Over 2.5 goals (Confidence: Moderate, Value: Moderate)",
+      "Real Madrid II's 57% possession share and three away draws keep a 1:1 stalemate viable as the main alternative branch (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571209",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Real Madrid II",
+      "match_time": "20:15",
+      "match_highlight": "Prolific home Nàstic attack tests Naasei-less Castilla road defence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571209,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Gimnastic's 2:1 home breakthrough against depleted Castilla while respecting the visitors' 1:1 away draw script, as Gimnastic's leaky home defence prevents a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by lambda_total 2.77, 52.3% Poisson Over 2.5 probability, and four of Gimnastic's five home games clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Gimnastic's 2.60-goal home attack plus one conceded; 1:1 matches Castilla's 12.0% modal Poisson draw tendency on the road."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2:1 home script against an adjusted defence, while 2 goals captures the tight 1:1 possession stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win expects Castilla's possession to hold early before Nàstic break through; Win-Draw covers an early home lead pegged back late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 17:35:20 UTC"
+}
