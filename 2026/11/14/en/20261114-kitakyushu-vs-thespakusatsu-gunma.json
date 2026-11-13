@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555803,
+    "matchup": "Kitakyushu vs Thespakusatsu Gunma",
+    "home_team": "Kitakyushu",
+    "away_team": "Thespakusatsu Gunma",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-kitakyushu-vs-thespakusatsu-gunma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kitakyushu vs Thespakusatsu Gunma Prediction & Match Analysis: Can Hosts Expose Gunma's Road Flaws?",
+    "meta": {
+      "matchId": "1555803",
+      "league": "J3 League",
+      "matchup": "Kitakyushu vs Thespakusatsu Gunma",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kitakyushu hold a clear home advantage and statistical edge to defeat Thespakusatsu Gunma in a J3 League clash leaning toward Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Kitakyushu Home Win driven by superior scoring/conceding rates (1.31 GF/1.50 GA vs Gunma's 0.81 GF/1.94 GA) and Gunma's 0-9 three-game away slump (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 2.78 combined goal lambda and dual defensive leakiness led by a 2:1 home victory (Confidence: Moderate, Value: Moderate)",
+      "2:0 Clean-Sheet Branch covering the scenario where Gunma's three-match away scoring drought extends for another 90 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555803",
+      "league": "J3 League",
+      "homeTeam": "Kitakyushu",
+      "awayTeam": "Thespakusatsu Gunma",
+      "match_time": "05:00",
+      "match_highlight": "Kitakyushu seek finishing rebound against Gunma's porous away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555803,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kitakyushu's 1.62 home lambda, intact attacking core, and Gunma's 1.94 goals-conceded rate support a single Home Win anchored on 2:1 and 2:0."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.78 combined goal lambda (52.6% Poisson Over 2.5) and both teams conceding 1.50 and 1.94 goals per game favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Kitakyushu's territorial superiority alongside their 1.50 GA/g vulnerability, while 2:0 covers Gunma's ongoing away scoring drought."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 2:1 primary script and Over 2.5 projection, while two goals covers the 2:0 clean-sheet branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures Kitakyushu breaking down a compact Gunma block after halftime, while Win-Win covers an early home breakthrough mirroring 2025 H2H meetings."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:54:14 UTC"
+}
