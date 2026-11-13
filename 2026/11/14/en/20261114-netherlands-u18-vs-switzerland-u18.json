@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647640,
+    "matchup": "Netherlands U18 vs Switzerland U18",
+    "home_team": "Netherlands U18",
+    "away_team": "Switzerland U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-netherlands-u18-vs-switzerland-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Netherlands U18 vs Switzerland U18 Prediction & Match Analysis: Can Vincken's Side Hold a Lead?",
+    "meta": {
+      "matchId": "1647640",
+      "league": "Friendlies",
+      "matchup": "Netherlands U18 vs Switzerland U18",
+      "matchTime": "2026-11-14 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Netherlands U18 hold a modest attacking edge over Switzerland U18, pointing toward a Home Win or Draw outcome beneath 2.5 total goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by Netherlands U18's 39.4% Poisson win baseline and verified academy attack (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined goal expectancy lambda and 60.9% under-2.5 Poisson density (Confidence: Low, Value: Moderate)",
+      "Draw contingency via 1:1 if 69-hour-turnaround substitutions repeat recent Dutch late-game concessions (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647640",
+      "league": "Friendlies",
+      "homeTeam": "Netherlands U18",
+      "awayTeam": "Switzerland U18",
+      "match_time": "11:00",
+      "match_highlight": "Dutch academy control tested by late-game vulnerability and Swiss resilience.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647640,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchored on 1:0 and 1:1 projections, covering Netherlands U18's narrow edge and the draw risk from friendly rotation where a single win call leaves late-concession variance exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy stands at 2.25 lambda with a 60.9% Poisson probability below 2.5 goals amid equal 69-hour turnaround fatigue."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects tightened Dutch control after recent late setbacks, while 1:1 captures the highest-density Poisson draw script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson densities peak at 2 goals (26.7%) and 1 goal (23.7%) across tight friendly tournament tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects a cagey first half before Dutch depth tells, whereas Win-Draw covers an early Dutch lead pegged back late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 23:25:51 UTC"
+}
