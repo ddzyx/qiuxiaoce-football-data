@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649943,
+    "matchup": "Dynamo Dresden vs Dukla Praha",
+    "home_team": "Dynamo Dresden",
+    "away_team": "Dukla Praha",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-13 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-dynamo-dresden-vs-dukla-praha/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dynamo Dresden vs Dukla Praha Tactical Breakdown & Probabilistic Modeling: 120-Minute Rotation Test",
+    "meta": {
+      "matchId": "1649943",
+      "league": "Friendlies Clubs",
+      "matchup": "Dynamo Dresden vs Dukla Praha",
+      "matchTime": "2026-11-13 12:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Dynamo Dresden's higher league caliber and attacking depth support Home Win / Draw in a tight, rotated friendly against organized Dukla Praha.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers Dresden's home superiority and Dukla's compact defensive form across an extended 120-minute test (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals backed by a 2.25 combined goal expectancy and recent shutout runs from both clubs (Confidence: Moderate, Value: Moderate)",
+      "Win-Draw half-time/full-time angle captures Dresden's recurring tendency to surrender early leads once second-half rotation begins (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649943",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Dynamo Dresden",
+      "awayTeam": "Dukla Praha",
+      "match_time": "12:00",
+      "match_highlight": "Dresden's 2. Bundesliga depth tests Dukla's compact defense over 120 minutes.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649943,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win leads on Dresden's 2. Bundesliga attacking depth and three straight home shutouts, while Draw covers heavy friendly rotation against a tight Dukla defense rather than forcing a riskier single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal expectancy (60.9% Under 2.5 Poisson probability), Dresden's 60.9% big-chance waste rate, and Dukla's back-to-back 1:0 clean sheets anchor expectations below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 mirrors Dresden's recent home wins over Magdeburg and Schalke, while 1:1 reflects the modal Poisson outcome if Dukla punish rotated home center-backs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 Goals leads the Poisson distribution at 26.7%, with 3 Goals serving as the secondary branch if 120-minute friendly fatigue produces a late breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win fits Dresden's pattern of second-half superiority against an initially compact Dukla side, while Win-Draw captures Dresden's habit of dropping leads once reserves enter."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 06:52:13 UTC"
+}
