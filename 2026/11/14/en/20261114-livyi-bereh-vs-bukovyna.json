@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1565517,
+    "matchup": "Livyi Bereh vs Bukovyna",
+    "home_team": "Livyi Bereh",
+    "away_team": "Bukovyna",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-14 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-livyi-bereh-vs-bukovyna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Livyi Bereh vs Bukovyna Tactical Breakdown & Match Analysis: Resuming at 0-1 — Scoreline & Goals Preview",
+    "meta": {
+      "matchId": "1565517",
+      "league": "Premier League",
+      "matchup": "Livyi Bereh vs Bukovyna",
+      "matchTime": "2026-11-14 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bukovyna are projected to protect their 1–0 half-time resumption lead against an injury-hit Livyi Bereh midfield, with a 1–1 draw remaining the primary secondary risk.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Bukovyna's 1–0 half-time advantage and Penkov's return face a home equalizer push against a Pryimak-less backline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals (1 or 2 Goals): Truncated 45-minute resumption from 0–1 paired with sub-0.75 scoring averages caps total output (Confidence: Moderate, Value: Moderate)",
+      "Late Counter 0:2 Extension: Livyi Bereh pushing forward without Kosovskyi risks transition space for Dakhnovskyi and Kozhushko (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565517",
+      "league": "Premier League",
+      "homeTeam": "Livyi Bereh",
+      "awayTeam": "Bukovyna",
+      "match_time": "10:00",
+      "match_highlight": "Bukovyna defends 1:0 halftime lead in resumed Kyiv clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565517,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Bukovyna protecting their 0:1 halftime lead and a 1:1 draw given Pryimak's absence, whereas a single Away Win would ignore both teams' >60% draw rates."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Full-match lambda_total of 1.75 and a single remaining half from 0:1 heavily concentrate outcomes on 1 or 2 total goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects a scoreless second half protecting Bukovyna's banked lead, while 1:1 captures a home equalizer against a depleted away defence."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Half-match Poisson scaling from 0:1 places roughly 78% of full-time outcomes at exactly 1 or 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Half-time is locked at 0:1 from the suspended October 31 first half, making Loss-Loss and Loss-Draw the direct second-half forks."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 22:22:41 UTC"
+}
