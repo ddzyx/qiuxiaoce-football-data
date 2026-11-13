@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649658,
+    "matchup": "Sohar vs Al Musannah",
+    "home_team": "Sohar",
+    "away_team": "Al Musannah",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-13 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-sohar-vs-al-musannah/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sohar vs Al Musannah Tactical Breakdown & Match Analysis: Can Marian Mihail Fix Sohar's Defense?",
+    "meta": {
+      "matchId": "1649658",
+      "league": "FA Cup",
+      "matchup": "Sohar vs Al Musannah",
+      "matchTime": "2026-11-13 14:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Sohar are projected to avoid defeat against Al Musannah in a tight, Under 2.5 goals cup encounter led by a 1:0 home win or 1:1 draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by Sohar's 1.20 vs 1.05 goal-expectancy edge and Al Musannah's winless away league record (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.25 combined goal expectancy and 60.9% Poisson under probability (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency covering Al Musannah's seven-game scoring streak against Sohar's untested new coaching setup (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649658",
+      "league": "FA Cup",
+      "homeTeam": "Sohar",
+      "awayTeam": "Al Musannah",
+      "match_time": "14:00",
+      "match_highlight": "New Sohar boss Marian Mihail tests compact reset against winless road visitors.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649658,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home reset under Marian Mihail alongside a 1:1 draw script, as Sohar's five-game slide prevents a single-result call despite Al Musannah's 0-1-3 away league record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, Sohar's expected defensive tightening, and Al Musannah's 0.50 away league scoring rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Primary 1:0 reflects Sohar's home cup urgency and defensive reset; secondary 1:1 accounts for Al Musannah's seven-game scoring streak."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the highest-probability buckets in the 2.25 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious opening tactics under a new coach favor a level half-time before Sohar either find a second-half winner or share the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:49:47 UTC"
+}
