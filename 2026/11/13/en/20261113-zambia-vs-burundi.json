@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545885,
+    "matchup": "Zambia vs Burundi",
+    "home_team": "Zambia",
+    "away_team": "Burundi",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-zambia-vs-burundi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zambia vs Burundi Prediction & Match Analysis: Can Depleted Chipolopolo Breach Burundi? — Preview",
+    "meta": {
+      "matchId": "1545885",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Zambia vs Burundi",
+      "matchTime": "2026-11-13 13:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Burundi to avoid defeat in a tight, low-scoring qualifier in Ndola, with a 1:1 stalemate leading ahead of a narrow 0:1 away ambush.",
+    "possibilityAssessment": [
+      "Draw / Away Win projects the highest-probability full-time corridor (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with blunted home attacking firepower and compact away structure (Confidence: Moderate, Value: High)",
+      "1:1 Draw or 0:1 Away Win captures the realistic balance between home urgency and transitional vulnerability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545885",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Zambia",
+      "awayTeam": "Burundi",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Zambia midfield faces Burundi's compact block in Ndola.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1545885,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 1:1 stalemate and a 0:1 counter-attacking ambush, as a single away-win call would ignore Zambia's home crowd and Fashion Sakala's remaining threat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Adjusted goal expectancy drops below 2.3 goals with Zambia missing four key forwards and Burundi prioritizing a compact defensive block."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix and reflects shared vulnerabilities, while 0:1 captures Burundi punishing late home over-extension."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal Poisson outcome at 24.2%, while one goal rises sharply given Zambia's attacking absences."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey, level first half against Burundi's deep block splits into either a shared second-half draw or a late away counter."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:03:29 UTC"
+}
