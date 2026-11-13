@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649543,
+    "matchup": "Poland U21 vs Norway U21",
+    "home_team": "Poland U21",
+    "away_team": "Norway U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-poland-u21-vs-norway-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland U21 vs Norway U21 Tactical Breakdown & Probabilistic Modeling: Senior Call-Ups Reshape Murcia Clash",
+    "meta": {
+      "matchId": "1649543",
+      "league": "Friendlies",
+      "matchup": "Poland U21 vs Norway U21",
+      "matchTime": "2026-11-13 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norway U21 are projected to avoid defeat in a controlled Under 2.5 friendly, led by superior squad continuity against a heavily depleted Polish lineup.",
+    "possibilityAssessment": [
+      "Norway U21 exploit an improvised Polish backline to edge a low-scoring contest (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals holds behind a 2.25 lambda baseline and Poland's blunted attacking depth (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw covers a cautious 90-minute stalemate if Poland's remaining midfield core contains Norway's wide threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649543",
+      "league": "Friendlies",
+      "homeTeam": "Poland U21",
+      "awayTeam": "Norway U21",
+      "match_time": "16:30",
+      "match_highlight": "Intact Norway U21 attack faces heavily depleted Poland U21 defense in Spain.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649543,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 0:2 Norway U21 victory driven by superior squad continuity and a 1:1 draw if Poland's central midfield holds firm; a single call is weaker given friendly rotation."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda baseline, Poland's missing creative core, and Norway U21's 4-of-5 Under 2.5 run."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Norway's attacking edge over Poland's experimental defense, while 1:1 covers Poland's midfield core trading a goal in a rotated friendly."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals aligns with both 0:2 and 1:1 and leads the Poisson distribution (26.7%), with 1 goal covering a tighter 0:1 friendly script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Compact early defending keeps the first half level before Norway's bench depth decides it late (Draw-Loss) or friendly rotation seals a stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:10:00 UTC"
+}
