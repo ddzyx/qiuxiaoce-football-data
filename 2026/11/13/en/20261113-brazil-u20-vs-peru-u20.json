@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649545,
+    "matchup": "Brazil U20 vs Peru U20",
+    "home_team": "Brazil U20",
+    "away_team": "Peru U20",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-brazil-u20-vs-peru-u20/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brazil U20 vs Peru U20 Prediction & Match Analysis: Can Kosloski's Block Stall Brazil's Attack?",
+    "meta": {
+      "matchId": "1649545",
+      "league": "Friendlies",
+      "matchup": "Brazil U20 vs Peru U20",
+      "matchTime": "2026-11-13 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brazil U20 hold the higher ceiling at the Mangueirão, making a controlled home victory or stalemate under 2.5 goals the primary projected trajectory.",
+    "possibilityAssessment": [
+      "Brazil U20 Win or Draw (Home Win / Draw) built on second-half attacking quality and home conditions in Belém (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by a 2.25 combined goal expectancy and Peru U20's compact 4-2-3-1 shape (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw half-time/full-time or 1:1 stalemate hedge if missing Brazilian October finishers delay a breakthrough (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649545",
+      "league": "Friendlies",
+      "homeTeam": "Brazil U20",
+      "awayTeam": "Peru U20",
+      "match_time": "23:00",
+      "match_highlight": "Brazil's second-half pace tests Kosloski's organized Peru U20 block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649545,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:0 home breakthrough and the 1:1 stalemate script because Brazil's camp absences and friendly experimentation leave a narrow draw viable alongside their home edge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, a 60.9% Poisson under-2.5 share, and Peru U20's disciplined 4-2-3-1 defensive structure."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Brazil's pattern of second-half separation at home, while 1:1 captures Peru's ability to frustrate hosts missing October forwards."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals aligns with both 2:0 and 1:1 (26.7% Poisson modal total), with three goals covering a 2:1 late-transition scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Brazil went into half-time level in 3 of 4 recorded 2026 friendlies before accelerating after the break, making Draw-Win primary and Draw-Draw the main fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:19:40 UTC"
+}
