@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1579530,
+    "matchup": "Kloetinge vs Hoek",
+    "home_team": "Kloetinge",
+    "away_team": "Hoek",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-13 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-kloetinge-vs-hoek/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kloetinge vs Hoek Prediction & Match Analysis: Will Defensive Fragility Decide the Zeeuwse Derby?",
+    "meta": {
+      "matchId": "1579530",
+      "league": "Tweede Divisie",
+      "matchup": "Kloetinge vs Hoek",
+      "matchTime": "2026-11-13 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Hoek to avoid defeat in a high-scoring derby captures both their 58.2% possession edge over a 2.75-goals-conceded defense and their road-win vulnerability.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals (Confidence: High, Value: Moderate)",
+      "Exact Score 2:2 Draw Contingency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579530",
+      "league": "Tweede Divisie",
+      "homeTeam": "Kloetinge",
+      "awayTeam": "Hoek",
+      "match_time": "18:00",
+      "match_highlight": "Porous Kloetinge defense faces possession-heavy Hoek in Zeeland basement derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579530,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 1:2 Away Win driven by Kloetinge's 2.75 goals conceded per match and a 2:2 Draw given Hoek's winless away record, making a single Away Win too exposed to Hoek's 42.9% big-chance wastefulness."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.46 combined lambda, 67.2% Poisson Over 2.5 probability, and Kloetinge's 33 goals conceded in 12 league matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Reflects Hoek's territorial advantage breaching a leaky host defense while acknowledging Kloetinge's 1.42 goals-per-game home counter threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Matches the 21.7% three-goal and 18.8% four-goal Poisson peaks alongside a 3.46 total goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss captures a cagey opening half before Hoek exploit second-half fatigue, while Loss-Draw reflects an early Hoek lead undone by Kloetinge's home response."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:35:30 UTC"
+}
