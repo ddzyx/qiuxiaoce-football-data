@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528965,
+    "matchup": "Serbia vs Germany",
+    "home_team": "Serbia",
+    "away_team": "Germany",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-serbia-vs-germany/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Serbia vs Germany Prediction & Match Analysis: Midfield Crisis vs Klopp's xG — Scoreline Preview",
+    "meta": {
+      "matchId": "1528965",
+      "league": "UEFA Nations League",
+      "matchup": "Serbia vs Germany",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Germany are projected to secure a controlled away victory in Belgrade, utilizing superior positional volume and midfield control to break down a depleted Serbian block.",
+    "possibilityAssessment": [
+      "Away Win — Germany control territory and exploit Serbia's central absences for a regulation victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Controlled away possession and mutual big-chance waste cap total scoring below three goals (Confidence: Moderate, Value: High)",
+      "Exact 0:1 Scoreline — Stubborn low-block goalkeeping narrows Germany's winning margin to a single goal (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528965",
+      "league": "UEFA Nations League",
+      "homeTeam": "Serbia",
+      "awayTeam": "Germany",
+      "match_time": "19:45",
+      "match_highlight": "Wirtz and Kimmich target Serbia's suspended central midfield shield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528965,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Germany's 1.98 xG creation and 0:2 core scoreline projection outweigh Serbia's depleted defensive spine."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.00 combined lambda, Germany's 0.50 goals conceded per game, and 53.3% big-chance waste favor two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Primary 0:2 mirrors October's reverse result against a two-goals-per-game Serbian defense; 0:1 accounts for low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two-goal and one-goal outcomes capture 54.2% of the Poisson baseline and align with five straight German unders."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Primary Loss-Loss reflects Germany's first-half territorial siege; Draw-Loss covers a scoreless opening half broken by German bench depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 13:23:29 UTC"
+}
