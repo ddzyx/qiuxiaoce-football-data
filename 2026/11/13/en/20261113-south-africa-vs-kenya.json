@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545882,
+    "matchup": "South Africa vs Kenya",
+    "home_team": "South Africa",
+    "away_team": "Kenya",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-south-africa-vs-kenya/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "South Africa vs Kenya Prediction & Match Analysis: Can McCarthy's Block Halt Bafana? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545882",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "South Africa vs Kenya",
+      "matchTime": "2026-11-13 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "South Africa hold superior Group D firepower, home momentum, and Elo class to defeat Kenya in regulation time while keeping total scoring contained.",
+    "possibilityAssessment": [
+      "South Africa Home Win driven by 3.50 Group D goals per match and returning core depth (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by Kenya's compact away defending and two-match scoreless run (Confidence: Moderate, Value: Moderate)",
+      "South Africa clean sheet hedge anchored by 0.34 decayed goals conceded across five recent games (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545882",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "South Africa",
+      "awayTeam": "Kenya",
+      "match_time": "16:00",
+      "match_highlight": "Mosimane's unbeaten Bafana attack tests McCarthy's compact, already-qualified Kenya block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545882,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "South Africa's 3.50 qualifying goals per match, 197-point Elo edge, and superior defensive solidity project a 2:0 or 1:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Removing the 5:0 Eritrea outlier leaves tight recent scoring profiles, with Kenya scoreless in two straight games and South Africa missing 50.0% of big chances."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 (16.2%) and 1:0 (14.4%) are the top Poisson matrix outcomes and align with South Africa's home control against a low Kenyan block."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Adjusted goal expectancy around 2.20 concentrates probability mass on 2 or 1 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "South Africa led at half-time in both qualifiers while Kenya trailed in both, though Kenya's low block could delay the breakthrough until after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:54:56 UTC"
+}
