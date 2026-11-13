@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555801,
+    "matchup": "Fukushima United vs Sagamihara",
+    "home_team": "Fukushima United",
+    "away_team": "Sagamihara",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-fukushima-united-vs-sagamihara/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fukushima United vs Sagamihara Prediction & Match Analysis: Can Hosts Crack Sagamihara's Backline?",
+    "meta": {
+      "matchId": "1555801",
+      "league": "J3 League",
+      "matchup": "Fukushima United vs Sagamihara",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Sagamihara's superior defensive organization and high shot volume position them to avoid defeat and edge a high-variance contest at Toho Stadium.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Sagamihara's transition edge against Fukushima's 2.06-goals-conceded defense while covering a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by a 3.28 combined lambda and Fukushima's 1.94-goals-per-game home attacking posture (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflecting Sagamihara's recent narrow margins and unresolved fitness around Ren Sugimoto (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555801",
+      "league": "J3 League",
+      "homeTeam": "Fukushima United",
+      "awayTeam": "Sagamihara",
+      "match_time": "05:00",
+      "match_highlight": "Fukushima's 1.94-goal attack tests Sagamihara's 0.94-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555801,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 Sagamihara victory and the high-probability 1:1 draw script, as Fukushima's home scoring firepower and Sugimoto's fitness uncertainty make a single away call riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.28 and Fukushima's open 1.94-scored / 2.06-conceded profile give three or more goals a 63.6% Poisson probability."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Sagamihara's structural edge in an open contest, while 1:1 covers the top standalone Poisson cell if Sugimoto's doubt limits away finishing."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.1%) and two goals (20.2%) represent the two highest-density bands in the independent Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Sagamihara's compact first-half road structure points to a level interval before second-half fatigue decides whether the visitors claim 1:2 or settle for 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:45:43 UTC"
+}
