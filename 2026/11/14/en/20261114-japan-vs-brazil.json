@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640086,
+    "matchup": "Japan vs Brazil",
+    "home_team": "Japan",
+    "away_team": "Brazil",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 10:15:00",
+    "source_url": "https://xgmind.com/matches/20261114-japan-vs-brazil/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Japan vs Brazil Tactical Breakdown & Match Analysis: Can Moriyasu's Counter Outfox Ancelotti's Youth?",
+    "meta": {
+      "matchId": "1640086",
+      "league": "Friendlies",
+      "matchup": "Japan vs Brazil",
+      "matchTime": "2026-11-14 10:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects Draw / Away Win alongside Under 2.5 goals in Singapore as Japan's counter-attacking continuity meets Brazil's experimental transition.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on a 1:1 stalemate with a 1:2 Brazil edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined lambda and high chance waste (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss second-half Brazil breakthrough if late bench depth breaks a level interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640086",
+      "league": "Friendlies",
+      "homeTeam": "Japan",
+      "awayTeam": "Brazil",
+      "match_time": "10:15",
+      "match_highlight": "Experimental Brazil tests Moriyasu's farewell counter-attacking Japan in Singapore.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640086,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 draw script and a 1:2 Brazil victory, because Brazil's 14.3% friendly clean-sheet rate makes a single away call brittle while Japan's missing forwards blunt an outright upset."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined lambda (60.9% Under 2.5 baseline), 50.0% and 59.1% big-chance waste rates, and key attacking absences on both sides."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects the Poisson modal equilibrium against Brazil's leaky backline, while 1:2 captures Brazil's +105 Elo edge telling late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the Poisson distribution at 26.7% with 3 goals covering the late-breakthrough 1:2 scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Japan drew four of five 2026 friendlies at half-time, framing a tight interval that either holds 1:1 or tilts to Brazil after 60 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 22:46:46 UTC"
+}
