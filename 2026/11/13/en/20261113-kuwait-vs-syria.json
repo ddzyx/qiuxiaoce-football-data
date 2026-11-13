@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649542,
+    "matchup": "Kuwait vs Syria",
+    "home_team": "Kuwait",
+    "away_team": "Syria",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-kuwait-vs-syria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kuwait vs Syria Match Analysis & Tactical Breakdown: Key Absences Meet Dahoud's Debut",
+    "meta": {
+      "matchId": "1649542",
+      "league": "Friendlies",
+      "matchup": "Kuwait vs Syria",
+      "matchTime": "2026-11-13 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Syria are projected to avoid defeat in Kuwait City as confirmed absences to Mohammad Daham and Fahad Al-Hajeri weaken the hosts against Mahmoud Dahoud's debuting Syrian midfield.",
+    "possibilityAssessment": [
+      "Syria Draw or Away Win backed by +161 Elo edge and Kuwait's confirmed key absences (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by 2.25 lambda total and Daham's absence dampening home output (Confidence: Moderate, Value: Moderate)",
+      "Kuwait early set-piece goal forcing a 1:1 tactical stalemate amid second-half friendly rotation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649542",
+      "league": "Friendlies",
+      "homeTeam": "Kuwait",
+      "awayTeam": "Syria",
+      "match_time": "16:30",
+      "match_highlight": "Depleted Kuwait backline faces Syria's Omar Al-Somah and debutant Mahmoud Dahoud.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649542,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Syria's superior Elo class and intact attack support the 1:2 away-win lead while covering the 1:1 friendly-rotation draw script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Kuwait's loss of creator Mohammad Daham and a 2.25 baseline lambda total keep aggregate scoring probability weighted toward Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Syria breaking down Kuwait's late-fading defense, while 1:1 covers Syria's cautious away friendly pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the overall Poisson distribution via 1:1 and 0:2 states, with 3 goals covering the 1:2 away-win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides tend toward level first halves before Syria's superior depth either breaks the deadlock late or settles for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:06:42 UTC"
+}
