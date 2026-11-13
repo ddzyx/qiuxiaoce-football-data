@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1558561,
+    "matchup": "Jezero vs Buducnost Podgorica",
+    "home_team": "Jezero",
+    "away_team": "Buducnost Podgorica",
+    "league": "First League",
+    "kickoff_utc": "2026-11-13 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-jezero-vs-buducnost-podgorica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jezero vs Buducnost Podgorica Prediction & Match Analysis: Lineup Absences Test Road Leaders — Preview",
+    "meta": {
+      "matchId": "1558561",
+      "league": "First League",
+      "matchup": "Jezero vs Buducnost Podgorica",
+      "matchTime": "2026-11-13 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Buducnost Podgorica's pragmatic road defense makes Draw / Away Win alongside Under 2.5 goals the balanced projection in Berane.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Buducnost Podgorica's away clean-sheet resilience under Srdjan Nikic and the high likelihood of a tight draw on heavy turf (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligns with the 54.4% Poisson baseline, Buducnost's 0.57 away goals conceded per match, and Jezero's back-to-back 1:0 fixtures (Confidence: Moderate, Value: High)",
+      "1:1 draw scenario covers Jezero exploiting Andrej Pupovic's suspension via set pieces or second balls without overturning Podgorica's unbeaten road run (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558561",
+      "league": "First League",
+      "homeTeam": "Jezero",
+      "awayTeam": "Buducnost Podgorica",
+      "match_time": "15:00",
+      "match_highlight": "Buducnost road defense faces Berane storm without Pupovic and Jovanovic.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558561,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Buducnost's three straight away clean-sheet wins under Nikic support the 0:1 road victory, while heavy Berane turf and absences justify retaining the 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.5 goal lambda, storm-affected pitch conditions, and Buducnost's 1.43-goal average in away league matches favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Buducnost's proven away blueprint at Decic and Bokelj, while 1:1 captures the modal Poisson outcome if Jezero strike on a wet pitch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson distribution at 25.7%, closely trailed by 1 goal matching both teams' recent 1:0 league scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Heavy turf favors a level half-time before Buducnost either find a late winner (Draw-Loss) or settle for shared points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:31:41 UTC"
+}
