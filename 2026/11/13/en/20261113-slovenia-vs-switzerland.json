@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545654,
+    "matchup": "Slovenia vs Switzerland",
+    "home_team": "Slovenia",
+    "away_team": "Switzerland",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-slovenia-vs-switzerland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Slovenia vs Switzerland Prediction & Match Analysis: Can Depleted Hosts Hold Off Yakin's Perfect Nati?",
+    "meta": {
+      "matchId": "1545654",
+      "league": "UEFA Nations League",
+      "matchup": "Slovenia vs Switzerland",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Switzerland are projected to secure at least the point needed for Group B1 promotion in Maribor, with an away victory leading ahead of a low-scoring stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Swiss midfield depth and Slovenia's four missing starters, while keeping the promotion-clinching draw covered (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 54.4% Poisson probability, Šeško's absence, and cautious game-state incentives (Confidence: Moderate, Value: Moderate)",
+      "First-Half Stalemate (0:0 HT) reflecting Slovenia's scoreless home first halves and Swiss absences (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545654",
+      "league": "UEFA Nations League",
+      "homeTeam": "Slovenia",
+      "awayTeam": "Switzerland",
+      "match_time": "19:45",
+      "match_highlight": "Swiss depth tests depleted Slovenian home block with promotion at stake.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545654,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Swiss victory against Slovenia's suspended back line alongside a 1:1 draw that suffices for Swiss promotion without Manzambi and Xhaka."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.50 goal-expectancy total (54.4% Under 2.5), Šeško and Elšnik's absences, and Switzerland's low-risk promotion equation."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Anchors on Switzerland edging past Slovenia's patched-up defense 0:1, with 1:1 capturing Oblak's home resistance and Swiss game management."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the top Under 2.5 Poisson frequencies around a tight one-to-two-goal tactical contest."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Contrasts Switzerland's 4-for-4 Nations League half-time lead streak (Loss-Loss from home perspective) with Slovenia's scoreless home first-half trend."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 15:49:13 UTC"
+}
