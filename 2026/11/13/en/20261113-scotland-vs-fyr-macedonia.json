@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545659,
+    "matchup": "Scotland vs FYR Macedonia",
+    "home_team": "Scotland",
+    "away_team": "FYR Macedonia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-scotland-vs-fyr-macedonia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Scotland vs FYR Macedonia Prediction: Can McTominay Spark Hampden Win? — Scoreline & Model Analysis",
+    "meta": {
+      "matchId": "1545659",
+      "league": "UEFA Nations League",
+      "matchup": "Scotland vs FYR Macedonia",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Scotland to secure a controlled home regulation-time victory, anchored by clean-sheet 2:0 and 1:0 scorelines under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Scotland Home Win driven by superior box creation and key spine returns against a winless visitor (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals supported by a 2.24 combined lambda and conservative late-game minute management (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Draw-Win contingency if compact first-half low-block resistance delays Scotland's breakthrough past half-time (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545659",
+      "league": "UEFA Nations League",
+      "homeTeam": "Scotland",
+      "awayTeam": "FYR Macedonia",
+      "match_time": "19:45",
+      "match_highlight": "McTominay returns as Scotland target Hampden breakthrough against scoreless visitors.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545659,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Scotland's dominant 0:2 Skopje blueprint and returning senior starters outweigh a scoreless FYR Macedonia side lacking Bojan Miovski."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.24 while FYR Macedonia average 0.00 goals and 0.25 shots on target per group match."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Clean-sheet home wins capture FYR Macedonia's four consecutive multi-goal defeats alongside Scotland's incentive to manage energy before facing Switzerland."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7% baseline) and one goal (23.8% baseline) lead the goal-expectancy distribution given minimal away scoring threat."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "FYR Macedonia trailed by half-time in three of four group losses (Win-Win), with first-half low-block resistance framing Draw-Win as secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 15:58:19 UTC"
+}
