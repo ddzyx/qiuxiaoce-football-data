@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640518,
+    "matchup": "Colombia vs Chile",
+    "home_team": "Colombia",
+    "away_team": "Chile",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-colombia-vs-chile/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Colombia vs Chile Prediction & Match Analysis: Can Depleted Chile Hold Cali? — Scoreline Preview",
+    "meta": {
+      "matchId": "1640518",
+      "league": "Friendlies",
+      "matchup": "Colombia vs Chile",
+      "matchTime": "2026-11-14 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw led by Colombia alongside Under 2.5 goals best captures the hosts' defensive solidity and Elo edge over a depleted Chilean backline despite Colombia's own attacking absences.",
+    "possibilityAssessment": [
+      "Colombia controls possession and exploits Chile's missing centre-backs for a narrow home victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals holds as Colombia's missing forwards and Chile's slow first-half tempo keep total scoring contained (Confidence: Moderate, Value: Moderate)",
+      "A level first half precedes either a late Colombian breakthrough or a 1:1 stalemate if chance waste persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640518",
+      "league": "Friendlies",
+      "homeTeam": "Colombia",
+      "awayTeam": "Chile",
+      "match_time": "00:00",
+      "match_highlight": "Depleted Chile defense faces possession-heavy Colombia in emotional Cali friendly.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640518,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw retains both Colombia's 2:0 breakthrough against Chile's depleted centre-backs and the 1:1 draw risk driven by Colombia's missing attackers, where a single call ignores substantial stalemate pressure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.25, a 60.9% Poisson Under 2.5 distribution, and Colombia's depleted attack support a contained scoring ceiling."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Colombia's 50% home two-goal win rate against Chile's weakened defense, while 1:1 captures the Poisson modal scoreline if Colombia's chance waste persists."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 and 1 total goals align with the top two Poisson goal bins and both sides' recent low-scoring friendly rhythms."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Chile's 80% away half-time draw rate and 14.3% first-half goal share point to a level interval before Colombia either breaks through late or settles for parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:23:56 UTC"
+}
