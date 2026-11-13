@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647364,
+    "matchup": "Peru vs Bolivia",
+    "home_team": "Peru",
+    "away_team": "Bolivia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-peru-vs-bolivia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Peru vs Bolivia Prediction & Match Analysis: Can Depleted Bolivia Contain Lima Hosts? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647364",
+      "league": "Friendlies",
+      "matchup": "Peru vs Bolivia",
+      "matchTime": "2026-11-14 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Peru hold the stronger home platform against a heavily depleted Bolivian squad in Lima, yet Peru's ongoing finishing waste and defensive reshuffle justify pairing a narrow home win lean with formal draw coverage under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Peru's 1.20 vs 1.05 goal expectancy and Bolivia's four-match scoreless run (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals supported by a 2.25 combined lambda and 60.9% Poisson distribution for two goals or fewer (Confidence: Moderate, Value: High)",
+      "1:1 Transition Hedge triggered if Peru's experimental three-man defence concedes on the break to Miguel Terceros (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647364",
+      "league": "Friendlies",
+      "homeTeam": "Peru",
+      "awayTeam": "Bolivia",
+      "match_time": "01:00",
+      "match_highlight": "Depleted Bolivia test Peru's experimental back three in tight Lima clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647364,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Peru's leading 1:0 home breakthrough script alongside a 1:1 draw hedge because Peru's zero-clean-sheet run and back-three experimentation prevent single-outcome certainty."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with the 2.25 combined lambda total, Bolivia's four-game scoring drought, and Peru's 100.0% big-chance waste rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Peru edging past a Viscarra- and Haquín-less defence without winning by 2+, while 1:1 mirrors the top 13.3% Poisson baseline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) are the highest-density totals in the independent Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious first half given Peru's 12.5% half-time lead rate before either a late home winner or a second-half stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:34:37 UTC"
+}
