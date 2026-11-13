@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649950,
+    "matchup": "Legia Warszawa vs Pogoń Grod. Mazowiecki",
+    "home_team": "Legia Warszawa",
+    "away_team": "Pogoń Grod. Mazowiecki",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-legia-warszawa-vs-pogo-grod-mazowiecki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Legia Warszawa vs Pogoń Grod. Mazowiecki Preview: Can Pogoń Exploit Rotation? — Scoreline Model",
+    "meta": {
+      "matchId": "1649950",
+      "league": "Friendlies Clubs",
+      "matchup": "Legia Warszawa vs Pogoń Grod. Mazowiecki",
+      "matchTime": "2026-11-14 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Legia Warszawa Win or Draw in an Under 2.5 goal framework best reflects the Ekstraklasa-versus-1 Liga class gap tempered by international-break friendly rotation.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Legia's top-flight midfield spine and set-piece edge favor a narrow home victory while closed-door substitutions sustain 1:1 draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 total goals backed by a 2.25 combined Poisson lambda and Pogoń Grod. Mazowiecki's four-match open-play scoring drought (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Second-half Legia defensive rotation without Kamil Piątkowski allowing an intact visiting side to snatch a 1:1 draw (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649950",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Legia Warszawa",
+      "awayTeam": "Pogoń Grod. Mazowiecki",
+      "match_time": "10:30",
+      "match_highlight": "International-break rotation tests Legia Warszawa depth against Pogoń Grod. Mazowiecki.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649950,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Legia Warszawa win driven by divisional quality and a 1:1 draw if friendly rotation disrupts control, as a single call overlooks unconfirmed sparring lineups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined Poisson lambda, Legia's 68.4% big-chance waste rate, and Pogoń Grod. Mazowiecki's one penalty goal across four recent league games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Legia's narrow edge against a compact second-tier block, while 1:1 covers the top Poisson baseline outcome under second-half substitution variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals represent the top Poisson densities (26.7% and 23.7%) and align cleanly with 1:1 and 1:0 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a tight opening half followed by Legia's depth telling late, while Win-Draw covers an early home lead pegged back after substitutions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 22:50:06 UTC"
+}
