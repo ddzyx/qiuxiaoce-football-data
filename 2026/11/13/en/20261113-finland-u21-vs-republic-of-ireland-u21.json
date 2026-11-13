@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645399,
+    "matchup": "Finland U21 vs Republic of Ireland U21",
+    "home_team": "Finland U21",
+    "away_team": "Republic of Ireland U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-13 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261113-finland-u21-vs-republic-of-ireland-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Finland U21 vs Republic of Ireland U21 Prediction & Preview: Can Ireland Halt Home Attack?",
+    "meta": {
+      "matchId": "1645399",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Finland U21 vs Republic of Ireland U21",
+      "matchTime": "2026-11-13 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Side with Finland U21 on the Home Win / Draw double chance as their Tammelan Stadion attacking superiority leads against Ireland U21's first-leg counter-attacking threat.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by Finland's 2.38 goals per match and unbeaten home record balanced against Irish set-piece resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.01 combined lambda and proactive Finnish home tempo (Confidence: Moderate, Value: Moderate)",
+      "Draw at Half-Time if Ireland's compact midfield block absorbs early artificial-turf pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645399",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Finland U21",
+      "awayTeam": "Republic of Ireland U21",
+      "match_time": "16:15",
+      "match_highlight": "Finland's Tampere home fortress meets Ireland's four-match qualifying winning streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645399,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Finland's leading 2:1 home-control script alongside the 1:1 first-leg draw branch after Juho Talvitie's injury and Ireland's four-game winning momentum make a single outcome riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.01 combined lambda, Finland's 2.38 goals per game, and Ireland's recent transition threat."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges on a 2:1 home win mirroring Finland's victory over Spain, with 1:1 as the prime Poisson draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the Poisson distribution at 22.4%, closely followed by two goals in a tighter first-leg script."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Finland's 70% half-time lead conversion against Ireland's 60% half-time stalemate tendency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:03:15 UTC"
+}
