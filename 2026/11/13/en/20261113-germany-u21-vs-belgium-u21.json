@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649013,
+    "matchup": "Germany U21 vs Belgium U21",
+    "home_team": "Germany U21",
+    "away_team": "Belgium U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-germany-u21-vs-belgium-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Germany U21 vs Belgium U21 Prediction & Match Analysis: Can Depleted Hosts Hold Off Fofana & Bassette?",
+    "meta": {
+      "matchId": "1649013",
+      "league": "Friendlies",
+      "matchup": "Germany U21 vs Belgium U21",
+      "matchTime": "2026-11-13 17:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Belgium U21 to avoid defeat (Draw / Away Win) in a controlled, low-scoring friendly in Essen.",
+    "possibilityAssessment": [
+      "Belgium U21 double chance (Draw / Away Win) captures both the modal 1:1 stalemate and a 0:1 visitor victory (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with the 2.25 lambda expectancy and Belgium's four-match qualifying shutout streak (Confidence: Moderate, Value: High)",
+      "Belgium U21 0:1 Away Win targets Germany's backup goalkeeper and reshuffled backline via transition pace (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649013",
+      "league": "Friendlies",
+      "homeTeam": "Germany U21",
+      "awayTeam": "Belgium U21",
+      "match_time": "17:00",
+      "match_highlight": "Depleted Germany U21 missing Tresoldi and Backhaus face resilient Belgium U21.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1649013,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate and a 0:1 away upset; a single Germany win is undermined by seven camp withdrawals including Tresoldi and Backhaus against Belgium's four-game clean-sheet streak."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 2.25 lambda total, Germany's depleted frontline, and Belgium's 0.70 decayed goals-for and 0.30 goals-against averages."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Balances Germany's set-piece threat at home against Belgium's compact defense and transition speed on the break."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson goal distribution peaks at 2 goals (26.7%) and 1 goal (23.7%), matching the low-event Belgian tactical profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious opening half between adjusted friendly lineups points to a level interval before either a shared 1:1 draw or late 0:1 Belgian winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:23:26 UTC"
+}
