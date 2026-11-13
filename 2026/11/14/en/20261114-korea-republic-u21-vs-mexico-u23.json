@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649016,
+    "matchup": "Korea Republic U21 vs Mexico U23",
+    "home_team": "Korea Republic U21",
+    "away_team": "Mexico U23",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-korea-republic-u21-vs-mexico-u23/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Korea Republic U21 vs Mexico U23 Prediction & Match Analysis: Three Key Injuries vs U23 Test",
+    "meta": {
+      "matchId": "1649016",
+      "league": "Friendlies",
+      "matchup": "Korea Republic U21 vs Mexico U23",
+      "matchTime": "2026-11-14 07:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Expect a tight, low-scoring closed-door opener under 2.5 goals in which the Draw leads and Mexico U23 hold the sharper path to edge a narrow victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 projection leans Draw / Away Win behind Under 2.5 scoring dynamics and second-half rotation (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 combined lambda and 60.9% Poisson concentration at 0 to 2 goals (Confidence: Moderate, Value: Moderate)",
+      "A 0:1 Mexico U23 victory captures the main contingency if late substitutions unlock a cagey opening hour (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649016",
+      "league": "Friendlies",
+      "homeTeam": "Korea Republic U21",
+      "awayTeam": "Mexico U23",
+      "match_time": "07:00",
+      "match_highlight": "Depleted Korea U21 frontline faces experienced Mexico U23 in closed-door opener.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649016,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw leads in a cautious 1:1 closed-door friendly while Away Win covers Mexico U23 edging 0:1 against a forward-depleted host, making either single call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda, 60.9% Poisson Under 2.5 rate, and three confirmed Korean forward absences point to a controlled, low-scoring match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects balanced Match 1 probing and shared second-half rotation, while 0:1 accounts for Mexico U23 capitalizing on Korea's disrupted frontline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent the two highest-probability Poisson buckets and align with a restrained friendly tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious first-half probing projects a level interval before either both sides trade second-half goals (Draw-Draw) or Mexico U23 break through late (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:56:47 UTC"
+}
