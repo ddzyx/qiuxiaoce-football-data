@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646821,
+    "matchup": "Caernarfon Town vs Holywell",
+    "home_team": "Caernarfon Town",
+    "away_team": "Holywell",
+    "league": "Welsh Cup",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-caernarfon-town-vs-holywell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Caernarfon Town vs Holywell Tactical Breakdown & Probabilistic Modeling: Cup Holders Target Leaky Defense",
+    "meta": {
+      "matchId": "1646821",
+      "league": "Welsh Cup",
+      "matchup": "Caernarfon Town vs Holywell",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Caernarfon Town are projected to win in regulation time with Over 2.5 total goals, anchored by primary 3:1 and secondary 2:1 scorelines.",
+    "possibilityAssessment": [
+      "Home Win in 90-minute regulation play as the primary full-time outcome (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals centered on 3-goal and 4-goal match outcomes (Confidence: Moderate, Value: High)",
+      "Win-Win primary and Draw-Win secondary half-time/full-time progression scripts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646821",
+      "league": "Welsh Cup",
+      "homeTeam": "Caernarfon Town",
+      "awayTeam": "Holywell",
+      "match_time": "19:45",
+      "match_highlight": "Zack Clarke leads cup holders Caernarfon against Holywell's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646821,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Caernarfon Town's 2.63 league goals per match against Holywell's 3.47 conceded per match anchors a decisive regulation victory centered on 3:1 and 2:1."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Domestic scoring averages of 3.94 and 4.53 total goals per game plus an eight-goal August meeting outweigh the diluted 2.25 cup-feed lambda."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "Caernarfon's multi-goal home firepower meets Holywell's persistent counter-attacking and penalty consolation threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals capture both narrow 2:1 resistance and an open 3:1 knockout stretch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Early Caernarfon wing pressure favors an interval lead, with a compact Holywell first-half stalemate as the main alternative before a second-half home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 16:42:34 UTC"
+}
