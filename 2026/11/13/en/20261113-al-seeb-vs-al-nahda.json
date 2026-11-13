@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649657,
+    "matchup": "Al Seeb vs Al-Nahda",
+    "home_team": "Al Seeb",
+    "away_team": "Al-Nahda",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-13 13:55:00",
+    "source_url": "https://xgmind.com/matches/20261113-al-seeb-vs-al-nahda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Seeb vs Al-Nahda Prediction & Match Analysis: Oman NT Absences Reshape Cup Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1649657",
+      "league": "FA Cup",
+      "matchup": "Al Seeb vs Al-Nahda",
+      "matchTime": "2026-11-13 13:55 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Seeb hold the structural edge to win or draw in a tight, low-scoring Oman FA Cup Group B fixture defined by national-team absences.",
+    "possibilityAssessment": [
+      "Home Win / Draw leads as the primary 1X2 trajectory behind Al Seeb's retained defensive spine (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals is strongly backed by a 2.25 goal-based lambda total and missing international attackers (Confidence: Moderate, Value: High)",
+      "Draw-Draw HT/FT covers the secondary cup stalemate script if Al-Nahda's foreign core contains Al Seeb early (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649657",
+      "league": "FA Cup",
+      "homeTeam": "Al Seeb",
+      "awayTeam": "Al-Nahda",
+      "match_time": "13:55",
+      "match_highlight": "Al Seeb's retained core tests Al-Nahda's international-hit defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649657,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Al Seeb's 1:0 edge over a depleted Al-Nahda backline and the 1:1 cup stalemate script given Al Seeb's own international absences, as a single win call leaves the tight draw unaddressed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy, Al Seeb's three consecutive clean sheets, and key attacking absences on both sides."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Al Seeb breaking down a reshaped away defense late, while 1:1 captures Al-Nahda's foreign attackers punishing a backup keeper."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the highest Poisson density bands (26.7% for 2 goals and 23.7% for 1 goal) in a cautious international-window cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight, level first half before Al Seeb either assert late control or settle for a Group B draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:11:00 UTC"
+}
