@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606756,
+    "matchup": "Oita Trinita vs Tochigi City",
+    "home_team": "Oita Trinita",
+    "away_team": "Tochigi City",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-oita-trinita-vs-tochigi-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Oita Trinita vs Tochigi City Prediction & Match Analysis: Can Tochigi Halt Their Defensive Slide?",
+    "meta": {
+      "matchId": "1606756",
+      "league": "J2 League",
+      "matchup": "Oita Trinita vs Tochigi City",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Oita Trinita via Home Win / Draw alongside Under 2.5 Goals balances Trinita's home resilience and Tochigi City's severe defensive concession rate against Oita's recent finishing friction.",
+    "possibilityAssessment": [
+      "Oita Trinita's 87.5% home unbeaten record and Tochigi City's 1.94 goals conceded per match position Home Win / Draw as the primary direction (Confidence: Moderate, Value: Moderate)",
+      "Combined attacking absences and Oita's 0.69 time-decayed goals scored per match support Under 2.5 Goals over an open shootout (Confidence: Moderate, Value: Moderate)",
+      "Oita's 12.5% home clean-sheet rate and Kotaro Arima's concussion doubt preserve a secondary 1:1 draw contingency if Tochigi convert a rare transition (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606756",
+      "league": "J2 League",
+      "homeTeam": "Oita Trinita",
+      "awayTeam": "Tochigi City",
+      "match_time": "05:00",
+      "match_highlight": "Oita's home stability tests Tochigi City's depleted attack and leaky defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606756,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Oita's 2:0 home-control script and the 1:1 stalemate branch because Oita's 0.69 decayed scoring pace and Kotaro Arima's concussion doubt weaken a single-outcome win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Oita's 0.88 goals conceded per match and Tochigi's confirmed forward absences pull scoring expectancy below the 2.65 lambda total toward a two-goal contest."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Oita exploiting Tochigi's three-goal recent defensive slump against a blanked road attack, while 1:1 covers Oita's 43.8% draw rate and low home clean-sheet frequency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson outcome reinforced by both teams' forward absences, with three goals covering a 2:1 branch if Tochigi find a transitional consolation."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win targets Tochigi's 62.5% half-time deficit rate away from home, whereas Draw-Draw covers Oita's 43.8% overall half-time draw tendency turning into a cagey stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:59:03 UTC"
+}
