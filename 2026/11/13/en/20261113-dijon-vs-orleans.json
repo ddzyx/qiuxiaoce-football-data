@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647948,
+    "matchup": "Dijon vs Orleans",
+    "home_team": "Dijon",
+    "away_team": "Orleans",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-dijon-vs-orleans/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dijon vs Orleans Prediction & Match Analysis: Can Cup Underdogs Exploit Dijon's GK Absence? — Preview",
+    "meta": {
+      "matchId": "1647948",
+      "league": "Coupe de France",
+      "matchup": "Dijon vs Orleans",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Dijon to avoid defeat over 90 minutes (Home Win / Draw), leaning toward a narrow 2:1 home victory as Ligue 2 attacking quality offsets confirmed goalkeeper and midfield absences.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Dijon's Ligue 2 frontline drives the primary win script while their reshuffled spine preserves the 90-minute draw risk (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals — Dual backup goalkeepers and open recent scoring trends support three or more regulation goals (Confidence: Moderate, Value: Moderate)",
+      "Win-Draw HT/FT — Early home pressure puts Dijon ahead before Orléans punish defensive fragility after the interval (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647948",
+      "league": "Coupe de France",
+      "homeTeam": "Dijon",
+      "awayTeam": "Orleans",
+      "match_time": "19:00",
+      "match_highlight": "Dijon's Ligue 2 attack tests Orléans' cup keeper despite Delecroix's absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647948,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Dijon's division-class win script (2:1) and the 90-minute draw branch (1:1) created by confirmed goalkeeper and midfield absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams field backup keepers and carry high recent match goal totals despite conservative static baseline lambdas."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Dijon's superior attacking trio breaking through late; 1:1 captures Orléans punishing Dijon's inexperienced keeper."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 2:1 primary script, while two goals covers the cautious 1:1 cup-tie stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects Dijon's second-half acceleration; Win-Draw covers Dijon leading early before conceding with Delecroix out."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 09:05:30 UTC"
+}
