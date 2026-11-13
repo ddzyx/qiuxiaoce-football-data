@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617078,
+    "matchup": "Beti Kozkor vs Doneztebe FT",
+    "home_team": "Beti Kozkor",
+    "away_team": "Doneztebe FT",
+    "league": "Tercera División RFEF - Group 15",
+    "kickoff_utc": "2026-11-13 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261113-beti-kozkor-vs-doneztebe-ft/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Beti Kozkor vs Doneztebe FT Prediction & Match Analysis: Home Fortress vs Promoted Firepower — Scoreline Preview",
+    "meta": {
+      "matchId": "1617078",
+      "league": "Tercera División RFEF - Group 15",
+      "matchup": "Beti Kozkor vs Doneztebe FT",
+      "matchTime": "2026-11-13 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Beti Kozkor in a Home Win / Draw framework led by a narrow 2:1 home victory at Plazaola.",
+    "possibilityAssessment": [
+      "Home Win / Draw driven by Plazaola home dominance and venue-adjusted attacking superiority (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.75 combined goal-expectancy lambda and recent defensive openness (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency reflecting Doneztebe FT's repeatable road resilience if Beti Kozkor's early press stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617078",
+      "league": "Tercera División RFEF - Group 15",
+      "homeTeam": "Beti Kozkor",
+      "awayTeam": "Doneztebe FT",
+      "match_time": "19:15",
+      "match_highlight": "Plazaola home fortress meets Doneztebe's winless-clean-sheet away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617078,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Beti Kozkor's dominant 5W-1L home record leading to a 2:1 win alongside a 1:1 draw branch given their recent three-match defensive dip."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.75 lambda total, 51.8% Poisson Over 2.5 baseline, and Beti Kozkor conceding eight goals across their last three matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 balances Beti Kozkor's home strength with Doneztebe's road scoring threat, while 1:1 captures the top Poisson modal draw script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the open 2:1 base case and 2.75 lambda total, with 2 goals covering the tighter 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tight Tercera Group 15 first halves point toward a level interval before Beti Kozkor either break through late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 11:08:46 UTC"
+}
