@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647959,
+    "matchup": "La Neuvillette vs Valenciennes",
+    "home_team": "La Neuvillette",
+    "away_team": "Valenciennes",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-la-neuvillette-vs-valenciennes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "La Neuvillette vs Valenciennes Tactical Breakdown & Match Analysis: Eight VAFC Absences Test Cup Gap",
+    "meta": {
+      "matchId": "1647959",
+      "league": "Coupe de France",
+      "matchup": "La Neuvillette vs Valenciennes",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Valenciennes's three-division class edge makes an away win the leading outcome, while eight confirmed visiting absences keep a regulation-time draw in play under 2.5 goals.",
+    "possibilityAssessment": [
+      "Valenciennes avoids defeat via 0:2 professional control or a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined lambda and three missing visiting forwards (Confidence: Moderate, Value: Moderate)",
+      "1:1 regulation draw hedge if synthetic-turf resistance frustrates a reshuffled visiting lineup (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647959",
+      "league": "Coupe de France",
+      "homeTeam": "La Neuvillette",
+      "awayTeam": "Valenciennes",
+      "match_time": "19:00",
+      "match_highlight": "Eight VAFC absentees test three-division gap on synthetic turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647959,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Valenciennes's Ligue 3 class supports a 0:2 away win, while eight confirmed absences justify retaining the 1:1 draw script over a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda baseline and three absent Valenciennes forwards point toward a controlled, sub-three-goal contest."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 mirrors VAFC's recent Round 6 win at R1 Gravelines, while 1:1 reflects the Poisson mode amid visiting squad depletion."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the 26.7% Poisson mode matching both core scores, with three goals covering a late 1:2 or 0:3 breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "La Neuvillette's home energy can hold VAFC level at half-time before professional fitness either decides a win or stalls at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 09:08:01 UTC"
+}
