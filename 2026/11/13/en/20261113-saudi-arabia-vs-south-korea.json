@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647361,
+    "matchup": "Saudi Arabia vs South Korea",
+    "home_team": "Saudi Arabia",
+    "away_team": "South Korea",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-saudi-arabia-vs-south-korea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saudi Arabia vs South Korea Prediction & Match Analysis: Can Donis's Defense Halt Son? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647361",
+      "league": "Friendlies",
+      "matchup": "Saudi Arabia vs South Korea",
+      "matchTime": "2026-11-13 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "South Korea's Elo and European attacking edge point toward Draw / Away Win alongside Under 2.5 Goals in a tight Doha friendly.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by South Korea's +127 Elo and second-half depth, tempered by Saudi defensive form (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined lambda, three straight low-scoring H2Hs, and five Saudi clean sheets (Confidence: High, Value: Moderate)",
+      "Level Half-Time reflecting South Korea's 25% first-half goal share and cagey neutral-venue opening tempo (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647361",
+      "league": "Friendlies",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "South Korea",
+      "match_time": "14:30",
+      "match_highlight": "Saudi five-match shutout streak tests South Korea's reconciled stars in Doha.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647361,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "South Korea lead via +127 Elo and European talent (0:1), while Draw covers Saudi Arabia's five-game clean-sheet run and Korean chance waste (1:1), making a single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda (60.9% Under 2.5 Poisson probability), three consecutive low-scoring H2Hs, and Saudi Arabia's zero goals conceded across five games favour Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects South Korea's late-game class edge mirroring September 2023, while 1:1 captures the top Poisson density and January 2024 90-minute stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the 2.25-lambda Poisson distribution and align directly with 1:1 and 0:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "South Korea drew half-time in four of eight friendlies with 75% second-half scoring, supporting a level break before either a Korean winner or shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:26:08 UTC"
+}
