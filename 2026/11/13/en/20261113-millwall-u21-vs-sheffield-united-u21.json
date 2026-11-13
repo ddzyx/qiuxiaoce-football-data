@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1627082,
+    "matchup": "Millwall U21 vs Sheffield United U21",
+    "home_team": "Millwall U21",
+    "away_team": "Sheffield United U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-millwall-u21-vs-sheffield-united-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Millwall U21 vs Sheffield United U21 Tactical Breakdown & Match Analysis: Group F Stakes & Fatigue",
+    "meta": {
+      "matchId": "1627082",
+      "league": "Premier League Cup",
+      "matchup": "Millwall U21 vs Sheffield United U21",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Sheffield United U21 hold the late-game physical edge to avoid defeat in a low-scoring Group F clash.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Sheffield United U21's freshness advantage and a balanced 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals aligns with the 2.25 combined lambda and tight H2H scoring history (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT targets a cagey first half broken by second-half home fatigue (Confidence: Low, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627082",
+      "league": "Premier League Cup",
+      "homeTeam": "Millwall U21",
+      "awayTeam": "Sheffield United U21",
+      "match_time": "19:00",
+      "match_highlight": "Millwall U21's 72-hour fatigue tests rested Sheffield United U21.",
+      "ai_confidence": "Low",
+      "fixtureId": 1627082,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Sheffield United U21's second-half fitness edge (0:1) and a balanced home-urgency stalemate (1:1), as unconfirmed U21 lineups and Millwall's recent scoring surge prevent an outright single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, 60.9% Poisson Under 2.5 probability, and tactical cup caution."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Converges on the top Poisson stalemate alongside a narrow away breakthrough against tiring home legs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the 26.7% two-goal modal peak and 23.7% single-goal alternative in a tight cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a level, cautious opening half before Millwall's 72-hour turnaround decides whether the scoreline breaks late or stays tied."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:54:42 UTC"
+}
