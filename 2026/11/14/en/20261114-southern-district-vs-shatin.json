@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1643466,
+    "matchup": "Southern District vs Shatin",
+    "home_team": "Southern District",
+    "away_team": "Shatin",
+    "league": "League Cup",
+    "kickoff_utc": "2026-11-14 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-southern-district-vs-shatin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Southern District vs Shatin Prediction & Match Analysis: Can Shatin Halt Conceding? — Scoreline Preview",
+    "meta": {
+      "matchId": "1643466",
+      "league": "League Cup",
+      "matchup": "Southern District vs Shatin",
+      "matchTime": "2026-11-14 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Southern District's superior top-flight scoring depth meets Shatin's nine-match clean-sheet drought, making Home Win / Draw alongside Under 2.5 Goals the optimal risk-adjusted stance.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Southern District's fifth-place HKPL record and 1.20 versus 1.05 lambda edge, with the Draw retained for cup stalemate risk (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligned with a 2.25 combined lambda, 60.9% Poisson Under 2.5 density, and recent tight first halves from both clubs (Confidence: Moderate, Value: Moderate)",
+      "Late second-half breakthrough or cup rotation variance allowing James Scott and Hugo Kametani to stretch an open finish (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643466",
+      "league": "League Cup",
+      "homeTeam": "Southern District",
+      "awayTeam": "Shatin",
+      "match_time": "10:00",
+      "match_highlight": "Can Shatin end nine-match concession streak in League Cup playoff?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1643466,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Derived from the 1:0 and 1:1 scripts, covering Southern District's superior HKPL quality and Shatin's three-match league unbeaten resilience where a single call is too exposed to neutral-venue cup rotation."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined statistical lambda (60.9% Under 2.5 probability) and both sides playing goalless first halves in their November 7 league fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances Southern District's 1.20 goal expectancy against a Shatin side with zero clean sheets in nine games yet three straight unbeaten HKPL outings."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson total-goal densities (26.7% for two goals, 23.7% for one goal) under a 2.25 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cautious goalless first half before Southern's deeper attack either breaks through late or settles into a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 23:08:29 UTC"
+}
