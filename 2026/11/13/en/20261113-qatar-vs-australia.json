@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640084,
+    "matchup": "Qatar vs Australia",
+    "home_team": "Qatar",
+    "away_team": "Australia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 14:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-qatar-vs-australia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Qatar vs Australia Tactical Breakdown & Probabilistic Modeling: Experience Gap vs Socceroos Youth",
+    "meta": {
+      "matchId": "1640084",
+      "league": "Friendlies",
+      "matchup": "Qatar vs Australia",
+      "matchTime": "2026-11-13 14:45 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Backing Qatar to avoid defeat in a low-scoring friendly captures their superior squad continuity and home defensive stability against an experimental Australian lineup.",
+    "possibilityAssessment": [
+      "Qatar win or draw via veteran cohesion and fast early pressing (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by a 2.25 combined goal lambda and depleted visitors (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw script if Australia absorb early pressure and strike on transition or set pieces (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640084",
+      "league": "Friendlies",
+      "homeTeam": "Qatar",
+      "awayTeam": "Australia",
+      "match_time": "14:45",
+      "match_highlight": "Qatar's 1,426-cap core tests Australia's experimental, injury-hit Doha touring squad.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1640084,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a narrow 1:0 Qatar win built on home cohesion and a 1:1 draw reflecting Australia's Elo pedigree, as neither side shows enough finishing reliability to isolate a single result."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, Qatar's recent run of one goal conceded in four games, and an under-strength Australian attack."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Converges on Qatar edging an experimental visitor by a single goal or sharing a tight stalemate if Australia convert a counter or set play."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the 26.7% and 23.7% Poisson peaks for two and one total goals under conservative friendly rotation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a tight opening half giving way either to a late Qatari breakthrough against debutant substitutes or a shared 1:1 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:28:23 UTC"
+}
