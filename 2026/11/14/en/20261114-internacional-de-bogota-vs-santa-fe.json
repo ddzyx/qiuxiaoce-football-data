@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549869,
+    "matchup": "Internacional de Bogota vs Santa Fe",
+    "home_team": "Internacional de Bogota",
+    "away_team": "Santa Fe",
+    "league": "Primera A",
+    "kickoff_utc": "2026-11-14 01:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-internacional-de-bogota-vs-santa-fe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Internacional de Bogota vs Santa Fe Tactical Breakdown: Dead-Rubber Incentives & Defensive Gaps",
+    "meta": {
+      "matchId": "1549869",
+      "league": "Primera A",
+      "matchup": "Internacional de Bogota vs Santa Fe",
+      "matchTime": "2026-11-14 01:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Santa Fe's superior defensive prevention and lower-urgency Copa distractions for the hosts support Draw / Away Win alongside Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Santa Fe's 1.42 vs 1.19 lambda edge and Inter Bogota's 8-draw league profile (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals backed by a 51.6% Poisson share and dead-rubber minute management from both clubs (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough via Draw-Loss HT/FT reflecting Santa Fe's 75% half-time draw rate and late finishing spine (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549869",
+      "league": "Primera A",
+      "homeTeam": "Internacional de Bogota",
+      "awayTeam": "Santa Fe",
+      "match_time": "01:30",
+      "match_highlight": "Santa Fe's playoff rotation meets Inter Bogota's Copa semifinal distractions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549869,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A single away win call carries unnecessary risk given Santa Fe's defensive absences and Inter Bogota's 44.4% draw rate, so covering both the 0:1 away breakthrough and 1:1 stalemate is optimal."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson probability favors Under 2.5 at 51.6% on a 2.61 lambda total, reinforced by dead-rubber caution and Inter Bogota's upcoming Copa Colombia semifinal."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Both 0:1 and 1:1 rank among the top two Poisson scorelines, capturing Santa Fe's narrow second-half edge as well as the host's high draw frequency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal 25.0% Poisson outcome, while one goal reflects suppressed scoring tempo as both teams manage workloads."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Santa Fe was level at half-time in 6 of 8 tracked league games, pointing to a cagey first half before either a 0:1 away breakthrough or a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:38:39 UTC"
+}
