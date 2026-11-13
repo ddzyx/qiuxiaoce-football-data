@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559476,
+    "matchup": "Germany U17 vs Lithuania U17",
+    "home_team": "Germany U17",
+    "away_team": "Lithuania U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-germany-u17-vs-lithuania-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Germany U17 vs Lithuania U17 Tactical Breakdown & Modeling: Second-Half Surge Meets Baltic Grit",
+    "meta": {
+      "matchId": "1559476",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Germany U17 vs Lithuania U17",
+      "matchTime": "2026-11-14 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Germany U17 are projected to claim a multi-goal regulation victory in Group 2, propelled by superior squad depth and second-half attacking acceleration.",
+    "possibilityAssessment": [
+      "Home Win backed by Germany U17's 78.4% Poisson baseline and deep academy talent against an exposed Lithuanian back line (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals driven by a 6.5 goal-expectancy anchor and both sides' high-scoring Matchday 1 performances (Confidence: Moderate, Value: Moderate)",
+      "Lithuania U17 transition goal angle based on their 4:2 comeback spirit and Germany's October friendly concessions (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "5"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "4:1",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559476",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Germany U17",
+      "awayTeam": "Lithuania U17",
+      "match_time": "10:00",
+      "match_highlight": "Assomo's four-goal form tests Lithuania's early defensive vulnerability in Frankfurt.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559476,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A single Home Win reflects Germany U17's decisive attacking depth and host-campus edge toward a 4:1 or 3:0 result."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 6.5 combined lambda baseline and recent high-scoring outings from both Germany U17 and Lithuania U17."
+      },
+      "score": {
+        "selection": [
+          "4:1",
+          "3:0"
+        ],
+        "comment": "4:1 covers Lithuania's transition threat alongside German dominance, while 3:0 captures a controlled German clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "5"
+        ],
+        "comment": "Sample-adjusted scoring expectancy clusters around four to five total goals after discounting single-match lambda inflation."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win targets Lithuania's early defensive lapses, while Draw-Win covers a tight first half broken by Germany's second-half surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 22:11:07 UTC"
+}
