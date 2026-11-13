@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644692,
+    "matchup": "Guatemala vs Canada",
+    "home_team": "Guatemala",
+    "away_team": "Canada",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-14 02:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-guatemala-vs-canada/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guatemala vs Canada Prediction & Match Analysis: Can Depleted Canada Crack El Trebol? — Preview",
+    "meta": {
+      "matchId": "1644692",
+      "league": "CONCACAF Nations League",
+      "matchup": "Guatemala vs Canada",
+      "matchTime": "2026-11-14 02:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Canada's attacking quality against a suspended Guatemalan midfield and their own seven-player injury attrition point toward a cautious, low-scoring first leg where the visitors either edge a narrow victory or settle for an away draw.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both the narrow Canadian breakthrough led by Alphonso Davies and Jonathan David and the tight stalemate script ahead of Leg 2 in Toronto (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with a 2.25 combined lambda, three consecutive low-scoring head-to-heads, and Canada's 75.0% big-chance waste rate (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency accounts for Canada's depleted centre-back depth conceding once at El Trebol while struggling to convert chances cleanly (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644692",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Guatemala",
+      "awayTeam": "Canada",
+      "match_time": "02:00",
+      "match_highlight": "Davies returns as injury-hit Canada test depleted Guatemala in Leg 1.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644692,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a narrow 0:1 Canada win driven by Davies and David against Guatemala's suspended core and a 1:1 draw caused by Canada's seven confirmed injuries; a single Away Win call is weaker given Canada's missing midfield spine."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 goal-based lambda total, three consecutive Under 2.5 head-to-heads, and four of Canada's last five matches staying at two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Canada's +225 Elo edge and three clean sheets in five games against a depleted Guatemala midfield, while 1:1 covers Canada's patched-up backline conceding at El Trebol amid high chance waste."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent the two highest-probability bands in the 2.25-lambda Poisson distribution and match Leg 1 knockout caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Guatemala's compact home start and historical 0:0 half-times favour a level opening 45 minutes before Canada either break through late (Draw-Loss) or share the spoils (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:42:27 UTC"
+}
