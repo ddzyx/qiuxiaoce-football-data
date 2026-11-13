@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570019,
+    "matchup": "Leganes vs Burgos",
+    "home_team": "Leganes",
+    "away_team": "Burgos",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-13 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-leganes-vs-burgos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leganes vs Burgos Prediction & Match Analysis: Can Depleted Hosts Breach Burgos? — xG Preview",
+    "meta": {
+      "matchId": "1570019",
+      "league": "Segunda División",
+      "matchup": "Leganes vs Burgos",
+      "matchTime": "2026-11-13 19:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Draw / Away Win as rested, promotion-chasing Burgos leverage superior defensive organization and clinical finishing at Municipal de Butarque.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Burgos extend their ten-match league unbeaten foundation through second-half stamina and compact central defense (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Simultaneous attacking absences on both sides and Burgos's restored central defense compress scoring expectancy (Confidence: Moderate, Value: Moderate)",
+      "Exact Scoreline 1:1 — Covers an offensive rebound from Álvaro Morata offset by Burgos's set-piece and counter-attacking efficiency (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570019",
+      "league": "Segunda División",
+      "homeTeam": "Leganes",
+      "awayTeam": "Burgos",
+      "match_time": "19:30",
+      "match_highlight": "Depleted Leganes face third-placed Burgos on 72-hour turnaround.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1570019,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Burgos's leading 0:1 second-half breakthrough script alongside a 1:1 stalemate if Álvaro Morata converts home xG while Karrikaburu's absence caps away margin."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lineup-adjusted expectancy drops to 2.22 goals with Gharbi and Karrikaburu out against Burgos's 1.21 xGA defense."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Burgos's clinical edge and Leganes's 79.3% big-chance waste; 1:1 covers a home goal against Burgos's depleted forward depth."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals aggregates 1:1 and 0:2 as the modal integer bucket, closely followed by a tight 0:1 single-goal script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half profiles favour a level interval before Burgos's 78-hour rest edge drives a late winner or preserves parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 12:35:42 UTC"
+}
