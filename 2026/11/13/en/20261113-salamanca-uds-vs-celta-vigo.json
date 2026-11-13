@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644376,
+    "matchup": "Salamanca UDS vs Celta Vigo",
+    "home_team": "Salamanca UDS",
+    "away_team": "Celta Vigo",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-11-13 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-salamanca-uds-vs-celta-vigo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Salamanca UDS vs Celta Vigo Prediction & Match Analysis: Can Rotated Celta Break Helmántico Block?",
+    "meta": {
+      "matchId": "1644376",
+      "league": "Copa del Rey",
+      "matchup": "Salamanca UDS vs Celta Vigo",
+      "matchTime": "2026-11-13 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 Goals captures Celta Vigo's class edge alongside the genuine risk of a 90-minute stalemate under heavy rotation.",
+    "possibilityAssessment": [
+      "Celta Vigo possess superior individual quality through travelling veterans Iago Aspas, Ferran Jutglà, and Marcos Alonso against fourth-tier opposition (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with the lambda_total 2.25 baseline, Celta's 0.83 goals-per-game La Liga output, and Asier Domínguez's injury absence (Confidence: Moderate, Value: High)",
+      "Level half-time followed by a late Celta breakthrough (Draw-Loss) reflects Salamanca's compact early home block tiring in the final 30 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644376",
+      "league": "Copa del Rey",
+      "homeTeam": "Salamanca UDS",
+      "awayTeam": "Celta Vigo",
+      "match_time": "20:00",
+      "match_highlight": "Heavily rotated Celta face Salamanca's home surge in tight Copa clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644376,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a controlled 0:2 Celta Vigo away win and a 1:1 90-minute draw, because Celta's nine senior absences and 50.0% big-chance waste make a single call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the lambda_total 2.25 baseline (60.9% Poisson Under 2.5), Celta's recent one-goal-in-four-games drought, and Asier Domínguez's absence for Salamanca UDS."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Celta's top-flight quality breaking down fourth-tier legs late, while 1:1 covers Salamanca exploiting an unfamiliar rotated visiting defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7% Poisson) and one goal (23.7% Poisson) align directly with a low-margin knockout tie below 2.5 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a compact, level first half before either Celta's bench breaks the deadlock (Draw-Loss) or Salamanca hold out for 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 17:26:57 UTC"
+}
