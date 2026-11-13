@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528968,
+    "matchup": "Moldova vs Kazakhstan",
+    "home_team": "Moldova",
+    "away_team": "Kazakhstan",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-moldova-vs-kazakhstan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Moldova vs Kazakhstan Tactical Breakdown & Probabilistic Modeling: Set-Piece Threat vs Counter Efficiency",
+    "meta": {
+      "matchId": "1528968",
+      "league": "UEFA Nations League",
+      "matchup": "Moldova vs Kazakhstan",
+      "matchTime": "2026-11-13 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kazakhstan's superior territorial volume, set-piece threat, and uninterrupted scoring run in Group C3 position the visitors to avoid defeat against a Moldova side missing all-time top scorer Ion Nicolaescu.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "1:2 Correct Score / BTTS Scenario (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528968",
+      "league": "UEFA Nations League",
+      "homeTeam": "Moldova",
+      "awayTeam": "Kazakhstan",
+      "match_time": "17:00",
+      "match_highlight": "Winless Kazakhstan test Moldova's leaky home defense without suspended Sergey Malyy.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528968,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 away breakthrough driven by Kazakhstan's Elo edge and 1.62 lambda_away alongside a 1:1 draw branch given Kazakhstan's recent winless run and Sergey Malyy's suspension."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.87 lambda_total, zero clean sheets for either team in Group C3, and Malyy's defensive suspension support at least three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Kazakhstan's superior scoring rate and set-piece pressure meet Moldova's counter-attacking threat against an altered visiting back line."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "2.87 total goal expectancy and reciprocal defensive concessions point to 3 goals as primary and 2 goals as the tighter draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides trend toward level first halves before second-half fatigue and tactical pressure decide between an away win or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:20:52 UTC"
+}
