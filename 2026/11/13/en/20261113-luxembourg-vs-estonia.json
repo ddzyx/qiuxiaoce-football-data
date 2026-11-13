@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545614,
+    "matchup": "Luxembourg vs Estonia",
+    "home_team": "Luxembourg",
+    "away_team": "Estonia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-luxembourg-vs-estonia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Luxembourg vs Estonia Prediction & Preview: Midfield Crisis vs Unbeaten Block — XG Mind AI Analysis",
+    "meta": {
+      "matchId": "1545614",
+      "league": "UEFA Nations League",
+      "matchup": "Luxembourg vs Estonia",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Probabilistic goal modeling and verified camp availability support Estonia extending their unbeaten Group C4 run via a compact road draw or narrow away win.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance orientation capturing compact road resilience and set-piece upside (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals anchored by a 1.50 combined Poisson goal expectancy and low-tempo build-up (Confidence: High, Value: Moderate)",
+      "Exact 0:0 stalemate contingency should mutual attacking absences neutralize second-half breakthroughs (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545614",
+      "league": "UEFA Nations League",
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Estonia",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Luxembourg midfield faces Estonia's unbeaten low-block wall.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1545614,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 0:1 Estonian set-piece or transition breakthrough alongside a 0:0 attrition deadlock, as Estonia's 0.50 scoring average and 85.7% big-chance waste make a single away-win call overly narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson goal expectancy of 1.50, three straight Estonian clean sheets, and three straight scoreless Luxembourg matches point firmly below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Primary 0:1 reflects a solitary Estonian dead-ball or counter-attacking strike, while 0:0 captures mutual finishing constraints."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One total goal leads the calibrated distribution at 34%, followed by the 2-goal bucket aggregating 1:1 and 0:2 branches at 25%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious goalless opening half forks into either a second-half Estonian winner as Luxembourg overcommit or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 15:04:51 UTC"
+}
