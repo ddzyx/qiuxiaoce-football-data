@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649939,
+    "matchup": "Mlada Boleslav vs Vysočina Jihlava",
+    "home_team": "Mlada Boleslav",
+    "away_team": "Vysočina Jihlava",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-13 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-mlada-boleslav-vs-vyso-ina-jihlava/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Mlada Boleslav vs Vysočina Jihlava: Goal Expectancy, Lineup Vulnerabilities & Match Intelligence",
+    "meta": {
+      "matchId": "1649939",
+      "league": "Friendlies Clubs",
+      "matchup": "Mlada Boleslav vs Vysočina Jihlava",
+      "matchTime": "2026-11-13 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Mladá Boleslav or Draw (Home Win / Draw) alongside Under 2.5 total goals as superior top-tier defense meets friendly rotation.",
+    "possibilityAssessment": [
+      "Mladá Boleslav win with defensive control (2:0) (Confidence: Moderate, Value: High)",
+      "Competitive friendly stalemate (1:1) (Confidence: Moderate, Value: Moderate)",
+      "Low-event narrow home victory (1:0) (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649939",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Mlada Boleslav",
+      "awayTeam": "Vysočina Jihlava",
+      "match_time": "10:00",
+      "match_highlight": "Mladá Boleslav top-flight pedigree tested against Jihlava counter-attack amid friendly squad rotation",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649939,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Mladá Boleslav's top-tier technical edge while formally protecting against friendly rotation disruption."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson model projects 60.9% Under 2.5 probability supported by an aggregate lambda of 2.25 goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Primary 2:0 reflects controlled top-flight victory; secondary 1:1 captures second-half substitution variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals represents the modal peak of the combined scoring distribution at 26.7% probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cagey opening 45 minutes expected before home bench depth tilts the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 05:54:45 UTC"
+}
