@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649656,
+    "matchup": "Ibri vs Al-Shabab",
+    "home_team": "Ibri",
+    "away_team": "Al-Shabab",
+    "league": "FA Cup",
+    "kickoff_utc": "2026-11-13 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-ibri-vs-al-shabab/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ibri vs Al-Shabab Prediction & Match Analysis: International Absences Test Visitors — XG Mind AI",
+    "meta": {
+      "matchId": "1649656",
+      "league": "FA Cup",
+      "matchup": "Ibri vs Al-Shabab",
+      "matchTime": "2026-11-13 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Shabab's superior league form and retained attacking core support Draw / Away Win with Under 2.5 Goals in a controlled FA Cup Group B tie.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Al-Shabab's attacking edge and Group B motivation alongside cup-tie draw cover (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.25 combined lambda and seven of nine head-to-head meetings finishing with two goals or fewer (Confidence: Moderate, Value: Moderate)",
+      "1:1 stalemate contingency should Ibri's transitional pace punish a rotated away backline (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649656",
+      "league": "FA Cup",
+      "homeTeam": "Ibri",
+      "awayTeam": "Al-Shabab",
+      "match_time": "12:45",
+      "match_highlight": "Al-Shabab's retained foreign attack tests depleted cup depth at Ibri.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649656,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al-Shabab's 0:2 quality edge and a 1:1 cup stalemate given international absences, whereas a single call would ignore their Group B draw tendency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, Al-Shabab's 1.50 goals-per-game Group B average, and seven of nine head-to-head meetings finishing under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Al-Shabab breaking down Ibri after half-time as in February 2026, while 1:1 captures a tight draw if away absences limit penetration."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal 26.7% Poisson outcome aligning with both 0:2 and 1:1, with three goals covering a late 1:2 or 0:3 break."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Ibri have entered half-time level in five of their last nine matches before either fading late (Draw-Loss) or holding for a share (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 06:55:29 UTC"
+}
