@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1643467,
+    "matchup": "North District vs Hong Kong FC",
+    "home_team": "North District",
+    "away_team": "Hong Kong FC",
+    "league": "League Cup",
+    "kickoff_utc": "2026-11-14 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-north-district-vs-hong-kong-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "North District vs Hong Kong FC Tactical Breakdown & Probabilistic Modeling: Cup Depth & Midfield Disruption",
+    "meta": {
+      "matchId": "1643467",
+      "league": "League Cup",
+      "matchup": "North District vs Hong Kong FC",
+      "matchTime": "2026-11-14 07:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "North District carry the deeper attacking squad and five-match head-to-head edge, but cup rotation risks justify pairing a narrow home win with regulation-time draw coverage under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by North District's superior squad depth and Poisson under-three-goal balance (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined lambda and 60.9% baseline probability below three goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency driven by potential pre-Lee Man rotation and Hong Kong FC's recent counter-attacking win over Eastern (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643467",
+      "league": "League Cup",
+      "homeTeam": "North District",
+      "awayTeam": "Hong Kong FC",
+      "match_time": "07:00",
+      "match_highlight": "North District's H2H mastery faces HKFC's cup counter-attacking resilience.",
+      "ai_confidence": "Low",
+      "fixtureId": 1643467,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a tight 1:0 North District cup win and a 1:1 stalemate because unconfirmed lineups and a 0.15 lambda gap make a single outcome overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.25 combined goal expectancy lambda, 60.9% Poisson under-2.5 share, and cautious Round of 16 tactical pacing."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects North District's second-half quality against a Montesinos-less HKFC midfield alongside the modal 1:1 Poisson draw risk."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two independent Poisson total-goal densities of 26.7% and 23.7% in a tight knockout tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey scoreless or level first half before North District either break through after halftime or settle for a 90-minute draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:49:45 UTC"
+}
