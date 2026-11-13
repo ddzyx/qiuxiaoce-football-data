@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606758,
+    "matchup": "Albirex Niigata vs Tegevajaro Miyazaki",
+    "home_team": "Albirex Niigata",
+    "away_team": "Tegevajaro Miyazaki",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-14 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-albirex-niigata-vs-tegevajaro-miyazaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Albirex Niigata vs Tegevajaro Miyazaki Prediction & Match Analysis: Can Leaders Halt Five-Win Surge?",
+    "meta": {
+      "matchId": "1606758",
+      "league": "J2 League",
+      "matchup": "Albirex Niigata vs Tegevajaro Miyazaki",
+      "matchTime": "2026-11-14 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Tegevajaro Miyazaki to avoid defeat (Draw / Away Win) in a competitive, goal-active J2 League clash where 1:2 and 1:1 stand out.",
+    "possibilityAssessment": [
+      "Tegevajaro Miyazaki avoid defeat (Draw / Away Win) led by their superior Poisson goal expectancy (lambda 1.56 vs 1.25) and five-match winning momentum (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 2.81 combined lambda, Niigata's 1.50 goals conceded per game, and Miyazaki's 2.24 decayed recent scoring average (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw (Draw-Draw HT/FT) contingency if Niigata's back-to-back 1:0 clean-sheet organization slows Miyazaki's transition threat into a shared stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606758",
+      "league": "J2 League",
+      "homeTeam": "Albirex Niigata",
+      "awayTeam": "Tegevajaro Miyazaki",
+      "match_time": "05:00",
+      "match_highlight": "League-leading Niigata's home fortress faces Miyazaki's surging five-match winning streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606758,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Miyazaki's superior goal-expectancy edge (1:2) while respecting Niigata's 8-0-1 home resilience (1:1), as neither an unhedged away win nor a home win alone captures both scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.81 combined lambda, Niigata's 1.50 goals conceded per game, and Miyazaki's 1.62 season scoring average."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 pairs Niigata's 100% home scoring rate with Miyazaki's stronger overall attack and defense, while 1:1 covers the central draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the 2.81 combined lambda and 1:2 / 1:1 scoreline projections across open and tighter scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Niigata have drawn at half-time in 66.7% of home games before Miyazaki's second-half efficiency decides either a late breakthrough or a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:07:08 UTC"
+}
