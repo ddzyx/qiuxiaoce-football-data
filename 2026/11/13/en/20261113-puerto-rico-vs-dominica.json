@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640015,
+    "matchup": "Puerto Rico vs Dominica",
+    "home_team": "Puerto Rico",
+    "away_team": "Dominica",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-puerto-rico-vs-dominica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Puerto Rico vs Dominica Prediction & Match Analysis: Can Interim Boss Lonchuk Unlock Early Goals?",
+    "meta": {
+      "matchId": "1640015",
+      "league": "CONCACAF Nations League",
+      "matchup": "Puerto Rico vs Dominica",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Puerto Rico is projected to secure a controlled clean-sheet victory over Dominica, driven by sustained wide possession and a 2:0 primary scoreline.",
+    "possibilityAssessment": [
+      "Puerto Rico Home Win via sustained 4-3-3 territorial pressure and superior Nations League defensive solidity (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by a 2:0 core script against a reinforced Dominica low block (Confidence: Moderate, Value: High)",
+      "Puerto Rico 3:0 expansion scenario if early scoring unlocks goal-difference chasing late in the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640015",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Puerto Rico",
+      "awayTeam": "Dominica",
+      "match_time": "19:00",
+      "match_highlight": "Puerto Rico chase goals under interim coach Lonchuk against revamped Dominica.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640015,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Puerto Rico's three straight Nations League clean sheets, 2:0 September head-to-head control, and 198-point Elo edge support a clean full-time victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda, Puerto Rico's three Under 2.5 group games in four, and Dominica's goalkeeper upgrade point toward two goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 mirrors September's reverse fixture and Puerto Rico's defensive solidity, while 3:0 reflects late expansion to chase Guyana's goal difference."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson and tactical baseline, with three goals capturing the urgent late-game goal-difference push."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Puerto Rico led 2:0 at half-time in both recent wins over Dominica and Cayman Islands, with Draw-Win covering first-half resistance from Shamal George."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 09:02:39 UTC"
+}
