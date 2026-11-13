@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644247,
+    "matchup": "Kowloon City vs Kitchee",
+    "home_team": "Kowloon City",
+    "away_team": "Kitchee",
+    "league": "League Cup",
+    "kickoff_utc": "2026-11-14 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-kowloon-city-vs-kitchee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kowloon City vs Kitchee Tactical Breakdown & Preview: Cup Depth vs Survival Stakes",
+    "meta": {
+      "matchId": "1644247",
+      "league": "League Cup",
+      "matchup": "Kowloon City vs Kitchee",
+      "matchTime": "2026-11-14 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win leaning toward a Kitchee victory alongside an Over 2.5 goals profile in this League Cup elimination tie.",
+    "possibilityAssessment": [
+      "Kitchee's unbeaten 2026-27 HKPL form and midfield depth drive an Away Win, while Draw covers potential rotation before the Nov 15 international friendly (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by Kowloon City's 2.33 HKPL goals conceded per game and Kitchee's 3.17 goals scored per game (Confidence: Moderate, Value: Moderate)",
+      "Slow-tempo 1:1 stalemate contingency if international absences blunt Kitchee's wide penetration (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644247",
+      "league": "League Cup",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Kitchee",
+      "match_time": "07:00",
+      "match_highlight": "Kitchee league firepower meets Kowloon City resilience amid cup rotation risk.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644247,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors on a 1:2 Kitchee victory built on superior HKPL quality while covering a 1:1 draw given Tier 3 cup rotation uncertainty ahead of Hong Kong's November 15 friendly, avoiding a single away call that ignores unverified international absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Verified 2026-27 league scoring rates (Kitchee 3.17 scored, Kowloon City 2.33 conceded per game) and recent cup concessions outweigh the sparse 2.25 feed lambda baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Kitchee's attacking edge alongside recent cup defensive vulnerability, while 1:1 covers the feed's top Poisson scoreline under heavy rotation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 1:2 away-win script across high-scoring domestic trends, with 2 goals aligning to the feed baseline and 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Kitchee's recurring half-time leads in recent head-to-heads, while Draw-Draw covers a cautious rotated first half ending level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:53:36 UTC"
+}
