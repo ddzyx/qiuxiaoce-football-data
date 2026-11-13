@@ -1,0 +1,83 @@
+# Salamanca UDS vs Celta Vigo Prediction & Match Analysis: Can Rotated Celta Break Helmántico Block?
+
+> **Competition**: Copa del Rey
+> **Kickoff**: 2026-11-13 20:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the Estadio Helmántico in Villares de la Reina, fourth-tier high-flyers Salamanca UDS welcome La Liga side Celta Vigo in a rescheduled Copa del Rey Round of 128 knockout tie. At the heart of this contest lies a stark tug-of-war between Celta Vigo&#x27;s three-division talent advantage and Claudio Giráldez&#x27;s heavily depleted, youth-reinforced matchday squad ahead of their upcoming La Liga clash with Real Madrid. While Salamanca UDS sit second in Segunda Federación Group 5 and expect over 10,000 supporters behind them, they must cope without injured attacker Asier Domínguez against top-flight visitors who have struggled for goals in recent weeks. XG Mind AI combines verified squad news, goal-expectancy modeling, and tactical matchup diagnostics to break down the 90-minute result, total goals, and most plausible scorelines.
+
+📌 Salamanca UDS vs Celta Vigo: Match Intelligence Brief
+
+Fixture ID
+
+: 1644376
+
+Matchup
+
+: Salamanca UDS vs Celta Vigo
+
+Competition
+
+: Copa del Rey, Round of 128
+
+Kickoff Time
+
+: 2026-11-13 20:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether Celta Vigo&#x27;s heavily rotated lineup, missing nine first-team regulars and two late-suspended reserves, retains enough final-third precision to unlock Salamanca UDS&#x27;s organized home block inside 90 minutes.
+
+📊 1. Salamanca UDS Attacking Structure vs Celta Vigo Defensive Counter
+
+⚔️ Head-to-Head History: Celta Vigo Hold Lone Recent Copa Del Rey Rout
+
+The package&#x27;s formal head-to-head summary records zero prior fixtures, while the recent-results log captures one competitive meeting between these clubs in the Copa del Rey during the 2024–25 campaign. No half-time split is supplied for that fixture.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+2024-12-03
+
+Copa del Rey
+
+Salamanca UDS
+
+0:7 (HT N/A)
+
+Celta Vigo
+
+📈 Team Form &amp; Tactical Style Breakdown: Compact Fourth-Tier Pressing vs Rotated Top-Flight Control
+
+Home Team (Salamanca UDS):
+
+Under head coach Iker Muniain, appointed in July 2026, Salamanca UDS have surged to second place in Segunda Federación Group 5 with 19 points from 10 matches (6 wins, 1 draw, 3 losses, 16 goals scored, 11 conceded). Their recent league run features a 3:1 away win at Real Ávila, a 1:0 home victory over Gimnástica Segoviana, a 3:2 win over San Sebastián de los Reyes, a 1:1 draw with CDA Navalcarnero, and defeats to CF Talavera (2:1) and Atlético Tordesillas (2:0), alongside a 3:1 Copa Federación loss at Sestao River on October 14. In the tracked cup feed, their decayed goals-for average sits at 0.67 and goals-against at 3.53 due to the 0:7 defeat against Celta in December 2024, whereas current league play reflects a far sturdier unit built around goalkeeper Unai Ayala, center-backs Javier Murua and Máximo Levrand, midfielders Íñigo Eguaras, Carlos Cristeto, and Urki Txoperena, and wingers Álex Caramelo and Óscar León.
+
+Muniain&#x27;s 4-2-3-1 / 4-4-2 structure prioritizes midfield compactness before springing rapid wide transitions, though losing Asier Domínguez to a metatarsal fracture trims their primary penalty-box punch.
+
+Away Team (Celta Vigo):
+
+Claudio Giráldez&#x27;s side arrive 11th in La Liga with 13 points from 12 matches (2 wins, 7 draws, 3 losses; 10 goals scored, 10 conceded, averaging 0.83 goals per game in league play) and 27th in the UEFA Europa League league phase. Their last five outings across competitions show just one win—2:1 away at Celtic on October 22—followed by a 0:0 draw with Real Betis, a 3:0 defeat at Rayo Vallecano, a 2:1 home loss to Union Saint-Gilloise, and a 0:0 home draw against Levante on November 8. Celta&#x27;s weighted form shows a 0.48 decayed goals-for average and 1.17 goals-against average, underscoring an attack that has scored once across its last four matches.
+
+Even with heavy rotation, veteran Iago Aspas, Ferran Jutglà, Pablo Durán, Williot Swedberg, Marcos Alonso, and Javi Galán give Celta vastly superior ball progression and final-third craft against fourth-tier opposition.
+
+Still, a 50.0% big-chances-missed rate and an experimental defense featuring Yoel Lago and Abdoulaye Faye leave room for nervy spells if they fail to score early.
+
+🔍 Core Statistical Comparison: Modest Goal Averages Mask Three-Division Class Gap
+
+Because aligned competition-and-season expected goals are unavailable for both clubs, xG and xGA metrics are excluded from this comparison in favor of verified per-match goal rates and supplied statistical indicators. Celta&#x27;s seasonal possession and shooting figures reflect top-flight and European opposition rather than fourth-tier play, while Salamanca&#x27;s league-level shot, corner, and possession splits are unrecorded in the package.
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261113-salamanca-uds-vs-celta-vigo/)
