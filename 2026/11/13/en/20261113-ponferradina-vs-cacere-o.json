@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570831,
+    "matchup": "Ponferradina vs Cacereño",
+    "home_team": "Ponferradina",
+    "away_team": "Cacereño",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-13 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-ponferradina-vs-cacere-o/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ponferradina vs Cacereño Tactical Breakdown & Probabilistic Modeling: Defensive Stalemate vs Flank Absences",
+    "meta": {
+      "matchId": "1570831",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "Ponferradina vs Cacereño",
+      "matchTime": "2026-11-13 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ponferradina's tight home defense and Cacereño's winless away record alongside a dual left-back outage favor a low-scoring Home Win / Draw, though five host absences cap ceiling upside.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Ponferradina's 0.64 home conceding rate and Cacereño's 0-2-3 away record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals supported by a 1.46 combined lambda and 81.9% Poisson density (Confidence: High, Value: Moderate)",
+      "Cacereño set-piece threat targeting rustier replacement center-back David Andújar (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570831",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "Ponferradina",
+      "awayTeam": "Cacereño",
+      "match_time": "18:00",
+      "match_highlight": "Depleted Ponferradina test Cacereño's makeshift left-back in El Toralín stalemate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570831,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 0:0 stalemate between two stingy defenses and a 1:0 home grind against Cacereño's improvised left-back; a single call is weaker given five Ponferradina absences and four straight host draws."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.46 combined lambda, 0.64 vs 0.82 goals-per-game rates, and depleted wide creativity on both sides strongly suppress scoring."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "0:0 leads the Poisson matrix (23.2%) for two low-scoring sides, while 1:0 captures Ponferradina exploiting Cacereño's 0-2-3 road record and missing left-backs."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (33.9%) and 2 goals (24.8%) represent the highest-probability buckets in the 1.46-lambda distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both disciplined setups point to a level first half, diverging between a sustained stalemate and a second-half home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:32:46 UTC"
+}
