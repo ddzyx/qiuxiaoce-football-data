@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647636,
+    "matchup": "United Arab Emirates vs Honduras",
+    "home_team": "United Arab Emirates",
+    "away_team": "Honduras",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 14:10:00",
+    "source_url": "https://xgmind.com/matches/20261113-united-arab-emirates-vs-honduras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "United Arab Emirates vs Honduras Tactical Breakdown & Probabilistic Modeling: Dalic's Home Edge",
+    "meta": {
+      "matchId": "1647636",
+      "league": "Friendlies",
+      "matchup": "United Arab Emirates vs Honduras",
+      "matchTime": "2026-11-13 14:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back United Arab Emirates on the Home Win / Draw double chance alongside Under 2.5 Goals in a controlled Abu Dhabi friendly.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by narrow Emirati control (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by 2.25 statistical lambda expectancy (Confidence: Moderate, Value: Moderate)",
+      "Exact total of 1 or 2 goals hedging 1:0 and 1:1 scripts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647636",
+      "league": "Friendlies",
+      "homeTeam": "United Arab Emirates",
+      "awayTeam": "Honduras",
+      "match_time": "14:10",
+      "match_highlight": "Emirati home cohesion tests Arriaga-less Honduras in low-scoring Abu Dhabi friendly.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647636,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both UAE's superior home readiness (1:0) and a rotation-affected stalemate (1:1), as a single call carries unnecessary Tier 3 friendly variance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored on a 2.25 combined statistical lambda, 60.9% Under 2.5 Poisson density, and UAE's recent defensive discipline under Dalic."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects UAE breaking down a depleted Honduran midfield, while 1:1 captures the modal Poisson draw if late friendly rotations open space."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) form the peak of the Poisson distribution around a tight 1.20 vs 1.05 goal-expectancy matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cautious, level opening 45 minutes before UAE's home conditioning decides it late or both sides settle into a rotated stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:22:16 UTC"
+}
