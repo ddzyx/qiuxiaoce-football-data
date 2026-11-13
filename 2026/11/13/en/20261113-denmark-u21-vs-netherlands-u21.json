@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645398,
+    "matchup": "Denmark U21 vs Netherlands U21",
+    "home_team": "Denmark U21",
+    "away_team": "Netherlands U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-13 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-denmark-u21-vs-netherlands-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Denmark U21 vs Netherlands U21 Tactical Breakdown & Probabilistic Modeling: Dutch Absences Test Vejle",
+    "meta": {
+      "matchId": "1645398",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Denmark U21 vs Netherlands U21",
+      "matchTime": "2026-11-13 17:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Denmark U21 Win or Draw against a heavily depleted Dutch squad in a tight play-off first leg.",
+    "possibilityAssessment": [
+      "Denmark U21 Win or Draw backed by home defensive stability and seven Dutch absences (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals driven by adjusted 2.25 expectancy and first-leg caution (Confidence: Moderate, Value: High)",
+      "Draw-Win half-time/full-time script built on both teams' strong second-half scoring skews (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645398",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Netherlands U21",
+      "match_time": "17:30",
+      "match_highlight": "Depleted Netherlands U21 midfield and defense face unbeaten hosts in Vejle.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1645398,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Denmark's 1:0 home win edge over a reshuffled Dutch spine alongside a cautious 1:1 first-leg stalemate, as play-off nerves prevent treating a single win as exclusive."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Denmark's 0.75 goals-conceded rate and seven verified Dutch absences drag adjusted expectancy down near 2.25 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Denmark's three home qualifying clean sheets against depleted visitors, while 1:1 covers Dutch counter-attacking pace."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Both totals capture the dominant low-scoring 2:0, 1:1, and 1:0 play-off scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides drew five of eight first halves in qualifying, leaving the second-half breakthrough as the decisive fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:26:40 UTC"
+}
