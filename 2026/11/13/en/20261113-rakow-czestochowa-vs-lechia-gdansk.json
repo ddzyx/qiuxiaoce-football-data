@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649944,
+    "matchup": "Raków Częstochowa vs Lechia Gdansk",
+    "home_team": "Raków Częstochowa",
+    "away_team": "Lechia Gdansk",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-13 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-rakow-czestochowa-vs-lechia-gdansk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Raków Częstochowa vs Lechia Gdansk Prediction & Match Analysis: Rotation Depth Test — Scoreline Preview",
+    "meta": {
+      "matchId": "1649944",
+      "league": "Friendlies Clubs",
+      "matchup": "Raków Częstochowa vs Lechia Gdansk",
+      "matchTime": "2026-11-13 13:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Raków Częstochowa Win or Draw alongside Under 2.5 goals in a low-scoring closed-doors friendly.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by Raków's Ekstraklasa depth and Lechia's six international absences (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.25 combined goal lambda and Raków's attacking absences (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflecting Raków's five-match league run without a clean sheet and second-half rotations (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649944",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Raków Częstochowa",
+      "awayTeam": "Lechia Gdansk",
+      "match_time": "13:30",
+      "match_highlight": "Depleted international-break squads test Raków's defensive reset against Lechia.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649944,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Raków's superior top-flight depth grinding out a 1:0 win while retaining the 1:1 draw script given four key attacking absences and friendly rotations."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal lambda of 2.25, missing wide attackers, and Szwarga's defensive drills point strongly toward two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Both scorelines capture the highest Poisson density around 2.25 total lambda under rotated friendly conditions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) hold half of the total Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A probing, level first half opens either to Raków's deeper bench after halftime or stalls into a rotated friendly stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:06:41 UTC"
+}
