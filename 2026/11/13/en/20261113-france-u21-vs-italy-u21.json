@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647637,
+    "matchup": "France U21 vs Italy U21",
+    "home_team": "France U21",
+    "away_team": "Italy U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-france-u21-vs-italy-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "France U21 vs Italy U21 Tactical Breakdown & Preview: Senior Call-Ups Test Squad Depth in Laval",
+    "meta": {
+      "matchId": "1647637",
+      "league": "Friendlies",
+      "matchup": "France U21 vs Italy U21",
+      "matchTime": "2026-11-13 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw alongside Under 2.5 goals as senior promotions blunt both attacks in Laval.",
+    "possibilityAssessment": [
+      "France U21 win or draw anchored by home edge and 39.4% Poisson win share against a resilient Italian block (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals driven by a 2.25 combined lambda and missing primary finishers on both benches (Confidence: Moderate, Value: High)",
+      "Level half-time script transitioning via late friendly substitutions before Monday fixtures (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647637",
+      "league": "Friendlies",
+      "homeTeam": "France U21",
+      "awayTeam": "Italy U21",
+      "match_time": "17:30",
+      "match_highlight": "Reshaped U21 attacks collide in tight Laval friendly.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647637,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers France U21's home and 39.4% Poisson win edge alongside the 1:1 draw script, as mutual absences and Monday friendlies make a clean sweep risky."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined lambda (60.9% Under 2.5 Poisson share) and confirmed offensive absences across both squads."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 is the modal 13.3% Poisson scoreline matching H2H draw history, while 1:0 reflects France's narrow home territorial edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the Poisson distribution given depleted frontlines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, level opening half gives way to either a late French home breakthrough or a controlled 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:29:09 UTC"
+}
