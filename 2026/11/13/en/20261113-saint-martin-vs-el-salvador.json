@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649031,
+    "matchup": "Saint Martin vs El Salvador",
+    "home_team": "Saint Martin",
+    "away_team": "El Salvador",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-13 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-saint-martin-vs-el-salvador/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint Martin vs El Salvador Prediction & Match Analysis: Can League C Surge Offset 300-Point Elo Gap?",
+    "meta": {
+      "matchId": "1649031",
+      "league": "CONCACAF Nations League",
+      "matchup": "Saint Martin vs El Salvador",
+      "matchTime": "2026-11-13 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "El Salvador are projected to claim a first-leg Away Win on neutral ground, overcoming Nathan Ordaz's injury absence through superior League A organization and midfield depth.",
+    "possibilityAssessment": [
+      "El Salvador Away Win driven by +300 Elo gap and neutral-venue control (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals as opponent-adjusted firepower points toward 1:2 or 0:3 (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT transition if a compact Saint Martin block holds out until halftime (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649031",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Saint Martin",
+      "awayTeam": "El Salvador",
+      "match_time": "23:00",
+      "match_highlight": "El Salvador's League A class tests Saint Martin's potent transition attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649031,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "El Salvador's 300-point Elo advantage, neutral-venue setting, and League A squad depth support a 1:2 or 0:3 away victory despite Nathan Ordaz's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Adjusting the 2.25 baseline lambda for the League A-versus-League C tier gap aligns with the market's 3.5-goal board and points toward at least three goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:3"
+        ],
+        "comment": "1:2 reflects El Salvador's superior class alongside Saint Martin's transition threat via Raga and Arné, while 0:3 covers a clean-sheet League A shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals fit both primary 1:2 and 0:3 scripts, with two goals representing the main cautious first-leg branch minus Nathan Ordaz."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "El Salvador should establish early neutral-site control (Loss-Loss), though a patient opening half before a second-half breakthrough (Draw-Loss) remains plausible."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:15:32 UTC"
+}
