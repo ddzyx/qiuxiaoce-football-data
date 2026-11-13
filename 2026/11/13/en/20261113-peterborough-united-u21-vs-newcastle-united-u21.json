@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1627118,
+    "matchup": "Peterborough United U21 vs Newcastle United U21",
+    "home_team": "Peterborough United U21",
+    "away_team": "Newcastle United U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-13 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-peterborough-united-u21-vs-newcastle-united-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Peterborough United U21 vs Newcastle United U21 Prediction: Salia Ban & Rotation — Scoreline Preview",
+    "meta": {
+      "matchId": "1627118",
+      "league": "Premier League Cup",
+      "matchup": "Peterborough United U21 vs Newcastle United U21",
+      "matchTime": "2026-11-13 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Peterborough United U21 on the Home Win / Draw double chance alongside Under 2.5 Goals in a tight Premier League Cup clash.",
+    "possibilityAssessment": [
+      "Peterborough United U21 Home Win / Draw led by 1:0 and 1:1 scripts (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by 2.25 combined goal expectancy (Confidence: Moderate, Value: High)",
+      "Draw-Win or Draw-Draw HT/FT progression after a cagey opening half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627118",
+      "league": "Premier League Cup",
+      "homeTeam": "Peterborough United U21",
+      "awayTeam": "Newcastle United U21",
+      "match_time": "19:00",
+      "match_highlight": "Suspended Salia tests Newcastle depth against Peterborough U21 at home.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1627118,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home breakthrough against Newcastle's rotated attack and a 1:1 stalemate backed by the visitors' disciplined defensive run, as neither single call captures both verified scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy, Newcastle's recent low-scoring matches, and the suspension of leading scorer Vakhtang Salia."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two home-or-draw Poisson outcomes (12.6% and 13.3%) in a tight matchup between home territory and compact away defending."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Accounts for the two highest-density totals in the Poisson distribution (26.7% and 23.7%), aligning directly with 1:1 and 1:0."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Follows both teams' recent 0-0 half-time patterns before either a second-half Peterborough breakthrough or a shared-points finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 08:57:20 UTC"
+}
