@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559475,
+    "matchup": "France U17 vs Luxembourg U17",
+    "home_team": "France U17",
+    "away_team": "Luxembourg U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 08:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-france-u17-vs-luxembourg-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "France U17 vs Luxembourg U17 Prediction & Match Analysis: Can Zirbes' Block Contain Diallo?",
+    "meta": {
+      "matchId": "1559475",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "France U17 vs Luxembourg U17",
+      "matchTime": "2026-11-14 08:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "France U17 are backed for a commanding regulation-time home win built on Matchday 1 attacking volume and superior second-half depth.",
+    "possibilityAssessment": [
+      "France U17 ordinary victory driven by early territorial pressure and clinical finishing from Eliès Diallo and Yanis Kharbouch (Confidence: High, Value: Moderate)",
+      "Over 2.5 total goals anchored on a 4:0 or 3:0 French winning margin against a vulnerable Luxembourg second-half defense (Confidence: High, Value: Moderate)",
+      "Draw-Win half-time/full-time branch if Luxembourg sustain first-half compactness before fading after the interval (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "4:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559475",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "France U17",
+      "awayTeam": "Luxembourg U17",
+      "match_time": "08:00",
+      "match_highlight": "France U17's first-half blitz meets Luxembourg's vulnerable second-half defensive block.",
+      "ai_confidence": "High",
+      "fixtureId": 1559475,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "France U17's 26-shot Matchday 1 dominance and Luxembourg's 0-6 collapse against Italy support a decisive 4:0 or 3:0 home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 5.00 goal-based lambda total and France's 4.00 goals per match point firmly over 2.5 even without an away goal."
+      },
+      "score": {
+        "selection": [
+          "4:0",
+          "3:0"
+        ],
+        "comment": "4:0 mirrors France's Armenia opener against Luxembourg's late-game fade, while 3:0 covers early French conservation ahead of Italy."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Calibrating the 5.00 Poisson total for tournament minute management centers expected scoring on 4 or 3 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "France U17 scored three first-half goals against Armenia for Win-Win, while Draw-Win covers Luxembourg holding out until the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 20:07:53 UTC"
+}
