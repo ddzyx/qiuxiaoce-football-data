@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617077,
+    "matchup": "San Juan vs Gazte Berriak",
+    "home_team": "San Juan",
+    "away_team": "Gazte Berriak",
+    "league": "Tercera División RFEF - Group 15",
+    "kickoff_utc": "2026-11-13 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-san-juan-vs-gazte-berriak/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "San Juan vs Gazte Berriak Tactical Breakdown & Probabilistic Modeling: Home Firepower vs Low Block",
+    "meta": {
+      "matchId": "1617077",
+      "league": "Tercera División RFEF - Group 15",
+      "matchup": "San Juan vs Gazte Berriak",
+      "matchTime": "2026-11-13 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "San Juan Win or Draw (Home Win prioritized) paired with Under 2.5 Goals is the optimal projection for this tight Group 15 derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw with San Juan win prioritized as primary trajectory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.15 combined goal expectancy and low-event away profile (Confidence: Moderate, Value: High)",
+      "First-half deadlock resolving into Draw-Win or Draw-Draw after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617077",
+      "league": "Tercera División RFEF - Group 15",
+      "homeTeam": "San Juan",
+      "awayTeam": "Gazte Berriak",
+      "match_time": "19:30",
+      "match_highlight": "San Juan's 1.70-goal attack tests Gazte Berriak's 0.70-conceded low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617077,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "San Juan's Donibane scoring punch makes a narrow 1:0 home win the leading script, while Gazte Berriak's 0.70 goals-conceded shield and identical 15-point record require covering the 1:1 draw rather than isolating a single home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined statistical goal expectancy of 2.15 (63.5% Under 2.5 baseline) aligns with Gazte Berriak's 1.60 match-goal average across 10 rounds."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A tight 1:0 second-half home breakthrough leads the matrix ahead of a 1:1 derby stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 goals (26.9%) and 1 goal (25.0%) capture over half of the modeled scoring distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Gazte Berriak's compact opening structure favors an interval stalemate before San Juan press for a late winner or share the spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 12:53:37 UTC"
+}
