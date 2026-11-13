@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647360,
+    "matchup": "Chinese Taipei vs Kyrgyzstan",
+    "home_team": "Chinese Taipei",
+    "away_team": "Kyrgyzstan",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-chinese-taipei-vs-kyrgyzstan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chinese Taipei vs Kyrgyzstan Match Analysis & Prediction: Can Rested White Falcons Break Taipei's Block?",
+    "meta": {
+      "matchId": "1647360",
+      "league": "Friendlies",
+      "matchup": "Chinese Taipei vs Kyrgyzstan",
+      "matchTime": "2026-11-13 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kyrgyzstan are projected to secure a controlled Away Win over a fatigued Chinese Taipei side in this Casper Cup 2026 friendly.",
+    "possibilityAssessment": [
+      "Away Win driven by Kyrgyzstan's 474-point Elo edge and 958-hour vs 48-hour rest advantage (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by Chinese Taipei's compact low block and 2.25 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Late-Fatigue 3-Goal Branch if Taipei's 48-hour recovery deficit causes post-70th-minute breakdowns (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647360",
+      "league": "Friendlies",
+      "homeTeam": "Chinese Taipei",
+      "awayTeam": "Kyrgyzstan",
+      "match_time": "12:00",
+      "match_highlight": "Rested Kyrgyzstan target fatigued Chinese Taipei after 48-hour Vietnam turnaround.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647360,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Kyrgyzstan's 474-point Elo advantage, 39.9-day freshness, and 2.4 decayed scoring rate support a controlled 0:2 or 0:3 victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal lambda, Chinese Taipei's two-line low block, and 0.0 recent decayed scoring favor a two-goal away win."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:3"
+        ],
+        "comment": "0:2 mirrors Taipei's recent loss to Vietnam and 2024 home loss to Kyrgyzstan, while 0:3 covers late-game fatigue."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Goal distribution centers on 2 goals around a controlled shutout, with 3 goals representing the late breakdown branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Kyrgyzstan score 70% of friendly goals in the first half (Loss-Loss), while early layoff rust leaves Draw-Loss as the main fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 06:49:14 UTC"
+}
