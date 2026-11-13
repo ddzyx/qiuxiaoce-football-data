@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1616164,
+    "matchup": "Real Unión de Tenerife vs Mensajero",
+    "home_team": "Real Unión de Tenerife",
+    "away_team": "Mensajero",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-14 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-real-uni-n-de-tenerife-vs-mensajero/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Unión de Tenerife vs Mensajero Prediction & Match Analysis: Can Hosts Exploit Leaky Defense?",
+    "meta": {
+      "matchId": "1616164",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Real Unión de Tenerife vs Mensajero",
+      "matchTime": "2026-11-14 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Unión de Tenerife are backed to win or draw against Mensajero, driven by a 2:1 primary home-win script and 1:1 draw protection.",
+    "possibilityAssessment": [
+      "Real Unión de Tenerife win or draw (Home Win / Draw) backed by a +0.55 lambda edge and 20 vs 13 points (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals anchored by a 2.65 combined lambda and Mensajero's 1.70 goals conceded per game (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Contingency covering Real Unión's consecutive 1-1 home stalemates and top Poisson score density (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616164",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Real Unión de Tenerife",
+      "awayTeam": "Mensajero",
+      "match_time": "11:00",
+      "match_highlight": "Real Unión's 0.90 goals-conceded solidity tests Mensajero's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616164,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains the 2:1 home-win edge from a 0.90 vs 1.70 GA/g disparity alongside 1:1 draw protection after consecutive 1-1 home stalemates and unverified matchday squads."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.65 combined goal-expectancy lambda and Mensajero conceding 11 goals across their last four league fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Real Unión's 1.50 GF/g breaking Mensajero's 1.70 GA/g defense, while 1:1 protects the 11.9% Poisson mode and recent home pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 convergence and Mensajero's recent open matches, with 2 goals covering a tighter 1:1 or 2:0 script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious morning first half before Real Unión's second-half pressure decides the game or locks into a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 23:18:01 UTC"
+}
