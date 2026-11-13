@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545865,
+    "matchup": "Burkina Faso vs Mauritania",
+    "home_team": "Burkina Faso",
+    "away_team": "Mauritania",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-burkina-faso-vs-mauritania/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burkina Faso vs Mauritania Tactical Breakdown & Modeling: Can Koita Crack the Stallions' Home Fortress?",
+    "meta": {
+      "matchId": "1545865",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Burkina Faso vs Mauritania",
+      "matchTime": "2026-11-13 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Burkina Faso for a controlled Home Win at Stade du 4-Août, anchored by their +200 Elo edge, reinforced central defence, and Mauritania's persistent competitive road struggles.",
+    "possibilityAssessment": [
+      "Burkina Faso Home Win — hosts control territory and convert superior quality in a tight contest (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals — compact away structure and modest qualifying scoring rates suppress total goal volume (Confidence: Moderate, Value: High)",
+      "HT/FT Draw-Win — Burkina Faso probe patiently before breaking down Mauritania after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545865",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Burkina Faso",
+      "awayTeam": "Mauritania",
+      "match_time": "16:00",
+      "match_highlight": "Burkina Faso's home fortress meets Mauritania's counter-attacking winger Aboubakary Koita.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545865,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored by 1:0 and 2:0 projections, Burkina Faso's home defensive organization and +200 Elo edge should overcome Mauritania's poor competitive road record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "With Burkina Faso averaging 1.00 goal scored and 0.50 conceded in Group F alongside tight competitive H2H history, a low-scoring under 2.5 script leads."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "Both 1:0 and 2:0 reflect Burkina Faso's ability to shut down Mauritania's road attack while grinding out a decisive breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Adjusting the 2.50 qualifier lambda total downward for Burkina Faso's home solidity concentrates probability on one or two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Mauritania's compact start can keep the first half level before Burkina Faso's depth tells, with an early home strike serving as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:34:36 UTC"
+}
