@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559482,
+    "matchup": "North Macedonia U17 vs San Marino U17",
+    "home_team": "North Macedonia U17",
+    "away_team": "San Marino U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 09:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-north-macedonia-u17-vs-san-marino-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "North Macedonia U17 vs San Marino U17 Tactical Breakdown & Probabilistic Modeling: Can Ristic Break the Block?",
+    "meta": {
+      "matchId": "1559482",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "North Macedonia U17 vs San Marino U17",
+      "matchTime": "2026-11-14 09:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "North Macedonia U17 is projected to secure a multi-goal victory over San Marino U17 in Group 11 behind Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win driven by North Macedonia U17's attacking firepower and Group 11 qualification urgency (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 goals targeting 3 or 4 total goals anchored by a 4.50 combined lambda expectancy (Confidence: Moderate, Value: High)",
+      "Contingency Angle: North Macedonia U17 Win with Both Teams to Score (3:1) accounting for concessions in four of their last five matches (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:0",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559482",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "North Macedonia U17",
+      "awayTeam": "San Marino U17",
+      "match_time": "09:00",
+      "match_highlight": "Ristic's form meets San Marino's compact 3-4-2-1 low block in Trabzon.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559482,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "North Macedonia U17's Matchday 1 comeback win, full squad availability, and San Marino's 0:4 opener strongly concentrate probability on a 3:0 or 3:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.50 goal-based lambda total and 82.6% baseline Poisson Over 2.5 probability support at least three goals even if San Marino fails to score."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "3:1"
+        ],
+        "comment": "3:0 reflects North Macedonia's 3.50 lambda paired with San Marino's 0.44 decayed scoring rate, while 3:1 covers North Macedonia conceding in four of its last five matches."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Adjusting the Poisson peak downward slightly for San Marino's low scoring rate centers the match around 3 or 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win mirrors Turkey's 2:0 half-time start against San Marino, while Draw-Win covers San Marino's low block holding until North Macedonia's second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 21:08:13 UTC"
+}
