@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545879,
+    "matchup": "Mozambique vs Ethiopia",
+    "home_team": "Mozambique",
+    "away_team": "Ethiopia",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-13 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-mozambique-vs-ethiopia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mozambique vs Ethiopia Prediction & Preview: Can Mambas Break Ethiopia's Low Block? — Tactical Analysis",
+    "meta": {
+      "matchId": "1545879",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Mozambique vs Ethiopia",
+      "matchTime": "2026-11-13 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mozambique hold a clear attacking and venue edge in Maputo to record a controlled 2:0 or 1:0 victory over scoreless Ethiopia.",
+    "possibilityAssessment": [
+      "Mozambique Home Win driven by 2.50 goals/match in Group J against Ethiopia's 0.00 scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by a 2.25 combined Poisson lambda and Ethiopia's compact defensive structure (Confidence: Moderate, Value: High)",
+      "Draw-Win HT/FT script where Ethiopia resist until half-time before conceding late in Maputo (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545879",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Mozambique",
+      "awayTeam": "Ethiopia",
+      "match_time": "13:00",
+      "match_highlight": "Mozambique's 2.50-goal home attack tests Ethiopia's reshuffled low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545879,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Mozambique's five-goal home Group J attack and core squad continuity should overcome an Ethiopia side averaging 0.00 goals per qualifier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal-based lambda (60.9% Under 2.5) and Ethiopia's consecutive 0:1 Group J defeats point toward one or two total goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 reflects Mozambique's home firepower against a Bayeh-less backline, while 1:0 covers Ethiopia's established compact-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson goal expectancy peaks at 2 goals (26.7%) and 1 goal (23.7%) given Ethiopia's 0.50 away scoring lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Mozambique scored 60% of their Group J goals after half-time, making a level interval before a home surge slightly likelier than a wire-to-wire lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 07:00:45 UTC"
+}
