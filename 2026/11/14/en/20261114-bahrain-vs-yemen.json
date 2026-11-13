@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647638,
+    "matchup": "Bahrain vs Yemen",
+    "home_team": "Bahrain",
+    "away_team": "Yemen",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-bahrain-vs-yemen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bahrain vs Yemen Prediction & Match Analysis: Can Felix Sanchez Fix Defense After 5-2 Rout?",
+    "meta": {
+      "matchId": "1647638",
+      "league": "Friendlies",
+      "matchup": "Bahrain vs Yemen",
+      "matchTime": "2026-11-14 06:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Bahrain's debut tactical reset under Félix Sánchez against an organized Yemen counter points toward a tight, low-scoring contest best covered by Home Win / Draw and Under 2.5.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Bahrain's squad depth and coaching reset (Confidence: Low, Value: Moderate)",
+      "Under 2.5 goals anchored by a 2.25 combined lambda and cautious friendly tempo (Confidence: Moderate, Value: Moderate)",
+      "1:1 stalemate if Yemen's transition front four exploit debut defensive unfamiliarity (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647638",
+      "league": "Friendlies",
+      "homeTeam": "Bahrain",
+      "awayTeam": "Yemen",
+      "match_time": "06:00",
+      "match_highlight": "Felix Sanchez's Bahrain debut faces Yemen's rapid counters in Guangzhou.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647638,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Bahrain rebound under new management and a cagey 1:1 stalemate, as neutral-venue friendly rotation and recent scoring struggles make a single call unnecessarily exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda (60.9% Poisson density for two or fewer goals) and Bahrain's priority on defensive repair."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Captures the top two Poisson scoreline densities (13.3% and 12.6%), balancing Bahrain's defensive reset against Yemen's transition threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the two highest-probability Poisson goal buckets (26.7% and 23.7%) in a restrained neutral-ground friendly."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious level first half under Sanchez before Bahrain's deeper bench either forces a second-half winner or settles for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 19:46:23 UTC"
+}
