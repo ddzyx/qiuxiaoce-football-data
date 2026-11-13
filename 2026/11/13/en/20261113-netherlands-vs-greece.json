@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528966,
+    "matchup": "Netherlands vs Greece",
+    "home_team": "Netherlands",
+    "away_team": "Greece",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-netherlands-vs-greece/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Netherlands vs Greece Prediction & xG Analysis: Can Oranje Overcome Van Dijk Absence? — XG Mind AI",
+    "meta": {
+      "matchId": "1528966",
+      "league": "UEFA Nations League",
+      "matchup": "Netherlands vs Greece",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Netherlands as the leading contender while retaining draw coverage (Home Win / Draw), anchored by superior 2.48 xG creation balanced against key defensive absences.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw with Home Win prioritized via positional chance volume and Greece's midfield suspension (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 total goals driven by 3.70 combined xG per match and zero Dutch clean sheets (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Draw-Win HT/FT transition leveraging the Netherlands' 71.4% second-half scoring surge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528966",
+      "league": "UEFA Nations League",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Greece",
+      "match_time": "19:45",
+      "match_highlight": "De Jong's midfield control meets Greece's unbeaten counter-attacking block",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528966,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Netherlands lead via a 2:1 second-half breakthrough backed by 2.48 xG per match, while Van Dijk and Ake's confirmed absences against unbeaten Greece make retaining the 1:1 low-block draw stronger than an uncovered single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.70 xG per match, zero Dutch clean sheets in Group A2, and missing defensive shields on both sides favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects clinical Dutch shot volume conceding once in transition without Van Dijk, while 1:1 covers Greece's disciplined low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the primary 2:1 open transition script, while two goals cover a tighter 1:1 stalemate or 2:0 home control."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Low first-half scoring shares point to a level interval before Dutch second-half pressure either forces a late winner or meets stubborn Greek parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 13:32:49 UTC"
+}
