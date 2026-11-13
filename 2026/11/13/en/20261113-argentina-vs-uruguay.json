@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647362,
+    "matchup": "Argentina vs Uruguay",
+    "home_team": "Argentina",
+    "away_team": "Uruguay",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-13 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-argentina-vs-uruguay/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Argentina vs Uruguay Prediction & Match Analysis: Can Uruguay Exploit Hosts' Post-Messi Absences?",
+    "meta": {
+      "matchId": "1647362",
+      "league": "Friendlies",
+      "matchup": "Argentina vs Uruguay",
+      "matchTime": "2026-11-13 23:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Depleted across defense and attack in their first post-Messi outing, Argentina face a tight, low-scoring test where Uruguay can avoid defeat via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on a 1:1 stalemate and 0:1 transition upset given near-even 1.20 vs 1.05 goal lambdas and heavy Argentine absences (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by 2.25 combined goal expectancy, missing frontline finishers on both sides, and strict officiating tempo (Confidence: Moderate, Value: Moderate)",
+      "Tight 1:0 home grind if Argentina's Mac Allister-Enzo Fernández midfield pins back Uruguay's Ugarte-less screen early (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647362",
+      "league": "Friendlies",
+      "homeTeam": "Argentina",
+      "awayTeam": "Uruguay",
+      "match_time": "23:00",
+      "match_highlight": "Depleted post-Messi Argentina host Forlán's Uruguay in tight Bombonera stalemate battle.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1647362,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retaining Draw / Away Win covers both the leading 1:1 stalemate and a 0:1 Uruguayan transition upset, whereas a single call would leave one half of this near-even 1.20-versus-1.05 goal expectancy exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda (60.9% Under 2.5 Poisson share), Argentina's 68.2% big-chance waste rate, and key attacking absences on both sides point to a tight, low-scoring derby."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% as midfield control offsets makeshift defenses, while 0:1 (11.1%) captures a classic counter-attacking snatch if home finishing falters."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) dominate the Poisson distribution, aligning directly with a 1:1 draw or 0:1 cagey away victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Uruguay avoided trailing at half-time across all five away-scope fixtures (3 HT draws), pointing to a level interval before either a 1:1 share or a late 0:1 away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 18:12:21 UTC"
+}
