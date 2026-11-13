@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649941,
+    "matchup": "TSV Hartberg vs Floridsdorfer AC",
+    "home_team": "TSV Hartberg",
+    "away_team": "Floridsdorfer AC",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-13 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261113-tsv-hartberg-vs-floridsdorfer-ac/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "TSV Hartberg vs Floridsdorfer AC Prediction: Can FAC Resist Bundesliga Quality? — Scoreline Preview",
+    "meta": {
+      "matchId": "1649941",
+      "league": "Friendlies Clubs",
+      "matchup": "TSV Hartberg vs Floridsdorfer AC",
+      "matchTime": "2026-11-13 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "TSV Hartberg's top-flight attacking quality and structured pressing will overwhelm second-tier Floridsdorfer AC in a controlled home win.",
+    "possibilityAssessment": [
+      "TSV Hartberg regulation victory with controlled territorial dominance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals as friendly substitution pacing limits late scoring (Confidence: Moderate, Value: High)",
+      "Defensive resilience from FAC keeping the first half level before a second-half breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649941",
+      "league": "Friendlies Clubs",
+      "homeTeam": "TSV Hartberg",
+      "awayTeam": "Floridsdorfer AC",
+      "match_time": "11:30",
+      "match_highlight": "Bundesliga firepower meets second-tier resistance in mid-season friendly clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649941,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "TSV Hartberg holds decisive tier, technical, and home-form advantages over 2. Liga opposition."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Exhibition game management and aggregate 2.25 lambda point toward a moderate-scoring contest under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A controlled 2:0 home victory reflects Hartberg's class supremacy, with 2:1 covering minor late defensive variance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution models concentrate 46.7% density across exactly two and three total match goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "FAC's initial compact resistance projects a level opening half before Hartberg's depth secures victory."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 06:06:38 UTC"
+}
