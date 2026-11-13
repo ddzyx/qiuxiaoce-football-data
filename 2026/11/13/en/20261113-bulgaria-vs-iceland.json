@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528969,
+    "matchup": "Bulgaria vs Iceland",
+    "home_team": "Bulgaria",
+    "away_team": "Iceland",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-13 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261113-bulgaria-vs-iceland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bulgaria vs Iceland Tactical Breakdown & Probabilistic Modeling: Promotion Pressure Meets Low-Block Grit",
+    "meta": {
+      "matchId": "1528969",
+      "league": "UEFA Nations League",
+      "matchup": "Bulgaria vs Iceland",
+      "matchTime": "2026-11-13 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Iceland are projected to secure a controlled away victory in an Under 2.5 goals contest built on their 0.25 goals-conceded-per-game defensive base.",
+    "possibilityAssessment": [
+      "Iceland Away Win driven by superior finishing efficiency and defensive prevention (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by a 2.00 combined goal expectancy and three Icelandic group clean sheets (Confidence: Moderate, Value: High)",
+      "Draw-Loss HT/FT progression reflecting Bulgaria's tight first-half home shape before second-half Icelandic incision (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528969",
+      "league": "UEFA Nations League",
+      "homeTeam": "Bulgaria",
+      "awayTeam": "Iceland",
+      "match_time": "19:45",
+      "match_highlight": "Clinical Iceland attack tests injury-hit Bulgaria's fragile Plovdiv home defence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528969,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Iceland's 1.75 goals per game, 0.25 conceded rate, and 3:0 reverse victory align with a 0:1 or 0:2 away win against an injury-hit host."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.00 combined Poisson expectancy, Bulgaria's 0.75 goals per game, and Iceland's three consecutive group clean sheets strongly favour Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "0:1 (20.3%) reflects Bulgaria's compact home resistance against a depleted attack, while 0:2 (15.2%) captures late transition space if Bulgaria chase the game."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One-goal and two-goal outcomes share the highest Poisson density at 27.1% each under a 2.00 total-goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Bulgaria have been level at half-time in both home group games before tiring, while Iceland's 75% first-half lead rate keeps Loss-Loss firmly in play."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 14:27:54 UTC"
+}
