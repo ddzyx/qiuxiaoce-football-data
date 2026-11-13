@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649057,
+    "matchup": "Atletico Torque vs Racing Montevideo",
+    "home_team": "Atletico Torque",
+    "away_team": "Racing Montevideo",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-13 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261113-atletico-torque-vs-racing-montevideo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico Torque vs Racing Montevideo Prediction & Match Analysis: Can Cup-Fatigued Hosts Break Racing?",
+    "meta": {
+      "matchId": "1649057",
+      "league": "Primera División",
+      "matchup": "Atletico Torque vs Racing Montevideo",
+      "matchTime": "2026-11-13 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atletico Torque's superior 2.00 goals-per-game Clausura attack favors a Home Win / Draw outcome alongside Over 2.5 Goals.",
+    "possibilityAssessment": [
+      "Primary 1X2 lean: Home Win / Draw anchored on Atletico Torque's scoring lead (Confidence: Moderate, Value: Moderate)",
+      "Total goals angle: Over 2.5 Goals supported by 2.77 combined lambda and 55.6% BTTS projection (Confidence: Moderate, Value: Moderate)",
+      "Secondary script: 1:1 Draw if Torque's 60.0% big-chance waste and 72-hour turnaround slow finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649057",
+      "league": "Primera División",
+      "homeTeam": "Atletico Torque",
+      "awayTeam": "Racing Montevideo",
+      "match_time": "20:00",
+      "match_highlight": "Atletico Torque's second-half surge tests Racing Montevideo's compact defensive block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649057,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Atletico Torque's 2:1 late-surge victory script and a 1:1 stalemate, as a single home call leaves too little margin for Torque's 72-hour cup turnaround and 1.08 GA/match parity."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal-based lambda of 2.77 (52.3% Over 2.5) and Torque's 3.08 average Clausura match goals point above 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 matches Torque's recent domestic winning pattern while 1:1 is the top Poisson baseline scoreline (11.9%) and repeats May's Apertura draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the 2:1 primary script above 2.5, with two goals covering the 1:1 deadlock reflected in the 24.0% Poisson two-goal density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Torque score 70.6% of their tracked league goals after half-time, pointing to a tight opening half resolved late either into a home win or a level draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-13 17:31:19 UTC"
+}
