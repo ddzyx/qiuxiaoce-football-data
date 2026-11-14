@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545863,
+    "matchup": "Angola vs South Sudan",
+    "home_team": "Angola",
+    "away_team": "South Sudan",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-14 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-angola-vs-south-sudan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Angola vs South Sudan Tactical Breakdown & Preview: Can Luanda Hosts Overcome Dala's Absence?",
+    "meta": {
+      "matchId": "1545863",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Angola vs South Sudan",
+      "matchTime": "2026-11-14 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Angola's superior Group B scoring output and defensive solidity in Luanda project a clean-sheet Home Win over South Sudan despite Gelson Dala's injury absence.",
+    "possibilityAssessment": [
+      "Angola Home Win backed by lambda_home 2.5 vs lambda_away 0.5 and South Sudan's 3.50 goals conceded per qualifier (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 57.7% Poisson mass at 3+ goals and 3:0 top-end scoring ceiling (Confidence: Moderate, Value: Moderate)",
+      "2:0 Controlled Home Win / Draw-Win half-time resistance hedge if Angola's 83.3% big-chance miss rate delays the opener (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545863",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Angola",
+      "awayTeam": "South Sudan",
+      "match_time": "19:00",
+      "match_highlight": "Can Angola break South Sudan's low block without injured Gelson Dala?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545863,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Angola's defensive organization (0.50 conceded per game) and wide pace support a decisive 3:0 or 2:0 home victory over a porous South Sudan side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined lambda_total of 3.0 places 57.7% of Poisson probability on three or more goals against South Sudan's 3.50 goals conceded per qualifier."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "3:0 reflects Angola's home scoring ceiling against Group B's weakest defense, while 2:0 covers finishing friction without Gelson Dala."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson probability peaks equally at 3 goals (22.4%) and 2 goals (22.4%), matching Angola's clean-sheet win paths."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win covers an early home breakthrough, while Draw-Win captures a scoreless first half if South Sudan's deep block resists until after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 18:41:36 UTC"
+}
