@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606765,
+    "matchup": "Kataller Toyama vs Tokushima Vortis",
+    "home_team": "Kataller Toyama",
+    "away_team": "Tokushima Vortis",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kataller-toyama-vs-tokushima-vortis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kataller Toyama vs Tokushima Vortis Tactical Breakdown & Probabilistic Modeling: Home Draws vs Road Slump",
+    "meta": {
+      "matchId": "1606765",
+      "league": "J2 League",
+      "matchup": "Kataller Toyama vs Tokushima Vortis",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kataller Toyama hold the clear attacking and second-half stamina edge to take points in a tight Under 2.5 contest, though their home stalemate frequency favors covering both the Home Win and the Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Toyama's 1.81 goals-per-game output and Tokushima's 0.75-goal road bluntness while factoring Toyama's 2W-4D-2L home split (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by a 2.28 combined statistical lambda and Tokushima's single-goal defensive compactness (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflecting Toyama's defensive reshuffle without suspended Min-Woo Kang and Tokushima's three set-piece goals (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606765",
+      "league": "J2 League",
+      "homeTeam": "Kataller Toyama",
+      "awayTeam": "Tokushima Vortis",
+      "match_time": "05:00",
+      "match_highlight": "Toyama's second-half surge tests Tokushima without suspended defender Min-Woo Kang.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606765,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Toyama's primary 1:0 second-half breakthrough script alongside a 1:1 stalemate because Toyama drew four of eight home games and miss suspended Min-Woo Kang."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.28 combined lambda, Tokushima's 0.75 goals per match, and four 1:0 scorelines in Tokushima's last five games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Toyama's late pressure against Tokushima's single-goal losses, while 1:1 accounts for Toyama's home draw tendency and altered backline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals hold 49.9% combined Poisson density and align directly with 1:1 and 1:0 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides frequently reach half-time level before Toyama's second-half acceleration seeks a breakthrough or Tokushima hold out for a point."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:45:29 UTC"
+}
