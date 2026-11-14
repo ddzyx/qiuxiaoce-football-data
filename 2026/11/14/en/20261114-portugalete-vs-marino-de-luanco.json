@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572127,
+    "matchup": "Portugalete vs Marino de Luanco",
+    "home_team": "Portugalete",
+    "away_team": "Marino de Luanco",
+    "league": "Segunda División RFEF - Group 1",
+    "kickoff_utc": "2026-11-14 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-portugalete-vs-marino-de-luanco/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portugalete vs Marino de Luanco Prediction & Match Analysis: Can Asturians Break Scoring Drought?",
+    "meta": {
+      "matchId": "1572127",
+      "league": "Segunda División RFEF - Group 1",
+      "matchup": "Portugalete vs Marino de Luanco",
+      "matchTime": "2026-11-14 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Portugalete to avoid defeat in a low-scoring Group 1 clash, leaning on their superior 1.50 goals-per-game output against a Marino side enduring four straight scoreless outings.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Portugalete's 47.5% Poisson win rate and La Florida's three-in-five home draw pattern (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.45 combined lambda and Marino's four consecutive matches finishing under 1.5 goals (Confidence: Moderate, Value: High)",
+      "Late set-piece or penalty breakthrough under strict officiating around a 5.0-yellow-card threshold (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572127",
+      "league": "Segunda División RFEF - Group 1",
+      "homeTeam": "Portugalete",
+      "awayTeam": "Marino de Luanco",
+      "match_time": "17:00",
+      "match_highlight": "Portugalete seek home breakthrough against Marino's four-match scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572127,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 second-half Portugalete breakthrough and a 1:1 stalemate, as Portugalete's 1-3-1 home record at La Florida makes a single home-win call riskier despite Marino's four-match scoring drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A restrained 2.45 combined lambda gives Under 2.5 a 55.6% Poisson share, reinforced by Marino's four straight Under 1.5 fixtures and Portugalete's three home games finishing with two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Co-favorites at 12.5% each in the Poisson matrix, balancing Portugalete's late attacking quality against Marino's compact road resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (25.9%) and one goal (21.1%) capture nearly half the Poisson distribution and match Marino's recent low-event defensive run."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Portugalete were level at half-time in 60% of tracked games before accelerating after the break, making a level first half leading to either a late home win or a 1:1 stalemate the core script fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 16:35:44 UTC"
+}
