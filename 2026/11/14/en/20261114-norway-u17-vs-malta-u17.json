@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559483,
+    "matchup": "Norway U17 vs Malta U17",
+    "home_team": "Norway U17",
+    "away_team": "Malta U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-norway-u17-vs-malta-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Norway U17 vs Malta U17 Prediction & Match Analysis: Can Suspended Hosts Contain Nordic Firepower?",
+    "meta": {
+      "matchId": "1559483",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Norway U17 vs Malta U17",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norway U17 are projected to claim a clean-sheet multi-goal regulation victory against a scoreless, Aquilina-less Malta U17 side.",
+    "possibilityAssessment": [
+      "Home Win — Norway U17 convert territorial control, set-piece quality, and superior depth into a decisive Group 5 victory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (4 Goals / 4:0) — Goal-based expectancy of 5.0 combined with Group 5 goal-difference incentives favors three to four Norwegian strikes (Confidence: Moderate, Value: Moderate)",
+      "Malta U17 First-Half Resistance (Draw-Win / 3:0) — Full eleven-man compactness at Ta' Qali delays the breakthrough until second-half fatigue sets in (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "4:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559483",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Norway U17",
+      "awayTeam": "Malta U17",
+      "match_time": "13:30",
+      "match_highlight": "Norway set-piece attack tests Malta midfield missing suspended Aquilina.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559483,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Norway's 1.67 decayed scoring average and set-piece edge overpower a Malta side with zero goals in three matches and a 3.98 decayed concession rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 5.0-goal combined Poisson lambda and Malta's 6.0 goals conceded per qualifier point clearly toward at least three goals."
+      },
+      "score": {
+        "selection": [
+          "4:0",
+          "3:0"
+        ],
+        "comment": "Clean-sheet 4:0 and 3:0 margins reflect Norway's 4.0 home lambda against Malta's three-match scoreless run."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Poisson density peaks around four goals while accounting for potential second-half Norwegian rotation at 3:0."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Norway can strike early against a shaky Maltese backline, with Draw-Win covering a disciplined first-half low block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 09:08:30 UTC"
+}
