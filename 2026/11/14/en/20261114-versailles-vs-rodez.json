@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648004,
+    "matchup": "Versailles vs Rodez",
+    "home_team": "Versailles",
+    "away_team": "Rodez",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-versailles-vs-rodez/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Versailles vs Rodez Tactical Breakdown & Match Analysis: Can Home Momentum Break Ligue 2 Steel?",
+    "meta": {
+      "matchId": "1648004",
+      "league": "Coupe de France",
+      "matchup": "Versailles vs Rodez",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Versailles are projected to avoid defeat in ordinary time via a tight Under 2.5 cup script anchored by 1:0 and 1:1 outcomes.",
+    "possibilityAssessment": [
+      "Versailles edge a 1:0 second-half breakthrough through home National sharpness against a leaky Ligue 2 traveler (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals holds strong statistical alignment at 60.9% Poisson probability and 2.25 combined lambda (Confidence: Moderate, Value: High)",
+      "A disciplined 1:1 regulation draw emerges if Rodez's 41.9% possession block and set-piece threat neutralize open play (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648004",
+      "league": "Coupe de France",
+      "homeTeam": "Versailles",
+      "awayTeam": "Rodez",
+      "match_time": "13:00",
+      "match_highlight": "Versailles's home National surge tests Rodez's wasteful Ligue 2 counterattack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648004,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Versailles's narrow 1:0 home breakthrough and Rodez's 1:1 Ligue 2 containment script, as neither cup lineup confirmation nor finishing reliability justifies isolating a single outcome."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Driven by a 2.25 combined goal lambda, a 60.9% Poisson share for two or fewer goals, and Rodez's 0.62 decayed scoring average with 71.0% big-chance waste."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects a tight second-half home breakthrough or a low-scoring regulation stalemate backed by the top two Poisson margin profiles."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the two highest-probability Poisson goal bands at 26.7% and 23.7% in a cagey cross-division cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious level opening half against Rodez's low block before either a late Versailles winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 07:11:46 UTC"
+}
