@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563855,
+    "matchup": "Fleetwood Town vs Tranmere",
+    "home_team": "Fleetwood Town",
+    "away_team": "Tranmere",
+    "league": "League Two",
+    "kickoff_utc": "2026-11-14 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-fleetwood-town-vs-tranmere/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fleetwood Town vs Tranmere Tactical Breakdown & Prediction: Can Highbury Fortress Halt Rovers?",
+    "meta": {
+      "matchId": "1563855",
+      "league": "League Two",
+      "matchup": "Fleetwood Town vs Tranmere",
+      "matchTime": "2026-11-14 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Fleetwood Town to avoid defeat via Home Win / Draw alongside Under 2.5 Goals captures Highbury's home resilience, a +101 Elo edge, and both sides' second-half-heavy attrition profile.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures both a 1:1 road stalemate and a narrow 1:0 Highbury breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 52.3% Poisson baseline, Tranmere's recent away scoring drought, and three 0:0 draws in four league meetings (Confidence: Moderate, Value: Moderate)",
+      "Fleetwood set-piece breakthrough after 60 minutes exploits Tranmere's 94-hour turnaround and second-half away concession skew (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563855",
+      "league": "League Two",
+      "homeTeam": "Fleetwood Town",
+      "awayTeam": "Tranmere",
+      "match_time": "17:30",
+      "match_highlight": "Fleetwood's 85.7% home unbeaten mark meets Tranmere's 4-draw away resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563855,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Draw for Tranmere's 57.1% away draw rate (1:1) and Home Win for Fleetwood's +101 Elo, 76-hour rest edge, and set-piece threat (1:0), as neither single side cleanly dominates."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.58 combined goal expectancy (52.3% Under 2.5), slow first-half splits (30.0% home, 14.3% away), and three 0:0 results in the last four league meetings."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix (12.6%) and mirrors Fleetwood's consecutive 1:1 home draws and Tranmere's road stalemates, while 1:0 reflects Fleetwood's 42.9% home clean-sheet rate and rest surplus."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal Poisson outcome (25.2%) fitting a 1:1 stalemate, while 1 goal covers a tight 1:0 set-piece win given both teams' second-half-heavy scoring profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both teams record 42.9% HT draw rates and low first-half goal shares in tonight's venue roles, pointing to a level interval before either staying tied (Draw-Draw) or late home pressure deciding it (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:08:17 UTC"
+}
