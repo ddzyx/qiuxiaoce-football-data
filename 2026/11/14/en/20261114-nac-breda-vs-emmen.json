@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551877,
+    "matchup": "NAC Breda vs Emmen",
+    "home_team": "NAC Breda",
+    "away_team": "Emmen",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-14 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-nac-breda-vs-emmen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "NAC Breda vs Emmen Prediction & Match Analysis: Can Hosts Cope Without Brym? — Scoreline Preview",
+    "meta": {
+      "matchId": "1551877",
+      "league": "Eerste Divisie",
+      "matchup": "NAC Breda vs Emmen",
+      "matchTime": "2026-11-14 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "NAC Breda's defensive stability and home midfield control favor a home win, with the draw covered due to Charles-Andreas Brym's international absence in a match leaning Under 2.5 goals.",
+    "possibilityAssessment": [
+      "NAC Breda leverages home territory, Greiml and Lucassen returning to the XI, and a 45-hour rest edge to defeat an injury-hit Emmen side (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals hits as both clubs miss top creative/scoring catalysts and NAC extends a four-match league run of two-goal ceilings (Confidence: Moderate, Value: High)",
+      "Jack Cooper-Love exploits NAC's modest home clean-sheet record after half-time to rescue a 1:1 Win-Draw split if the hosts waste early chances (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551877",
+      "league": "Eerste Divisie",
+      "homeTeam": "NAC Breda",
+      "awayTeam": "Emmen",
+      "match_time": "15:30",
+      "match_highlight": "Brym-less NAC attacks Emmen's depleted spine at Rat Verlegh Stadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551877,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 2:0 home win leads behind NAC's 0.34 decayed goals-conceded run and Emmen's injuries, while 1:1 covers the finishing drop caused by Brym's absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "NAC's four straight Under 2.5 league matches plus confirmed absences for Brym and Freddy Quispel pull scoring below the 3.46 goal-based lambda total."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects NAC's back-to-back 2:0 league wins and Emmen's 0:2 loss to MVV, while 1:1 covers wasted chances without Brym."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals aligns with both 2:0 and 1:1 core scripts, while 3 goals covers a late 2:1 branch if Emmen converts a second-half transition."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "NAC leads at half-time in 66.7% of home league games for Win-Win, while their 28.6% lead-not-won rate keeps Win-Draw live against Emmen's second-half push."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 15:24:50 UTC"
+}
