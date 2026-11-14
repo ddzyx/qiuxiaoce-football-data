@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647999,
+    "matchup": "Tourcoing vs Reims",
+    "home_team": "Tourcoing",
+    "away_team": "Reims",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-tourcoing-vs-reims/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tourcoing vs Reims Tactical Breakdown & Probabilistic Modeling: Cup Depletion vs Tier Gap",
+    "meta": {
+      "matchId": "1647999",
+      "league": "Coupe de France",
+      "matchup": "Tourcoing vs Reims",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Reims possess enough Ligue 2 midfield control and second-half conditioning to secure a patient away victory despite heavy international-window depletion.",
+    "possibilityAssessment": [
+      "Reims to convert four-division physical and tactical superiority into a controlled 90-minute away win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals as missing scorer Yaya Fofana and creator Daouda Guindo limit Reims to a two-goal margin (Confidence: Moderate, Value: Moderate)",
+      "Reims 0:3 late-surge scenario if an early set-piece breakthrough exposes Tourcoing's defensive stamina after 65 minutes (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647999",
+      "league": "Coupe de France",
+      "homeTeam": "Tourcoing",
+      "awayTeam": "Reims",
+      "match_time": "13:00",
+      "match_highlight": "Can depleted Reims's Ligue 2 core break Tourcoing's cup low block?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647999,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Anchored by a projected 0:2 or 0:3 margin, Reims's remaining Ligue 2 professionals should outlast sixth-tier Tourcoing over 90 minutes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Without Yaya Fofana and Daouda Guindo and carrying a 50.0% big-chance waste rate, Reims are poised for a controlled two-goal win."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:3"
+        ],
+        "comment": "Superior professional defense limits Tourcoing while second-half stamina gaps produce two or three visiting goals."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "A reshuffled Reims attack points toward two total goals, with three reachable if an early opener forces Tourcoing open."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Tourcoing's early home cup intensity can keep the first half level before Reims pull clear after the break, with an early away strike as the secondary script."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 07:08:32 UTC"
+}
