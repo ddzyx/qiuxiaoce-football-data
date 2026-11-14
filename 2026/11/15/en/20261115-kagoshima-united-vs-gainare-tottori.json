@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555804,
+    "matchup": "Kagoshima United vs Gainare Tottori",
+    "home_team": "Kagoshima United",
+    "away_team": "Gainare Tottori",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kagoshima-united-vs-gainare-tottori/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kagoshima United vs Gainare Tottori Prediction & Match Analysis: Can Home Firepower Break Tottori's Slide?",
+    "meta": {
+      "matchId": "1555804",
+      "league": "J3 League",
+      "matchup": "Kagoshima United vs Gainare Tottori",
+      "matchTime": "2026-11-15 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kagoshima United's unbeaten home scoring platform and high corner pressure outweigh defensive absences to project a regulation-time victory over struggling Gainare Tottori.",
+    "possibilityAssessment": [
+      "Home Win — Kagoshima United's superior home attacking volume (1.81 goals/game overall, 6W-2D-0L at home) and Tottori's defensive injuries (Nukui and Matsumoto out) point to a regulation-time home victory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined 2.90 goal expectancy and Kagoshima's 3.00 total goals per league match favor three or more goals, despite Tottori's recent scoring drought (Confidence: Moderate, Value: Moderate)",
+      "Kagoshima United 2:0 Correct Score (Under 2.5 Branch) — If Tottori's four-in-five scoreless streak continues and Kagoshima control the game cleanly after taking the lead, the match stays at two goals (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555804",
+      "league": "J3 League",
+      "homeTeam": "Kagoshima United",
+      "awayTeam": "Gainare Tottori",
+      "match_time": "04:00",
+      "match_highlight": "Unbeaten hosts test leaky Tottori defense without suspended Yuto Yamada.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555804,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kagoshima United's 1.84 home lambda and unbeaten Shiranami Stadium record support a 2:1 or 2:0 victory over 17th-placed Tottori."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.90 combined goal expectancy, Tottori's 1.88 goals conceded per game, and Kagoshima's 3.00 match-goal average support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects home firepower meeting set-piece concession risk without Yamada, while 2:0 covers Tottori's recent four-in-five scoreless run."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches Kagoshima's 3.00 league match average, with two goals covering a controlled 2:0 home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kagoshima led at half-time in 60% of tracked games for Win-Win, while Draw-Win covers Tottori holding compactly before tiring late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:33:39 UTC"
+}
