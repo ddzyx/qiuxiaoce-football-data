@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609122,
+    "matchup": "Bari vs Foggia",
+    "home_team": "Bari",
+    "away_team": "Foggia",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-14 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-bari-vs-foggia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bari vs Foggia Prediction & Match Analysis: Can Foggia's Depleted Defense Halt Bari? — Scoreline Preview",
+    "meta": {
+      "matchId": "1609122",
+      "league": "Serie C - Girone C",
+      "matchup": "Bari vs Foggia",
+      "matchTime": "2026-11-14 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bari's 0.69 goals-conceded defensive foundation favors a narrow Home Win against depleted Foggia, while their four-match Serie C draw run warrants retaining the Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Second-placed Bari hold superior defensive control and squad availability, though recent league stalemates keep the draw script alive (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals (Totals: 2, 1) — A 2.07 combined goal expectancy and compact derby structure point toward two or fewer total goals (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoreline 1:1 & HT/FT Draw-Draw — If Foggia's low block stalls Bari's attack, a late equalizer mirrors Bari's last three 1:1 league draws (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609122",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Bari",
+      "awayTeam": "Foggia",
+      "match_time": "16:30",
+      "match_highlight": "Bari's 0.69 goals-conceded defense faces Foggia without goalkeeper Gianluca Saro.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609122,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 1:0 Bari breakthrough against Foggia's injury-hit defense and the 1:1 stalemate script, as Bari's four-match league draw streak makes a single Home Win call less resilient."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.07 combined lambda, a 65.7% Poisson Under 2.5 probability, and Bari's tight 0.69 goals-conceded average."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Anchors on the top two Poisson scorelines (15.5% and 13.0%), reflecting Bari's defensive control against Foggia's missing starters and Bari's recent 1:1 draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Captures the 53.1% combined Poisson probability for one or two goals in a low-tempo, defensively disciplined derby."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cautious, level first half before either a second-half Bari breakthrough (1:0) or a persistent full-time stalemate (1:1)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 16:12:48 UTC"
+}
