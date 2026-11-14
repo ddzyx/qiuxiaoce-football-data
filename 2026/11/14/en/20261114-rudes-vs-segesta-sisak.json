@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1639313,
+    "matchup": "Rudes vs Segesta Sisak",
+    "home_team": "Rudes",
+    "away_team": "Segesta Sisak",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-rudes-vs-segesta-sisak/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rudes vs Segesta Sisak Prediction & Match Analysis: Can Segesta Breach Rudes' Defense? — Cup Preview",
+    "meta": {
+      "matchId": "1639313",
+      "league": "Cup",
+      "matchup": "Rudes vs Segesta Sisak",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rudes' three-match top-flight shutout streak and superior creative core favor a narrow home victory or controlled 90-minute stalemate against cup giant-killers Segesta Sisak.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Rudes' HNL defensive organization and ŠC Rudeš home edge while covering cup-tie stalemate risk (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.25 combined lambda expectancy and a 60.9% Poisson baseline for two or fewer goals (Confidence: Moderate, Value: Moderate)",
+      "Segesta Sisak transition or set-piece counter led by Petar Brlek and Tonći Kukoč-Petraello if Rudes rotates in the cup (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1639313",
+      "league": "Cup",
+      "homeTeam": "Rudes",
+      "awayTeam": "Segesta Sisak",
+      "match_time": "13:00",
+      "match_highlight": "Can Rudes' three-match clean-sheet streak withstand Cup giant-killers Segesta Sisak?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1639313,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Rudes' leading 1:0 home-win script and the 1:1 stalemate branch because narrow 0.15 lambda separation and unconfirmed cup lineups make a single call unnecessarily exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.25 gives Under 2.5 a 60.9% Poisson baseline alongside Rudes' three straight 1:0 wins and Segesta's 0:1 loss to Opatija."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 mirrors Rudes' exact scoreline across three consecutive HNL victories, while 1:1 captures the top 13.3% Poisson stalemate scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest-density counts in the goal distribution, matching 1:1 and 1:0."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half fits knockout pacing before either a second-half Rudes breakthrough or a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:30:56 UTC"
+}
