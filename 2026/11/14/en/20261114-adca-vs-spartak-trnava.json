@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647173,
+    "matchup": "Čadca vs Spartak Trnava",
+    "home_team": "Čadca",
+    "away_team": "Spartak Trnava",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-adca-vs-spartak-trnava/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Čadca vs Spartak Trnava Prediction & Match Analysis: Can Cup Underdogs Exploit Trnava Absences?",
+    "meta": {
+      "matchId": "1647173",
+      "league": "Cup",
+      "matchup": "Čadca vs Spartak Trnava",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Spartak Trnava's two-division Niké Liga superiority points to a controlled away victory in regulation, with the draw retained given international absences in the visitors' spine.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers a disciplined top-flight victory and a tight 90-minute stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by the 2.25 lambda anchor and missing playmaker creativity (Confidence: Moderate, Value: Moderate)",
+      "1:1 Regulation Draw if Čadca strike early and hold compact shape late (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647173",
+      "league": "Cup",
+      "homeTeam": "Čadca",
+      "awayTeam": "Spartak Trnava",
+      "match_time": "12:00",
+      "match_highlight": "Top-flight Spartak Trnava face buoyant hosts without Nwadike and Moistsrapishvili.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647173,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a professional 0:2 away win driven by two-tier class superiority and a 1:1 draw caused by Trnava's international absences, where a single away call leaves regulation stalemate risk exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 2.25 combined lambda anchor, a 60.9% Under 2.5 Poisson baseline, and Trnava missing creator Giorgi Moistsrapishvili."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 mirrors Trnava's disciplined previous cup win at Piešťany, while 1:1 reflects the modal Poisson outcome if Čadca capitalize on Nwadike's absence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the clear statistical mode matching both 0:2 and 1:1, with three goals covering a 1:2 away comeback branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Čadca's fresh legs should keep the first half level before Trnava's fitness and depth decide the second half or settle into a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:29:08 UTC"
+}
