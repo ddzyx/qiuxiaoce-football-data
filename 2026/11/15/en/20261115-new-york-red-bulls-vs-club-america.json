@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649958,
+    "matchup": "New York Red Bulls vs Club America",
+    "home_team": "New York Red Bulls",
+    "away_team": "Club America",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-15 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-new-york-red-bulls-vs-club-america/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "New York Red Bulls vs Club America Prediction & Match Analysis: Depleted Squads Clash — Scoreline Preview",
+    "meta": {
+      "matchId": "1649958",
+      "league": "Friendlies Clubs",
+      "matchup": "New York Red Bulls vs Club America",
+      "matchTime": "2026-11-15 00:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Home continuity and lower senior-core attrition tilt New York Red Bulls toward a narrow win or stalemate against a heavily depleted Club America lineup.",
+    "possibilityAssessment": [
+      "Primary Thesis (Home Win / Draw): New York Red Bulls hold a 1.20 to 1.05 lambda edge and exploit Club America's missing goalkeeper and defensive starters while respecting America's remaining attacking spine (Confidence: Low, Value: Moderate)",
+      "Secondary Angle (Under 2.5 Goals): Combined 2.25 goal expectancy and fourteen combined international call-ups suppress open-play scoring efficiency (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle (1:1 Draw): Henry Martin and Alejandro Zendejas retain enough final-third quality to equalize against experimental second-half Red Bulls rotations (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649958",
+      "league": "Friendlies Clubs",
+      "homeTeam": "New York Red Bulls",
+      "awayTeam": "Club America",
+      "match_time": "00:30",
+      "match_highlight": "Rotated FIFA-window squads meet as depleted Club America visit Red Bulls.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649958,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 New York victory over America's patched-up defense and a cautious 1:1 draw, as heavy friendly rotation on both benches makes a single outcome overly rigid."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Under 2.5 baseline), missing wide creators on both sides, and low-risk exhibition incentives."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top Poisson clusters adjusted for Club America's missing goalkeeper and defenders alongside Henry Martin and Zendejas's equalizing threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Follows the two leading total-goal densities (26.7% for 2 goals, 23.7% for 1 goal) in a restrained friendly tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Unfamiliar rotated lineups favor a level first half before either New York's set-piece edge breaks through or second-half substitutions lock in a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:22:40 UTC"
+}
