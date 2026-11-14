@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618457,
+    "matchup": "Excelsior Maassluis vs Rijnvogels",
+    "home_team": "Excelsior Maassluis",
+    "away_team": "Rijnvogels",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-excelsior-maassluis-vs-rijnvogels/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Excelsior Maassluis vs Rijnvogels Prediction & Match Analysis: Defense vs Firepower — Scoreline Preview",
+    "meta": {
+      "matchId": "1618457",
+      "league": "Derde Divisie",
+      "matchup": "Excelsior Maassluis vs Rijnvogels",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Home Win / Draw alongside Over 2.5 goals captures Excelsior Maassluis's 0.83 goals-conceded home discipline while accounting for Rijnvogels' 2.67 goals-per-match firepower.",
+    "possibilityAssessment": [
+      "Excelsior Maassluis holds a 2:1 home edge through superior defensive prevention (0.83 vs 1.33 GA/pg) and an away-fan ban at Sportpark Dijkpolder (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals is supported by a combined Poisson expectancy of 3.37 and both clubs' high-scoring November 7 results (Confidence: Moderate, Value: High)",
+      "A 2:2 draw hedge protects against Rijnvogels' second-half transition surges exposing the hosts' post-Ringeling backline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618457",
+      "league": "Derde Divisie",
+      "homeTeam": "Excelsior Maassluis",
+      "awayTeam": "Rijnvogels",
+      "match_time": "13:30",
+      "match_highlight": "Tight Maassluis defense faces Rijnvogels' 2.67-goal attack without away fans.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618457,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Excelsior Maassluis win built on home control and 0.83 GA/pg alongside a 2:2 draw driven by Rijnvogels' 2.67 GF/pg attack, as neither side holds decisive single-outcome certainty."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.37 combined goal expectancy (65.5% Poisson Over 2.5) and Rijnvogels' 4.00-goal-per-match league average."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Excelsior Maassluis's home edge and June play-off margin, while 2:2 captures Rijnvogels' attacking ceiling against a backline adjusting post-Ringeling."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.9%) and four goals (18.5%) are the top Over 2.5 outcomes in the 3.37-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects a cautious opening half before Excelsior Maassluis breaks through late, while Win-Draw covers an early home lead erased by Rijnvogels' second-half rally."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:43:22 UTC"
+}
