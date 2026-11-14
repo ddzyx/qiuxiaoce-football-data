@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549555,
+    "matchup": "Alianza Lima vs FC Cajamarca",
+    "home_team": "Alianza Lima",
+    "away_team": "FC Cajamarca",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-14 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-alianza-lima-vs-fc-cajamarca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Alianza Lima vs FC Cajamarca Prediction & Match Analysis: Can Hosts Overcome Absences? — Scoreline Preview",
+    "meta": {
+      "matchId": "1549555",
+      "league": "Primera División",
+      "matchup": "Alianza Lima vs FC Cajamarca",
+      "matchTime": "2026-11-14 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Alianza Lima's superior home attacking quality should outlast FC Cajamarca's leaky defense for a narrow win or draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Stalemate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549555",
+      "league": "Primera División",
+      "homeTeam": "Alianza Lima",
+      "awayTeam": "FC Cajamarca",
+      "match_time": "21:00",
+      "match_highlight": "Alianza's depleted backline tests Cajamarca's desperate survival push at Matute.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549555,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a 2:1 home victory and a 1:1 stalemate, as confirmed home absences and playoff rotation caution make an uncovered single Home Win unnecessarily exposed despite Cajamarca's poor away record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.13 combined goal expectancy (1.91 vs 1.22), a 60.4% Poisson Over 2.5 baseline, and FC Cajamarca conceding 2.31 goals per Clausura match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Alianza Lima's attacking edge over Cajamarca's porous defense with one visiting counter-strike, while 1:1 covers the top Poisson density and May's Apertura draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3% Poisson baseline) and 2 goals (21.4%) capture the top two scoring clusters aligned with 2:1 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win expects Alianza's depth to break down Cajamarca after a tight first half, while Win-Draw covers an early home lead pegged back amid second-half rotation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 20:42:52 UTC"
+}
