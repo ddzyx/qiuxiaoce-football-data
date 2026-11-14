@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1550951,
+    "matchup": "Club Queretaro vs Monterrey",
+    "home_team": "Club Queretaro",
+    "away_team": "Monterrey",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-14 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-club-queretaro-vs-monterrey/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Club Queretaro vs Monterrey: Expected Goals (xG), Squad Absences & Match Analysis",
+    "meta": {
+      "matchId": "1550951",
+      "league": "Liga MX",
+      "matchup": "Club Queretaro vs Monterrey",
+      "matchTime": "2026-11-14 23:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Club Queretaro can avoid defeat at La Corregidora as Monterrey arrive with seven verified absences and a four-loss road record.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by a 1:1 stalemate or 2:1 home breakthrough against a depleted away XI (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals as missing strikers and playmakers trim expected output into the 2.50 to 2.65 goal band (Confidence: Moderate, Value: Moderate)",
+      "Late Monterrey wing breakthrough if Lucas Ocampos and Diego Rossi exploit Homenchenko's midfield absence (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550951",
+      "league": "Liga MX",
+      "homeTeam": "Club Queretaro",
+      "awayTeam": "Monterrey",
+      "match_time": "23:00",
+      "match_highlight": "Seven Monterrey absences test Rayados against Queretaro's 1.60 xG home attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1550951,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:1 draw script and a 2:1 home upset, avoiding a single home call because Homenchenko is suspended and Queretaro waste 67.5% of big chances."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Absence of Cuypers, Durdevic, Torres, Corona, and Homenchenko dampens finishing quality enough to tilt the distribution marginally under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 reflects both teams' 14.3% venue clean-sheet rates and depleted attacks, while 2:1 captures Queretaro capitalizing on Monterrey's late-game road fade."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Concentrated around a two-goal stalemate with a live three-goal branch if missing defenders force open late transitions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides draw 42.9% of venue first halves, and Monterrey have zero wins from five half-time stalemates this season."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:08:23 UTC"
+}
