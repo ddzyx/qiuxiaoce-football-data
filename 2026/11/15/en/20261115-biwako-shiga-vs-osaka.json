@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555808,
+    "matchup": "Biwako Shiga vs Osaka",
+    "home_team": "Biwako Shiga",
+    "away_team": "Osaka",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 09:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-biwako-shiga-vs-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Biwako Shiga vs Osaka Prediction & Match Analysis: Can Shiga Contain Osaka's Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1555808",
+      "league": "J3 League",
+      "matchup": "Biwako Shiga vs Osaka",
+      "matchTime": "2026-11-15 09:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Osaka are projected to secure a regulation-time Away Win over Biwako Shiga as their 1.69 goals-per-match attack targets a host defense conceding 1.75 goals per game.",
+    "possibilityAssessment": [
+      "Away Win built on Osaka's five-match J3 winning streak and 1.72 vs 1.09 goal-based lambda edge (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 2.81 combined lambda total and 53.3% Poisson probability for three or more goals (Confidence: Moderate, Value: Moderate)",
+      "Clean-sheet 0:2 away win hedge if Shiga's four scoreless outings in eight league matches persist against Osaka's 1.00 goals-conceded rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555808",
+      "league": "J3 League",
+      "homeTeam": "Biwako Shiga",
+      "awayTeam": "Osaka",
+      "match_time": "09:00",
+      "match_highlight": "Osaka's 1.69-goal attack tests Shiga's 1.75-goal concession rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555808,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by Osaka's 1.72 vs 1.09 lambda edge, five-game J3 winning streak, and 1:2 / 0:2 scoreline projections."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.81 combined goal expectancy and 53.3% Poisson probability for 3+ goals align with Osaka's recent 2:1 winning pattern."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 reflects Osaka's recent 2:1 run and 54.5% BTTS rate, while 0:2 covers Shiga failing to break Osaka's 1.00 GA/match defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals match the 1:2 primary script and 2.81 lambda_total, while 2 goals capture the 23.8% Poisson mode via a 0:2 shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "From Shiga's home perspective, Osaka can either lead from the first half or break a level interval in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:38:12 UTC"
+}
