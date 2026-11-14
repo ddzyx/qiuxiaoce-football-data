@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528973,
+    "matchup": "Georgia vs Hungary",
+    "home_team": "Georgia",
+    "away_team": "Hungary",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-14 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-georgia-vs-hungary/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Georgia vs Hungary Prediction & Match Analysis: Can Depleted Hosts Crack Hungary? — Scoreline Preview",
+    "meta": {
+      "matchId": "1528973",
+      "league": "UEFA Nations League",
+      "matchup": "Georgia vs Hungary",
+      "matchTime": "2026-11-14 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win (leaning Hungary) in an Under 2.5 Goals battle as Georgia's depleted attack faces Hungary's organized 4-2-3-1.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Hungary's clinical edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 0.87 combined lambda expectancy (Confidence: High, Value: Moderate)",
+      "0:0 Goalless Attrition Hedge backed by Georgia's 0.50 GA/gm home resistance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528973",
+      "league": "UEFA Nations League",
+      "homeTeam": "Georgia",
+      "awayTeam": "Hungary",
+      "match_time": "17:00",
+      "match_highlight": "Can Kvaratskhelia-less Georgia break down Szoboszlai's Hungary?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528973,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Hungary's 0:1 breakthrough led by Szoboszlai and Kerkez while retaining the 0:0 stalemate script created by Georgia's 0.50 GA/gm home defense, as a single away call carries too much goalless draw risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 0.87 total goal-expectancy lambda and seven Under 2.5 results across both sides' eight combined group games."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "0:1 reflects Hungary's superior conversion against depleted hosts, while 0:0 captures Georgia's tight defensive block and Hungary's modest 0.75 goals/game rate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "Total scoring expectancy sits heavily concentrated in the zero-to-one goal band given Georgia's four-game scoring drought."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides are 2-for-2 in venue-specific half-time draws, pointing to a level interval before either a late Hungarian winner or a 0:0 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 16:31:44 UTC"
+}
