@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1579529,
+    "matchup": "Ijsselmeervogels vs Barendrecht",
+    "home_team": "Ijsselmeervogels",
+    "away_team": "Barendrecht",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-ijsselmeervogels-vs-barendrecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ijsselmeervogels vs Barendrecht Tactical Breakdown: Defensive Steel Against Road Firepower",
+    "meta": {
+      "matchId": "1579529",
+      "league": "Tweede Divisie",
+      "matchup": "Ijsselmeervogels vs Barendrecht",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ijsselmeervogels on the Home Win / Draw line behind their 0.83 goals-conceded-per-match defense against Barendrecht's leaky 1.58 GA/match back line.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Ijsselmeervogels' 0.83 GA/game structure and Barendrecht's 1.75 GF/game draw threat (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 2.87 combined lambda and 57.5% BTTS rate behind a 2:1 primary scoreline (Confidence: Moderate, Value: Moderate)",
+      "Contingency draw hedge at 1:1 if Barendrecht's 52.3% possession limits Ijsselmeervogels' second-half acceleration (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579529",
+      "league": "Tweede Divisie",
+      "homeTeam": "Ijsselmeervogels",
+      "awayTeam": "Barendrecht",
+      "match_time": "14:00",
+      "match_highlight": "Ijsselmeervogels' 0.83 GA/game defense faces Barendrecht's 1.75 GF/game attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579529,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Ijsselmeervogels' 2:1 home edge from superior defense and a 1:1 draw from Barendrecht's 1.75 GF/match firepower, since a slim +0.29 lambda gap makes excluding the draw risky."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.87 combined goal lambda, 54.6% Poisson Over 2.5 probability, and Barendrecht's 1.75 GF / 1.58 GA open matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Ijsselmeervogels exploiting Barendrecht's 1.58 GA/match concession rate for a 2:1 win, with 1:1 covering the top 11.6% Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns directly with the 2:1 primary and 1:1 secondary scorelines across a 2.87 goal expectancy where 2 and 3 goals hold the top Poisson densities."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects both sides' tendency toward level first halves before Ijsselmeervogels push clear after the break or settle for a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 11:36:34 UTC"
+}
