@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640381,
+    "matchup": "Bsk Bijelo Brdo vs HNK Gorica",
+    "home_team": "Bsk Bijelo Brdo",
+    "away_team": "HNK Gorica",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-bsk-bijelo-brdo-vs-hnk-gorica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bsk Bijelo Brdo vs HNK Gorica Prediction & Match Analysis: Can Krznar's Debut Halt Cup Upset?",
+    "meta": {
+      "matchId": "1640381",
+      "league": "Cup",
+      "matchup": "Bsk Bijelo Brdo vs HNK Gorica",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Bsk Bijelo Brdo to avoid regulation-time defeat against a transitioning HNK Gorica defense on artificial turf.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by a 1:1 knockout stalemate or 1:0 BSK win on home synthetic grass (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.25 combined lambda and 60.9% Poisson density for 0-2 goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency Away Win if Bruno Bogojević and Domagoj Pavičić exploit BSK's recent two-match league defensive dip late on (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640381",
+      "league": "Cup",
+      "homeTeam": "Bsk Bijelo Brdo",
+      "awayTeam": "HNK Gorica",
+      "match_time": "12:00",
+      "match_highlight": "Damir Krznar's Gorica debut faces artificial-turf Cup pressure at Bijelo Brdo.",
+      "ai_confidence": "Low",
+      "fixtureId": 1640381,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a cautious 1:1 Cup stalemate under new coach Damir Krznar and a 1:0 BSK upset on artificial turf, avoiding a fragile single call given BSK's own recent two-match defensive dip."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Grounded in a 2.25 combined goal lambda, Gorica's 10-goal output across 13 HNL matches, and knockout caution prioritizing defensive shape."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% as both sides trade single breakthroughs, while 1:0 at 12.6% captures Gorica's attack stalling on synthetic grass."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) top the Poisson distribution and align directly with tight 1:1 and 1:0 regulation-time scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cautious Cup tactics under Krznar point to a level half-time before either remaining deadlocked at 1:1 or tipping late toward BSK at 1:0."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:25:34 UTC"
+}
