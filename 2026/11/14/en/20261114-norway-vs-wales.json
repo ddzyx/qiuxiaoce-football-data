@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528972,
+    "matchup": "Norway vs Wales",
+    "home_team": "Norway",
+    "away_team": "Wales",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-14 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-norway-vs-wales/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Norway vs Wales Prediction & Match Analysis: Haaland vs Wales's Reshuffled Defense — xG Preview",
+    "meta": {
+      "matchId": "1528972",
+      "league": "UEFA Nations League",
+      "matchup": "Norway vs Wales",
+      "matchTime": "2026-11-14 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norway hold a clear home advantage with Erling Haaland and Martin Ødegaard confirmed to start against a Wales side missing suspended Ben Cabango and Sorba Thomas plus injured striker Kieffer Moore.",
+    "possibilityAssessment": [
+      "Norway Home Win driven by a 1.42 vs 0.69 xG/match gap and confirmed full-strength front four against a depleted Welsh backline (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and 2:1 Home Win backed by Norway's 100% Over 2.5 record in Group A4 and 0% clean-sheet rate alongside Wales's 1.69 xGA/match (Confidence: Moderate, Value: Moderate)",
+      "2:0 Clean-Sheet Home Win hedge if Wales's Group A4 away scoring drought (0 goals in 2 road trips without Kieffer Moore) persists in Oslo (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528972",
+      "league": "UEFA Nations League",
+      "homeTeam": "Norway",
+      "awayTeam": "Wales",
+      "match_time": "17:00",
+      "match_highlight": "Haaland and Ødegaard face a Cabango-less Wales defense at Ullevaal.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528972,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Norway's +270 Elo edge, 1.42 xG/match, and confirmed starting quartet justify a single Home Win over a Wales side missing Cabango, Thomas, and Moore."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Norway have gone Over 2.5 in all four Group A4 matches while Wales concede 1.69 xGA/match, pushing lineup-adjusted expectancy above 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Norway's two-goal home ceiling against a weakened defense plus their own clean-sheet vulnerability, while 2:0 covers Wales's zero-goal away trend."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with Norway's 4-for-4 Over 2.5 Group A4 trend, while two goals represent the top unadjusted Poisson bucket if Wales fail to score."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Norway score two-thirds of their goals in the first half (Win-Win), while Wales's 3-of-4 half-time draw record makes a second-half breakthrough (Draw-Win) the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 16:27:46 UTC"
+}
