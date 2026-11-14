@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636983,
+    "matchup": "Ellas Syros vs Panthrakikos",
+    "home_team": "Ellas Syros",
+    "away_team": "Panthrakikos",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-ellas-syros-vs-panthrakikos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ellas Syros vs Panthrakikos Tactical Breakdown & Preview: Six Visiting Absences Tilt Syros Clash",
+    "meta": {
+      "matchId": "1636983",
+      "league": "Super League 2",
+      "matchup": "Ellas Syros vs Panthrakikos",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ellas Syros are projected to defeat a six-absentee Panthrakikos side at Ermoupoli, converging on a controlled 2:0 home victory.",
+    "possibilityAssessment": [
+      "Ellas Syros secure a 2:0 home victory by exploiting Panthrakikos's missing defensive spine while preserving their 0.90 goals-conceded baseline (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals lands as Panthrakikos's injury-hit attack struggles to penetrate without Santiago Patroni (Confidence: Moderate, Value: Moderate)",
+      "Ellas Syros edge a 2:1 contest if returning midfielder Andreas Athanasakopoulos sparks a visiting transition goal before home depth prevails (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636983",
+      "league": "Super League 2",
+      "homeTeam": "Ellas Syros",
+      "awayTeam": "Panthrakikos",
+      "match_time": "12:00",
+      "match_highlight": "Depleted Panthrakikos defense faces in-form Bullari and Ochowechi on Syros.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636983,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Ellas Syros's 1.60 goals scored and 0.90 conceded per game align with a 2:0 home win against Panthrakikos's six confirmed defensive and midfield absentees."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.45 combined lambda expectancy, 55.6% Poisson Under 2.5 share, and Patroni's absence support a two-goal ceiling."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 reflects home clean-sheet discipline against depleted visitors, while 2:1 covers a counter-attacking goal sparked by returning midfielder Athanasakopoulos."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two and three goals represent the top Poisson probability bins (25.9% and 21.2%) matching the 2:0 and 2:1 home-win scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Ellas Syros can strike early against Panthrakikos's reshaped spine (Win-Win) or break down a compact low block after half-time fatigue sets in (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 00:44:08 UTC"
+}
