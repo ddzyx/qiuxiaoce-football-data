@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618463,
+    "matchup": "DVS 33 Ermelo vs Purmersteijn",
+    "home_team": "DVS 33 Ermelo",
+    "away_team": "Purmersteijn",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-dvs-33-ermelo-vs-purmersteijn/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "DVS 33 Ermelo vs Purmersteijn Tactical Breakdown & Match Analysis: Away Leaks vs Home Struggles",
+    "meta": {
+      "matchId": "1618463",
+      "league": "Derde Divisie",
+      "matchup": "DVS 33 Ermelo vs Purmersteijn",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Purmersteijn holds the stronger 12-match Derde Divisie scoring and points profile for an away win, though covering the draw and backing Over 2.5 goals respects their road defensive leakage.",
+    "possibilityAssessment": [
+      "Goal-based Poisson modeling favors Purmersteijn at 51.1% win probability with a 3.58 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals carries strong 69.5% baseline density alongside a 68.0% Both-Teams-to-Score profile across two high-conceding defenses (Confidence: Moderate, Value: High)",
+      "A 2:2 high-scoring draw acts as the primary hedge if Purmersteijn again surrenders control away from home (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618463",
+      "league": "Derde Divisie",
+      "homeTeam": "DVS 33 Ermelo",
+      "awayTeam": "Purmersteijn",
+      "match_time": "14:00",
+      "match_highlight": "Purmersteijn's 2.08-goal attack tests DVS 33 Ermelo's leaky home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618463,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win covers both the leading 1:2 Purmersteijn win script and the 2:2 draw script driven by Purmersteijn's winless tracked away league run, whereas a solo Away Win leaves road defensive concessions unprotected."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average 3.58 combined goals per Derde Divisie match (1.50 vs 2.08 GF and 2.08 vs 1.50 GA), pushing Over 2.5 probability to 69.5%."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 is the modal Poisson scoreline (9.0%) reflecting Purmersteijn's superior attack, while 2:2 (6.8%) captures DVS 33 Ermelo exploiting the visitors' away defensive lapses."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.3%) and four (19.1%) total goals lead the Poisson distribution and match both sides' recent open league results."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss reflects Purmersteijn's 62.5% second-half goal concentration in their tracked sample, while Loss-Draw covers their 50% rate of failing to hold half-time leads."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 12:15:22 UTC"
+}
