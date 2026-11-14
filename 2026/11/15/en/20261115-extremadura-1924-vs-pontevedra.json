@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570828,
+    "matchup": "Extremadura 1924 vs Pontevedra",
+    "home_team": "Extremadura 1924",
+    "away_team": "Pontevedra",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-extremadura-1924-vs-pontevedra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Extremadura 1924 vs Pontevedra Prediction & Match Analysis: Can Home Attack Break Alba-Less Defense?",
+    "meta": {
+      "matchId": "1570828",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "Extremadura 1924 vs Pontevedra",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Extremadura 1924 to avoid defeat via Home Win / Draw alongside an Over 2.5 goals lean, anchored on a 2:1 primary projection and 1:1 draw hedge.",
+    "possibilityAssessment": [
+      "Home Win / Draw (1X2 Primary Thesis): Converges on a 2:1 home victory as the primary script with a 1:1 stalemate covering the balanced Poisson expectancy gap (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (Total Goals Angle): Supported by a 2.73 lambda total, Extremadura's 3.27 league goals-per-game tempo, and dual centre-back suspensions for Diego Espejo and David Alba (Confidence: Moderate, Value: Moderate)",
+      "Late Fitness & Officiating Contingency: An absence for doubtful captain Kike Márquez combined with strict referee Carlos Castell could compress tempo toward a 1:1 draw (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570828",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "Extremadura 1924",
+      "awayTeam": "Pontevedra",
+      "match_time": "11:00",
+      "match_highlight": "High-scoring Extremadura test Pontevedra's depleted central defense in Almendralejo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570828,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough driven by Extremadura's 1.91 goals-per-game rate against Alba-less Pontevedra and a 1:1 stalemate; a single Home Win call would be weaker given Kike Márquez's fitness doubt and Pontevedra's four-match unbeaten league run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 2.73 Poisson lambda total, Extremadura's 1.91 scored and 1.36 conceded per match, and centre-back suspensions for both Diego Espejo and David Alba."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects home firepower overcoming a reshuffled away back four while conceding once without Espejo; 1:1 covers the modal 12.1% Poisson stalemate if Pontevedra's 4-4-2 slows the hosts."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Personnel-adjusted projection prioritizes 3 goals via open second-half transitions, with 2 goals retaining strong Poisson support (24.3%) as the compact draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Pontevedra's 4-4-2 discipline keeps the first half level before second-half space decides whether Extremadura break through (Draw-Win) or share the points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:53:15 UTC"
+}
