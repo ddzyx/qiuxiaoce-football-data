@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649582,
+    "matchup": "Deportivo Recoleta vs Libertad Asuncion",
+    "home_team": "Deportivo Recoleta",
+    "away_team": "Libertad Asuncion",
+    "league": "Copa Paraguay",
+    "kickoff_utc": "2026-11-14 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-deportivo-recoleta-vs-libertad-asuncion/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo Recoleta vs Libertad Asuncion Prediction & Match Analysis: Can Recoleta's Low Block Survive?",
+    "meta": {
+      "matchId": "1649582",
+      "league": "Copa Paraguay",
+      "matchup": "Deportivo Recoleta vs Libertad Asuncion",
+      "matchTime": "2026-11-14 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Libertad Asuncion's superior Clausura form, Elo edge, and finishing efficiency position them to avoid defeat in 90 minutes, with the draw retained for single-leg penalty-shootout risk.",
+    "possibilityAssessment": [
+      "Draw / Away Win backing Libertad Asuncion to win or hold parity in 90 minutes on Elo and H2H superiority (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by a 2.25 combined lambda, 60.9% Poisson under rate, and semifinal caution (Confidence: Moderate, Value: High)",
+      "Draw-Draw HT/FT covering a 90-minute low-block stalemate settled directly on penalties (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649582",
+      "league": "Copa Paraguay",
+      "homeTeam": "Deportivo Recoleta",
+      "awayTeam": "Libertad Asuncion",
+      "match_time": "21:00",
+      "match_highlight": "Libertad's clinical finishing tests Recoleta's low block in single-leg semifinal.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649582,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win covers both Libertad breaking through for a 0:1 victory and Recoleta forcing a 1:1 shootout stalemate, whereas a single call would ignore either Libertad's 3-0 H2H edge or single-leg penalty incentives."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal lambda (60.9% Under 2.5 probability), Recoleta's 61.5% big-chance waste rate, and strict semifinal officiating point to two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Libertad's defensive control and finishing edge breaking a low block, while 1:1 captures the top Poisson density if Recoleta strikes on transition before parity holds."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two Poisson buckets around the 2.25 lambda total, directly matching 1:1 and 0:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Draw-Loss projects a tight scoreless first half before Libertad's quality breaks through after the interval, while Draw-Draw covers Recoleta holding out across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 20:53:20 UTC"
+}
