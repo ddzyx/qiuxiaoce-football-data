@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618462,
+    "matchup": "Zwaluwen vs Blauw Geel",
+    "home_team": "Zwaluwen",
+    "away_team": "Blauw Geel",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-zwaluwen-vs-blauw-geel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zwaluwen vs Blauw Geel Tactical Breakdown & Probabilistic Modeling: Can Home Control Break Parity?",
+    "meta": {
+      "matchId": "1618462",
+      "league": "Derde Divisie",
+      "matchup": "Zwaluwen vs Blauw Geel",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Zwaluwen's superior points efficiency and disciplined 1:0 home blueprint favor the hosts to avoid defeat, while a near-zero goal-expectancy gap makes Home Win / Draw under 2.5 goals the most coherent projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Zwaluwen's home clean-sheet edge alongside Blauw Geel's 1.33 goals-per-game scoring parity (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligns with five straight low-scoring home fixtures for Zwaluwen in league and cup play (Confidence: Moderate, Value: Moderate)",
+      "Early transition strike by Blauw Geel forcing Zwaluwen out of their compact 1:0 home shell (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618462",
+      "league": "Derde Divisie",
+      "homeTeam": "Zwaluwen",
+      "awayTeam": "Blauw Geel",
+      "match_time": "13:00",
+      "match_highlight": "Zwaluwen's tight 1:0 home control meets Blauw Geel's scoring parity.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618462,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:0 Zwaluwen home-control script and the 1:1 stalemate branch, because a 0.05 goal-expectancy gap and zero home goal difference make a single win call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Zwaluwen have recorded five consecutive home matches with two or fewer total goals across league and cup play, offsetting a 2.71 season-wide lambda."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Zwaluwen's repeated home league winning template, while 1:1 is the top Poisson baseline scoreline if Blauw Geel match their 1.33 goals-per-match rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal Poisson total at 24.4% and 1 goal captures Zwaluwen's recurring 1:0 home match profile."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win aligns with Zwaluwen's early home scoring and clean-sheet lead protection, while Draw-Draw covers a cagey 1:1 stalemate across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:18:49 UTC"
+}
