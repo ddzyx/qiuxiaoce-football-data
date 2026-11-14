@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1616166,
+    "matchup": "Playas Sotavento vs Lanzarote",
+    "home_team": "Playas Sotavento",
+    "away_team": "Lanzarote",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-playas-sotavento-vs-lanzarote/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Playas Sotavento vs Lanzarote Prediction & Match Analysis: Can Winless Hosts Force Another Draw?",
+    "meta": {
+      "matchId": "1616166",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Playas Sotavento vs Lanzarote",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Lanzarote's clear goal-expectancy and defensive advantage over winless Playas Sotavento favors Draw / Away Win alongside Under 2.5 goals, though unverified Tercera RFEF lineups keep confidence Low.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Lanzarote's 56.2% baseline win edge while respecting their 60% draw rate and the hosts' recent 1:1 containment (Confidence: Low, Value: Moderate)",
+      "Under 2.5 aligns with Lanzarote's 2.20 average match goals and Playas Sotavento failing to score in three of five home games (Confidence: Low, Value: Moderate)",
+      "Draw-Loss HT/FT reflects a patient first-half stalemate broken by Lanzarote's deeper second-half quality (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616166",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Playas Sotavento",
+      "awayTeam": "Lanzarote",
+      "match_time": "12:00",
+      "match_highlight": "Can returning Lanzarote attackers breach winless Sotavento without another stalemate?",
+      "ai_confidence": "Low",
+      "fixtureId": 1616166,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Lanzarote's 1.75 vs 0.95 lambda edge and Sotavento's 2.50 goals conceded per game support an away win, while Lanzarote's six draws in ten games and the hosts' three recent 1:1 ties merit retaining the draw over a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Despite a 2.70 combined lambda skewed by two away host collapses, Lanzarote average 1.00 scored and 1.20 conceded per match and Sotavento have failed to score in three of five home fixtures."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Sotavento conceding 2+ goals in four of five home games while blanking in three, whereas 1:1 covers Lanzarote's recurring single-goal stalemates."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals holds the top 24.5% Poisson share and matches both 0:2 and 1:1, with three goals (22.0%) covering an open 1:2 late-goal scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tight first half in Morro Jable leaves the main second-half fork between a Lanzarote breakthrough (Draw-Loss) and a shared stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 00:37:12 UTC"
+}
