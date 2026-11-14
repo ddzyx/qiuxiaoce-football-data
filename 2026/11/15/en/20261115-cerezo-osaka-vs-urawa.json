@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648035,
+    "matchup": "Cerezo Osaka vs Urawa",
+    "home_team": "Cerezo Osaka",
+    "away_team": "Urawa",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-15 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-cerezo-osaka-vs-urawa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cerezo Osaka vs Urawa Tactical Breakdown & Match Analysis: Can Hosts Overturn a 2-0 Cup Deficit?",
+    "meta": {
+      "matchId": "1648035",
+      "league": "J-League Cup",
+      "matchup": "Cerezo Osaka vs Urawa",
+      "matchTime": "2026-11-15 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Urawa to avoid defeat in a controlled Under 2.5 second leg, led by a 1:1 stalemate and a 0:1 away counter-attacking win.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win reflects Urawa's rested frontline, 2-0 aggregate control, and Cerezo's verified absences (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 total goals aligns with a 2.25 lambda total and four straight low-scoring meetings (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Late 1:2 away breakaway if Cerezo score first and sacrifice defensive structure after 70 minutes (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648035",
+      "league": "J-League Cup",
+      "homeTeam": "Cerezo Osaka",
+      "awayTeam": "Urawa",
+      "match_time": "06:00",
+      "match_highlight": "Depleted Cerezo must chase goals against Urawa's rested counter-attacking frontline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648035,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 game-management draw and a 0:1 away counter win, whereas a single call understates either Urawa's 2-0 cushion or Cerezo's late defensive risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.25 lambda total, Urawa's 66.7% cup clean-sheet rate, and four straight H2H matches producing two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 pairs home urgency with Urawa's transition threat, while 0:1 captures Cerezo failing to break a compact block."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the Poisson modal total (26.7%), with one goal closely following (23.7%) if Urawa shut out depleted hosts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both scripts project a tight level first half matching leg one's 0:0 interval before ending in a 1:1 draw or late 0:1 away win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:53:34 UTC"
+}
