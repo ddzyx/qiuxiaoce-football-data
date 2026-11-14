@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646834,
+    "matchup": "Trefelin vs Coedpoeth United",
+    "home_team": "Trefelin",
+    "away_team": "Coedpoeth United",
+    "league": "Welsh Cup",
+    "kickoff_utc": "2026-11-14 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-trefelin-vs-coedpoeth-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Trefelin vs Coedpoeth United Prediction & Match Analysis: Can Tier 4 Giant-Killers Force a Cup Upset?",
+    "meta": {
+      "matchId": "1646834",
+      "league": "Welsh Cup",
+      "matchup": "Trefelin vs Coedpoeth United",
+      "matchTime": "2026-11-14 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Trefelin's home tier advantage makes a narrow victory the leading script, though their top-flight scoring struggles require covering the regulation draw against cup giant-killers Coedpoeth United.",
+    "possibilityAssessment": [
+      "Trefelin Win or Draw at Ynys Park via three-tier conditioning edge and compact cup hedge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by a 2.25 combined lambda and 60.9% sub-three-goal Poisson density (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough or 1:1 stalemate driven by Coedpoeth transition threats against a leaky host defense (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646834",
+      "league": "Welsh Cup",
+      "homeTeam": "Trefelin",
+      "awayTeam": "Coedpoeth United",
+      "match_time": "17:30",
+      "match_highlight": "Struggling Tier 1 hosts Trefelin test Tier 4 cup giant-killers Coedpoeth United.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646834,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the favored 1:0 home win driven by Trefelin's three-tier quality edge and the 1:1 draw script given Trefelin's 1-3-12 league slump and Coedpoeth's Round Two upset of Guilsfield, whereas a single call would ignore severe top-flight defensive leakage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda (1.20 vs 1.05), a 60.9% Poisson probability below three goals, and Trefelin's 0.56 league goals-per-game output."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two Poisson scoreline densities (12.6% and 13.3%), balancing Trefelin's home control against Coedpoeth United's counter-attacking cup resilience."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the two highest total-goal Poisson buckets (26.7% and 23.7%) around a tight knockout match profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a disciplined, goalless first half before Trefelin either break through late via superior fitness or get held to a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:26:56 UTC"
+}
