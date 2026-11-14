@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549863,
+    "matchup": "Águilas Doradas vs Independiente Medellin",
+    "home_team": "Águilas Doradas",
+    "away_team": "Independiente Medellin",
+    "league": "Primera A",
+    "kickoff_utc": "2026-11-14 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-guilas-doradas-vs-independiente-medellin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Águilas Doradas vs Independiente Medellin Prediction: Can Playmaker Absences Tilt Fecha 19?",
+    "meta": {
+      "matchId": "1549863",
+      "league": "Primera A",
+      "matchup": "Águilas Doradas vs Independiente Medellin",
+      "matchTime": "2026-11-14 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Águilas Doradas are projected to avoid defeat via a narrow 1:0 victory or 1:1 draw in a tight Under 2.5 Primera A finale.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Águilas Doradas's must-win home trajectory and Under 2.5 defensive restraint (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by Medellin's missing playmakers and four recent low-scoring home-side fixtures (Confidence: Moderate, Value: High)",
+      "1:1 stalemate hedge driven by Daniel Cataño and Jeison Medina's transition threat if hosts overcommit late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549863",
+      "league": "Primera A",
+      "homeTeam": "Águilas Doradas",
+      "awayTeam": "Independiente Medellin",
+      "match_time": "20:30",
+      "match_highlight": "Águilas Doradas chase must-win points against playmaker-depleted Independiente Medellin.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549863,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:0 home win script fueled by Águilas's urgency and intact squad alongside the 1:1 draw script suited to Medellin's point-clinching block, where a single call would ignore Águilas's 1.22 goals-per-game ceiling."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Although season lambdas total 2.66, Medellin's exclusions of Quintero and Martegani plus Águilas's 0.57 decayed goals conceded over their last five games compress total scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Águilas Doradas's one-goal home winning pattern against a weakened away midfield, while 1:1 matches the modal Poisson baseline scoreline and high home draw rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals lead the Poisson distribution (24.7%) and align with a 1:1 draw, while 1 goal captures Águilas's recent string of 1:0 results."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Águilas Doradas were level at half-time in all three recent home matches before winning (80% second-half home goal share), leaving a second-half breakthrough (Draw-Win) or full-time deadlock (Draw-Draw) as the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 20:08:10 UTC"
+}
