@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649019,
+    "matchup": "Vietnam U23 vs Qatar U23",
+    "home_team": "Vietnam U23",
+    "away_team": "Qatar U23",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-vietnam-u23-vs-qatar-u23/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vietnam U23 vs Qatar U23 Tactical Breakdown & Probabilistic Modeling: Title Stakes & Fatigue Test",
+    "meta": {
+      "matchId": "1649019",
+      "league": "Friendlies",
+      "matchup": "Vietnam U23 vs Qatar U23",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vietnam U23's superior time-decayed scoring balance, back-to-back Pleiku clean sheets, and second-half bench depth support a low-scoring 1:0 or 1:1 trajectory under 2.5 goals.",
+    "possibilityAssessment": [
+      "Vietnam U23 win or draw via home clean-sheet structure, superior Poisson win share (39.4%), and second-half attacking rotation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals anchored by a 2.25 combined goal expectancy, 60.9% Under 2.5 Poisson baseline, and 48-hour recovery fatigue (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency if Qatar U23 convert an early set-piece chance before Vietnam U23 manage the title-clinching point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649019",
+      "league": "Friendlies",
+      "homeTeam": "Vietnam U23",
+      "awayTeam": "Qatar U23",
+      "match_time": "12:00",
+      "match_highlight": "Title decider pitting Vietnam's home clean sheets against Qatar's set-piece urgency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649019,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 1:0 home grind and the 1:1 stalemate, as 48-hour fatigue and Qatar's must-win push make a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy, 60.9% Under 2.5 Poisson share, and Vietnam U23's two consecutive clean sheets in Pleiku."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Vietnam U23 unlocking tired legs late, while 1:1 accounts for Qatar U23 scoring once through early set-piece pressure."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) lead the Poisson total-goals distribution amid short-rest tactical caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight opening 45 minutes should remain level before Vietnam U23's bench either breaks the deadlock late or holds a second-half draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:38:03 UTC"
+}
