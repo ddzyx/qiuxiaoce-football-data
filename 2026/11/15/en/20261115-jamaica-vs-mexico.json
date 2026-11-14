@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644691,
+    "matchup": "Jamaica vs Mexico",
+    "home_team": "Jamaica",
+    "away_team": "Mexico",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-15 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-jamaica-vs-mexico/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jamaica vs Mexico Prediction & Match Analysis: Can Blake-Less Boyz Halt El Tri? — Scoreline Preview",
+    "meta": {
+      "matchId": "1644691",
+      "league": "CONCACAF Nations League",
+      "matchup": "Jamaica vs Mexico",
+      "matchTime": "2026-11-15 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win led by a tight Mexico away victory captures the balance between El Tri's personnel edge and first-leg caution in Kingston.",
+    "possibilityAssessment": [
+      "Primary Direction: Draw / Away Win led by Away Win as returning Julián Quiñones faces a Blake-less Jamaica (Confidence: Moderate, Value: Moderate)",
+      "Total Goals: Under 2.5 supported by 2.25 lambda_total and depleted home finishing (Confidence: Moderate, Value: High)",
+      "Contingency Script: 1:1 Draw if Mexico's recent defensive leaks surface during Rafael Márquez's competitive debut (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644691",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Jamaica",
+      "awayTeam": "Mexico",
+      "match_time": "01:00",
+      "match_highlight": "Blake's absence tests Jamaica against Quiñones and Mexico's new Márquez era.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644691,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow Mexico away breakthrough (0:1) against Jamaica's backup keeper and a tight first-leg stalemate (1:1), as Mexico's five-match winless slump prevents an isolated single win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.25 lambda_total (60.9% baseline Under 2.5), Jamaica's 66.7% big-chance waste rate without key forwards, and first-leg caution suppress scoring."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Mexico edges a tight opener against Jamaica's depleted attack and backup keeper, with 1:1 covering El Tri's recent transitional concessions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Modal two-goal band aggregates 1:1 and 0:2 scenarios, while one goal captures the tightest 0:1 away-win script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Jamaica's 0.333 home first-half goal share and recent 0:0 intervals in this matchup point to a level opening half before Mexico pushes late or settles for parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:26:08 UTC"
+}
