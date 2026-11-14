@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528975,
+    "matchup": "Northern Ireland vs Ukraine",
+    "home_team": "Northern Ireland",
+    "away_team": "Ukraine",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-14 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261114-northern-ireland-vs-ukraine/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Northern Ireland vs Ukraine Tactical Breakdown & Match Analysis: Defensive Absences Threaten Home Fortress",
+    "meta": {
+      "matchId": "1528975",
+      "league": "UEFA Nations League",
+      "matchup": "Northern Ireland vs Ukraine",
+      "matchTime": "2026-11-14 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ukraine to avoid defeat (Draw / Away Win) in a tight Under 2.5 contest as Northern Ireland's confirmed defensive absences meet limited open-play scoring on both sides.",
+    "possibilityAssessment": [
+      "Draw / Away Win grounded in Ukraine's +175 Elo edge and NI's injury-hit back four (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals anchored by a 1.37 lambda total and Ukraine missing Tsygankov and Zubkov (Confidence: Moderate, Value: Moderate)",
+      "Late 0:1 Away Win via Ukraine's two-striker setup and Dovbyk off the bench against tired home legs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528975",
+      "league": "UEFA Nations League",
+      "homeTeam": "Northern Ireland",
+      "awayTeam": "Ukraine",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Northern Ireland defence faces Ukraine's two-striker setup at Windsor Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528975,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the Windsor Park 0:0 stalemate and a narrow 0:1 Ukraine win exploiting Ballard, Toal, and Bradley's absences, whereas a single call would ignore either home low-block resilience or visiting wide injuries."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average 1.00 goal or fewer per group match with a 1.37 combined lambda and key Ukrainian wide creators ruled out."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "Reflects Northern Ireland's consecutive 0:0 home draws against Ukraine's unbeaten away defence and late-game striker threat."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "Matches the 1.37 goal-expectancy baseline where 0-1 total goals carry 60.2% unadjusted Poisson weight."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cagey first-half deadlock aligns with Northern Ireland's home pattern before either holding 0:0 or conceding to Ukraine's bench strikers."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 19:42:13 UTC"
+}
