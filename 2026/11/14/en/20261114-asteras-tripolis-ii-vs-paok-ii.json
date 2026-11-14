@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636982,
+    "matchup": "Asteras Tripolis II vs PAOK II",
+    "home_team": "Asteras Tripolis II",
+    "away_team": "PAOK II",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-asteras-tripolis-ii-vs-paok-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Asteras Tripolis II vs PAOK II Tactical Breakdown & Match Analysis: Can Malezas's Depleted Visitors Hold?",
+    "meta": {
+      "matchId": "1636982",
+      "league": "Super League 2",
+      "matchup": "Asteras Tripolis II vs PAOK II",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw for Asteras Tripolis II alongside Under 2.5 Goals against a debuting PAOK II coaching setup missing eight squad members.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Asteras Tripolis II hold home continuity and face a depleted PAOK II backline, while the hosts' draw-heavy streak warrants stalemate coverage (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals — Both teams average 1.00 goals per game with a 2.20 combined lambda and reduced visiting midfield creation (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 Counter-Attack Stalemate — Four-goal striker Paschalis Stylos can punish any home clean-sheet lapse in transition (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636982",
+      "league": "Super League 2",
+      "homeTeam": "Asteras Tripolis II",
+      "awayTeam": "PAOK II",
+      "match_time": "13:00",
+      "match_highlight": "Depleted PAOK II backline faces unbeaten Asteras II in Malezas's debut.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636982,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win against PAOK II's eight confirmed absentees and a 1:1 stalemate reflecting Asteras II's four draws in five games, as a single home call would understate the slim 0.10 lambda gap."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda_total of 2.20 (62.3% Poisson Under 2.5), both sides' 1.00 goals-per-game averages, and PAOK II's midfield absences favor a tight, low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Asteras II's patient home edge against an improvised visiting backline, while 1:1 tracks the Poisson modal peak and both sides' recent draw patterns."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals lead the Poisson distribution at 26.8%, with one goal close behind at 24.4% given PAOK II's five scoreless matches in ten league outings."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half under Malezas's debut points to a level interval before Asteras II either find a late breakthrough or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:27:21 UTC"
+}
