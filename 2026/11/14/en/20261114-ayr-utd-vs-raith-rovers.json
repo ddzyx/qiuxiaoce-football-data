@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556896,
+    "matchup": "Ayr Utd vs Raith Rovers",
+    "home_team": "Ayr Utd",
+    "away_team": "Raith Rovers",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-14 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-ayr-utd-vs-raith-rovers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ayr Utd vs Raith Rovers Prediction & Match Analysis: Can Depleted Rovers Win at Ayr?",
+    "meta": {
+      "matchId": "1556896",
+      "league": "Championship",
+      "matchup": "Ayr Utd vs Raith Rovers",
+      "matchTime": "2026-11-14 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win with Under 2.5 goals, favouring a disciplined Raith Rovers road victory anchored by their 0.64 goals-conceded-per-game defence while covering a low-scoring stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win remains the primary direction as Raith's 85.7% away unbeaten record meets Ayr's 2.14 decayed goals-conceded rate (Confidence: Moderate, Value: High)",
+      "Under 2.5 aligns with a 2.26 combined lambda total, Raith's 50.0% clean-sheet rate, and Ayr's 0.86 home scoring expectancy (Confidence: Moderate, Value: High)",
+      "A 1:1 draw serves as the main defensive hedge if Ayr's 5.13 corners per match breach a Raith squad missing Dylan Easton and Zak Delaney (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556896",
+      "league": "Championship",
+      "homeTeam": "Ayr Utd",
+      "awayTeam": "Raith Rovers",
+      "match_time": "15:00",
+      "match_highlight": "Raith's 0.64 GA defence tests leaky Ayr amid Oakley doubt.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556896,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a controlled 0:1 Raith Rovers road win and a 1:1 stalemate, as visiting absences and George Oakley's fitness doubt keep a single away-win call exposed to a tight draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.26 combined lambda total (60.6% Under 2.5 Poisson share), Raith's 0.64 goals conceded per match, and missing visiting playmaker Dylan Easton."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects the top two Poisson outcomes (14.6% and 12.6%), balancing Raith's 42.9% away clean-sheet rate against Ayr's home set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Targets the highest-density Poisson goal counts (26.6% and 23.6%) in a matchup led by Raith's compact defensive containment."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Captures Raith's 100% conversion of 7 half-time leads against Ayr's 0/6 deficit recovery alongside a level stalemate if Rovers start slowly."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:33:50 UTC"
+}
