@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647365,
+    "matchup": "China vs Malaysia",
+    "home_team": "China",
+    "away_team": "Malaysia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-china-vs-malaysia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "China vs Malaysia Tactical Breakdown & Probabilistic Modeling: Depleted Visitors Face Host Reset",
+    "meta": {
+      "matchId": "1647365",
+      "league": "Friendlies",
+      "matchup": "China vs Malaysia",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "China is positioned to secure a disciplined, low-scoring home victory against a severely depleted Malaysian squad missing its primary wide attackers and regular core.",
+    "possibilityAssessment": [
+      "China Home Win driven by +170 Elo edge and intact domestic spine facing makeshift opposition (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 60.9% baseline probability and Malaysia's confirmed attacking absences (Confidence: Moderate, Value: High)",
+      "0:0 Half-Time Stalemate Hedge reflecting China's 60.0% home HT draw rate and short three-day camp (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647365",
+      "league": "Friendlies",
+      "homeTeam": "China",
+      "awayTeam": "Malaysia",
+      "match_time": "12:00",
+      "match_highlight": "Intact Chinese core tests depleted Malaysian lineup lacking primary attackers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647365,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by China's intact home core and +170 Elo edge against a Malaysian side missing six Selangor players, JDT regulars, Faisal Halim, and Safawi Rasid."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson lambda_total sits at 2.25 with 60.9% Under 2.5 baseline density, reinforced by China's recent scoring drought and Malaysia's depleted frontline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "Reflects a patient Chinese breakthrough and clean sheet against a makeshift Malaysian attack, with 2:0 reachable via late bench depth."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Concentrates around 1 or 2 total goals as Malaysia's attacking absences suppress away scoring expectancy below the 1.05 baseline lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "China failed to score before half-time in all five 2026 home friendlies, pointing to a level first half before late depth decides—or stalls at—full time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:31:51 UTC"
+}
