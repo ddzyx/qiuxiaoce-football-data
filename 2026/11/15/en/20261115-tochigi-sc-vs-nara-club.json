@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555810,
+    "matchup": "Tochigi SC vs Nara Club",
+    "home_team": "Tochigi SC",
+    "away_team": "Nara Club",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-tochigi-sc-vs-nara-club/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tochigi SC vs Nara Club Prediction & Match Analysis: Can Tochigi's Clean-Sheet Block Hold? — Preview",
+    "meta": {
+      "matchId": "1555810",
+      "league": "J3 League",
+      "matchup": "Tochigi SC vs Nara Club",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nara Club are favoured to avoid defeat via Draw / Away Win in a patient, Under 2.5 contest where second-half execution breaks Tochigi SC's five-match shutout block.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "Exact 1:1 Draw / Half-Time 0:0 (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555810",
+      "league": "J3 League",
+      "homeTeam": "Tochigi SC",
+      "awayTeam": "Nara Club",
+      "match_time": "05:00",
+      "match_highlight": "Tochigi's five-match clean-sheet streak tests Nara's league-leading attack in wet conditions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555810,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covering Draw / Away Win captures both Nara's 0:2 late breakthrough and a 1:1 stalemate created by Tochigi's five-game shutout defense, whereas a single call would ignore genuine attrition risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Tochigi's 1.94 match-goal average, five straight clean sheets, rainy conditions, and 50.6% Poisson Under 2.5 share point to a controlled total."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Nara's 2.06 goals-per-game firepower breaking through late against a chasing host, while 1:1 covers Tochigi's set-piece and low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is both the modal Poisson outcome (24.8%) and matches 0:2 and 1:1, with three goals (21.9%) covering a stretched final half-hour."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tochigi have reached half-time 0:0 in five straight matches under Hamasaki, making a level interval followed by either a late Nara winner or stalemate most coherent."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:05:20 UTC"
+}
