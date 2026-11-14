@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559489,
+    "matchup": "Sweden U17 vs Finland U17",
+    "home_team": "Sweden U17",
+    "away_team": "Finland U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-sweden-u17-vs-finland-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sweden U17 vs Finland U17 Tactical Breakdown & Probabilistic Modeling: Defensive Order vs Open Pace",
+    "meta": {
+      "matchId": "1559489",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Sweden U17 vs Finland U17",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Finland U17 hold the stronger attacking edge to take all three points in Tirana, with the Draw retained in a Draw / Away Win stance.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Finland's three-match winning streak and 71.0% combined Poisson coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by 3.50 combined lambda expectancy and 67.9% Poisson density (Confidence: Moderate, Value: High)",
+      "2:2 Draw / Both Teams to Score contingency reflecting Finland's defensive vulnerability and August's 2:2 friendly (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559489",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Sweden U17",
+      "awayTeam": "Finland U17",
+      "match_time": "14:00",
+      "match_highlight": "Finland's four-goal attack tests Sweden's clean-sheet defense without Pessi Lähteenmäki.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559489,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Finnish victory driven by superior multi-scorer firepower and a 2:2 draw if Sweden exploit Finland's defensive gaps without Pessi Lähteenmäki, rather than relying on an uncovered single away win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.50 combined Poisson lambda (67.9% Over 2.5) and Finland's 4:3 qualifying opener."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Finland's attacking edge over Swedish containment, while 2:2 echoes their August 2026 friendly stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.6%) and 4 goals (18.9%) lead the Poisson total-goal distribution around a 3.50 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss captures a tight first half before Finland break through, while Loss-Draw models an early Finnish lead pegged back late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 11:32:10 UTC"
+}
