@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559481,
+    "matchup": "Northern Ireland U17 vs Azerbaijan U17",
+    "home_team": "Northern Ireland U17",
+    "away_team": "Azerbaijan U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-northern-ireland-u17-vs-azerbaijan-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Northern Ireland U17 vs Azerbaijan U17 Tactical Breakdown & Probabilistic Modeling: Second-Half Fragility",
+    "meta": {
+      "matchId": "1559481",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Northern Ireland U17 vs Azerbaijan U17",
+      "matchTime": "2026-11-14 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Northern Ireland U17 are projected to secure a regulation-time Home Win in a contest leaning toward Over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Northern Ireland U17 Home Win driven by superior early-game attacking fluency and Azerbaijan's second-half defensive vulnerability (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals backed by both sides' Matchday 1 defensive concessions and Northern Ireland's goal-difference imperative (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win half-time/full-time breakthrough if Azerbaijan hold a compact low block before fading after the interval (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559481",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Northern Ireland U17",
+      "awayTeam": "Azerbaijan U17",
+      "match_time": "15:30",
+      "match_highlight": "Fast-starting Northern Ireland test Azerbaijan's vulnerable second-half defense in Frankfurt.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559481,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A single Home Win reflects Northern Ireland U17's verified attacking quality and Azerbaijan U17's defensive frailty across 3:1 and 3:0 winning scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides conceded four or more goals on Matchday 1 and carry a 6.5 raw goal-expectancy total, supporting at least three match goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "3:0"
+        ],
+        "comment": "3:1 accounts for Northern Ireland's clinical forward play alongside their own Matchday 1 defensive lapse, while 3:0 covers an Azerbaijan shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Adjusting the inflated 6.5 lambda down for peer-level youth competition centers realistic total scoring on three or four goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win matches Northern Ireland's rapid Matchday 1 starts, while Draw-Win captures a tighter opening half before Azerbaijan fade late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 15:29:05 UTC"
+}
