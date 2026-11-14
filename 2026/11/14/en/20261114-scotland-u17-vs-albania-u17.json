@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559486,
+    "matchup": "Scotland U17 vs Albania U17",
+    "home_team": "Scotland U17",
+    "away_team": "Albania U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-scotland-u17-vs-albania-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Scotland U17 vs Albania U17 Prediction & Preview: Defensive Leak vs Home Clean Sheet — Scoreline Analysis",
+    "meta": {
+      "matchId": "1559486",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Scotland U17 vs Albania U17",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "With Scotland U17 leaking 10 goals across their last three internationals and Albania U17 playing on home soil after shutting out Sweden, Draw / Away Win stands as the disciplined Group 4 direction.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Albania's Elbasan Arena clean-sheet structure and Scotland's transition vulnerability (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.50 lambda total and Scotland's 4:3 Matchday 1 shootout (Confidence: Low, Value: Moderate)",
+      "1:1 Draw contingency protecting Albania's 0-goal Matchday 1 attack if early tempo tightens (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559486",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Scotland U17",
+      "awayTeam": "Albania U17",
+      "match_time": "13:00",
+      "match_highlight": "Host Albania's clean-sheet discipline tests Scotland's porous yet dangerous attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559486,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:2 away-side host breakthrough and the 1:1 draw, as Albania's 0-goal opener and 1-match sample make a single Away Win call overly aggressive."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.50 statistical lambda total and Scotland's 3.00 goals scored and 4.00 conceded per Group 4 match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Both scores sit atop the Poisson baseline at 9.1% density, balancing Scotland's attacking threat against Albania's home organization."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the modal Poisson bin (21.6%) and 1:2 script, while 2 goals aligns with the tighter 1:1 draw scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides entered half-time level on Matchday 1, leaving second-half separation toward Albania or a full-time stalemate as the primary forks."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:08:15 UTC"
+}
