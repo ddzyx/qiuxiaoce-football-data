@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570024,
+    "matchup": "Valladolid vs Castellón",
+    "home_team": "Valladolid",
+    "away_team": "Castellón",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-valladolid-vs-castellón/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valladolid vs Castellón Prediction & Match Analysis: Can Home Firepower Breach Orozco-Less Leaders?",
+    "meta": {
+      "matchId": "1570024",
+      "league": "Segunda División",
+      "matchup": "Valladolid vs Castellón",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Castellón's superior 1.99 xG/match process, 12.8-day rest advantage, and Valladolid's loss of suspended defender Iván Alejo favour an away result, though Castellón's own absences of Matías Orozco and Amir Saipi warrant covering Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Castellón win leads behind 1.99 xG/match and 5-1-1 away form while 1:1 draw covers Orozco and Saipi absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals: Combined 3.54 xG/match, 2.78 lambda total, and four straight 3+ goal league games for Valladolid support three or more goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / Half-Time Draw: Castellón's reshaped pivot without Orozco risks early stalemate against Valladolid's fast home start (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570024",
+      "league": "Segunda División",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Castellón",
+      "match_time": "13:00",
+      "match_highlight": "Orozco-less Castellón test unbeaten away run against resurgent Valladolid",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570024,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 Castellón win script built on 1.99 xG/match and rest superiority and the 1:1 draw script driven by Orozco and Saipi absences, where a single away call leaves too little margin for home scoring variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.78 statistical lambda total, 3.54 combined xG/match, Castellón's 1.13 xGA/match without Orozco or Saipi, and four consecutive 3+ goal league matches for Valladolid."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Valladolid's home scoring threat meeting Castellón's sharper two-goal edge over 90 minutes, while 1:1 covers a midfield-disrupted stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with our primary 1:2 projection and 2.78 lambda expectancy, with 2 goals covering the tight 1:1 or 0:2 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Castellón converting 4 of 4 away half-time leads into wins against a host with zero HT-deficit recoveries, while Draw-Draw covers the 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:12:01 UTC"
+}
