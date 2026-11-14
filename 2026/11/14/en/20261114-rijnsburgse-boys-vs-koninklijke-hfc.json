@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1579534,
+    "matchup": "Rijnsburgse Boys vs Koninklijke HFC",
+    "home_team": "Rijnsburgse Boys",
+    "away_team": "Koninklijke HFC",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-rijnsburgse-boys-vs-koninklijke-hfc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rijnsburgse Boys vs Koninklijke HFC Tactical Breakdown & Probabilistic Modeling: Porous Defenses in Focus",
+    "meta": {
+      "matchId": "1579534",
+      "league": "Tweede Divisie",
+      "matchup": "Rijnsburgse Boys vs Koninklijke HFC",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Koninklijke HFC are projected to avoid defeat in a high-scoring contest at Sportpark Middelmors, making Draw / Away Win and Over 2.5 goals the primary analytical positions.",
+    "possibilityAssessment": [
+      "Koninklijke HFC 5-3-2 counter-attacking win (1:2) exploits Rijnsburgse Boys' 2.42 goals-conceded average (Confidence: Moderate, Value: High)",
+      "High-scoring open exchange (Over 2.5 / 3-4 goals) backed by 3.54 combined lambda and 68.5% BTTS rate (Confidence: High, Value: Moderate)",
+      "Four-goal stalemate (2:2) if Rijnsburgse Boys convert early home possession before conceding late (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579534",
+      "league": "Tweede Divisie",
+      "homeTeam": "Rijnsburgse Boys",
+      "awayTeam": "Koninklijke HFC",
+      "match_time": "13:30",
+      "match_highlight": "HFC's 5-3-2 transition attack tests Rijnsburgse Boys' 2.42 goals-conceded defense.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1579534,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 HFC transition win and secondary 2:2 open draw, because Rijnsburgse Boys' home attacking output prevents a pure single Away Win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.54 combined Poisson lambda, 68.6% Over 2.5 probability, and defensive concession rates of 2.42 and 1.83 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Anchors the top Poisson visitor-unbeaten outcomes matching both teams' 1.42 goals-scored rates against vulnerable defenses."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Targets the two highest-probability Poisson goal buckets (21.5% and 19.0%) consistent with an open Over 2.5 game state."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Reflects HFC's pattern of absorbing early pressure or trailing briefly before accelerating after half-time through Niels Donker and Delano Ladan."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:16:04 UTC"
+}
