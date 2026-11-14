@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606762,
+    "matchup": "Vegalta Sendai vs Blaublitz Akita",
+    "home_team": "Vegalta Sendai",
+    "away_team": "Blaublitz Akita",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-15 04:05:00",
+    "source_url": "https://xgmind.com/matches/20261115-vegalta-sendai-vs-blaublitz-akita/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vegalta Sendai vs Blaublitz Akita Tactical Breakdown & Match Analysis: Can Akita Hold Sendai's Attack?",
+    "meta": {
+      "matchId": "1606762",
+      "league": "J2 League",
+      "matchup": "Vegalta Sendai vs Blaublitz Akita",
+      "matchTime": "2026-11-15 04:05 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vegalta Sendai hold the stronger home profile against winless-away Blaublitz Akita, making Home Win / Draw with Under 2.5 Goals the most coherent match projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Home Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.47 combined lambda and 55.2% Poisson share (Confidence: Moderate, Value: Moderate)",
+      "Late 1:1 or 2:1 swing if Akita breach Sendai's 25.0% home clean-sheet rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606762",
+      "league": "J2 League",
+      "homeTeam": "Vegalta Sendai",
+      "awayTeam": "Blaublitz Akita",
+      "match_time": "04:05",
+      "match_highlight": "Akita's 0-2-5 road record meets Sendai's resurgent five-goal home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606762,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Sendai's 1:0 home breakthrough against Akita's 0W-2D-5L away record and the 1:1 draw branch driven by Sendai's 37.5% home draw rate, as a 46.5% win projection leaves material draw risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.47 combined goal-based lambda (55.2% Under 2.5 Poisson share), Sendai's 0.94 goals conceded per game, and Akita's 42.9% away blanking rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Akita losing all five away defeats by exactly one goal (1:0) alongside the 12.5% modal Poisson draw (1:1)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.8%) captures both 1:1 and 2:0 scenarios, while 1 goal (20.9%) aligns with a tight 1:0 Sendai breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Akita drew 5 of 7 away first halves before losing all five in the second half (Draw-Win), while Sendai drew 3 of 4 home matches that were level at the break (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:49:14 UTC"
+}
