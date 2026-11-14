@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649952,
+    "matchup": "Obolon'-Brovar vs Nyva Vinnytsya",
+    "home_team": "Obolon'-Brovar",
+    "away_team": "Nyva Vinnytsya",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-obolon-brovar-vs-nyva-vinnytsya/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Obolon'-Brovar vs Nyva Vinnytsya Tactical Breakdown & Probabilistic Modeling: Rotation & Tier-Gap Test",
+    "meta": {
+      "matchId": "1649952",
+      "league": "Friendlies Clubs",
+      "matchup": "Obolon'-Brovar vs Nyva Vinnytsya",
+      "matchTime": "2026-11-14 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Obolon'-Brovar's top-flight defensive structure and 1.20 versus 1.05 goal-based lambda edge favor a Home Win or Draw under 2.5 total goals despite friendly rotation uncertainty.",
+    "possibilityAssessment": [
+      "Obolon'-Brovar edges possession and wins or draws narrowly in a low-scoring friendly (Confidence: Low, Value: Moderate)",
+      "Total goals remain Under 2.5 as a 2.25 combined lambda meets disciplined defensive shapes (Confidence: Low, Value: Moderate)",
+      "Second-half friendly substitutions disrupt home rhythm and allow Nyva Vinnytsya to hold a 1:1 draw (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649952",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Obolon'-Brovar",
+      "awayTeam": "Nyva Vinnytsya",
+      "match_time": "11:00",
+      "match_highlight": "Obolon'-Brovar's UPL depth faces friendly rotation against compact Nyva Vinnytsya.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649952,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Obolon'-Brovar's leading narrow 1:0 win script alongside the 1:1 draw path, because friendly rotation and low UPL scoring make a single home-win call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal-based lambda of 2.25 yields a 60.9% Under 2.5 Poisson share, backed by Obolon's sub-0.5 UPL scoring rate and Nyva's compact cup profile."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Anchors the two highest-likelihood low-scoring scripts matching Obolon's slight home edge and Nyva Vinnytsya's recent away draw tendency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the top two Poisson goal counts (26.7% and 23.7%) inside a controlled 2.25-lambda friendly."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Models a cautious scoreless first half before either Obolon's depth breaks through late or friendly changes settle into a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:19:19 UTC"
+}
