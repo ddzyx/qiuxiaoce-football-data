@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551881,
+    "matchup": "Roda vs FC Volendam",
+    "home_team": "Roda",
+    "away_team": "FC Volendam",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-14 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-roda-vs-fc-volendam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Roda vs FC Volendam Tactical Breakdown & Probabilistic Modeling: Home Fortress vs Road Fragility",
+    "meta": {
+      "matchId": "1551881",
+      "league": "Eerste Divisie",
+      "matchup": "Roda vs FC Volendam",
+      "matchTime": "2026-11-14 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Roda enter as justified home favourites to win or draw against a Volendam side conceding 2.43 goals per away fixture.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Roda's unbeaten 4W-2D-0L home record and Volendam's 0% away clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by Volendam's 2.36 goals-per-match attack and porous road defense alongside four straight Over 2.5 league games for Roda (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge capturing Roda's 57.6% big-chance waste rate and three prior 1:1 league meetings in Kerkrade (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551881",
+      "league": "Eerste Divisie",
+      "homeTeam": "Roda",
+      "awayTeam": "FC Volendam",
+      "match_time": "19:00",
+      "match_highlight": "Unbeaten home hosts face Volendam's potent attack and porous away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551881,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 2:1 home win built on Roda's 4W-2D-0L home fortress and a 1:1 draw script, as Volendam's 2.36-goal attack prevents relying solely on a single Home Win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Volendam average 2.36 goals scored overall and concede 2.43 per away trip, pushing venue-adjusted total expectancy past 3.0 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Roda's 1-goal home winning pattern against a leaky away defense, while 1:1 covers Roda's 33.3% home draw rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Venue-adjusted Poisson modeling peaks at 3 goals (22.4%) and 2 goals (22.0%), aligning directly with the 2:1 and 1:1 trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Roda led at half-time in 50% of home games and converted 100% of half-time leads, while half-time stalemates in Kerkrade finish level 66.7% of the time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 18:57:23 UTC"
+}
