@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1613409,
+    "matchup": "Laredo vs Torina",
+    "home_team": "Laredo",
+    "away_team": "Torina",
+    "league": "Tercera División RFEF - Group 3",
+    "kickoff_utc": "2026-11-14 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-laredo-vs-torina/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Laredo vs Torina Prediction & Match Analysis: Can Unbeaten Torina Hold at El Paloma? — Scoreline Preview",
+    "meta": {
+      "matchId": "1613409",
+      "league": "Tercera División RFEF - Group 3",
+      "matchup": "Laredo vs Torina",
+      "matchTime": "2026-11-14 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Under 2.5 goals and a low-scoring deadlock or narrow away success represent the most coherent projection for Round 11 at Campo El Paloma.",
+    "possibilityAssessment": [
+      "Draw / Away Win fits the 58.9% Poisson combined share and historical head-to-head stalemate rate across recent Group 3 meetings (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (2 Goals / 1 Goal) aligns with the 2.40 total goal lambda and 57.0% Poisson under-2.5 distribution (Confidence: Moderate, Value: Moderate)",
+      "Torina 0:1 Away Win captures the late-transition script if Laredo overcommit after the hour mark (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613409",
+      "league": "Tercera División RFEF - Group 3",
+      "homeTeam": "Laredo",
+      "awayTeam": "Torina",
+      "match_time": "16:30",
+      "match_highlight": "Unbeaten Torina's road defense tests Carlos Álvarez-less Laredo at El Paloma.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1613409,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate against Torina's unbeaten block and the 0:1 counter-attacking upset, as Laredo's Carlos Álvarez suspension and El Paloma defensive leaks make a single home or draw call weaker."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.40 combined goal lambda (57.0% Poisson Under 2.5 probability) and Torina's 0.60 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Led by the modal 1:1 Poisson scoreline (13.0%), with 0:1 (10.0%) capturing Torina's road clean-sheet resilience and late counter threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the top two Poisson goal-count outcomes (26.1% for 2 goals, 21.8% for 1 goal) in a defensively controlled contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a cagey, level first half against Torina's low block before either remaining deadlocked or breaking for a second-half away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 16:20:00 UTC"
+}
