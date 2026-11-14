@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1579528,
+    "matchup": "HHC vs RKAV Volendam",
+    "home_team": "HHC",
+    "away_team": "RKAV Volendam",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-hhc-vs-rkav-volendam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "HHC vs RKAV Volendam Prediction & Match Analysis: Can Home Defense Curb 2.00-Goal Visitors?",
+    "meta": {
+      "matchId": "1579528",
+      "league": "Tweede Divisie",
+      "matchup": "HHC vs RKAV Volendam",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support HHC on Home Win / Draw in a high-tempo Tweede Divisie matchup projected for Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals anchored on 3 or 4 goal outcomes (Confidence: Moderate, Value: Moderate)",
+      "2:2 draw hedge if RKAV Volendam convert transition chances efficiently (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579528",
+      "league": "Tweede Divisie",
+      "homeTeam": "HHC",
+      "awayTeam": "RKAV Volendam",
+      "match_time": "13:30",
+      "match_highlight": "HHC's 1.33-goal defense tests RKAV Volendam's 2.00-goal counter-attacking punch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579528,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both HHC's 2:1 defensive-edge home win and a 2:2 draw driven by RKAV Volendam's 2.00 goals-per-game counter attack, because a 0.16-goal lambda gap and absent market/xG verification leave a single Home Win too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.50 combined lambda (1.83 vs 1.67) and league match averages of 3.25 and 3.75 total goals strongly back three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects HHC's tighter 1.33 GA/gm edge against RKAV Volendam's 40.0% big-chance waste rate, while 2:2 captures the visitors' 2.00 GF/gm road resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.6%) and 4 goals (18.9%) lead the Poisson total-goals distribution under a 3.50 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks HHC asserting early home control into a 2:1 win, while Draw-Draw mirrors RKAV Volendam's 2-of-5 HT-draw stability into a 2:2 split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:12:15 UTC"
+}
