@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549562,
+    "matchup": "Sporting Cristal vs Cienciano",
+    "home_team": "Sporting Cristal",
+    "away_team": "Cienciano",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-14 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-sporting-cristal-vs-cienciano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sporting Cristal vs Cienciano Tactical Breakdown & Match Analysis: Title Chase Meets Missing Cores",
+    "meta": {
+      "matchId": "1549562",
+      "league": "Primera División",
+      "matchup": "Sporting Cristal vs Cienciano",
+      "matchTime": "2026-11-14 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backed by a 52.6% Poisson win projection and a 1.84-to-1.19 lambda advantage, Sporting Cristal is positioned to claim all three points against Cienciano in Round 17.",
+    "possibilityAssessment": [
+      "Sporting Cristal Home Win driven by a 35-goal Clausura attack and home-venue territorial dominance (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 3.03 combined lambda and 58.4% Poisson over probability (Confidence: Moderate, Value: Moderate)",
+      "Cienciano dead-ball resistance or narrow 2:0 home grind if Hohberg's absence stalls visiting transitions (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549562",
+      "league": "Primera División",
+      "homeTeam": "Sporting Cristal",
+      "awayTeam": "Cienciano",
+      "match_time": "21:00",
+      "match_highlight": "Cristal chases Clausura crown against Hohberg-less Cienciano at Gallardo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549562,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sporting Cristal's 2.19 Clausura goals per game and home midfield control outweigh Miguel Araujo's absence against a Cienciano side missing Alejandro Hohberg."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.03 combined lambda (1.84 home, 1.19 away), 58.4% Poisson over probability, and four of five recent head-to-heads clearing three goals favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 captures Cristal's home scoring power conceding once to Cienciano's set-piece threat, while 2:0 covers a clean-sheet win if Hohberg's absence blunts the visitors."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (22.2%) lead the Poisson total-goal distribution around the 3.03 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Cienciano drew at half-time and lost after the break in half of its tracked away matches (Draw-Win), while early Cristal pressure supports Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 20:49:25 UTC"
+}
