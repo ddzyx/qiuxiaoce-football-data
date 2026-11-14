@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618467,
+    "matchup": "Hercules vs VV Scherpenzeel",
+    "home_team": "Hercules",
+    "away_team": "VV Scherpenzeel",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-hercules-vs-vv-scherpenzeel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hercules vs VV Scherpenzeel Prediction & Match Analysis: New Voordorp Pitch Test — Scoreline Preview",
+    "meta": {
+      "matchId": "1618467",
+      "league": "Derde Divisie",
+      "matchup": "Hercules vs VV Scherpenzeel",
+      "matchTime": "2026-11-14 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back second-placed VV Scherpenzeel for an away win at Sportpark Voordorp, where their two-way league superiority and Hercules' defensive concessions point toward a multi-goal visiting victory.",
+    "possibilityAssessment": [
+      "Away Win — VV Scherpenzeel's 1.92-to-1.08 goal ratio, 53.0% Poisson win baseline, and Dylan Chiazor's suspension support an away victory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined 3.33 lambda and 64.6% Poisson Over 2.5 rate align with Hercules' 3.66 total goals per league match (Confidence: Moderate, Value: Moderate)",
+      "1:1 Competitive Draw / Home Pitch Boost — Hercules' recent home discipline and new-pitch inauguration could force a stalemate if Fonville is contained (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618467",
+      "league": "Derde Divisie",
+      "homeTeam": "Hercules",
+      "awayTeam": "VV Scherpenzeel",
+      "match_time": "14:30",
+      "match_highlight": "Scherpenzeel's attack tests Hercules' leaky defense on Voordorp's new pitch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618467,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "VV Scherpenzeel's 1.92 goals scored versus Hercules' 2.08 conceded per league match and Chiazor's suspension point to a 1:2 or 1:3 away win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.33 combined statistical lambda and 64.6% Poisson Over 2.5 probability reflect both sides' productive attacks and Hercules' defensive vulnerability."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 shares the top 9.5% Poisson density as Hercules scores on its new pitch, while 1:3 covers late defensive lapses by the hosts."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (22.0%) and four (18.3%) total goals align directly with the 3.33 lambda total and the projected 1:2 and 1:3 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Hercules' home occasion may keep the first half level before Scherpenzeel pulls clear, with an early away lead as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:23:56 UTC"
+}
