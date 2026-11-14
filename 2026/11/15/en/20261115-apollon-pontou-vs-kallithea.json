@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636984,
+    "matchup": "Apollon Pontou vs Kallithea",
+    "home_team": "Apollon Pontou",
+    "away_team": "Kallithea",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-15 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-apollon-pontou-vs-kallithea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Apollon Pontou vs Kallithea Tactical Breakdown & Preview: Can Milinković's Debut Halt the Visitors?",
+    "meta": {
+      "matchId": "1636984",
+      "league": "Super League 2",
+      "matchup": "Apollon Pontou vs Kallithea",
+      "matchTime": "2026-11-15 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kallithea are projected to claim a controlled, low-scoring away victory built on their league-leading defensive structure and superior penalty-box finishing.",
+    "possibilityAssessment": [
+      "Away Win driven by Kallithea's 50.9% Poisson probability and superior two-way goal differential (+6 vs -6) (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 1.90 combined goal expectancy and Kallithea's six consecutive Under 2.5 league matches (Confidence: Moderate, Value: Moderate)",
+      "0:0 Stalemate hedge if Vasilis Prekates misses out and Zoran Milinković's compact setup limits clear chances (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636984",
+      "league": "Super League 2",
+      "homeTeam": "Apollon Pontou",
+      "awayTeam": "Kallithea",
+      "match_time": "10:30",
+      "match_highlight": "Can Milinković's new-look Apollon contain Manias and Kallithea's disciplined defense?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636984,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Kallithea's 0.60 goals-conceded-per-game discipline and Michalis Manias's six-goal clinical threat support a 0:1 or 0:2 away win over low-scoring Apollon Pontou."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.90 combined lambda and Kallithea's four clean sheets in six league matches give Under 2.5 a 70.4% Poisson probability."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "0:1 (18.7%) reflects Kallithea's pragmatic away blueprint, while 0:2 (11.7%) captures late space if Apollon Pontou chase from behind."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (28.4%) and 2 goals (27.0%) dominate the Poisson distribution alongside a restricted 0.70 home scoring average."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "A tight opening half under Zoran Milinković before a second-half Kallithea breakthrough leads, with an early away strike as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:49:29 UTC"
+}
