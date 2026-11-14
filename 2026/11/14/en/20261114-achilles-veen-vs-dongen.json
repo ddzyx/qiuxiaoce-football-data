@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618454,
+    "matchup": "Achilles Veen vs Dongen",
+    "home_team": "Achilles Veen",
+    "away_team": "Dongen",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-achilles-veen-vs-dongen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Achilles Veen vs Dongen Prediction & Match Analysis: Can Leaky Defenses Fuel an Away Breakthrough?",
+    "meta": {
+      "matchId": "1618454",
+      "league": "Derde Divisie",
+      "matchup": "Achilles Veen vs Dongen",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dongen's 2.00 goals-per-game attack against Achilles Veen's 2.50 goals-conceded rate makes Draw / Away Win alongside Over 2.5 goals the balanced core projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Dongen's 54.6% Poisson win share and Achilles Veen's second-half defensive collapses (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 3.75 combined Poisson lambda and 72.3% three-plus goal probability (Confidence: High, Value: High)",
+      "2:2 Draw contingency protecting against Dongen's 2.17 goals-conceded rate and winless documented away league form (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618454",
+      "league": "Derde Divisie",
+      "homeTeam": "Achilles Veen",
+      "awayTeam": "Dongen",
+      "match_time": "13:30",
+      "match_highlight": "Dongen's 2.00 goals-per-game attack targets Veen's 2.50 conceded rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618454,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 away win from Dongen's attacking edge and the 2:2 draw branch driven by Dongen's road defensive leaks, where a single away call would ignore their winless documented away run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.75 combined Poisson lambda, 72.3% Over 2.5 density, and defenses conceding 2.50 and 2.17 goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 is the top Poisson cell (8.9%) reflecting Dongen's edge, while 2:2 (6.7%) captures Dongen's away defensive vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (20.7%) and 4 goals (19.4%) hold the top two probabilities in the Poisson distribution around a 3.75 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight first half before Dongen either pull away after the break (Draw-Loss) or trade second-half goals to share points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:24:03 UTC"
+}
