@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556898,
+    "matchup": "Livingston vs Morton",
+    "home_team": "Livingston",
+    "away_team": "Morton",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-14 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-livingston-vs-morton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Livingston vs Morton Prediction & Match Analysis: Depleted Ton Defense Faces Muirhead — Scoreline Preview",
+    "meta": {
+      "matchId": "1556898",
+      "league": "Championship",
+      "matchup": "Livingston vs Morton",
+      "matchTime": "2026-11-14 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Livingston's 0.86 goals-against record and Morton's absences of Calvin Okike and Christopher Cupps favor a 2:1 home win, with a 1:1 draw retained as the secondary branch.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Livingston's defensive edge against Morton's depleted backline, with 1:1 draw coverage for Morton's four-match winning run (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 2.60 combined lambda and Morton's 1.77 goals conceded per match without Okike and Cupps (Confidence: Moderate, Value: Moderate)",
+      "Draw (1:1) and Win-Draw HT/FT capturing Livingston's 50% home half-time lead slippage against Morton's 66.7% away recovery rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556898",
+      "league": "Championship",
+      "homeTeam": "Livingston",
+      "awayTeam": "Morton",
+      "match_time": "15:00",
+      "match_highlight": "Depleted Morton defense without Okike and Cupps tests Livingston's home control.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556898,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the leading 2:1 Livingston win against Morton's depleted defense and the 1:1 draw script because Livingston's 42.9% home win rate and Morton's four-game winning streak make a single home call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 2.60, Morton's 1.77 goals conceded per match, and two confirmed away defensive absences push expectation past 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Livingston exploiting Okike and Cupps's absences while Borso's in-form attack replies; 1:1 tracks the 12.1% Poisson modal draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with a 2:1 home edge against a weakened away backline, while two goals covers the 25.1% Poisson peak via 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects Livingston's 50% half-time draw rate and second-half acceleration; Win-Draw covers Morton's 66.7% away half-time recovery rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:46:23 UTC"
+}
