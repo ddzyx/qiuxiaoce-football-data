@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551879,
+    "matchup": "De Graafschap vs FC OSS",
+    "home_team": "De Graafschap",
+    "away_team": "FC OSS",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-14 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-de-graafschap-vs-fc-oss/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "De Graafschap vs FC OSS Prediction & Match Analysis: Home Pressing vs Away Fragility — Scoreline Preview",
+    "meta": {
+      "matchId": "1551879",
+      "league": "Eerste Divisie",
+      "matchup": "De Graafschap vs FC OSS",
+      "matchTime": "2026-11-14 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "De Graafschap Win / Draw leads with a narrow 2:1 home victory preferred, balancing FC OSS's seven consecutive away league defeats against the hosts' 2.08 goals-conceded rate.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by De Graafschap's rested midfield core and FC OSS's 0W-0D-7L road record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 3.23 combined goal expectancy and sub-8% clean-sheet frequencies (Confidence: Moderate, Value: Moderate)",
+      "Exact Score 1:1 reflecting De Graafschap's 50% rate of dropping half-time leads (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551879",
+      "league": "Eerste Divisie",
+      "homeTeam": "De Graafschap",
+      "awayTeam": "FC OSS",
+      "match_time": "19:00",
+      "match_highlight": "Can De Graafschap protect an early lead against winless-away FC OSS?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551879,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "De Graafschap lead against an 0-0-7 away side, but a 2:1 narrow win and 1:1 draw script merit covering both outcomes rather than trusting a leaky 2.08 GA/match defense alone."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.23 derived goal-expectancy total and both sides' under-8% clean-sheet rates support three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "De Graafschap have won exclusively by one-goal margins this season, making 2:1 and a 1:1 draw the most consistent convergence points."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with a 2:1 home victory, while two goals cover a 1:1 stalemate if 66% big-chance waste rates curb conversion."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "FC OSS trailed at half-time in six of seven away trips, making a home half-time lead most likely with second-half lead erosion as the main fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 18:49:03 UTC"
+}
