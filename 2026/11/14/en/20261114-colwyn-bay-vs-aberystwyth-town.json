@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646824,
+    "matchup": "Colwyn Bay vs Aberystwyth Town",
+    "home_team": "Colwyn Bay",
+    "away_team": "Aberystwyth Town",
+    "league": "Welsh Cup",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-colwyn-bay-vs-aberystwyth-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Colwyn Bay vs Aberystwyth Town Prediction & Match Analysis: Can Bay Halt Williams? — Scoreline Preview",
+    "meta": {
+      "matchId": "1646824",
+      "league": "Welsh Cup",
+      "matchup": "Colwyn Bay vs Aberystwyth Town",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Colwyn Bay's top-flight structure and Llanelian Road form support a Home Win / Draw direction in a tight, Under 2.5 Welsh Cup tie.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win / Draw, led by Colwyn Bay's tier-one edge with stalemate coverage (Confidence: Moderate, Value: Moderate)",
+      "Total goals orientation: Under 2.5 supported by 2.25 combined lambda and 60.9% under density (Confidence: Moderate, Value: Moderate)",
+      "Contingency threat: Former Colwyn Bay forward Aaron Williams drives an Aberystwyth equalizer into a 1:1 cup deadlock (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646824",
+      "league": "Welsh Cup",
+      "homeTeam": "Colwyn Bay",
+      "awayTeam": "Aberystwyth Town",
+      "match_time": "14:00",
+      "match_highlight": "Top-flight Colwyn Bay faces prolific ex-Seagull Aaron Williams in cup clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646824,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Colwyn Bay breakthrough and a 1:1 stalemate because a slim 0.15 lambda gap and Aberystwyth's scoring form make a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda_total, 60.9% Poisson Under 2.5 density, and Colwyn Bay's compact 1.00 goals-conceded-per-game baseline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances Colwyn Bay's top-flight home defensive control (12.6%) against the modal 1:1 Poisson deadlock (13.3%)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) capture the highest-density outcomes around a 2.25 goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a tight, level opening half before either Colwyn Bay's tier-one depth breaks through or the tie ends deadlocked."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 12:40:26 UTC"
+}
