@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570020,
+    "matchup": "Mallorca vs Cordoba",
+    "home_team": "Mallorca",
+    "away_team": "Cordoba",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-14 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-mallorca-vs-cordoba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mallorca vs Cordoba Prediction & Match Analysis: Can Depleted Hosts Contain 1.76 xG Attack?",
+    "meta": {
+      "matchId": "1570020",
+      "league": "Segunda División",
+      "matchup": "Mallorca vs Cordoba",
+      "matchTime": "2026-11-14 17:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Cordoba are positioned to avoid defeat at Son Moix because Mallorca's confirmed ten-player defensive and bench crisis exposes a 0.58 GA/match record that already outperformed 1.12 xGA against the visitors' 1.76 xG road attack.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: High)",
+      "1:1 Correct Score Hedge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570020",
+      "league": "Segunda División",
+      "homeTeam": "Mallorca",
+      "awayTeam": "Cordoba",
+      "match_time": "17:30",
+      "match_highlight": "Depleted Mallorca backline faces Cordoba's 1.76 xG attack at Son Moix.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1570020,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win covers Cordoba's 1:2 transition upset against a makeshift defense and the 1:1 stalemate branch, whereas a single call would ignore either Cordoba's 1.83 xGA concession rate or Mallorca's intact midfield."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Cordoba's 1.76 xG and 1.83 xGA profile combined with Mallorca losing three defenders shifts total expectancy slightly above 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures both sides scoring against compromised defenses while 1:1 retains the leading Poisson stalemate node."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 1:2 primary script and Cordoba's 3.38 actual goals per match, while two goals cover the 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams record high first-half draw rates before Cordoba's forward depth tests Mallorca's depleted bench in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:16:14 UTC"
+}
