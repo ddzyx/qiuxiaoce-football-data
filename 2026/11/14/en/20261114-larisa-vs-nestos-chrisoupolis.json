@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636981,
+    "matchup": "Larisa vs Nestos Chrisoupolis",
+    "home_team": "Larisa",
+    "away_team": "Nestos Chrisoupolis",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-larisa-vs-nestos-chrisoupolis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Larisa vs Nestos Chrisoupolis Prediction & Match Analysis: Can Tatsis's Debut Block Slow AEL?",
+    "meta": {
+      "matchId": "1636981",
+      "league": "Super League 2",
+      "matchup": "Larisa vs Nestos Chrisoupolis",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Larisa are projected to secure a disciplined home victory over Nestos Chrisoupolis in a low-scoring contest capped under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Home Win behind Larisa's 0.60 goals-conceded-per-game home structure and 2.25 combined lambda ceiling (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 60.9% Poisson distribution and Nestos's debut containment approach (Confidence: Moderate, Value: High)",
+      "Draw-Win half-time to full-time progression if Nestos hold level early before tiring after the hour mark (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636981",
+      "league": "Super League 2",
+      "homeTeam": "Larisa",
+      "awayTeam": "Nestos Chrisoupolis",
+      "match_time": "13:00",
+      "match_highlight": "Larisa's 0.60 GA/game defence faces Giannis Tatsis's Nestos debut.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636981,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by Larisa's 1.50 to 0.75 lambda edge and 1:0 / 2:0 clean-sheet scoreline projections against a 13th-placed Nestos side."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with the 2.25 combined lambda, 60.9% Poisson Under 2.5 probability, and Larisa's 0.60 goals-conceded-per-game defensive record."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "1:0 leads the Poisson matrix at 15.8% against a debuting Nestos low block, with 2:0 capturing late-game separation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) are the top two totals in the Poisson distribution under a 2.25 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Favors a tight first half under new Nestos coach Giannis Tatsis before Larisa's second-half quality tells, with Win-Win covering an early home opener."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:22:50 UTC"
+}
