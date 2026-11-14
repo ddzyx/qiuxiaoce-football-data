@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570015,
+    "matchup": "Almeria vs FC Andorra",
+    "home_team": "Almeria",
+    "away_team": "FC Andorra",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-14 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-almeria-vs-fc-andorra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Almeria vs FC Andorra: Expected Goals, Squad Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1570015",
+      "league": "Segunda División",
+      "matchup": "Almeria vs FC Andorra",
+      "matchTime": "2026-11-14 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw with an Almeria 2:1 victory leading and Over 2.5 goals favored, as five confirmed home absences temper an otherwise clear home-pitch and finishing edge over disrupted FC Andorra.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Almeria's unbeaten home record and intact central attack meet five confirmed squad outages and Andorra's high possession (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals / 2:1 Scoreline: Supported by a 2.93 combined lambda and Andorra's 1.83 goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / Win-Draw HT/FT Hedge: Captures Almeria's tendency to surrender half-time leads if midfield fatigue sets in late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570015",
+      "league": "Segunda División",
+      "homeTeam": "Almeria",
+      "awayTeam": "FC Andorra",
+      "match_time": "17:30",
+      "match_highlight": "Depleted leaders Almeria host disrupted FC Andorra at fortress stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570015,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Almeria's leading 2:1 home-win script and the 1:1 draw script because five confirmed first-team absences weaken a single-outcome call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.93 combined lambda, Andorra's 1.65 xG/match, and 1.83 goals conceded per game with a stand-in goalkeeper."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Almeria's home efficiency against Andorra's leaky defense, while 1:1 covers a stalemate if home absences slow wing creation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Converges on the 2-to-3 goal band around a 2.93 statistical total expectancy and both teams' scoring profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Almeria's 66.7% home half-time lead rate favors an early advantage, while their 28.6% rate of dropping half-time leads puts Win-Draw in play."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:11:59 UTC"
+}
