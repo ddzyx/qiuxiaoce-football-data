@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617391,
+    "matchup": "Yagüe vs La Calzada",
+    "home_team": "Yagüe",
+    "away_team": "La Calzada",
+    "league": "Tercera División RFEF - Group 16",
+    "kickoff_utc": "2026-11-14 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-yag-e-vs-la-calzada/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yagüe vs La Calzada Tactical Breakdown & Match Analysis: Leaky Defense Faces Title Chase",
+    "meta": {
+      "matchId": "1617391",
+      "league": "Tercera División RFEF - Group 16",
+      "matchup": "Yagüe vs La Calzada",
+      "matchTime": "2026-11-14 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "La Calzada are projected to secure a full-time Away Win in Round 11, with their 1.9 goal expectancy and four-match winning streak positioned to exploit Yagüe's 2.20 goals-conceded rate.",
+    "possibilityAssessment": [
+      "Away Win: La Calzada's 8W-0D-2L record and 1.10 GA/gm organization outmatch Yagüe's 4W-0D-6L profile and 53.7% Poisson win share (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals: Combined 3.10 goal expectancy and five consecutive Over 2.5 matches for Yagüe favor three or more total goals (Confidence: Moderate, Value: Moderate)",
+      "Yagüe Transition / 1:1 Variance: Recent four-goal displays by Azofra and Berges alongside El Salvador H2H resilience represent the primary spoiler risk (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617391",
+      "league": "Tercera División RFEF - Group 16",
+      "homeTeam": "Yagüe",
+      "awayTeam": "La Calzada",
+      "match_time": "17:30",
+      "match_highlight": "La Calzada's four-match win streak meets Yagüe's 2.20 GA/gm backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617391,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by our 1:2 and 0:2 projections, La Calzada's 2.40 points-per-game consistency and 1.9 goal expectancy outweigh Yagüe's fragile defense in a matchup of two zero-draw clubs."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.10 lambda total (59.9% Over 2.5 probability) and five consecutive Yagüe fixtures producing at least three total goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 (9.8%) reflects Yagüe's recent home scoring spark meeting La Calzada's 2-1 winning template, while 0:2 (8.1%) covers a repeat of La Calzada's recent 1-0 road shutout discipline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.6%) represent the two highest-probability outcomes in the Poisson distribution and align directly with 1:2 and 0:2."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures La Calzada breaking down a cautious early phase after the interval, while Loss-Loss models an early breakthrough against Yagüe's porous defense held through full-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:23:52 UTC"
+}
