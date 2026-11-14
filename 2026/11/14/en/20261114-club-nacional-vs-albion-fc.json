@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649060,
+    "matchup": "Club Nacional vs Albion FC",
+    "home_team": "Club Nacional",
+    "away_team": "Albion FC",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-14 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-club-nacional-vs-albion-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Club Nacional vs Albion FC Tactical Breakdown & Preview: Empty Stands & Suspensions Test Home Edge",
+    "meta": {
+      "matchId": "1649060",
+      "league": "Primera División",
+      "matchup": "Club Nacional vs Albion FC",
+      "matchTime": "2026-11-14 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club Nacional holds a decisive attacking and midfield-depth edge over depleted Albion FC in Round 14 of the Torneo Clausura, supporting an ordinary Home Win.",
+    "possibilityAssessment": [
+      "Club Nacional ordinary Home Win backed by Maximiliano Gómez, Luciano Boggio's return, and Albion losing Sebastián Jaume, Baltasar Barcia, and Agustín Vera (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals supported by a 2.57 lambda baseline adjusted upward for defensive and goalkeeping absences on both sides (Confidence: Moderate, Value: Moderate)",
+      "Transition upset threat via Álvaro López and Tobías Figueroa if empty-stadium flatness and Francisco Calvo's suspension disrupt Nacional's back three (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649060",
+      "league": "Primera División",
+      "homeTeam": "Club Nacional",
+      "awayTeam": "Albion FC",
+      "match_time": "23:00",
+      "match_highlight": "Nacional's Gómez targets Jaume-less Albion inside a silent Gran Parque Central.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649060,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Driven by the 2:1 and 2:0 home-win scripts as Nacional's superior firepower exploits an Albion side missing its starting goalkeeper and two regular midfielders."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "The 2.57 combined goal-expectancy lambda edges above 2.5 once Albion's goalkeeper absence and Nacional's defensive suspensions are factored in."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Nacional's attacking edge alongside Calvo-less conceding risk, while 2:0 covers the script where loan-depleted Albion cannot break through."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads as the 2:1 baseline with two goals representing the controlled 2:0 home victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Empty-stadium caution favors a level half-time before Nacional pulls away late, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:11:17 UTC"
+}
