@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1492312,
+    "matchup": "Chapecoense-sc vs Vasco DA Gama",
+    "home_team": "Chapecoense-sc",
+    "away_team": "Vasco DA Gama",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-14 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-chapecoense-sc-vs-vasco-da-gama/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Chapecoense-sc vs Vasco DA Gama: Expected Goals (xG), Midfield Crisis & Match Preview",
+    "meta": {
+      "matchId": "1492312",
+      "league": "Serie A",
+      "matchup": "Chapecoense-sc vs Vasco DA Gama",
+      "matchTime": "2026-11-14 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Vasco DA Gama's superior attacking trident meets a porous, relegated Chapecoense-sc defense while four visiting midfield absences keep the 1:1 draw live.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Vasco DA Gama's 1:2 second-half breakthrough script alongside a 1:1 stalemate if their improvised pivot struggles (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 2.94 combined goal expectancy and Chapecoense-sc's 1.78 xGA per match against an intact visiting frontline (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT reflects both sides' 53%–57% venue half-time draw rates and Vasco DA Gama's 76.5% second-half away goal share (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492312",
+      "league": "Serie A",
+      "homeTeam": "Chapecoense-sc",
+      "awayTeam": "Vasco DA Gama",
+      "match_time": "23:30",
+      "match_highlight": "Vasco's depleted midfield faces relegated Chapecoense-sc's porous home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492312,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the primary 1:2 away win driven by Vasco DA Gama's attacking superiority and the 1:1 draw script created by their four midfield absences and 20.0% away win rate, making a single call unduly fragile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.94 combined lambda, Vasco DA Gama's 1.58 xG per match, and Chapecoense-sc's 1.78 xGA and 2.06 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Vasco's frontline quality breaking down a depleted host back line while conceding once through an improvised midfield, with 1:1 covering a road stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Follows the Poisson peak around 2.94 total expected goals and recent scoring trends across both squads."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw over half of their first halves at these venues, shifting decisive outcomes to the second half where Vasco score heavily or share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:14:41 UTC"
+}
