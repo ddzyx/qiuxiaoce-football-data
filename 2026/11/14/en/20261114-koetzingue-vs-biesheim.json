@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647958,
+    "matchup": "Koetzingue vs Biesheim",
+    "home_team": "Koetzingue",
+    "away_team": "Biesheim",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-14 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-koetzingue-vs-biesheim/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Koetzingue vs Biesheim Prediction & Match Analysis: Can Regional Hosts Halt National 2 Firepower?",
+    "meta": {
+      "matchId": "1647958",
+      "league": "Coupe de France",
+      "matchup": "Koetzingue vs Biesheim",
+      "matchTime": "2026-11-14 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "ASC Biesheim's two-division National 2 quality and disciplined away cup execution make them strong favourites to defeat Régional 1 hosts ASL Koetzingue in regulation time.",
+    "possibilityAssessment": [
+      "Away Win — Biesheim's fourth-tier attacking depth and clean-sheet road blueprint anchor the primary regulation-time selection (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals (0:2 / 1:2) — Pragmatic cup game management and a 2.25 goal-expectancy baseline point toward a two-to-three goal ceiling (Confidence: Moderate, Value: Moderate)",
+      "Draw (1:1 Stalemate Contingency) — Heavy home defensive resistance could slow tempo enough to threaten a 90-minute deadlock and penalties (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647958",
+      "league": "Coupe de France",
+      "homeTeam": "Koetzingue",
+      "awayTeam": "Biesheim",
+      "match_time": "16:30",
+      "match_highlight": "National 2 firepower meets Regional 1 grit in Alsatian cup derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647958,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Biesheim's 16 goals in nine National 2 matches and consecutive 2:0 away cup wins outweigh Koetzingue's home advantage and unadjusted cup baseline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "With lambda_total at 2.25 and Biesheim keeping clean sheets in both prior 2026-27 cup rounds, a controlled 0:2 victory leads the goal distribution."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "0:2 mirrors Biesheim's exact 5th- and 6th-round road cup blueprint, while 1:2 covers a potential home consolation goal at Stade de la Croix."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal expectation under Biesheim's controlled game management, with three goals covering late transition or set-piece variance."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Biesheim can assert their two-tier advantage before half-time for Loss-Loss, while Draw-Loss covers a disciplined initial 45-minute regional block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 16:23:47 UTC"
+}
