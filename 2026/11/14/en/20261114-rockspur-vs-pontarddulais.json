@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646832,
+    "matchup": "Rockspur vs Pontarddulais",
+    "home_team": "Rockspur",
+    "away_team": "Pontarddulais",
+    "league": "Welsh Cup",
+    "kickoff_utc": "2026-11-14 14:15:00",
+    "source_url": "https://xgmind.com/matches/20261114-rockspur-vs-pontarddulais/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rockspur vs Pontarddulais Prediction & Match Analysis: Can Leaders Outlast Cup Threat? — Scoreline Preview",
+    "meta": {
+      "matchId": "1646832",
+      "league": "Welsh Cup",
+      "matchup": "Rockspur vs Pontarddulais",
+      "matchTime": "2026-11-14 14:15 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Support Home Win / Draw alongside Under 2.5 goals as first-place Rockspur face neutral-ground cup parity against familiar rivals Pontarddulais.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Rockspur's 39.4% Poisson win share and 10-from-12 league pace balanced against neutral-site draw risk (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined lambda, 60.9% Under 2.5 baseline, and 1:0 / 1:1 exact-score projections (Confidence: Moderate, Value: Moderate)",
+      "Pontarddulais early counter-attacking breakthrough via Iestyn Rees testing Rockspur's defensive recovery (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646832",
+      "league": "Welsh Cup",
+      "homeTeam": "Rockspur",
+      "awayTeam": "Pontarddulais",
+      "match_time": "14:15",
+      "match_highlight": "Tier 4 league leaders meet cup giant-killers on neutral turf.",
+      "ai_confidence": "Low",
+      "fixtureId": 1646832,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Rockspur edge and a 1:1 stalemate, as neutral staging and a 0.15 lambda gap make a single call unnecessarily exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored on a 2.25 combined lambda from 1.20 and 1.10 goals per game alongside consecutive 1:1 league meetings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Rockspur's superior league quality breaking through late, while 1:1 matches the top Poisson cell and September's league draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the top two Poisson goal counts (26.7% and 23.7%) under knockout tactical caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a guarded level first half at Glenhafod Park before Rockspur either edge the second period or finish deadlocked."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 13:40:45 UTC"
+}
