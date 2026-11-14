@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648034,
+    "matchup": "Machida Zelvia vs Vissel Kobe",
+    "home_team": "Machida Zelvia",
+    "away_team": "Vissel Kobe",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-machida-zelvia-vs-vissel-kobe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Machida Zelvia vs Vissel Kobe Prediction & Match Analysis: Can Depleted Hosts Hold 1-0 Lead?",
+    "meta": {
+      "matchId": "1648034",
+      "league": "J-League Cup",
+      "matchup": "Machida Zelvia vs Vissel Kobe",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Vissel Kobe are well positioned to avoid defeat over 90 minutes in a low-scoring second leg as Machida Zelvia manage a 1-0 aggregate lead without three international forwards.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Vissel Kobe avoiding defeat behind recalled starters against depleted hosts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals aligns with the 2.25 combined goal expectancy and Machida's compact low-block defense (Confidence: High, Value: Moderate)",
+      "Exact 0:1 Vissel Kobe away win forces extra time if Machida suffer another domestic scoring blank (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648034",
+      "league": "J-League Cup",
+      "homeTeam": "Machida Zelvia",
+      "awayTeam": "Vissel Kobe",
+      "match_time": "05:00",
+      "match_highlight": "Depleted Machida defend 1-0 aggregate lead against Vissel Kobe's recalled stars.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1648034,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win captures both Kobe forcing a 1:1 stalemate against Machida's aggregate-protecting block and Kobe stealing a 0:1 win over a host missing three international forwards, where picking either result alone leaves too much second-half variance uncovered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined Poisson goal expectancy, Machida's four clean sheets in five matches, and three confirmed attacking absences for the hosts strongly favor Under 2.5 Goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects Kobe's recalled frontline breaching Machida once before a host set-piece response, while 0:1 captures Kobe overturning the first-leg margin if Machida's depleted attack blanks."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal Poisson outcome (26.7% baseline) matching a 1:1 script, while one goal captures a razor-thin 0:1 knockout decider."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Five of the last seven head-to-head meetings were level at half-time, pointing to a cagey opening period followed by either a 1:1 stalemate or a late Kobe breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:49:28 UTC"
+}
