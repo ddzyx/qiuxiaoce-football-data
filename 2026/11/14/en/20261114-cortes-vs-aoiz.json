@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617081,
+    "matchup": "Cortes vs Aoiz",
+    "home_team": "Cortes",
+    "away_team": "Aoiz",
+    "league": "Tercera División RFEF - Group 15",
+    "kickoff_utc": "2026-11-14 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-cortes-vs-aoiz/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cortes vs Aoiz Prediction & Match Analysis: Can Fragile Hosts Contain Visitors? — Scoreline Preview",
+    "meta": {
+      "matchId": "1617081",
+      "league": "Tercera División RFEF - Group 15",
+      "matchup": "Cortes vs Aoiz",
+      "matchTime": "2026-11-14 14:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Cortes's 1.90 goals-conceded rate meets a disciplined Aoiz side that draws half its games, supporting Draw / Away Win alongside Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by an Aoiz victory via superior 1.20 vs 0.50 goal output (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals driven by a 2.25 combined lambda and Cortes's low scoring rate (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 stalemate if Cortes convert a set-piece chance against draw-prone Aoiz (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617081",
+      "league": "Tercera División RFEF - Group 15",
+      "homeTeam": "Cortes",
+      "awayTeam": "Aoiz",
+      "match_time": "14:30",
+      "match_highlight": "Cortes's leaky defense tests draw-prone Aoiz at San Francisco Javier.",
+      "ai_confidence": "Low",
+      "fixtureId": 1617081,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Aoiz's 0.85 lambda edge supports an away win (0:1), while their five draws in ten rounds warrant retaining the 1:1 draw script given unverified fifth-tier lineups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 lambda_total and Cortes's 0.50 goals-per-match output drive a 60.9% Under 2.5 probability."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 16.3% against Cortes's blunt attack, while 1:1 (11.4%) reflects Aoiz's frequent stalemates."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest-density bands in the 2.25 lambda_total distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expecting a cautious level opening half before either Aoiz break through late (0:1) or the points are shared (1:1)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:14:00 UTC"
+}
