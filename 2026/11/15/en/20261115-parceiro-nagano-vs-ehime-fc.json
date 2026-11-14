@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555807,
+    "matchup": "Parceiro Nagano vs Ehime FC",
+    "home_team": "Parceiro Nagano",
+    "away_team": "Ehime FC",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-parceiro-nagano-vs-ehime-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Parceiro Nagano vs Ehime FC Tactical Breakdown & Preview: Can Road Frailty Undo Ehime's Attack?",
+    "meta": {
+      "matchId": "1555807",
+      "league": "J3 League",
+      "matchup": "Parceiro Nagano vs Ehime FC",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Parceiro Nagano is projected to avoid defeat at Nagano U Stadium, with a narrow 2:1 home win leading ahead of a 1:1 draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by venue-adjusted defensive efficiency and five recent league wins (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals backed by a 3.09 combined Poisson expectancy and Ehime's 1.88 away goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency reflecting Ehime's midfield possession and four consecutive historical draws in this matchup (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555807",
+      "league": "J3 League",
+      "homeTeam": "Parceiro Nagano",
+      "awayTeam": "Ehime FC",
+      "match_time": "05:00",
+      "match_highlight": "Ehime's leaky away defense tested at Nagano U Stadium",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555807,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home transitional win against Ehime's leaky road defense and the 1:1 draw script given Ehime's 1.94 overall scoring rate and four straight H2H stalemates."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.09 combined goal expectancy, 59.7% Poisson Over 2.5 probability, and Ehime conceding 1.88 goals per away league match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Nagano's home defensive edge meeting Ehime's road frailty, while 1:1 covers the 10.8% modal Poisson scoreline and recent H2H parity."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.7%) represent the two highest-density totals around the 3.09 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win expects a cagey home opening half before Nagano breaks open Ehime's away defense late, while Win-Draw covers an early home lead pegged back to 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:01:18 UTC"
+}
