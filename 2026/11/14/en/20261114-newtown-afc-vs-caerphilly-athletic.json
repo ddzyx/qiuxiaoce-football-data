@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646830,
+    "matchup": "Newtown AFC vs Caerphilly Athletic",
+    "home_team": "Newtown AFC",
+    "away_team": "Caerphilly Athletic",
+    "league": "Welsh Cup",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-newtown-afc-vs-caerphilly-athletic/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Newtown AFC vs Caerphilly Athletic Prediction & Match Analysis: Can Robins' Defense Deny a Cup Upset?",
+    "meta": {
+      "matchId": "1646830",
+      "league": "Welsh Cup",
+      "matchup": "Newtown AFC vs Caerphilly Athletic",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Newtown AFC are projected to secure a disciplined regulation-time Home Win at Latham Park in an Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Home Win — Newtown's 24:5 Cymru North goal differential and Jamie Hyne's finishing form outweigh Caerphilly's leaky away backline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 — Statistical total lambda of 2.25 and four home clean sheets in six matches point to a controlled two-goal ceiling (Confidence: Moderate, Value: Moderate)",
+      "2:1 Home Win — Covers the transition risk where Fin Skiverton or Drew Perrett score once without overturning Newtown's control (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646830",
+      "league": "Welsh Cup",
+      "homeTeam": "Newtown AFC",
+      "awayTeam": "Caerphilly Athletic",
+      "match_time": "14:00",
+      "match_highlight": "Newtown's 5-goal league defense faces Fin Skiverton's cup counter threat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646830,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by Newtown AFC's 2:0 baseline control, 24:5 Cymru North record, and Caerphilly Athletic's 24 goals conceded in 13 league games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.25 combined statistical lambda, 60.9% Poisson under-2.5 mass, and Newtown's 0.38 goals-conceded rate per league game."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 mirrors Newtown's recent consecutive league wins, while 2:1 covers a single transition goal from Skiverton or Perrett."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals aligns with the 26.7% modal Poisson peak, with three goals capturing a late third or a 2:1 home victory."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Newtown often strike before half-time to control games, while Draw-Win covers Caerphilly holding firm until tiring after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 13:26:12 UTC"
+}
