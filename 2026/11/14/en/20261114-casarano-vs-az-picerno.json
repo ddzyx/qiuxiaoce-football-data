@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609124,
+    "matchup": "Casarano vs AZ Picerno",
+    "home_team": "Casarano",
+    "away_team": "AZ Picerno",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-casarano-vs-az-picerno/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Casarano vs AZ Picerno Tactical Breakdown & Match Analysis: Can Zauri's 3-5-2 Survive Chirico's Absence?",
+    "meta": {
+      "matchId": "1609124",
+      "league": "Serie C - Girone C",
+      "matchup": "Casarano vs AZ Picerno",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win (AZ Picerno leading) in an Under 2.5 contest represents the primary tactical and statistical trajectory at Stadio Giuseppe Capozza.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by AZ Picerno's 1.77 GPG attacking edge and Zauri's home stalemate path (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Casarano's curtailed attacking ceiling in a 1-to-2 goal script (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw script if Casarano's compact 3-5-2 exploits Picerno's 1.54 GA/g defensive road lapses (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609124",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Casarano",
+      "awayTeam": "AZ Picerno",
+      "match_time": "13:30",
+      "match_highlight": "Suspended Chirico leaves Casarano facing Picerno's sharp attack under strict Gauzolino.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609124,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 0:1 away breakthrough and a 1:1 home stalemate, as Picerno's 1.54 GA/g defense makes an outright single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Casarano's five absences—led by suspended Chirico—and Zauri's 3-5-2 structure pull scoring expectancy below the raw 3.04 Poisson lambda."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Balances Picerno's intact attacking spine overcoming a Chirico-less host against Zauri's tightened home unit holding for a point."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Personnel-adjusted goal expectancy clusters tightly around one to two total goals across 1:1, 0:2, and 0:1 game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey, level first half under Zauri's 3-5-2 before either Picerno breaks through late or parity holds to full-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:20:31 UTC"
+}
