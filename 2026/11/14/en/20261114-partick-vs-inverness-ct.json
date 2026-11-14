@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1556899,
+    "matchup": "Partick vs Inverness CT",
+    "home_team": "Partick",
+    "away_team": "Inverness CT",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-14 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-partick-vs-inverness-ct/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Partick vs Inverness CT Tactical Breakdown & Probabilistic Modeling: Early Control vs Road Resilience",
+    "meta": {
+      "matchId": "1556899",
+      "league": "Championship",
+      "matchup": "Partick vs Inverness CT",
+      "matchTime": "2026-11-14 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Partick's league-best home defensive record supports backing Home Win / Draw alongside Under 2.5 goals, balancing early Firhill control against camp illness uncertainty.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Partick's 85.7% home unbeaten rate and Inverness CT's 0% comeback-win record when trailing at half-time (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.15 combined goal lambda and 63.5% Poisson density at two goals or fewer (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency driven by Partick's camp sickness bug and Inverness CT's 40.0% deficit-recovery rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556899",
+      "league": "Championship",
+      "homeTeam": "Partick",
+      "awayTeam": "Inverness CT",
+      "match_time": "15:00",
+      "match_highlight": "Firhill's elite home defense faces an undisclosed Partick camp sickness test.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556899,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Partick's 0.50 GA/g defensive base anchors a narrow 1:0 home win, while a 0.35 lambda edge, August's 1:1 draw, and camp illness risks make a single Home Win call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.15 (63.5% Poisson mass under 2.5 goals), backed by Partick's six clean sheets in seven home league games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Partick's Firhill shutout efficiency and modest 1.29 GF/g, while 1:1 covers Inverness CT's transition punch if illness blunts the hosts late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.9%) and one goal (25.0%) lead the Poisson total-goals distribution directly aligned with the 1:0 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Partick's 71.4% home half-time lead rate favors Win-Win, while Draw-Draw captures their 100% draw conversion when level at the break at Firhill."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:50:39 UTC"
+}
