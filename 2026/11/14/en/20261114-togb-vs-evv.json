@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618466,
+    "matchup": "TOGB vs EVV",
+    "home_team": "TOGB",
+    "away_team": "EVV",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-togb-vs-evv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "TOGB vs EVV Prediction & Match Analysis: Can Depleted Visitors Resist Home Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1618466",
+      "league": "Derde Divisie",
+      "matchup": "TOGB vs EVV",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "TOGB is projected to secure a home victory against an EVV side missing eight confirmed players through suspension and injury in a match leaning toward Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win: TOGB capitalizes on artificial-turf attacking rhythm and EVV's depleted defensive/midfield spine to claim three points (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals: Combined Poisson lambda of 3.37 and TOGB's recent high-scoring home sequence point toward 3 or 4 total goals (Confidence: Moderate, Value: Moderate)",
+      "EVV Low-Block Resistance: Compact defending mirrors EVV's recent 1:0 away defeats and compresses scoring toward a 1:0 or 1:1 stalemate if TOGB misfires early (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618466",
+      "league": "Derde Divisie",
+      "homeTeam": "TOGB",
+      "awayTeam": "EVV",
+      "match_time": "14:00",
+      "match_highlight": "TOGB's home attack targets EVV's suspension-hit backline at Het Hoge Land.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618466,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Driven by the primary 2:1 scoreline, TOGB's home scoring power and EVV's eight confirmed absences support a home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.37 lambda total, TOGB's 2.17 conceded average, and recent 4:3, 3:3, and 3:1 home league scores favour three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "TOGB's multi-goal home output meets a depleted EVV defence, while TOGB's 2.17 goals-conceded rate keeps a visitor reply likely."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals leads the Poisson distribution (21.9%) and matches the 2:1 anchor, with four goals capturing a 3:1 late-fatigue branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "EVV's low-block survival tactics can hold TOGB level early before depleted legs fade, though an early TOGB strike also supports Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 12:31:51 UTC"
+}
