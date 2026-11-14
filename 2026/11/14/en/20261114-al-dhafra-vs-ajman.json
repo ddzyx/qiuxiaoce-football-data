@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647215,
+    "matchup": "Al-Dhafra vs Ajman",
+    "home_team": "Al-Dhafra",
+    "away_team": "Ajman",
+    "league": "League Cup",
+    "kickoff_utc": "2026-11-14 12:50:00",
+    "source_url": "https://xgmind.com/matches/20261114-al-dhafra-vs-ajman/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Dhafra vs Ajman Tactical Breakdown & Probabilistic Modeling: Can Ajman's Cup Surge Hold?",
+    "meta": {
+      "matchId": "1647215",
+      "league": "League Cup",
+      "matchup": "Al-Dhafra vs Ajman",
+      "matchTime": "2026-11-14 12:50 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ajman to avoid defeat via Draw / Away Win alongside Under 2.5 goals in a tight ADIB Cup clash at Madinat Zaid.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals with 0:1 and 1:1 Scoreline Coverage (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT Second-Half Ajman Breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647215",
+      "league": "League Cup",
+      "homeTeam": "Al-Dhafra",
+      "awayTeam": "Ajman",
+      "match_time": "12:50",
+      "match_highlight": "Unbeaten cup pace-setters Ajman test winless Al-Dhafra at Madinat Zaid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647215,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Ajman's 3-0-0 ADIB Cup winning trajectory (0:1) and the 1:1 stalemate script backed by a tight 2.25 combined lambda, as neither single outcome safely excludes the other."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal-based lambda (60.9% Poisson Under 2.5), Ajman's recent low-scoring matches, and four Under 2.5 finishes in the last five H2H meetings."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Ajman's back-to-back 1:0 away wins at Al-Dhafra and cup form, while 1:1 covers the top 13.3% Poisson density scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) lead the independent Poisson distribution and align directly with the 1:1 and 0:1 projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Four of the last five H2H meetings were 0:0 at half-time, making a level interval followed by an Ajman winner or full-time stalemate the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:55:03 UTC"
+}
