@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1616167,
+    "matchup": "Unión Sur Yaiza vs Estrella",
+    "home_team": "Unión Sur Yaiza",
+    "away_team": "Estrella",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-uni-n-sur-yaiza-vs-estrella/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Unión Sur Yaiza vs Estrella Prediction & Match Analysis: Home Edge vs Road Fragility — Preview",
+    "meta": {
+      "matchId": "1616167",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Unión Sur Yaiza vs Estrella",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Unión Sur Yaiza are projected to avoid defeat against Estrella, led by a narrow home win with the score draw retained as cover.",
+    "possibilityAssessment": [
+      "Unión Sur Yaiza Home Win or Draw backed by superior two-way goal rates and Estrella's four defeats in five away matches (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.60 combined goal lambda and three consecutive three-plus-goal home matches for Yaiza (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Contingency reflecting the top 12.4% Poisson scoreline density and potential tempo disruption from strict officiating (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616167",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Unión Sur Yaiza",
+      "awayTeam": "Estrella",
+      "match_time": "12:00",
+      "match_highlight": "Yaiza's home firepower tests Estrella's leaky away backline in Lanzarote.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616167,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a 2:1 home victory driven by Yaiza's home edge and a 1:1 draw given the narrow 0.30 lambda margin and Estrella's two-win momentum."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.60 combined lambda, 52.3% BTTS expectancy, Yaiza's three straight home Overs, and Estrella's 2.20 away goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Yaiza's home scoring edge against a leaky road defense, while 1:1 covers the top 12.4% Poisson scoreline if Estrella frustrate the hosts."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects recent home and away scoring trends, while two goals honors the 25.1% modal independent Poisson bucket."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks an early Yaiza breakthrough held to full-time, while Draw-Draw covers a cautious first half extending into a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 00:41:05 UTC"
+}
