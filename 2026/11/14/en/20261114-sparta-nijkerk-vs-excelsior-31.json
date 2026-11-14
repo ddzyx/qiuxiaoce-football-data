@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618464,
+    "matchup": "Sparta Nijkerk vs Excelsior '31",
+    "home_team": "Sparta Nijkerk",
+    "away_team": "Excelsior '31",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-sparta-nijkerk-vs-excelsior-31/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sparta Nijkerk vs Excelsior '31 Prediction & Match Analysis: Who Wins De Ebbenhorst Shootout? — Preview",
+    "meta": {
+      "matchId": "1618464",
+      "league": "Derde Divisie",
+      "matchup": "Sparta Nijkerk vs Excelsior '31",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Over 2.5 goals captures Excelsior '31's season-long goal-difference edge alongside Sparta Nijkerk's potent home scoring threat.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Excelsior '31 victory in a high-scoring contest (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by 3.87 combined Poisson lambda (Confidence: High, Value: Moderate)",
+      "High-scoring 2:2 draw if Sparta Nijkerk capitalize on late-game spaces (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618464",
+      "league": "Derde Divisie",
+      "homeTeam": "Sparta Nijkerk",
+      "awayTeam": "Excelsior '31",
+      "match_time": "14:00",
+      "match_highlight": "Excelsior '31's top-five efficiency meets Sparta Nijkerk's prolific home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618464,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers an Excelsior '31 1:2 away win anchored in superior season metrics alongside a 2:2 draw driven by Sparta Nijkerk's home firepower, as a single away call would ignore the visitors' two-game league skid."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.87 combined lambda, 2.17 vs 2.33 goals per game, and a 74.2% Poisson Over 2.5 probability."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Both scorelines sit atop the Poisson distribution inside the Draw / Away Win range while reflecting both attacks' consistency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (20.1%) and four goals (19.5%) are the two most probable totals under the 3.87 Poisson expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious opening exchanges give way to second-half acceleration, where Excelsior '31 either pull clear or trade goals in a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 12:19:33 UTC"
+}
