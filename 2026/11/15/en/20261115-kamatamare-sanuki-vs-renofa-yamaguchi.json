@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555805,
+    "matchup": "Kamatamare Sanuki vs Renofa Yamaguchi",
+    "home_team": "Kamatamare Sanuki",
+    "away_team": "Renofa Yamaguchi",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kamatamare-sanuki-vs-renofa-yamaguchi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kamatamare Sanuki vs Renofa Yamaguchi Prediction: Hayashida Ban & Scoreline Preview",
+    "meta": {
+      "matchId": "1555805",
+      "league": "J3 League",
+      "matchup": "Kamatamare Sanuki vs Renofa Yamaguchi",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Renofa Yamaguchi are backed for an Away Win in regulation, projected to prevail 0:2 under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Renofa Yamaguchi Away Win backed by 1.38 GF/0.81 GA profile and 51.0% Poisson win probability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.47 combined lambda and 55.2% Poisson probability toward a 0:2 scoreline (Confidence: Moderate, Value: Moderate)",
+      "1:2 Away Win secondary branch if Sanuki score once via Yuhi Murakami or Rei Yonezawa against a Wakasa-less midfield (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555805",
+      "league": "J3 League",
+      "homeTeam": "Kamatamare Sanuki",
+      "awayTeam": "Renofa Yamaguchi",
+      "match_time": "05:00",
+      "match_highlight": "Hayashida's suspension tests Sanuki's compact 3-5-2 against Yamamoto's promotion-chasing attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555805,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Renofa Yamaguchi's 1.38 GF/0.81 GA superiority and 51.0% Poisson win baseline align with a 0:2 or 1:2 away victory against a Hayashida-less Sanuki back three."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.47 combined lambda (55.2% Under 2.5 baseline), Sanuki's compact 3-5-2 tempo, and Yamaguchi's 0.81 GA defense point toward Under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "0:2 reflects Yamaguchi shutting out a Sano-doubtful attack while exploiting Hayashida's ban; 1:2 covers a single Sanuki transition goal."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson goal density peaks at 2 goals (25.8%) and 3 goals (21.2%), matching the 0:2 primary and 1:2 secondary projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Sanuki's compact 3-5-2 favors a level first half before Yamaguchi prevail late (Draw-Loss), with Loss-Loss covering an early away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:53:23 UTC"
+}
