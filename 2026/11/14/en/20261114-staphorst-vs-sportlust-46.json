@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618461,
+    "matchup": "Staphorst vs Sportlust '46",
+    "home_team": "Staphorst",
+    "away_team": "Sportlust '46",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-staphorst-vs-sportlust-46/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Staphorst vs Sportlust '46 Prediction & Match Analysis: Can Crowther Break Visitors? — Scoreline Preview",
+    "meta": {
+      "matchId": "1618461",
+      "league": "Derde Divisie",
+      "matchup": "Staphorst vs Sportlust '46",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sportlust '46 hold the structural edge over a porous Staphorst backline, supporting Draw / Away Win (Away Win leading) alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Away Win leading, supported by 2.00 away goal expectancy vs 2.33 home goals conceded per match) (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (3.46 combined Poisson lambda and 6/6 recent Staphorst league matches clearing 2.5) (Confidence: Moderate, Value: High)",
+      "Secondary 2:2 Draw hedge (Covers Sam Crowther's home threat and Sportlust '46's 33.3% league draw rate) (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618461",
+      "league": "Derde Divisie",
+      "homeTeam": "Staphorst",
+      "awayTeam": "Sportlust '46",
+      "match_time": "13:30",
+      "match_highlight": "Sportlust '46 test leaky Staphorst backline in open Derde Divisie clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618461,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Sportlust '46 win against Staphorst's 2.33 GA/g defense and a 2:2 draw given unverified amateur lineups and Crowther's home scoring threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.46 combined goal expectancy (67.2% Over 2.5 in Poisson) and six consecutive Staphorst league games producing three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Balances Sportlust '46's 2.00 away goal expectancy against Staphorst's 1.50 goals-per-game home scoring capability."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Targets the highest-probability three-goal (21.7%) and four-goal (18.8%) Poisson bands consistent with an open contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Sportlust '46's pattern of level half-times before pulling away after the break, with Draw-Draw covering a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 11:15:22 UTC"
+}
