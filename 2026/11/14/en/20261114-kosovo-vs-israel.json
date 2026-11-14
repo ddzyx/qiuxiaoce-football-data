@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528971,
+    "matchup": "Kosovo vs Israel",
+    "home_team": "Kosovo",
+    "away_team": "Israel",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-kosovo-vs-israel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kosovo vs Israel Prediction & Match Analysis: Can Hosts Break Israel's Low Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1528971",
+      "league": "UEFA Nations League",
+      "matchup": "Kosovo vs Israel",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kosovo's territorial shot volume and Israel's 1.75 goals-conceded rate favour a narrow home victory in a low-scoring match, though Kosovo's 62.5% big-chance waste ratio and defensive absences require covering the draw.",
+    "possibilityAssessment": [
+      "Kosovo edge a tight home win (1:0) or concede once in a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by a 2.00 combined lambda and 67.7% Poisson support (Confidence: High, Value: Moderate)",
+      "Israel hold or recover a point (1:1) if Manor Solomon passes fit against Kosovo's reshuffled center-backs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528971",
+      "league": "UEFA Nations League",
+      "homeTeam": "Kosovo",
+      "awayTeam": "Israel",
+      "match_time": "14:00",
+      "match_highlight": "Kosovo home shot pressure tests winless, injury-hit Israel low block",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528971,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Kosovo's leading 1:0 home win script alongside a 1:1 draw hedge because Kosovo's 62.5% big-chance waste rate and back-line absences leave a pure single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.00 combined lambda, 67.7% Poisson Under 2.5 probability, and three straight low-scoring head-to-head meetings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 leads at 16.9% Poisson density on Kosovo's home shot dominance, while 1:1 (12.7%) captures Kosovo's patched-up defense conceding once."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 goals tie atop the Poisson distribution at 27.1% each, matching the 1:0 and 1:1 scoreline anchors."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams carry a 0.0% first-half goal share in Nations League play, pointing to a level interval before Kosovo either break through (Draw-Win) or remain deadlocked (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 11:23:06 UTC"
+}
