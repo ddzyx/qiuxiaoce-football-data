@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649956,
+    "matchup": "Zorya Luhansk vs FC Kharkiv",
+    "home_team": "Zorya Luhansk",
+    "away_team": "FC Kharkiv",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-zorya-luhansk-vs-fc-kharkiv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zorya Luhansk vs FC Kharkiv Prediction & Match Analysis: Break Rotation & Tactical Balance",
+    "meta": {
+      "matchId": "1649956",
+      "league": "Friendlies Clubs",
+      "matchup": "Zorya Luhansk vs FC Kharkiv",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "With independent Poisson modeling projecting a tight 2.25 combined goal expectancy and unconfirmed international-break rotation capping attacking intensity, backing Home Win / Draw led by a 1:1 stalemate alongside Under 2.5 Goals provides the most balanced projection.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw anchored on Zorya Luhansk's 1.20-to-1.05 lambda edge and a 68.0% combined Poisson unbeaten probability in a controlled friendly (Confidence: Low, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Total Goals supported by 60.9% Poisson probability below three goals and cautious 45-to-60-minute rotation blocks (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: FC Kharkiv exploits familiar Shchaslyve training pitches and repeat counter-attacking lanes to edge a 0:1 result if Zorya's possession stalls (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649956",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Zorya Luhansk",
+      "awayTeam": "FC Kharkiv",
+      "match_time": "13:00",
+      "match_highlight": "Closed-doors friendly tests Zorya depth against FC Kharkiv's transition threat.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649956,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1:1 friendly stalemate and Zorya's 1:0 statistical edge, as unconfirmed closed-doors rotation makes a single decisive call too fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.25 lambda yields a 60.9% Poisson probability for two goals or fewer amid cautious friendly minute management."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Represents the top two independent Poisson scorelines (13.3% and 12.6%), aligning with Zorya's 1.00 goals-conceded baseline and experimental friendly pacing."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Targets the two highest-density Poisson total-goal buckets (26.7% and 23.7%) consistent with controlled mid-break tactical testing."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anticipates a cautious scoreless or level opening half followed either by a shared finish or a late Zorya breakthrough via domestic bench depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 08:09:11 UTC"
+}
