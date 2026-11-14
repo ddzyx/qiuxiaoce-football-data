@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649955,
+    "matchup": "Novi Pazar vs Otrant-Olympic",
+    "home_team": "Novi Pazar",
+    "away_team": "Otrant-Olympic",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-novi-pazar-vs-otrant-olympic/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Novi Pazar vs Otrant-Olympic Tactical Breakdown & Preview: Can Serbian Depth Halt Montenegrin Attack?",
+    "meta": {
+      "matchId": "1649955",
+      "league": "Friendlies Clubs",
+      "matchup": "Novi Pazar vs Otrant-Olympic",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Novi Pazar to avoid defeat (Home Win / Draw) in a low-scoring friendly leaning toward Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Novi Pazar's 39.4% baseline win share and 28.6% draw probability (Confidence: Low, Value: Moderate)",
+      "Under 2.5 aligns with the 2.25 combined lambda total and 60.9% baseline share for two or fewer goals (Confidence: Moderate, Value: Moderate)",
+      "Otrant-Olympic transition threat against Novi Pazar's Dadić-less left flank keeps a 1:1 draw firmly in play (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649955",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Novi Pazar",
+      "awayTeam": "Otrant-Olympic",
+      "match_time": "12:00",
+      "match_highlight": "Serbian Super Liga depth faces high-scoring Montenegrin visitors in mid-break test.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649955,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow Novi Pazar 1:0 victory and the modal 1:1 stalemate, as friendly rotation and high chance waste argue against a single home call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined Poisson lambda, Novi Pazar's 31.4% clean-sheet rate, and expected second-half friendly substitutions."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% due to Otrant-Olympic's recent scoring surge, while 1:0 reflects Novi Pazar's set-piece and defensive edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) dominate the Poisson total-goals distribution under a 2.25 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "An exploratory, level first half aligns with Novi Pazar's low-possession profile before second-half bench depth decides between a narrow win or draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:44:09 UTC"
+}
