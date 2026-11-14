@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555806,
+    "matchup": "Kanazawa vs Roasso Kumamoto",
+    "home_team": "Kanazawa",
+    "away_team": "Roasso Kumamoto",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kanazawa-vs-roasso-kumamoto/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kanazawa vs Roasso Kumamoto Prediction & Match Analysis: Can Home Depth Break Kumamoto's Defense?",
+    "meta": {
+      "matchId": "1555806",
+      "league": "J3 League",
+      "matchup": "Kanazawa vs Roasso Kumamoto",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kanazawa are projected to avoid defeat at home against Roasso Kumamoto in a controlled, Under 2.5 Goals contest centered on 1:1 and 1:0.",
+    "possibilityAssessment": [
+      "Kanazawa Win or Draw via 37.1% Poisson win density and 27.2% draw share in an evenly matched J3 fixture (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by 2.47 combined lambda and 55.2% model probability across 0–2 goals (Confidence: Moderate, Value: Moderate)",
+      "Roasso Kumamoto 1:0 road smash-and-grab via dead-ball efficiency if Kanazawa's forward absences blunt open-play cutting edge (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555806",
+      "league": "J3 League",
+      "homeTeam": "Kanazawa",
+      "awayTeam": "Roasso Kumamoto",
+      "match_time": "05:00",
+      "match_highlight": "Kanazawa's 1.75 goal average tests Kumamoto's league-best 0.75 defensive record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555806,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retaining Home Win / Draw covers both the 1:0 home breakthrough and the 1:1 modal stalemate, whereas a single call would ignore either Kanazawa's home edge or Kumamoto's 0.75-goals-conceded floor."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by 2.47 combined lambda (55.2% Under 2.5 density), Kanazawa's two confirmed forward injuries, and Kumamoto's 0.75 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 (12.9%) and 1:0 (10.6%) represent the two densest Poisson outcomes reconciling Kanazawa's home pressure with Kumamoto's compact defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 Goals (25.8%) and 1 Goal (20.9%) anchor the lower-scoring distribution behind a 2.47 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "An initially cautious first half favors a level interval before second-half fatigue either opens a home winner or preserves a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:57:40 UTC"
+}
