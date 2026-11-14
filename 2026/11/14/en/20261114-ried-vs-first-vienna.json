@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649957,
+    "matchup": "Ried vs First Vienna",
+    "home_team": "Ried",
+    "away_team": "First Vienna",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-ried-vs-first-vienna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ried vs First Vienna Prediction & Match Analysis: Tightening Late Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1649957",
+      "league": "Friendlies Clubs",
+      "matchup": "Ried vs First Vienna",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ried to avoid defeat with a Home Win / Draw focus in a controlled, Under 2.5 friendly where the hosts' Bundesliga quality meets First Vienna's second-half transition threat.",
+    "possibilityAssessment": [
+      "Ried Home Win or Draw led by Bundesliga attacking quality and defensive tightening focus (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals anchored by a 2.25 combined lambda and controlled friendly tempo (Confidence: Moderate, Value: Moderate)",
+      "Win-Draw half-time/full-time swing if Ried lead early before second-half rotations invite a late equalizer (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649957",
+      "league": "Friendlies Clubs",
+      "homeTeam": "Ried",
+      "awayTeam": "First Vienna",
+      "match_time": "13:00",
+      "match_highlight": "Can Ried curb late defensive lapses against First Vienna's sharp attack?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649957,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Ried's home Bundesliga edge in a 1:0 win alongside a 1:1 draw driven by friendly rotations, avoiding an overconfident single win call given Ried's five-match conceding run."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal-based lambda of 2.25 yields a 60.9% Poisson probability for 0–2 goals, reinforced by Ried's defensive focus and lower-stakes friendly rotation pacing."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "A 1:0 home win reflects Ried's top-flight class and defensive drill, while 1:1 is the top Poisson baseline outcome (13.3%) if late lapses persist."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 goals (26.7%) and 1 goal (23.7%) dominate the Poisson distribution and align directly with the 1:0 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a cagey opening half before Ried's depth breaks through, while Win-Draw covers an early home lead erased after second-half substitutions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 08:12:36 UTC"
+}
