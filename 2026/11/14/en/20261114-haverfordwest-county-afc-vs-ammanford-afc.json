@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646826,
+    "matchup": "Haverfordwest County AFC vs Ammanford AFC",
+    "home_team": "Haverfordwest County AFC",
+    "away_team": "Ammanford AFC",
+    "league": "Welsh Cup",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-haverfordwest-county-afc-vs-ammanford-afc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Haverfordwest County AFC vs Ammanford AFC Prediction & Match Analysis: Can Injury-Hit Bluebirds Hold Edge?",
+    "meta": {
+      "matchId": "1646826",
+      "league": "Welsh Cup",
+      "matchup": "Haverfordwest County AFC vs Ammanford AFC",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Haverfordwest County AFC's superior defensive record and recent 1-0 league victory support backing Home Win / Draw in a tight, Under 2.5 Welsh Cup tie at Bridge Meadow Stadium.",
+    "possibilityAssessment": [
+      "Haverfordwest County edge or draw a low-scoring cup rematch against Ammanford's 43-goal-conceded league defense (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligned with a 2.25 combined lambda and 60.9% Poisson density (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw half-time/full-time stalemate if home injury doubts limit Haverfordwest's fluency (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646826",
+      "league": "Welsh Cup",
+      "homeTeam": "Haverfordwest County AFC",
+      "awayTeam": "Ammanford AFC",
+      "match_time": "14:00",
+      "match_highlight": "Haverfordwest face Ammanford amid Rees and Walters fitness doubts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646826,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Haverfordwest's home and defensive edge in a 1:0 win alongside a 1:1 cup stalemate, as home injury doubts prevent relying solely on a single Home Win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda (60.9% Under 2.5 Poisson probability) and tight recent head-to-head margins."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 mirrors October 30's tight win for Haverfordwest, while 1:1 reflects the top Poisson cell and November 2024's Welsh Cup draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two Poisson total-goal densities at 26.7% and 23.7% under a 2.25 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious opening 45 minutes before Haverfordwest either break through late or share a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 13:09:35 UTC"
+}
