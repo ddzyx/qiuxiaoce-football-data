@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545862,
+    "matchup": "Algeria vs Togo",
+    "home_team": "Algeria",
+    "away_team": "Togo",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-14 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-algeria-vs-togo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Algeria vs Togo Prediction & Match Analysis: Can Togo's New-Look Defense Hold? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545862",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Algeria vs Togo",
+      "matchTime": "2026-11-14 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backed by a 377-point Elo gap and 2.50 goals per qualifier, Algeria are projected to beat injury-hit Togo in Tizi Ouzou.",
+    "possibilityAssessment": [
+      "Algeria Home Win driven by Amoura-Gouiri-Maza firepower and Togo missing Boma, Nador, and Zuberu (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals supported by a 2.75 combined lambda and Algeria's five-match non-clean-sheet streak (Confidence: Moderate, Value: Moderate)",
+      "Algeria 2:0 clean-sheet hedge if Togo's 0.50 goals-per-qualifier attack struggles without Zuberu (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545862",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Algeria",
+      "awayTeam": "Togo",
+      "match_time": "19:00",
+      "match_highlight": "Algeria's home firepower tests Togo's reshuffled, injury-hit backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545862,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Algeria's home attacking output and Elo superiority point toward a 2:1 or 2:0 victory over an injury-depleted Togo side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.75 goal expectancy and three consecutive three-plus goal outings under Brahim Hemdani favor Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Algeria's 2.50 qualifier scoring rate versus their five-game concession streak centers on 2:1, with 2:0 as the clean-sheet control branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Both two and three total goals dominate the Poisson distribution, with three goals slightly favored by Algeria's open home tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Togo's early defensive block can hold until half-time before Algeria's second-half acceleration tells, with an early home breakthrough as the alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 18:38:27 UTC"
+}
