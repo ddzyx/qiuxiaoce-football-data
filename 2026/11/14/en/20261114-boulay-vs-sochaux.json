@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647931,
+    "matchup": "Boulay vs Sochaux",
+    "home_team": "Boulay",
+    "away_team": "Sochaux",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-boulay-vs-sochaux/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Boulay vs Sochaux Tactical Breakdown & Probabilistic Modeling: Can Depleted Sochaux Break R1 Hosts?",
+    "meta": {
+      "matchId": "1647931",
+      "league": "Coupe de France",
+      "matchup": "Boulay vs Sochaux",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sochaux's Ligue 2 defensive and midfield spine should control territory over 90 minutes, while 12 confirmed absences and a 77.8% big-chance waste rate make covering the draw alongside an away win the most balanced call.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by a controlled Sochaux victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by compressed scoring expectancy and missing Sochaux attackers (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw if Boulay's home low block holds against Sochaux's wasteful finishing (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647931",
+      "league": "Coupe de France",
+      "homeTeam": "Boulay",
+      "awayTeam": "Sochaux",
+      "match_time": "13:30",
+      "match_highlight": "Twelve Sochaux absences test Ligue 2 quality at R1 Boulay.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647931,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Sochaux's 0:2 conditioning breakthrough as primary while covering a 1:1 stalemate created by 12 confirmed absentees, where a single call alone underweights Sochaux's 77.8% big-chance waste."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, 60.9% baseline Under 2.5 distribution, and missing Sochaux creators."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects late Ligue 2 physical separation, while 1:1 captures a stubborn Régional 1 home resistance if Sochaux misfire."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the 26.7% two-goal and 23.7% one-goal baseline modes in a tight cup knockout."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects Boulay's fresh legs to hold level until half-time before either succumbing late to Sochaux (Draw-Loss) or seeing out a 90-minute draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 11:18:57 UTC"
+}
