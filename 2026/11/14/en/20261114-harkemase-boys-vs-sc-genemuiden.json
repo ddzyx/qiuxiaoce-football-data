@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618458,
+    "matchup": "Harkemase Boys vs SC Genemuiden",
+    "home_team": "Harkemase Boys",
+    "away_team": "SC Genemuiden",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-harkemase-boys-vs-sc-genemuiden/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Harkemase Boys vs SC Genemuiden Tactical Breakdown & Probabilistic Modeling: Open Tempo at De Bosk",
+    "meta": {
+      "matchId": "1618458",
+      "league": "Derde Divisie",
+      "matchup": "Harkemase Boys vs SC Genemuiden",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Harkemase Boys are projected to avoid defeat in an open, high-scoring contest, with a narrow home win leading a live draw alternative.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.46 combined goal expectancy (Confidence: Moderate, Value: High)",
+      "HT/FT Win-Draw capturing a second-half SC Genemuiden fightback (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618458",
+      "league": "Derde Divisie",
+      "homeTeam": "Harkemase Boys",
+      "awayTeam": "SC Genemuiden",
+      "match_time": "13:30",
+      "match_highlight": "Harkemase home firepower meets Genemuiden road leaks in high-tempo clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618458,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "2:1 home control leads on De Bosk form and Genemuiden road leaks, while 2:2 covers the 0.12 expectancy gap and Postma doubt."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides average 2.00+ goals per league game with a 3.46 combined lambda and 67.2% Poisson Over 2.5 probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Both scorelines reflect high attacking efficiency on each side paired with Harkemase's slight home defensive edge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals carry the highest Poisson probability densities (21.7% and 18.8%) and match recent league tallies."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Harkemase frequently start fast at home to lead at half-time, with Genemuiden's late-scoring ability threatening a second-half equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:47:43 UTC"
+}
