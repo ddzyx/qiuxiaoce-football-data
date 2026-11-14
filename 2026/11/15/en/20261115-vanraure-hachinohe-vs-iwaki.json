@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606763,
+    "matchup": "Vanraure Hachinohe vs Iwaki",
+    "home_team": "Vanraure Hachinohe",
+    "away_team": "Iwaki",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-15 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-vanraure-hachinohe-vs-iwaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vanraure Hachinohe vs Iwaki Match Analysis & Preview: Can Iwaki's Attack Overcome Road Flaws?",
+    "meta": {
+      "matchId": "1606763",
+      "league": "J2 League",
+      "matchup": "Vanraure Hachinohe vs Iwaki",
+      "matchTime": "2026-11-15 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Iwaki's superior 1.62 goals-per-game attack and second-half scoring surge give the visitors the primary edge, though Haruto Nakano's suspension and an eight-match road clean-sheet drought keep a draw firmly in play.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Iwaki's clear finishing advantage over a host on four straight losses alongside the visitors' road defensive vulnerability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 50.6% low-scoring Poisson majority and Vanraure Hachinohe's 62.5% home blank rate (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss / Draw-Draw HT/FT reflects Iwaki's 0% away half-time lead rate before their late second-half surge or a 1:1 stalemate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606763",
+      "league": "J2 League",
+      "homeTeam": "Vanraure Hachinohe",
+      "awayTeam": "Iwaki",
+      "match_time": "04:00",
+      "match_highlight": "Iwaki's second-half attack tests a struggling host despite defensive suspension.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606763,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Iwaki's 0:2 second-half breakthrough and a 1:1 draw, as a single away win ignores Iwaki's 2W-1D-5L road record and Haruto Nakano's suspension."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 50.6% Poisson Under 2.5 share, Hachinohe's 0.69 goals per game, and four of the hosts' last five matches staying under three goals."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 mirrors Iwaki's two-goal away winning margin profile against a blank-prone host, while 1:1 reflects Iwaki's 0% away clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals is the modal Poisson outcome at 24.8%, with 3 goals (21.9%) covering the 1:2 branch if Iwaki concede away again."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Iwaki have never led at half-time away (0/8) while scoring 72.7% of away goals after the break, pointing to a level interval before a decisive or drawn finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:43:02 UTC"
+}
