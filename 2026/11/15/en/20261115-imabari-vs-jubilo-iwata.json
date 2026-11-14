@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606764,
+    "matchup": "Imabari vs Jubilo Iwata",
+    "home_team": "Imabari",
+    "away_team": "Jubilo Iwata",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-15 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-imabari-vs-jubilo-iwata/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Imabari vs Jubilo Iwata Tactical Breakdown & Probabilistic Modeling: Can Depleted Hosts Hold Steady?",
+    "meta": {
+      "matchId": "1606764",
+      "league": "J2 League",
+      "matchup": "Imabari vs Jubilo Iwata",
+      "matchTime": "2026-11-15 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 goals as Jubilo Iwata's disciplined second-half execution meets an Imabari side struggling for open-play scoring.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Jubilo Iwata's 50.4% Poisson win baseline and 0:2 / 1:1 scoreline convergence (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by Imabari's 0.31 decayed goals-for average and Iwata's 0.69 decayed goals-against rate over five games (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency covering Iwata's 12.5% away clean-sheet rate and Imabari's 4-to-0 set-piece goal edge (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606764",
+      "league": "J2 League",
+      "homeTeam": "Imabari",
+      "awayTeam": "Jubilo Iwata",
+      "match_time": "05:00",
+      "match_highlight": "Depleted Imabari defense faces unbeaten Jubilo Iwata without right-back Rei Umeki.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606764,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Jubilo Iwata's favoured 0:2 victory script and the 1:1 road stalemate because Iwata's 37.5% away win rate and 12.5% away clean-sheet rate make a single away-win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson totals lean 51.4% Under 2.5 at a 2.62 combined lambda, reinforced by Imabari's 0.31 decayed goals-for average and Iwata's 0.69 decayed concession rate."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 captures Iwata's away scoring consistency against a weakened 2.00-GA/gm defense, while 1:1 reflects the 11.9% Poisson modal scoreline and Iwata's recent draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.0% baseline probability) aligns directly with 0:2 and 1:1, while three goals (21.8%) covers the 1:2 branch if Imabari convert from a set play."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Imabari have never led at half-time at home (0/7) and Iwata draw half of their away first halves before converting 57.1% of overall level intervals into wins, leaving Draw-Draw as the natural second-half fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:39:10 UTC"
+}
