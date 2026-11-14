@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1516173,
+    "matchup": "Neftchi vs Bunyodkor",
+    "home_team": "Neftchi",
+    "away_team": "Bunyodkor",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-neftchi-vs-bunyodkor/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Neftchi vs Bunyodkor Tactical Breakdown & Match Analysis: Title Leaders Exploit Visitors' Crisis",
+    "meta": {
+      "matchId": "1516173",
+      "league": "Super League",
+      "matchup": "Neftchi vs Bunyodkor",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back league leaders Neftchi for a home victory over crisis-hit Bunyodkor in a contest leaning toward Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win driven by Neftchi's 2.35 goals-per-game output and available attackers against Bunyodkor's depleted goalkeeper and midfield setup (Confidence: Moderate, Value: High)",
+      "Total Goals direction: Over 2.5 supported by a 2.96 combined Poisson goal expectancy, Neftchi's six-match run of 3+ goal games, and Bunyodkor's 1.65 goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Tactical contingency: Bunyodkor's deep block forces a tight first half before Neftchi's bench breaks through late or Matija Krivokapic threatens once on transition (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516173",
+      "league": "Super League",
+      "homeTeam": "Neftchi",
+      "awayTeam": "Bunyodkor",
+      "match_time": "13:00",
+      "match_highlight": "League leaders Neftchi test crisis-hit Bunyodkor's depleted goalkeeping and midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516173,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a projected 2:1 or 2:0 home success, Neftchi's 2.35 goals-per-game attack and retained creators outweigh Abrorbek Ismoilov's international absence against a Bunyodkor side missing departed keeper Federico Botti and midfielder Azizbek Tulkunbekov."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.96 combined Poisson goal expectancy, Neftchi conceding in six consecutive competitive matches, and Bunyodkor's unsettled goalkeeping support three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Neftchi's recent pattern of winning high-scoring games while conceding, whereas 2:0 covers a controlled home clean sheet if Bunyodkor's depleted midfield cannot supply Matija Krivokapic."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the core 2:1 script and 56.8% Over 2.5 Poisson mass, while 2 goals aligns with the joint-leading 2:0 clean-sheet baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects four consecutive level half-times in recent head-to-heads and Neftchi's 64.7% second-half goal share, while Win-Win covers an early breakthrough against Bunyodkor's backup goalkeeper."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 02:10:11 UTC"
+}
