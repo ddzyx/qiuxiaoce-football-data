@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559490,
+    "matchup": "Turkey U17 vs Hungary U17",
+    "home_team": "Turkey U17",
+    "away_team": "Hungary U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-turkey-u17-vs-hungary-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Turkey U17 vs Hungary U17 Prediction & Match Analysis: Can Magyars Fix Late Collapse? — Preview",
+    "meta": {
+      "matchId": "1559490",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Turkey U17 vs Hungary U17",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Turkey U17 are projected to claim a regulation victory over Hungary U17 in an open Group 11 clash yielding three or more goals.",
+    "possibilityAssessment": [
+      "Turkey U17 Home Win — Four-match winning run and 3.60 decayed goals per game overwhelm Hungary's leaky second-half defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined 4.50 Poisson lambda expectancy and Hungary's four-match run without a clean sheet support three or more goals (Confidence: Moderate, Value: High)",
+      "Hungary U17 Early-Strike Variance — Magyars scored inside 10 minutes on Matchday 1 and could test Turkey early before fading late (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559490",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Turkey U17",
+      "awayTeam": "Hungary U17",
+      "match_time": "12:00",
+      "match_highlight": "Turkey's home firepower tests Hungary's fragile second-half defense in Trabzon.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559490,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Turkey U17's Trabzon home advantage, 100.0 weighted form, and attacking depth align with a 3:1 or 2:1 win over a porous Hungarian back line."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.50 combined Poisson lambda, Turkey's 3.60 decayed goals per game, and Hungary's zero clean sheets across four matches support three or more goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 leads the Poisson matrix at 7.9% while 2:1 accounts for opponent-quality normalization against a competitive Hungarian attack."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four goals (19.0%) and three goals (16.9%) capture the core opponent-adjusted scoring band across 3:1 and 2:1 home-win scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Turkey's fast home starts favor leading both halves (Win-Win), while a compact Hungarian first half before a late fade backs Draw-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:22:15 UTC"
+}
