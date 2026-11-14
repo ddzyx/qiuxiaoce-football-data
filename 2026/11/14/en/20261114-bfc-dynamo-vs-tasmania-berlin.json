@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649954,
+    "matchup": "BFC Dynamo vs Tasmania Berlin",
+    "home_team": "BFC Dynamo",
+    "away_team": "Tasmania Berlin",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-bfc-dynamo-vs-tasmania-berlin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "BFC Dynamo vs Tasmania Berlin Prediction & Match Analysis: Rotation vs Class Gap — Scoreline Preview",
+    "meta": {
+      "matchId": "1649954",
+      "league": "Friendlies Clubs",
+      "matchup": "BFC Dynamo vs Tasmania Berlin",
+      "matchTime": "2026-11-14 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lean toward BFC Dynamo to avoid defeat in a controlled Under 2.5 friendly, balancing their superior home league structure against second-half substitution uncertainty.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by BFC Dynamo's 21-point Regionalliga Nordost cushion and conservative 2.25 lambda expectation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by the 60.9% Poisson projection and BFC Dynamo's five consecutive low-scoring league outings (Confidence: Moderate, Value: Moderate)",
+      "Win-Draw second-half hedge covering late defensive lapses if BFC Dynamo rotate starters after the hour mark (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649954",
+      "league": "Friendlies Clubs",
+      "homeTeam": "BFC Dynamo",
+      "awayTeam": "Tasmania Berlin",
+      "match_time": "12:00",
+      "match_highlight": "BFC Dynamo home structure faces Tasmania counter amid friendly rotation.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649954,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers BFC Dynamo's 2:0 structural win script and a 1:1 rotation draw, as unconfirmed friendly XIs prevent treating a single home call as settled."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by the 2.25 statistical lambda total (60.9% Under 2.5) and BFC Dynamo conceding only three goals in eight home league matches."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects BFC Dynamo's disciplined home blueprint, while 1:1 matches the top Poisson scoreline if second-half friendly changes open space."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson and tactical fit, with three goals covering a late friendly defensive breakdown."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "BFC Dynamo's first-choice starters should lead early against Tasmania's fragile back line before second-half substitutions test lead protection."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:41:33 UTC"
+}
