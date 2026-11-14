@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647927,
+    "matchup": "Balagne vs Montpellier",
+    "home_team": "Balagne",
+    "away_team": "Montpellier",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-balagne-vs-montpellier/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Balagne vs Montpellier Prediction & Match Analysis: Can Depleted MHSC Survive Corsica? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647927",
+      "league": "Coupe de France",
+      "matchup": "Balagne vs Montpellier",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Montpellier's surviving Ligue 2 core holds a narrow edge over National 2 hosts Balagne, though heavy squad depletion makes covering the 90-minute draw alongside an away win the disciplined position.",
+    "possibilityAssessment": [
+      "Draw / Away Win pairs Montpellier's retained professional spine with Balagne's home cup stalemate threat (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals is backed by a 2.25 combined lambda, Montpellier's tight Ligue 2 defense, and missing visiting strikers (Confidence: High, Value: Moderate)",
+      "A 1:1 Draw and Draw-Draw script capture Balagne forcing penalties via synthetic-turf discipline and counter-attacking (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647927",
+      "league": "Coupe de France",
+      "homeTeam": "Balagne",
+      "awayTeam": "Montpellier",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Montpellier faces confident Balagne on Monticello's synthetic pitch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647927,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Montpellier win via retained Ligue 2 quality and a 1:1 draw caused by eleven absences on synthetic turf, where a single call would ignore genuine stalemate risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda_total (60.9% Under 2.5 baseline), Montpellier's 0.75 Ligue 2 goals conceded per game, and missing visiting forwards."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Balances a patient professional breakthrough through Nicolas Pays or set plays against Balagne holding a 90-minute stalemate like their sixth-round tie."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Targets the top two Poisson goal buckets (26.7% and 23.7%), fitting both 1:1/0:2 and 0:1 low-scoring cup scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight, level first half on artificial turf before Montpellier either break through late or get held to 90-minute parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:34:53 UTC"
+}
