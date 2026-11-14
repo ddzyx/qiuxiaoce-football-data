@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647639,
+    "matchup": "England U18 vs Norway U19",
+    "home_team": "England U18",
+    "away_team": "Norway U19",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-14 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-england-u18-vs-norway-u19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "England U18 vs Norway U19 Tactical Breakdown: Youth Rotation vs Away Discipline — Preview",
+    "meta": {
+      "matchId": "1647639",
+      "league": "Friendlies",
+      "matchup": "England U18 vs Norway U19",
+      "matchTime": "2026-11-14 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back England U18 to avoid defeat (Home Win / Draw) with a narrow Home Win leading in a tight, Under 2.5 goals friendly.",
+    "possibilityAssessment": [
+      "England U18 Home Win / Draw driven by 1.20 vs 1.05 goal lambdas, four-match winning form, and Norway U19 losing four of seven away games (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined lambda, 60.9% Poisson under probability, and 69-hour friendly rotation (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency reflecting England U18 conceding in four straight matches against Norway U19's three clean sheets in seven road trips (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647639",
+      "league": "Friendlies",
+      "homeTeam": "England U18",
+      "awayTeam": "Norway U19",
+      "match_time": "11:00",
+      "match_highlight": "Can England U18's rotated attack breach Norway U19's compact road defense?",
+      "ai_confidence": "Low",
+      "fixtureId": 1647639,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retaining Home Win / Draw covers the leading 1:0 England breakthrough and the 1:1 stalemate risk, as friendly rotation and a 0.15 lambda gap make a single call unnecessarily exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda, 60.9% baseline Under 2.5 share, and 1.2 vs 1.1 per-game scoring averages favor two goals or fewer."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures England U18's narrow-win pattern against Norway's 0-for-3 away HT-draw win record, while 1:1 covers England's leaky defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest-probability Poisson buckets and match our Under 2.5 script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Norway U19 drew 42.9% of away first halves without winning any, making a level break followed by either an English breakthrough or a stalemate the core fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:13:24 UTC"
+}
