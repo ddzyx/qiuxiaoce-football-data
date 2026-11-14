@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1579531,
+    "matchup": "Kozakken Boys vs Sparta Rotterdam II",
+    "home_team": "Kozakken Boys",
+    "away_team": "Sparta Rotterdam II",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-kozakken-boys-vs-sparta-rotterdam-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kozakken Boys vs Sparta Rotterdam II Prediction & Preview: Home Control vs High-Scoring Chaos",
+    "meta": {
+      "matchId": "1579531",
+      "league": "Tweede Divisie",
+      "matchup": "Kozakken Boys vs Sparta Rotterdam II",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kozakken Boys hold a clear two-way structural advantage against Sparta Rotterdam II's porous defense, making Home Win / Draw alongside Over 2.5 goals the most balanced projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Kozakken Boys' 2.50 goals scored and 1.17 conceded per match against Sparta II's 2.42 conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (4 or 3 total goals) driven by a 4.42 combined lambda and Sparta II's recent 3:3 and 5:5 league thrillers (Confidence: High, Value: Moderate)",
+      "High-scoring 2:2 draw hedge reflecting Sparta II's 2.75 goals per match and five draws in 12 Tweede Divisie outings (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579531",
+      "league": "Tweede Divisie",
+      "homeTeam": "Kozakken Boys",
+      "awayTeam": "Sparta Rotterdam II",
+      "match_time": "13:00",
+      "match_highlight": "Kozakken Boys' structured attack tests Jong Sparta's porous 2.42-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579531,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kozakken Boys' leading 3:1 home superiority script and a high-scoring 2:2 stalemate, as Sparta II's 2.75 goals/game and five league draws make a single Home Win too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 4.42 combined lambda, Kozakken Boys' 2.50 scoring rate, and Sparta Rotterdam II averaging 5.17 total goals per league match."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:2"
+        ],
+        "comment": "3:1 captures Kozakken Boys exploiting Sparta II's 2.42 conceded rate, while 2:2 covers the visitors' repeated high-scoring draw script."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four goals leads the Poisson distribution at 19.1% alongside 3 goals at 17.3%, aligning with the 4.42 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A level opening half gives way to Kozakken Boys' second-half acceleration for Draw-Win, or sustained two-way scoring ending Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 05:15:17 UTC"
+}
