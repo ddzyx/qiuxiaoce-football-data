@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617388,
+    "matchup": "Casalarreina vs Vianés",
+    "home_team": "Casalarreina",
+    "away_team": "Vianés",
+    "league": "Tercera División RFEF - Group 16",
+    "kickoff_utc": "2026-11-15 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-casalarreina-vs-vian-s/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Casalarreina vs Vianés Prediction & Match Analysis: Can Hosts Halt Nine-Loss Slide? — Scoreline Preview",
+    "meta": {
+      "matchId": "1617388",
+      "league": "Tercera División RFEF - Group 16",
+      "matchup": "Casalarreina vs Vianés",
+      "matchTime": "2026-11-15 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win offers the strongest analytical coverage as Vianés's superior scoring and defensive containment meet a porous Casalarreina backline while accounting for the visitors' winless road record.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Vianés hold the statistical edge (48.2% Poisson win share, 1.90 lambda) against a host conceding 2.70 goals per match, while Draw covers Vianés's 0W-0D-5L away record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Driven by a 3.35 combined lambda, 65.0% Poisson Over 2.5 probability, and 4 of Casalarreina's 5 home matches exceeding two goals (Confidence: Moderate, Value: High)",
+      "1:1 Correct Score — Top single Poisson cell (9.7%) if Vianés's away scoring drought caps the visitors at one goal against an equally leaky defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617388",
+      "league": "Tercera División RFEF - Group 16",
+      "homeTeam": "Casalarreina",
+      "awayTeam": "Vianés",
+      "match_time": "10:30",
+      "match_highlight": "Relegation six-pointer pits El Soto's leakiest defense against road-shy Vianés.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617388,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Derived from the 1:2 and 1:1 core scripts, Draw / Away Win pairs Vianés's 1.90-lambda superiority over Casalarreina's 2.70-conceded defense with draw protection against the visitors' 0W-0D-5L road record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.35 combined lambda (65.0% Poisson Over 2.5 probability) and Casalarreina's 3.00 home goals-conceded average support an open three-goal threshold."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Vianés capitalizing on Casalarreina's late defensive fatigue, while 1:1 covers Vianés's limited road output."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 Goals leads the Poisson distribution at 22.0%, followed by 2 Goals at 19.7% under the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a cautious level first half before diverging on whether Vianés exploit Casalarreina's second-half drop-off."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:46:15 UTC"
+}
