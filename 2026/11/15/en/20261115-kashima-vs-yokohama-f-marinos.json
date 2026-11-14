@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648036,
+    "matchup": "Kashima vs Yokohama F. Marinos",
+    "home_team": "Kashima",
+    "away_team": "Yokohama F. Marinos",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-15 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kashima-vs-yokohama-f-marinos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashima vs Yokohama F. Marinos Tactical Breakdown & Probabilistic Modeling: Aggregate Edge vs Cup Urgency",
+    "meta": {
+      "matchId": "1648036",
+      "league": "J-League Cup",
+      "matchup": "Kashima vs Yokohama F. Marinos",
+      "matchTime": "2026-11-15 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kashima is projected to avoid defeat in a controlled quarter-final second leg where a tight 1:0 home victory leads and a 1:1 aggregate-protecting draw remains formally covered.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Kashima's 39.4% Poisson win baseline, 63.1 FW-OTI edge, and aggregate cushion against a Marinos side missing suspended Ryo Miyaichi (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined goal expectancy (60.9% Poisson probability for two goals or fewer) and cautious first-half cup tempo (Confidence: Moderate, Value: Moderate)",
+      "Late open-play transition surge if Marinos strikes first before halftime and forces Kashima out of its mid-block (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648036",
+      "league": "J-League Cup",
+      "homeTeam": "Kashima",
+      "awayTeam": "Yokohama F. Marinos",
+      "match_time": "06:00",
+      "match_highlight": "Kashima guards a 3-2 aggregate lead against suspended-hit Marinos",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648036,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a tight 1:0 home win driven by Kashima's 63.1 FW-OTI and a 1:1 draw that still advances Kashima on aggregate while accounting for Yuta Higuchi's absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 2.25 combined lambda baseline (60.9% under probability) and second-leg game-management incentives."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two adjusted Poisson convergence points between Kashima's home control and Marinos' urgency without Miyaichi."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the top two exact-goal Poisson densities (26.7% and 23.7%) under a restrained 2.25 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey, low-scoring first half followed by either a late Kashima winner or an aggregate-clinching second-half draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 22:57:02 UTC"
+}
