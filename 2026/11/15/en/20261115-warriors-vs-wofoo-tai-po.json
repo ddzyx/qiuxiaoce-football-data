@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644249,
+    "matchup": "Warriors vs Wofoo Tai Po",
+    "home_team": "Warriors",
+    "away_team": "Wofoo Tai Po",
+    "league": "League Cup",
+    "kickoff_utc": "2026-11-15 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-warriors-vs-wofoo-tai-po/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Warriors vs Wofoo Tai Po Prediction & Match Analysis: Can Hosts Contain Cup Surge? — Scoreline Preview",
+    "meta": {
+      "matchId": "1644249",
+      "league": "League Cup",
+      "matchup": "Warriors vs Wofoo Tai Po",
+      "matchTime": "2026-11-15 10:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Warriors hold a narrow structural and home-venue edge over Wofoo Tai Po in a tight League Cup tie projected to stay under 2.5 goals, with the draw retained against playmaker fitness uncertainty.",
+    "possibilityAssessment": [
+      "Primary 1X2 lean favors Home Win / Draw behind Warriors' 18-point league form and 1.20 vs 1.05 Poisson expectancy (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 combined lambda and Lee Man's recent 1:0 shutouts over KC Southern and Tai Po (Confidence: Moderate, Value: Moderate)",
+      "Tai Po's four-match domestic scoring streak creates a 1:1 late-equalizer contingency if Kraev's absence blunts home control (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644249",
+      "league": "League Cup",
+      "homeTeam": "Warriors",
+      "awayTeam": "Wofoo Tai Po",
+      "match_time": "10:00",
+      "match_highlight": "Kraev fitness doubt tests Lee Man control against surging Tai Po.",
+      "ai_confidence": "Low",
+      "fixtureId": 1644249,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 Warriors victory from stronger league form and 1.20 home lambda alongside a 1:1 draw driven by Tai Po's domestic scoring run and Kraev's unverified ankle status."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda (60.9% Under 2.5 Poisson share) and recent 1:0 domestic and cup clean-sheet discipline from Warriors."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top Poisson density outcomes (1:0 at 12.6% and 1:1 at 13.3%) for a cagey Mong Kok Stadium cup clash."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the two highest-probability Poisson goal buckets (26.7% for two goals, 23.7% for one goal) under a 2.25 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cautious level first half before either a second-half Warriors breakthrough (mirroring recent 1:0 wins) or a shared 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:42:04 UTC"
+}
