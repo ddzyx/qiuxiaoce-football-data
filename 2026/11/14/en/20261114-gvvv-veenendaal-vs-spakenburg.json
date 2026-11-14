@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1579527,
+    "matchup": "GVVV Veenendaal vs Spakenburg",
+    "home_team": "GVVV Veenendaal",
+    "away_team": "Spakenburg",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-gvvv-veenendaal-vs-spakenburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "GVVV Veenendaal vs Spakenburg Prediction & Match Analysis: Can Panhuis Finishing Edge Break Derby Open?",
+    "meta": {
+      "matchId": "1579527",
+      "league": "Tweede Divisie",
+      "matchup": "GVVV Veenendaal vs Spakenburg",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back GVVV Veenendaal to defeat Spakenburg in a high-scoring Tweede Divisie derby driven by superior home finishing efficiency.",
+    "possibilityAssessment": [
+      "GVVV Veenendaal home win anchored on 2.25 league goals per game and six straight home victories (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 3.46 combined Poisson lambda and GVVV's 4.00 total goals per league match (Confidence: Moderate, Value: High)",
+      "Second-half lead erosion to a draw if GVVV's 1.75 goals conceded per match allows Spakenburg to equalize late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579527",
+      "league": "Tweede Divisie",
+      "homeTeam": "GVVV Veenendaal",
+      "awayTeam": "Spakenburg",
+      "match_time": "13:30",
+      "match_highlight": "GVVV's clinical finishing tests Spakenburg's vulnerable away backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579527,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A 2:1 core projection reflects GVVV's 2.25 goals per match and 33.3% big-chance waste edge against a Spakenburg side beaten in three straight away league trips."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal-based lambda of 3.46 (67.2% Poisson Over 2.5) aligns with GVVV's 4.00 league goals-per-game tempo and both clubs' porous defenses."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 balances GVVV's clinical finishing with their 1.75 goals conceded per game, while 3:1 covers late counter-attacking expansion if Spakenburg chase."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the top two Poisson density bands (21.7% and 18.8%) around a 3.46 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a tight derby first half before GVVV pull clear, while Win-Draw hedges the risk of GVVV's leaky defense surrendering an early lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:08:23 UTC"
+}
