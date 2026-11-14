@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618456,
+    "matchup": "Eemdijk vs SVZW",
+    "home_team": "Eemdijk",
+    "away_team": "SVZW",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-eemdijk-vs-svzw/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eemdijk vs SVZW Prediction & Match Analysis: Can Winless SVZW Breach De Vinken? — Scoreline Preview",
+    "meta": {
+      "matchId": "1618456",
+      "league": "Derde Divisie",
+      "matchup": "Eemdijk vs SVZW",
+      "matchTime": "2026-11-14 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Eemdijk hold a clear statistical and home-turf advantage to defeat winless SVZW in a high-scoring Derde Divisie clash.",
+    "possibilityAssessment": [
+      "Home Win — Eemdijk's four-win league pedigree and home initiative outweigh SVZW's porous backline (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined 4.13 goal expectancy and 78.1% Poisson Over 2.5 probability strongly support three or more goals (Confidence: High, Value: Moderate)",
+      "Both Teams Score in a Home Victory — Eemdijk's 2.58 goals conceded per game keeps SVZW transition scoring viable in defeat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618456",
+      "league": "Derde Divisie",
+      "homeTeam": "Eemdijk",
+      "awayTeam": "SVZW",
+      "match_time": "13:30",
+      "match_highlight": "Eemdijk attack faces winless SVZW defense in high-scoring mismatch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618456,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Both 2:1 and 3:1 scripts favor Eemdijk over winless SVZW, with low 8.3% combined draw frequency making a single Home Win call stronger than adding a draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.13 combined lambda and both defenses conceding above 2.50 goals per game yield a 78.1% Poisson Over 2.5 probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 is the 7.7% Poisson modal scoreline while 3:1 mirrors Eemdijk's November 7 league win against weak defending."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "4 goals (19.5%) and 3 goals (18.9%) lead the Poisson total-goals distribution around a 4.13 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Eemdijk can lead early at home or break a level interval after the hour as SVZW fade late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 10:38:40 UTC"
+}
