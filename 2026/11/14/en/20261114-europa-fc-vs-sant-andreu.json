@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1571208,
+    "matchup": "Europa Fc vs Sant Andreu",
+    "home_team": "Europa Fc",
+    "away_team": "Sant Andreu",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-14 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-europa-fc-vs-sant-andreu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Europa Fc vs Sant Andreu Tactical Breakdown & Probabilistic Modeling: Neutral-Ground Derby Balance",
+    "meta": {
+      "matchId": "1571208",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Europa Fc vs Sant Andreu",
+      "matchTime": "2026-11-14 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sant Andreu are projected to avoid defeat in a competitive neutral-venue derby where 1:2 represents the primary outcome alongside 1:1 draw protection.",
+    "possibilityAssessment": [
+      "Draw / Away Win double-chance direction backed by 74.4% combined Poisson probability and verified full-strength lineups (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals leaning on Europa Fc's 1.82 goals conceded per match and recent high-scoring trends across both camps (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw half-time/full-time hedge reflecting Sant Andreu's recent level intervals and 36.4% league draw rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571208",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Europa Fc",
+      "awayTeam": "Sant Andreu",
+      "match_time": "17:30",
+      "match_highlight": "Neutral RCDE Stadium pitch meets Europa's porous 1.82 goals-conceded rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571208,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 Sant Andreu win and modal 1:1 draw scripts, as Sant Andreu's 48.9% Poisson win share is tempered by four league draws in 11 matches, making a single call riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.58 combined goal lambda, Europa's 1.82 goals conceded per game, and 3+ goals hitting in 10 of their combined last 13 matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Sant Andreu's 1.54 lambda and Europa's 1.04 home lambda, while 1:1 captures the 12.1% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 1:2 trajectory and recent scoring pace, with 2 goals covering the 25.2% peak Poisson bucket via 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides trend toward cautious first halves and second-half scoring surges, pointing to a level interval before Sant Andreu pull clear or share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:20:06 UTC"
+}
