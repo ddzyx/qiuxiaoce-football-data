@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649058,
+    "matchup": "Central Espanol vs Boston River",
+    "home_team": "Central Espanol",
+    "away_team": "Boston River",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-14 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-central-espanol-vs-boston-river/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Central Espanol vs Boston River Prediction & Match Analysis: Can Home Urgency Blunt Away Quality?",
+    "meta": {
+      "matchId": "1649058",
+      "league": "Primera División",
+      "matchup": "Central Espanol vs Boston River",
+      "matchTime": "2026-11-14 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win (with Boston River victory leading) and Under 2.5 goals provide the strongest alignment with the 2.39 combined goal expectancy and Central Espanol's 0.62-goal attacking ceiling.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures 74.3% of the independent Poisson baseline across Boston River's superior Clausura goal differential and Central Espanol's home survival resistance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 57.3% Poisson probability and Central Espanol's 8 goals in 13 league matches (Confidence: Moderate, Value: High)",
+      "1:1 Draw hedge protects against Boston River's 55.6% big-chances-missed ratio and 89-hour post-cup fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649058",
+      "league": "Primera División",
+      "homeTeam": "Central Espanol",
+      "awayTeam": "Boston River",
+      "match_time": "13:00",
+      "match_highlight": "Relegation-threatened hosts test fatigued Boston River's erratic transition finishing.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649058,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 0:1 away breakthrough driven by Central Espanol's 1.69 goals conceded per game and the 1:1 stalemate from Boston River's 89-hour cup turnaround and 55.6% chance waste, avoiding a single away call amid unconfirmed XIs."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.39 total lambda, 57.3% Poisson Under 2.5 share, and Central Espanol's 0.62 goals per match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Top two Poisson scorelines (13.0% and 12.6%) reflecting either a narrow away shutout or a fatigue-induced draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Highest-probability Poisson goal totals (26.2% and 21.9%) matching a tight, low-scoring Clausura script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first-half attrition under strict officiating gives way to either a late Boston River winner or a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 07:15:45 UTC"
+}
