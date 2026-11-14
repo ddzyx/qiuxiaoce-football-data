@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549561,
+    "matchup": "Sport Huancayo vs Universitario",
+    "home_team": "Sport Huancayo",
+    "away_team": "Universitario",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-14 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-sport-huancayo-vs-universitario/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sport Huancayo vs Universitario Prediction & Match Analysis: Can Altitude Halt Valera's Attack? — Preview",
+    "meta": {
+      "matchId": "1549561",
+      "league": "Primera División",
+      "matchup": "Sport Huancayo vs Universitario",
+      "matchTime": "2026-11-14 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sport Huancayo's home altitude advantage, 1.12 goals-conceded rate, and Jorge Murrugarra's suspension anchor a Home Win / Draw projection with Over 2.5 Goals.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw leaning toward a 2:1 Sport Huancayo win while covering a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Total Goals Thesis: Over 2.5 Goals driven by 3.25 combined Poisson expectancy and Universitario's 2.19 goals-per-game attack (Confidence: Moderate, Value: High)",
+      "Contingency Script Thesis: Win-Draw HT/FT capturing an early altitude lead followed by Universitario's second-half scoring surge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549561",
+      "league": "Primera División",
+      "homeTeam": "Sport Huancayo",
+      "awayTeam": "Universitario",
+      "match_time": "21:00",
+      "match_highlight": "Altitude leader Sport Huancayo hosts Murrugarra-less Universitario in Clausura decider.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549561,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Built around a 2:1 Sport Huancayo altitude win and a 1:1 draw, pairing both because Huancayo's home defense meets Universitario's 2.19-goal attack and past 1:1 Huancayo stalemates."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.25 Poisson lambda total, 63.0% Over 2.5 probability, and Universitario's 3.69 combined goals per Clausura match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Huancayo's home shot volume against a Murrugarra-less defense, while 1:1 matches the 10.2% modal Poisson outcome and 2024–2025 Clausura Huancayo scores."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (20.5%) top the Poisson distribution and align directly with the 2:1 and 1:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Universitario trailed at half-time in 75.0% of tracked away games, making an early Huancayo lead likely before either a 2:1 hold or a 1:1 late recovery."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 20:46:07 UTC"
+}
