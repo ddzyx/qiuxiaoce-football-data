@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1555809,
+    "matchup": "FC Ryukyu vs Kochi United",
+    "home_team": "FC Ryukyu",
+    "away_team": "Kochi United",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-15 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-fc-ryukyu-vs-kochi-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Ryukyu vs Kochi United Tactical Breakdown & Probabilistic Modeling: Road Fragility vs Home Firepower",
+    "meta": {
+      "matchId": "1555809",
+      "league": "J3 League",
+      "matchup": "FC Ryukyu vs Kochi United",
+      "matchTime": "2026-11-15 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Ryukyu is projected to secure a home victory over winless-away Kochi United in an open Over 2.5 goals contest.",
+    "possibilityAssessment": [
+      "Primary Home Win outcome built on FC Ryukyu's 1.88 goal lambda and Kochi United's 0W-1D-7L road record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals driven by 2.94 combined goal lambda and both teams' recent defensive absences (Confidence: Moderate, Value: High)",
+      "HT/FT Win-Draw contingency if Ryukyu's depleted full-back flanks concede a late transition equalizer (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555809",
+      "league": "J3 League",
+      "homeTeam": "FC Ryukyu",
+      "awayTeam": "Kochi United",
+      "match_time": "07:00",
+      "match_highlight": "Home firepower meets winless away defense in Okinawa clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555809,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "FC Ryukyu's active scoring spine and superior shot accuracy should overcome Kochi United's 2.25 away-prone goals-conceded average."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.94 combined goal lambda, Ryukyu's seven goals conceded in two games, and Kochi's 36 goals allowed support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Both scorelines reflect Ryukyu's 1.88 home goal expectancy against Kochi's depleted backline alongside Ryukyu's own full-back leaks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson goal density peaks around three goals with an open four-goal tail if Kochi's away structure unravels early."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Ryukyu frequently starts aggressively at home, while Draw-Win covers a tight opening half before Kochi fades."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:01:03 UTC"
+}
