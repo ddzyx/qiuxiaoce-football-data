@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1606761,
+    "matchup": "Consadole Sapporo vs Sagan Tosu",
+    "home_team": "Consadole Sapporo",
+    "away_team": "Sagan Tosu",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-15 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-consadole-sapporo-vs-sagan-tosu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Consadole Sapporo vs Sagan Tosu Prediction & Match Analysis: Can Depleted Hosts Hold? — Scoreline Preview",
+    "meta": {
+      "matchId": "1606761",
+      "league": "J2 League",
+      "matchup": "Consadole Sapporo vs Sagan Tosu",
+      "matchTime": "2026-11-15 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Consadole Sapporo are projected to avoid defeat via Home Win / Draw in a tight, Under 2.5 contest where second-half home control meets verified defensive absences.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Home Win / Draw led by a narrow 1:0 home win against Tosu's 12.5% away win rate (Confidence: Moderate, Value: Moderate)",
+      "Total goals lean Under 2.5 at 57.8% Poisson baseline probability behind a 2.37 combined lambda (Confidence: Moderate, Value: High)",
+      "Set-piece and corner pressure from Sagan Tosu creates a credible 1:1 draw branch against a reshuffled Sapporo back three (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606761",
+      "league": "J2 League",
+      "homeTeam": "Consadole Sapporo",
+      "awayTeam": "Sagan Tosu",
+      "match_time": "04:00",
+      "match_highlight": "Depleted Sapporo back line meets Tosu's road scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606761,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home breakthrough built on Sapporo's home scoring consistency and a 1:1 draw triggered by confirmed absences for Nishino and Supachok, whereas Tosu's 62.5% away failed-to-score rate makes a single Home Win too narrow without justifying an outright away call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.37 combined lambda (57.8% Under 2.5), Tosu failing to score in five of eight away matches, and Supachok Sarachat's creative absence for Sapporo."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two Home Win / Draw outcomes in the 1.28 vs 1.09 Poisson matrix, matching Sapporo's recent 1:0 wins and the risk of conceding once from a Tosu set piece."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the top two exact totals in the Poisson distribution (26.3% and 22.2%) and both teams' low first-half scoring rates."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Grounded in Sagan Tosu's 75.0% away half-time draw rate and both teams' heavy second-half goal shares, branching between a late Sapporo winner and a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:39:20 UTC"
+}
