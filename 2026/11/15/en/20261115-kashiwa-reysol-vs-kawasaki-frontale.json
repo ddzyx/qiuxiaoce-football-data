@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648037,
+    "matchup": "Kashiwa Reysol vs Kawasaki Frontale",
+    "home_team": "Kashiwa Reysol",
+    "away_team": "Kawasaki Frontale",
+    "league": "J-League Cup",
+    "kickoff_utc": "2026-11-15 08:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kashiwa-reysol-vs-kawasaki-frontale/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashiwa Reysol vs Kawasaki Frontale Tactical Breakdown & Preview: Protecting a 2-1 Cup Lead",
+    "meta": {
+      "matchId": "1648037",
+      "league": "J-League Cup",
+      "matchup": "Kashiwa Reysol vs Kawasaki Frontale",
+      "matchTime": "2026-11-15 08:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kashiwa Reysol on the Home Win / Draw line as superior form and first-leg aggregate control point toward a narrow home victory or controlled 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Kashiwa Reysol's 92.0 form rating and 2-1 aggregate tie-management leverage (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.25 combined lambda total and compact first-half expectations (Confidence: Moderate, Value: Moderate)",
+      "Kawasaki Frontale transition equalizer hedge driven by higher 54.9 MF-OTI creation metrics (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648037",
+      "league": "J-League Cup",
+      "homeTeam": "Kashiwa Reysol",
+      "awayTeam": "Kawasaki Frontale",
+      "match_time": "08:00",
+      "match_highlight": "Kashiwa defends a 2-1 aggregate lead against desperate Kawasaki transition pressure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1648037,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Kashiwa exploiting late transition space for a win and a controlled 1:1 stalemate, as a single win call leaves the tie-advancing draw uncovered against Kawasaki's 53.4 FW-OTI."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined goal expectancy (60.9% Under 2.5 in Poisson) and Kashiwa's 0.54 decayed goals conceded alongside low aggregate urgency to overextend."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% given Kawasaki's scoring streak and Kashiwa's tie security, while 2:1 mirrors their two recent meetings if late spaces open."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the 26.7% Poisson mode for a tight knockout leg, with three goals (20.0%) covering the 2:1 late-breakthrough branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "All three 2026 head-to-head meetings were level at half-time before second-half separation, pointing to a cagey opening 45 minutes followed by either a late Kashiwa winner or a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 23:08:40 UTC"
+}
