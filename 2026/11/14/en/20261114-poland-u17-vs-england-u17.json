@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559484,
+    "matchup": "Poland U17 vs England U17",
+    "home_team": "Poland U17",
+    "away_team": "England U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-poland-u17-vs-england-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland U17 vs England U17 Prediction & Match Analysis: Can Poland Halt Lewtas' Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1559484",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Poland U17 vs England U17",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back England U17 to secure a multi-goal Away Win at St. George's Park inside a high-scoring Group 9 clash.",
+    "possibilityAssessment": [
+      "England U17 control territory with superior squad depth to earn a multi-goal Away Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by England's six-goal opener and Poland's four-game scoring streak (Confidence: Moderate, Value: High)",
+      "Draw-Loss HT/FT contingency if Poland contain early before England's bench decides the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "5"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:3",
+        "1:4"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559484",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Poland U17",
+      "awayTeam": "England U17",
+      "match_time": "14:00",
+      "match_highlight": "England U17's St. George's Park firepower tests Poland's fragile defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559484,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "England U17's 3.25 decayed scoring rate and St. George's Park depth exploit Poland's five-match run without a clean sheet, pointing to a 1:3 or 1:4 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "With lambda_total at 6.0 and Poland conceding three goals in each of their last two qualifiers while scoring 2+ in four straight games, three or more total goals are strongly supported."
+      },
+      "score": {
+        "selection": [
+          "1:3",
+          "1:4"
+        ],
+        "comment": "1:3 balances England's clear attacking edge with Poland's recent scoring consistency, while 1:4 reflects the raw Poisson top scoreline if Polish legs fade late."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "5"
+        ],
+        "comment": "Tempering the single-match 6.0 lambda_total with five-match decayed scoring rates centers the total-goal distribution on four to five goals."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "England struck three first-half goals against Montenegro while Poland trailed Ukraine at half-time, making Loss-Loss primary and Draw-Loss the compact-first-half alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 11:27:27 UTC"
+}
