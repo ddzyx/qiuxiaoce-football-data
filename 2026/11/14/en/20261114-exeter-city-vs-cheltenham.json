@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1563854,
+    "matchup": "Exeter City vs Cheltenham",
+    "home_team": "Exeter City",
+    "away_team": "Cheltenham",
+    "league": "League Two",
+    "kickoff_utc": "2026-11-14 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-exeter-city-vs-cheltenham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Exeter City vs Cheltenham Tactical Breakdown & Match Analysis: Home Clean Sheets vs Leaky Defense",
+    "meta": {
+      "matchId": "1563854",
+      "league": "League Two",
+      "matchup": "Exeter City vs Cheltenham",
+      "matchTime": "2026-11-14 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Exeter City's 1.12 xGA per match and five clean sheets in seven unbeaten home games support a Home Win / Draw call against a Cheltenham side conceding 1.79 xGA per match with zero away shutouts.",
+    "possibilityAssessment": [
+      "Exeter City Home Win / Draw supported by 39.9% Home Win and 27.4% Draw Poisson probabilities alongside a 56-point Elo edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by a 2.43 combined goal expectancy (56.2% Under 2.5 baseline) and Exeter's 0.79 goals-per-game finishing bottleneck (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw or 1:0 home win contingency driven by Exeter's three confirmed international call-ups limiting home scoring ceiling (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563854",
+      "league": "League Two",
+      "homeTeam": "Exeter City",
+      "awayTeam": "Cheltenham",
+      "match_time": "12:30",
+      "match_highlight": "Exeter's unbeaten St James Park defense tests Cheltenham's winless road vulnerabilities.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563854,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers both a tight 1:0 Exeter breakthrough and a 1:1 stalemate, as Exeter's three international absences make dropping the draw too risky despite Cheltenham's 57.1% away loss rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.43 total lambda (56.2% Under 2.5), Exeter's 0.64 goals conceded per match, and missing home midfield creators point toward two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 reflects Cheltenham's 78.6% scoring rate against Exeter's 71.4% home clean-sheet ceiling, while 1:0 captures Exeter holding firm against a defense with zero away shutouts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.0%) and one goal (21.4%) lead the Poisson total-goals distribution given Exeter's compact home structure and modest 0.79 league scoring rate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Exeter have drawn the first half in five of seven home league matches and score 62.5% of their home goals after the break, pointing to a level interval before either a late winner or shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:47:29 UTC"
+}
