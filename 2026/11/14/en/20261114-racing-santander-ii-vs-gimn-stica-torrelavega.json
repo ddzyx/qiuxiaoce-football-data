@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572128,
+    "matchup": "Racing Santander II vs Gimnástica Torrelavega",
+    "home_team": "Racing Santander II",
+    "away_team": "Gimnástica Torrelavega",
+    "league": "Segunda División RFEF - Group 1",
+    "kickoff_utc": "2026-11-14 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-racing-santander-ii-vs-gimn-stica-torrelavega/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Racing Santander II vs Gimnástica Torrelavega Match Analysis: Can Home Form Break Derby Grit?",
+    "meta": {
+      "matchId": "1572128",
+      "league": "Segunda División RFEF - Group 1",
+      "matchup": "Racing Santander II vs Gimnástica Torrelavega",
+      "matchTime": "2026-11-14 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Racing Santander II hold the decisive attacking edge at 1.60 goal expectancy against a 1.90 goals-conceded defense, though Gimnástica Torrelavega's recent low-block containment warrants Home Win / Draw coverage in an Under 2.5 derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Racing Santander II's 9 goals across 4 unbeaten matches and 1.60 vs 1.20 goal expectancy edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Gimnástica Torrelavega's 0.70 goals-per-game output and Racing II's back-to-back clean sheets (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win or Draw-Draw HT/FT progression reflecting Gimnástica's compact first-half away structure before second-half pressure builds (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572128",
+      "league": "Segunda División RFEF - Group 1",
+      "homeTeam": "Racing Santander II",
+      "awayTeam": "Gimnástica Torrelavega",
+      "match_time": "14:30",
+      "match_highlight": "Surging Racing II attack tests Gimnástica's tightened derby low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572128,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win leads on Racing Santander II's four-match unbeaten surge and 2:0 projection, while Draw covers a 1:1 low-block stalemate given Racing II's 1.70 season goals-conceded rate and unconfirmed reserve-team XI."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Gimnástica Torrelavega's 0.70 goals-per-game scoring rate and recent clean-sheet/0-1 containment pull practical scoring expectancy below 2.5 despite a 2.80 season lambda total."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Racing II's recent shutout wins over Astorga and Marino against a 1.90 GA/gm defense, while 1:1 captures the top raw Poisson outcome if Gimnástica convert a rare transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the densest Poisson bin (23.8%) and aligns with both 2:0 and 1:1, with one goal (1:0) serving as the main attrition alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Gimnástica's tracked away games reached half-time level before late fatigue or stalemate outcomes, pointing to a level interval followed by either a home breakthrough or shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:09:07 UTC"
+}
