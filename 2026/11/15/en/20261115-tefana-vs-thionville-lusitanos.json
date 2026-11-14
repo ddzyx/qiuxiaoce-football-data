@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647997,
+    "matchup": "Tefana vs Thionville Lusitanos",
+    "home_team": "Tefana",
+    "away_team": "Thionville Lusitanos",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-tefana-vs-thionville-lusitanos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tefana vs Thionville Lusitanos Tactical Breakdown & Probabilistic Modeling: Travel Fatigue vs Tier Gap",
+    "meta": {
+      "matchId": "1647997",
+      "league": "Coupe de France",
+      "matchup": "Tefana vs Thionville Lusitanos",
+      "matchTime": "2026-11-15 04:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Thionville Lusitanos' Ligue 3 structural edge favors avoiding 90-minute defeat in a low-scoring Coupe de France tie shaped by intercontinental travel.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Thionville Lusitanos' Ligue 3 class edge alongside potential 90-minute travel-induced stalemate scripts (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with the 2.25 combined goal expectancy and 60.9% baseline Under 2.5 distribution (Confidence: Moderate, Value: Moderate)",
+      "0:1 / 1:1 scoreline corridor concentrates on tight margins driven by cautious first-half containment (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647997",
+      "league": "Coupe de France",
+      "homeTeam": "Tefana",
+      "awayTeam": "Thionville Lusitanos",
+      "match_time": "04:00",
+      "match_highlight": "Thionville Lusitanos test Ligue 3 class against 16,000-km Tahiti travel.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647997,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Thionville Lusitanos winning 0:1 on Ligue 3 quality and a 1:1 draw driven by 16,000-km travel fatigue, where unconfirmed lineups make a single call weaker."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy, 60.9% baseline Under 2.5 probability, and travel-moderated attacking tempo."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Balances a tight second-half Ligue 3 breakthrough against a travel-dulled 90-minute stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Follows the two highest-probability Poisson goal buckets at 26.7% and 23.7% inside a cautious cup profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Models a level, energy-conserving first half before Thionville either break through late or share a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 21:46:18 UTC"
+}
