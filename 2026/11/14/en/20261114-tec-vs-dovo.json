@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618465,
+    "matchup": "TEC vs Dovo",
+    "home_team": "TEC",
+    "away_team": "Dovo",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-14 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-tec-vs-dovo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "TEC vs Dovo Prediction & Match Analysis: Can Dovo Contain TEC's 3-Goal Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1618465",
+      "league": "Derde Divisie",
+      "matchup": "TEC vs Dovo",
+      "matchTime": "2026-11-14 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "TEC's multi-pronged home attack is projected to overwhelm Dovo's porous backline for a decisive home victory in a high-scoring derby.",
+    "possibilityAssessment": [
+      "Home Win — TEC's 3.00 goals-per-match firepower and unbeaten league run since September 5 outclass 17th-placed Dovo's 2.33 goals-conceded defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals / 3:1 Scoreline — High 4.17 combined lambda and 78.7% Poisson Over 2.5 probability reflect open attacking transitions (Confidence: Moderate, Value: High)",
+      "Both Teams Scoring in a 2:1 Derby Margin — Former TEC striker Nick Hak (8 goals) offers a transition scoring route against TEC's 1.75 conceded rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618465",
+      "league": "Derde Divisie",
+      "homeTeam": "TEC",
+      "awayTeam": "Dovo",
+      "match_time": "14:00",
+      "match_highlight": "Prolific TEC attack tests Dovo's leaky defense in high-scoring Tiel derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618465,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "TEC's 3.00 goals-per-game home offense and superior table standing project a controlled victory over Dovo's 2.33 goals-conceded defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.17 combined goal expectancy (lambda_home 2.67, lambda_away 1.50) and leaky defenses on both sides strongly support at least three total goals."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 captures TEC's three-goal average alongside a Nick Hak consolation, while 2:1 covers a tighter regional derby script."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Independent Poisson totals peak at 4 goals (19.5%) and 3 goals (18.7%), matching both clubs' recent high-scoring league outputs."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "TEC's early firepower favors a Win-Win control script, with Draw-Win covering early derby resistance before second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 12:27:59 UTC"
+}
