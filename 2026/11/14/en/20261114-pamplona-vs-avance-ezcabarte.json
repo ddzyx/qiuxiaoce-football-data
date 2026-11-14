@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617082,
+    "matchup": "Pamplona vs Avance Ezcabarte",
+    "home_team": "Pamplona",
+    "away_team": "Avance Ezcabarte",
+    "league": "Tercera División RFEF - Group 15",
+    "kickoff_utc": "2026-11-14 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261114-pamplona-vs-avance-ezcabarte/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pamplona vs Avance Ezcabarte Tactical Breakdown & Match Analysis: Copa Fatigue vs Road Vulnerability",
+    "meta": {
+      "matchId": "1617082",
+      "league": "Tercera División RFEF - Group 15",
+      "matchup": "Pamplona vs Avance Ezcabarte",
+      "matchTime": "2026-11-14 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Avance Ezcabarte holds the statistical and recovery edge to win at Beitikuntzea, while Pamplona's home draw resilience justifies covering Draw / Away Win in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win direction with Away Win leading (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by a 2.40 combined lambda and 57.0% Poisson probability (Confidence: Moderate, Value: High)",
+      "1:1 scoreline and Draw-Draw HT/FT contingency if Pamplona sustains compact home spacing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617082",
+      "league": "Tercera División RFEF - Group 15",
+      "homeTeam": "Pamplona",
+      "awayTeam": "Avance Ezcabarte",
+      "match_time": "14:30",
+      "match_highlight": "Fresh Avance Ezcabarte faces post-Copa Pamplona in tight Beitikuntzea clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617082,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Avance Ezcabarte's 0:1 breakthrough script on superior scoring and rest and a 1:1 draw given Pamplona's 40% league draw rate and Avance's two recent road defeats."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.40 total goal expectancy (57.0% Under 2.5 Poisson baseline) and Pamplona's 0.70 goals-per-game league output."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 (13.6%) and 1:1 (12.2%) top the Poisson density matrix and reflect a tight, second-half-decided matchup."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.1%) and 1 goal (21.8%) account for nearly half of the Poisson total-goals distribution around a 2.40 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts anticipate a cautious, level opening half before either Avance Ezcabarte's fresher attack breaks through (Draw-Loss) or Pamplona holds a share of the points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 14:18:35 UTC"
+}
