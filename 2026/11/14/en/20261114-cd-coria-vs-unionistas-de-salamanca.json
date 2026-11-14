@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570827,
+    "matchup": "CD Coria vs Unionistas de Salamanca",
+    "home_team": "CD Coria",
+    "away_team": "Unionistas de Salamanca",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-14 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261114-cd-coria-vs-unionistas-de-salamanca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "CD Coria vs Unionistas de Salamanca Match Analysis & Preview: Can Depleted Visitors Survive La Isla?",
+    "meta": {
+      "matchId": "1570827",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "CD Coria vs Unionistas de Salamanca",
+      "matchTime": "2026-11-14 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CD Coria are projected to win or draw against a road-fragile Unionistas de Salamanca side stripped of five midfield and attacking options.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Contingency (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570827",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Unionistas de Salamanca",
+      "match_time": "17:45",
+      "match_highlight": "Five Unionistas absences collide with CD Coria's open Estadio La Isla tempo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570827,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 CD Coria victory driven by Unionistas' 1-point away record and five absences alongside a 1:1 draw if Coria's own missing defenders concede."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Anchored by a 2.82 lambda total (53.6% Over 2.5 baseline), 3.40 goals per game across Coria's five home matches, and defensive/midfield absences on both sides."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Coria's 1.46 home lambda and second-half bench edge against a stretched visiting back line, while 1:1 preserves the Poisson modal draw path."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the 2:1 primary script and Over 2.5 expectancy, while 2 goals cover the 23.7% Poisson modal total and 1:1 draw scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Unionistas' fresh starting XI can stay level through 45 minutes before their five absences tell after halftime, with Draw-Draw covering a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 17:33:27 UTC"
+}
