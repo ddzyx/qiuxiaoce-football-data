@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570021,
+    "matchup": "Oviedo vs Girona",
+    "home_team": "Oviedo",
+    "away_team": "Girona",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-14 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-oviedo-vs-girona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Oviedo vs Girona Prediction & Match Analysis: Can Raúl's Debut Exploit Depleted Visitors?",
+    "meta": {
+      "matchId": "1570021",
+      "league": "Segunda División",
+      "matchup": "Oviedo vs Girona",
+      "matchTime": "2026-11-14 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Oviedo are projected to earn at least a point against a depleted Girona attack in a tight, low-scoring Matchday 14 contest under Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Oviedo Win or Draw double chance built on Girona missing Yáser Asprilla, Vladyslav Vanat, and Bryan Gil (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by Girona's missing 10-goal tandem and Oviedo's 72.7% big-chance waste rate (Confidence: Moderate, Value: High)",
+      "Second-half Oviedo breakthrough or 1:1 stalemate reflecting Oviedo's 57.1% second-half home goal share and Girona's winless record from half-time draws (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570021",
+      "league": "Segunda División",
+      "homeTeam": "Oviedo",
+      "awayTeam": "Girona",
+      "match_time": "20:00",
+      "match_highlight": "Raúl's Oviedo debut tests a Girona attack missing Asprilla and Vanat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570021,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchoring on 1:0 and 1:1 covers both Oviedo's home personnel edge and Girona's 1.26 xGA defensive resilience, whereas a single call would ignore Oviedo's 72.7% big-chance waste and debuting coach."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "With Girona missing Asprilla, Vanat, and Bryan Gil after consecutive 0:1 defeats and Oviedo converting poorly at home, combined scoring expectancy falls below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Oviedo's set-piece edge against a blunted Girona attack, while 1:1 captures Oviedo's 1.55 xGA vulnerability and coaching-debut transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals lead the baseline distribution and cover 1:1, while 1 goal aligns directly with a 1:0 tight home breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides trend toward a cagey first half before either Oviedo's second-half pressure breaks through (Draw-Win) or Girona's back four holds level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 19:56:25 UTC"
+}
