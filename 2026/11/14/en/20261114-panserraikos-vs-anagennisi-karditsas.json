@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636988,
+    "matchup": "Panserraikos vs Anagennisi Karditsas",
+    "home_team": "Panserraikos",
+    "away_team": "Anagennisi Karditsas",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-14 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261114-panserraikos-vs-anagennisi-karditsas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Panserraikos vs Anagennisi Karditsas Prediction & Preview: Can Serres Fortress Hold? — Scoreline Analysis",
+    "meta": {
+      "matchId": "1636988",
+      "league": "Super League 2",
+      "matchup": "Panserraikos vs Anagennisi Karditsas",
+      "matchTime": "2026-11-14 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Panserraikos's unbeaten home Super League 2 form faces a tight low-scoring test, making Home Win / Draw paired with Under 2.5 goals the balanced projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by five straight home league wins and low visitor road scoring (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals supported by a 2.30 combined goal expectancy and compact away resistance (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw hedge if home chance waste combines with a second-half defensive lapse (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636988",
+      "league": "Super League 2",
+      "homeTeam": "Panserraikos",
+      "awayTeam": "Anagennisi Karditsas",
+      "match_time": "12:45",
+      "match_highlight": "Unbeaten home hosts test Karditsa's compact road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636988,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Panserraikos's 1:0 home breakthrough and a 1:1 stalemate, as home chance waste prevents safely ruling out the draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.30 combined goal-expectancy lambda and Anagennisi Karditsas's 0.80 goals scored and 1.00 conceded per league match."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances Panserraikos's spotless home league record against Karditsa's tight recent defense and low road scoring."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson goal-count buckets (26.5% and 23.1%) under a disciplined, low-margin script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a level first half against Karditsa's compact block before either a second-half home winner or a 1:1 deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:51:29 UTC"
+}
