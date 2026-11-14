@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649949,
+    "matchup": "PK-35 vs Inter Turku II",
+    "home_team": "PK-35",
+    "away_team": "Inter Turku II",
+    "league": "Friendlies Clubs",
+    "kickoff_utc": "2026-11-14 10:15:00",
+    "source_url": "https://xgmind.com/matches/20261114-pk-35-vs-inter-turku-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "PK-35 vs Inter Turku II Tactical Breakdown & Match Analysis: Tier Gap vs Friendly Rotation Risk",
+    "meta": {
+      "matchId": "1649949",
+      "league": "Friendlies Clubs",
+      "matchup": "PK-35 vs Inter Turku II",
+      "matchTime": "2026-11-14 10:15 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Home Win / Draw alongside Under 2.5 goals as PK-35's second-tier defensive structure meets Inter Turku II's youthful reserve attack under unconfirmed friendly lineups.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw (Confidence: Low, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals with 2 or 1 total goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Youthful Inter Turku II transition counter forcing a 1:1 draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649949",
+      "league": "Friendlies Clubs",
+      "homeTeam": "PK-35",
+      "awayTeam": "Inter Turku II",
+      "match_time": "10:15",
+      "match_highlight": "Tier-gap home defense meets youthful reserve attack in post-season friendly.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649949,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both PK-35's 1:0 higher-tier control script and a 1:1 rotated stalemate, whereas a single win call ignores unconfirmed friendly lineups and a 19.9-day layoff."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.25 combined lambda (60.9% Poisson Under 2.5 probability) and PK-35's 0.85 goals-conceded rate across 27 Ykkösliiga matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top Poisson densities within Home Win / Draw, balancing PK-35's defensive floor against Inter Turku II's October scoring form."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the two highest Poisson goal-count probabilities (26.7% for 2 goals, 23.7% for 1 goal) in a controlled friendly."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cagey first half while PK-35 shake off post-playoff rust before either breaking through late or sharing a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-14 01:10:26 UTC"
+}
