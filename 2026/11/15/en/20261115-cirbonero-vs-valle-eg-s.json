@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617084,
+    "matchup": "Cirbonero vs Valle Egüés",
+    "home_team": "Cirbonero",
+    "away_team": "Valle Egüés",
+    "league": "Tercera División RFEF - Group 15",
+    "kickoff_utc": "2026-11-15 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-cirbonero-vs-valle-eg-s/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cirbonero vs Valle Egüés Prediction & Match Analysis: Can Home Revival Halt Visiting Firepower? — Preview",
+    "meta": {
+      "matchId": "1617084",
+      "league": "Tercera División RFEF - Group 15",
+      "matchup": "Cirbonero vs Valle Egüés",
+      "matchTime": "2026-11-15 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win led by Valle Egüés, targeting a 1:2 or 1:1 finish and Over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Valle Egüés Win or Draw (Draw / Away Win) behind 1.70 goals/match vs Cirbonero's 1.00 goals/match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 2.75 combined lambdas and high-scoring home/away venue splits (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss HT/FT transition reflecting tight early containment before visiting second-half acceleration (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617084",
+      "league": "Tercera División RFEF - Group 15",
+      "homeTeam": "Cirbonero",
+      "awayTeam": "Valle Egüés",
+      "match_time": "15:30",
+      "match_highlight": "Visiting firepower meets Cirbonero's resurgent home form at San Juan.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617084,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 1:2 away win driven by Valle Egüés's 1.70 scoring rate and a 1:1 draw given their 40% draw frequency and Cirbonero's home improvement, where a single call leaves excessive variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.75 combined goal lambda, identical 1.40 goals-conceded averages, and Over 2.5 landing in 4 of 5 Cirbonero home games and 3 of 4 Valle Egüés away trips."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Valle Egüés's 2.25 away scoring pace against a home attack with 8 goals in its last two at San Juan, while 1:1 covers the top 11.9% Poisson draw node."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2% Poisson) and 2 goals (24.2% Poisson) represent the two highest-density bands around the 2.75 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both codes reflect Cirbonero's tighter early structure keeping the first half level before Valle Egüés either pull clear late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 15:28:54 UTC"
+}
