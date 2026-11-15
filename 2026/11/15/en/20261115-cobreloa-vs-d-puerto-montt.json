@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1511722,
+    "matchup": "Cobreloa vs D. Puerto Montt",
+    "home_team": "Cobreloa",
+    "away_team": "D. Puerto Montt",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-15 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-cobreloa-vs-d-puerto-montt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cobreloa vs D. Puerto Montt Prediction & Match Analysis: Title Chase vs Road Drought — Scoreline Preview",
+    "meta": {
+      "matchId": "1511722",
+      "league": "Primera B",
+      "matchup": "Cobreloa vs D. Puerto Montt",
+      "matchTime": "2026-11-15 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cobreloa is projected to secure a disciplined home victory in regulation time as its Primera B title push meets D. Puerto Montt's prolonged away scoring struggles.",
+    "possibilityAssessment": [
+      "Home Win — Cobreloa's territorial pressure in Calama and 19-goal striker Gustavo Gotti break down the visitors (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals with 2:0 or 1:0 — driven by Cobreloa's 0.71 home goals-conceded rate and D. Puerto Montt's limited away threat (Confidence: Moderate, Value: Moderate)",
+      "Late breakthrough tension — D. Puerto Montt frustrates the hosts through a tight first half before conceding late (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1511722",
+      "league": "Primera B",
+      "homeTeam": "Cobreloa",
+      "awayTeam": "D. Puerto Montt",
+      "match_time": "21:00",
+      "match_highlight": "Cobreloa's Calama fortress tests D. Puerto Montt's road resistance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1511722,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Both 2:0 and 1:0 scripts favor Cobreloa's 11-2-1 home record against D. Puerto Montt's 3-4-7 away return."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.54 combined lambda, Cobreloa's 0.71 home goals-conceded average, and three straight goalless away games for Puerto Montt support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Cobreloa's 1.79 scoring rate meets a compact visitor that rarely scores on the road, pointing to 2:0 or a repeat of Cobreloa's recent 1:0 wins."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson probability peaks at 2 goals (25.4%), with 1 goal closely supported by Cobreloa's three recent 1:0 league victories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "D. Puerto Montt's compact block can hold early before altitude pressure tells after halftime, while an early Cobreloa strike yields Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:26:53 UTC"
+}
