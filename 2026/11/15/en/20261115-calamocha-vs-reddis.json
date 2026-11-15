@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572432,
+    "matchup": "Calamocha vs Reddis",
+    "home_team": "Calamocha",
+    "away_team": "Reddis",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-calamocha-vs-reddis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Calamocha vs Reddis Prediction & Match Analysis: Can Hosts Contain Reddis? — Scoreline Preview",
+    "meta": {
+      "matchId": "1572432",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Calamocha vs Reddis",
+      "matchTime": "2026-11-15 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Side with Draw / Away Win leaning toward Reddis in a low-scoring Under 2.5 Segunda División RFEF - Group 2 contest.",
+    "possibilityAssessment": [
+      "Away Win 0:1 driven by Calamocha's 0.50 goals-per-match output and Reddis's 1.45 goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals anchored by a 2.30 combined lambda and 59.6% Poisson probability (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflecting Reddis's 1.20 goals conceded per game and Calamocha's mid-October draw resilience (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572432",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Calamocha",
+      "awayTeam": "Reddis",
+      "match_time": "15:00",
+      "match_highlight": "Can Calamocha's struggling attack finally breach Reddis's compact mid-table structure?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572432,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win covers both the leading 0:1 Reddis win and the 1:1 stalemate branch, whereas a single Away Win leaves out the risk of Reddis's 1.00 goals-per-game attack failing to find a second goal."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined 2.30 lambda, Calamocha's 0.50 goals scored per league game, and a 59.6% Poisson Under 2.5 probability strongly favor fewer than three goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 14.5% given Calamocha's seven league blanks, while 1:1 (12.4%) covers Reddis conceding 1.20 goals per match."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.5%) and one goal (23.1%) dominate the Poisson distribution around a 2.30 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Calamocha trailed at half-time in Rounds 9 and 10 and in three of four tracked matches, making an away half-time lead followed by either a 0:1 hold or a 1:1 equalizer the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:17:37 UTC"
+}
