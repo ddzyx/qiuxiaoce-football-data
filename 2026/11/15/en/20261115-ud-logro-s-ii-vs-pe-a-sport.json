@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572434,
+    "matchup": "UD Logroñés II vs Peña Sport",
+    "home_team": "UD Logroñés II",
+    "away_team": "Peña Sport",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-ud-logro-s-ii-vs-pe-a-sport/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UD Logroñés II vs Peña Sport Prediction & Match Analysis: Fragile Defenses Clash at Mundial 82",
+    "meta": {
+      "matchId": "1572434",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "UD Logroñés II vs Peña Sport",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Peña Sport hold a slim analytical edge in a Draw / Away Win direction with Over 2.5 goals, led by a 1:2 away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win direction driven by Peña Sport's superior 1.30 goals-per-game output and 42.9% Poisson win share against a four-match winless host (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals backed by a 2.65 combined lambda and three of UD Logroñés II's four home fixtures clearing three total goals (Confidence: Low, Value: Moderate)",
+      "1:1 Score-Draw contingency reflecting Peña Sport's zero away clean sheets alongside their modest 0.60 away goals-per-game average (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572434",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "UD Logroñés II",
+      "awayTeam": "Peña Sport",
+      "match_time": "11:00",
+      "match_highlight": "Peña Sport test leaky host defense despite mixed away record.",
+      "ai_confidence": "Low",
+      "fixtureId": 1572434,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Peña Sport away victory and a 1:1 draw hedge because the hosts' four-match winless run meets the visitors' zero away clean sheets, making a single call less secure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.65 total lambda, 53.5% BTTS expectancy, and UD Logroñés II conceding 2.00 goals per home match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Pairs Peña Sport's higher scoring lambda (1.45) against a leaky home backline with the top Poisson draw scoreline (12.3%) given zero away clean sheets."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the top two total-goal probabilities around a 2.65 combined lambda, led by 1:2 (3 goals) and hedged by 1:1 (2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Projects a tight opening half before Peña Sport pull clear (Draw-Loss), balanced by the risk of an early visiting lead being pegged back (Loss-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 00:42:18 UTC"
+}
