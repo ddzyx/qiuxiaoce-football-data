@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647976,
+    "matchup": "Gobelins vs RED Star FC 93",
+    "home_team": "Gobelins",
+    "away_team": "RED Star FC 93",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-gobelins-vs-red-star-fc-93/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gobelins vs RED Star FC 93: Tactical Matchup, Lineup Absences & Coupe de France Preview",
+    "meta": {
+      "matchId": "1647976",
+      "league": "Coupe de France",
+      "matchup": "Gobelins vs RED Star FC 93",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win under 2.5 total goals captures RED Star FC 93's Ligue 2 territorial edge alongside Gobelins' capacity to hold a tight Parisian derby level over 90 minutes.",
+    "possibilityAssessment": [
+      "Draw / Away Win direction backed by Ligue 2 shot volume vs cup defensive resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals anchored by 2.25 combined goal expectancy and dual attacking absences (Confidence: Moderate, Value: High)",
+      "1:1 stalemate hedge reflecting RED Star FC 93's 66.7% big-chance waste and seven squad absences (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647976",
+      "league": "Coupe de France",
+      "homeTeam": "Gobelins",
+      "awayTeam": "RED Star FC 93",
+      "match_time": "13:00",
+      "match_highlight": "Can depleted RED Star FC 93 overcome wastefulness against compact Gobelins?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647976,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 90-minute stalemate driven by RED Star FC 93's finishing waste and seven absences, and a narrow visiting win built on Ligue 2 possession superiority, as neither single direction eliminates the other."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy (60.9% Under 2.5 in Poisson) and confirmed absences of Aboubacar Sidibé and Ilija Despotovic."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects the Poisson mode alongside RED Star FC 93's recent defensive leaks, while 0:1 captures their second-tier control grinding down a Sidibé-less host."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two Poisson goal-count outcomes (26.7% and 23.7%) matching a cautious knockout derby at Stade Charléty."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A level first half against Gobelins' compact block before either remaining deadlocked at 1:1 or yielding late to RED Star FC 93's deeper Ligue 2 bench."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 10:38:41 UTC"
+}
