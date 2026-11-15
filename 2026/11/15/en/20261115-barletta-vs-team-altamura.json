@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609123,
+    "matchup": "Barletta vs Team Altamura",
+    "home_team": "Barletta",
+    "away_team": "Team Altamura",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-15 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-barletta-vs-team-altamura/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barletta vs Team Altamura Prediction & Match Analysis: Can Home Defense Hold Without Franco?",
+    "meta": {
+      "matchId": "1609123",
+      "league": "Serie C - Girone C",
+      "matchup": "Barletta vs Team Altamura",
+      "matchTime": "2026-11-15 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Barletta on Home Win / Draw in a tight Under 2.5 Pugliese derby shaped by Domenico Franco's suspension.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Barletta's 1.27 vs 1.11 goal expectancy and recent defensive tightening (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligned with 2.38 combined lambda and five straight Barletta low-scoring games (Confidence: Moderate, Value: Moderate)",
+      "Late Team Altamura transition or set-piece strike exploiting Franco's midfield absence (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609123",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Barletta",
+      "awayTeam": "Team Altamura",
+      "match_time": "16:30",
+      "match_highlight": "Suspended Franco tests Barletta's home defense against surging Altamura.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609123,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Barletta's 1:0 home-containment script and the 1:1 draw script because Domenico Franco's suspension prevents relying solely on a single home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.38 combined goal expectancy (57.5% Under 2.5 Poisson density) and Barletta's run of five straight league matches under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Both scores sit atop the Poisson matrix and reflect Barletta's compact defense meeting Altamura's 1.46 goals-conceded rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.2%) and one goal (22.0%) lead the Poisson total-goals distribution and match recent low-margin derby scoring."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious, level first half is expected before Barletta's bench impact either unlocks a late winner or settles for a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 16:08:48 UTC"
+}
