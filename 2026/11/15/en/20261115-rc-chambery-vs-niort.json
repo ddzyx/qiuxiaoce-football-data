@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647980,
+    "matchup": "RC Chambery vs Niort",
+    "home_team": "RC Chambery",
+    "away_team": "Niort",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-rc-chambery-vs-niort/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RC Chambery vs Niort Prediction & Match Analysis: Can Home Grit Halt Unbeaten Visitors? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647980",
+      "league": "Coupe de France",
+      "matchup": "RC Chambery vs Niort",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win in an Under 2.5 goal framework represents the most coherent projection for this evenly matched all-Regional 2 Coupe de France tie.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by a 90-minute stalemate or narrow road win (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals anchored by a 2.25 combined goal lambda and 60.9% baseline share (Confidence: Low, Value: Moderate)",
+      "Home transition breakthrough if RC Chambery capitalizes early at Stade Pierre-Brossolette (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647980",
+      "league": "Coupe de France",
+      "homeTeam": "RC Chambery",
+      "awayTeam": "Niort",
+      "match_time": "13:00",
+      "match_highlight": "All-R2 Coupe de France clash tests Chambery grit against unbeaten Niort.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647980,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the high-frequency 1:1 cup stalemate and a 0:1 away win because verified 2026-27 league form favors unbeaten Niort while single calls carry elevated variance without aligned xG or lineups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, 60.9% Poisson Under 2.5 distribution, and tight recent 1:1 scores for both sides."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects RC Chambery's back-to-back 1:1 league draws and Niort's 1:1 away cup draw alongside a disciplined single-goal road win."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the two highest probabilities in the baseline goal matrix at 26.7% and 23.7%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Projects a cautious opening half staying level before either holding at 1:1 or tilting to a second-half Niort breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 11:09:42 UTC"
+}
