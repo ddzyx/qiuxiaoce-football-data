@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615549,
+    "matchup": "Utrera vs Bollullos",
+    "home_team": "Utrera",
+    "away_team": "Bollullos",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-utrera-vs-bollullos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Utrera vs Bollullos Tactical Breakdown & Match Analysis: New Coaches Face Defensive Fragility",
+    "meta": {
+      "matchId": "1615549",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Utrera vs Bollullos",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Utrera's superior attacking output and home venue edge favor Home Win / Draw, led by a 2:1 win with a 1:1 stalemate covered.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Utrera's 1.56 goals per game against Bollullos' 0.90 scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 2.71 total lambda expectancy and Utrera conceding 1.67 goals per match (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflecting Bollullos' recent consecutive stalemates under David Sánchez (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615549",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Utrera",
+      "awayTeam": "Bollullos",
+      "match_time": "11:00",
+      "match_highlight": "Utrera's 1.67 goals conceded tests Bollullos' compact setup under David Sánchez.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615549,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchors Utrera's 2:1 home attacking edge while covering the 1:1 draw script given Utrera's 1.67 goals conceded per game and narrow 0.15 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.71 combined lambda, 51.0% Poisson Over 2.5 mass, and Utrera's recent run of open, high-scoring matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Utrera's home attacking advantage paired with defensive concessions, while 1:1 captures Bollullos' compact counter-drawing form."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals edges the primary count via Utrera's 3.23 average match total, with 2 goals matching the modal 24.4% Poisson baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a tight, level first half against Bollullos' compact block before Utrera either break through late or share the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:46:49 UTC"
+}
