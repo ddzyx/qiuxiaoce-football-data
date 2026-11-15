@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1511721,
+    "matchup": "Deportes Santa Cruz vs Rangers de Talca",
+    "home_team": "Deportes Santa Cruz",
+    "away_team": "Rangers de Talca",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-15 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-deportes-santa-cruz-vs-rangers-de-talca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportes Santa Cruz vs Rangers de Talca Prediction & Preview: Can Depleted Visitors Escape Drop?",
+    "meta": {
+      "matchId": "1511721",
+      "league": "Primera B",
+      "matchup": "Deportes Santa Cruz vs Rangers de Talca",
+      "matchTime": "2026-11-15 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportes Santa Cruz are projected to win or draw at home against a suspension-depleted Rangers de Talca side in a cagey Under 2.5 relegation decider.",
+    "possibilityAssessment": [
+      "Home Win / Draw leads as Santa Cruz pair an intact home core with Rangers' four confirmed absences while needing only one point for survival (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with both clubs' 1.00 and 0.97 goals-per-game rates and cautious first-half incentives (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 1:1 Draw offers contingency coverage for the top Poisson density if Rangers equalize late (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1511721",
+      "league": "Primera B",
+      "homeTeam": "Deportes Santa Cruz",
+      "awayTeam": "Rangers de Talca",
+      "match_time": "21:00",
+      "match_highlight": "Suspended Rangers defenders face Santa Cruz's survival-clinching home counterattack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1511721,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A narrow 1:0 home win leads against Rangers' improvised backline, while a single call is avoided because Santa Cruz's 12 draws and survival-by-draw incentive make a 1:1 stalemate equally viable."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average about one goal per match, Rangers miss two injured forwards, and the Poisson baseline favors Under 2.5 at 53.3%."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects a late home counter echoing June's meeting against depleted visitors, while 1:1 matches the modal Poisson scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal Poisson expectation at 25.4%, backed by one goal given Rangers' attacking absences and high-stakes caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Recent meetings frequently stayed level at half-time, leaving the decisive split between a late Santa Cruz winner and a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:23:15 UTC"
+}
