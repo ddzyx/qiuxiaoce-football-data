@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1571212,
+    "matchup": "Real Murcia vs Alcorcon",
+    "home_team": "Real Murcia",
+    "away_team": "Alcorcon",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261115-real-murcia-vs-alcorcon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Murcia vs Alcorcon Prediction & Match Analysis: Can Home Steel Halt Alcorcon's Surge?",
+    "meta": {
+      "matchId": "1571212",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Real Murcia vs Alcorcon",
+      "matchTime": "2026-11-15 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Murcia are projected to win or draw at Estadio Enrique Roca in a tight, Under 2.5 contest shaped by their 0.40 home goals-conceded rate and Alcorcon's away draw tendency.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Real Murcia's unbeaten 3W-2D-0L home defense meeting Alcorcon's 1W-3D-1L away record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by venue-adjusted expectancy near 2.30 goals and ~57% market Under 2.5 support (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Score / Half-Time Draw covering recurring 0:0 H2H intervals and Murcia's 66.7% big-chance missed ratio (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571212",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Alcorcon",
+      "match_time": "17:45",
+      "match_highlight": "Unbeaten home fortress meets Alcorcon's road resilience in Group 2.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571212,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a narrow 1:0 Real Murcia home victory and a 1:1 stalemate, as Murcia's 3W-2D-0L home defense counters Alcorcon's attack while Murcia's 66.7% big-chance waste leaves the draw too live for a single win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Murcia concede 0.40 goals per home game and Alcorcon score 1.20 per away trip, pulling venue-adjusted expectancy below the 2.59 overall lambda total."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Murcia's three home clean sheets and Alcorcon's sole defeat margin, while 1:1 captures Alcorcon's away draw pattern and Murcia's recent home stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal 25.2% baseline outcome for a 1:1 split, with one goal covering a tight 1:0 home breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Three of the last four H2Hs were 0:0 at half-time, making a level interval leading into either a second-half Murcia winner or full-time stalemate the primary paths."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:19:24 UTC"
+}
