@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1528983,
+    "matchup": "Belgium vs Italy",
+    "home_team": "Belgium",
+    "away_team": "Italy",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-15 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261115-belgium-vs-italy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "UEFA Nations League",
+      "matchId": "1528983",
+      "matchup": "Belgium vs Italy",
+      "matchTime": "2026-11-15 19:45 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Belgium vs Italy Prediction & Match Analysis: Can Azzurri's xG Edge Hold in Brussels? — Scoreline Preview",
+    "coreRecommendation": "Italy's superior 1.97 xG output and second-half scoring punch make Draw / Away Win the optimal 1X2 direction in Brussels.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A tight opening half followed by either Italy's 54.5% second-half scoring surge (Draw-Loss) or game-management deadlock (Draw-Draw).",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both Italy's leading 1:2 second-half transition win and a pragmatic 1:1 stalemate, avoiding a single call because Italy's 0% clean-sheet rate keeps a draw highly live.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Three goals align with the 3.1 lambda and 1:2 core script, with two goals covering the 1:1 draw branch.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "1:2 reflects Italy's attacking edge exploiting a stretched host, while 1:1 captures a controlled qualification draw.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "UEFA Nations League",
+      "matchId": "1528983",
+      "awayTeam": "Italy",
+      "homeTeam": "Belgium",
+      "fixtureId": 1528983,
+      "match_time": "19:45",
+      "over_under": {
+        "comment": "Supported by a 3.1 combined lambda, Italy's 1.97 xG/match attack, and zero Italian clean sheets across five group games.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Belgium must win at home while Italy only needs a draw."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Italy capitalizes on Belgium's must-win tactical exposure for a 1:2 away win (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals lands as Italy's 2.01 xGA meets Belgium's home urgency (Confidence: Moderate, Value: Moderate)",
+      "A pragmatic 1:1 draw secures Italy's quarter-final spot if Belgium's finishing falters (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "4-1",
+    "halftime_score": "3-1",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-15 21:57:39 UTC"
+  }
+}
