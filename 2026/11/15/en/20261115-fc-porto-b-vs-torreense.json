@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576532,
+    "matchup": "FC Porto B vs Torreense",
+    "home_team": "FC Porto B",
+    "away_team": "Torreense",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-15 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-fc-porto-b-vs-torreense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Porto B vs Torreense Prediction & Match Analysis: Can Hosts End Home Drought? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576532",
+      "league": "Segunda Liga",
+      "matchup": "FC Porto B vs Torreense",
+      "matchTime": "2026-11-15 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Torreense are projected to avoid defeat in a low-scoring Segunda Liga contest, with an away victory marginally favored over a cagey draw.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Porto B's winless home record and Torreense's second-half away resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.45 combined goal expectancy and modest league scoring averages (Confidence: Moderate, Value: Moderate)",
+      "Half-time lead erosion if early home pressure forces a 1:1 recovery (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576532",
+      "league": "Segunda Liga",
+      "homeTeam": "FC Porto B",
+      "awayTeam": "Torreense",
+      "match_time": "15:30",
+      "match_highlight": "Porto B seek first home win against second-half specialist Torreense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576532,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchoring on 0:1 and 1:1 covers Torreense's 45.0% away win edge and the 26.8% draw risk, as a single away call would ignore Torreense's 40% league draw rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.45 combined lambda (55.6% Poisson under 2.5) and both sides averaging 0.80 to 1.00 goals per game favor a tight, low-scoring match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Porto B's zero home clean sheets against Torreense's 40% shutout rate, while 1:1 captures the highest Poisson scoreline density at 12.7%."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution peaks at 2 goals (25.9%) followed closely by 1 goal (21.1%), directly matching the 1:1 and 0:1 projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams stand level at half-time in 60% of respective venue games, leaving Torreense's 80% second-half away scoring surge to decide between 0:1 and 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 15:20:55 UTC"
+}
