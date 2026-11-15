@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647973,
+    "matchup": "OCPAM vs Olympique Marcquois",
+    "home_team": "OCPAM",
+    "away_team": "Olympique Marcquois",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-ocpam-vs-olympique-marcquois/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "OCPAM vs Olympique Marcquois Prediction: Tier Gap vs Unbeaten Cup Form — Model Analysis",
+    "meta": {
+      "matchId": "1647973",
+      "league": "Coupe de France",
+      "matchup": "OCPAM vs Olympique Marcquois",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "OCPAM are marginally favored to avoid defeat in 90 minutes via a tight 1:0 win or 1:1 stalemate under 2.5 goals, though unverified starting XIs keep confidence low.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind fifth-tier quality, home venue, and a 68.0% combined Poisson win-or-draw share (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals driven by a 2.25 combined lambda and 60.9% Poisson probability in a cagey cup tie (Confidence: Moderate, Value: Moderate)",
+      "1:1 regulation draw if Marcquois's transition threat punishes OCPAM's recent home defensive lapses (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647973",
+      "league": "Coupe de France",
+      "homeTeam": "OCPAM",
+      "awayTeam": "Olympique Marcquois",
+      "match_time": "13:00",
+      "match_highlight": "Can unbeaten Régional 1 leaders Marcquois exploit OCPAM's recent defensive leaks?",
+      "ai_confidence": "Low",
+      "fixtureId": 1647973,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win backed by OCPAM's higher-tier status alongside a 1:1 stalemate, as recent home defensive fragility makes a single win call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Under 2.5 Poisson share) and Marcquois's tight defensive record of four goals conceded in seven league matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects OCPAM edging 90 minutes on home soil, while 1:1 (top Poisson cell at 13.3%) covers a resilient counter-attacking response from Marcquois."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson goal-count probabilities (26.7% for 2 goals and 23.7% for 1 goal) in a tight knockout matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cautious level first half before OCPAM's higher-tier fitness forces a second-half winner or Marcquois hold on for a regulation stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 10:09:04 UTC"
+}
