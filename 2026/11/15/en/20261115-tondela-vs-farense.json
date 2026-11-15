@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576537,
+    "matchup": "Tondela vs Farense",
+    "home_team": "Tondela",
+    "away_team": "Farense",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-tondela-vs-farense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tondela vs Farense Prediction & Match Analysis: Home Edge Meets Leaky Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1576537",
+      "league": "Segunda Liga",
+      "matchup": "Tondela vs Farense",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tondela's strong Estádio João Cardoso foundation and Farense's recent defensive instability point to a narrow home win as the leading outcome, with the draw formally covered in an open contest.",
+    "possibilityAssessment": [
+      "Thesis 1: Home Win / Draw — Tondela's 4W-0D-1L home record and Farense's three-match defensive slide support the hosts leading, while Farense's 1.70 goals per game and 1.35 vs 1.40 lambda parity retain the draw (Confidence: Moderate, Value: Moderate)",
+      "Thesis 2: Over 2.5 Goals — Combined goal expectancy of 2.75, 55.8% Poisson BTTS probability, and Farense's eight goals conceded in three games favor three or more total goals led by 2:1 (Confidence: Moderate, Value: Moderate)",
+      "Thesis 3: 1:1 Draw Contingency — Farense's 75% away half-time draw rate and 64.7% second-half goal share give the visitors a realistic route to share the spoils if they tighten early (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576537",
+      "league": "Segunda Liga",
+      "homeTeam": "Tondela",
+      "awayTeam": "Farense",
+      "match_time": "11:00",
+      "match_highlight": "Can Tondela's 80% home win rate exploit Farense's leaky recent defense?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576537,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Tondela's 2:1 home-control script alongside the 1:1 draw script because Farense's 1.70 goals per game and near-even lambda (1.35 vs 1.40) make a single home-win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.75 combined lambda, 51.8% baseline Over 2.5 probability, and Farense's 1.70 GF / 1.40 GA league profile."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Tondela's single-goal home winning pattern against Farense's porous recent defense, while 1:1 covers the top Poisson node (12.1%) if Farense's second-half attack levels."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 script and Farense's recent open matches, with 2 goals covering the tight 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win captures Tondela's 60% home half-time lead conversion rate, while Draw-Draw mirrors Farense's tendency toward away half-time stalemates."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 00:53:54 UTC"
+}
