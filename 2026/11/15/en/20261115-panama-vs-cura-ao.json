@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1644696,
+    "matchup": "Panama vs Curaçao",
+    "home_team": "Panama",
+    "away_team": "Curaçao",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-15 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-panama-vs-cura-ao/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Panama vs Curaçao Prediction & Match Analysis: Can Los Canaleros Crack Advocaat's Low Block?",
+    "meta": {
+      "matchId": "1644696",
+      "league": "CONCACAF Nations League",
+      "matchup": "Panama vs Curaçao",
+      "matchTime": "2026-11-15 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Panama to win or draw in regulation time under 2.5 goals, leaning on home territorial superiority while respecting their recent finishing drought.",
+    "possibilityAssessment": [
+      "Panama controls territory and edges a tight home win or stalemate (Confidence: Moderate, Value: Moderate)",
+      "Combined goal expectancy of 2.25 and recent scoring trends point strongly to Under 2.5 goals (Confidence: Moderate, Value: High)",
+      "Curaçao counters late for a 1:1 draw or holds out for 0:0 behind Eloy Room (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644696",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Panama",
+      "awayTeam": "Curaçao",
+      "match_time": "23:00",
+      "match_highlight": "Panama's territorial control tests Curaçao's depleted defense after a 0:0 first leg.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644696,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Panama breakthrough driven by home Elo superiority and a 1:1 stalemate given Panama's four-match drawing streak, as a single win call leaves too much exposure to Curaçao's low block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, a 60.9% baseline Poisson probability for two goals or fewer, and five straight Under 2.5 matches for Panama."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Panama's home-leg territorial edge against Curaçao's confirmed absences alongside the hosts' recent 1:1 drawing pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals represent the two highest Poisson probabilities (26.7% and 23.7%) under a tight 2.25 goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides' conservative first-half profiles point to a level interval before either a late Panama breakthrough or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 19:17:55 UTC"
+}
