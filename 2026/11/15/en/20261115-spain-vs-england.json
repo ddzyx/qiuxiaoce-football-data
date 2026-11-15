@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528984,
+    "matchup": "Spain vs England",
+    "home_team": "Spain",
+    "away_team": "England",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-15 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261115-spain-vs-england/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Spain vs England Prediction & Match Analysis: Can England's xG Expose a Rodri-Less Midfield?",
+    "meta": {
+      "matchId": "1528984",
+      "league": "UEFA Nations League",
+      "matchup": "Spain vs England",
+      "matchTime": "2026-11-15 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Spain is projected to avoid defeat in Madrid via a primary 2:1 home victory or a secondary 2:2 draw in an open Over 2.5 contest.",
+    "possibilityAssessment": [
+      "Primary Thesis: Spain Home Win / Draw driven by superior territorial control (65.6% possession) and lower xGA (0.95) against an England defense missing Marc Guéhi (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals backed by a 3.9 combined goal lambda and 5.22 combined xG per match (Confidence: High, Value: High)",
+      "Contingency Angle: Early England transition pressure exploits a Rodri-less midfield before Spain's second-half depth restores parity or wins late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528984",
+      "league": "UEFA Nations League",
+      "homeTeam": "Spain",
+      "awayTeam": "England",
+      "match_time": "19:45",
+      "match_highlight": "Returning Spanish wingers test Guéhi-less England in Madrid group decider.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528984,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Spain home win backed by Elo and 0.95 xGA alongside a 2:2 draw where England's 2.90 xG meets Spain's draw-sufficient cushion, avoiding a fragile single call without Rodri and before official XIs."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.9 goal-based lambda total, 5.22 combined xG per match, and four consecutive Over 2.5 head-to-head meetings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Spain's territorial edge over a Guéhi-less defense, while 2:2 captures England's transition threat and Spain's 65.4% big-chance waste rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (20.0%) and four goals (19.5%) lead the Poisson total-goals distribution alongside a 73.2% BTTS probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Win reflects Spain's 57.1% second-half goal share after a tight opening 45 minutes, while Loss-Draw accounts for England's 80% half-time lead rate being pegged back late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:11:48 UTC"
+}
