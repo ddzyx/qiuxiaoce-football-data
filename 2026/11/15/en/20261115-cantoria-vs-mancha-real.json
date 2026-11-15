@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615244,
+    "matchup": "Cantoria vs Mancha Real",
+    "home_team": "Cantoria",
+    "away_team": "Mancha Real",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-cantoria-vs-mancha-real/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cantoria vs Mancha Real Prediction & Match Analysis: Survival Battle at Los Olivos — Scoreline Preview",
+    "meta": {
+      "matchId": "1615244",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Cantoria vs Mancha Real",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Draw / Away Win with Under 2.5 goals as Mancha Real's marginal scoring edge meets Cantoria's home draw resilience.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers the two primary survival-battle outcomes behind Mancha Real's 0.80 goals-per-game edge (Confidence: Low, Value: Moderate)",
+      "Under 2.5 goals aligns with a 2.25 combined lambda total and Cantoria's 0.50 goals-per-game output (Confidence: Moderate, Value: Moderate)",
+      "1:1 stalemate represents the main counter-script if Mancha Real's 1.60 concession rate allows Cantoria a single reply (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615244",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Cantoria",
+      "awayTeam": "Mancha Real",
+      "match_time": "11:00",
+      "match_highlight": "Blunt 0.50 attack faces 1.60 defense in survival six-pointer.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615244,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win pairs the 0:1 Mancha Real edge with the 1:1 stalemate because neither three-game winless Mancha Real nor four-draw Cantoria justify an uncovered single."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal-based lambda and Cantoria's 0.50 scoring average generate a 60.9% Poisson probability for two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Cantoria failing to score in four of five recent matches against Mancha Real's 1.20 lambda, while 1:1 covers their 13.3% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) lead the Poisson total-goals distribution in a tight relegation fixture."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a cautious, level first half before either Mancha Real break through late for 0:1 or Cantoria hold for 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:03:02 UTC"
+}
