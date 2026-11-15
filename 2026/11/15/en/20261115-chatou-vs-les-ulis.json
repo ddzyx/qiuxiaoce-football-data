@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647940,
+    "matchup": "Chatou vs Les Ulis",
+    "home_team": "Chatou",
+    "away_team": "Les Ulis",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-chatou-vs-les-ulis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chatou vs Les Ulis Prediction & Match Analysis: Can R1 Leaders Break Home Cup Grit? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647940",
+      "league": "Coupe de France",
+      "matchup": "Chatou vs Les Ulis",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "With near-even goal expectancy and unconfirmed regional lineups, backing Draw / Away Win alongside Under 2.5 Goals captures both a 1:1 cup deadlock and Les Ulis's superior Régional 1 form.",
+    "possibilityAssessment": [
+      "Draw / Away Win regulation coverage (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals supported by 60.9% Poisson probability (Confidence: Moderate, Value: Moderate)",
+      "Chatou 1:0 home cup clean-sheet contingency (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647940",
+      "league": "Coupe de France",
+      "homeTeam": "Chatou",
+      "awayTeam": "Les Ulis",
+      "match_time": "13:00",
+      "match_highlight": "Unbeaten R1 leaders Les Ulis test Chatou's home cup grit",
+      "ai_confidence": "Low",
+      "fixtureId": 1647940,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 Poisson stalemate after both sides needed 6th-round penalties and a 0:1 win driven by Les Ulis's unbeaten league form, avoiding a single call given unconfirmed lineups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, a 60.9% Poisson Under 2.5 probability, and both clubs' low-scoring 6th-round Coupe de France ties."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 is the highest Poisson density outcome at 13.3%, while 0:1 (11.1%) reflects Les Ulis's defensive discipline and 1st-place R1 trajectory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the Poisson distribution in a tight, windy regional knockout tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious, level first half either holds to a 90-minute stalemate or breaks in Les Ulis's favor after the hour mark."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 05:25:52 UTC"
+}
