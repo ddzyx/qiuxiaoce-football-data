@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615241,
+    "matchup": "Almería II vs Melilla",
+    "home_team": "Almería II",
+    "away_team": "Melilla",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-almer-a-ii-vs-melilla/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Almería II vs Melilla Preview & Match Analysis: Can Nozal's Short-Handed Defense Hold the Leaders?",
+    "meta": {
+      "matchId": "1615241",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Almería II vs Melilla",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Melilla to avoid defeat (Draw / Away Win) in a tight, Under 2.5 encounter led by a 0:1 away edge or a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures 67.1% of the Poisson matrix as Melilla's 1.70 goals-per-game attack and returning core meet a low-conceding host (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals holds a 62.3% statistical share on a 2.20 combined lambda after both clubs played 0:0 draws in Round 10 (Confidence: High, Value: Moderate)",
+      "0:0 goalless stalemate hedge if Almería II's 0.60 concession rate shuts down Melilla without Elliot Gómez (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615241",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Almería II",
+      "awayTeam": "Melilla",
+      "match_time": "11:00",
+      "match_highlight": "Melilla's returning core tests Almería II's league-best home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615241,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Melilla win and a 1:1 draw, as a single Away Win leaves Almería II's 0.60 goals-conceded resistance uncovered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.20 combined goal expectancy, 62.3% Poisson Under 2.5 probability, and strong defensive records (0.60 vs 0.70 conceded)."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Melilla's returning spine edging a short-handed host, while 1:1 matches the modal 13.4% Poisson scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.8%) and one goal (24.4%) together cover 51.2% of the Poisson total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first-half containment points to a level break before Melilla either find a second-half winner or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:00:06 UTC"
+}
