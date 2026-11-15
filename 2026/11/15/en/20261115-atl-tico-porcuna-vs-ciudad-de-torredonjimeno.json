@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615243,
+    "matchup": "Atlético Porcuna vs Ciudad de Torredonjimeno",
+    "home_team": "Atlético Porcuna",
+    "away_team": "Ciudad de Torredonjimeno",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-atl-tico-porcuna-vs-ciudad-de-torredonjimeno/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atlético Porcuna vs Ciudad de Torredonjimeno Prediction: Can Home Resilience Blunt 2.00 GPG Attack?",
+    "meta": {
+      "matchId": "1615243",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Atlético Porcuna vs Ciudad de Torredonjimeno",
+      "matchTime": "2026-11-15 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ciudad de Torredonjimeno on Draw / Away Win, favouring an away victory as their 2.00 goals-per-match attack meets Atlético Porcuna's resilient San Benito home defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Torredonjimeno's 20-point campaign and +9 goal difference lead the derby, while Porcuna's 3W-1D-1L home record warrants draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Supported by a 3.05 Poisson lambda total and 58.9% Over 2.5 probability across two sides averaging 3.00+ total match goals (Confidence: Moderate, Value: Moderate)",
+      "Correct Score 1:1 — Captures the tight provincial-derby branch if San Benito containment limits Torredonjimeno's second-half breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615243",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Atlético Porcuna",
+      "awayTeam": "Ciudad de Torredonjimeno",
+      "match_time": "16:30",
+      "match_highlight": "San Benito home resilience tests Torredonjimeno's 2.00 goals-per-game promotion push.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615243,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Torredonjimeno's superior 2.00 PPG quality (1:2) and Porcuna's stubborn San Benito draw resilience (1:1), as unconfirmed lineups and Porcuna's five-match unbeaten run argue against a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Torredonjimeno's 2.00 goals scored per game and Porcuna's 1.80 conceded per game generate a 3.05 Poisson lambda total and a 58.9% Over 2.5 expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Torredonjimeno's attacking edge breaking through a competitive home host, while 1:1 captures the highest modal Poisson density (10.3%) in a tight derby."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4% Poisson mass) and two goals (22.0%) represent the twin statistical peaks around the 3.05 expected-goal baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both recent H2Hs were 0:0 at half-time, making a level interval followed by either a Torredonjimeno second-half winner (Draw-Loss) or a shared stalemate (Draw-Draw) the primary progression fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 16:16:58 UTC"
+}
