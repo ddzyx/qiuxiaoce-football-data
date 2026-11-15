@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570835,
+    "matchup": "Zamora vs Real Avilés",
+    "home_team": "Zamora",
+    "away_team": "Real Avilés",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-15 13:15:00",
+    "source_url": "https://xgmind.com/matches/20261115-zamora-vs-real-avil-s/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zamora vs Real Avilés Tactical Breakdown & Probabilistic Modeling: Firepower vs Home Urgency",
+    "meta": {
+      "matchId": "1570835",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "Zamora vs Real Avilés",
+      "matchTime": "2026-11-15 13:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Real Avilés to avoid defeat via Draw / Away Win alongside Over 2.5 goals, led by a 1:2 away win.",
+    "possibilityAssessment": [
+      "Real Avilés attacking firepower (2.09 goals per match, 14 goals in their last five league games) and four-match away unbeaten run drive a Draw / Away Win call (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals backed by a 2.81 combined lambda, 53.3% Poisson Over 2.5 distribution, and Zamora scoring in all six home matches (Confidence: Moderate, Value: Moderate)",
+      "Second-half transition expansion after minute 60 if desperate hosts chase the match without Mario Losada (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570835",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "Zamora",
+      "awayTeam": "Real Avilés",
+      "match_time": "13:15",
+      "match_highlight": "Avilés's 2.09-goal attack tests Zamora's leaky home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570835,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Real Avilés victory and the secondary 1:1 draw, as Avilés's 1.36 concession rate and defensive absences make a single away-win call slightly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal lambda of 2.81, 53.3% Poisson Over 2.5 share, and Real Avilés's 3.45 total goals per league game point above 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Avilés's 2.00 away scoring rate against Zamora's home concession trend, while 1:1 covers a resilient home stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals anchor the Poisson distribution peak (22.3% and 23.8%) and mirror the 1:2 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive first half at Ruta de la Plata forks after the interval between Real Avilés breaking away (Draw-Loss) and Zamora holding level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 13:08:59 UTC"
+}
