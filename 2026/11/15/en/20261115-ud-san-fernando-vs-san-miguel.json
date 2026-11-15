@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1616165,
+    "matchup": "UD San Fernando vs San Miguel",
+    "home_team": "UD San Fernando",
+    "away_team": "San Miguel",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-15 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-ud-san-fernando-vs-san-miguel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UD San Fernando vs San Miguel Prediction & Match Analysis: Can Visitors Halt Unbeaten Home Run? — Preview",
+    "meta": {
+      "matchId": "1616165",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "UD San Fernando vs San Miguel",
+      "matchTime": "2026-11-15 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back UD San Fernando to avoid defeat via Home Win / Draw, projecting a 2:1 home victory with 1:1 as the primary stalemate branch.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind UD San Fernando's 5-0-0 Maspalomas record and 1.70 vs 1.40 Poisson expectancy (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 3.10 combined Poisson lambda and 61.6% both-teams-to-score projection (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge if San Miguel extends its October-November clean-sheet discipline into the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616165",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "UD San Fernando",
+      "awayTeam": "San Miguel",
+      "match_time": "12:00",
+      "match_highlight": "Unbeaten Maspalomas hosts meet San Miguel's six-game clean-sheet streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616165,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 UD San Fernando home victory and a 1:1 draw, as San Miguel's compact recent shutouts and the 0.30 lambda gap make a single outcome overly rigid."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.10 combined goal expectancy, 59.9% Poisson Over 2.5 share, and high season scoring averages of 2.50 and 2.10 goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects UD San Fernando's 5-0-0 home dominance against a capable 2.10-goal visitor, while 1:1 holds the top Poisson density at 10.7%."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.6%) lead the independent Poisson distribution and align directly with our 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey level first half against San Miguel's organized block before either a second-half home winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 04:08:45 UTC"
+}
