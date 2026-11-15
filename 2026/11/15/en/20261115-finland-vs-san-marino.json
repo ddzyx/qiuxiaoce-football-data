@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528981,
+    "matchup": "Finland vs San Marino",
+    "home_team": "Finland",
+    "away_team": "San Marino",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-15 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-finland-vs-san-marino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Finland vs San Marino Tactical Breakdown & Match Analysis: Breaking a Compact Low Block in Helsinki",
+    "meta": {
+      "matchId": "1528981",
+      "league": "UEFA Nations League",
+      "matchup": "Finland vs San Marino",
+      "matchTime": "2026-11-15 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Finland are backed to claim a controlled regulation-time Home Win against winless San Marino on the strength of superior ball control and attacking depth.",
+    "possibilityAssessment": [
+      "Finland Home Win via territorial control and clean-sheet superiority (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.20 combined lambda and San Marino's 3.60 conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Controlled 2:0 scoreline contingency if Finland's 69.2% big-chance waste slows dead-rubber tempo (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528981",
+      "league": "UEFA Nations League",
+      "homeTeam": "Finland",
+      "awayTeam": "San Marino",
+      "match_time": "17:00",
+      "match_highlight": "Finland's 62.9% possession targets San Marino's depleted low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528981,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored on the 3:0 and 2:0 home-win projections as Finland's possession and attacking availability decisively outmatch San Marino's 3.60 goals-conceded rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.20 combined goal lambda (62.1% Poisson Over 2.5 share) and four Over 2.5 results in San Marino's five group outings."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "3:0 reflects Finland's 2.70 lambda against San Marino's 80% failed-to-score rate, with 2:0 hedging dead-rubber rotation and finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3% Poisson) and 2 goals (20.9% Poisson) represent the two highest-density total-goal outcomes in the expected-goal matrix."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "San Marino trailed at half-time in 4 of 5 group games (Win-Win), while Finland's two home group matches were level at the break (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 16:25:50 UTC"
+}
