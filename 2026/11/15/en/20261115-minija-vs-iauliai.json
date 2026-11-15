@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1650047,
+    "matchup": "Minija vs Šiauliai",
+    "home_team": "Minija",
+    "away_team": "Šiauliai",
+    "league": "A Lyga",
+    "kickoff_utc": "2026-11-15 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-minija-vs-iauliai/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Minija vs Šiauliai Prediction & Match Analysis: Fatigue vs Top-Flight Survival — Scoreline Preview",
+    "meta": {
+      "matchId": "1650047",
+      "league": "A Lyga",
+      "matchup": "Minija vs Šiauliai",
+      "matchTime": "2026-11-15 12:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Minija's home goal expectancy and Kretinga pitch familiarity make a narrow home win or draw under 2.5 goals the most coherent first-leg projection.",
+    "possibilityAssessment": [
+      "Thesis 1: Home Win / Draw — Minija's 1.54 goal expectancy and 79-goal I Lyga attack meet Šiauliai's 60-goal-conceded defense, though four-day post-120-minute fatigue keeps the draw live (Confidence: Low, Value: Moderate)",
+      "Thesis 2: Under 2.5 Goals — Two-legged first-leg caution and a 2.48 combined goal expectancy align with a 1–2 goal ceiling (Confidence: Moderate, Value: Moderate)",
+      "Thesis 3: Šiauliai Late Transition Counter — Fresh seven-day legs and three-match unbeaten form give the visitors a late counter-attacking path if Minija fade (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650047",
+      "league": "A Lyga",
+      "homeTeam": "Minija",
+      "awayTeam": "Šiauliai",
+      "match_time": "12:00",
+      "match_highlight": "Fatigued Minija test resurgent Šiauliai in cautious A Lyga playoff opener.",
+      "ai_confidence": "Low",
+      "fixtureId": 1650047,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 1:0 Minija home breakthrough against Šiauliai's leaky defense and a 1:1 draw driven by Minija's four-day post-120-minute recovery and first-leg caution, where a single call would ignore genuine fatigue and tier-gap risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.48 combined goal expectancy (55.0% Poisson Under 2.5), Minija's heavy midweek workload, and Šiauliai's pragmatic away posture ahead of the return leg."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two Poisson modal outcomes (12.9% and 12.1%) balancing Minija's home scoring edge with Šiauliai's recent three-match unbeaten resilience."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the highest-density Under 2.5 goal bands (25.8% for 2 goals and 20.8% for 1 goal) in a controlled playoff first leg."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey, level opening half followed by either a late Minija breakthrough or a shared stalemate if Šiauliai's fresher legs hold firm."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 04:19:33 UTC"
+}
