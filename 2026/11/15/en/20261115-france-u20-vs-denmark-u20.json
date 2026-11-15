@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649546,
+    "matchup": "France U20 vs Denmark U20",
+    "home_team": "France U20",
+    "away_team": "Denmark U20",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-france-u20-vs-denmark-u20/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "France U20 vs Denmark U20 Prediction & Match Analysis: Can Les Bleuets Rebound? — Scoreline Preview",
+    "meta": {
+      "matchId": "1649546",
+      "league": "Friendlies",
+      "matchup": "France U20 vs Denmark U20",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "France U20 hold the slight edge to rebound at CNF Clairefontaine, making Home Win / Draw in an Under 2.5 contest the most disciplined pre-lineup call.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Home Win / Draw driven by France U20's academy depth and 1.20-to-1.05 lambda edge alongside 69-hour friendly rotation draw risk (Confidence: Low, Value: Moderate)",
+      "Secondary Angle (Value): Under 2.5 Goals backed by a 2.25 lambda total and 60.9% Poisson concentration across zero to two goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle (Hedge / Upset): 1:1 Draw hedge if Denmark U20 replicate Thursday's compact block and slow French central progression (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649546",
+      "league": "Friendlies",
+      "homeTeam": "France U20",
+      "awayTeam": "Denmark U20",
+      "match_time": "13:00",
+      "match_highlight": "France U20 seek a Clairefontaine response 69 hours after Denmark's 1:0 win.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649546,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 French rebound and a 1:1 stalemate, as unconfirmed friendly rotation and Thursday's 0:1 loss make a single Home Win too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda total and 60.9% Poisson Under 2.5 share point toward a tight, low-scoring second friendly."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Targets France U20's top winning Poisson scoreline (12.6%) alongside the modal 1:1 draw (13.3%)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Captures the two highest Poisson goal-count probabilities at 26.7% and 23.7% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects tighter early French defense before second-half bench depth decides a 1:0 win or leaves a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 12:37:14 UTC"
+}
