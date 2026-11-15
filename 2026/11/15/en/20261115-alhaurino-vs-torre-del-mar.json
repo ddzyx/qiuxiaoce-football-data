@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615245,
+    "matchup": "Alhaurino vs Torre del Mar",
+    "home_team": "Alhaurino",
+    "away_team": "Torre del Mar",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261115-alhaurino-vs-torre-del-mar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Alhaurino vs Torre del Mar Prediction & Match Analysis: Can Hosts Crack Solid Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1615245",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Alhaurino vs Torre del Mar",
+      "matchTime": "2026-11-15 11:15 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Backing Draw / Away Win alongside Under 2.5 goals aligns Torre del Mar's three-match clean-sheet streak and 0.80 goals-conceded rate with their 0.70 goals-per-game attacking ceiling.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both Torre del Mar's narrow 0:1 away efficiency and the realistic 1:1 or 0:0 stalemate branch (Confidence: Low, Value: Moderate)",
+      "Under 2.5 goals reflects the 1.95 combined lambda and 68.9% Poisson probability across a low-scoring regional derby (Confidence: Moderate, Value: Moderate)",
+      "1:1 secondary scoreline covers the scenario where Alhaurino capitalize on home territorial pressure after falling behind (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615245",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Alhaurino",
+      "awayTeam": "Torre del Mar",
+      "match_time": "11:15",
+      "match_highlight": "Torre del Mar's three-match shutout run tests leaky Alhaurino defense.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615245,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a narrow 0:1 Torre del Mar win built on 0.80 GA/game and a 1:1 draw given the visitors' 0.70 GF/game ceiling, where a single win call leaves too much draw exposure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 1.95 combined lambda, 68.9% Under 2.5 Poisson probability, and Torre del Mar's 1.50 total match goals average."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Top Poisson outcomes matching Torre del Mar's compact road defense against Alhaurino's 1.00 GF and 1.40 GA per game profile."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Highest-density total-goal buckets (27.7% and 27.0% respectively) under the 1.95 combined lambda expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects the cagey 0:0 half-time pattern seen in both 2025/26 meetings before a potential second-half away breakthrough or shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:25:02 UTC"
+}
