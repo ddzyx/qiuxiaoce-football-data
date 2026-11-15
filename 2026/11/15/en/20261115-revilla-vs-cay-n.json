@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1613410,
+    "matchup": "Revilla vs Cayón",
+    "home_team": "Revilla",
+    "away_team": "Cayón",
+    "league": "Tercera División RFEF - Group 3",
+    "kickoff_utc": "2026-11-15 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-revilla-vs-cay-n/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Revilla vs Cayón Tactical Breakdown & Probabilistic Modeling: Firepower Meets a 0.20 GA Wall",
+    "meta": {
+      "matchId": "1613410",
+      "league": "Tercera División RFEF - Group 3",
+      "matchup": "Revilla vs Cayón",
+      "matchTime": "2026-11-15 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 Goals captures the tight Poisson balance between a 1:1 stalemate and a 0:1 Cayón road win.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by 1:1 (12.9%) and 0:1 (10.4%) Poisson density (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals supported by lambda_total 2.45 and Cayón's six-match shutout run (Confidence: Moderate, Value: Moderate)",
+      "Revilla Home Breakthrough (1:0 or 2:1) if Raúl Solórzano scores early (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613410",
+      "league": "Tercera División RFEF - Group 3",
+      "homeTeam": "Revilla",
+      "awayTeam": "Cayón",
+      "match_time": "17:00",
+      "match_highlight": "Revilla's 2.30-goal attack tests Cayón's six-match clean-sheet defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1613410,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate and a 0:1 Cayón win, since neither side dominates enough offensively to isolate a single result."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.45 lambda_total (55.6% Under 2.5 in Poisson) and Cayón's 0.20 goals-conceded average across 10 league games."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects Revilla's home scoring potency forcing one breakthrough in a 1:1 draw, or Cayón preserving their shutout streak for a 0:1 win."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top Poisson goal-count cluster (25.9% for two goals, 21.1% for one) against Cayón's low-scoring match profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cayón's disciplined first-half containment favors a level interval before either sharing points or striking late for an away win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 16:34:36 UTC"
+}
