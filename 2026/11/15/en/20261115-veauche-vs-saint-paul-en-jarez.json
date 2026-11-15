@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648003,
+    "matchup": "Veauche vs Saint Paul en Jarez",
+    "home_team": "Veauche",
+    "away_team": "Saint Paul en Jarez",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-veauche-vs-saint-paul-en-jarez/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Veauche vs Saint Paul en Jarez Tactical Breakdown & Preview: Tight Coupe de France Margins",
+    "meta": {
+      "matchId": "1648003",
+      "league": "Coupe de France",
+      "matchup": "Veauche vs Saint Paul en Jarez",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "With minimal statistical separation between two Loire Régional 3 rivals, Veauche are favored to avoid 90-minute defeat via Home Win / Draw alongside an Under 2.5 goals profile.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Veauche's home control and tighter defensive baseline against Saint Paul en Jarez's recent concessions (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined lambda and 60.9% Poisson concentration in 0-2 goal outcomes (Confidence: Low, Value: Moderate)",
+      "Goalless or 1:1 regulation stalemate extending to penalties if Saint Paul en Jarez contain early flank pressure (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648003",
+      "league": "Coupe de France",
+      "homeTeam": "Veauche",
+      "awayTeam": "Saint Paul en Jarez",
+      "match_time": "13:00",
+      "match_highlight": "All-Loire Régional 3 cup derby testing Veauche's patience against Saint Paul's transitions.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648003,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win anchored by Veauche's Stade Irénée Laurent edge alongside a 1:1 draw script reflecting their consecutive cup stalemates and the tiny 0.15 lambda gap."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, 60.9% Poisson density below three goals, and Veauche's disciplined regulation cup record."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Veauche edging a leaky visitor defense, while 1:1 carries the highest raw Poisson density (13.3%) and captures Saint Paul en Jarez's away scoring threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent the two highest-probability totals in the Poisson matrix and align cleanly with 1:1 and 1:0."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a cautious level first half before diverging in the second half between a late Veauche breakthrough and a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 12:16:19 UTC"
+}
