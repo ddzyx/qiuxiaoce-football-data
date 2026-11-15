@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647968,
+    "matchup": "Massay vs Montlouis",
+    "home_team": "Massay",
+    "away_team": "Montlouis",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-massay-vs-montlouis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Massay vs Montlouis Tactical Breakdown & Probabilistic Modeling: Four-Tier Gap vs Cup Momentum",
+    "meta": {
+      "matchId": "1647968",
+      "league": "Coupe de France",
+      "matchup": "Massay vs Montlouis",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win in regulation time paired with Under 2.5 goals offers the most coherent projection as Massay's home cup resistance meets Montlouis's four-tier quality edge.",
+    "possibilityAssessment": [
+      "Massay's compact cup structure forces a tight 90-minute 1:1 stalemate before extra-time/penalties (Confidence: Low, Value: Moderate)",
+      "Montlouis asserts its four-division physical and technical superiority in the second half for a narrow 0:1 away win (Confidence: Low, Value: Moderate)",
+      "Montlouis's league defensive fragility (18 conceded in 9 games) allows Massay to snatch a 1:0 home upset on transition (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647968",
+      "league": "Coupe de France",
+      "homeTeam": "Massay",
+      "awayTeam": "Montlouis",
+      "match_time": "13:00",
+      "match_highlight": "Four-tier gap tested by Massay's home cup giant-killing resilience.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647968,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:1 stalemate matching Massay's Avoine tie and a narrow 0:1 Montlouis win from tier-four conditioning, whereas a single call leaves unverified lineups exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by lambda_total 2.25 (60.9% Poisson Under 2.5) and Montlouis's modest 0.89 league goal rate against Massay's compact home block."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 (13.3%) captures Massay's transition threat against a leaky Montlouis defense, while 0:1 (11.1%) reflects late fourth-tier control."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two Poisson densities around lambda_total 2.25 in a tight cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Massay's compact opening block points toward a level interval before either sharing 1:1 or yielding late to fourth-tier fitness at 0:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 06:14:15 UTC"
+}
