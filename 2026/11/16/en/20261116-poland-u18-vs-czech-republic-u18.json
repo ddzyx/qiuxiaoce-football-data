@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649021,
+    "matchup": "Poland U18 vs Czech Republic U18",
+    "home_team": "Poland U18",
+    "away_team": "Czech Republic U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-16 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-poland-u18-vs-czech-republic-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland U18 vs Czech Republic U18 Prediction & Match Analysis: Can Czechia Halt Poland After 3-0 Loss?",
+    "meta": {
+      "matchId": "1649021",
+      "league": "Friendlies",
+      "matchup": "Poland U18 vs Czech Republic U18",
+      "matchTime": "2026-11-16 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Poland U18 are projected to avoid defeat in a tightly contested Under 2.5 goals rematch in Kłodzko.",
+    "possibilityAssessment": [
+      "Poland U18 Win / Draw dual coverage led by home-leg control (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.25 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge capturing second-leg youth friendly rotation (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649021",
+      "league": "Friendlies",
+      "homeTeam": "Poland U18",
+      "awayTeam": "Czech Republic U18",
+      "match_time": "11:00",
+      "match_highlight": "Rematch in Kłodzko 72 hours after Poland U18's 3-0 win.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649021,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Polish home win backed by leg-1 superiority alongside a 1:1 draw, as Tier-3 rotation and a 0.15 lambda gap make a single call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy, 60.9% Poisson Under 2.5 share, and Czechia's scoreless run across two recorded 2026 friendlies."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances Poland's clean-sheet edge from Náchod against Czechia's expected defensive tightening and second-leg friendly rotation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals represent the top two Poisson mass buckets around the 2.25 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a tighter, level opening half from a reorganized Czech block before Poland's bench either finds a late winner or settles for a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 23:07:58 UTC"
+}
