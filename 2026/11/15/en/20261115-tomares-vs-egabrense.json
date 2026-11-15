@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615555,
+    "matchup": "Tomares vs Egabrense",
+    "home_team": "Tomares",
+    "away_team": "Egabrense",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-tomares-vs-egabrense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tomares vs Egabrense Prediction & Match Analysis: Compact Defense Meets Attacking Tempo",
+    "meta": {
+      "matchId": "1615555",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Tomares vs Egabrense",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Tomares is favored to avoid defeat against Egabrense in an evenly balanced Group 10 clash shaped by contrasting defensive and attacking profiles.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Tomares's 0.90 goals-conceded rate and home venue, with Draw retained due to 1.35-to-1.35 goal expectancy parity (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.70 combined lambda and Egabrense's 3.40 total goals per match average (Confidence: Low, Value: Moderate)",
+      "1:1 Draw / Second-Half Stalemate as the top Poisson cell if Tomares's 1.10 scoring rate fails to break through twice (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615555",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Tomares",
+      "awayTeam": "Egabrense",
+      "match_time": "11:00",
+      "match_highlight": "Tomares's 0.90 conceded rate tests Egabrense's 1.80 scoring attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615555,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers Tomares's superior defensive control in a 2:1 script and the 1:1 draw script created by 1.35-vs-1.35 goal expectancy parity, making a single call too narrow without confirmed lineups."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.70 combined lambda and Egabrense's 1.80 scored / 1.60 conceded averages tilt the distribution slightly toward Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Tomares edging an open second half against Egabrense's leaky defense, while 1:1 captures the top Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with Egabrense's five Over 2.5 results in their last six games, while 2 goals reflects Tomares's compact home tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tomares's defensive structure points to a level first half before second-half spaces decide between a home breakthrough or shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:01:02 UTC"
+}
