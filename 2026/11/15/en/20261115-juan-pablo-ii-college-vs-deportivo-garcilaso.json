@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549559,
+    "matchup": "Juan Pablo II College vs Deportivo Garcilaso",
+    "home_team": "Juan Pablo II College",
+    "away_team": "Deportivo Garcilaso",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-15 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261115-juan-pablo-ii-college-vs-deportivo-garcilaso/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Juan Pablo II College vs Deportivo Garcilaso Tactical Breakdown: Chongoyape Grit vs Top-Four Stakes",
+    "meta": {
+      "matchId": "1549559",
+      "league": "Primera División",
+      "matchup": "Juan Pablo II College vs Deportivo Garcilaso",
+      "matchTime": "2026-11-15 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Garcilaso's superior Clausura goal expectancy and top-four seeding stakes favor Draw / Away Win alongside Over 2.5 goals, balanced against Juan Pablo II College's home discipline in Chongoyape.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Draw / Away Win leaning toward Deportivo Garcilaso in an open final-round contest (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle (Value): Over 2.5 Goals backed by a 2.84 combined lambda and Garcilaso's recent high-scoring away trips (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle (Hedge / Upset): 1:2 and 1:1 Scoreline Focus capturing both an away breakthrough and Chongoyape stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549559",
+      "league": "Primera División",
+      "homeTeam": "Juan Pablo II College",
+      "awayTeam": "Deportivo Garcilaso",
+      "match_time": "20:15",
+      "match_highlight": "Garcilaso chase Libertadores seeding against resilient Chongoyape hosts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549559,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Deportivo Garcilaso's superior attacking expectancy (1.50 lambda) and final-day motivation (1:2) alongside Juan Pablo II's stubborn home defense (1:1), as a single away call would expose the pick to Chongoyape's 2:0 home streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.84 goal lambda gives Over 2.5 a 54.0% Poisson probability, reinforced by Garcilaso's nine goals conceded across their last three road games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Garcilaso's higher-stakes attacking depth overcoming a home transition goal, while 1:1 (11.7% modal Poisson score) protects the coastal deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 1:2 primary scenario and Over 2.5 lean, with two goals covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Juan Pablo II's compact first-half home structure favors an even interval before Garcilaso's second-half quality either breaks through (Draw-Loss) or settles level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:19:10 UTC"
+}
