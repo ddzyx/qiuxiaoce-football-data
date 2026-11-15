@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649149,
+    "matchup": "Nacional Potosí vs Real Potosí",
+    "home_team": "Nacional Potosí",
+    "away_team": "Real Potosí",
+    "league": "Copa de la División Profesional",
+    "kickoff_utc": "2026-11-15 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-nacional-potosi-vs-real-potos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nacional Potosí vs Real Potosí Tactical Breakdown & Probabilistic Modeling: Margin Control After 5-5",
+    "meta": {
+      "matchId": "1649149",
+      "league": "Copa de la División Profesional",
+      "matchup": "Nacional Potosí vs Real Potosí",
+      "matchTime": "2026-11-15 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Regulation time favors Draw / Away Win alongside Under 2.5 Goals as shared-venue parity and knockout stakes pull this second leg back toward defensive discipline.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Draw / Away Win led by Real Potosí's 0.72 league goals-conceded rate and five-match unbeaten 2026 derby run (Confidence: Moderate, Value: Moderate)",
+      "Totals Thesis: Under 2.5 Goals anchored by a 2.25 combined goal-based lambda and 60.9% Poisson under density (Confidence: Moderate, Value: Moderate)",
+      "Contingency Thesis: Late second-half 0:1 breakthrough if Nacional Potosí tires on 71-hour recovery (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649149",
+      "league": "Copa de la División Profesional",
+      "homeTeam": "Nacional Potosí",
+      "awayTeam": "Real Potosí",
+      "match_time": "21:30",
+      "match_highlight": "Shared altitude, 71-hour recovery, and Real's defense test derby composure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649149,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Backed by 1:1 and 0:1 scenarios, covering a cautious knockout stalemate ahead of penalties alongside Real Potosí's superior league defense since a single call would ignore near-even Poisson odds."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal-based lambda (60.9% Under 2.5 Poisson share) and Real Potosí's 18 goals conceded in 25 league matches point toward tightening after Leg 1."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 mirrors both 2026 league derbies and leads the Poisson matrix (13.3%), while 0:1 reflects Real Potosí's 23 September cup win."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top Poisson buckets around a 2.25 expectancy after Thursday's outlier."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A controlled, level first half is expected on 71 hours' rest, splitting between a 90-minute stalemate and a late Real Potosí winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 19:15:05 UTC"
+}
