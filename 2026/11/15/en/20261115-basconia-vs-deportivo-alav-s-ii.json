@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572122,
+    "matchup": "Basconia vs Deportivo Alavés II",
+    "home_team": "Basconia",
+    "away_team": "Deportivo Alavés II",
+    "league": "Segunda División RFEF - Group 1",
+    "kickoff_utc": "2026-11-15 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261115-basconia-vs-deportivo-alav-s-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Basconia vs Deportivo Alavés II Prediction: Can Home Resilience Halt Alavés Firepower? — XG Mind AI",
+    "meta": {
+      "matchId": "1572122",
+      "league": "Segunda División RFEF - Group 1",
+      "matchup": "Basconia vs Deportivo Alavés II",
+      "matchTime": "2026-11-15 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Alavés II's 2.30 goals-per-game attacking edge warrants Draw / Away Win coverage alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win backed by Alavés II's 48.2% Poisson win projection and Basconia's five league draws (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 goals supported by a 3.35 combined lambda total and 65.0% Over 2.5 expectancy (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Balanced first half opening into 1:2 or 2:2 via Draw-Loss or Draw-Draw scripts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572122",
+      "league": "Segunda División RFEF - Group 1",
+      "homeTeam": "Basconia",
+      "awayTeam": "Deportivo Alavés II",
+      "match_time": "11:15",
+      "match_highlight": "Alavés II firepower tests Basconia home draw resilience",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572122,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Alavés II's 1:2 attacking superiority alongside Basconia's 2:2 home stalemate script because unverified reserve lineups and a 50% host draw rate make a single away call brittle."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.35 lambda total (65.0% Over 2.5 Poisson probability) aligns with Alavés II's 3.70 and Basconia's 3.00 combined match-goal averages."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Alavés II's 2.30 scoring edge against 1.40 conceded, while 2:2 reflects Basconia's proven home stalemate resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.0%) and 4 goals (18.4%) anchor the high-scoring center of the 3.35 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Models a tight opening half at Artunduaga before either Alavés II break through after the interval or points are shared."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:20:10 UTC"
+}
