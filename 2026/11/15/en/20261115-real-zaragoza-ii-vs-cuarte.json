@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617697,
+    "matchup": "Real Zaragoza II vs Cuarte",
+    "home_team": "Real Zaragoza II",
+    "away_team": "Cuarte",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-real-zaragoza-ii-vs-cuarte/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Zaragoza II vs Cuarte Tactical Breakdown & Match Analysis: Title Pace Meets Unbeaten Road Form",
+    "meta": {
+      "matchId": "1617697",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Real Zaragoza II vs Cuarte",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw led by Real Zaragoza II's 2:1 home attacking edge alongside Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Primary 1X2 lean favors Real Zaragoza II / Draw behind a 1.70 vs 1.40 goal-based lambda edge and 2:1 vs 1:1 scoreline split (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals carries 59.9% Poisson support with both clubs averaging at least 2.00 goals per league match (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw hedge captures Cuarte's five-match unbeaten league run and 66.7% second-half scoring bias in tracked fixtures (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617697",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Real Zaragoza II",
+      "awayTeam": "Cuarte",
+      "match_time": "11:00",
+      "match_highlight": "League-leading Zaragoza II attack tests Cuarte's resilient five-match unbeaten league run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617697,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Real Zaragoza II's superior 0.80 GA/game defensive margin (2:1) and Cuarte's unbeaten scoring resistance (1:1), where a single home call would overlook the 0.30-lambda parity."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.10 goal-based lambda total, 59.9% Poisson Over 2.5 share, and both teams averaging 2.00+ goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects the hosts' home firepower and defensive edge, while 1:1 is the top Poisson density (10.7%) covering Cuarte's road resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.6%) represent the two highest-probability bands in the 3.10-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight derby first half can finish level before Zaragoza II's home pressure forces a 2:1 breakthrough or Cuarte hold on for 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:17:02 UTC"
+}
