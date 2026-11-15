@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528982,
+    "matchup": "France vs Türkiye",
+    "home_team": "France",
+    "away_team": "Türkiye",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-15 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261115-france-vs-türkiye/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "France vs Türkiye Prediction & Match Analysis: Can a Reshuffled Defense Hold? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1528982",
+      "league": "UEFA Nations League",
+      "matchup": "France vs Türkiye",
+      "matchTime": "2026-11-15 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "France are projected to secure a home victory in Bordeaux over Over 2.5 total goals as Kylian Mbappé's return targets a suspension-hit Türkiye backline.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Home Win driven by France's attacking return and Türkiye's 2.60 goals conceded per game (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle (Value): Over 2.5 Goals backed by 2.90 baseline lambda and depleted defensive personnel on both sides (Confidence: Moderate, Value: High)",
+      "Contingency Angle (Hedge / Upset): Türkiye to breach France's improvised Konaté-Jacquet center-back pairing via Arda Güler (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528982",
+      "league": "UEFA Nations League",
+      "homeTeam": "France",
+      "awayTeam": "Türkiye",
+      "match_time": "19:45",
+      "match_highlight": "Mbappé returns to test a Kabak-less Türkiye defense while France reshuffle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528982,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored on 2:1 and 3:1 scripts where France's returning attack outscores a winless, Kabak-less Türkiye side despite French defensive absentees."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.90 combined lambda total, Türkiye's 1.75 xGA and 1.77 xG per match, and defensive personnel losses on both sides."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Reflects France's 2.10 goal expectancy against a 2.60-GA defense while accounting for Türkiye's chance creation facing a makeshift backline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Mbappé's return and key center-back absences nudge the 2.90 baseline toward a three- or four-goal contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Captures France's 80% half-time draw pattern and second-half surge alongside Türkiye's 80% half-time deficit rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:42:51 UTC"
+}
