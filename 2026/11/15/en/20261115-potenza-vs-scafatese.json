@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609128,
+    "matchup": "Potenza vs Scafatese",
+    "home_team": "Potenza",
+    "away_team": "Scafatese",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-15 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-potenza-vs-scafatese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Potenza vs Scafatese Prediction & Match Analysis: Can Unbeaten Visitors Breach Viviani? — Scoreline Preview",
+    "meta": {
+      "matchId": "1609128",
+      "league": "Serie C - Girone C",
+      "matchup": "Potenza vs Scafatese",
+      "matchTime": "2026-11-15 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Potenza's 6-0-0 home attacking output is projected to overcome Scafatese in a 2:1 or 3:1 high-scoring victory.",
+    "possibilityAssessment": [
+      "Potenza Home Win driven by 3.17 home goals per game against an Ortisi-less Scafatese defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 3.53 combined lambda and both teams' consistent scoring profiles (Confidence: Moderate, Value: Moderate)",
+      "High-scoring 2:2 draw contingency if Scafatese's road resilience exploits Potenza's 1.38 concession rate (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609128",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Potenza",
+      "awayTeam": "Scafatese",
+      "match_time": "13:30",
+      "match_highlight": "Potenza's perfect Viviani attack meets depleted Scafatese defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609128,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Potenza's 6-0-0 home record and 3.17 home goals per match support a 2:1 or 3:1 victory against a Scafatese side with zero away clean sheets."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.53 lambda, 83% Potenza home BTTS, and 100% Scafatese away BTTS strongly favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects Scafatese's reliable away scoring alongside Potenza's home superiority, while 3:1 captures late transition spaces."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson goal probabilities peak at 3 goals (21.5%) and 4 goals (19.0%) on a 3.53 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Potenza's home intensity favors leading at both intervals, with Draw-Win covering early Scafatese midfield resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 13:21:09 UTC"
+}
