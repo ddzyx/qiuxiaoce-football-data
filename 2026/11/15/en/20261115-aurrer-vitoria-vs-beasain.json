@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1613713,
+    "matchup": "Aurrerá Vitoria vs Beasain",
+    "home_team": "Aurrerá Vitoria",
+    "away_team": "Beasain",
+    "league": "Tercera División RFEF - Group 4",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-aurrer-vitoria-vs-beasain/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aurrerá Vitoria vs Beasain Prediction & Match Analysis: Goals Gap Challenges 2nd Place — Scoreline Preview",
+    "meta": {
+      "matchId": "1613713",
+      "league": "Tercera División RFEF - Group 4",
+      "matchup": "Aurrerá Vitoria vs Beasain",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Beasain are projected to avoid defeat at Estadio Olaranbe in an open contest backed by their superior goal difference and five-match unbeaten surge.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Beasain's 1.90 goals-per-game output and 65.0% combined Poisson probability (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals supported by a 3.15 combined goal expectancy and both teams' 3.10+ match goal averages (Confidence: Moderate, Value: Moderate)",
+      "Aurrerá Vitoria 2:1 home counter-script if Markel Martínez converts early at Olaranbe (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613713",
+      "league": "Tercera División RFEF - Group 4",
+      "homeTeam": "Aurrerá Vitoria",
+      "awayTeam": "Beasain",
+      "match_time": "11:00",
+      "match_highlight": "Surging Beasain attack tests second-placed Aurrerá Vitoria's leaky backline at Olaranbe.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1613713,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Beasain's 1:2 away-win edge from superior goal metrics and the 1:1 stalemate branch, avoiding a single away call against Aurrerá's 70% league win rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.15 and both clubs averaging over 3.10 total match goals point to 3+ goals (~61.0% Poisson probability)."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Beasain's higher attacking lambda (1.65 vs 1.50) breaking through after the interval, while 1:1 captures a tighter Olaranbe containment script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.3%) represent the two highest-density bands in the independent Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half at Olaranbe should keep matters level at the break before Beasain either strike for 1:2 (Draw-Loss) or settle for 1:1 (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 00:57:06 UTC"
+}
