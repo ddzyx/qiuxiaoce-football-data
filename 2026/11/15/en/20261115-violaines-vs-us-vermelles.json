@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648007,
+    "matchup": "Violaines vs US Vermelles",
+    "home_team": "Violaines",
+    "away_team": "US Vermelles",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-violaines-vs-us-vermelles/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Violaines vs US Vermelles Prediction & Match Analysis: Can D2 Underdogs Stun R3 Rivals? — Preview",
+    "meta": {
+      "matchId": "1648007",
+      "league": "Coupe de France",
+      "matchup": "Violaines vs US Vermelles",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Violaines are projected to win or draw in 90 minutes alongside Under 2.5 total goals in a tightly contested Coupe de France derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Violaines's 1.20-to-1.05 goal-expectancy edge and 68.0% combined Poisson coverage (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined goal expectancy and 60.9% model density (Confidence: Low, Value: Moderate)",
+      "Late Régional 3 fitness pressure from US Vermelles testing Violaines's depth in the final 20 minutes (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648007",
+      "league": "Coupe de France",
+      "homeTeam": "Violaines",
+      "awayTeam": "US Vermelles",
+      "match_time": "13:00",
+      "match_highlight": "D2 giant-killers Violaines host R3 neighbors US Vermelles in Wingles.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648007,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 1:0 Violaines upset (39.4% Home Win) and a 1:1 stalemate (28.6% Draw), as neither unverified lineup justifies excluding the draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson goal expectancy of 2.25 concentrates 60.9% probability mass under 2.5 goals in a cautious knockout derby."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Represents the top two Poisson scorelines (13.3% and 12.6%), balancing Vermelles's R3 pedigree against Violaines's tighter 1.0 conceded rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the top two exact-goal bands in the Poisson distribution at 26.7% and 23.7%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey, level first half before either a second-half Violaines breakthrough or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 12:24:27 UTC"
+}
