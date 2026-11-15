@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615552,
+    "matchup": "Dos Hermanas vs San Roque Lepe",
+    "home_team": "Dos Hermanas",
+    "away_team": "San Roque Lepe",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-dos-hermanas-vs-san-roque-lepe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dos Hermanas vs San Roque Lepe Prediction & Match Analysis: Can Home Firepower Crack Unbeaten Visitors?",
+    "meta": {
+      "matchId": "1615552",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Dos Hermanas vs San Roque Lepe",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dos Hermanas hold the upper hand in Group 10's top-three clash, with home-win and draw scenarios backed by a 2.40-goal attack meeting an unbeaten San Roque Lepe defense.",
+    "possibilityAssessment": [
+      "Dos Hermanas Win or Draw driven by 1.65 home lambda and perfect Miguel Román home record against a 0.90-GA visitor (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 2.90 combined lambda and 57.6% Poisson BTTS probability (Confidence: Moderate, Value: High)",
+      "Tight 1:1 Draw hedge if Kuiki's compact back line neutralizes early central penetration (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615552",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Dos Hermanas",
+      "awayTeam": "San Roque Lepe",
+      "match_time": "11:00",
+      "match_highlight": "Group 10's top attack tests San Roque Lepe's seven-match unbeaten run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615552,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covering Home Win and Draw captures both the leading 2:1 home breakthrough script and the 1:1 deadlock scenario, whereas a single call would understate San Roque Lepe's seven-match unbeaten defensive resistance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.90 combined goal lambda, Dos Hermanas' 2.40 goals-per-game output, and a 55.4% Poisson probability above 2.5 goals support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Dos Hermanas' superior home scoring power against an opponent averaging 1.50 goals scored, while 1:1 captures the highest raw Poisson density (11.3%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 home-win anchor and high Miguel Román scoring volume, while two goals cover a tighter 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "San Roque Lepe's 0.90 goals-conceded structure favors a level first half before Dos Hermanas' second-half acceleration decides between Draw-Win and Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:54:13 UTC"
+}
