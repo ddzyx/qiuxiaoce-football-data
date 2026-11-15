@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617689,
+    "matchup": "Almudévar vs CDJ Tamarite",
+    "home_team": "Almudévar",
+    "away_team": "CDJ Tamarite",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-15 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-almud-var-vs-cdj-tamarite/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Almudévar vs CDJ Tamarite Prediction & Match Analysis: Home Discipline vs Away Leaks — Scoreline Preview",
+    "meta": {
+      "matchId": "1617689",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Almudévar vs CDJ Tamarite",
+      "matchTime": "2026-11-15 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Almudévar are projected to avoid defeat in a 2:1 or 1:1 contest backed by their 1.00 goal-conceded-per-game structure and 70.1% combined Home Win or Draw Poisson share.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Almudévar's home edge leads on a 1.60 vs 1.25 goal-lambda gap while Draw covers a 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals / 2:1 Scoreline: CDJ Tamarite's 3.80 total goals-per-match average and 54.2% Poisson Over 2.5 probability support a three-goal script (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / Under 2.5 Goals: Almudévar's compact tempo and recent 0-0 draws create a secondary two-goal stalemate path (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617689",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Almudévar",
+      "awayTeam": "CDJ Tamarite",
+      "match_time": "15:00",
+      "match_highlight": "Almudévar defensive discipline tests Tamarite's leaky 2.30-goal-conceded backline at La Corona.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617689,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 2:1 home win leads against Tamarite's 2.30 goals conceded per match, while 1:1 draw protection is necessary because Almudévar average only 0.90 goals per game and cannot rely on a single-win call without margin risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 2.85 goal lambda (54.2% Poisson Over 2.5 probability) and Tamarite's 3.80 total goals per match outweigh Almudévar's tighter home scoring profile."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Almudévar capitalizing on Tamarite's 10 goals conceded in four games while conceding once, whereas 1:1 is the modal 11.6% Poisson score and matches February 2026's La Corona meeting."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 2:1 script and Tamarite's four consecutive 3-to-4-goal outings, while 2 goals captures the 23.5% Poisson peak behind a 1:1 or 2:0 outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Almudévar's cautious first-half containment favors a level interval before either breaking through late against Tamarite's tiring defense or settling for a full-time draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:29:22 UTC"
+}
