@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1551884,
+    "matchup": "MVV vs Vitesse",
+    "home_team": "MVV",
+    "away_team": "Vitesse",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-15 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-mvv-vs-vitesse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "MVV vs Vitesse Prediction & Tactical Breakdown: Keeper Crisis Meets De Geusselt's Second-Half Surge",
+    "meta": {
+      "matchId": "1551884",
+      "league": "Eerste Divisie",
+      "matchup": "MVV vs Vitesse",
+      "matchTime": "2026-11-15 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back MVV to avoid defeat (Home Win / Draw) with Over 2.5 goals as Vitesse navigate late defensive and goalkeeping changes at De Geusselt.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw led by a narrow MVV victory (Confidence: Moderate, Value: High)",
+      "Secondary Scoring Thesis: Over 2.5 goals anchored by a 3-goal primary and 2-goal secondary distribution (Confidence: Moderate, Value: Moderate)",
+      "Contingency Score Split: 2:1 Home Win / 1:1 Draw covering MVV set-piece pressure and Vitesse shot wastefulness (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551884",
+      "league": "Eerste Divisie",
+      "homeTeam": "MVV",
+      "awayTeam": "Vitesse",
+      "match_time": "13:30",
+      "match_highlight": "Vitesse backup keeper faces MVV's second-half surge",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551884,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 MVV home breakthrough against Vitesse's depleted backline and a 1:1 stalemate if Vitesse's high shot wastefulness caps scoring, whereas a single call leaves MVV's 2.07 GA/m defense or Vitesse's 7.7% clean-sheet rate underpriced."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.06 goal-based lambda total, MVV's 3.43 goals per league game, and Vitesse starting backup goalkeeper Connor van den Berg without Marcus Steffen."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects MVV's home scoring consistency and set-piece edge against an altered Vitesse spine, while 1:1 captures Vitesse's 70.3% big-chance waste rate holding the contest level."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary script and MVV's open match profile, while two goals cover Vitesse's recent run of 2-goal fixtures."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win matches MVV's 75.0% home half-time draw conversion into victories, while Win-Draw covers MVV failing to protect an early lead against Vitesse's 40.0% HT-deficit recovery rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 13:13:21 UTC"
+}
