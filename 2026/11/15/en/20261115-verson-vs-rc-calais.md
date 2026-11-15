@@ -1,0 +1,83 @@
+# Verson vs RC Calais Prediction & Match Analysis: Can R3 Giant-Killers Resist Calais's R1 Firepower?
+
+> **Competition**: Coupe de France
+> **Kickoff**: 2026-11-15 13:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+Sunday&#x27;s Coupe de France 7th-round tie pits Normandy&#x27;s Régional 3 giant-killers AS Verson against Hauts-de-France Régional 1 promotion contenders RC Calais, with kickoff scheduled for 13:00 UTC at the relocated Stade Michel Farré in Mondeville. At the heart of this contest lies a stark structural tension: Verson have already eliminated two Régional 1 sides without conceding a goal, yet they forfeit their familiar Stade Jules-Rimet synthetic surface to face an unbeaten-run Calais squad scoring freely two tiers higher on the French pyramid. With official matchday lineups and aligned expected-goals records unavailable in the pre-match feed, XG Mind AI integrates verified regional results, squad profiles, and Poisson goal-expectancy baselines to map how this knockout clash will unfold.
+
+📌 Verson vs RC Calais: Match Intelligence Brief
+
+Fixture ID
+
+: 1648005
+
+Matchup
+
+: Verson vs RC Calais
+
+Competition
+
+: Coupe de France, 1/128-finals (7th Round)
+
+Kickoff Time
+
+: 2026-11-15 13:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether AS Verson&#x27;s organized Régional 3 defensive block can survive the relocated pitch in Mondeville against RC Calais&#x27;s two-division quality edge and multi-goal attacking form.
+
+📊 1. Verson Attacking Structure vs RC Calais Defensive Counter
+
+⚔️ Head-to-Head History: First Competitive Meeting Between Normans and Calaisiens
+
+No competitive head-to-head meetings have occurred between AS Verson and RC Calais in recent seasons, leaving zero historical matchup precedent in the official match record.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+N/A
+
+N/A
+
+No prior meetings
+
+N/A
+
+N/A
+
+📈 Team Form &amp; Tactical Style Breakdown: Direct Giant-Killer Momentum vs Clinical R1 Dominance
+
+Home Team (Verson):
+
+Under 32-year-old manager Kévin Leroux, appointed in the summer of 2025, Régional 3 side AS Verson arrive in surging autumn form across both league and cup action. After a narrow 1-2 league defeat at St Hilaire Virey Landelles on October 3, Verson responded with four consecutive victories and four straight clean sheets: a 1-0 5th-round Coupe de France upset over Régional 1 club Bayeux FC on October 11, a 6-0 league rout away at US Granville III on October 17, a stunning 4-0 6th-round cup triumph over another Régional 1 opponent in Jeunesse Fertoise Bagnoles on October 25, and a 3-0 league win over CS Villedieu on November 7. Forward Édouard Ozanne spearheads the transition threat after netting a brace against Bagnoles, supported by captain Adrien Roger in midfield, defensive anchors Dorian Rozier and Florian Otto, and supporting pieces Fabien Lecordier, Mathis Thurlure, and Louka Saint-Clair.
+
+However, losing Stade Jules-Rimet&#x27;s synthetic pitch due to FFF grandstand requirements forces Verson to relocate to Mondeville&#x27;s Stade Michel Farré, dulling their accustomed home-turf edge.
+
+Combined with forecasted afternoon showers and 50 to 70 km/h wind gusts, Verson must lean on compact spacing and direct counters rather than high-tempo synthetic possession.
+
+Away Team (RC Calais):
+
+Coached by Florian Brame (593 days in post per the match package), RC Calais travel to Normandy as genuine promotion contenders in Régional 1 Hauts-de-France Poule B, sitting second with 21 points from eight league outings (seven wins, zero draws, one loss, and a +23 goal difference). Their recent attacking output has been ruthless: a 3-1 away win at CS Chaumont-en-Vexin in the Coupe de France 6th round on October 25, a 6-0 demolition of USL Dunkerque&#x27;s reserve side on October 31, and a 5-2 victory away at Arras FA on November 7—fourteen goals across three consecutive fixtures. Experience underpins the roster, led by former top-flight attacker Claudio Beauvue alongside Thierno Thioub, Romain Merlen, Clément Maison, Adrien Ducrocq, Medhy Varane, Alain Moges, and goalkeeper Clément Petrel. In recent Coupe de France campaigns preserved in the package, Calais posted a 3W-0D-2L record (beating Longueau 2-1, Les Ulis 3-1, and Le Touquet 1-0 before falling 1-4 to Caen and 0-3 to Strasbourg), yielding a 54.8 weighted form score.
+
+Calais&#x27;s two-division pedigree gives them superior ball retention and half-space penetration, yet their package cup concession rate of 1.2 goals per match warns against complacency on the road.
+
+🔍 Core Statistical Comparison: Package Cup Baselines vs Current League Form
+
+(Note: Competition-aligned expected-goals metrics were not available in the match package, so attacking and defensive comparisons rely on the package&#x27;s per-match goal rates and statistical lambdas alongside verified 2026–2027 league and cup scores).
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261115-verson-vs-rc-calais/)
