@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615551,
+    "matchup": "Córdoba II vs Ceuta II",
+    "home_team": "Córdoba II",
+    "away_team": "Ceuta II",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-c-rdoba-ii-vs-ceuta-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Córdoba II vs Ceuta II Tactical Breakdown & Match Analysis: Away Scoring Drought Meets Coaching Shift",
+    "meta": {
+      "matchId": "1615551",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Córdoba II vs Ceuta II",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Poisson modeling and seasonal goal metrics point to a tight, low-margin contest favoring Draw / Away Win alongside Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Primary Match Result — Draw / Away Win: Independent Poisson probabilities (39.7% Away Win, 26.2% Draw) and 1.25 vs 1.37 goal lambdas favor covering the stalemate alongside a narrow Ceuta II victory (Confidence: Low, Value: Moderate)",
+      "Total Goals — Under 2.5: Combined seasonal scoring of 2.30 goals per match and a 51.4% baseline probability for two or fewer goals support a restrained scoring script (Confidence: Moderate, Value: Moderate)",
+      "Correct Score Hedge — 1:1 / 0:1: The top two Poisson scorelines (12.5% and 10.0%) capture both the cagey stalemate and a single-goal road success (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615551",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Córdoba II",
+      "awayTeam": "Ceuta II",
+      "match_time": "11:00",
+      "match_highlight": "Ceuta II's two-goal away drought meets Córdoba II's three-match unbeaten revival.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615551,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the high-frequency 1:1 stalemate and a narrow 0:1 away win, as neither Ceuta II's 0.40 away goal rate nor Córdoba II's single season victory justifies a single-outcome commitment."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 51.4% Poisson probability for two or fewer goals and Ceuta II finishing Under 2.5 in four of their five away fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Aligns with the top two Poisson matrix outcomes (12.5% and 10.0%) for a tight duel between two low-scoring sides."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects a low-margin match script centered on two goals (1:1) or a single decisive strike (0:1) given Ceuta II's away scoring caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Anticipates a level, tactical first half before either holding at 1:1 or breaking late in Ceuta II's favor at 0:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:50:54 UTC"
+}
