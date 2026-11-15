@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570023,
+    "matchup": "Tenerife vs AD Ceuta FC",
+    "home_team": "Tenerife",
+    "away_team": "AD Ceuta FC",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-tenerife-vs-ad-ceuta-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tenerife vs AD Ceuta FC Prediction & Match Analysis: Can Debutant Keeper Hold Lobera's Attack?",
+    "meta": {
+      "matchId": "1570023",
+      "league": "Segunda División",
+      "matchup": "Tenerife vs AD Ceuta FC",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Tenerife to avoid defeat against winless-on-the-road AD Ceuta FC, with a 2:1 home victory leading a 1:1 draw alternative due to Tenerife's suspended goalkeeper.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Tenerife's 5-of-6 home unbeaten record and Ceuta's zero clean sheets (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 2.87 combined lambdas and compromised defenses on both sides (Confidence: Moderate, Value: High)",
+      "1:1 Draw / Win-Draw HT/FT contingency covering Tenerife's 50% home lead-surrender rate against a debutant keeper (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570023",
+      "league": "Segunda División",
+      "homeTeam": "Tenerife",
+      "awayTeam": "AD Ceuta FC",
+      "match_time": "13:00",
+      "match_highlight": "Suspended Tenerife keeper opens door for Ceuta's debuting boss Lobera.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570023,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 2:1 home win leads against Ceuta's depleted 2.31-goals-conceded road defense, while a 1:1 draw covers Dani Martín's suspension and Tenerife's four consecutive league draws, making a single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.87 combined lambda anchor, Ceuta's 1.83 xGA/match with zero clean sheets, and a debutant home goalkeeper support 3+ total goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Tenerife's clinical attack exploiting Ceuta's defensive absences alongside a conceded goal, while 1:1 reflects the top Poisson modal density and Tenerife's draw habit."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 projection under weakened defenses, with 2 goals covering a wasteful Ceuta display in a 1:1 or 2:0 script."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Tenerife have led at half-time in 4 of 6 home games (85.7% first-half home goal share), splitting between holding on for Win-Win and conceding late for Win-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 05:13:43 UTC"
+}
