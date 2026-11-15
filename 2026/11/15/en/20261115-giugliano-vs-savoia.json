@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609127,
+    "matchup": "Giugliano vs Savoia",
+    "home_team": "Giugliano",
+    "away_team": "Savoia",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-15 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-giugliano-vs-savoia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Giugliano vs Savoia Prediction & Match Analysis: Can Agovino's Defense Hold Without De Rosa?",
+    "meta": {
+      "matchId": "1609127",
+      "league": "Serie C - Girone C",
+      "matchup": "Giugliano vs Savoia",
+      "matchTime": "2026-11-15 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Giugliano's strong home record under Massimo Agovino meets Savoia's draw resilience in an open derby where Home Win / Draw and Over 2.5 lead.",
+    "possibilityAssessment": [
+      "Giugliano's 1.86 home points per game and returning forward depth support a Home Win / Draw core call (Confidence: Moderate, Value: Moderate)",
+      "Combined goal expectancy of 3.13 and Giugliano's 3.57 goals per home match favor Over 2.5 goals (Confidence: Moderate, Value: High)",
+      "De Rosa's confirmed absence and Savoia's six league draws preserve a live 1:1 stalemate branch (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609127",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Giugliano",
+      "awayTeam": "Savoia",
+      "match_time": "11:30",
+      "match_highlight": "Giugliano tests clean-sheet streak against Savoia without injured captain De Rosa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609127,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win covers Giugliano's 1.86 home PPG and recent 2:1 projection, while Draw covers Savoia's 46.2% draw rate without injured captain De Rosa, making a single call riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.13 combined lambda, 60.5% Poisson Over 2.5 rate, and high season goal concessions from both defenses."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Giugliano's home attacking edge despite De Rosa's absence, while 1:1 captures the top Poisson draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.4%) lead the independent Poisson distribution and align directly with 2:1 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win mirrors Giugliano's recent early goals under Agovino, while Draw-Draw covers a cagey first half ending 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:29:10 UTC"
+}
