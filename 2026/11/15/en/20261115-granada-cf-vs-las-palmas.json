@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570018,
+    "matchup": "Granada CF vs Las Palmas",
+    "home_team": "Granada CF",
+    "away_team": "Las Palmas",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-15 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261115-granada-cf-vs-las-palmas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Granada CF vs Las Palmas: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1570018",
+      "league": "Segunda División",
+      "matchup": "Granada CF vs Las Palmas",
+      "matchTime": "2026-11-15 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Granada CF's 1.58 xG attacking process and six set-piece goals against Las Palmas's 1.56 xGA defensive profile support a home victory at Nuevo Los Cármenes.",
+    "possibilityAssessment": [
+      "Home Win — Sustained 14.4 shots per match, +0.35 xG differential, and six dead-ball strikes give Granada CF the structural edge over 90 minutes (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (3 Goals primary, 2:1 primary scoreline) — Aligned with a 2.96 lambda_total and Las Palmas's 1.56 xGA per match against Granada's home pressure (Confidence: Moderate, Value: Moderate)",
+      "2:0 Clean-Sheet Home Win (2 Goals secondary) — Covers Granada's four-clean-sheets-in-five defensive run shutting down Las Palmas's 0.99 xG attack without Sandro Ramírez (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570018",
+      "league": "Segunda División",
+      "homeTeam": "Granada CF",
+      "awayTeam": "Las Palmas",
+      "match_time": "15:15",
+      "match_highlight": "Granada's 1.58 xG attack tests Las Palmas's depleted backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570018,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Granada CF's 1.58 xG creation, 14.1-day rest edge, and Las Palmas's four defensive absences plus zero-draw away record anchor a single home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.96 goal-based lambda_total and Las Palmas's 1.56 xGA per game without Pezzolesi and Herzog point toward three or more total goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Granada's home attacking edge alongside Diallo's absence enabling a Las Palmas reply, while 2:0 covers a Granada clean-sheet win."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 2:1 primary script and Over 2.5 lean, while two goals covers the 2:0 shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Granada score 80% of their league goals in the second half (Draw-Win), while Las Palmas's 50% away HT deficit rate supports Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:39:00 UTC"
+}
