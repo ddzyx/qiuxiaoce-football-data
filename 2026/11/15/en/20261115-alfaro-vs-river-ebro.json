@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617384,
+    "matchup": "Alfaro vs River Ebro",
+    "home_team": "Alfaro",
+    "away_team": "River Ebro",
+    "league": "Tercera División RFEF - Group 16",
+    "kickoff_utc": "2026-11-15 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-alfaro-vs-river-ebro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Alfaro vs River Ebro Prediction & Match Analysis: Can Hosts Break River Ebro's Resistance? — Preview",
+    "meta": {
+      "matchId": "1617384",
+      "league": "Tercera División RFEF - Group 16",
+      "matchup": "Alfaro vs River Ebro",
+      "matchTime": "2026-11-15 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Alfaro are backed for a controlled Home Win over River Ebro on the strength of their superior home defense and scoring reliability.",
+    "possibilityAssessment": [
+      "Home Win — Alfaro's 4W-1L home record and 0.90 goals conceded per game outmatch winless-on-the-road River Ebro (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Controlled home scoring (1.40 GF/gm) meets a 0.40 away-goal attack despite the 2.80 raw lambda total (Confidence: Moderate, Value: Moderate)",
+      "1:0 Narrow Win Hedge — Alfaro's frequent single-goal victories make a tight 1:0 home grind the primary margin alternative (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617384",
+      "league": "Tercera División RFEF - Group 16",
+      "homeTeam": "Alfaro",
+      "awayTeam": "River Ebro",
+      "match_time": "15:00",
+      "match_highlight": "Alfaro's patient home attack tests River Ebro's porous away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617384,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Alfaro's 1.50 goals scored and 0.90 conceded per game comfortably outweigh River Ebro's 0W-1D-4L road record toward a 2:0 or 1:0 victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Alfaro average 1.40 goals at home and River Ebro average just 0.40 away, pulling expected scoring under 2.5 once the Round 2 7-0 outlier is discounted."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 and 1:0 reflect Alfaro's home clean-sheet stability against a River Ebro attack with three road blanks in five away league fixtures."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal independent Poisson outcome (23.8%), with 1 goal (17.0%) capturing Alfaro's recent 1-0 home winning pattern."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Alfaro frequently break deadlocks after halftime as against Comillas and Berceo, while an early breakthrough against 2.20 GA/gm visitors supports Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:25:43 UTC"
+}
