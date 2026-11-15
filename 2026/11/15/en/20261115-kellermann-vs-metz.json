@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647957,
+    "matchup": "Kellermann vs Metz",
+    "home_team": "Kellermann",
+    "away_team": "Metz",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kellermann-vs-metz/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kellermann vs Metz Tactical Breakdown & Probabilistic Modeling: Four-Tier Cup Gap Meets Depleted Midfield",
+    "meta": {
+      "matchId": "1647957",
+      "league": "Coupe de France",
+      "matchup": "Kellermann vs Metz",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Metz are projected to convert their four-division Ligue 2 superiority and superior rest into an ordinary full-time Away Win clearing Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Metz Away Win driven by Savanier and Fall availability plus Proment's non-rotation stance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals anchored by 3 or 4 total goals in a high-event cup script (Confidence: Moderate, Value: Moderate)",
+      "Metz 2+ goal margin via second-half amateur fatigue despite visiting defensive absences (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647957",
+      "league": "Coupe de France",
+      "homeTeam": "Kellermann",
+      "awayTeam": "Metz",
+      "match_time": "13:00",
+      "match_highlight": "Savanier and Fall lead depleted Metz against four-tier underdogs Kellermann.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647957,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A four-tier Ligue 2 class gap, 8.8 days of rest, and Metz's available attacking spine support an outright Away Win via 0:3 or 1:3."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Metz's 2.02 decayed goals scored and 2.29 conceded per game point past 2.5 goals once Kellermann tire."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:3"
+        ],
+        "comment": "0:3 reflects professional control over a fatigued Régional 1 side, while 1:3 accounts for Metz's depleted defensive spine conceding once."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Metz's three-goal Ligue 2 ceiling and open transition defending converge on three or four total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss captures early Savanier-led control, while Draw-Loss covers first-half cup resistance before late amateur fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 05:33:11 UTC"
+}
