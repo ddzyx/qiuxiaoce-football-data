@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647993,
+    "matchup": "Saint-Renan vs Laval",
+    "home_team": "Saint-Renan",
+    "away_team": "Laval",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-saint-renan-vs-laval/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint-Renan vs Laval Prediction & Match Analysis: Can Ligue 2 Possession Break R1 Resistance?",
+    "meta": {
+      "matchId": "1647993",
+      "league": "Coupe de France",
+      "matchup": "Saint-Renan vs Laval",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Laval's four-division superiority in ball retention, rest, and squad depth points to a controlled Away Win over 90 minutes at Stade Abbé-Le-Gall.",
+    "possibilityAssessment": [
+      "Away Win — Laval's 55.7% Ligue 2 possession structure and full week of rest overcome Saint-Renan's Régional 1 block in 90 minutes (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Laval's 58.3% big-chance missed ratio, Corentin Fatou's injury absence, and Saint-Renan's back-to-back R1 blanks cap scoring near two goals (Confidence: Moderate, Value: Moderate)",
+      "First-Half Tightness Contingency — Possible cup rotation before Montpellier keeps the opening 45 minutes level before professional fitness tells late (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647993",
+      "league": "Coupe de France",
+      "homeTeam": "Saint-Renan",
+      "awayTeam": "Laval",
+      "match_time": "13:00",
+      "match_highlight": "Laval's Ligue 2 ball control tests Saint-Renan's home cup resistance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647993,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A single Away Win reflects Laval's four-tier professional superiority and 0:2 core scoreline against a host shut out in consecutive Régional 1 matches."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Goal-based lambda_total of 2.25 combined with Laval's 58.3% big-chance waste rate and Fatou's injury keeps 0–2 goals favored over an open shootout."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:3"
+        ],
+        "comment": "0:2 captures Laval's territorial control tempered by finishing waste, while 0:3 covers late second-half gaps if R1 legs tire."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal 26.7% Poisson outcome alongside Saint-Renan's blunt attack, with three goals reflecting a late-fatigue extension."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss leads if Saint-Renan's fresh first-half block holds until the interval before yielding, while Loss-Loss covers an early Laval breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 11:32:28 UTC"
+}
