@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572426,
+    "matchup": "Barbastro vs Arnedo",
+    "home_team": "Barbastro",
+    "away_team": "Arnedo",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-barbastro-vs-arnedo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barbastro vs Arnedo Prediction & Match Analysis: Can Hosts End Winless Slide? — Scoreline Preview",
+    "meta": {
+      "matchId": "1572426",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Barbastro vs Arnedo",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barbastro Win / Draw paired with Under 2.5 Goals captures the hosts' home edge over Arnedo's porous away defense while respecting Barbastro's six-draw league record.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win / Draw, prioritizing a controlled Barbastro victory over an Arnedo road side conceding 2.75 goals per away game while covering the draw (Confidence: Moderate, Value: Moderate)",
+      "Total goals lean: Under 2.5 Goals backed by a 50.6% Poisson probability, 2.20 goals per Barbastro match, and Arnedo's 0.50 away scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Contingency branch: Exactly 3 total goals (2:1) if Arnedo convert a set piece or penalty in a late second-half push (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572426",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Barbastro",
+      "awayTeam": "Arnedo",
+      "match_time": "11:00",
+      "match_highlight": "Barbastro's home push meets Arnedo's 2.75-goals-conceded road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572426,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:0 home win against Arnedo's 2.75 away goals conceded per game and a 1:1 draw, as Barbastro's nine-match winless streak and six draws make a single home call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 50.6% Poisson Under 2.5 share, Barbastro's 1.00 goals-per-game average, and Arnedo's two goals across four away matches."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Barbastro's 1.60 home lambda exploiting Arnedo's leaky away defense; 1:1 mirrors the hosts' 60% season draw rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.8%) leads the Poisson distribution and fits both core scorelines, with three goals (21.9%) covering a 2:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight, card-disrupted first half gives way either to a second-half Barbastro breakthrough or a shared 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 00:05:42 UTC"
+}
