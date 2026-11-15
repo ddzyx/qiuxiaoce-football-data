@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1511724,
+    "matchup": "Magallanes vs Antofagasta",
+    "home_team": "Magallanes",
+    "away_team": "Antofagasta",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-15 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-magallanes-vs-antofagasta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Magallanes vs Antofagasta Prediction & Preview: Can Hosts Crack 0.90 GA Defense? — XG Mind AI",
+    "meta": {
+      "matchId": "1511724",
+      "league": "Primera B",
+      "matchup": "Magallanes vs Antofagasta",
+      "matchTime": "2026-11-15 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Side with Draw / Away Win in Primera B Round 30 as Antofagasta's +25 goal difference and 0.90 goals-conceded structure meet Magallanes's high-volume home attack.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Antofagasta's 1.64-vs-1.23 Poisson lambda edge and 29-match two-way superiority while respecting mutual Liguilla security (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 2.87 combined lambda total, 54.6% Poisson Over 2.5 probability, and Magallanes's 1.55 GF / 1.52 GA profile (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 Draw hedge reflects the highest single Poisson scoreline density at 11.4% if playoff caution slows late attacking risks (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1511724",
+      "league": "Primera B",
+      "homeTeam": "Magallanes",
+      "awayTeam": "Antofagasta",
+      "match_time": "21:00",
+      "match_highlight": "Antofagasta's 0.90 GA defense tests Magallanes's high-volume home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1511724,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Antofagasta breakthrough driven by Brayan Hurtado and Josepablo Monreal and the 1:1 draw script, as a single away call is weakened by Antofagasta's 4W-5D-5L road record and clinched Liguilla status."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.87 Poisson lambda total, 54.6% Over 2.5 probability, 57.0% BTTS baseline, and Magallanes conceding 1.52 goals per league match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors the 1.23 vs 1.64 lambda balance against Magallanes's leaky backline, while 1:1 covers the 11.4% modal Poisson scoreline under Liguilla-seeding caution."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the 1:2 and 1:1 projections alongside the two largest Poisson goal-count probabilities (22.3% for 3 goals, 23.4% for 2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Three of the last four H2H meetings were level at half-time, making a tight opening 45 minutes followed by either an away winner or a shared stalemate the primary chronological split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:31:03 UTC"
+}
