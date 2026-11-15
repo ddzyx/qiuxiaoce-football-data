@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647995,
+    "matchup": "Talange vs Baume Dames",
+    "home_team": "Talange",
+    "away_team": "Baume Dames",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-talange-vs-baume-dames/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Talange vs Baume Dames Tactical Breakdown & Probabilistic Modeling: Home Edge vs Cup Firepower",
+    "meta": {
+      "matchId": "1647995",
+      "league": "Coupe de France",
+      "matchup": "Talange vs Baume Dames",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Retain Home Win / Draw alongside Under 2.5 goals in a tightly balanced Coupe de France 7th-round tie between two Régional 2 clubs separated by just 0.15 in goal-based lambda.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals (Confidence: Low, Value: Moderate)",
+      "1:1 or 1:0 Regulation Scoreline (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647995",
+      "league": "Coupe de France",
+      "homeTeam": "Talange",
+      "awayTeam": "Baume Dames",
+      "match_time": "13:00",
+      "match_highlight": "Even Régional 2 cup clash hinging on Talange home poise versus Baume Dames resilience.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647995,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the 1:0 home-edge script and the 1:1 stalemate, as a 0.15 lambda gap and Baume Dames' high draw rate make a single call overly rigid."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal-based lambda, 60.9% Poisson Under 2.5 density, and direct-to-penalties caution if level late."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "The top two Poisson exact scores cleanly capture a stalemate between equal-tier sides or a narrow home breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson densities peak at 2 goals (26.7%) and 1 goal (23.7%), aligning with modest 1.20 and 1.10 per-game scoring baselines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Unfamiliar inter-regional opponents point to a cagey first half before either a second-half Talange winner or a 90-minute draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 11:36:37 UTC"
+}
