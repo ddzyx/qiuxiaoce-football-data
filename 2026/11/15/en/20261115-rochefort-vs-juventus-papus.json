@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647983,
+    "matchup": "Rochefort vs Juventus Papus",
+    "home_team": "Rochefort",
+    "away_team": "Juventus Papus",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-rochefort-vs-juventus-papus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rochefort vs Juventus Papus Prediction & Match Analysis: R2 Cup Clash at Périgny — Scoreline Preview",
+    "meta": {
+      "matchId": "1647983",
+      "league": "Coupe de France",
+      "matchup": "Rochefort vs Juventus Papus",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Rochefort's slight goal-expectancy edge and shorter local commute support a cautious Home Win / Draw regulation outlook under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Rochefort hold a narrow Poisson advantage in a balanced seventh-tier tie at Périgny (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 total lambda and 60.9% low-scoring model distribution (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 regulation draw captures Juventus Papus's cup counter-attacking threat (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647983",
+      "league": "Coupe de France",
+      "homeTeam": "Rochefort",
+      "awayTeam": "Juventus Papus",
+      "match_time": "13:00",
+      "match_highlight": "Equal-tier R2 cup clash relocated to Périgny with narrow margins.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647983,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retaining Home Win / Draw covers both the 1:0 Rochefort breakthrough and the modal 1:1 stalemate, as relocated venue conditions and equal R2 status make a single outcome call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda and a 60.9% Poisson probability for two or fewer regulation goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 (13.3%) and 1:0 (12.6%) top the Poisson matrix in a tight equal-division knockout tie."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two likeliest regulation totals under 2.5."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half leaves the tie level at the interval before either a second-half Rochefort winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 11:17:06 UTC"
+}
