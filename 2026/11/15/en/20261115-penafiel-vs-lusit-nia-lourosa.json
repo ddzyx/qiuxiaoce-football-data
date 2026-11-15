@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576535,
+    "matchup": "Penafiel vs Lusitânia Lourosa",
+    "home_team": "Penafiel",
+    "away_team": "Lusitânia Lourosa",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-15 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-penafiel-vs-lusit-nia-lourosa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Penafiel vs Lusitânia Lourosa Tactical Breakdown & Probabilistic Modeling: Home Volatility vs Road Steel",
+    "meta": {
+      "matchId": "1576535",
+      "league": "Segunda Liga",
+      "matchup": "Penafiel vs Lusitânia Lourosa",
+      "matchTime": "2026-11-15 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Penafiel hold the primary attacking edge through 2.20 goals per match and three straight league wins, but their two home defeats against Lusitânia Lourosa's 0.90 goals-conceded defense warrant backing Home Win / Draw.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw anchored by Penafiel's 2.20 goals-per-game output and Lourosa's 1:1 stalemate resilience (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 total goals driven by a 2.80 combined goal lambda and 56.2% BTTS expectancy (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 exact score protection if Lourosa strike first via their 71.4% first-half away scoring share (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576535",
+      "league": "Segunda Liga",
+      "homeTeam": "Penafiel",
+      "awayTeam": "Lusitânia Lourosa",
+      "match_time": "15:30",
+      "match_highlight": "League-leading Penafiel attack tests Lourosa's 0.90 goals-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576535,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "This compound selection covers both Penafiel's leading 2:1 second-half win script and a 1:1 stalemate, as Penafiel's two home defeats and a narrow 0.30 lambda gap make a single Home Win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.80 lambda total, Penafiel's 3.20 goals-per-match average, and 25 combined set-piece goals edge the distribution toward Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Penafiel's multi-scorer attack overcoming a tight defense that still scores on transition, while 1:1 captures the top 11.8% Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 2:1 primary win script and Penafiel's recent 3:2 and 4:1 outings, while two goals covers Lourosa's low-conceding 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Win pairs Penafiel's slow home starts with late bench acceleration, whereas Loss-Draw captures Lourosa's 71.4% first-half away scoring share fading after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 15:25:14 UTC"
+}
