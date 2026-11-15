@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1576534,
+    "matchup": "Leixoes vs Chaves",
+    "home_team": "Leixoes",
+    "away_team": "Chaves",
+    "league": "Segunda Liga",
+    "kickoff_utc": "2026-11-15 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-leixoes-vs-chaves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leixoes vs Chaves Prediction & Match Analysis: Can Rochez Break Winless Visitors? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576534",
+      "league": "Segunda Liga",
+      "matchup": "Leixoes vs Chaves",
+      "matchTime": "2026-11-15 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Leixoes hold the stronger attacking profile to earn at least a point at home, with 2:1 and 1:1 anchoring an Over 2.5 goals lean.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw driven by Leixoes's 69.3 FW-OTI edge against Chaves's 0W-1D-4L road defense while accounting for home backline leaks (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals / 2:1 primary scoreline supported by a 3.10 combined lambda and 59.9% Poisson Over 2.5 probability (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 scoring draw & HT/FT Loss-Draw reversal risk if Chaves strike early under interim coach Edgar Sa before fading late (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576534",
+      "league": "Segunda Liga",
+      "homeTeam": "Leixoes",
+      "awayTeam": "Chaves",
+      "match_time": "18:00",
+      "match_highlight": "Leixoes forward firepower tests winless-away Chaves under interim boss Edgar Sa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576534,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home breakthrough against a winless-away defense and the 1:1 Poisson-modal draw caused by Leixoes's 1.70 goals-conceded rate, as a single call leaves too much exposure to either script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.10 combined goal lambda, 59.9% Poisson Over 2.5 density, and eight of the teams' last ten combined matches clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Leixoes's home attacking edge over Chaves's 2.10 goals-conceded rate, while 1:1 covers the top Poisson density if both leaky backlines trade once."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead the Poisson distribution at 22.4% ahead of two goals at 21.6%, aligning directly with the 2:1 and 1:1 scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides are level at half-time in 40% of their venue matches before Leixoes's 62.5% second-half home scoring bias faces Chaves's away fade."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:30:43 UTC"
+}
