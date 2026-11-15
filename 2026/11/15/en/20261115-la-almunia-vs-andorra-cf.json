@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617695,
+    "matchup": "La Almunia vs Andorra CF",
+    "home_team": "La Almunia",
+    "away_team": "Andorra CF",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-15 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-la-almunia-vs-andorra-cf/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "La Almunia vs Andorra CF Prediction & Match Analysis: Can Hosts Crack Winless Away Block?",
+    "meta": {
+      "matchId": "1617695",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "La Almunia vs Andorra CF",
+      "matchTime": "2026-11-15 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "La Almunia's 3W-1D-1L home record at Tenerías and Andorra CF's winless five-match road run make Home Win / Draw in an Under 2.5 framework the soundest tactical projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by La Almunia's consecutive 2:0 home victories and Andorra CF's 60% away draw rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by Andorra CF failing to score in four of five away games and the modal 2-goal Poisson bucket (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win HT/FT script capturing a tight opening half against Andorra's away block before a second-half home breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617695",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "La Almunia",
+      "awayTeam": "Andorra CF",
+      "match_time": "15:00",
+      "match_highlight": "La Almunia's Tenerías firepower tests Andorra CF's scoreless away defensive block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617695,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:0 home victory built on La Almunia's Tenerías form and a 1:1 draw script reflecting Andorra CF's three away stalemates, as unverified semi-pro lineups make a single call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by Andorra CF averaging 0.40 goals across five away matches, La Almunia's two straight 2:0 home clean sheets, and the 2-goal modal Poisson bucket."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Pairs La Almunia's repeated 2:0 home blueprint with the 11.9% modal Poisson 1:1 stalemate if Andorra CF's road block holds."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Aligns with the 24.2% modal 2-goal Poisson expectation while retaining 3 goals (22.2%) if Andorra CF converts a transition."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Models a cagey opening half against Andorra CF's low away block followed by either a late La Almunia breakthrough or a shared-points stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:34:17 UTC"
+}
