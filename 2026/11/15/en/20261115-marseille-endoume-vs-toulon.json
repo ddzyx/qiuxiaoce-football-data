@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647967,
+    "matchup": "Marseille Endoume vs Toulon",
+    "home_team": "Marseille Endoume",
+    "away_team": "Toulon",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-marseille-endoume-vs-toulon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Marseille Endoume vs Toulon Prediction & Match Analysis: Cup Trap at Malpassé — Scoreline Preview",
+    "meta": {
+      "matchId": "1647967",
+      "league": "Coupe de France",
+      "matchup": "Marseille Endoume vs Toulon",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 goals as fourth-tier Toulon face unbeaten Régional 1 hosts Marseille Endoume in a tight 90-minute cup tie.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers both a 90-minute stalemate and a narrow Toulon breakthrough (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 total lambda expectancy and Toulon's five Unders in six games (Confidence: Moderate, Value: Moderate)",
+      "Marseille Endoume 1:0 upset hedge if midweek fatigue blunts rotated Toulon attackers (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647967",
+      "league": "Coupe de France",
+      "homeTeam": "Marseille Endoume",
+      "awayTeam": "Toulon",
+      "match_time": "13:00",
+      "match_highlight": "Can Toulon's fourth-tier defense end their open-play scoring drought?",
+      "ai_confidence": "Low",
+      "fixtureId": 1647967,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both a 1:1 cup stalemate and a 0:1 Toulon grind because Toulon's two-division edge is offset by a three-goal, six-game drought that makes a single Away Win risky."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda expectancy (60.9% Poisson probability for Under 2.5) and Toulon conceding just three goals across their last six games."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% and fits Toulon's 1-1 sixth-round tie with Mandelieu, while 0:1 captures their recent 1-0 league grinding formula."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the Poisson distribution given both clubs' recent defensive discipline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Expect a caged first half before the tie either finishes level at 90 minutes or breaks late in Toulon's favor."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 06:09:53 UTC"
+}
