@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618469,
+    "matchup": "Hollandia vs Hoogeveen",
+    "home_team": "Hollandia",
+    "away_team": "Hoogeveen",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-hollandia-vs-hoogeveen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hollandia vs Hoogeveen Prediction & Match Analysis: Defensive Suspensions Test Hosts — Scoreline Preview",
+    "meta": {
+      "matchId": "1618469",
+      "league": "Derde Divisie",
+      "matchup": "Hollandia vs Hoogeveen",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is the leading analytical direction as Hoogeveen's 2.17 goals-per-game attack meets a Hollandia backline missing suspended defenders Douwe Leenders and Encho Margaritha, while both teams' 2.25+ conceding rates sustain an Over 2.5 shootout.",
+    "possibilityAssessment": [
+      "Draw / Away Win with Hoogeveen victory leading against Hollandia's suspension-hit defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 4.42 combined Poisson expectancy and 78.6% BTTS baseline (Confidence: Moderate, Value: High)",
+      "2:2 high-scoring draw contingency if Hoogeveen's 2.25 goals-conceded defense leaks at Julianapark (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:3",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618469",
+      "league": "Derde Divisie",
+      "homeTeam": "Hollandia",
+      "awayTeam": "Hoogeveen",
+      "match_time": "13:00",
+      "match_highlight": "Hoogeveen attack targets Hollandia defense missing two suspended defenders.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618469,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Hoogeveen's 2.46 goal expectancy against suspended hosts makes Away Win the primary script, while Hoogeveen's 2.25 GA/game leakage justifies retaining Draw rather than a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 4.42 Poisson goal expectancy (1.96 vs 2.46) and both sides conceding over 2.20 goals per match strongly support Over 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:3",
+          "2:2"
+        ],
+        "comment": "1:3 reflects Hoogeveen capitalizing on Hollandia's suspended center-backs, while 2:2 covers a shared shootout if Hoogeveen's backline leaks twice."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four goals (19.1%) and three goals (17.3%) lead the independent Poisson total-goals distribution at 4.42 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss covers Hoogeveen seizing a first-half lead against a reshaped host defense to win, while Draw-Draw captures a level halftime evolving into a 2:2 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 05:17:44 UTC"
+}
