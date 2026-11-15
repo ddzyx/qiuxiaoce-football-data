@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1618470,
+    "matchup": "Groene Ster vs UDI '19",
+    "home_team": "Groene Ster",
+    "away_team": "UDI '19",
+    "league": "Derde Divisie",
+    "kickoff_utc": "2026-11-15 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-groene-ster-vs-udi-19/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Groene Ster vs UDI '19 Prediction: Defensive Frailty Tests Away Attack — Scoreline & Model Analysis",
+    "meta": {
+      "matchId": "1618470",
+      "league": "Derde Divisie",
+      "matchup": "Groene Ster vs UDI '19",
+      "matchTime": "2026-11-15 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "UDI '19 is projected to win away at Groene Ster in an open 3-to-4 goal Derde Divisie contest.",
+    "possibilityAssessment": [
+      "Away Win driven by UDI '19's 1.83 goals per game against Groene Ster's 2.67 goals conceded per game (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 3.42 total lambda expectancy and Groene Ster conceding 17 goals across five recent league matches (Confidence: Moderate, Value: High)",
+      "Home attacking nick at Sportpark Pronsebroek yielding a 1:2 or 1:3 scoreline rather than a comfortable shutout (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1618470",
+      "league": "Derde Divisie",
+      "homeTeam": "Groene Ster",
+      "awayTeam": "UDI '19",
+      "match_time": "13:30",
+      "match_highlight": "Groene Ster's porous defense faces UDI '19's clinical road attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1618470,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Built on the 1:2 and 1:3 projections, UDI '19's 1.83 scoring rate and superior common-opponent form outweigh Groene Ster's 2.67 goals-conceded defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.42 combined lambda total and Groene Ster's 17 goals conceded in five recent league matches point strongly toward three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 reflects the top Poisson density with a home reply, while 1:3 covers a late second-half blowout if Groene Ster unravels."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals leads the Poisson distribution at 21.8%, with four goals serving as the primary high-scoring extension given Groene Ster's defensive fragility."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss captures UDI '19's strong first-half scoring share, while Draw-Loss covers a level opening 45 minutes before away quality tells late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 13:29:35 UTC"
+}
