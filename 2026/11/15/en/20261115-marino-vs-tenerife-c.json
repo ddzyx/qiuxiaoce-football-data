@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1616159,
+    "matchup": "Marino vs Tenerife C",
+    "home_team": "Marino",
+    "away_team": "Tenerife C",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-15 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-marino-vs-tenerife-c/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Marino vs Tenerife C Prediction & Match Analysis: Can Home Defense Halt Youthful Attack?",
+    "meta": {
+      "matchId": "1616159",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Marino vs Tenerife C",
+      "matchTime": "2026-11-15 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Marino's superior 1.20 goals-conceded baseline and regular match rhythm support a Home Win / Draw call in an open Over 2.5 contest led by a 2:1 home victory.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw backed by Marino's 42.5% Poisson win share and 1.20 GA/gm defensive edge while covering a 1:1 draw threat (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 goals anchored by a 3.27 combined lambda total and 63.4% Poisson Over 2.5 expectancy (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 Draw cushion if Tenerife C's rested youth core contains the first hour and mirrors Marino's back-to-back 1:1 stalemates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616159",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Marino",
+      "awayTeam": "Tenerife C",
+      "match_time": "12:00",
+      "match_highlight": "Marino's steadier home defense tests Tenerife C's 1.89 goals-per-game youth attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616159,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 Marino victory and the 1:1 draw branch because Tenerife C's 1.89 goals-per-game attack prevents relying on a single home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.27 combined statistical lambda, 63.4% Poisson Over 2.5 distribution, and Tenerife C's 1.89 scored / 1.67 conceded per-match averages."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Marino's home attacking edge against a 1.67 GA/gm defense with both teams scoring, while 1:1 captures the top Poisson density and Marino's recent draw streak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns directly with the top two Poisson total-goal buckets (22.1% for 3 goals, 20.3% for 2 goals) and the 2:1 and 1:1 scoreline scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a competitive, level first half before either Marino's weekly rhythm breaks the deadlock after halftime or both sides share points at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 03:07:53 UTC"
+}
