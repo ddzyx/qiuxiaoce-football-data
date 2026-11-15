@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572430,
+    "matchup": "Olot vs Espanyol II",
+    "home_team": "Olot",
+    "away_team": "Espanyol II",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-olot-vs-espanyol-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Olot vs Espanyol II Tactical Breakdown & Probabilistic Modeling: Away Absences Test Reserve Leaders",
+    "meta": {
+      "matchId": "1572430",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Olot vs Espanyol II",
+      "matchTime": "2026-11-15 17:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Olot are projected to avoid defeat against third-placed Espanyol II in a disciplined, low-scoring encounter led by a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction favors Home Win / Draw as the most balanced risk-adjusted reflection of tonight's tightened matchup (Confidence: Moderate, Value: High)",
+      "Total goals lean Under 2.5 with 2 or 1 goals expected once Espanyol II's away scoring split and four straight 0:0 H2H half-times are factored in (Confidence: Moderate, Value: High)",
+      "Draw-Win HT/FT offers a coherent secondary branch if a scoreless first half allows Olot to capitalize on late set-piece or transition openings (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572430",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Olot",
+      "awayTeam": "Espanyol II",
+      "match_time": "17:00",
+      "match_highlight": "Depleted Espanyol II face Olot's resilient home defense.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1572430,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covering both the leading 1:1 draw script and Olot's 1:0 home clean-sheet blueprint is stronger than a single call given Espanyol II's confirmed absences and winless road clean-sheet record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Although unadjusted seasonal lambdas total 3.02, Espanyol II lose top scorer Alejandro Santiago and face an Olot side that conceded just once across its last three home games."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 reflects Espanyol II's zero away clean sheets meeting their steady scoring floor, while 1:0 captures Olot shutting out a depleted visiting attack."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "A controlled midfield contest and historical 0:0 half-time trend concentrate total-goal probability tightly on 2 or 1 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Four consecutive 0:0 half-times in recent head-to-head meetings favor a level interval before either a shared 1:1 draw or a late Olot winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 16:30:49 UTC"
+}
