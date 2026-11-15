@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647971,
+    "matchup": "US Montreuil-sur-Mer vs Loon-Plage",
+    "home_team": "US Montreuil-sur-Mer",
+    "away_team": "Loon-Plage",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-us-montreuil-sur-mer-vs-loon-plage/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "US Montreuil-sur-Mer vs FC Loon-Plage Tactical Breakdown: R1 Firepower Meets Cup Resistance",
+    "meta": {
+      "matchId": "1647971",
+      "league": "Coupe de France",
+      "matchup": "US Montreuil-sur-Mer vs Loon-Plage",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Draw / Away Win led by FC Loon-Plage alongside Under 2.5 total goals in a tight Coupe de France tie.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on FC Loon-Plage's Régional 1 quality and four consecutive clean-sheet victories, balanced against cup-tie stalemate risk (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals supported by the 2.25 combined goal-based lambda and Loon-Plage's 0.88 goals conceded per league match (Confidence: Low, Value: Moderate)",
+      "Second-half breakthrough or 90-minute deadlock script (Draw-Loss / Draw-Draw) reflecting early home containment (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647971",
+      "league": "Coupe de France",
+      "homeTeam": "US Montreuil-sur-Mer",
+      "awayTeam": "Loon-Plage",
+      "match_time": "13:00",
+      "match_highlight": "Régional 1 Loon-Plage test Régional 2 Montreuil's resilient home cup block.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647971,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers FC Loon-Plage's superior Régional 1 form (0:2) and the historically common 90-minute Coupe de France draw (1:1), as unconfirmed lineups make a single away call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal-based lambda, Loon-Plage's four straight clean sheets, and Montreuil's compact home setup."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Loon-Plage's clean-sheet defensive edge breaking Montreuil late, while 1:1 captures the modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals aligns with both 0:2 and 1:1 scripts, while 3 goals accounts for Loon-Plage's high-scoring R1 upside if an early goal opens play."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Montreuil's home organization can keep the first half level before Loon-Plage either pull clear late (Draw-Loss) or settle into a 90-minute draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 08:09:04 UTC"
+}
