@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615249,
+    "matchup": "UD San Pedro vs Huétor Vega",
+    "home_team": "UD San Pedro",
+    "away_team": "Huétor Vega",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-ud-san-pedro-vs-hu-tor-vega/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UD San Pedro vs Huétor Vega Prediction & Match Analysis: Can Bodipo's Fortress Beat Depleted Visitors?",
+    "meta": {
+      "matchId": "1615249",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "UD San Pedro vs Huétor Vega",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "UD San Pedro's four-clean-sheet home record and full attacking availability give them the decisive edge against a Huétor Vega side missing three key forward and midfield contributors.",
+    "possibilityAssessment": [
+      "Home Win behind Municipal Antonio Naranjo defensive control and Aitor España's finishing (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by San Pedro's 0.60 home goals conceded rate and Huétor Vega's depleted frontline (Confidence: Moderate, Value: High)",
+      "Late set-piece or transition scare if San Pedro repeat second-half marking lapses seen at Torredonjimeno (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615249",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "UD San Pedro",
+      "awayTeam": "Huétor Vega",
+      "match_time": "11:00",
+      "match_highlight": "San Pedro's Antonio Naranjo fortress tests a depleted, unbeaten Huétor Vega.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615249,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "San Pedro's 4W-0D-1L home record with four clean sheets aligns with a 2:0 or 1:0 win over a Huétor Vega side leaking 2.20 goals per away game without three attackers."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Four of San Pedro's five home matches ended Under 2.5, and Huétor Vega's confirmed attacking absences pull total scoring expectation below the 2.70 raw goal baseline."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Both scores match San Pedro's four actual 2026-27 home wins (two 2:0, two 1:0) against a compact visitor weakened in transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals reflects the 2:0 baseline and Poisson modal count, while one goal covers a cagey 1:0 grind against Huétor Vega's recent defensive tightening."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "San Pedro often lead early at home as against Mancha Real, while a level first half before a late breakthrough covers Huétor Vega's compact early resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:39:07 UTC"
+}
