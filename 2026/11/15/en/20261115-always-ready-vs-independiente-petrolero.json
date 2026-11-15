@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649148,
+    "matchup": "Always Ready vs Independiente Petrolero",
+    "home_team": "Always Ready",
+    "away_team": "Independiente Petrolero",
+    "league": "Copa de la División Profesional",
+    "kickoff_utc": "2026-11-15 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-always-ready-vs-independiente-petrolero/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Always Ready vs Independiente Petrolero Prediction & Preview: Can El Alto Break the 0-0 Deadlock?",
+    "meta": {
+      "matchId": "1649148",
+      "league": "Copa de la División Profesional",
+      "matchup": "Always Ready vs Independiente Petrolero",
+      "matchTime": "2026-11-15 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Always Ready are projected to win or draw in a low-scoring semi-final second leg shaped by altitude control and central midfield disruption.",
+    "possibilityAssessment": [
+      "Always Ready win or draw in regulation time behind home strength and midfield suspension edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by a 2.25 combined lambda baseline and mutual big-chance waste (Confidence: Moderate, Value: High)",
+      "Goalless half-time deadlock testing whether visiting resistance survives second-half altitude fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649148",
+      "league": "Copa de la División Profesional",
+      "homeTeam": "Always Ready",
+      "awayTeam": "Independiente Petrolero",
+      "match_time": "19:00",
+      "match_highlight": "El Alto hosts goalless semi-final return with Rojas suspended.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649148,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Always Ready's home edge and Daniel Rojas's suspension support a 1:0 win, while the 0:0 first leg and host chance waste make retaining the 1:1 draw script stronger than a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda baseline, 60.9% Poisson under-2.5 mass, and severe big-chance miss rates point firmly to a low-scoring leg."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Always Ready breaking a weakened visiting midfield at altitude, while 1:1 covers an isolated counter-attacking equalizer."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) dominate the Poisson distribution beneath the 2.5 threshold."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "With the tie level 0:0, a cautious first half leaves the second-half fork between an Always Ready breakthrough and a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:35:14 UTC"
+}
