@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1511726,
+    "matchup": "Union San Felipe vs Union Espanola",
+    "home_team": "Union San Felipe",
+    "away_team": "Union Espanola",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-15 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-union-san-felipe-vs-union-espanola/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Union San Felipe vs Union Espanola Prediction & Match Analysis: Survival Stakes vs Liguilla Push",
+    "meta": {
+      "matchId": "1511726",
+      "league": "Primera B",
+      "matchup": "Union San Felipe vs Union Espanola",
+      "matchTime": "2026-11-15 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads on Union Espanola's superior goal differential and 1.50-to-0.97 lambda edge while covering a tense final-day stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win with Away Win leading via 1.17-to-0.66 scoring gap and 49.5% Poisson win share (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.47 combined lambda, 55.2% Poisson share, and five straight low-scoring Union Espanola fixtures (Confidence: Moderate, Value: Moderate)",
+      "Exact 1:1 Draw and Draw-Draw HT/FT contingency covering home survival resistance at Estadio Municipal de San Felipe (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1511726",
+      "league": "Primera B",
+      "homeTeam": "Union San Felipe",
+      "awayTeam": "Union Espanola",
+      "match_time": "21:00",
+      "match_highlight": "Andres Vilches targets San Felipe's 53-goal defense on final day.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1511726,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 0:1 Union Espanola breakthrough and secondary 1:1 stalemate, as recent 1W-1D-3L visitor scoring limits make a single away call overly rigid."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.47 combined lambda, 55.2% Poisson Under 2.5 probability, and San Felipe's 0.66 goals-per-match output."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 (12.7%) and 1:1 (12.3%) top the Poisson matrix given San Felipe's low conversion and Union Espanola's recent one-goal-or-fewer run."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects a tight final-day tempo centered on 0:1 and 1:1 scripts rather than an open high-scoring exchange."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cautious level first half before either a second-half Union Espanola winner or a shared-points finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:35:03 UTC"
+}
