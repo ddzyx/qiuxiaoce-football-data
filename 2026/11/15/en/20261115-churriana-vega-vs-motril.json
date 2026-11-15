@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615246,
+    "matchup": "Churriana Vega vs Motril",
+    "home_team": "Churriana Vega",
+    "away_team": "Motril",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-churriana-vega-vs-motril/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Churriana Vega vs Motril Tactical Breakdown & Preview: Can Hosts' Unbeaten Run Break Motril?",
+    "meta": {
+      "matchId": "1615246",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Churriana Vega vs Motril",
+      "matchTime": "2026-11-15 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Churriana Vega's compact home discipline and Motril's single-loss road resilience point toward Draw / Away Win with Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures the balanced stalemate and narrow road-win scripts (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with 55.6% Poisson density and consecutive 0-0/2-0 defensive trends (Confidence: Moderate, Value: Moderate)",
+      "0:1 Away Win hedges a late Motril breakthrough if Churriana's set-piece threat stalls (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615246",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Churriana Vega",
+      "awayTeam": "Motril",
+      "match_time": "11:30",
+      "match_highlight": "Three straight home-side shutouts test Motril's single-loss road consistency.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615246,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate and a narrow 0:1 Motril victory, as Motril's 50% draw rate and Churriana's unbeaten streak make a single-result call overly brittle."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.45 lambda total (55.6% Under 2.5 in Poisson modeling) and both sides conceding 1.00 goal per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.9% and matches their May playoff draw, while 0:1 (10.4%) captures Motril's disciplined road counter."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson probabilities peak at 2 goals (25.9%) and 1 goal (21.1%), matching both clubs' recent tight defensive sequences."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both outcomes anticipate a cautious, level first half at El Frascuelo before either holding 1:1 or breaking toward a late 0:1 Motril win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:37:31 UTC"
+}
