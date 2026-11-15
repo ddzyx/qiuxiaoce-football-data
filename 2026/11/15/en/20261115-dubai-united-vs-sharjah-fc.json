@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647219,
+    "matchup": "Dubai United vs Sharjah FC",
+    "home_team": "Dubai United",
+    "away_team": "Sharjah FC",
+    "league": "League Cup",
+    "kickoff_utc": "2026-11-15 12:50:00",
+    "source_url": "https://xgmind.com/matches/20261115-dubai-united-vs-sharjah-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dubai United vs Sharjah FC Tactical Breakdown & Probabilistic Modeling: Pirlo's Attack vs Sharjah's Depth",
+    "meta": {
+      "matchId": "1647219",
+      "league": "League Cup",
+      "matchup": "Dubai United vs Sharjah FC",
+      "matchTime": "2026-11-15 12:50 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sharjah FC's superior league organization and Dubai United's open defensive transitions support Draw / Away Win alongside Over 2.5 Goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Sharjah's Pro League quality and Igor Coronado's central threat give the visitors the edge, while international-break rotation keeps the draw live (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals: Dubai United's 3-for-3 Over 2.5 ADIB Cup record and porous backline point toward at least three goals despite Sharjah's rotation (Confidence: Moderate, Value: High)",
+      "Correct Score Hedge (1:2 / 2:2): Captures both a narrow Sharjah second-half victory and a high-scoring stalemate if Pirlo's front line strikes early at home (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647219",
+      "league": "League Cup",
+      "homeTeam": "Dubai United",
+      "awayTeam": "Sharjah FC",
+      "match_time": "12:50",
+      "match_highlight": "Pirlo's leaky backline faces Coronado despite Sharjah's five international absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647219,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Sharjah's structural second-half win path against a Kouadio-less United defense and the draw script created by Sharjah's five international absences, whereas a single call would ignore genuine cup-lineup variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Dubai United's 14:22 Pro League and 5:7 ADIB Cup goal records show persistent defensive exposure that outweighs the partial-sample 2.25 lambda."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Both scores reflect United's reliable home scoring output meeting Sharjah's depleted wide options and superior late-game organization."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns directly with the 1:2 and 2:2 projections and United's streak of 3+ total goals in every ADIB Cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss captures a cagey first half followed by United's typical second-half fade, while Win-Draw covers an early home burst pegged back to 2:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 05:09:45 UTC"
+}
