@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649061,
+    "matchup": "Danubio vs Liverpool Montevideo",
+    "home_team": "Danubio",
+    "away_team": "Liverpool Montevideo",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-15 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-danubio-vs-liverpool-montevideo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Danubio vs Liverpool Montevideo Prediction & Match Analysis: Can Fossati's Leaders Seal the Clausura?",
+    "meta": {
+      "matchId": "1649061",
+      "league": "Primera División",
+      "matchup": "Danubio vs Liverpool Montevideo",
+      "matchTime": "2026-11-15 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back title-chasing Liverpool Montevideo for a controlled Away Win at Jardines del Hipódromo as their league-best defense limits a relegated Danubio attack to minimal threat.",
+    "possibilityAssessment": [
+      "Away Win via Liverpool Montevideo's 1.69 goals-per-game attack and 0.62 goals-conceded foundation against a 0.54-goal-per-game host (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by a 2.00 combined lambda total, 67.7% Poisson Under 2.5 density, and tight market totals shading (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw stalemate contingency if Danubio's home low block replicates August 2025's 0:0 deadlock through ninety minutes (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649061",
+      "league": "Primera División",
+      "homeTeam": "Danubio",
+      "awayTeam": "Liverpool Montevideo",
+      "match_time": "19:30",
+      "match_highlight": "Clausura leaders Liverpool visit relegated Danubio seeking a title-clinching victory.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649061,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Liverpool Montevideo's 1.42 vs 0.58 goal-expectancy edge and 0:1/0:2 scoreline dominance support a single Away Win direction."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.00 combined lambda, 67.7% Poisson Under 2.5 probability, and Danubio's 0.54 goals-per-game average favor a low-scoring match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "Poisson's top two scores (19.2% and 13.6%) reflect Liverpool breaking down a compact host without conceding."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One-goal and two-goal outcomes share the top 27.1% Poisson probability tiers alongside tight defensive metrics."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Danubio's early home compactness points to a level interval before Liverpool's second-half breakthrough, with Draw-Draw covering stalemate risk."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:39:09 UTC"
+}
