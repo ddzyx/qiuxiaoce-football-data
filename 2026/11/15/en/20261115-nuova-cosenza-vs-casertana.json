@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609126,
+    "matchup": "Nuova Cosenza vs Casertana",
+    "home_team": "Nuova Cosenza",
+    "away_team": "Casertana",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-15 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-nuova-cosenza-vs-casertana/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nuova Cosenza vs Casertana Prediction & Match Analysis: Manconi Benched in Tactical Serie C Clash",
+    "meta": {
+      "matchId": "1609126",
+      "league": "Serie C - Girone C",
+      "matchup": "Nuova Cosenza vs Casertana",
+      "matchTime": "2026-11-15 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Casertana's superior seasonal scoring and five-match unbeaten defense under Roberto Stellone point to an away win or draw, with Under 2.5 goals favored as eight-goal forward Jacopo Manconi starts on the bench.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Casertana hold superior squad depth and second-half bench firepower, while Cosenza's compact home setup keeps a stalemate live (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Seven recent league matches combined across both teams finished under 2.5 goals alongside a 54.4% Poisson baseline (Confidence: Moderate, Value: Moderate)",
+      "1:1 Scoreline Contingency — Cosenza's two-match clean-sheet form at home and early midfield friction create a viable shared-points branch (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609126",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Nuova Cosenza",
+      "awayTeam": "Casertana",
+      "match_time": "16:30",
+      "match_highlight": "Casertana bench top scorer Manconi against Cosenza's compact home back three.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609126,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Casertana's dominant 0:1 away-win script via second-half bench quality and the 1:1 stalemate script if Cosenza's home block holds, as Manconi's bench role makes a single away call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 54.4% Poisson Under 2.5 baseline, Cosenza's 0.77 goals per game, Stellone's recent clean-sheet streak, and Manconi starting among the substitutes."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Casertana's last two 1-0 victories and top Poisson density, while 1:1 covers Cosenza's improved home resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal Poisson outcome (25.7%) and 1 goal captures a tight single-strike 0:1 contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half against Cosenza's 3-4-2-1 gives way either to a late Casertana winner once Manconi enters (Draw-Loss) or a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 16:12:23 UTC"
+}
