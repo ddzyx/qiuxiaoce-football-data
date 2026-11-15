@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1511725,
+    "matchup": "Recoleta vs Deportes Iquique",
+    "home_team": "Recoleta",
+    "away_team": "Deportes Iquique",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-15 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-recoleta-vs-deportes-iquique/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Recoleta vs Deportes Iquique Tactical Breakdown & Probabilistic Modeling: Defensive Contrast in Round 30",
+    "meta": {
+      "matchId": "1511725",
+      "league": "Primera B",
+      "matchup": "Recoleta vs Deportes Iquique",
+      "matchTime": "2026-11-15 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportes Iquique are projected to avoid defeat behind a +0.34 goals-conceded advantage and superior 1.46 goal expectancy, with an away win leading a draw.",
+    "possibilityAssessment": [
+      "Deportes Iquique unbeaten via 1:2 away win or 1:1 draw driven by a +9 goal difference and 41.6% Poisson win share (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 2.73 combined lambda, 51.3% Poisson probability, and must-win second-half urgency for the visitors (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw stalemate contingency if Recoleta protect home territory conservatively to secure the single point needed for Liguilla qualification (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1511725",
+      "league": "Primera B",
+      "homeTeam": "Recoleta",
+      "awayTeam": "Deportes Iquique",
+      "match_time": "23:30",
+      "match_highlight": "Can Deportes Iquique's tight defense crack Recoleta's Liguilla home fortress?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1511725,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 away victory from Iquique's superior defensive and lambda profile and the 1:1 draw script suited to Recoleta's qualification needs, whereas a single call would ignore the draw incentive."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.73 goal expectancy, Recoleta's 2.90 match-goal average, and Iquique's must-win late push support clearing 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Iquique's higher scoring lambda exploiting Recoleta's 1.48 conceded rate, while 1:1 covers the 12.1% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson mass centers on 2 and 3 goals (46.4% combined), with Round 30 must-win urgency nudging 3 goals slightly ahead of 2."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half fits both teams' opening setups before Iquique's second-half push either forces a 1:2 winner or settles for a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 19:25:37 UTC"
+}
