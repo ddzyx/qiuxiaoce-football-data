@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617385,
+    "matchup": "Anguiano vs Comillas",
+    "home_team": "Anguiano",
+    "away_team": "Comillas",
+    "league": "Tercera División RFEF - Group 16",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-anguiano-vs-comillas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Anguiano vs Comillas Prediction & Match Analysis: Can Home Dominance Crack Comillas's Away Resolve?",
+    "meta": {
+      "matchId": "1617385",
+      "league": "Tercera División RFEF - Group 16",
+      "matchup": "Anguiano vs Comillas",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win represents the primary direction as Anguiano's three consecutive 3:0 home victories meet a Comillas side winless in nine league matches and averaging 0.80 goals per game.",
+    "possibilityAssessment": [
+      "Home Win behind Anguiano's 2.20 home goals-per-game output and Comillas's 1.50 goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 anchored by a 2:0 scoreline given 2.40 total lambda and Comillas's five-match H2H scoring drought (Confidence: Moderate, Value: Moderate)",
+      "1:0 grind via Draw-Win if Comillas replicate their 0:0 half-time resilience from February 2026 (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617385",
+      "league": "Tercera División RFEF - Group 16",
+      "homeTeam": "Anguiano",
+      "awayTeam": "Comillas",
+      "match_time": "11:00",
+      "match_highlight": "Anguiano chase fourth straight 3:0 home win against road-resilient Comillas.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617385,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anguiano's 1.60 goals-per-match attack and three straight 3:0 home clean-sheet wins overpower a Comillas side winless in nine league games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.40 (57.0% Under 2.5) and Comillas's 0.80 goals-per-game output support a controlled low-scoring home victory."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 balances Anguiano's strong home scoring with Comillas's road damage limitation, while 1:0 mirrors February's La Isla H2H."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.1%) and one goal (21.8%) lead the Poisson total-goals distribution alongside a high clean-sheet expectation for Anguiano."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Anguiano can strike early against a leaky visitor (Win-Win), or break down Comillas's compact road block after a level first half (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:05:00 UTC"
+}
