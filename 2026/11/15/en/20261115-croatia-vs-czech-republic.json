@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528985,
+    "matchup": "Croatia vs Czech Republic",
+    "home_team": "Croatia",
+    "away_team": "Czech Republic",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-15 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261115-croatia-vs-czech-republic/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Croatia vs Czech Republic Prediction & Match Analysis: Can Depleted Defenses Hold? — xG Preview",
+    "meta": {
+      "matchId": "1528985",
+      "league": "UEFA Nations League",
+      "matchup": "Croatia vs Czech Republic",
+      "matchTime": "2026-11-15 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Croatia holds the attacking quality and midfield control to defeat or hold the Czech Republic in Osijek, with a 2:1 home win leading ahead of a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Croatia's 1.21-to-0.58 xG edge and Ivan Perišić's return target a Krejčí-less Czech defense while covering the draw that secures League A survival (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Weakened central defenses on both sides and Czechia's must-win urgency support three or more goals led by 2:1 (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw HT/FT — Missing Andrej Kramarić, Croatia could struggle for an early breakthrough and settle for a controlled 1:1 stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528985",
+      "league": "UEFA Nations League",
+      "homeTeam": "Croatia",
+      "awayTeam": "Czech Republic",
+      "match_time": "19:45",
+      "match_highlight": "Depleted backlines clash in Osijek with Nations League survival at stake.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528985,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 Croatian win against a depleted Czech defense and the 1:1 draw that secures third place, avoiding an overconfident single call given Croatia's defensive absences and Kramarić's injury."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.50 goal-based lambda total, zero clean sheets for either side in five group matches, and center-back absences across both backlines."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Croatia's superior xG output exploiting Krejčí and Hranáč's absences while conceding once, whereas 1:1 captures Croatia's conversion risk without Kramarić."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 script and open second-half incentives, while 2 goals protects the tight 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Czechia's zero first-half goals across five matches points to a level interval before Croatia's superior depth pushes for a winner or manages a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 18:15:41 UTC"
+}
