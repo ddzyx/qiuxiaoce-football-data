@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609125,
+    "matchup": "Cavese vs Crotone",
+    "home_team": "Cavese",
+    "away_team": "Crotone",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-15 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-cavese-vs-crotone/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cavese vs Crotone Prediction & Match Analysis: Awua Absence Tests Home Edge — Scoreline Preview",
+    "meta": {
+      "matchId": "1609125",
+      "league": "Serie C - Girone C",
+      "matchup": "Cavese vs Crotone",
+      "matchTime": "2026-11-15 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cavese hold the stronger home platform and intact attacking trio against winless-away Crotone, warranting a Home Win / Draw projection led by a 2:1 home victory.",
+    "possibilityAssessment": [
+      "Cavese to control territorial volume at Stadio Simonetta Lamberti through Orlando, Minaj, and Fusco for a 2:1 win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by a 3.0 calculated lambda total and Cavese's 3.46 goals-per-game match environment (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency if Crotone's compact 4-3-3 slows central progression and Zunno exploits Awua's midfield absence on transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609125",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Cavese",
+      "awayTeam": "Crotone",
+      "match_time": "13:30",
+      "match_highlight": "Cavese's home attack tests winless Crotone without Awua and Musso.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609125,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchored on the 2:1 home win and 1:1 draw scripts, pairing both avoids overcommitting to a single outcome while Cavese's 1.69 goals-conceded rate meets Awua's midfield absence against Crotone's 0W-3D-3L away record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Calculated lambda total stands at 3.0 with a 57.7% Poisson Over 2.5 probability as Cavese average 1.77 scored and 1.69 conceded per match against Crotone's 1.62 goals conceded."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Cavese's superior home attacking continuity overcoming a porous defense, while 1:1 captures the 11.0% modal Poisson draw risk if Crotone sit compactly."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals and two goals share the peak 22.4% Poisson density, spanning the leading 2:1 home victory and the tighter 1:1 or 2:0 containment outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half with Visconti replacing Awua favours a level interval before either Cavese's fresher front line pulls clear late or Crotone hold out for a point."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 13:17:19 UTC"
+}
