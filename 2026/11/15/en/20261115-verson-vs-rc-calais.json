@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648005,
+    "matchup": "Verson vs RC Calais",
+    "home_team": "Verson",
+    "away_team": "RC Calais",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-verson-vs-rc-calais/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Verson vs RC Calais Prediction & Match Analysis: Can R3 Giant-Killers Resist Calais's R1 Firepower?",
+    "meta": {
+      "matchId": "1648005",
+      "league": "Coupe de France",
+      "matchup": "Verson vs RC Calais",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "RC Calais's two-division Régional 1 superiority and attacking form make Draw / Away Win leaning toward an away victory in an Under 2.5 contest the balanced 90-minute projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win with Away Win priority via RC Calais's R1 quality gap and Verson's venue relocation (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals anchored by the 2.25 combined lambda, 60.9% sub-2.5 Poisson baseline, and blustery Mondeville conditions (Confidence: Low, Value: Moderate)",
+      "1:1 Regulation Draw hedge if Verson's compact four-shutout defense frustrates Calais and Édouard Ozanne strikes on transition (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648005",
+      "league": "Coupe de France",
+      "homeTeam": "Verson",
+      "awayTeam": "RC Calais",
+      "match_time": "13:00",
+      "match_highlight": "R1 firepower meets R3 giant-killers on relocated Mondeville turf.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648005,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a clinical 0:2 RC Calais win driven by their two-tier R1 class edge and a 1:1 draw given Verson's proven R1 giant-killing defense, making an isolated single call riskier without confirmed XIs."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 2.25 combined lambda, 60.9% Poisson probability for two goals or fewer, knockout caution, and windy rain in Mondeville."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Calais's superior R1 quality telling after the interval, while 1:1 captures the top baseline modal draw if Verson convert a transition chance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) are the top Poisson total-goal outcomes and align with both 0:2 and 1:1 or a 0:1 cup grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Verson's organized block points to a level first half before Calais's superior R1 depth decides the tie late or holds at a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 12:20:49 UTC"
+}
