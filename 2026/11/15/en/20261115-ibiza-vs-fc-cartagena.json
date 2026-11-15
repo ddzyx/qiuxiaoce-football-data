@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1571215,
+    "matchup": "Ibiza vs FC Cartagena",
+    "home_team": "Ibiza",
+    "away_team": "FC Cartagena",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-ibiza-vs-fc-cartagena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ibiza vs FC Cartagena Prediction & Match Analysis: Will Home Firepower Break a Tight Deadlock?",
+    "meta": {
+      "matchId": "1571215",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Ibiza vs FC Cartagena",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ibiza to avoid defeat via Home Win / Draw, leaning toward a 2:1 home victory in a competitive Over 2.5 contest.",
+    "possibilityAssessment": [
+      "Ibiza hold the home edge via Home Win / Draw, pairing superior scoring depth with a narrow 1:1 draw safeguard (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 2.77 combined goal lambda and 56.2% Poisson both-teams-to-score baseline (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw / 1:1 remains the key tactical hedge if Cartagena's 4-5-1 suppresses open-play chances (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571215",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Ibiza",
+      "awayTeam": "FC Cartagena",
+      "match_time": "11:00",
+      "match_highlight": "Can Misses firepower tests Cartagena's transition resilience in Group 2.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571215,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers Ibiza's 2:1 home attacking edge and the 1:1 stalemate risk, as a 0.05 lambda gap makes a single-side call overly narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.77 combined lambda, 52.3% Poisson Over 2.5 share, and both teams' >1.45 goals-per-game averages support three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Ibiza's home scoring spread against a conceding defense, while 1:1 captures the highest-density Poisson draw script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the primary 2:1 projection and 2.77 lambda, while two goals cover the tight 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Early tactical caution points to a level interval before Ibiza's second-half depth either breaks through (Draw-Win) or Cartagena hold firm (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 00:01:24 UTC"
+}
