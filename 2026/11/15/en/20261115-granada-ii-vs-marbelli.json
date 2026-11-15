@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615247,
+    "matchup": "Granada II vs Marbelli",
+    "home_team": "Granada II",
+    "away_team": "Marbelli",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-granada-ii-vs-marbelli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Granada II vs Marbelli Prediction & Match Analysis: Can Host Defense Exploit Visitors' Drought?",
+    "meta": {
+      "matchId": "1615247",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Granada II vs Marbelli",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Granada II are positioned to avoid defeat in a low-scoring contest where a narrow 1:0 home victory and a 0:0 stalemate dominate the probability distribution.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Granada II's 0.90 vs 0.75 goal-expectancy edge and 71.5% combined Poisson share against a goalless visitor (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 1.65 combined lambda (77.0% Poisson probability) and acute recent scoring droughts on both sides (Confidence: Moderate, Value: Moderate)",
+      "Late set-piece or transition variance creating a 1:1 draw branch if Marbelli convert a dead-ball chance (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615247",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Granada II",
+      "awayTeam": "Marbelli",
+      "match_time": "11:00",
+      "match_highlight": "Marbelli's five-match scoring drought tests Granada II's resilient home defense.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615247,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 1:0 home breakthrough and a 0:0 stalemate, as Granada II's own one-goal-in-four-games run makes a single home call too exposed to another goalless draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 1.65 produces a 77.0% Poisson probability for Under 2.5, reinforced by both teams combining for just one goal in their nine most recent collective matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 captures the slight home goal-expectancy edge (17.3% density) while 0:0 reflects the top raw Poisson outcome (19.2%) and recent clean-sheet streaks."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal leads the Poisson total-goals distribution at 31.7%, followed by 2 goals at 26.1% to cover 1:1 or 2:0 branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half patterns point to a level interval before either a late Granada II winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:06:33 UTC"
+}
