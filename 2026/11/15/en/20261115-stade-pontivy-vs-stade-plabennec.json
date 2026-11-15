@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647979,
+    "matchup": "Stade Pontivy vs Stade Plabennec",
+    "home_team": "Stade Pontivy",
+    "away_team": "Stade Plabennec",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-stade-pontivy-vs-stade-plabennec/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stade Pontivy vs Stade Plabennec Prediction & Match Analysis: Can Plabennec Repeat 4-1 Rout?",
+    "meta": {
+      "matchId": "1647979",
+      "league": "Coupe de France",
+      "matchup": "Stade Pontivy vs Stade Plabennec",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stade Plabennec is projected to avoid defeat in regulation time, with an away victory leading a tighter, low-scoring Coupe de France rematch than last week's 4-1 league clash.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 regulation-time draw contingency (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647979",
+      "league": "Coupe de France",
+      "homeTeam": "Stade Pontivy",
+      "awayTeam": "Stade Plabennec",
+      "match_time": "13:00",
+      "match_highlight": "Immediate Coupe de France rematch seven days after Plabennec's 4-1 win.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647979,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Plabennec's superior form and 4-1 rematch edge alongside a tightened 1-1 cup stalemate, as single-side backing ignores genuine single-leg knockout draw risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined goal-expectancy anchor (60.9% Under 2.5 Poisson baseline) and expected defensive tightening from Pontivy in a knockout rematch."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Plabennec breaking a compact host after half-time, while 1:1 captures the highest-density Poisson stalemate script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 and 1 goals represent the top two Poisson buckets (50.4% combined) for a cagey Coupe de France 7th-round tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts anticipate a cautious 0:0 first half before Plabennec's second-half quality forces a 0:2 win or Pontivy holds for a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 10:42:37 UTC"
+}
