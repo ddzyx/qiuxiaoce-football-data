@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1572429,
+    "matchup": "Náxara vs Manresa",
+    "home_team": "Náxara",
+    "away_team": "Manresa",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-n-xara-vs-manresa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Náxara vs Manresa Prediction & Match Analysis: Can La Salera Solidity Halt the Visitors? — Scoreline Preview",
+    "meta": {
+      "matchId": "1572429",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Náxara vs Manresa",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Manresa's superior season-long scoring output and away lambda support a Draw / Away Win direction led by a narrow away victory under 2.5 goals.",
+    "possibilityAssessment": [
+      "Manresa win or draw driven by a 1.53 vs 0.83 goal-expectancy gap tempered by recent away-scoring variance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.36 combined lambda and tight La Salera home defensive margins (Confidence: Moderate, Value: Moderate)",
+      "Second-half stalemate risk heightened by card-heavy officiating from Oihan Aberrieta and unconfirmed pre-match XIs (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572429",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Náxara",
+      "awayTeam": "Manresa",
+      "match_time": "11:00",
+      "match_highlight": "La Salera home containment tests Manresa's quest to end scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572429,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Manresa breakthrough alongside a 1:1 stalemate, as Manresa's three scoreless games in four make a single away win too exposed at La Salera."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.36 lambda, 58.0% Poisson Under 2.5 probability, and Náxara's 0.75 home goals-conceded average point to a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 captures Manresa edging a low-scoring host, while 1:1 reflects Náxara's La Salera draw resilience if Manresa's finishing stalls."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.3%) and 1 goal (22.3%) lead the independent Poisson total-goal distribution and align with 0:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level, cautious opening half is projected before Manresa's second-half depth forces Draw-Loss or Náxara hold out for Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 00:38:48 UTC"
+}
