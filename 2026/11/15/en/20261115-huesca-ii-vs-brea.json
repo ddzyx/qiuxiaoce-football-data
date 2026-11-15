@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617694,
+    "matchup": "Huesca II vs Brea",
+    "home_team": "Huesca II",
+    "away_team": "Brea",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-huesca-ii-vs-brea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Huesca II vs Brea Prediction & Match Analysis: Low-Scoring Stalemate Threat at El Alcoraz",
+    "meta": {
+      "matchId": "1617694",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Huesca II vs Brea",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 goals best captures fourth-placed Brea's narrow two-way quality edge against draw-prone Huesca II in a low-expectancy Tercera RFEF clash.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Brea's 1.30 GF and 0.50 GA per-match advantage alongside Huesca II's 50% season draw rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by a 1.70 combined lambda and 75.8% Poisson probability for two or fewer goals (Confidence: Moderate, Value: Moderate)",
+      "0:0 Stalemate Branch carries joint-highest 18.3% scoreline density given Brea's recent blanks against Robres and Monzón (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617694",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Huesca II",
+      "awayTeam": "Brea",
+      "match_time": "11:00",
+      "match_highlight": "Disciplined defenses meet as fourth-placed Brea visits draw-resilient Huesca II.",
+      "ai_confidence": "Low",
+      "fixtureId": 1617694,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Brea's 1.30 GF and 0.50 GA averages favor a 0:1 road edge, while Huesca II's 5 draws in 10 matches and Brea's recent scoring blanks make a 0:0 stalemate too strong to leave uncovered with a single Away Win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.70 combined goal-based lambda (0.70 home, 1.00 away) yields a 75.8% Poisson Under 2.5 probability between two tight defenses."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "0:1 and 0:0 share the joint-highest 18.3% Poisson density, reflecting Brea's 0.50 GA/match defense and Huesca II's 0.90 GF/match output."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Exactly 1 goal (31.1%) and 2 goals (26.4%) dominate the Poisson distribution under a 1.70 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Conservative defensive spacing points to a level first half before either a second-half Brea breakthrough (Draw-Loss) or a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:14:04 UTC"
+}
