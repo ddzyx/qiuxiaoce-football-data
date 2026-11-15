@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615554,
+    "matchup": "Pozoblanco vs Betis C",
+    "home_team": "Pozoblanco",
+    "away_team": "Betis C",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-pozoblanco-vs-betis-c/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pozoblanco vs Betis C Prediction & Match Analysis: Can Suspended Betis C Hold? — Scoreline Preview",
+    "meta": {
+      "matchId": "1615554",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Pozoblanco vs Betis C",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pozoblanco are positioned to win or draw at home against a high-scoring but defensively stretched Betis C side in an Over 2.5-goal contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Pozoblanco hold a 2W-2D-1L home record scoring 2.00 goals per match against an away side conceding 2.25 goals on the road without two suspended defensive-phase starters (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (3 or 4 Total Goals) — Supported by a 66.8% Poisson Over 2.5 probability, lambda_total of 3.45, and 80% home / 75% away Over 2.5 hit rates (Confidence: Moderate, Value: High)",
+      "2:2 Draw Contingency — Betis C's 2.25 away goals per game and Pozoblanco's four draws in five matches create a live high-scoring stalemate path (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615554",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Pozoblanco",
+      "awayTeam": "Betis C",
+      "match_time": "11:00",
+      "match_highlight": "Suspension-hit Betis C face Pozoblanco's resilient home attack in Group 10.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615554,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchored on the 2:1 home win and 2:2 draw scripts, retaining both results because Pozoblanco's home strength and Betis C's suspensions clash with the hosts' four-draw recent run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Season goals-based lambda_total of 3.45 (66.8% Poisson Over 2.5) aligns with 2.00 home goals for Pozoblanco and 2.25 conceded away by Betis C."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Both scorelines reflect mutual scoring reliability paired with Betis C's road defensive fragility and two red-card suspensions."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.7%) and four (18.7%) goals represent the top Over 2.5 Poisson frequencies and match the 2:1 and 2:2 projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive first half followed by second-half openings favors Pozoblanco breaking through late or sharing another high-scoring draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:58:06 UTC"
+}
