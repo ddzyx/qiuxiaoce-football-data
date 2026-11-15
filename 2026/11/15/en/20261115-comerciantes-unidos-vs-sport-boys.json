@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549557,
+    "matchup": "Comerciantes Unidos vs Sport Boys",
+    "home_team": "Comerciantes Unidos",
+    "away_team": "Sport Boys",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-15 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-comerciantes-unidos-vs-sport-boys/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Comerciantes Unidos vs Sport Boys Tactical Breakdown & Probabilistic Modeling: 9 Away Absences in Cutervo",
+    "meta": {
+      "matchId": "1549557",
+      "league": "Primera División",
+      "matchup": "Comerciantes Unidos vs Sport Boys",
+      "matchTime": "2026-11-15 18:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Comerciantes Unidos are projected to avoid defeat (Home Win / Draw) with a narrow Home Win lean in a low-scoring Under 2.5 Clausura finale.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on 1:0 and 1:1 scripts (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals with 2 goals primary and 1 goal secondary (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win or Draw-Draw HT/FT progression driven by second-half fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549557",
+      "league": "Primera División",
+      "homeTeam": "Comerciantes Unidos",
+      "awayTeam": "Sport Boys",
+      "match_time": "18:00",
+      "match_highlight": "Nine Sport Boys absences reshape Cutervo clash at 2,630m altitude.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1549557,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the leading 1:0 home breakthrough script against a depleted backline and the 1:1 stalemate script given Comerciantes Unidos' seven Clausura draws, whereas a single call would ignore their 1.69 goals conceded per game."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sport Boys losing four key creators and forwards compresses expected scoring below the unadjusted 2.84 lambda baseline into an Under 2.5 range."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances a narrow home altitude breakthrough against an improvised defense (1:0) with the home side's tendency to concede and draw (1:1)."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Personnel-adjusted Poisson expectation places 2 total goals as the modal band ahead of 1 goal in a low-urgency finale."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sport Boys' compact early block should hold the first half level before altitude either yields a late home winner (Draw-Win) or preserves a stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:25:09 UTC"
+}
