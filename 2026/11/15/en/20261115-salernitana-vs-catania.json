@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609129,
+    "matchup": "Salernitana vs Catania",
+    "home_team": "Salernitana",
+    "away_team": "Catania",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-15 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-salernitana-vs-catania/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Salernitana vs Catania Prediction & Match Analysis: Can Arechi Resilience Halt Cicerelli & Coda?",
+    "meta": {
+      "matchId": "1609129",
+      "league": "Serie C - Girone C",
+      "matchup": "Salernitana vs Catania",
+      "matchTime": "2026-11-15 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Catania's 2.00 goals-per-match attack led by Emmanuele Cicerelli and Massimo Coda justifies backing Draw / Away Win, with Salernitana's seven-game home scoring streak keeping a 1:1 stalemate viable alongside a 1:2 away win.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Catania's 1.66 goal expectancy and five-match Salernitana winless streak, with the draw retained for Stadio Arechi home resistance (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 2.73 combined goal expectancy and Catania's 69% Over 2.5 rate despite Di Gennaro's defensive absence (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency via Facundo Lescano's second-half bench impact against Catania's reshuffled back three (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609129",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Salernitana",
+      "awayTeam": "Catania",
+      "match_time": "13:30",
+      "match_highlight": "Cicerelli and Coda test Di Bari's resilient home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609129,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 Catania away victory and the 1:1 Arechi draw script because Salernitana's 3-3-1 home resilience and Catania's road losses make a single away call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.73 combined Poisson goal expectancy, Catania's 2.00 goals-per-match rate, and key defensive absences for both sides."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Catania's attacking edge over a Djibril-less midfield, while 1:1 reflects the 11.6% modal Poisson scoreline and Salernitana's home scoring streak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 1:2 open-play projection, with 2 goals covering the 24.3% peak Poisson bucket under a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Catania led at half-time and won in 3 of 5 sampled matches, while Draw-Draw covers Di Bari's compact first-half block holding to 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 13:25:28 UTC"
+}
