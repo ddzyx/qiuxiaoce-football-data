@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1511728,
+    "matchup": "Santiago Wanderers vs Deportes Copiapo",
+    "home_team": "Santiago Wanderers",
+    "away_team": "Deportes Copiapo",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-15 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-santiago-wanderers-vs-deportes-copiapo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Santiago Wanderers vs Deportes Copiapo Prediction: Can Copiapo Hold Top-Eight Spot? — Preview",
+    "meta": {
+      "matchId": "1511728",
+      "league": "Primera B",
+      "matchup": "Santiago Wanderers vs Deportes Copiapo",
+      "matchTime": "2026-11-15 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Santiago Wanderers to win or draw as their 1.66 goals-per-game home attack faces a Copiapo side chasing eighth place without injured captain Fabian Torres.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Santiago Wanderers' +16 goal difference and 43.4% Poisson win share against Copiapo's 1.45 conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals backed by 2.84 combined lambda, 54.0% Poisson Over 2.5 probability, and Wanderers' three straight Over 2.5 league matches (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge capturing Copiapo's 14-goal striker Manuel Lopez and survival urgency exploiting Wanderers' five-match league concession streak (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1511728",
+      "league": "Primera B",
+      "homeTeam": "Santiago Wanderers",
+      "awayTeam": "Deportes Copiapo",
+      "match_time": "15:00",
+      "match_highlight": "Playoff-bound Wanderers host desperate Copiapo in Primera B regular-season finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1511728,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home win driven by Wanderers' superior season scoring and a 1:1 draw forced by Copiapo's Liguilla survival urgency, as unconfirmed lineups and five straight home-side league concessions weaken a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.84 combined lambda (54.0% Poisson Over 2.5 probability) and both clubs' near-three-goal average match totals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Wanderers' multi-scorer attack against Copiapo's 1.45 GA/game, while 1:1 matches the 11.7% Poisson mode if Copiapo hold firm."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the 2:1 primary script and recent high-scoring Wanderers matches, with 2 goals covering the 23.6% Poisson peak."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a tight opening half before Wanderers pull ahead late, while Win-Draw covers an early home lead pegged back by desperate visitors."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:13:22 UTC"
+}
