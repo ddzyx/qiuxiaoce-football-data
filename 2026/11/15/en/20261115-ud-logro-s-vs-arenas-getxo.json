@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570833,
+    "matchup": "UD Logroñés vs Arenas Getxo",
+    "home_team": "UD Logroñés",
+    "away_team": "Arenas Getxo",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-15 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-ud-logro-s-vs-arenas-getxo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UD Logroñés vs Arenas Getxo Prediction & Match Analysis: Midfield Absences Test Home Dominance",
+    "meta": {
+      "matchId": "1570833",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "UD Logroñés vs Arenas Getxo",
+      "matchTime": "2026-11-15 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw as UD Logroñés's 2.00 goals-per-game attack faces an Arenas Getxo defense conceding 2.09 per match, while midfield injuries and pitch wear keep the stalemate live.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by UD Logroñés superiority (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.13 combined lambda and zero recent home clean sheets (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge covering midfield absences and heavy Las Gaunas turf (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570833",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "UD Logroñés",
+      "awayTeam": "Arenas Getxo",
+      "match_time": "15:30",
+      "match_highlight": "Logroñés attack faces Arenas momentum amid midfield injuries and poor pitch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570833,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home win driven by UD Logroñés's superior scoring output and a 1:1 draw caused by midfield absences, as a single home call leaves too little margin on a degraded pitch."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.13 combined goal lambda, UD Logroñés's 2.00 goals-per-game rate, and Arenas Getxo's 2.09 goals conceded per league match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects home attacking edge without a clean sheet, while 1:1 covers pitch drag and midfield disruption."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns directly with the 2:1 and 1:1 scorelines and the top two Poisson total-goal probabilities (22.3% and 21.4%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects UD Logroñés's 0% half-time lead rate and 14.3% first-half goal share in recent matches before a decisive or drawn second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 15:13:39 UTC"
+}
