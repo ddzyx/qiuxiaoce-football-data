@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647987,
+    "matchup": "Sedan vs Bourges Foot 18",
+    "home_team": "Sedan",
+    "away_team": "Bourges Foot 18",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-sedan-vs-bourges-foot-18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sedan vs Bourges Foot 18 Prediction & Match Analysis: Can Hosts Exploit Bourges' Four-Loss Slump?",
+    "meta": {
+      "matchId": "1647987",
+      "league": "Coupe de France",
+      "matchup": "Sedan vs Bourges Foot 18",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sedan are well positioned to avoid defeat over 90 minutes at Stade Louis Dugauguez in a tight, low-scoring Coupe de France tie.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Sedan edge a narrow home victory behind their unbeaten Régional 1 surge, with a 90-minute stalemate retained against fourth-tier defensive resistance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Package lambda_total of 2.25 and Bourges' muted scoring output concentrate probability in 1 to 2 goals (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win Half-Time / Full-Time — Cagey opening 45 minutes followed by a decisive second-half Sedan breakthrough as Bourges tire late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647987",
+      "league": "Coupe de France",
+      "homeTeam": "Sedan",
+      "awayTeam": "Bourges Foot 18",
+      "match_time": "13:00",
+      "match_highlight": "Unbeaten Sedan host reeling fourth-tier Bourges in a tight cup battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647987,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Sedan's 1:0 home breakthrough and a 1:1 knockout stalemate, as Bourges' two-tier physicality makes a single win call overly aggressive despite their league slump."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda_total, 60.9% baseline Under 2.5 density, and Bourges' low-scoring National 1 road record against tighter defenses."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Sedan's home edge and clinical veterans against Bourges' depleted goalkeeping, while 1:1 captures Bourges' fourth-tier resilience forcing extra time."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the Poisson modal clusters (26.7% for 2 goals, 23.7% for 1 goal) in a cautious knockout contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects Bourges to hold shape through a cagey first half before Sedan either break through late (Draw-Win) or both settle level at 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 11:21:25 UTC"
+}
