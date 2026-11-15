@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648009,
+    "matchup": "Yerres Crosne vs Union Cosnoise",
+    "home_team": "Yerres Crosne",
+    "away_team": "Union Cosnoise",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-yerres-crosne-vs-union-cosnoise/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yerres Crosne vs Union Cosnoise Prediction & Match Analysis: Neutral Pitch & Keeper Suspension",
+    "meta": {
+      "matchId": "1648009",
+      "league": "Coupe de France",
+      "matchup": "Yerres Crosne vs Union Cosnoise",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win led by a 90-minute stalemate is the most balanced projection, pairing Union Cosnoise's Régional 1 class and neutral Créteil venue edge against the concession risk created by starting a 19-year-old backup goalkeeper.",
+    "possibilityAssessment": [
+      "Draw / Away Win covering a 1:1 stalemate and a disciplined 0:1 away victory (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined lambda and 60.9% Poisson density for two or fewer goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 or 0:1 exact scoreline convergence balancing Cosne's divisional superiority with their goalkeeper suspension (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648009",
+      "league": "Coupe de France",
+      "homeTeam": "Yerres Crosne",
+      "awayTeam": "Union Cosnoise",
+      "match_time": "13:00",
+      "match_highlight": "Relocated tie tests Cosne's 19-year-old backup keeper against R2 giant-killers.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648009,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate exploiting Cosne's backup goalkeeper and a 0:1 Régional 1 victory at neutral Créteil, as offsetting suspensions make a single call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% under 2.5 Poisson probability), neutral-venue caution, and Jordan Kenemo's suspension."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 (13.3% modal Poisson score) reflects Cosne's keeper disruption against Yerres's transition attack, while 0:1 captures Cosne's unbeaten Régional 1 defensive control."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) lead the Poisson total-goals distribution in a cautious seventh-round neutral-venue tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both sides should start cautiously on a neutral pitch before either staying locked at 1:1 (Draw-Draw) or seeing Cosne's R1 quality break through late (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 12:29:13 UTC"
+}
