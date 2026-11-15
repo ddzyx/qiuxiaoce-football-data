@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570830,
+    "matchup": "Lugo vs Mirandes",
+    "home_team": "Lugo",
+    "away_team": "Mirandes",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-15 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-lugo-vs-mirandes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lugo vs Mirandes Tactical Breakdown & Match Analysis: Can Unzueta Exploit Embadje's Absence?",
+    "meta": {
+      "matchId": "1570830",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "Lugo vs Mirandes",
+      "matchTime": "2026-11-15 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Lugo to remain unbeaten at Estadio Anxo Carro via Home Win / Draw inside a disciplined Under 2.5 goals script.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Lugo's 28-point home dominance and full attacking unit (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals led by 1:0 and 1:1 scorelines matching 2.41 total lambda and market totals (Confidence: Moderate, Value: Moderate)",
+      "Iker Unzueta counter-attacking against backup keeper Marc Martínez to force a shared-points stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570830",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "Lugo",
+      "awayTeam": "Mirandes",
+      "match_time": "15:30",
+      "match_highlight": "League-leading Lugo face Mirandes without keeper Embadje.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570830,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Lugo's unbeaten home record supports a 1:0 victory, while Fernando Embadje's international absence makes covering the 1:1 draw preferable to a single home call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.41, Mirandes' five consecutive sub-2.5 league matches, and Aitor Uzkudun's injury strongly favor a tight total."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Both outcomes share the highest 12.7% Poisson density, balancing Lugo's 0.82 home defensive rate against a single transition reply from Iker Unzueta."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.1%) and one goal (21.6%) dominate the Poisson distribution and match Mirandes' low-scoring recent away pattern."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A compact first half under Aday Benítez points to a level interval before Lugo break through late or settle for a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 15:09:16 UTC"
+}
