@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1613717,
+    "matchup": "R. Union B vs Lagun Onak",
+    "home_team": "R. Union B",
+    "away_team": "Lagun Onak",
+    "league": "Tercera División RFEF - Group 4",
+    "kickoff_utc": "2026-11-15 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-r-union-b-vs-lagun-onak/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "R. Union B vs Lagun Onak Tactical Breakdown & Probabilistic Modeling: Home Fragility vs Road Woes",
+    "meta": {
+      "matchId": "1613717",
+      "league": "Tercera División RFEF - Group 4",
+      "matchup": "R. Union B vs Lagun Onak",
+      "matchTime": "2026-11-15 15:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win is the disciplined projection as Lagun Onak's tighter defense meets R. Union B's five-match home winless run, though unconfirmed lineups and away-day inconsistency keep the draw live.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win leans toward Lagun Onak's 40.7% Poisson edge while retaining draw insurance (Confidence: Low, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals and 1:2 away win supported by R. Union B's 3.00 goals-per-game match volume and Lagun Onak's 5-of-6 Over 2.5 streak (Confidence: Low, Value: Moderate)",
+      "Contingency Angle: 1:1 draw stalemate if Lagun Onak's three-match winless road run suppresses their attacking execution (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613717",
+      "league": "Tercera División RFEF - Group 4",
+      "homeTeam": "R. Union B",
+      "awayTeam": "Lagun Onak",
+      "match_time": "15:00",
+      "match_highlight": "Winless home hosts face road-shy Lagun Onak in tight Basque clash.",
+      "ai_confidence": "Low",
+      "fixtureId": 1613717,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:2 away-win script driven by R. Union B's leaky home defense and the 1:1 draw script reflecting Lagun Onak's 1-1-3 road record, as neither team justifies a single outright call without confirmed lineups."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.75 combined lambda, R. Union B's 3.00 total goals per game, and Lagun Onak clearing 2.5 goals in five of their last six matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures R. Union B's 2.20 goals conceded per home match alongside their recent scoring form, while 1:1 covers the 12.1% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with R. Union B's 3.00 match-average goal volume and the 1:2 primary score, with two goals covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a cautious level first half before second-half fatigue either enables a late Lagun Onak winner or leaves the points shared."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 14:21:18 UTC"
+}
