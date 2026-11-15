@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1615547,
+    "matchup": "Atlético Onubense vs Chiclana",
+    "home_team": "Atlético Onubense",
+    "away_team": "Chiclana",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-atl-tico-onubense-vs-chiclana/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atlético Onubense vs Chiclana Preview & Match Analysis: Depleted Hosts Face Winless Visitors",
+    "meta": {
+      "matchId": "1615547",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Atlético Onubense vs Chiclana",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win with Over 2.5 goals leads this Tercera Federación Matchday 11 projection at Estadio Nuevo Colombino.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Draw / Away Win led by an Away Win via 1:2 (Confidence: Low, Value: Moderate)",
+      "Secondary Total Goals Angle: Over 2.5 supported by combined lambda 2.80 and leaky defenses (Confidence: Moderate, Value: Moderate)",
+      "Contingency Draw Angle: 1:1 stalemate if returning Pecellín and Dylan punish Jaime León's absence (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615547",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Atlético Onubense",
+      "awayTeam": "Chiclana",
+      "match_time": "11:00",
+      "match_highlight": "Goalkeeper-depleted hosts face Chiclana at relocated Nuevo Colombino.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615547,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 1:2 away win against Atlético Onubense's depleted keeper and backline and a 1:1 draw given Chiclana's own 1.70 goals-conceded rate and Jaime León's ban."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.80 combined lambda, 53.0% Poisson Over 2.5 baseline, and both clubs conceding 1.70 to 1.90 goals per match with defensive absentees."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Both defenses carry confirmed absences and high concession rates, pointing to a 1:2 visitor breakthrough with 1:1 as the primary stalemate alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Follows the two leading goal-count bands around a 2.80 lambda total and mirrors both the 1:2 primary and 1:1 secondary scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Captures a cautious opening half before Chiclana wins late (Draw-Loss), alongside an early visitor lead pegged back in the second half (Loss-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 01:43:13 UTC"
+}
