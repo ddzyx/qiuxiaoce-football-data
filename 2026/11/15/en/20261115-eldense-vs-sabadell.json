@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570017,
+    "matchup": "Eldense vs Sabadell",
+    "home_team": "Eldense",
+    "away_team": "Sabadell",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-15 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-eldense-vs-sabadell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eldense vs Sabadell Prediction & Match Analysis: Can Depleted Visitors Hold? — xG Preview",
+    "meta": {
+      "matchId": "1570017",
+      "league": "Segunda División",
+      "matchup": "Eldense vs Sabadell",
+      "matchTime": "2026-11-15 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Eldense to avoid defeat (Home Win / Draw) in a tight, Under 2.5 contest shaped by Sabadell's depleted attack.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Eldense's second-half home pressure against an eight-absentee visitor leads, while Sabadell's compact 4-4-2 justifies covering the draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Gioacchini-adjusted goal expectancy near 1.95 and both sides' 60%+ big-chance waste rates favor two goals or fewer (Confidence: Moderate, Value: High)",
+      "Low-Scoring Stalemate (1:1 / 0:0) — Returning defender Óscar Sanz anchors Sabadell's low block to capitalize if Eldense's finishing drought persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570017",
+      "league": "Segunda División",
+      "homeTeam": "Eldense",
+      "awayTeam": "Sabadell",
+      "match_time": "17:30",
+      "match_highlight": "Sabadell's depleted 4-4-2 tests Eldense's second-half home breakthrough",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570017,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Eldense second-half breakthrough against depleted visitors alongside a 1:1 stalemate, as Eldense's 53.8% failed-to-score rate makes a single home win call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Raw lambda total of 2.12 drops further with Gioacchini out and Eldense blanking in three straight league games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Eldense's late home pressure breaking a thin bench versus Sabadell's compact 4-4-2 nicking one goal against a 16.7% home clean-sheet defence."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Tight attacking conversion rates and a cagey first half concentrate probability density on one or two total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams hold a 0% half-time lead rate in tonight's venue roles, pushing the decisive fork into whether Eldense score after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 17:09:44 UTC"
+}
