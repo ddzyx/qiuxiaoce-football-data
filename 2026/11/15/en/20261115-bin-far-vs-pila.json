@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1617691,
+    "matchup": "Binéfar vs Épila",
+    "home_team": "Binéfar",
+    "away_team": "Épila",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-15 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-bin-far-vs-pila/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Binéfar vs Épila Prediction & Match Analysis: Can Hosts Break Los Olmos Stalemate? — Scoreline Preview",
+    "meta": {
+      "matchId": "1617691",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Binéfar vs Épila",
+      "matchTime": "2026-11-15 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Binéfar's four-game unbeaten attacking momentum against Épila's four-match winless slump favors a home win or draw at Estadio Los Olmos.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Binéfar's 1.80 goals-per-game edge alongside their three-in-four home draw pattern against a compact visitor (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 2.95 combined Poisson lambda and Binéfar's seven-of-ten Over 2.5 league track record (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 stalemate remains a live hedge if Épila's 1.20 goals-conceded structure slows down the hosts' Los Olmos tempo (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617691",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Binéfar",
+      "awayTeam": "Épila",
+      "match_time": "11:00",
+      "match_highlight": "Binéfar chase first Los Olmos win against struggling Épila defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617691,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a 2:1 home breakthrough built on Binéfar's 1.80 scoring rate and a 1:1 draw given their winless 0W-3D-1L home record, as a single call leaves too much margin risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined Poisson lambda of 2.95 and Binéfar's 3.50 total-goal match average outweigh Épila's recent low-scoring stretch."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Binéfar's superior attack meeting their 1.70 conceded rate, while 1:1 covers the top Poisson scoreline and Los Olmos draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 and 2 goals sit virtually tied at the top of the Poisson distribution and match the 2:1 and 1:1 tactical branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs showed cautious first-half trends in recent November fixtures, placing the decisive split on whether Binéfar break through late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 02:10:43 UTC"
+}
