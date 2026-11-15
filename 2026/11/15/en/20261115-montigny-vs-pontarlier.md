@@ -1,0 +1,83 @@
+# AS Montigny-lès-Metz vs CA Pontarlier Prediction & Match Analysis: Can R3 Hosts Breach N2 Defense?
+
+> **Competition**: Coupe de France
+> **Kickoff**: 2026-11-15 13:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+The Coupe de France seventh round brings a classic multi-tier knockout confrontation to Stade Émile-Weinberg in Metz, where Régional 3 hosts AS Montigny-lès-Metz face National 2 high-flyers CA Pontarlier for a place in the round of 64. At the heart of this contest lies a stark structural contrast: Montigny-lès-Metz arrive with strong regional scoring momentum and a home draw on paper, yet must stage the tie away from their regular Stade Jean-Kintzig ground against an unbeaten fourth-tier side that has conceded only five goals in seven league outings. XG Mind AI&#x27;s quantitative modeling and tactical intelligence deconstruct this encounter by balancing the package&#x27;s raw goal-expectancy baseline against division-adjusted defensive records, away cup resilience, and second-half stamina dynamics.
+
+📌 AS Montigny-lès-Metz vs CA Pontarlier: Match Intelligence Brief
+
+Fixture ID
+
+: 1647970
+
+Matchup
+
+: Montigny (AS Montigny-lès-Metz) vs Pontarlier (CA Pontarlier)
+
+Competition
+
+: Coupe de France, 7th Round (1/128-finals)
+
+Kickoff Time
+
+: 2026-11-15 13:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether Montigny-lès-Metz&#x27;s relocated-home low block can survive CA Pontarlier&#x27;s patient second-half pressure after the visitors won away at Jura Dolois and FC Valdahon-Vercel without conceding.
+
+📊 1. AS Montigny-lès-Metz Attacking Structure vs CA Pontarlier Defensive Counter
+
+⚔️ Head-to-Head History: First Recent Competitive Meeting Between These Clubs
+
+No competitive head-to-head matches between AS Montigny-lès-Metz and CA Pontarlier have occurred in recent seasons in the supplied match database or verified competition records.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+N/A
+
+None recorded
+
+AS Montigny-lès-Metz
+
+No recent meetings
+
+CA Pontarlier
+
+📈 Team Form &amp; Tactical Style Breakdown: Regional Attacking Momentum vs Fourth-Tier Defensive Discipline
+
+Home Team (Montigny):
+
+Competing in Régional 3 (Ligue du Grand Est, Poule F), Fabio Taibi&#x27;s AS Montigny-lès-Metz enter the federal stage riding genuine domestic confidence, sitting on the podium of their regional group with 15 points. Their recent scoring output at level eight has been emphatic, highlighted by a 7:0 home demolition of ES Val de Moselle 54 on October 4 and a controlled 2:0 away victory at Villers COS II on November 1, where Harona C. (39&#x27;) and Roman A. (90&#x27;) supplied the decisive finishes. In the sixth round of the Coupe de France on October 25, Montigny-lès-Metz demonstrated shootout composure by holding FC Dossenheim-sur-Zinsel to a 1:1 regulation draw before prevailing 5:4 on penalties.
+
+Tactically, Montigny rely on veteran midfield craft from former FC Metz and Rodez playmaker Olivier Cassan alongside left-sided midfielder Jean-Baptiste Steininger, backed by goalkeeper Guillaume Cappa, to manage tempo and feed direct transitions.
+
+However, the supplied data package tracks a conservative baseline of 1.20 goals scored and 1.00 conceded per game, and relocating from Stade Jean-Kintzig to APM Metz&#x27;s Stade Émile-Weinberg softens their habitual home-pitch familiarity.
+
+Facing National 2 opposition four rungs higher on the pyramid represents a dramatic defensive and physical test for a regional backline.
+
+Away Team (Pontarlier):
+
+Long-serving manager Jean-Luc Courtet (recorded at 9,268 days in the package&#x27;s coaching log) brings a battle-tested CA Pontarlier side sitting third in National 2 Group F with 13 points from seven unbeaten matches (3 wins, 4 draws, 0 defeats). Pontarlier&#x27;s identity is anchored in compact defensive structure and road efficiency: they have conceded just 5 goals across 7 league fixtures (0.71 per match) while scoring 11 times (1.57 per match). Their recent away and cup trajectory underscores a pragmatic, patient approach—crushing Is-Selongey 3:0 on the road on October 3, edging US Feurs 1:0 on October 17 via a 3rd-minute strike from Quentin Deniaud, grinding out a 1:0 sixth-round Coupe de France win away at Régional 2 FC Valdahon-Vercel through Hugo Vegran&#x27;s 88th-minute winner on October 25, and winning 2:0 at Jura Dolois on October 31 before drawing 1:1 with ASPTT Dijon on November 7.
+
+With seasoned recruits such as Virgile Piechocki, Max Demougeot, and Jordan Renaudin complementing Valentin Revoy and goalkeeper Lucas Buisson, Pontarlier combine fourth-tier physicality with methodical chance control.
+
+Their lone recurring flaw is a 57% league draw rate (four stalemates in seven games) and a cautious 0.75 decayed goals-for average across their five historical Coupe de France ties in the package (including 0:0 at Sarre Union and 2:2 against Sochaux).
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261115-montigny-vs-pontarlier/)
