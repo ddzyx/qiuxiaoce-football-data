@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647936,
+    "matchup": "Castelbourgeois vs Nantes",
+    "home_team": "Castelbourgeois",
+    "away_team": "Nantes",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-castelbourgeois-vs-nantes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Castelbourgeois vs Nantes Prediction & Match Analysis: Can Depleted Canaris Avoid a Cup Stalemate?",
+    "meta": {
+      "matchId": "1647936",
+      "league": "Coupe de France",
+      "matchup": "Castelbourgeois vs Nantes",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Nantes' Ligue 2 midfield and forward spine should control enough second-half territory to avoid defeat inside 90 minutes, making Draw / Away Win with Under 2.5 goals the most coherent cup projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Nantes' professional conditioning and 7.8-day rest over 90 minutes (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined goal lambda and depleted visitor attacking depth (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw or Draw-Draw HT/FT script if Castelbourgeois's low block frustrates Nantes' rotated lineup (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647936",
+      "league": "Coupe de France",
+      "homeTeam": "Castelbourgeois",
+      "awayTeam": "Nantes",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Nantes seeks professional control against unbeaten cup giant-killers Castelbourgeois.",
+      "ai_confidence": "Low",
+      "fixtureId": 1647936,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Nantes breaking down Régional 1 opposition for a 0:2 win while retaining the 1:1 draw script forced by extensive visitor absences because a single win call overlooks confirmed defensive rotation."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with a 2.25 combined goal lambda, four Under 2.5 results in Nantes' last five Ligue 2 matches, and missing attacking creators."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Nantes' late professional edge over amateur legs, while 1:1 mirrors Castelbourgeois's 6th-round stalemate against Locminé."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal 26.7% baseline outcome across both 0:2 and 1:1 scripts, with one goal (23.7%) covering a 0:1 away grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Castelbourgeois's early cup energy points to a level first half before Nantes either pull away late for Draw-Loss or remain deadlocked for Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 05:21:32 UTC"
+}
