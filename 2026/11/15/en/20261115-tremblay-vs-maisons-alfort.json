@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648000,
+    "matchup": "Tremblay vs Maisons Alfort",
+    "home_team": "Tremblay",
+    "away_team": "Maisons Alfort",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-tremblay-vs-maisons-alfort/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tremblay vs Maisons Alfort Tactical Breakdown & Probabilistic Modeling: Can R3 Giant-Killers Extend Cup Run?",
+    "meta": {
+      "matchId": "1648000",
+      "league": "Coupe de France",
+      "matchup": "Tremblay vs Maisons Alfort",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Tremblay's Régional 2 home edge meets Maisons Alfort's compact knockout discipline in a tight, low-scoring tie favoring Home Win / Draw and Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Tremblay's 1.20 goal expectancy and home control (Confidence: Low, Value: Moderate)",
+      "Under 2.5 goals supported by a 2.25 combined lambda and 60.9% Poisson baseline (Confidence: Low, Value: Moderate)",
+      "1:1 draw contingency if Maisons Alfort's counter-attacking block holds regulation level (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648000",
+      "league": "Coupe de France",
+      "homeTeam": "Tremblay",
+      "awayTeam": "Maisons Alfort",
+      "match_time": "13:00",
+      "match_highlight": "Seventh-round Parisian derby tests R2 hosts against R3 giant-killers.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648000,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home breakthrough and a 1:1 stalemate, as a 0.15 lambda gap and Maisons Alfort's knockout resilience make a single call overly rigid."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, 60.9% Poisson Under 2.5 share, and cautious single-elimination incentives."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Tremblay's slight home-tier edge, while 1:1 captures the top Poisson density (13.3%) if the visitors frustrate the hosts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 Goals (26.7%) and 1 Goal (23.7%) lead the Poisson distribution around a 2.25 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half favors a level interval before Tremblay either breaks through late or settles for a regulation draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 11:40:51 UTC"
+}
