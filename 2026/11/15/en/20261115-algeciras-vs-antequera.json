@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1571206,
+    "matchup": "Algeciras vs Antequera",
+    "home_team": "Algeciras",
+    "away_team": "Antequera",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-15 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261115-algeciras-vs-antequera/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Algeciras vs Antequera Tactical Breakdown & Probabilistic Modeling: Home Fortress vs Visitor Absences",
+    "meta": {
+      "matchId": "1571206",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Algeciras vs Antequera",
+      "matchTime": "2026-11-15 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Algeciras are favored to secure at least a point and lead the win projection on home territorial dominance against a goalkeeper- and defender-depleted Antequera side.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Algeciras's 2.00 home points-per-game pace and 12.20 shots per match while accommodating Antequera's 45.5% league draw rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by four of Algeciras's five home games finishing at two goals or fewer alongside strict officiating from Manuel Camacho Garrote (Confidence: Moderate, Value: Moderate)",
+      "Second-half home acceleration yielding a Draw-Win chronology if Antequera's early containment wears down after the hour mark (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571206",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Algeciras",
+      "awayTeam": "Antequera",
+      "match_time": "15:30",
+      "match_highlight": "Algeciras home clean-sheet streak tests Antequera emergency goalkeeper and suspended defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571206,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Prioritizes a 2:0 home victory given Algeciras's three straight home shutouts and Antequera's missing goalkeeper and centre-back, while retaining Draw for a 1:1 stalemate rather than risking a single call against a side with three road draws."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Four of Algeciras's five home fixtures have stayed Under 2.5 with three consecutive clean sheets, while Antequera's missing creative pieces favor a controlled tempo despite a 2.96 raw lambda."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Algeciras exploiting Antequera's emergency keeper and suspended centre-back behind a restored home defense, while 1:1 covers Destiny Ilahude converting a single away transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Both total selections align with Nuevo Mirador's 2.20 goals-per-game home environment and Algeciras's recent 2:0 and 1:0 clean-sheet victories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Antequera's cautious opening structure to shield a debuting keeper points toward a level interval before Algeciras break through late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 15:17:59 UTC"
+}
