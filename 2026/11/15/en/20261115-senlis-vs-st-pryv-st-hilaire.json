@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1648001,
+    "matchup": "Senlis vs St-Pryvé St-Hilaire",
+    "home_team": "Senlis",
+    "away_team": "St-Pryvé St-Hilaire",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-15 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-senlis-vs-st-pryv-st-hilaire/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Senlis vs St-Pryvé St-Hilaire Prediction & Match Analysis: Can Cup Fatigue Tilt the Tie?",
+    "meta": {
+      "matchId": "1648001",
+      "league": "Coupe de France",
+      "matchup": "Senlis vs St-Pryvé St-Hilaire",
+      "matchTime": "2026-11-15 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Draw / Away Win alongside Under 2.5 Goals in a tight Coupe de France tie where St-Pryvé St-Hilaire's divisional edge meets Senlis's seven-day rest advantage.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures the 90-minute stalemate threat and St-Pryvé St-Hilaire's higher-tier attacking floor (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with the 2.25 combined Poisson lambda and cautious knockout cup pacing (Confidence: Moderate, Value: Moderate)",
+      "1:1 Full-Time Draw covers Senlis's home cup resilience against St-Pryvé's recurring defensive concessions (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648001",
+      "league": "Coupe de France",
+      "homeTeam": "Senlis",
+      "awayTeam": "St-Pryvé St-Hilaire",
+      "match_time": "13:00",
+      "match_highlight": "Rested R2 Senlis test fatigued N2 St-Pryvé St-Hilaire in cup tie.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648001,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 1:1 draw script driven by Senlis's rest and home cup resistance and the 0:1 away win reflecting St-Pryvé's three-tier quality edge, whereas a single call would ignore either divisional class or midweek fatigue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 2.25 combined Poisson lambda (60.9% Under 2.5 probability) and St-Pryvé's 1-0 cup win at R2 AC Portugal Tours."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects Senlis's 6th-round hold over N2 Saint-Amand and St-Pryvé's leaky defense, while 0:1 mirrors St-Pryvé's Round 6 road win."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two Poisson goal-count outcomes (26.7% and 23.7%) matching a low-margin knockout contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Projects a cagey goalless or level first half before either staying deadlocked at 90 minutes or tilting late to St-Pryvé's fourth-tier quality."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 12:08:33 UTC"
+}
