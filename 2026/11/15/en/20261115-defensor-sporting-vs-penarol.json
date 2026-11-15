@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649062,
+    "matchup": "Defensor Sporting vs Penarol",
+    "home_team": "Defensor Sporting",
+    "away_team": "Penarol",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-15 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-defensor-sporting-vs-penarol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Defensor Sporting vs Penarol Tactical Breakdown & Prediction: Suspensions Test Visitors' Title Push",
+    "meta": {
+      "matchId": "1649062",
+      "league": "Primera División",
+      "matchup": "Defensor Sporting vs Penarol",
+      "matchTime": "2026-11-15 23:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Defensor Sporting are projected to avoid defeat via a 1:1 draw or narrow 2:1 home upset in an Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Home Win / Draw led by a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Total goals Under 2.5 aligned with 2.50 lambda expectancy and Penarol's five straight low-scoring outings (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Reversal hedge Win-Loss if Defensor lead at half-time before Penarol's bench turns the game late (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649062",
+      "league": "Primera División",
+      "homeTeam": "Defensor Sporting",
+      "awayTeam": "Penarol",
+      "match_time": "23:00",
+      "match_highlight": "Three Penarol suspensions test Aguirre's title push at Franzini.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1649062,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchored on 1:1 and 2:1, retaining Home Win / Draw covers both a tight stalemate and a narrow home upset because Penarol's triple suspension and five-match winless slump make backing a single outcome less reliable."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Shared 2.50 lambda expectancy, a 54.4% Poisson Under 2.5 baseline, and Penarol's 0.42 decayed scoring average across five consecutive Under 2.5 matches point to a low-to-moderate total."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "A 1:1 draw matches Penarol's recent stalemates and Defensor's porous backline, while 2:1 reflects the home upset branch if Defensor exploit Penarol's backup keeper and Remedi-less midfield."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.7%) and three goals (21.4%) represent the top two Poisson buckets and align directly with the 1:1 and 2:1 scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Penarol's 0.0 first-half goal share in four tracked league games supports a level opening 45 minutes before either a shared 1:1 finish or a second-half Defensor breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-15 19:21:16 UTC"
+}
