@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649549,
+    "matchup": "Brazil U20 vs Peru U20",
+    "home_team": "Brazil U20",
+    "away_team": "Peru U20",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-16 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-brazil-u20-vs-peru-u20/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brazil U20 vs Peru U20 Prediction & Preview: Rotation Risk vs Second-Half Control — Model Analysis",
+    "meta": {
+      "matchId": "1649549",
+      "league": "Friendlies",
+      "matchup": "Brazil U20 vs Peru U20",
+      "matchTime": "2026-11-16 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brazil U20 to win in regulation time alongside Under 2.5 Goals, as superior squad depth and three consecutive clean sheets should overcome friendly rotation after the interval.",
+    "possibilityAssessment": [
+      "Brazil U20 secure a controlled Under 2.5 home victory through superior second-half bench depth and three-match clean-sheet solidity (Confidence: Moderate, Value: Moderate)",
+      "Heavy friendly rotation slows early final-third rhythm, compressing the winning margin to a tight 1:0 late breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Peru U20 replicate Friday's compact mid-block into the closing quarter-hour before fatiguing under sustained wide pressure (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649549",
+      "league": "Friendlies",
+      "homeTeam": "Brazil U20",
+      "awayTeam": "Peru U20",
+      "match_time": "23:00",
+      "match_highlight": "Brazil's squad rotation tests Peru's compact defense in Belém rematch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649549,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by Brazil U20's five-match winning streak by 2+ goals and Friday's 2:0 shutout over Peru U20 at the same venue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with the 2.25 combined lambda baseline, Brazil's three straight clean sheets, and Peru's 0.59 decayed goals per game."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 mirrors Friday's Belém victory and Brazil's clean-sheet streak, while 1:0 captures potential first-half friction from friendly rotation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) lead the independent Poisson total-goals distribution and match both sides' recent low-concession scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects four of Brazil U20's five 2026 friendlies and Friday's 0:0 half-time split, with Win-Win covering faster early adaptation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 11:12:25 UTC"
+}
