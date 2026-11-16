@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649033,
+    "matchup": "Martinique vs Aruba",
+    "home_team": "Martinique",
+    "away_team": "Aruba",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-17 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-martinique-vs-aruba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Martinique vs Aruba Prediction & Match Analysis: Can Les Matinino Break the Play-In Deadlock?",
+    "meta": {
+      "matchId": "1649033",
+      "league": "CONCACAF Nations League",
+      "matchup": "Martinique vs Aruba",
+      "matchTime": "2026-11-17 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Martinique are favoured to avoid defeat across 90 minutes in a low-scoring contest where home territory and class meet Aruba's compact block.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Martinique's +333 Elo edge and 69% Leg 1 possession alongside Aruba's away-goals stalemate threat (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined Poisson lambda and a scoreless first leg featuring only four shots on target (Confidence: Moderate, Value: High)",
+      "Correct Score 1:1 hedge capturing a late Aruba transition or set-piece away goal if Martinique overcommit after halftime (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649033",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Martinique",
+      "awayTeam": "Aruba",
+      "match_time": "00:00",
+      "match_highlight": "Can Martinique unlock Aruba's low block after a scoreless first leg?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649033,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Martinique's 1:0 home breakthrough script alongside a 1:1 or 0:0 stalemate because their two-match scoreless drought makes a lone home win vulnerable to Aruba's compact block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, a 60.9% Poisson Under 2.5 probability, and just four total shots on target in the first leg."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Martinique's home pressure eventually telling once, while 1:1 captures the top Poisson density if Aruba land an away goal on the counter."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) lead the Poisson total-goals distribution at a combined 50.4%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Aruba's early compactness points to a level first half before the second half splits between a late home breakthrough and a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 12:08:06 UTC"
+}
