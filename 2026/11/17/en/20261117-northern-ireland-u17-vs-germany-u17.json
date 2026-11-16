@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559503,
+    "matchup": "Northern Ireland U17 vs Germany U17",
+    "home_team": "Northern Ireland U17",
+    "away_team": "Germany U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-northern-ireland-u17-vs-germany-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Northern Ireland U17 vs Germany U17 Tactical Breakdown & Probabilistic Modeling: Can NI Contain Assomo?",
+    "meta": {
+      "matchId": "1559503",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Northern Ireland U17 vs Germany U17",
+      "matchTime": "2026-11-17 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Germany U17 are projected to secure a decisive regulation-time Away Win in Frankfurt, anchored around 1:3 and 0:4 scorelines over 2.5 total goals.",
+    "possibilityAssessment": [
+      "Germany U17 Away Win via sustained attacking firepower and superior squad depth (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals with 4 or 5 total goals driven by a 5.25 combined goal-expectancy lambda (Confidence: Moderate, Value: High)",
+      "1:3 both-teams-score scenario versus 0:4 German clean-sheet route depending on Mulholland availability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "5"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:3",
+        "0:4"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559503",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Northern Ireland U17",
+      "awayTeam": "Germany U17",
+      "match_time": "10:00",
+      "match_highlight": "Seven-goal forward Bastian Assomo tests Northern Ireland's pressured defense at DFB-Campus.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559503,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Germany U17 have outscored common Group 2 opponents 11:0 at DFB-Campus while Northern Ireland conceded four to Lithuania."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 5.25 combined goal-expectancy lambda and 5.50 German goals-per-game Group 2 average strongly favor three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:3",
+          "0:4"
+        ],
+        "comment": "1:3 balances Germany's 3.75 lambda with Northern Ireland's four-match scoring streak, while 0:4 covers a German clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "5"
+        ],
+        "comment": "Four and five goals capture the central Poisson probability peak around Germany's multi-goal margin."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Germany led 3:0 at half-time in both Group 2 games for Loss-Loss, while Northern Ireland's level first halves make Draw-Loss the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 22:24:25 UTC"
+}
