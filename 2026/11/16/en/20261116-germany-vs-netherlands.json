@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528990,
+    "matchup": "Germany vs Netherlands",
+    "home_team": "Germany",
+    "away_team": "Netherlands",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261116-germany-vs-netherlands/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Germany vs Netherlands: Expected Goals (xG), Key Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1528990",
+      "league": "UEFA Nations League",
+      "matchup": "Germany vs Netherlands",
+      "matchTime": "2026-11-16 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Germany's high-press territorial dominance and the Netherlands' confirmed midfield and defensive spine absences point toward a 2:1 home victory, with the draw retained against German finishing variance.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw led by Germany Win on superior pressing control and De Jong/Van Dijk/Aké absences (Confidence: Moderate, Value: Moderate)",
+      "Totals Thesis: Over 2.5 goals supported by 5.16 combined xG per match and 53.0% baseline probability (Confidence: Moderate, Value: High)",
+      "Scoreline & Split Thesis: 2:1 primary / 1:1 secondary paired with Win-Win and Win-Draw HT/FT scripts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528990",
+      "league": "UEFA Nations League",
+      "homeTeam": "Germany",
+      "awayTeam": "Netherlands",
+      "match_time": "19:45",
+      "match_highlight": "Must-win Germany press tests De Jong-less Netherlands in Berlin.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528990,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Germany Win (2:1) behind Berlin pressing intensity and Dutch spine absences while covering Draw (1:1) because Germany's 53.3% big-chance waste and the visitors' unbeaten efficiency make a single-outcome call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.30 and 2.86 xG per match respectively, a 2.8 goal-based lambda total, and mutual 1.17-1.18 xGA exposure."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects German xG superiority against a depleted Dutch backline conceding an away transition goal, while 1:1 mirrors the reverse fixture if German finishing waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Concentrates on the 2:1 (3-goal) primary convergence and 1:1 (2-goal) secondary tactical stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Reflects Germany's 60% half-time lead rate and 66.7% first-half goal share, branching between holding the advantage (Win-Win) and Netherlands' 100% half-time deficit recovery rate (Win-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 08:08:38 UTC"
+}
