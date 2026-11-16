@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545618,
+    "matchup": "Gibraltar vs Malta",
+    "home_team": "Gibraltar",
+    "away_team": "Malta",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261116-gibraltar-vs-malta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gibraltar vs Malta Tactical Breakdown & Probabilistic Modeling: De Barr Absence & Away Control",
+    "meta": {
+      "matchId": "1545618",
+      "league": "UEFA Nations League",
+      "matchup": "Gibraltar vs Malta",
+      "matchTime": "2026-11-16 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Malta's territorial control, 6.3 shots on target per match, and superior depth justify backing an ordinary Away Win in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Malta Away Win anchored by a 1.17 vs 0.50 goal lambda gap, +244 Elo edge, and 52.6% Poisson win share (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and 1–2 Total Goals supported by a 1.67 total lambda and 76.5% Under 2.5 probability (Confidence: High, Value: Moderate)",
+      "Goalless 0:0 stalemate hedge reflecting Malta's 69.2% big-chance waste and suspended Alexander Satariano (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545618",
+      "league": "UEFA Nations League",
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Malta",
+      "match_time": "19:45",
+      "match_highlight": "Malta probe a De Barr-less Gibraltar low block",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545618,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Malta's 6.3 shots on target per match, +244 Elo edge, and Tjay De Barr's suspension point to a controlled 0:1 or 0:2 away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.67 combined goal lambda, Gibraltar's 0.33 goals per game, and both sides' high big-chance waste rates favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 22.0%, while 0:2 captures late away expansion if Gibraltar fade on 72 hours' rest."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (31.4%) and 2 goals (26.3%) account for 57.7% of the Poisson goal distribution in a tight low-block matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Malta were level at half-time in all three League D games (Draw-Loss), while doubtful Ethan Jolley keeps an early away lead (Loss-Loss) live."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 08:16:14 UTC"
+}
