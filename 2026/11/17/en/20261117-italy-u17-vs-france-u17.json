@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559500,
+    "matchup": "Italy U17 vs France U17",
+    "home_team": "Italy U17",
+    "away_team": "France U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-italy-u17-vs-france-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Italy U17 vs France U17 Prediction & Match Analysis: Can France Breach Italy's Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1559500",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Italy U17 vs France U17",
+      "matchTime": "2026-11-17 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Italy U17's deeper Group 10 scoring profile and stronger five-match form support backing Home Win / Draw, with a 2:1 Azzurrini edge leading a 1:1 stalemate contingency.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Italy U17's 10:0 qualifying output and France U17's pre-camp defensive lapses while covering neutral-venue draw risk (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals via a 2:1 primary scoreline as France U17 push for top spot against Italy's multi-scorer 4-3-1-2 attack (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflecting potential Matchday 3 rotation and Italy's goal-difference cushion with Round 2 already secured (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559500",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Italy U17",
+      "awayTeam": "France U17",
+      "match_time": "10:00",
+      "match_highlight": "Unbeaten Group 10 leaders battle for top seeding on neutral soil.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559500,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Italy U17's superior attacking depth in a 2:1 win script and the realistic 1:1 draw script given neutral ground and secured qualification, avoiding overexposure on a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by both sides' high-scoring recent match profiles and a 4.25 raw Poisson total lambda, even after adjusting downward for peer-level defensive quality."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Italy's broader scoring options against France's recent defensive lapses, while 1:1 covers a lower-tempo draw if both coaches rotate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Peer-level defensive resistance pulls the raw 4.25 goal expectancy down toward a 3-goal primary band with 2 goals covering a tight stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first-half parity reflects two unbeaten defenses before Italy's second-half scoring depth either breaks through or both settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 22:18:36 UTC"
+}
