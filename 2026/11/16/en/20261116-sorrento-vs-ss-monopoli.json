@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1609130,
+    "matchup": "Sorrento vs SS Monopoli",
+    "home_team": "Sorrento",
+    "away_team": "SS Monopoli",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-16 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261116-sorrento-vs-ss-monopoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sorrento vs SS Monopoli Tactical Breakdown & Probabilistic Modeling: Picerno Edge vs Depleted Defense",
+    "meta": {
+      "matchId": "1609130",
+      "league": "Serie C - Girone C",
+      "matchup": "Sorrento vs SS Monopoli",
+      "matchTime": "2026-11-16 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sorrento to avoid defeat in a low-scoring contest where home advantage and visitor absences outweigh recent form.",
+    "possibilityAssessment": [
+      "Sorrento Win or Draw led by Picerno home dominance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by 2.03 combined lambda and Monopoli clean sheets (Confidence: High, Value: Moderate)",
+      "Goalless 0:0 stalemate hedge if Cargnelutti misses out against Monopoli's 3-5-2 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609130",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Sorrento",
+      "awayTeam": "SS Monopoli",
+      "match_time": "19:30",
+      "match_highlight": "Picerno home edge meets Monopoli's injury-hit 3-5-2 defensive block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609130,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Sorrento breakthrough against five-absent Monopoli while retaining the 0:0 stalemate given the visitors' defensive organization, as a single call carries unnecessary risk amid Cargnelutti's fitness doubt."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.03 combined goal lambda, Monopoli's 0.69 goals-conceded average with eight clean sheets, and Maguette Fall's confirmed absence."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 reflects Sorrento's 5-0-2 home record breaking down a depleted road defense, while 0:0 captures Monopoli's back-to-back goalless template."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Aligned with Poisson total-goal density concentrated heavily in one- and two-goal scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey 0:0 first half before either a second-half Sorrento breakthrough against a thinned Monopoli bench or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 07:42:20 UTC"
+}
