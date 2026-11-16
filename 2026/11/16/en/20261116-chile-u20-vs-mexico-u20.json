@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649022,
+    "matchup": "Chile U20 vs Mexico U20",
+    "home_team": "Chile U20",
+    "away_team": "Mexico U20",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-16 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-chile-u20-vs-mexico-u20/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chile U20 vs Mexico U20 Prediction & Match Analysis: Who Breaks the 1-1 Deadlock? — Preview",
+    "meta": {
+      "matchId": "1649022",
+      "league": "Friendlies",
+      "matchup": "Chile U20 vs Mexico U20",
+      "matchTime": "2026-11-16 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Chile U20 hold a narrow home and squad-depth advantage in a low-scoring rematch, making Home Win / Draw under 2.5 goals the most coherent pre-lineup projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers a narrow Chilean breakthrough from deeper bench rotation alongside a repeat stalemate (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 combined lambda and 60.9% Poisson density below three goals (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win and Draw-Draw HT/FT capture Mexico's cautious first-half road profile before late decisive action (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649022",
+      "league": "Friendlies",
+      "homeTeam": "Chile U20",
+      "awayTeam": "Mexico U20",
+      "match_time": "19:00",
+      "match_highlight": "Chile U20 depth tests Mexico's Chivas core after Friday's draw.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649022,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Chile's narrow home-and-depth win script (1:0) alongside a repeat stalemate (1:1) because a 0.15 lambda gap and friendly rotation make a single call overly fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.25 yields a 60.9% Under 2.5 probability and matches five of the teams' seven combined 2026 friendlies."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Chile's marginal scoring and depth edge, while 1:1 carries the top Poisson density (13.3%) and mirrors Friday's result."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest-probability bands in the 2.25-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Mexico U20 were level at halftime in both 2026 road friendlies, pointing toward a level opening half before Chile push late or share the spoils again."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 07:26:15 UTC"
+}
