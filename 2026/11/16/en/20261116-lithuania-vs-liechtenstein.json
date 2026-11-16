@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528989,
+    "matchup": "Lithuania vs Liechtenstein",
+    "home_team": "Lithuania",
+    "away_team": "Liechtenstein",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-lithuania-vs-liechtenstein/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lithuania vs Liechtenstein Tactical Breakdown & Probabilistic Modeling: Breakthrough Without Kučys?",
+    "meta": {
+      "matchId": "1528989",
+      "league": "UEFA Nations League",
+      "matchup": "Lithuania vs Liechtenstein",
+      "matchTime": "2026-11-16 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lithuania's superior possession structure, Elo baseline, and home rest advantage against a goalless visitor point toward a controlled Home Win / Draw outcome dominated by Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Lithuania's 61.7% possession edge and 51.7% Poisson win baseline favor a narrow 1:0 home victory, while a 0:0 stalemate remains formally covered at 35.9% draw expectancy (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals: Suppressed combined expectancy (lambda total 1.34) and Liechtenstein's zero-goal Nations League tally concentrate 84.8% of the distribution below three goals (Confidence: High, Value: Moderate)",
+      "0:0 Correct Score / Half-Time Draw: Two-thirds of each side's group matches were level at the interval, elevating a goalless stalemate if Lithuania's finishing waste persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528989",
+      "league": "UEFA Nations League",
+      "homeTeam": "Lithuania",
+      "awayTeam": "Liechtenstein",
+      "match_time": "17:00",
+      "match_highlight": "Can a Kučys-less Lithuania crack Liechtenstein's compact five-match goalless low block?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528989,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a patient 1:0 home breakthrough alongside the 0:0 low-block stalemate script, whereas a single call would overlook Lithuania's missing focal striker and recent goalless draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lambda total of 1.34, Liechtenstein's five-match scoring drought, and Kučys's suspension drive an 84.8% Under 2.5 probability."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "Both scorelines tie at 26.2% in the Poisson matrix, capturing either a narrow second-half Lithuanian winner or a disciplined visitor clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "One goal (35.1%) and zero goals (26.2%) represent the two highest-density buckets in a heavily compressed scoring distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams reached half-time level in two of three group matches, pointing to a 0:0 interval followed by either a late home winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 05:11:22 UTC"
+}
