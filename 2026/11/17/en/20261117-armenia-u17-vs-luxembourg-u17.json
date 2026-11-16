@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559493,
+    "matchup": "Armenia U17 vs Luxembourg U17",
+    "home_team": "Armenia U17",
+    "away_team": "Luxembourg U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-armenia-u17-vs-luxembourg-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Armenia U17 vs Luxembourg U17 Tactical Breakdown & Preview: Second-Half Fragility in Group 10",
+    "meta": {
+      "matchId": "1559493",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Armenia U17 vs Luxembourg U17",
+      "matchTime": "2026-11-17 10:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Armenia U17 hold a modest host advantage against a fellow winless defense, supporting Home Win / Draw alongside an Over 2.5 goal outlook.",
+    "possibilityAssessment": [
+      "Home Win / Draw in 90 minutes driven by Yerevan home continuity and second-half scoring space (Confidence: Low, Value: Moderate)",
+      "Over 2.5 total goals as two backlines allowing 4.0 and 4.5 goals per match finally meet peer opposition (Confidence: Low, Value: Moderate)",
+      "2:2 stalemate risk if Luxembourg U17 exploit transition lanes behind an advancing host midfield (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559493",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Armenia U17",
+      "awayTeam": "Luxembourg U17",
+      "match_time": "10:00",
+      "match_highlight": "Winless Group 10 defenses battle second-half fatigue in Yerevan.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559493,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough and a 2:2 draw because a single win call is unsupported by a two-match 0-goal sample."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides conceded 4.0+ goals per match and retain a 4.25 combined lambda despite stepping down from elite opponents."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Co-leaders in the independent Poisson matrix reflecting host edge alongside mutual defensive fragility."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Discounting elite-opponent blowouts pulls the 4.25 lambda peak cleanly into the 3-to-4 goal range."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious opening 45 minutes between peer sides before second-half fatigue decides whether Armenia win or share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 22:08:48 UTC"
+}
