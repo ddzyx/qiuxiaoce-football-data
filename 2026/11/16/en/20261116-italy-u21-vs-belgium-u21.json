@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649548,
+    "matchup": "Italy U21 vs Belgium U21",
+    "home_team": "Italy U21",
+    "away_team": "Belgium U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-16 17:15:00",
+    "source_url": "https://xgmind.com/matches/20261116-italy-u21-vs-belgium-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Italy U21 vs Belgium U21 Match Analysis: Heavy Rotation Meets Road Resilience — Scoreline & Model Preview",
+    "meta": {
+      "matchId": "1649548",
+      "league": "Friendlies",
+      "matchup": "Italy U21 vs Belgium U21",
+      "matchTime": "2026-11-16 17:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With minimal statistical separation and friendly rotation in play, Home Win / Draw led by a low-scoring stalemate offers the most disciplined projection.",
+    "possibilityAssessment": [
+      "Expect a tactical, Under 2.5 battle where Italy U21's set-piece edge and Belgium U21's disciplined road structure converge around 1:1 or 1:0 (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals is backed by a 2.25 combined goal expectancy and 60.9% Poisson probability across zero-to-two goal outcomes (Confidence: Moderate, Value: Moderate)",
+      "A 1:0 Italy U21 home win remains the primary alternative if second-half bench quality unlocks a tight contest (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649548",
+      "league": "Friendlies",
+      "homeTeam": "Italy U21",
+      "awayTeam": "Belgium U21",
+      "match_time": "17:15",
+      "match_highlight": "Rotated Italy U21 test Belgium U21's sharp counter-attacking momentum in Livorno.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649548,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:1 draw script driven by Italian rotation and the secondary 1:0 home win via superior bench depth and set pieces, where a single outcome would overlook the narrow 0.15 goal-expectancy gap."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.25 (60.9% Under 2.5), supported by Belgium's 0.54 decayed concession rate and friendly substitution disruption."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Both scorelines sit atop the Poisson matrix (13.3% and 12.6%) and reflect a tight, second-half-decided friendly."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Exact totals of 2 (26.7%) and 1 (23.7%) capture the primary 1:1 draw and 1:0 home win branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Italy U21 started goalless at half-time in both 2026 friendlies, pointing toward a level interval before either a 1:1 share or a late 1:0 home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 05:38:24 UTC"
+}
