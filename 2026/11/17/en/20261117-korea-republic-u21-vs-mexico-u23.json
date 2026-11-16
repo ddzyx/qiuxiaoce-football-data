@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649024,
+    "matchup": "Korea Republic U21 vs Mexico U23",
+    "home_team": "Korea Republic U21",
+    "away_team": "Mexico U23",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-korea-republic-u21-vs-mexico-u23/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Korea Republic U21 vs Mexico U23 Prediction & Match Analysis: Can Depleted Hosts Break the Deadlock?",
+    "meta": {
+      "matchId": "1649024",
+      "league": "Friendlies",
+      "matchup": "Korea Republic U21 vs Mexico U23",
+      "matchTime": "2026-11-17 10:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "With no clear statistical favourite and Korea Republic U21 missing three injured forwards after Saturday's 0:0 opener, backing Mexico U23 to avoid defeat alongside Under 2.5 Goals offers the soundest projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both a repeat low-scoring stalemate and a late Mexico U23 breakthrough off the bench (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with the 2.25 combined Poisson lambda, 60.9% baseline density, and Korea's forward absences (Confidence: Moderate, Value: Moderate)",
+      "A narrow 1:0 Korea Republic U21 home win remains the primary home hedge if Cheonan crowd energy sparks an early set-piece goal (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649024",
+      "league": "Friendlies",
+      "homeTeam": "Korea Republic U21",
+      "awayTeam": "Mexico U23",
+      "match_time": "10:00",
+      "match_highlight": "Depleted Korean frontline faces intact Mexico U23 after 0:0 opener.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649024,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a tight 1:1 stalemate and a 0:1 Mexico U23 win, because Korea's injured forward line weakens a single draw call while Mexico's modest scoring prevents a single away call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined Poisson lambda (1.20 vs 1.05), 60.9% Under 2.5 baseline density, and a 0:0 first leg three days earlier."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 is the 13.3% modal Poisson scoreline under home crowd stimulus, while 0:1 reflects Korea's forward absences against Mexico's deeper bench."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) hold the top two probability buckets in the Poisson total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious first half on 75 hours' rest sets up either a full-time stalemate or a second-half Mexico U23 winner off the bench."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 22:30:35 UTC"
+}
