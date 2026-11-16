@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528986,
+    "matchup": "Kazakhstan vs Slovakia",
+    "home_team": "Kazakhstan",
+    "away_team": "Slovakia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-kazakhstan-vs-slovakia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kazakhstan vs Slovakia Prediction & Match Analysis: Can Rotated Leaders Overcome Key Absences?",
+    "meta": {
+      "matchId": "1528986",
+      "league": "UEFA Nations League",
+      "matchup": "Kazakhstan vs Slovakia",
+      "matchTime": "2026-11-16 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Draw / Away Win with a primary 1:2 projection balances Slovakia's clear scoring superiority against their confirmed spine absences and post-promotion rotation in Astana.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Slovakia victory on 2.20 goals/match vs 0% host clean sheets, with Draw covered for rotation (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals anchored by 3.0 combined lambda and Kazakhstan's 4-of-5 Over 2.5 group record (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / Loss-Draw HT-FT hedge if rotated Slovakia surrender a first-half lead on 67 hours' rest (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528986",
+      "league": "UEFA Nations League",
+      "homeTeam": "Kazakhstan",
+      "awayTeam": "Slovakia",
+      "match_time": "15:00",
+      "match_highlight": "Rotated group winners Slovakia test winless Kazakhstan's shaky defense in Astana.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528986,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Slovakia's leading 1:2 win path against a 0%-clean-sheet host alongside the 1:1 draw script triggered by Slovak absences and post-promotion rotation, where a single win call leaves the draw branch unguarded."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.0 combined goal lambda (57.7% Poisson Over 2.5) and Kazakhstan conceding 1.80 goals/match while scoring in all five group outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors Slovakia's 2.20 scoring pace and three of Kazakhstan's five group scorelines, while 1:1 captures Slovak rotation and both teams' forward/defensive absences."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 and 2 goals share the top Poisson probabilities (22.4% each), directly aligning with the 1:2 primary and 1:1 secondary game scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Slovakia led at half-time in 3 of 5 group matches while Kazakhstan trailed in 3 of 5, making an early Slovak lead that either holds (Loss-Loss) or erodes late (Loss-Draw) the sharpest split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 03:08:40 UTC"
+}
