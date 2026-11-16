@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649025,
+    "matchup": "Norway U19 vs Netherlands U18",
+    "home_team": "Norway U19",
+    "away_team": "Netherlands U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-norway-u19-vs-netherlands-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Norway U19 vs Netherlands U18 Prediction & Match Analysis: Tight Defense Meets Oranje — Scoreline Preview",
+    "meta": {
+      "matchId": "1649025",
+      "league": "Friendlies",
+      "matchup": "Norway U19 vs Netherlands U18",
+      "matchTime": "2026-11-17 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "MatchMind AI projects a Home Win / Draw outcome with an Under 2.5 goals profile, anchored by Norway U19's 1.20 Poisson goal expectancy and recent defensive tightness.",
+    "possibilityAssessment": [
+      "Home Win / Draw covering Norway U19's 1.20 vs 1.05 Poisson edge and Dutch single-goal resilience (Confidence: Low, Value: Moderate)",
+      "Under 2.5 goals backed by a 2.25 combined goal expectancy and 60.9% Poisson distribution (Confidence: Low, Value: Moderate)",
+      "Second-half stalemate scenario (Draw-Draw / 1:1) if 72-hour friendly rotation blunts home finishing (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649025",
+      "league": "Friendlies",
+      "homeTeam": "Norway U19",
+      "awayTeam": "Netherlands U18",
+      "match_time": "11:00",
+      "match_highlight": "Norway U19 defensive discipline tests Netherlands U18 on 72-hour turnaround.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649025,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 1:0 Norway U19 win and 1:1 draw scripts because a 0.15 lambda gap, 72-hour friendly rotation, and Netherlands U18's 80% five-match unbeaten rate make a single call weaker."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined Poisson goal expectancy (60.9% Under 2.5 probability) and Norway U19's 0.63 decayed goals-conceded rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Norway U19's clean-sheet edge over a 1.10-goal Dutch attack, while 1:1 is the top Poisson outcome (13.3%) matching Dutch resilience."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) are the top two Poisson total-goal densities under a 2.25 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides share a 40% first-half goal share, pointing to a cagey level opening 45 minutes before either a Norwegian breakthrough or a full-time draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 23:23:05 UTC"
+}
