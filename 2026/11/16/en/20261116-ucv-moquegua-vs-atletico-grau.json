@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549560,
+    "matchup": "UCV Moquegua vs Atletico Grau",
+    "home_team": "UCV Moquegua",
+    "away_team": "Atletico Grau",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-16 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261116-ucv-moquegua-vs-atletico-grau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UCV Moquegua vs Atletico Grau Prediction & Match Analysis: Can Winless Hosts Survive? — Scoreline Preview",
+    "meta": {
+      "matchId": "1549560",
+      "league": "Primera División",
+      "matchup": "UCV Moquegua vs Atletico Grau",
+      "matchTime": "2026-11-16 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects a cagey, low-scoring encounter favoring Home Win / Draw and Under 2.5 goals as survival pressure meets road vulnerability in Moquegua.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on 1:1 stalemate and 1:0 survival win scripts (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by lambda 2.41 combined expectancy and 56.7% Poisson distribution under 2.5 (Confidence: Moderate, Value: High)",
+      "Second-half decisive surge (Draw-Win) if scoreless tension forces late defensive gaps after 65 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549560",
+      "league": "Primera División",
+      "homeTeam": "UCV Moquegua",
+      "awayTeam": "Atletico Grau",
+      "match_time": "20:15",
+      "match_highlight": "Relegation-threatened hosts test road-weary Atletico Grau in tight finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549560,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Draw leads (1:1) given Moquegua's winless Clausura home slate, while Home Win (1:0) covers Grau's poor road defense and survival urgency where a single call is fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lambda 2.41 combined expectancy, Moquegua's 0.62 goals per match, and cautious final-day game states point cleanly under 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.8% while 1:0 captures a narrow survival breakthrough if Moquegua contains Grau's counters."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson distribution peaks at two goals (26.1%) followed by one goal (21.6%), matching low-margin tactical expectations."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A tense, level first half matching their 0:0 Apertura interval is projected to hold for a draw or tilt late to the hosts."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 08:42:16 UTC"
+}
