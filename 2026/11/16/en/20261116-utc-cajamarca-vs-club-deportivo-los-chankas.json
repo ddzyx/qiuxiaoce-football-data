@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549556,
+    "matchup": "UTC Cajamarca vs Club Deportivo Los Chankas",
+    "home_team": "UTC Cajamarca",
+    "away_team": "Club Deportivo Los Chankas",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-16 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-utc-cajamarca-vs-club-deportivo-los-chankas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UTC Cajamarca vs Los Chankas Prediction & Match Analysis: Pride vs Sudamericana Push",
+    "meta": {
+      "matchId": "1549556",
+      "league": "Primera División",
+      "matchup": "UTC Cajamarca vs Club Deportivo Los Chankas",
+      "matchTime": "2026-11-16 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Side with UTC Cajamarca to avoid defeat via Home Win / Draw in an open Clausura finale leaning Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals with 3 or 2 total goals projected (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw or 2:1 Home Win tactical convergence (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549556",
+      "league": "Primera División",
+      "homeTeam": "UTC Cajamarca",
+      "awayTeam": "Club Deportivo Los Chankas",
+      "match_time": "18:00",
+      "match_highlight": "Relegated UTC host Sudamericana-chasing Los Chankas at high altitude",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549556,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 2:1 home farewell win built on UTC's 1.50 home lambda and 2-0/2-0 H2H edge alongside a 1:1 draw given Los Chankas' recent defensive stabilization and top-eight urgency."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.97 combined goal lambda, both teams conceding 1.94-2.00 goals per Clausura match, and a 57.0% Poisson probability for three or more goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges on the top decisive home scoreline (2:1, 8.5%) and the modal overall Poisson result (1:1, 11.3%) from near-equal lambdas."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Captures the 22.4% three-goal and 22.6% two-goal Poisson peaks around the 2.97 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight first half before altitude and late chasing spaces decide a 2:1 UTC breakthrough or keep the contest locked at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 06:09:17 UTC"
+}
