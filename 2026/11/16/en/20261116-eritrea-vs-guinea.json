@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545890,
+    "matchup": "Eritrea vs Guinea",
+    "home_team": "Eritrea",
+    "away_team": "Guinea",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-16 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-eritrea-vs-guinea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eritrea vs Guinea Prediction & Match Analysis: Can Guinea Handle Guirassy's Absence? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545890",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Eritrea vs Guinea",
+      "matchTime": "2026-11-16 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Projecting Draw / Away Win alongside Over 2.5 goals, leaning toward a 1:2 Guinea victory while retaining the 1:1 stalemate branch.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Correct Score Hedge (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545890",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Eritrea",
+      "awayTeam": "Guinea",
+      "match_time": "16:00",
+      "match_highlight": "Depleted Guinea face Eritrea in Cairo four days after Conakry battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545890,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Guinea's leading 1:2 set-piece and depth win script alongside a 1:1 stalemate risk, as five confirmed Guinea absences weaken a single away-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.83 combined lambda (53.8% Poisson Over 2.5 mass), Eritrea's 2.67 goals conceded per qualifier, and both sides scoring in Conakry."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors Guinea's set-piece edge over a leaky defense alongside Sow's absence, while 1:1 captures Eritrea matching Guinea's depleted attack."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads via mutual defensive vulnerability and a 2.83 lambda, while 2 goals (23.6% Poisson mode) covers a tighter, Guirassy-less contest."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss repeats Guinea's early corner breakthrough and full-time control from Nov 12, while Draw-Draw covers a compressed, unresolved 1:1 battle."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 04:11:12 UTC"
+}
