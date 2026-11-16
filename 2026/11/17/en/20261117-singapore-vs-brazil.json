@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640087,
+    "matchup": "Singapore vs Brazil",
+    "home_team": "Singapore",
+    "away_team": "Brazil",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-singapore-vs-brazil/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Singapore vs Brazil Tactical Breakdown & Match Analysis: Can Lions Contain Vinícius Júnior?",
+    "meta": {
+      "matchId": "1640087",
+      "league": "Friendlies",
+      "matchup": "Singapore vs Brazil",
+      "matchTime": "2026-11-17 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Brazil for a comfortable multi-goal Away Win as their elite wide attack exploits a depleted Singapore defense in an Over 2.5 encounter.",
+    "possibilityAssessment": [
+      "Away Win driven by Brazil's overwhelming wing penetration and finishing edge over 90 minutes (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (3 or 4 Total Goals) supported by Brazil's 2.59 decayed scoring rate and Singapore's 3.06 decayed concession rate (Confidence: Moderate, Value: Moderate)",
+      "Both Teams to Score in a 1:3 branch reflecting Brazil's 12.5% seasonal clean-sheet rate in friendlies (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640087",
+      "league": "Friendlies",
+      "homeTeam": "Singapore",
+      "awayTeam": "Brazil",
+      "match_time": "10:00",
+      "match_highlight": "Can depleted Singapore resist Vinícius Júnior after conceding four to Paraguay?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640087,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Brazil's 809-point Elo superiority and 2.59 decayed goals per match project a decisive 0:3 or 1:3 away victory despite touchline and Raphinha suspensions."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Adjusted expectancy surpasses the raw 2.25 lambda total given Brazil's 2.59 decayed scoring rate and Singapore's 3.06 decayed goals conceded."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:3"
+        ],
+        "comment": "0:3 balances Brazil's territorial dominance with a 59.1% big-chance waste rate, while 1:3 accounts for their 12.5% friendly clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Scoring density clusters at 3 to 4 goals as Brazil's second-half depth stretches Singapore's defense without turning completely unchecked."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss fits Singapore's 66.7% half-time deficit rate, while Draw-Loss covers Brazil's 37.5% half-time draw rate and 60.9% second-half goal concentration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 22:27:34 UTC"
+}
