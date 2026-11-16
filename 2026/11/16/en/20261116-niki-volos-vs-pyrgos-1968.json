@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636986,
+    "matchup": "Niki Volos vs Pyrgos 1968",
+    "home_team": "Niki Volos",
+    "away_team": "Pyrgos 1968",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-16 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-niki-volos-vs-pyrgos-1968/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Niki Volos vs Pyrgos 1968 Prediction & Match Analysis: Striker Crisis Tests Home Control — Scoreline Preview",
+    "meta": {
+      "matchId": "1636986",
+      "league": "Super League 2",
+      "matchup": "Niki Volos vs Pyrgos 1968",
+      "matchTime": "2026-11-16 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Niki Volos on the Home Win / Draw double chance in a low-scoring Super League 2 contest expected to stay Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Niki Volos's 0.90 goals-conceded average and Pyrgos 1968's three suspensions (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 Poisson lambda total and Niki Volos's depleted forward line (Confidence: Moderate, Value: High)",
+      "1:1 Draw hedge reflecting Niki Volos's recent home half-time lead erosion without Loukinas and Pamlidis (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636986",
+      "league": "Super League 2",
+      "homeTeam": "Niki Volos",
+      "awayTeam": "Pyrgos 1968",
+      "match_time": "13:00",
+      "match_highlight": "Depleted Niki Volos attack tests suspension-hit Pyrgos 1968 in Volos",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636986,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Niki Volos win against suspension-hit Pyrgos and the 1:1 draw risk caused by Loukinas and Pamlidis's absences, as a single Home Win would ignore the hosts' missing firepower."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% baseline Under 2.5), Niki Volos's 0.90 GA/game defense, and confirmed injuries to key home attackers."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Niki Volos's defensive edge and 14.8% modal Poisson density, while 1:1 captures their home Win-Draw pattern if finishing falters without Loukinas."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two Poisson counts and align directly with 1:0 and 1:1 under depleted attacking setups."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win matches Niki Volos's 100% conversion from level half-times against tiring Pyrgos legs, while Win-Draw covers their 66.7% overall lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 01:24:00 UTC"
+}
