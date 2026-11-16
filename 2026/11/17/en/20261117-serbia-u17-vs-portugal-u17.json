@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559509,
+    "matchup": "Serbia U17 vs Portugal U17",
+    "home_team": "Serbia U17",
+    "away_team": "Portugal U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-serbia-u17-vs-portugal-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Serbia U17 vs Portugal U17 Prediction & Match Analysis: Early Serbia Blitz Meets Portugal's Home Wall",
+    "meta": {
+      "matchId": "1559509",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Serbia U17 vs Portugal U17",
+      "matchTime": "2026-11-17 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects Serbia U17 Win or Draw (2:1 primary, 1:1 secondary) with Over 2.5 Goals in a balanced Group 6 finale.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Serbia's 2.0 goal-based lambda and early-half scoring pace alongside a realistic 1:1 Oeiras stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals reflects a 3.5 combined goal-based lambda and 67.9% Poisson probability for three or more goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge protects against potential Serbian lineup rotation and Portugal's five-match unbeaten defensive structure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559509",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Serbia U17",
+      "awayTeam": "Portugal U17",
+      "match_time": "11:00",
+      "match_highlight": "Fast-starting Serbia U17 face unbeaten Group 6 hosts Portugal U17 in Oeiras.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559509,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Serbia win built on their early-half output and a 1:1 draw driven by Portugal's Oeiras defense, as neither two-match sample justifies excluding the other."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.5 combined goal-based lambda and 67.9% Poisson probability for three or more goals across two productive Group 6 attacks."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Matches the co-highest 9.1% Poisson scorelines, balancing Serbia's 3.5 goals-per-game start against Portugal's 0.30 decayed goals conceded."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Anchors on the modal 3-goal Poisson outcome (21.6%) with 2 goals covering the alternative 1:1 qualification-clinching draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Pairs Serbia's 100% Group 6 half-time lead record against Portugal's ability to keep the opening half level before sharing points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 23:19:53 UTC"
+}
