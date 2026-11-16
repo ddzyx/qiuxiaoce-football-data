@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645403,
+    "matchup": "Greece U21 vs Iceland U21",
+    "home_team": "Greece U21",
+    "away_team": "Iceland U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-16 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-greece-u21-vs-iceland-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Greece U21 vs Iceland U21 Preview & Tactical Breakdown: Can Reshuffled Hosts Seal Euro Play-off?",
+    "meta": {
+      "matchId": "1645403",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Greece U21 vs Iceland U21",
+      "matchTime": "2026-11-16 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Greece U21's superior home scoring output faces a genuine test from defensive injuries and Iceland's road resilience, pointing toward a narrow 2:1 home win with the 1:1 draw retained under a Home Win / Draw projection.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw anchored on Greece U21's 46.4% Poisson win share and 2.38 goals per game, balanced by defensive absences that keep the draw live (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals backed by 3.00 combined goal expectancy, 57.7% Over 2.5 Poisson probability, and both sides scoring in 10 of 11 qualifiers (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 regulation draw or Win-Draw reversal driven by Iceland's 50% rate of recovering half-time deficits (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645403",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Greece U21",
+      "awayTeam": "Iceland U21",
+      "match_time": "17:00",
+      "match_highlight": "Reshuffled Greek backline faces resilient Iceland in decisive 1:1 play-off return.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645403,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Greece U21's leading 2:1 home-win script and the 1:1 regulation stalemate, as verified defensive withdrawals prevent a single win call from safely isolating the tie."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.00 combined Poisson goal expectancy, 57.7% Over 2.5 probability, and both nations scoring in 10 of their last 11 qualifying fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Balances the highest-probability Greece U21 home win scoreline (2:1, 9.3%) with the modal 1:1 stalemate (11.0%) seen in the first leg."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Targets the joint-peak 3-goal and 2-goal Poisson bands (22.4% each), directly aligned with the 2:1 and 1:1 projected scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Reflects Greece U21's 80% home half-time lead rate while covering Iceland's 50% deficit-recovery capacity if Greece's patched-up defense concedes after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 05:17:58 UTC"
+}
