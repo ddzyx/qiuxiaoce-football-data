@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1646121,
+    "matchup": "England U21 vs France U21",
+    "home_team": "England U21",
+    "away_team": "France U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-16 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261116-england-u21-vs-france-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "England U21 vs France U21 Tactical Breakdown & Preview: Squad Absences Test Both Attacks",
+    "meta": {
+      "matchId": "1646121",
+      "league": "Friendlies",
+      "matchup": "England U21 vs France U21",
+      "matchTime": "2026-11-16 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "England U21's Ashton Gate continuity and superior available depth against a depleted French attack support a Home Win / Draw projection in a tight Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by narrow home victory with stalemate coverage (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.25 combined lambda and missing forwards (Confidence: Moderate, Value: High)",
+      "1:1 stalemate hedge if England struggle to unlock France's mid-block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646121",
+      "league": "Friendlies",
+      "homeTeam": "England U21",
+      "awayTeam": "France U21",
+      "match_time": "19:30",
+      "match_highlight": "Depleted France attack visits Ashton Gate as England seek scoring spark.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1646121,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 England breakthrough driven by home bench depth and a 1:1 draw given recent English scoring droughts, as friendly rotation makes a single call weaker."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.25 goal lambda and absences for Tel, Mayulu, Odobert, and Gittens keep scoring expectation below 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "Modal 1:1 Poisson convergence reflects balanced friendly caution, while 1:0 captures England shutting down France's weakened front line."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson goal density peaks at 2 goals (26.7%) and 1 goal (23.7%) under a 2.25 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious level first half gives way either to England's second-half bench quality or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 07:45:55 UTC"
+}
