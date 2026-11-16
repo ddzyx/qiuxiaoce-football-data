@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1627106,
+    "matchup": "Norwich City U21 vs Exeter U21",
+    "home_team": "Norwich City U21",
+    "away_team": "Exeter U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-16 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-norwich-city-u21-vs-exeter-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Norwich City U21 vs Exeter U21 Tactical Breakdown: Can Norwich Contain Exeter's Cup Attack?",
+    "meta": {
+      "matchId": "1627106",
+      "league": "Premier League Cup",
+      "matchup": "Norwich City U21 vs Exeter U21",
+      "matchTime": "2026-11-16 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norwich City U21's home advantage and 3-1 September win tilt Group G in their favor, but leaking 18 goals in five matches makes Home Win / Draw with Over 2.5 goals the balanced projection.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw anchored on Norwich City U21's Group G edge and Exeter's transition threat (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals backed by verified Group G scoring averages of 3.67 and 6.33 goals per match (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Win-Draw HT/FT covering Norwich's fast starts against Exeter's second-half comeback power (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627106",
+      "league": "Premier League Cup",
+      "homeTeam": "Norwich City U21",
+      "awayTeam": "Exeter U21",
+      "match_time": "19:00",
+      "match_highlight": "Norwich's Group G edge meets Exeter's free-scoring cup attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1627106,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Norwich City U21's home and 3-1 H2H superiority (2:1) alongside a 2:2 stalemate triggered by Norwich's 18 goals conceded across their last five matches, whereas a single Home Win overlooks unconfirmed U21 lineups and Exeter's Group G scoring surge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Verified Group G matches for both teams average 3.67 (Norwich) and 6.33 (Exeter) goals, overriding the sparse 2.25 package Poisson total."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Norwich's home attacking edge and Exeter's leaky Group G defense, while 2:2 captures Exeter's high-scoring resilience against Norwich's porous back four."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Matches the open 3-to-4 goal tempo seen in five of six verified Group G matches involving these two clubs and seven of Norwich's last eight overall."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win models a tight first half before fresher Norwich legs decide it late, while Win-Draw covers an early Norwich surge pegged back by Exeter's second-half rally."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 07:09:16 UTC"
+}
