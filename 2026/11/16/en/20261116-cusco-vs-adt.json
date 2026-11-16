@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1549558,
+    "matchup": "Cusco vs ADT",
+    "home_team": "Cusco",
+    "away_team": "ADT",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-16 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261116-cusco-vs-adt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cusco vs ADT Prediction & Match Analysis: Home Firepower vs Survival Grit — Scoreline Preview",
+    "meta": {
+      "matchId": "1549558",
+      "league": "Primera División",
+      "matchup": "Cusco vs ADT",
+      "matchTime": "2026-11-16 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw as Cusco's 2.13-goals-per-game home attack faces winless-away ADT, while retaining the draw hedge for Cusco's recent defensive and finishing wobble.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Home Win / Draw — Cusco Win leads at altitude behind 17 home goals in 8 Clausura games, while Draw covers recent scoring lapses and ADT's four-match unbeaten push (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle (Value): Over 2.5 Goals — Driven by a 2.78 combined goal-expectancy lambda, Cusco's 3.63 total-goals home average, and four of the last five H2H meetings clearing 2.5 (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle (Hedge / Upset): 1:1 Exact Score / Draw-Draw HT-FT — Covers the stalemate branch if ADT's survival-driven low block frustrates Cusco's 63.6% big-chance waste rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549558",
+      "league": "Primera División",
+      "homeTeam": "Cusco",
+      "awayTeam": "ADT",
+      "match_time": "20:15",
+      "match_highlight": "Cusco home firepower meets winless-away ADT in high-stakes Clausura finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549558,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Cusco Win leads behind 5W-0D-3L home form against 0W-3D-5L away ADT, while Draw is retained because a single Home Win call ignores Cusco's two-match scoreless slump and ADT's relegation resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.78 combined lambda (52.6% Over 2.5 probability), Cusco's 17 GF / 12 GA in 8 home games, and 4 of 5 recent H2H clashes clearing 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Cusco's home scoring edge alongside their 1.44 GA/match rate, while 1:1 covers ADT's recent away draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the primary 2:1 script and open home metrics, while 2 goals capture the modal 24.0% Poisson total and 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Cusco seizing early control at altitude, whereas Draw-Draw covers ADT holding level through both halves in survival mode."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 08:38:42 UTC"
+}
