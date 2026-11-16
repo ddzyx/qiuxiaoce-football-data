@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545617,
+    "matchup": "Iceland vs Luxembourg",
+    "home_team": "Iceland",
+    "away_team": "Luxembourg",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-iceland-vs-luxembourg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Iceland vs Luxembourg Tactical Breakdown & Probabilistic Modeling: Can Depleted Visitors Break Through?",
+    "meta": {
+      "matchId": "1545617",
+      "league": "UEFA Nations League",
+      "matchup": "Iceland vs Luxembourg",
+      "matchTime": "2026-11-16 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Iceland hold a decisive structural and personnel edge to secure a clean-sheet Home Win against a scoreless, midfield-depleted Luxembourg side.",
+    "possibilityAssessment": [
+      "Iceland Home Win anchored by 2.40 goals per match and four clean sheets in five games against a depleted visitor (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and 2:0 correct score supported by a 2.30 combined lambda and Luxembourg's four-match scoring drought (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win HT/FT contingency if Dirk Carlson's defensive return stalls Iceland's attack before half-time (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545617",
+      "league": "UEFA Nations League",
+      "homeTeam": "Iceland",
+      "awayTeam": "Luxembourg",
+      "match_time": "17:00",
+      "match_highlight": "In-form Iceland attack faces scoreless, midfield-depleted Luxembourg in Group C4 finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545617,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Iceland's 2.40 goals-per-game attack, 0.20 concession rate, and 3:0 reverse-fixture dominance point cleanly to a 2:0 or 3:0 home victory against depleted Luxembourg."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "With aligned xG unavailable, a 2.30 goal-based lambda total (59.6% Under 2.5 in Poisson) and Luxembourg's four-match goalless run favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 leads the 20.1% Poisson peak under home game management, while 3:0 captures Iceland's 100% rate of winning Group C4 fixtures by three-plus goals."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (26.5%) and 3 goals (20.3%) represent the two highest-density outcomes around Iceland's 2.00 home lambda and Luxembourg's 0.30 away lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Iceland led at half-time in four of five group games while Luxembourg trailed and lost in four of five, with Draw-Win covering a compact first half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 05:14:23 UTC"
+}
