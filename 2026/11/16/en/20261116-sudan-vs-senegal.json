@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545906,
+    "matchup": "Sudan vs Senegal",
+    "home_team": "Sudan",
+    "away_team": "Senegal",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-16 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-sudan-vs-senegal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sudan vs Senegal Prediction & Match Analysis: Can Appiah's Block Contain Jackson? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545906",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Sudan vs Senegal",
+      "matchTime": "2026-11-16 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Senegal for an outright regulation-time Away Win in Juba as their multi-pronged attack exploits Sudan's fragile 2.67 goals-conceded qualifying defense.",
+    "possibilityAssessment": [
+      "Senegal Away Win backed by 2.00 goals per qualifier and a 466-point Elo edge (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by a 3.16 combined goal lambda and 61.1% Poisson support (Confidence: Moderate, Value: Moderate)",
+      "0:2 Senegal clean-sheet control hedge if Sudan's low block slows the tempo in Juba (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545906",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Sudan",
+      "awayTeam": "Senegal",
+      "match_time": "13:00",
+      "match_highlight": "Senegal's frontline firepower tests Sudan's fragile defense in Juba.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545906,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Senegal's 2.00 goals per match and superior attacking depth justify a single Away Win over Sudan's leaking defense across both the 1:2 and 0:2 scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.16 combined goal lambda and Sudan's 2.67 goals conceded per qualifier point toward Over 2.5 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 reflects Senegal's superior quality alongside Sudan's set-piece threat, while 0:2 covers the top Poisson clean-sheet control scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.3%) and two goals (21.2%) represent the two highest-density outcomes in the Poisson total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Sudan's deeper Juba block can keep the first half level before Senegal pulls away after the break, with Loss-Loss covering an early away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 01:16:46 UTC"
+}
