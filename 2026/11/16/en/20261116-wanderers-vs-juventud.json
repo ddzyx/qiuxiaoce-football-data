@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649063,
+    "matchup": "Wanderers vs Juventud",
+    "home_team": "Wanderers",
+    "away_team": "Juventud",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-16 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-wanderers-vs-juventud/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wanderers vs Juventud Prediction & Match Analysis: Can Relegation Urgency Crack Juventud's Block?",
+    "meta": {
+      "matchId": "1649063",
+      "league": "Primera División",
+      "matchup": "Wanderers vs Juventud",
+      "matchTime": "2026-11-16 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventud's Clausura defensive edge supports Draw / Away Win alongside Under 2.5 goals in a tight penultimate-round fixture.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance balances Juventud's 41.9% Poisson win share against a 29.4% draw probability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals backed by a 2.12 combined lambda and 64.4% Poisson density under three goals (Confidence: Moderate, Value: Moderate)",
+      "Late second-half scoring surge if Wanderers' survival urgency opens transition space after 65 minutes (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649063",
+      "league": "Primera División",
+      "homeTeam": "Wanderers",
+      "awayTeam": "Juventud",
+      "match_time": "23:00",
+      "match_highlight": "Wanderers' survival urgency meets Juventud's stingy 0.77 goals-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649063,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Juventud's 0.77 goals-conceded rate backs a 0:1 away win, while their 50.0% big-chance waste and six Clausura draws make a 1:1 stalemate too likely to leave uncovered with a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.12 and a 64.4% Poisson Under 2.5 probability align with both sides averaging roughly one goal per Clausura match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Top Poisson scorelines reflect either Juventud grinding out a single transition strike or Wanderers' 16-day rest earning a level share."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two-goal (27.0%) and one-goal (25.4%) outcomes capture over half of the Poisson total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious opening tactics favor a level first half before Juventud either capitalize on late home risk or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 11:08:43 UTC"
+}
