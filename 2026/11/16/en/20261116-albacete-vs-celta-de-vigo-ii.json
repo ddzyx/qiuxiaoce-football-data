@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1570014,
+    "matchup": "Albacete vs Celta de Vigo II",
+    "home_team": "Albacete",
+    "away_team": "Celta de Vigo II",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-16 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261116-albacete-vs-celta-de-vigo-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Albacete vs Celta de Vigo II Prediction & Match Analysis: Can Etxeberria Exploit Nine Away Absences?",
+    "meta": {
+      "matchId": "1570014",
+      "league": "Segunda División",
+      "matchup": "Albacete vs Celta de Vigo II",
+      "matchTime": "2026-11-16 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Albacete is positioned to win or avoid defeat at Carlos Belmonte behind four-match winning momentum and Celta de Vigo II's nine-player defensive depletion, with a 2:1 home win leading and a 2:2 draw retained for late-fatigue risk.",
+    "possibilityAssessment": [
+      "Home Win / Draw via Albacete's fast-starting home attack exploiting three missing Celta defenders while covering a 2:2 late-fatigue draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by a 3.12 statistical goal-expectancy total and both sides conceding nearly 1.90 goals per league match (Confidence: Moderate, Value: High)",
+      "Win-Draw HT/FT hedge reflecting Albacete's 66.7% home half-time lead rate against its 50.0% home lead-not-won rate on four days of rest (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570014",
+      "league": "Segunda División",
+      "homeTeam": "Albacete",
+      "awayTeam": "Celta de Vigo II",
+      "match_time": "19:30",
+      "match_highlight": "Surging Albacete targets Celta's improvised defense depleted by nine confirmed absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570014,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home win driven by Celta's nine absences and a 2:2 draw given Albacete's 4.1-day rest and 1.85 goals-conceded rate, as a single win call understates Alvaro Marin's counter threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.12 combined lambda, both teams conceding 1.85 to 1.92 goals per match, and Celta's three missing starting defenders."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Albacete's recent two-plus goal run against a patched-up Celta backline, while 2:2 accounts for Albacete's home lead erosion on short rest."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns with the 3.12 goal expectancy and the high-tempo scoring profiles of both leaky defenses."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Albacete scores 85.7% of home league goals before half-time while Celta has zero recoveries from HT deficits, with Win-Draw covering home second-half fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 07:38:31 UTC"
+}
