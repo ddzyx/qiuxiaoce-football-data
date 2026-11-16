@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545662,
+    "matchup": "FYR Macedonia vs Slovenia",
+    "home_team": "FYR Macedonia",
+    "away_team": "Slovenia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261116-fyr-macedonia-vs-slovenia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FYR Macedonia vs Slovenia Tactical Breakdown & Probabilistic Modeling: Second-Half Scoring Asymmetry",
+    "meta": {
+      "matchId": "1545662",
+      "league": "UEFA Nations League",
+      "matchup": "FYR Macedonia vs Slovenia",
+      "matchTime": "2026-11-16 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Slovenia's superior goal prevention and second-half scoring surge against FYR Macedonia's porous home defense point to a controlled Away Win.",
+    "possibilityAssessment": [
+      "Slovenia Away Win driven by a 1.30 goal-expectancy gap and League A play-off motivation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by a 2.10 lambda total and Slovenia's 60% clean-sheet rate (Confidence: Moderate, Value: High)",
+      "Draw-Loss HT/FT reflecting Slovenia's 0% half-time lead rate and 80% second-half goal share (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545662",
+      "league": "UEFA Nations League",
+      "homeTeam": "FYR Macedonia",
+      "awayTeam": "Slovenia",
+      "match_time": "19:45",
+      "match_highlight": "Playoff-chasing Slovenia targets winless host leaking 2.40 goals per match.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545662,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A 0:2 or 0:1 script favours Slovenia given FYR Macedonia's 0W-0D-5L record, 2.40 goals conceded per match, and Bojan Miovski's omission."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.10 goal expectancy, Macedonia's 0.20 goals-per-game output, and Slovenia's 80.0% big-chance waste rate suppress total scoring."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "0:2 reflects Macedonia conceding 2+ goals in every group match, while 0:1 covers Slovenia's tighter ceiling without Elšnik and Šeško."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (27.0% Poisson) and 1 goal (25.7% Poisson) capture over half the total-goal distribution under a 2.10 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss aligns with Slovenia's 80% second-half goal share and September's 0:0 HT breakthrough, while Loss-Loss reflects Macedonia trailing at HT in both home ties."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 08:23:39 UTC"
+}
