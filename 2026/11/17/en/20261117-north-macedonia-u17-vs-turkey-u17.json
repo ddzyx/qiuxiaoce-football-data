@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559504,
+    "matchup": "North Macedonia U17 vs Turkey U17",
+    "home_team": "North Macedonia U17",
+    "away_team": "Turkey U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-north-macedonia-u17-vs-turkey-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "North Macedonia U17 vs Turkey U17 Prediction & Match Analysis: Can Ristikj Offset Pavlov's Ban?",
+    "meta": {
+      "matchId": "1559504",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "North Macedonia U17 vs Turkey U17",
+      "matchTime": "2026-11-17 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Turkey U17 are projected to secure a full-time victory and top spot in Group 11 in an Over 2.5 goals contest at Of İlçe Stadyumu.",
+    "possibilityAssessment": [
+      "Away Win backed by Turkey U17's 4.00 qualifying goals per game, zero conceded, and Trabzon host advantage (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by a 3.50 combined lambda and 67.9% Poisson probability across three-to-four-goal scripts (Confidence: Moderate, Value: Moderate)",
+      "1:2 tighter away-win script if Stefan Ristikj capitalizes on second-half spaces or late Turkish rotation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559504",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "North Macedonia U17",
+      "awayTeam": "Turkey U17",
+      "match_time": "11:00",
+      "match_highlight": "Pavlov's suspension tests North Macedonia against unbeaten Turkey in Trabzon.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559504,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Turkey U17's 8-0 qualifying goal difference, multi-scorer attack, and Pavlov's suspension support a single away-win call centered on 0:3."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.50 combined lambda and Turkey's 4.00 goals-per-match qualifying rate point firmly toward three or more goals."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:2"
+        ],
+        "comment": "0:3 reflects Turkey's two qualifying clean sheets against a depleted defense, while 1:2 covers Ristikj's second-half threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals represent the top two slices of the 3.50-lambda Poisson distribution at 21.6% and 18.9%."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss fits Turkey's pattern of leading both qualifiers at the break, while Draw-Loss covers a tighter first half before Turkey's bench pulls away."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 23:11:51 UTC"
+}
