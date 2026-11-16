@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1528988,
+    "matchup": "Estonia vs Bulgaria",
+    "home_team": "Estonia",
+    "away_team": "Bulgaria",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-estonia-vs-bulgaria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estonia vs Bulgaria Prediction & Match Analysis: Can Henn's Defense Extend Unbeaten Run? — Scoreline Preview",
+    "meta": {
+      "matchId": "1528988",
+      "league": "UEFA Nations League",
+      "matchup": "Estonia vs Bulgaria",
+      "matchTime": "2026-11-16 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Estonia's elite defensive solidity against Bulgaria's fragile back line favors a tight Home Win / Draw outcome under 2.5 goals.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Estonia lead through 0.20 goals conceded per match and Bulgaria's post-Iceland vulnerability, with Draw retained due to Estonia's 0.60 scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals — backed by a 1.7 combined goal lambda, 75.8% Poisson Under 2.5 share, and five consecutive low-scoring Estonia fixtures (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 1 Goal Exact Total — reflects the 1:0 convergence if Bulgaria tighten defensively after conceding five to Iceland (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528988",
+      "league": "UEFA Nations League",
+      "homeTeam": "Estonia",
+      "awayTeam": "Bulgaria",
+      "match_time": "17:00",
+      "match_highlight": "Estonia's four-clean-sheet defense meets Bulgaria's reeling 2.00-GA back line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528988,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:0 Estonia squeeze and the 0:0 stalemate, as Estonia's 0.60 scoring rate and 87.5% big-chance waste make a single win call overly exposed to another draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal lambda of 1.7, 75.8% Poisson Under 2.5 mass, and five straight Estonia matches at two goals or fewer support Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 matches Estonia's winning template and top Poisson density (23.7%), while 0:0 (18.3%) reflects their reverse-fixture stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (31.1%) and 2 goals (26.4%) dominate the Poisson distribution given both sides' 0.60 goals-per-game average."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Estonia won both League C4 victories via Win-Win with 66.7% first-half goals, while both level halftimes stayed Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 05:07:52 UTC"
+}
