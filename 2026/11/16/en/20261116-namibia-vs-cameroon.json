@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545900,
+    "matchup": "Namibia vs Cameroon",
+    "home_team": "Namibia",
+    "away_team": "Cameroon",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-16 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-namibia-vs-cameroon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Namibia vs Cameroon Prediction & Match Analysis: Can Brave Warriors End Scoring Drought? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545900",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Namibia vs Cameroon",
+      "matchTime": "2026-11-16 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cameroon are projected to secure a controlled away victory over Namibia in a low-scoring Group G contest.",
+    "possibilityAssessment": [
+      "Cameroon Away Win driven by superior Group G scoring output and first-leg dominance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.00 combined lambda and Namibia's four-match scoreless run (Confidence: Moderate, Value: High)",
+      "Draw hedge if Namibia's low block replicates their November 2024 neutral-site stalemate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545900",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Namibia",
+      "awayTeam": "Cameroon",
+      "match_time": "13:00",
+      "match_highlight": "Blunt Namibia attack faces disciplined Group G leaders Cameroon on neutral turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545900,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Projected 0:1 and 0:2 margins reflect Cameroon's clear attacking and defensive superiority over scoreless Namibia."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.00 combined lambda, Namibia's 0.33 Group G goals per game, and Cameroon's clean-sheet record point under 2.5."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "Poisson top-ranked away clean-sheet scorelines match Cameroon's road control and Namibia's scoring drought."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Model density peaks identically at 1 and 2 goals under a 2.00 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Cameroon can either strike early again before halftime or break a 0:0 low block after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 01:12:52 UTC"
+}
