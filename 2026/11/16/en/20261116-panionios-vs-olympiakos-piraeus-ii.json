@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1636987,
+    "matchup": "Panionios vs Olympiakos Piraeus II",
+    "home_team": "Panionios",
+    "away_team": "Olympiakos Piraeus II",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-16 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261116-panionios-vs-olympiakos-piraeus-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Panionios vs Olympiakos Piraeus II Prediction: New Coach Debut vs Leaky Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1636987",
+      "league": "Super League 2",
+      "matchup": "Panionios vs Olympiakos Piraeus II",
+      "matchTime": "2026-11-16 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Panionios carry the stronger 10-round defensive and scoring profile at Nea Smyrni Stadium against an Olympiakos Piraeus II backline allowing 2.20 goals per match, warranting a Home Win / Draw projection led by a 2:1 home victory.",
+    "possibilityAssessment": [
+      "Home Win / Draw direction prioritizing Panionios victory alongside a 1:1 stalemate hedge (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 2.85 combined Poisson lambda and four consecutive 3+ goal matches for Olympiakos Piraeus II (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw script capturing potential early tactical friction in Dimitris Koropoulis's first match without Rafail Pettas (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636987",
+      "league": "Super League 2",
+      "homeTeam": "Panionios",
+      "awayTeam": "Olympiakos Piraeus II",
+      "match_time": "12:45",
+      "match_highlight": "Dimitris Koropoulis debuts at Nea Smyrni against leaky Olympiakos Piraeus II.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636987,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 Panionios win against a 2.20-GA defense and the 1:1 draw branch given Koropoulis's four-day debut and Pettas's absence, where a single win call leaves the modal stalemate uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.85 combined Poisson lambda (54.3% Over 2.5 probability) and Olympiakos Piraeus II conceding 2+ goals in four consecutive matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Panionios's home attacking edge paired with the visitors' 1.30 goals-per-game threat, while 1:1 covers the top Poisson stalemate outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 and 2 goals capture 45.8% of the Poisson distribution and align directly with the 2:1 and 1:1 tactical scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cautious opening half during Koropoulis's debut before Panionios either break clear after the interval or remain locked at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 01:08:48 UTC"
+}
