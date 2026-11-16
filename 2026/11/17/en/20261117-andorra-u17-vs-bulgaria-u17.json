@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559492,
+    "matchup": "Andorra U17 vs Bulgaria U17",
+    "home_team": "Andorra U17",
+    "away_team": "Bulgaria U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-andorra-u17-vs-bulgaria-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Andorra U17 vs Bulgaria U17 Tactical Breakdown & Modeling: Exploiting Defensive Frailty in Oeiras",
+    "meta": {
+      "matchId": "1559492",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Andorra U17 vs Bulgaria U17",
+      "matchTime": "2026-11-17 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bulgaria U17 possess the attacking quality and tactical continuity required to defeat a winless, goalless Andorra U17 side in Oeiras.",
+    "possibilityAssessment": [
+      "Away Win for Bulgaria U17 driven by superior Group 6 scoring output and Andorra's four-goal-per-game defensive concession rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals anchored by a 3.50 combined Poisson goal expectancy and Bulgaria's incentive to chase goal difference (Confidence: Moderate, Value: Moderate)",
+      "Bulgaria U17 2:0 clean-sheet hedge covering potential first-half Andorra low-block resistance and Matchday 3 rotation (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559492",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Andorra U17",
+      "awayTeam": "Bulgaria U17",
+      "match_time": "11:00",
+      "match_highlight": "Bulgaria U17 attack meets Andorra's four-goal-per-game defense in Oeiras.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559492,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Backed by Bulgaria's scoring displays against Portugal and Serbia against an Andorra side conceding four goals per match without scoring."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.50 combined goal expectancy, 67.9% Poisson Over 2.5 density, and Andorra's repeated second-half defensive collapses."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "Reflects Andorra's three-match scoring drought paired with Bulgaria's capacity to score two to three goals against Group 6's weakest defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads the Poisson distribution at 21.6%, while 2 goals covers conservative lead management on a 68-hour turnaround."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Andorra trailed at halftime in both Group 6 losses, while Draw-Loss covers Bulgaria's pattern of scoring after the 70th minute."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 23:08:08 UTC"
+}
