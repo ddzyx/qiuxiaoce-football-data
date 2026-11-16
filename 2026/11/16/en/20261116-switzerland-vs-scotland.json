@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545652,
+    "matchup": "Switzerland vs Scotland",
+    "home_team": "Switzerland",
+    "away_team": "Scotland",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-16 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261116-switzerland-vs-scotland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Switzerland vs Scotland Tactical Breakdown & Probabilistic Modeling: Rotation Risk vs Playoff Urgency",
+    "meta": {
+      "matchId": "1545652",
+      "league": "UEFA Nations League",
+      "matchup": "Switzerland vs Scotland",
+      "matchTime": "2026-11-16 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Retain Home Win / Draw alongside Under 2.5 goals as Switzerland's superior home baseline meets confirmed dead-rubber rotation.",
+    "possibilityAssessment": [
+      "Primary: Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Secondary: Under 2.5 Goals with 2 or 1 total goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency: 1:1 Draw via second-half Scottish set-piece or transition pressure (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545652",
+      "league": "UEFA Nations League",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Scotland",
+      "match_time": "19:45",
+      "match_highlight": "Rotated Swiss defense without Akanji faces urgent Scotland seeking playoff hopes.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545652,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:0 Swiss home victory and a 1:1 stalemate, as confirmed host rotation and missing starters prevent backing a single win safely."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.30 combined goal-based lambda, Switzerland's 0.20 goals conceded per match, and Scotland's 1.00 goals-per-match attack."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Reflects Switzerland's home depth breaking a late-pushing Scotland side or rotated Swiss chemistry yielding a tight one-all draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the 2.30 Poisson total where one-to-two goals account for nearly half of the simulated distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Models a cautious, level first half from a rotated Swiss XI before second-half urgency yields either a home breakthrough or a deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 08:20:18 UTC"
+}
