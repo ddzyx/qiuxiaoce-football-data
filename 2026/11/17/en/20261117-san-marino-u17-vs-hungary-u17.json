@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559507,
+    "matchup": "San Marino U17 vs Hungary U17",
+    "home_team": "San Marino U17",
+    "away_team": "Hungary U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-san-marino-u17-vs-hungary-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "San Marino U17 vs Hungary U17 Preview & Tactical Breakdown: Can San Marino Exploit Hungary's Leaks?",
+    "meta": {
+      "matchId": "1559507",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "San Marino U17 vs Hungary U17",
+      "matchTime": "2026-11-17 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "MatchMind AI projects Draw / Away Win with Over 2.5 Goals, prioritizing a narrow 1:2 Hungary U17 win while retaining a 1:1 stalemate in a dead-rubber Group 11 finale.",
+    "possibilityAssessment": [
+      "Draw / Away Win primary 1X2 thesis covering Hungary U17's attacking edge alongside draw risk (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals with 3 goals primary and 2 goals secondary anchored by a 3.5 combined goal lambda (Confidence: Low, Value: Moderate)",
+      "Draw-Draw half-time/full-time contingency if San Marino U17's compact block frustrates rotated Hungarian starters (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559507",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "San Marino U17",
+      "awayTeam": "Hungary U17",
+      "match_time": "11:00",
+      "match_highlight": "Eliminated Hungary's leaky defense meets San Marino's resilient low block.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559507,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A 1:2 Hungary win leads on superior attacking talent, while 1:1 covers their 3.5 goals conceded per game and dead-rubber rotation risk where a single win call is too exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.5 combined lambda, Hungary's 4.5-goal Group 11 match average, and five straight Hungarian games without a clean sheet."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Hungary breaking down San Marino while leaking a goal; 1:1 captures a compact San Marino resistance in an eliminated finale."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals is the 21.6% Poisson mode matching 1:2, while two goals covers the tighter 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "San Marino held 0:0 at half-time against North Macedonia before losing, making a level interval followed by either a Hungary winner or full-time draw most plausible."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 23:15:47 UTC"
+}
