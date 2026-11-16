@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647367,
+    "matchup": "Yemen vs Malaysia",
+    "home_team": "Yemen",
+    "away_team": "Malaysia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-yemen-vs-malaysia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yemen vs Malaysia Prediction & Match Analysis: Can Depleted Tigers Resist? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647367",
+      "league": "Friendlies",
+      "matchup": "Yemen vs Malaysia",
+      "matchTime": "2026-11-17 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Retain Yemen Win or Draw alongside Under 2.5 Goals, as Malaysia's omitted JDT spine, six Selangor injury withdrawals, and Fergus Tierney suspension tilt continuity toward Yemen in a tight neutral-site friendly.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Yemen's intact Al-Matari and Sabarah attacking pairing faces a heavily depleted Malaysian backline, while draw coverage respects Dion Cools's compact 3-4-3 resistance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals: A 2.25 combined Poisson lambda and Malaysia's missing forward firepower concentrate 60.9% probability within zero to two total goals (Confidence: Moderate, Value: Moderate)",
+      "1:1 Score Draw: Yemen's recent defensive lapses against Bahrain leave room for an improvised Malaysian equalizer in an otherwise low-margin contest (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647367",
+      "league": "Friendlies",
+      "homeTeam": "Yemen",
+      "awayTeam": "Malaysia",
+      "match_time": "06:00",
+      "match_highlight": "Yemen's intact spine tests Malaysia's Tierney-less reshuffled 3-4-3.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647367,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Yemen win driven by Malaysia's confirmed absences and a 1:1 draw built on Malaysia's compact back three, avoiding a single win call given Yemen's neutral-site defensive leaks."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal expectancy (60.9% under-2.5 Poisson share) and Malaysia losing primary attacking threats."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances Yemen's slight 1.20 vs 1.05 goal-expectancy edge against the highest-density 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals represent the two peak Poisson counts at 26.7% and 23.7% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cautious, level opening 45 minutes before Yemen either break through late or share the spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 18:12:31 UTC"
+}
