@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640014,
+    "matchup": "Guyana vs Puerto Rico",
+    "home_team": "Guyana",
+    "away_team": "Puerto Rico",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-16 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261116-guyana-vs-puerto-rico/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guyana vs Puerto Rico Prediction & Match Analysis: Can Puerto Rico Crack Leonora? — Scoreline Preview",
+    "meta": {
+      "matchId": "1640014",
+      "league": "CONCACAF Nations League",
+      "matchup": "Guyana vs Puerto Rico",
+      "matchTime": "2026-11-16 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Guyana's home rest advantage and intact attacking core support a controlled Home Win / Draw projection in an Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Guyana Win / Draw driven by 96-hour recovery, Leonora home edge, and tight Poisson parity (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.25 combined goal expectancy and September's 0–1 reverse fixture (Confidence: Moderate, Value: High)",
+      "1:1 Stalemate hedge if Puerto Rico's defensive block holds and Guyana manage late-game risk (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640014",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Guyana",
+      "awayTeam": "Puerto Rico",
+      "match_time": "19:00",
+      "match_highlight": "Guyana seek unbeaten Group A finish against resilient Puerto Rico.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640014,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Guyana's home win edge (1:0) and a controlled 1:1 draw, as a single Home Win call understates the slim 0.15 lambda gap and Guyana's +20 GD cushion."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined Poisson lambda (60.9% Under 2.5 share) and September's tight 0–1 meeting."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Guyana breaking down a tiring defense late, while 1:1 captures the highest-density Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) are the top two Poisson total-goal buckets."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Puerto Rico's first-half compactness points to a level interval before second-half fatigue decides between a Guyana winner or draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-16 07:23:09 UTC"
+}
