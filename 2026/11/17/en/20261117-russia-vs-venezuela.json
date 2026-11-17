@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647371,
+    "matchup": "Russia vs Venezuela",
+    "home_team": "Russia",
+    "away_team": "Venezuela",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-russia-vs-venezuela/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Russia vs Venezuela Tactical Breakdown & Match Analysis: Can Tired Vinotinto Hold Host Attack?",
+    "meta": {
+      "matchId": "1647371",
+      "league": "Friendlies",
+      "matchup": "Russia vs Venezuela",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Russia's 52-hour rest advantage, unbeaten 2026 home record, and superior second-half bench depth anchor a low-scoring Home Win or Draw projection under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Russia's 5W-2D-0L home record and Venezuela's 69-hour travel turnaround (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.25 combined lambda, 60.9% baseline Under probability, and Venezuela's 3-match scoreless run (Confidence: Moderate, Value: Moderate)",
+      "Exact 1:1 Draw contingency covering Golovin's absence and Russia's rotated backline conceding in transition (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647371",
+      "league": "Friendlies",
+      "homeTeam": "Russia",
+      "awayTeam": "Venezuela",
+      "match_time": "16:00",
+      "match_highlight": "Fresh Russia bench targets tired Venezuela after 69-hour Bilbao turnaround.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647371,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Russia's home-rest victory script and a low-scoring draw if Golovin's absence stalls early penetration; an away win lacks attacking support."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with the 2.25 combined lambda (60.9% Under 2.5 probability) and Venezuela's 0.39 decayed goals-for average across three scoreless matches."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Russia's five 2+ goal home wins and 71.4% home clean sheets, while 1:1 covers the Poisson modal draw script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7% Poisson share) and 1 goal (23.7% share) capture both the 2:0/1:1 primary scores and a tight 1:0 attrition finish."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Venezuela's 60% away half-time draw rate and Golovin's absence point to a level break before Russia's fitter bench decides or splits the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 05:08:39 UTC"
+}
