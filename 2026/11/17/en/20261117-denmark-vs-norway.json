@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528993,
+    "matchup": "Denmark vs Norway",
+    "home_team": "Denmark",
+    "away_team": "Norway",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-denmark-vs-norway/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Denmark vs Norway Prediction & Match Analysis: Can Haaland Breach Parken? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1528993",
+      "league": "UEFA Nations League",
+      "matchup": "Denmark vs Norway",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Target a decisive Home Win / Away Win outcome led by Denmark alongside Over 2.5 and BTTS: Yes, anchored by a 3.70 combined lambda and both teams' zero-draw Nations League records.",
+    "possibilityAssessment": [
+      "Primary direction: Home Win / Away Win prioritizing Denmark via 2.00 home lambda and Norway's 0W-2L road record (Confidence: Moderate, Value: High)",
+      "Goal expectancy focus: Over 2.5 Goals and BTTS Yes backed by 71.5% and 70.7% Poisson baselines (Confidence: High, Value: Moderate)",
+      "Early disruption branch: Loss-Loss HT/FT contingency if Haaland and Ødegaard exploit Denmark's Christensen-less defense before half-time (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528993",
+      "league": "UEFA Nations League",
+      "homeTeam": "Denmark",
+      "awayTeam": "Norway",
+      "match_time": "19:45",
+      "match_highlight": "Højlund's second-half surge tests Haaland and Ødegaard in decisive Copenhagen showdown.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528993,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Retains Denmark's 2:1 second-half edge over Norway's zero-clean-sheet away defense alongside Norway's 1:2 must-win strike against a Christensen-less backline, as neither side has drawn in five group games."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.70 combined lambda, 71.5% Poisson Over 2.5 probability, and Norway hitting 3+ goals in all five group matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams have scored in 5 of 5 Nations League matches while Norway hold a 0% clean-sheet rate and Denmark miss Andreas Christensen."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:2"
+        ],
+        "comment": "2:1 reflects Denmark's 72.7% second-half goal share against Norway's 1:2 away loss pattern, while 1:2 covers Haaland and Ødegaard punishing Danish defensive absences."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (20.9%) and four (19.3%) goals sit atop the Poisson total-goals distribution, driven by late qualification pressure."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Win mirrors Norway's 2-for-2 level away half-times followed by Danish second-half control, while Loss-Loss reflects Denmark's 0% recovery rate when trailing at half-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:08:24 UTC"
+}
