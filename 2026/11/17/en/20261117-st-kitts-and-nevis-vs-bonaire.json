@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1640016,
+    "matchup": "St. Kitts and Nevis vs Bonaire",
+    "home_team": "St. Kitts and Nevis",
+    "away_team": "Bonaire",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-st-kitts-and-nevis-vs-bonaire/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St. Kitts and Nevis vs Bonaire Tactical Breakdown & Probabilistic Modeling: Can Bonaire Contain Williams?",
+    "meta": {
+      "matchId": "1640016",
+      "league": "CONCACAF Nations League",
+      "matchup": "St. Kitts and Nevis vs Bonaire",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project a St. Kitts and Nevis victory in a match exceeding 2.5 goals as Group C attacking continuity meets a fragile Bonaire backline.",
+    "possibilityAssessment": [
+      "Home Win — St. Kitts and Nevis (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640016",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "St. Kitts and Nevis",
+      "awayTeam": "Bonaire",
+      "match_time": "19:00",
+      "match_highlight": "Williams targets Bonaire after 1:7 collapse in Havana",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640016,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by 3:1 and 2:1 projections as St. Kitts and Nevis pair 12 Group C goals with a 2:1 reverse-fixture win against a winless-in-four Bonaire defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "All five St. Kitts and Nevis Group C matches and four of Bonaire's five cleared 2.5 goals, overriding the lagging 2.25 baseline lambda."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides found the net in four of their five Group C outings, with St. Kitts and Nevis keeping just one clean sheet and Bonaire averaging 3.00 conceded."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 captures second-half separation against Bonaire's porous block while 2:1 mirrors their September 25 Group C clash."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Group C fixtures involving both teams average over four goals per match alongside Bonaire's recent second-half defensive drop-off."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Reflects the 1:1 interval script from September 25 and Bonaire's second-half collapse against Cuba, with Win-Win covering an early Williams strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 12:13:04 UTC"
+}
