@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545907,
+    "matchup": "Tanzania vs Nigeria",
+    "home_team": "Tanzania",
+    "away_team": "Nigeria",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-tanzania-vs-nigeria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tanzania vs Nigeria Tactical Breakdown & Probabilistic Modeling: Can Super Eagles Overcome Missing Stars?",
+    "meta": {
+      "matchId": "1545907",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Tanzania vs Nigeria",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nigeria's superior midfield control and second-half attacking depth support an away victory over Tanzania despite the absences of Victor Osimhen and Ademola Lookman.",
+    "possibilityAssessment": [
+      "Primary Thesis: Nigeria secure an ordinary away victory powered by Tolu Arokodare, Moses Usor, and Alex Iwobi exploiting Tanzania's leaky backline (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 total goals backed by a 3.00 combined goal expectancy and Nigeria's run of six straight matches without a clean sheet (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: A tighter 0:2 road win if Nigeria manage tempo in Zanzibar's afternoon heat and Tanzania's 0.67 goals-per-game qualifying attack struggles to break through (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545907",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Tanzania",
+      "awayTeam": "Nigeria",
+      "match_time": "13:00",
+      "match_highlight": "Arokodare leads depleted Super Eagles against co-hosts in Zanzibar.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545907,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Nigeria's second-half attacking depth, 454-point Elo superiority, and must-win Group L stakes outweigh their key forward absences for a 1:2 or 0:2 road win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda total, Nigeria's five-match Over 2.5 streak, and both teams' defensive vulnerabilities point toward three or more goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Nigeria's superior firepower alongside their six-match concession streak, while 0:2 reflects a tighter controlled shutout if Tanzania's attack stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals share the top probability density in the Poisson baseline around a 3.00 combined expectancy, aligning with the 1:2 and 0:2 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Nigeria frequently level at half-time before asserting second-half depth (Draw-Loss), while Loss-Loss covers a fast start against Tanzania's depleted defence."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:26:02 UTC"
+}
