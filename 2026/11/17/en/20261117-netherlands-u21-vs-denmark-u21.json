@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645405,
+    "matchup": "Netherlands U21 vs Denmark U21",
+    "home_team": "Netherlands U21",
+    "away_team": "Denmark U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-netherlands-u21-vs-denmark-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Netherlands U21 vs Denmark U21 Tactical Breakdown: Aggregate Cushion Meets Danish Urgency",
+    "meta": {
+      "matchId": "1645405",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Netherlands U21 vs Denmark U21",
+      "matchTime": "2026-11-17 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Netherlands U21 are projected to remain unbeaten at Yanmar Stadion behind home transition efficiency and disciplined management of their 3:0 aggregate cushion.",
+    "possibilityAssessment": [
+      "Netherlands U21 avoid defeat via transition pace and home control (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by a 2.87 lambda total and Danish second-half urgency (Confidence: Moderate, Value: Moderate)",
+      "Controlled stalemate or late Danish consolation goal if Dutch rotation lowers intensity (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645405",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Netherlands U21",
+      "awayTeam": "Denmark U21",
+      "match_time": "17:30",
+      "match_highlight": "Netherlands U21 protect a 3-0 aggregate cushion against desperate Denmark U21.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645405,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a home transition victory (2:1) alongside a low-urgency stalemate (1:1) because Jong Oranje's 3-0 aggregate cushion and squad absences make a single win call unnecessary."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.87 combined goal lambda, 54.6% Poisson Over 2.5 baseline, and Denmark's need to commit numbers forward after trailing 3-0."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Dutch transition finishing against an exposed Danish defense, while 1:1 reflects controlled home game management."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with our primary 2:1 transition script and 2.87 lambda total, with 2 goals covering the controlled 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides have high half-time draw rates and strong second-half goal shares, pointing to an even opening half before either a Dutch counter win or shared spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 06:09:48 UTC"
+}
