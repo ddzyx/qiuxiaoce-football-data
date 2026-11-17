@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1545901,
+    "matchup": "Niger vs Morocco",
+    "home_team": "Niger",
+    "away_team": "Morocco",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-niger-vs-morocco/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Niger vs Morocco Prediction & Match Analysis: Can Neghiz's Mena Slow Hakimi's Attack? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545901",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Niger vs Morocco",
+      "matchTime": "2026-11-17 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Morocco are projected to secure an away victory in Rabat behind a 2.83 goal expectancy, superior Group A scoring efficiency, and Niger's lack of true home advantage.",
+    "possibilityAssessment": [
+      "Away Win driven by Morocco's +519 Elo gap, 3.0 qualifying goals per game, and Rabat venue familiarity (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS: No anchored by Morocco's 2.83 scoring lambda and 66.7% qualifying clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "0:2 controlled-margin script if Mohamed Ouahbi manages minutes after establishing a two-goal lead (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545901",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Niger",
+      "awayTeam": "Morocco",
+      "match_time": "20:00",
+      "match_highlight": "Morocco chase early AFCON qualification on home soil against porous Niger.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545901,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by the 0:3 core scoreline, Morocco's 3.0 goals per qualifier and effective home turf in Rabat overwhelm a Niger side conceding 2.67 per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 3.50 lambda total and Niger's 2.67 goals conceded per qualifier point to at least three goals, driven primarily by Morocco's 2.83 attacking expectancy."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Morocco have kept clean sheets in two of three qualifiers with a 51.2% Poisson shutout expectation against Niger's 0.67 goal lambda."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "0:3 aligns with Morocco's 2.83 lambda and clean-sheet edge, while 0:2 covers the controlled lead-management script seen against Gabon and Lesotho."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.6%) and four (18.9%) goals sit atop the Poisson goal distribution, reflecting Morocco's ability to clear 2.5 goals independently."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Morocco led at half-time and won all three qualifiers (Loss-Loss from home view), while Draw-Loss covers a compact Niger opening half before second-half fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:15:18 UTC"
+}
