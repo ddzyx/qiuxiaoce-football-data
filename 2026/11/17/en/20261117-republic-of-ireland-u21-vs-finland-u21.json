@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1645404,
+    "matchup": "Republic of Ireland U21 vs Finland U21",
+    "home_team": "Republic of Ireland U21",
+    "away_team": "Finland U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-republic-of-ireland-u21-vs-finland-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Republic of Ireland U21 vs Finland U21 Prediction: Can Hosts Flip the 1-0 Deficit? — Scoreline Preview",
+    "meta": {
+      "matchId": "1645404",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Republic of Ireland U21 vs Finland U21",
+      "matchTime": "2026-11-17 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Model projections favour Finland U21 to avoid defeat in Cork (Draw / Away Win), anchored by a 1:2 away win and 1:1 draw script alongside Over 2.5 Goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Finland U21's 1.88 vs 1.13 lambda edge and aggregate transition leverage lead, paired with a 1:1 draw cover (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals: 3.01 combined lambda and Ireland's 100% home scoring rate support a 3-goal primary outcome over a 2-goal branch (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes: Ireland has scored in all five home qualifiers while keeping one clean sheet, and Finland has scored in every away qualifier (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645404",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Republic of Ireland U21",
+      "awayTeam": "Finland U21",
+      "match_time": "17:45",
+      "match_highlight": "Finland defends a 1-0 lead in Cork without injured attacker Tauriainen.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645404,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Finland U21's 1:2 transition-win lead and the 1:1 aggregate-protection draw, as Ireland's 100% home unbeaten record prevents a single away-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.01 combined goal lambda, Finland's 2.38 goals per match, and Ireland's need to attack at Turner's Cross."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ireland has scored in 5 of 5 home qualifiers (20% clean sheets) while Finland has scored in 5 of 5 away qualifiers."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Finland exploiting late Irish space on the counter; 1:1 reflects Finland managing its first-leg cushion after a home equalizer."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 Goals (22.4% Poisson) and 2 Goals (22.3% Poisson) anchor the 1:2 primary and 1:1 secondary second-leg scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Ireland's 60% home half-time draw rate meets Finland's 60% second-half away goal share, separating a late Finnish winner from a held draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 10:12:52 UTC"
+}
