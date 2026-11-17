@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649552,
+    "matchup": "Poland U21 vs Serbia U21",
+    "home_team": "Poland U21",
+    "away_team": "Serbia U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-poland-u21-vs-serbia-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland U21 vs Serbia U21 Prediction & Match Analysis: Pinatar Continuity vs Serbian Rotation — Preview",
+    "meta": {
+      "matchId": "1649552",
+      "league": "Friendlies",
+      "matchup": "Poland U21 vs Serbia U21",
+      "matchTime": "2026-11-17 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Retain Poland U21 Win or Draw alongside Under 2.5 goals in a low-margin neutral-site friendly where tactical organization outweighs open risk.",
+    "possibilityAssessment": [
+      "Poland U21 Win / Draw captures the narrow 0.15 lambda edge and second-half substitution uncertainty (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals aligns with the 2.25 combined goal expectancy and 60.9% Poisson concentration in zero to two goals (Confidence: Moderate, Value: High)",
+      "1:1 draw hedge accounts for Serbia U21's fresh rotated legs counter-punching Poland's late-game bench changes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649552",
+      "league": "Friendlies",
+      "homeTeam": "Poland U21",
+      "awayTeam": "Serbia U21",
+      "match_time": "17:00",
+      "match_highlight": "Pinatar continuity meets Serbian friendly rotation in a tight tactical test.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649552,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Poland U21 breakthrough and a 1:1 neutral-site stalemate, as friendly rotation prevents relying on a single winner alone."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda yields 60.9% Under 2.5 probability as both U21 sides prioritize compact shape and second-half testing."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Anchors on Poland's recent clean-sheet discipline at Pinatar Arena alongside the modal 1:1 Poisson deadlock."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Targets the top two Poisson goal counts (26.7% and 23.7%) consistent with identical 2:0 November openers and low friendly tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cautious level first half before Serbia's wholesale interval changes either cede a late Polish winner or preserve a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 05:18:19 UTC"
+}
