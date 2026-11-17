@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545898,
+    "matchup": "Malawi vs Egypt",
+    "home_team": "Malawi",
+    "away_team": "Egypt",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-malawi-vs-egypt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Malawi vs Egypt Prediction & Match Analysis: Can the Flames Halt Salah? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545898",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Malawi vs Egypt",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Egypt are projected to secure a comfortable full-time Away Win over Malawi in Group B qualification.",
+    "possibilityAssessment": [
+      "Away Win driven by Egypt's intact front three and 10:0 Group B goal difference (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals supported by 3.67 combined goal expectancy and 0:3 / 0:4 scoreline projections (Confidence: Moderate, Value: High)",
+      "Draw-Loss HT/FT contingency if Malawi hold a compact first-half block before tiring after the break (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "0:4"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545898",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Malawi",
+      "awayTeam": "Egypt",
+      "match_time": "13:00",
+      "match_highlight": "Salah and Marmoush test depleted Malawi backline in Lilongwe.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545898,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Egypt's 0:3 and 0:4 scoreline anchors reflect a decisive attacking and defensive gap over a weakened Malawi side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.67 and Egypt's 3.33 goals per qualifier strongly favour three or more goals."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:4"
+        ],
+        "comment": "Both 0:3 and 0:4 align with Egypt's 100% Group B shutout rate and Malawi's 3.00 goals-conceded average."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the two highest-probability outcomes in the 3.67 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Egypt frequently lead by half-time in qualifiers, with Draw-Loss covering early home low-block resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:18:03 UTC"
+}
