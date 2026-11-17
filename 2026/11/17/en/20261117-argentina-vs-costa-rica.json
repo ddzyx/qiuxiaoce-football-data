@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647372,
+    "matchup": "Argentina vs Costa Rica",
+    "home_team": "Argentina",
+    "away_team": "Costa Rica",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-argentina-vs-costa-rica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Argentina vs Costa Rica Tactical Breakdown & Probabilistic Modeling: Post-Messi Rotation Test",
+    "meta": {
+      "matchId": "1647372",
+      "league": "Friendlies",
+      "matchup": "Argentina vs Costa Rica",
+      "matchTime": "2026-11-17 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Argentina is projected to record a controlled home victory to nil in Córdoba as its midfield continuity and returning goalkeeper Emiliano Martínez outlast a depleted Costa Rican low block.",
+    "possibilityAssessment": [
+      "Argentina Home Win driven by 564-point Elo edge, 75.0% Friendly clean-sheet rate, and Costa Rica spine absences (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and BTTS No anchored on lambda_total 2.25, Argentina rotation, and Costa Rica 60.0% Friendly failed-to-score rate (Confidence: Moderate, Value: Moderate)",
+      "Argentina 3:0 margin extension if early set-piece or wing pressure cracks Costa Rica's 4-1-4-1 shell before halftime (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647372",
+      "league": "Friendlies",
+      "homeTeam": "Argentina",
+      "awayTeam": "Costa Rica",
+      "match_time": "23:00",
+      "match_highlight": "Emiliano Martínez returns against Navas-less Costa Rica after Uruguay slip",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647372,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Argentina's 7W-0D-1L home Friendly record and 564-point Elo advantage point to a 2:0 or 3:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 Poisson lambda_total, Argentina's post-Messi rotation, and Costa Rica's 0:2 loss at Ecuador favor Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Argentina's 75.0% home clean-sheet rate and Costa Rica's 60.0% failed-to-score rate with missing forwards support a shutout."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 mirrors Costa Rica's recent loss in Quito under patient pressure, while 3:0 captures early set-piece separation."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals is the modal Poisson count (26.7%), with 3 goals (20.0%) covering a late third against tiring visitors."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Argentina led at half-time in 75.0% of 2026 Friendlies, while Draw-Win covers patient second-half breakdown."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:22:36 UTC"
+}
