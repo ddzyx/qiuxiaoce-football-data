@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647368,
+    "matchup": "China vs Bahrain",
+    "home_team": "China",
+    "away_team": "Bahrain",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-china-vs-bahrain/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "China vs Bahrain Prediction & Match Analysis: Can Home Attack Break New Tactical Setup? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647368",
+      "league": "Friendlies",
+      "matchup": "China vs Bahrain",
+      "matchTime": "2026-11-17 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back China to avoid defeat in a low-scoring friendly led by a narrow 1:0 home win with 1:1 draw protection.",
+    "possibilityAssessment": [
+      "China capitalize on home continuity and Zhang Yuning's form against a clean-sheet-less Bahrain side (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals holds firm around 2.25 combined lambda and cautious friendly pacing (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 draw emerges if second-half friendly rotation loosens China's backline for Abdulla Yusuf Helal or Mohammed Marhoon (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647368",
+      "league": "Friendlies",
+      "homeTeam": "China",
+      "awayTeam": "Bahrain",
+      "match_time": "12:00",
+      "match_highlight": "China hosts Bahrain in Guangzhou as two tight units chase friendly momentum.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647368,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home breakthrough and a 1:1 stalemate, as friendly rotation and China's home scoring inconsistency make an outright single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda (60.9% Poisson density under 2.5), Al Rumaihi's absence, and both recent 1:0 competitive meetings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Mirrors the two highest-density Home Win / Draw Poisson cells and reflects China's narrow home edge balanced against Bahrain's counter threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Targets the top two Poisson goal-count bands (26.7% and 23.7%) consistent with a tight friendly decided by zero to one margin."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Follows China's 50% home half-time draw rate and 60% second-half home goal share, splitting between a late host winner and a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 00:11:45 UTC"
+}
