@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1596045,
+    "matchup": "Burgess Hill Town vs Brentwood Town",
+    "home_team": "Burgess Hill Town",
+    "away_team": "Brentwood Town",
+    "league": "Non League Premier - Isthmian",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-burgess-hill-town-vs-brentwood-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burgess Hill Town vs Brentwood Town Tactical Breakdown: Home Resilience vs Away Leakage — Match Analysis",
+    "meta": {
+      "matchId": "1596045",
+      "league": "Non League Premier - Isthmian",
+      "matchup": "Burgess Hill Town vs Brentwood Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Burgess Hill Town's 4W-3D-1L home league record against Brentwood Town's 1W-1D-5L road form supports Home Win / Draw alongside Over 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Leylands Park scoring strength (2.00 goals/game) and seven host league draws (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by 3.44 combined lambda and both teams averaging 3.38+ total match goals (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by 81%+ single-side scoring probabilities and weak clean-sheet records (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596045",
+      "league": "Non League Premier - Isthmian",
+      "homeTeam": "Burgess Hill Town",
+      "awayTeam": "Brentwood Town",
+      "match_time": "19:45",
+      "match_highlight": "Strong home scoring meets fragile away defending at Leylands Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596045,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home edge from Burgess Hill's 4W-3D-1L home record and a 1:1 stalemate given their seven league draws, where a single win call leaves the draw trend exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.44 combined lambda (66.8% Over 2.5 probability) and both clubs conceding 1.75 to 1.94 goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks average over 1.56 goals per game (83.1% and 81.0% Poisson scoring odds) against defenses projecting under 20% clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Burgess Hill's 2.00 home scoring rate against Brentwood's leaky road defense, while 1:1 captures the hosts' recurring November draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals leads the Poisson distribution at 21.8%, with four goals (18.7%) capturing open second-half transitions."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win targets Brentwood's first-half vulnerability shown against Ramsgate, while Draw-Draw covers a tighter opening leading to a shared 1:1 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 14:19:43 UTC"
+}
