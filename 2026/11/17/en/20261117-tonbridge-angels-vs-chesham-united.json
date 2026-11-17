@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1588398,
+    "matchup": "Tonbridge Angels vs Chesham United",
+    "home_team": "Tonbridge Angels",
+    "away_team": "Chesham United",
+    "league": "National League - South",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-tonbridge-angels-vs-chesham-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tonbridge Angels vs Chesham United Prediction & Match Analysis: Fatigue vs Playoff Ambition — Score Preview",
+    "meta": {
+      "matchId": "1588398",
+      "league": "National League - South",
+      "matchup": "Tonbridge Angels vs Chesham United",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tonbridge Angels project for a regulation-time Home Win in an open contest leaning toward Over 2.5 goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Primary Thesis: Tonbridge Angels Home Win driven by superior 1.75 vs 2.20 league goal-concession differentials and fresher 90-minute legs (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 goals supported by a 3.24 combined Poisson lambda and high total-goal density across three or more goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 2:0 Home Shutout should Chesham's 120-minute weekend exertion blunt their attacking transition output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588398",
+      "league": "National League - South",
+      "homeTeam": "Tonbridge Angels",
+      "awayTeam": "Chesham United",
+      "match_time": "19:45",
+      "match_highlight": "Tonbridge home firepower faces Chesham fatigue after 120-minute cup tie.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588398,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Tonbridge's 1.75 goal-per-game attack, 7-1-0 bottom-half record, and fresher legs support a 2:1 or 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.24 combined Poisson lambda and Chesham's 2.20 league goals conceded per game point above 2.5 total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tonbridge's 86.2% scoring projection meets Chesham's 71.6% scoring floor against a 28.4% home clean-sheet baseline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects both sides' league scoring rates and 3-goal modal density, while 2:0 covers fatigued away attacking output."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three (22.2%) and two (20.6%) goals represent the two highest probabilities in the independent Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Chesham's early compact block favors a level interval before second-half fatigue decides it, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:36:03 UTC"
+}
