@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551234,
+    "matchup": "Tampines Rovers vs Ratchaburi",
+    "home_team": "Tampines Rovers",
+    "away_team": "Ratchaburi",
+    "league": "ASEAN Club Championship",
+    "kickoff_utc": "2026-11-18 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-tampines-rovers-vs-ratchaburi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tampines Rovers vs Ratchaburi Preview & Match Analysis: Defensive Fragility Meets Group A Tension",
+    "meta": {
+      "matchId": "1551234",
+      "league": "ASEAN Club Championship",
+      "matchup": "Tampines Rovers vs Ratchaburi",
+      "matchTime": "2026-11-18 11:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win with Under 2.5 Goals and BTTS Yes captures the balance between Tampines Rovers' home lambda edge and Ratchaburi's superior multi-competition scoring quality.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing a 1:1 stalemate and 1:2 away-win branch behind Ratchaburi's higher decayed scoring rate (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.25 combined goal-based lambda and 60.9% baseline Poisson under-line density (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score Yes driven by Jonathan Khemdee's absence and nearly two decayed goals conceded per match by both defenses (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551234",
+      "league": "ASEAN Club Championship",
+      "homeTeam": "Tampines Rovers",
+      "awayTeam": "Ratchaburi",
+      "match_time": "11:30",
+      "match_highlight": "Depleted Ratchaburi backline tests rested Tampines attack in tight Group A clash.",
+      "ai_confidence": "Low",
+      "fixtureId": 1551234,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:1 stalemate and secondary 1:2 away-win branch because neither side dominates enough to isolate a single result."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 total goal-based lambda and 60.9% baseline Under 2.5 probability alongside Tampines' recent scoring dip."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides conceded in Matchday 1 and allow nearly two decayed goals per match, with Khemdee's ACL absence lowering Ratchaburi's clean-sheet floor."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Anchors on the peak 13.3% Poisson scoreline of 1:1 while retaining 1:2 if Ratchaburi's midfield quality tells late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Reflects the 26.7% Poisson peak at two goals and the 20.0% three-goal branch should an away winner emerge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Pairs a level opening half holding full-time at 1:1 with Ratchaburi breaking the deadlock after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 23:38:23 UTC"
+}
