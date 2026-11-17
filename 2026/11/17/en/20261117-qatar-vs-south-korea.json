@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647369,
+    "matchup": "Qatar vs South Korea",
+    "home_team": "Qatar",
+    "away_team": "South Korea",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-qatar-vs-south-korea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Qatar vs South Korea Tactical Breakdown & Probabilistic Modeling: Transition Asymmetry in Doha",
+    "meta": {
+      "matchId": "1647369",
+      "league": "Friendlies",
+      "matchup": "Qatar vs South Korea",
+      "matchTime": "2026-11-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "South Korea's +312 Elo edge and superior attacking talent point to Draw / Away Win alongside Under 2.5 total goals in Doha.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by South Korea's second-half surge with draw protection for friendly rotation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by a 2.25 combined lambda and Qatar's 0.85 decayed scoring rate (Confidence: Moderate, Value: High)",
+      "Draw-Draw half-time/full-time contingency if Qatar's low block stalls South Korea's 75.0% chance-waste profile (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647369",
+      "league": "Friendlies",
+      "homeTeam": "Qatar",
+      "awayTeam": "South Korea",
+      "match_time": "14:00",
+      "match_highlight": "South Korea's second-half quality tests Qatar's fragile home backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647369,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers South Korea's 0:2 quality edge and a 1:1 draw script because friendly backline rotation leaves single-win backing exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined goal lambda (60.9% under density), Qatar's three-match scoreless run, and South Korea's 55.6% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects South Korea's second-half superiority over Qatar's leaky defense, while 1:1 covers potential Korean defensive transition errors."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson distribution (26.7%) and matches both 0:2 and 1:1, with 1 goal covering a tight 0:1 win."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "South Korea score just 21.4% of their goals before half-time, making a level interval followed by a late Korean breakthrough or stalemate most plausible."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 02:16:12 UTC"
+}
