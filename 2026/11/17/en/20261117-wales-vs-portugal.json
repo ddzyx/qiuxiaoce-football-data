@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528992,
+    "matchup": "Wales vs Portugal",
+    "home_team": "Wales",
+    "away_team": "Portugal",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-wales-vs-portugal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wales vs Portugal Tactical Breakdown & Probabilistic Modeling: Spine Absences in Cardiff",
+    "meta": {
+      "matchId": "1528992",
+      "league": "UEFA Nations League",
+      "matchup": "Wales vs Portugal",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Portugal's superior attacking depth faces a depleted Welsh midfield screen, supporting a Draw / Away Win trajectory led by a 1:2 away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win leading with Portugal victory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes via mutual defensive absences (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency if Portugal manage group-sealing point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528992",
+      "league": "UEFA Nations League",
+      "homeTeam": "Wales",
+      "awayTeam": "Portugal",
+      "match_time": "19:45",
+      "match_highlight": "Ampadu ban meets Dias and Palhinha suspensions in decisive Group A4 finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528992,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Portugal's leading 1:2 win via superior chance creation against an Ampadu-less Wales and the 1:1 draw script created by Dias and Palhinha's suspensions."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.90 total lambda, 1.85 Welsh xGA per game, and Portugal's 80% group Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Wales hold a 0% group clean-sheet rate while Portugal have conceded in four of five outings and miss Dias and Palhinha."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Portugal's clinical edge with one defensive lapse, while 1:1 reflects the modal Poisson stalemate if Portugal manage a group-topping point."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the 1:2 and 1:1 scoreline anchors and the top two Poisson goal-distribution buckets."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Wales were level at half-time in four of five group games before fading late in three, making a level first half the primary base."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 11:11:09 UTC"
+}
