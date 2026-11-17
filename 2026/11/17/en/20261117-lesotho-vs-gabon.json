@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545895,
+    "matchup": "Lesotho vs Gabon",
+    "home_team": "Lesotho",
+    "away_team": "Gabon",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-lesotho-vs-gabon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lesotho vs Gabon Prediction & Match Analysis: Can Likuena Hold Out in Polokwane? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545895",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Lesotho vs Gabon",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gabon (Away Win) to claim a controlled Under 2.5 victory in Polokwane, led by 0:2 and 0:1 scorelines.",
+    "possibilityAssessment": [
+      "Away Win for Gabon driven by superior Group A goal metrics and neutral-venue advantage (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 2.17 combined lambda and Gabon's three straight two-goal qualifiers (Confidence: High, Value: Moderate)",
+      "Tight first-half stalemate extending past the hour mark if Mario Lemina's minutes are restricted (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545895",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Lesotho",
+      "awayTeam": "Gabon",
+      "match_time": "13:00",
+      "match_highlight": "Bouanga leads Gabon against Lesotho's deep block on neutral turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545895,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Gabon's superior scoring and defensive record, 204-point Elo edge, and neutral Polokwane setting point toward a repeat 0:2 or 0:1 away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.17 combined goal expectancy, 63.1% Under 2.5 Poisson share, and Lesotho's 0.33 goals per game favor a low-scoring contest."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "0:2 mirrors Gabon's two Group A wins including Friday's leg, while 0:1 covers deeper first-half resistance from Lesotho."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.9%) and one goal (24.8%) dominate the Poisson distribution and match Gabon's controlled Group A pace."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures Gabon's pattern of breaking 0:0 halftimes late, while Loss-Loss covers an early away strike against a scoreless host."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:15:06 UTC"
+}
