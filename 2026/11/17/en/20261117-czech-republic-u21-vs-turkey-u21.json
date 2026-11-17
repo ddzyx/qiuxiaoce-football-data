@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1645402,
+    "matchup": "Czech Republic U21 vs Turkey U21",
+    "home_team": "Czech Republic U21",
+    "away_team": "Turkey U21",
+    "league": "UEFA U21 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-czech-republic-u21-vs-turkey-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Czech Republic U21 vs Turkey U21 Prediction & Match Analysis: Can Turkey Breach the Home Wall?",
+    "meta": {
+      "matchId": "1645402",
+      "league": "UEFA U21 Championship - Qualification",
+      "matchup": "Czech Republic U21 vs Turkey U21",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Czech Republic U21 via Home Win / Draw alongside Under 2.5 goals as their five-match home clean-sheet streak meets a suspension-hit Turkish midfield.",
+    "possibilityAssessment": [
+      "Czechia's 1.12 vs 0.87 goal-expectancy edge and Turkey's confirmed bans for Gezek, Vural, and Karapo favor Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Combined 1.99 lambda expectancy and Czechia's 0.62 goals-conceded rate support Under 2.5 total goals (Confidence: High, Value: Moderate)",
+      "Czech defensive doubts around Lissah and Konečný create a secondary 1:1 draw path if Turkey strike once late (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645402",
+      "league": "UEFA U21 Championship - Qualification",
+      "homeTeam": "Czech Republic U21",
+      "awayTeam": "Turkey U21",
+      "match_time": "16:00",
+      "match_highlight": "Suspended Turkish midfielders test Czechia's unbeaten home defense in decisive playoff.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645402,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers both a narrow 1:0 Czech repeat and a tie-clinching 1:1 stalemate, as aggregate leverage removes any need for the hosts to force victory alone."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A low 1.99 combined lambda, Czechia's 0.62 goals-conceded average, and Turkey's single shot on target in leg one heavily favor Under 2.5."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Czechia's five-match home shutout streak against a depleted attack, while 1:1 covers a late Turkish equalizer amid Czech defensive doubts."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson density peaks almost identically at 1 goal (27.2%) and 2 goals (27.1%) in a cautious two-legged decider."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "High half-time draw rates for both sides point to a level opening 45 minutes before Czechia either break through late or manage a qualifying draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:34:09 UTC"
+}
