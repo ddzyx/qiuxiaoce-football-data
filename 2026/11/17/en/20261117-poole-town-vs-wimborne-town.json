@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597351,
+    "matchup": "Poole Town vs Wimborne Town",
+    "home_team": "Poole Town",
+    "away_team": "Wimborne Town",
+    "league": "Non League Premier - Southern South",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-poole-town-vs-wimborne-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poole Town vs Wimborne Town Prediction & Match Analysis: Defensive Steel Meets Derby Urgency",
+    "meta": {
+      "matchId": "1597351",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Poole Town vs Wimborne Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Wimborne Town to avoid defeat via Draw / Away Win, led by a disciplined 0:2 away victory anchored on their five-match shutout streak and superior defensive efficiency.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Wimborne Town's compact counter-attacking control and 1.49 away goal expectancy (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals and BTTS: No supported by Wimborne's 0.69 league goals-conceded rate and Poole's cautious tactical reset (Confidence: Moderate, Value: Moderate)",
+      "1:2 narrow away win contingency if Poole's home attack scores once while leaving transition space late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597351",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Poole Town",
+      "awayTeam": "Wimborne Town",
+      "match_time": "19:45",
+      "match_highlight": "Wimborne's five-match shutout streak tests Poole's post-collapse derby response.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597351,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored by the 0:2 away win and 1:1 draw scripts, Wimborne's 0.69 goals-conceded rate makes an away win primary while derby stalemate risk justifies retaining the draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson totals lean 50.3% Under 2.5 and Wimborne's five consecutive regulation clean sheets suppress expected scoring volume."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Wimborne's 0.69 league goals-conceded average and active five-match clean-sheet run outweigh Poole's home scoring output after their 0:5 setback."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Wimborne's counter-attacking control and shutout form, while 1:1 captures a tight derby stalemate if Poole scores at home."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson outcome (24.7%) matching 0:2 and 1:1, with three goals (21.9%) covering a 1:2 away win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half containment points to a level interval before Wimborne either breaks through late (Draw-Loss) or shares the points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:08:32 UTC"
+}
