@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545893,
+    "matchup": "Guinea-Bissau vs Madagascar",
+    "home_team": "Guinea-Bissau",
+    "away_team": "Madagascar",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-guinea-bissau-vs-madagascar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guinea-Bissau vs Madagascar Tactical Breakdown & Probabilistic Modeling: Can Barea Stifle the Hosts?",
+    "meta": {
+      "matchId": "1545893",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Guinea-Bissau vs Madagascar",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Guinea-Bissau's home defensive discipline and unbeaten Group L form support a Home Win / Draw direction with Under 2.5 goals in Bissau.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers Guinea-Bissau's home advantage and 0.33 qualifying goals-conceded rate alongside the 1:1 draw risk without Franculino Dju (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.34 combined goal expectancy, 58.5% Poisson density for 0-2 goals, and last week's tight 1:1 first leg (Confidence: Moderate, Value: High)",
+      "1:1 Draw via Dead-Ball Breakthrough reflects Madagascar's compact 4-2-3-1 block and Warren Caddy's set-piece threat if hosts struggle to convert (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545893",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Guinea-Bissau",
+      "awayTeam": "Madagascar",
+      "match_time": "16:00",
+      "match_highlight": "Guinea-Bissau's second-half surge tests Madagascar's block without injured Franculino Dju.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545893,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 1:0 home victory for Group L leaders Guinea-Bissau and a 1:1 stalemate, as Franculino Dju's injury and last week's draw make a single home call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.34 lambda total, Guinea-Bissau's 0.33 qualifying goals-conceded average, and 58.5% Poisson probability for two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Guinea-Bissau's home control against a winless visitor with zero group clean sheets, while 1:1 captures Madagascar's set-piece containment route."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson goal counts (26.4% for 2 goals, 22.5% for 1 goal) and directly aligns with the 1:0, 2:0, and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Madagascar held 0:0 at half-time five days ago and Guinea-Bissau scores 66.7% of its group goals after the interval, creating a second-half win or draw fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:12:11 UTC"
+}
