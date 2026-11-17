@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649027,
+    "matchup": "Portugal U21 vs Norway U21",
+    "home_team": "Portugal U21",
+    "away_team": "Norway U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-portugal-u21-vs-norway-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portugal U21 vs Norway U21 Prediction & Match Analysis: Can Rotated Hosts Unlock Norway? — Preview",
+    "meta": {
+      "matchId": "1649027",
+      "league": "Friendlies",
+      "matchup": "Portugal U21 vs Norway U21",
+      "matchTime": "2026-11-17 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Portugal U21 are projected to avoid defeat in a low-scoring friendly at Estádio Algarve, where superior squad depth and clean-sheet discipline meet confirmed heavy rotation.",
+    "possibilityAssessment": [
+      "Portugal U21 win or draw leads the projection under tight 2.25 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals and BTTS: No reflect Portugal's three-match clean-sheet streak and Norway's scoreless 2026 friendly record (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 counter-attacking stalemate remains plausible if sweeping second-half substitutions open transition lanes for Norway (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649027",
+      "league": "Friendlies",
+      "homeTeam": "Portugal U21",
+      "awayTeam": "Norway U21",
+      "match_time": "17:30",
+      "match_highlight": "Portugal's rotated squad faces counter-attacking Norway in Faro friendly.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649027,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a controlled 1:0 Portugal win driven by superior depth and a 1:1 draw if >50% rotation blunts home cohesion; a single win call is too exposed to friendly experimentalism."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.25 yields a 60.9% Under 2.5 Poisson baseline alongside Norway's two-match friendly scoring drought and Portugal's rotated attack."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Portugal carry three consecutive clean sheets and Norway failed to score in both 2026 friendlies, aligning with a 54.6% Poisson No probability."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Portugal's recent defensive control against England U21 under moderated rotated scoring output, while 1:1 captures the top Poisson density if transitions break through."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest-probability buckets in the independent Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Portugal's 2026 friendly pattern of early leads against slow-starting Norway, while Draw-Draw captures a cohesion-limited stalemate across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 10:08:55 UTC"
+}
