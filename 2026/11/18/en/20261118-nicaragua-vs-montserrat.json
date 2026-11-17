@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649036,
+    "matchup": "Nicaragua vs Montserrat",
+    "home_team": "Nicaragua",
+    "away_team": "Montserrat",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-18 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-nicaragua-vs-montserrat/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nicaragua vs Montserrat Prediction & Match Analysis: Can Visitors Breach Managua? — Model Preview",
+    "meta": {
+      "matchId": "1649036",
+      "league": "CONCACAF Nations League",
+      "matchup": "Nicaragua vs Montserrat",
+      "matchTime": "2026-11-18 03:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nicaragua are projected to control the second leg in Managua and avoid defeat in a low-scoring tie that favors Under 2.5 goals and a home clean-sheet ceiling.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Nicaragua on home territorial control and aggregate management (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 60.9% independent Poisson probability and 2.25 combined lambda (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: No supported by a 54.6% Poisson baseline and Montserrat's two first-leg shots on target (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649036",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Nicaragua",
+      "awayTeam": "Montserrat",
+      "match_time": "03:00",
+      "match_highlight": "Suspended Lenni Cirino tests Montserrat's reshuffled defense in Managua.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649036,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Nicaragua's dominant home 2:0 win script alongside the 1:1 aggregate-management draw script, avoiding a risky single-outcome stance against a tight 39.4% Poisson home-win baseline."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.25 total lambda, 60.9% Poisson Under 2.5 probability, and Nicaragua's incentive to control tempo rather than chase goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Supported by a 54.6% Poisson BTTS No projection as Nicaragua control home possession against a Montserrat attack limited to two shots on target in leg one."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Nicaragua's first-leg shot dominance against a Cirino-less defense, while 1:1 matches the 13.3% modal Poisson scoreline if Nicaragua protect their aggregate lead."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest Poisson goal-count probabilities and match both Under 2.5 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Nicaragua have yet to score a first-half goal in this Nations League cycle, pointing to a cagey opening half before either pulling clear or settling for a qualifying draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 17:14:03 UTC"
+}
