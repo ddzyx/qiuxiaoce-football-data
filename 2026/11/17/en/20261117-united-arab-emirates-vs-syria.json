@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1650001,
+    "matchup": "United Arab Emirates vs Syria",
+    "home_team": "United Arab Emirates",
+    "away_team": "Syria",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 14:10:00",
+    "source_url": "https://xgmind.com/matches/20261117-united-arab-emirates-vs-syria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "United Arab Emirates vs Syria Preview & Tactical Breakdown: Rotation Risk vs Defensive Fragility",
+    "meta": {
+      "matchId": "1650001",
+      "league": "Friendlies",
+      "matchup": "United Arab Emirates vs Syria",
+      "matchTime": "2026-11-17 14:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back United Arab Emirates to avoid defeat via Home Win / Draw in a controlled, Under 2.5 friendly.",
+    "possibilityAssessment": [
+      "Home Win / Draw driven by UAE's 1.75 decayed scoring rate and Syria's 2.77 away goals conceded, tempered by camp rotation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals anchored by a 2.25 combined goal expectancy and 60.9% Poisson under-2.5 baseline (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw half-time/full-time script if an experimental Emirati XI stalls against a compact Syrian 4-2-3-1 (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650001",
+      "league": "Friendlies",
+      "homeTeam": "United Arab Emirates",
+      "awayTeam": "Syria",
+      "match_time": "14:10",
+      "match_highlight": "UAE camp rotation tests Syria's leaky 2.77-GA away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650001,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:0 UAE win against Syria's porous away defense and a 1:1 draw given Dalić's confirmed friendly rotation, whereas a single call would ignore Tier 3 lineup uncertainty."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Poisson Under 2.5 probability) and likely Emirati rotation alongside Syrian defensive caution after losing 3:0 to Kuwait."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects UAE's superior depth against Syria's winless away defensive run, while 1:1 matches the top Poisson density if rotation slows the host."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals represents the Poisson mode (26.7%) matching 2:0 and 1:1, with 3 goals covering a 2:1 branch if Omar Al-Somah or Omar Kharbin breach UAE."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A rotated UAE XI is likely to probe through a level first half before second-half bench depth decides a Draw-Win or settles into a Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 02:38:02 UTC"
+}
