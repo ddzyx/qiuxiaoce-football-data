@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545887,
+    "matchup": "Burundi vs Zambia",
+    "home_team": "Burundi",
+    "away_team": "Zambia",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-burundi-vs-zambia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burundi vs Zambia Prediction & Match Analysis: Can Chipolopolo Overcome Road Struggles? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545887",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Burundi vs Zambia",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "XG Mind AI leans toward Draw / Away Win alongside Under 2.5 Goals, projecting a tight 1:1 stalemate or narrow 0:1 Zambia victory driven by low first-half scoring tempo.",
+    "possibilityAssessment": [
+      "Draw / Away Win represents the balanced full-time coverage anchored by Zambia's 1.33 goal-expectancy edge and 1:1 modal stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 54.4% Poisson probability and the tight 1:1 tactical pattern from Ndola (Confidence: Moderate, Value: High)",
+      "Second-Half Breakthrough (Draw-Loss) captures Zambia's 75% second-half scoring share if late fitness tells in Bujumbura (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545887",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Burundi",
+      "awayTeam": "Zambia",
+      "match_time": "13:00",
+      "match_highlight": "Can Zambia break Burundi's Bujumbura resolve without their injured star forwards?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545887,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 home-resilience stalemate and a narrow 0:1 Zambia win backed by their +85 Elo edge, where an outright single call would over-expose to either Zambia's away struggles or Burundi's winless group record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.50 combined lambda, a 54.4% Poisson Under 2.5 probability, and Zambia's depleted November forward rotation after Friday's tight 1:1 draw."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.8% and mirrors the Ndola stalemate, while 0:1 (10.9%) captures Zambia's narrow quality edge if set-piece pressure breaks Burundi late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.7%) and 3 goals (21.4%) lead the Poisson total-goal distribution around the 2.50 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Zambia's 25% first-half goal share favors a level interval before either a 1:1 stalemate or a second-half Zambia winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:08:17 UTC"
+}
