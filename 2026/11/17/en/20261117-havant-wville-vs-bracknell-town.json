@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597459,
+    "matchup": "Havant & Wville vs Bracknell Town",
+    "home_team": "Havant & Wville",
+    "away_team": "Bracknell Town",
+    "league": "Non League Premier - Southern South",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-havant-wville-vs-bracknell-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Havant & Wville vs Bracknell Town Prediction & Match Analysis: Can Hawks Exploit Robins' Reset?",
+    "meta": {
+      "matchId": "1597459",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Havant & Wville vs Bracknell Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project an open Westleigh Park contest favouring Havant & Wville or Draw with three or more total goals and both teams on the scoresheet.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Havant & Wville's 1.79 goal expectancy and Bracknell Town's 2.18 league goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes driven by a 3.32 combined lambda and sub-22% clean-sheet projections on both sides (Confidence: Moderate, Value: Moderate)",
+      "2:2 Draw hedge reflecting Havant's 76-hour turnaround and Bracknell's seven-day rest under returning manager Carl Davies (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597459",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Havant & Wville",
+      "awayTeam": "Bracknell Town",
+      "match_time": "19:45",
+      "match_highlight": "Two 15-point relegation rivals clash with high goals expected at Westleigh Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597459,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Havant & Wville win led by home scoring momentum alongside a 2:2 draw given mutual defensive leaks, avoiding a single home call amid stretched home depth."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.32 combined Poisson lambda (64.5% Over 2.5 probability) and 1.94 versus 2.18 league goals conceded per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 65.3% Poisson BTTS probability as both teams project above 78% to score against defences holding 21.7% and 16.7% clean-sheet expectancies."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Havant's home attacking edge over a leaky visiting backline, while 2:2 covers second-half fatigue and Bracknell's new-manager response."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.0% Poisson) and 4 goals (18.3%) bracket the 3.32 total goal expectancy across both projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Havant's fast home starts against an unsettled visiting midfield, while Draw-Draw covers a cagey opening followed by second-half traded goals."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:12:24 UTC"
+}
