@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649026,
+    "matchup": "Ukraine U21 vs USA U21",
+    "home_team": "Ukraine U21",
+    "away_team": "USA U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-ukraine-u21-vs-usa-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ukraine U21 vs USA U21 Prediction & Match Analysis: Can Ukraine Rebound from Scotland Rout?",
+    "meta": {
+      "matchId": "1649026",
+      "league": "Friendlies",
+      "matchup": "Ukraine U21 vs USA U21",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "USA U21 are projected to avoid defeat against Ukraine U21 at Pinatar Arena, with a tight 1:1 draw or a narrow 1:2 away victory favored under an Under 2.5 goal ceiling.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Neutral-venue friendly dynamics and USA's superior performance against common opponent Scotland U21 support the visitors avoiding defeat despite a 48-hour turnaround (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals: A combined 2.25 Poisson lambda and American attacking withdrawals point toward two goals or fewer, with 1:2 as the three-goal secondary branch (Confidence: Moderate, Value: Moderate)",
+      "Away Win (1:2): If Ukraine U21's experimental back line repeats the transitional breakdowns from their 0:4 defeat to Scotland, USA's bench quality can decide the final half hour (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649026",
+      "league": "Friendlies",
+      "homeTeam": "Ukraine U21",
+      "awayTeam": "USA U21",
+      "match_time": "13:00",
+      "match_highlight": "Ukraine's 120-hour rest meets USA's 48-hour turnaround after facing Scotland.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649026,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 1:1 fatigue-driven stalemate and the 1:2 away win, as a single away call overlooks USA's 48-hour turnaround and friendly rotation."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda gives two goals or fewer a 60.9% baseline share, reinforced by USA's 48-hour recovery window and pre-camp attacking withdrawals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects the top Poisson density (13.3%) and rotation balance, while 1:2 covers Ukraine's persistent friendly defensive concession rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (26.7% Poisson share) anchors the 1:1 primary script, with three goals (20.0%) covering a 1:2 late-game breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Draw captures USA starting fast before tiring on short rest, while Draw-Loss covers a rotated scoreless first half decided by American substitutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:46:09 UTC"
+}
