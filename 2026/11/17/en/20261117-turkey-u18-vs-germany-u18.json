@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649023,
+    "matchup": "Turkey U18 vs Germany U18",
+    "home_team": "Turkey U18",
+    "away_team": "Germany U18",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-turkey-u18-vs-germany-u18/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Turkey U18 vs Germany U18 Prediction & Preview: Rotation Dynamics in Antalya — Scoreline & Model Analysis",
+    "meta": {
+      "matchId": "1649023",
+      "league": "Friendlies",
+      "matchup": "Turkey U18 vs Germany U18",
+      "matchTime": "2026-11-17 14:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Second-match camp rotation and Germany U18's 2:0 win at this same Antalya venue three days ago tilt the balance toward Draw / Away Win with Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Fresh Turkish starters can restore parity in a 1:1 draw, while Germany U18's academy depth and November 14 clean sheet keep a narrow 0:1 away win live (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals: Supported by a 2.25 combined goal lambda, 60.9% Poisson density for 0-2 goals, and disrupted second-half friendly rhythm (Confidence: Moderate, Value: Moderate)",
+      "2 Goals exact total: Matches the 1:1 modal Poisson scoreline and 26.7% two-goal probability density under expected camp rotation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649023",
+      "league": "Friendlies",
+      "homeTeam": "Turkey U18",
+      "awayTeam": "Germany U18",
+      "match_time": "14:00",
+      "match_highlight": "Rotated Turkey U18 seek response after 2-0 defeat to Germany U18",
+      "ai_confidence": "Low",
+      "fixtureId": 1649023,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:1 tactical stalemate alongside Germany U18 repeating a narrow 0:1 win, as single-direction confidence is limited by unannounced friendly rotation and small away sample size."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal lambda of 2.25 and 60.9% Poisson probability for two or fewer goals align with expected friendly substitutions slowing late tempo."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 reflects the top Poisson scoreline (13.3%) with fresher Turkish attackers, while 0:1 captures Germany U18 shutting out a host side that failed to score in two of its last four games."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7% Poisson share) and 1 goal (23.7%) directly bracket the 2.25 combined lambda and Under 2.5 expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Draw captures a cautious rotated first half ending level at 1:1, while Loss-Loss mirrors Turkey U18's 0.0% recovery rate when trailing at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 02:19:01 UTC"
+}
