@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528995,
+    "matchup": "Hungary vs Northern Ireland",
+    "home_team": "Hungary",
+    "away_team": "Northern Ireland",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-hungary-vs-northern-ireland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hungary vs Northern Ireland Prediction & Match Analysis: Can Hosts Crack NI's Clean-Sheet Wall?",
+    "meta": {
+      "matchId": "1528995",
+      "league": "UEFA Nations League",
+      "matchup": "Hungary vs Northern Ireland",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Back Northern Ireland to avoid defeat (Draw / Away Win) in a low-scoring Group B2 decider projected for Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Draw / Away Win led by a tight stalemate against Hungary's 1.0-goal-per-match attack (Confidence: Moderate, Value: High)",
+      "Total Goals & BTTS: Under 2.5 and BTTS: No supported by a 1.2 combined lambda and Northern Ireland's five-match clean-sheet streak (Confidence: High, Value: Moderate)",
+      "Contingency Script: Narrow 1:0 late Hungary breakthrough via Dominik Szoboszlai and Barnabás Varga if visiting defensive depth tires (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528995",
+      "league": "UEFA Nations League",
+      "homeTeam": "Hungary",
+      "awayTeam": "Northern Ireland",
+      "match_time": "19:45",
+      "match_highlight": "Suspended Orban weakens Hungary against Northern Ireland's five-match clean-sheet block.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1528995,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 0:0 stalemate needed by Northern Ireland and a 0:1 set-piece ambush, as Hungary's suspended Willi Orbán and Milán Vitális weaken a 1.95 favourite that managed just one shot on target in September's reverse fixture."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A combined lambda_total of 1.2, 80% Under 2.5 rates for both teams in Group B2, and Bet365's 1.53 Under price align behind a low-event tactical battle."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Northern Ireland hold a 100% clean-sheet rate across five group games (0% BTTS) while both sides carry a 40% failed-to-score rate, matching the 80.2% Poisson BTTS No projection."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "0:0 reflects Northern Ireland's five-match shutout structure and promotion incentive, while 0:1 captures their four-goal set-piece threat against an Orbán-less Hungarian defence."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "1 total goal (36.1%) and 0 total goals (30.1%) dominate the independent Poisson distribution given 1.0 goal-per-match scoring averages and 0.4/0.0 conceding rates."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both teams record high first-half draw rates (60% Hungary, 80% Northern Ireland), setting up a goalless interval that resolves either as a 0:0 stalemate or a late 0:1 visiting strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:16:13 UTC"
+}
