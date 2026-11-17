@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1640010,
+    "matchup": "Dominica vs Cayman Islands",
+    "home_team": "Dominica",
+    "away_team": "Cayman Islands",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-dominica-vs-cayman-islands/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dominica vs Cayman Islands Tactical Breakdown & Probabilistic Modeling: Scoring Floor vs Relegation Block",
+    "meta": {
+      "matchId": "1640010",
+      "league": "CONCACAF Nations League",
+      "matchup": "Dominica vs Cayman Islands",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Dominica to avoid defeat in a low-scoring League B finale (Home Win / Draw), anchored by Under 2.5 total goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw — Dominica's November scoring floor meets Cayman's five-match League B goal drought, while neutral turf keeps the draw relevant (Confidence: Moderate, Value: High)",
+      "Secondary Total Goals Thesis: Under 2.5 — Low combined lambda expectancy (2.25) and relegation pragmatism point toward 2 or 1 total goals (Confidence: Moderate, Value: High)",
+      "Contingency BTTS Thesis: BTTS: No — Cayman's scoreless League B campaign and Dominica's peer clean sheets favor at least one blank (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640010",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Dominica",
+      "awayTeam": "Cayman Islands",
+      "match_time": "19:00",
+      "match_highlight": "Can Dominica's revamped attack breach Cayman Islands' desperate relegation low block?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640010,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Derived from the 1:0 primary and 0:0 secondary scripts, pairing Dominica's November scoring edge with the draw because neutral-venue conditions and Cayman's goal-difference incentive make a single Home Win call too exposed to a repeat stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda expectancy of 2.25 (60.9% Under 2.5) and Cayman Islands' zero goals in five League B matches point to a tight, low-scoring contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Cayman Islands carry a five-match scoreless run in Group A against a Dominica side that kept clean sheets versus both Cayman and Anguilla (54.6% Poisson BTTS: No)."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 reflects Dominica's top Poisson winning scoreline (12.6%) against a deep block, while 0:0 (10.5%) captures Cayman holding out as in September."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) represent the two highest-density buckets in the independent Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half is projected to stay level before either Dominica break through late (Draw-Win) or Cayman preserve a stalemate throughout (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 12:08:55 UTC"
+}
