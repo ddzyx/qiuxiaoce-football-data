@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1640519,
+    "matchup": "Chile vs Colombia",
+    "home_team": "Chile",
+    "away_team": "Colombia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-chile-vs-colombia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chile vs Colombia Tactical Breakdown & Probabilistic Modeling: Can Rotated Cafeteros Break La Roja?",
+    "meta": {
+      "matchId": "1640519",
+      "league": "Friendlies",
+      "matchup": "Chile vs Colombia",
+      "matchTime": "2026-11-17 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Chile are projected to avoid defeat (Home Win / Draw) in a disciplined, low-scoring Santiago friendly featuring Under 2.5 Goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary Direction: Home Win / Draw — Chile protect home turf against a rotated, injury-depleted Colombia front line in a tight stalemate or narrow 1-0 contest (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Under 2.5 Goals — Both Poisson modeling (60.9%) and Bet365 pricing (1.62) point toward suppressed scoring output after a 1-0 first leg with only two combined shots on target (Confidence: High, Value: Moderate)",
+      "Contingency Angle: Exact 1 Goal — A late set piece or second-half breakthrough settles a cagey tactical battle by a single goal if a 0-0 stalemate gives way late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640519",
+      "league": "Friendlies",
+      "homeTeam": "Chile",
+      "awayTeam": "Colombia",
+      "match_time": "23:00",
+      "match_highlight": "Rotated Colombia attack tests Chile's reshaped home backline in Santiago.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640519,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchors on a 0:0 stalemate and 1:0 home breakthrough as Colombia's attacking injuries and rotation blunt their road edge, whereas a single call would neglect either draw containment or late home urgency."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda_total, 60.9% Poisson Under 2.5 probability, and Colombia's 0.34 decayed goals-conceded rate across five matches."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with Chile's zero shots on target in Cali, 33.3% failed-to-score rate, and Colombia's 37.5% clean-sheet frequency alongside missing wing threats."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "0:0 captures both attacks' verified personnel and finishing limits, while 1:0 reflects Chile's second-half home acceleration against a rotated visiting XI."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "Reflects a low-event defensive battle where a single decisive second-half strike or a scoreless deadlock dominates the goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Chile have never led at half-time in six Friendlies (14.3% first-half goal share), pointing to a level break before holding 0:0 or pushing late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:18:37 UTC"
+}
