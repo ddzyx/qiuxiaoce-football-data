@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647643,
+    "matchup": "Kuwait vs Honduras",
+    "home_team": "Kuwait",
+    "away_team": "Honduras",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-kuwait-vs-honduras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kuwait vs Honduras Prediction & Match Analysis: Can Home Momentum Outlast Elo Gap? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647643",
+      "league": "Friendlies",
+      "matchup": "Kuwait vs Honduras",
+      "matchTime": "2026-11-17 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kuwait's compact home counter-attacking structure and Honduras's leaky 2026 away friendly record favor a tight Under 2.5 contest where the hosts win narrowly or hold a stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on 1:0 and 1:1 under-2.5 scripts (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by 2.25 combined lambda and dual-side friendly rotation (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw via late Honduran possession pressure against rotated Kuwaiti legs (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647643",
+      "league": "Friendlies",
+      "homeTeam": "Kuwait",
+      "awayTeam": "Honduras",
+      "match_time": "16:30",
+      "match_highlight": "Kuwait's compact home block tests Honduras's shaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647643,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a narrow 1:0 home win from Kuwait's home transition edge and a 1:1 draw driven by Honduras's Elo floor and friendly rotation, where either single call would understate the balanced script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal-based lambda (60.9% under-2.5 Poisson share), missing Kuwaiti attackers, and expected second-half friendly rotation."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Kuwait's clean-sheet home organization (1:0) alongside the modal 1:1 Poisson outcome if Honduras's possession forces a single equalizer."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson exact-total probabilities (26.7% for 2 goals, 23.7% for 1 goal) under cautious friendly pacing."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Rotated starting XIs point toward a level first half before Kuwait either breaks through late (Draw-Win) or both sides settle level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:49:53 UTC"
+}
