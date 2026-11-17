@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545903,
+    "matchup": "Sierra Leone vs Congo DR",
+    "home_team": "Sierra Leone",
+    "away_team": "Congo DR",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-sierra-leone-vs-congo-dr/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sierra Leone vs Congo DR Prediction & Match Analysis: Can Leopards Seal Neutral-Ground Win? — Preview",
+    "meta": {
+      "matchId": "1545903",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Sierra Leone vs Congo DR",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Congo DR to secure an Away Win on neutral ground in Casablanca behind superior goal expectancy and Group E form.",
+    "possibilityAssessment": [
+      "Congo DR Away Win driven by 2.33 goals per qualifier and a 362-point Elo edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by a 3.16 combined lambda and 61.1% Poisson threshold probability (Confidence: Moderate, Value: Moderate)",
+      "0:2 controlled away shutout if Desabre manages tempo after an early lead (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545903",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Sierra Leone",
+      "awayTeam": "Congo DR",
+      "match_time": "16:00",
+      "match_highlight": "Fast-starting Congo DR eye fourth straight Group E win in Casablanca.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545903,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Congo DR's 2.33 qualifying goal average, neutral-venue edge, and recent 3:1 superiority point cleanly toward 1:2 or 0:2 away wins."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.16 total lambda and Sierra Leone's 2.33 goals conceded per qualifier keep three-goal scripts ahead of a two-goal containment."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Congo DR's firepower alongside Sierra Leone's late urgency, while 0:2 reflects a controlled clean-sheet alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson densities peak tightly at 3 goals (22.3%) and 2 goals (21.2%) under a 3.16 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Congo DR led at half-time in all three qualifiers (Loss-Loss), while a cautious Sierra Leone start makes Draw-Loss the primary alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:22:40 UTC"
+}
