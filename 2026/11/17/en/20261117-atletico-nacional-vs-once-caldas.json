@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649489,
+    "matchup": "Atletico Nacional vs Once Caldas",
+    "home_team": "Atletico Nacional",
+    "away_team": "Once Caldas",
+    "league": "Copa Colombia",
+    "kickoff_utc": "2026-11-17 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-atletico-nacional-vs-once-caldas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico Nacional vs Once Caldas Prediction & Match Analysis: Can Nacional Break the 1-1 Cup Deadlock?",
+    "meta": {
+      "matchId": "1649489",
+      "league": "Copa Colombia",
+      "matchup": "Atletico Nacional vs Once Caldas",
+      "matchTime": "2026-11-17 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Atletico Nacional Home Win / Draw alongside Under 2.5 total goals and BTTS: No in a tight Copa Colombia semifinal second leg.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Atletico Nacional's +110 Elo edge and returning five-player spine alongside the live 90-minute stalemate branch (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 aligns with the 2.25 combined lambda baseline (60.9% Under probability) and five consecutive low-scoring head-to-head meetings (Confidence: High, Value: Moderate)",
+      "BTTS: No reflects Franco Armani and Jorman Campuzano restoring home clean-sheet structure for a projected 1:0 shutout win (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649489",
+      "league": "Copa Colombia",
+      "homeTeam": "Atletico Nacional",
+      "awayTeam": "Once Caldas",
+      "match_time": "23:30",
+      "match_highlight": "Returning Nacional spine tests Once Caldas's tight 0.54-GA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649489,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 home win driven by Nacional's returning core and the 1:1 draw script seen twice in seven days, where a single Home Win leaves penalty-bound stalemate risk unguarded."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined lambda (60.9% Under 2.5 Poisson baseline), five straight meetings under 2.5 goals, and second-leg knockout discipline."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Supported by the 54.6% Poisson BTTS: No baseline and the return of Franco Armani, César Haydar, and Jorman Campuzano to Nacional's home spine."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances a tight home clean-sheet breakthrough led by returning creators against the exact 1:1 stalemate repeated across their last two clashes."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the top two Poisson total-goal buckets (26.7% for 2 goals and 23.7% for 1 goal) in a cautious second-leg tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Models a scoreless or level first half before Nacional either break through late (Draw-Win) or Once Caldas hold out for 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:33:40 UTC"
+}
