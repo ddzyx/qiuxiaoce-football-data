@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1596028,
+    "matchup": "Ramsgate vs Cray Wanderers",
+    "home_team": "Ramsgate",
+    "away_team": "Cray Wanderers",
+    "league": "Non League Premier - Isthmian",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-ramsgate-vs-cray-wanderers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ramsgate vs Cray Wanderers Prediction & Match Analysis: Can Wands' 5-Game Unbeaten Run Hold?",
+    "meta": {
+      "matchId": "1596028",
+      "league": "Non League Premier - Isthmian",
+      "matchup": "Ramsgate vs Cray Wanderers",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ramsgate vs Cray Wanderers projects an open, high-scoring contest favoring Home Win / Draw with Over 2.5 Goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Ramsgate's early-half scoring tempo and schedule freshness (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.54 combined goal expectancy and two 2.25+ goals-per-game attacks (Confidence: High, Value: Moderate)",
+      "2:2 draw contingency if Ade Yusuff and Ola Ogunwamide exploit transition space in the second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596028",
+      "league": "Non League Premier - Isthmian",
+      "homeTeam": "Ramsgate",
+      "awayTeam": "Cray Wanderers",
+      "match_time": "19:45",
+      "match_highlight": "Fast-starting Ramsgate host congested yet prolific Cray Wanderers at Southwood Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596028,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Ramsgate's 2:1 home win edge alongside the 2:2 draw branch because Cray's 1.64 PPG and transition firepower counter the hosts' rest advantage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined standings-derived lambda of 3.54 and both teams averaging over 2.25 league goals per game strongly point toward 3+ goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear 82% Poisson scoring probability while conceding 1.19 and 1.36 goals per league match respectively."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 captures Ramsgate's sharper freshness against a dangerous counter-attack, while 2:2 covers Cray extending their recent H2H stalemate streak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the top two Poisson frequency buckets (21.5% and 19.0%) in a 3.54-lambda matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win reflects Ramsgate's back-to-back 2nd-minute league openers, while Draw-Draw covers Cray neutralizing the first half as in last season's 1:1 ties."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 14:15:30 UTC"
+}
