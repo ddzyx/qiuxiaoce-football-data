@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528994,
+    "matchup": "Ukraine vs Georgia",
+    "home_team": "Ukraine",
+    "away_team": "Georgia",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-ukraine-vs-georgia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ukraine vs Georgia Tactical Breakdown & Preview: Can Depleted Attacks Break the Kosice Deadlock?",
+    "meta": {
+      "matchId": "1528994",
+      "league": "UEFA Nations League",
+      "matchup": "Ukraine vs Georgia",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ukraine is projected to avoid defeat in a low-scoring Kosice finale led by a 0:0 stalemate with a late 1:0 home win covered.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind a 0:0 primary script and 1:0 late-breakthrough branch (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals and 0–1 total goals driven by a 1.2 lambda total and wing absences (Confidence: High, Value: Moderate)",
+      "BTTS: No anchored by Georgia's five-match scoring drought and dual 40% clean-sheet rates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "0",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528994",
+      "league": "UEFA Nations League",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Georgia",
+      "match_time": "19:45",
+      "match_highlight": "Goal-starved Georgia faces must-win pressure against a depleted, point-only Ukraine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528994,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 0:0 stalemate and a late 1:0 Ukraine counter once Georgia chases victory, as missing wingers prevent a single Home Win from capturing Ukraine's point-only caution."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.2 total lambda, 0.4 vs 0.0 goals per game, and severe wide-attacker absences concentrate probability overwhelmingly below three goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Georgia has failed to score in all five group matches without Kvaratskhelia and Tsitaishvili while both defenses keep clean sheets 40% of the time."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "0:0 reflects both depleted attacks canceling out as in Tbilisi, while 1:0 captures Ukraine punishing late Georgian overextension."
+      },
+      "goals": {
+        "selection": [
+          "0",
+          "1"
+        ],
+        "comment": "Confirmed wing absences depress scoring expectancy below the 1.2 lambda baseline toward a zero- or single-goal finish."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Georgia's 80% half-time draw rate and Ukraine's 60% interval-level profile point to a 0:0 break before either staying level or breaking 1:0 late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:12:15 UTC"
+}
