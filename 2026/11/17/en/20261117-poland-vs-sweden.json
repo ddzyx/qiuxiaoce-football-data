@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528998,
+    "matchup": "Poland vs Sweden",
+    "home_team": "Poland",
+    "away_team": "Sweden",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-poland-vs-sweden/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland vs Sweden Prediction & Match Analysis: Can depleted Poland contain Gyökeres? — Scoreline Preview",
+    "meta": {
+      "matchId": "1528998",
+      "league": "UEFA Nations League",
+      "matchup": "Poland vs Sweden",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sweden to avoid defeat via Draw / Away Win alongside Over 2.5 goals and BTTS Yes as Group B4's unbeaten leaders exploit Poland's depleted defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win reflects Sweden's 44.4% Poisson edge against Kiwior- and Cash-less Poland while covering a 1:1 home-urgency draw (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes align with 2.90 combined lambda, Sweden's 80% BTTS rate, and Poland's makeshift back line (Confidence: Moderate, Value: Moderate)",
+      "1:1 Scoreline Protection accounts for Poland's two home clean sheets and Sweden's 62.5% big-chance waste rate keeping the score tied (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528998",
+      "league": "UEFA Nations League",
+      "homeTeam": "Poland",
+      "awayTeam": "Sweden",
+      "match_time": "19:45",
+      "match_highlight": "Sweden's Gyökeres and Isak test Poland's depleted, Kiwior-less back line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528998,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 1:2 Sweden win against Poland's depleted defense and a 1:1 draw if home urgency and Swedish wastefulness keep it level, as neither script cleanly eliminates the other."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.90 combined lambda, 60% Over 2.5 rates for both teams, and Sweden's transition edge against a reshuffled Polish rear guard."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sweden has scored in all five Group B4 matches (20% clean-sheet rate), while Lewandowski leads a home attack facing a defense that conceded twice Saturday."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Sweden's transition superiority over Poland's missing defenders, while 1:1 captures the top baseline Poisson cell if Poland holds compact early."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 1:2 Over 2.5 projection and 2.90 lambda total, with two goals representing the 1:1 containment branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Poland drew at half-time in 80% of Group B4 matches before fading (60% Draw-Loss), while Sweden's 70% first-half goal share makes an early away lead the key fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:28:00 UTC"
+}
