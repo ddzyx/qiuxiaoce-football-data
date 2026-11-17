@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649550,
+    "matchup": "Iraq vs Iran",
+    "home_team": "Iraq",
+    "away_team": "Iran",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261117-iraq-vs-iran/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Iraq vs Iran Prediction & Match Analysis: Can Arnold's Youth Break Iran's Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1649550",
+      "league": "Friendlies",
+      "matchup": "Iraq vs Iran",
+      "matchTime": "2026-11-17 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Iran's superior Elo pedigree and second-half attacking depth make Draw / Away Win alongside Under 2.5 Goals the optimal projection in Basra.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Iran's second-half quality targets Iraq's scoring drought while home discipline preserves draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Combined 2.25 goal lambda and Iraq's five blanks in six matches point to a low-scoring final (Confidence: Moderate, Value: High)",
+      "0:0 Goalless Stalemate Contingency — Compact Iraqi home defense could hold a Taremi-less Iranian attack level throughout (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649550",
+      "league": "Friendlies",
+      "homeTeam": "Iraq",
+      "awayTeam": "Iran",
+      "match_time": "16:15",
+      "match_highlight": "Second-half Iranian quality tests Iraq's Basra home resistance in low-scoring final",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649550,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Iran's late 0:1 breakthrough via bench depth and a disciplined 1:1 Basra draw, as neither a solo away win nor a standalone draw adequately prices both Taremi's absence and Iraq's scoring slump."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined goal lambda, Iraq's 0.15 decayed goals-for average, and Iran's 42.9% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Iran's second-half bench superiority over an exhausted Iraq attack, while 1:1 covers Iraq exploiting Iran's goalkeeper rotation."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 total goals account for over half of the independent Poisson goal distribution and match tight final dynamics."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Iran scores 64.3% of its goals after halftime, pointing to a level break before either an Iranian winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:46:26 UTC"
+}
