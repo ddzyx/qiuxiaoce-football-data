@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1545899,
+    "matchup": "Mauritania vs Burkina Faso",
+    "home_team": "Mauritania",
+    "away_team": "Burkina Faso",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-mauritania-vs-burkina-faso/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mauritania vs Burkina Faso Tactical Breakdown & Match Analysis: Can Home Low Block Halt Stallions?",
+    "meta": {
+      "matchId": "1545899",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Mauritania vs Burkina Faso",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Burkina Faso's compact Group F defensive structure and Mauritania's disciplined low block project a tight, low-scoring contest leaning toward Draw / Away Win alongside Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Burkina Faso's higher winning probability and the realistic 0:0 stalemate script in Nouakchott (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.00 combined lambda and three consecutive 1:0 H2H meetings (Confidence: Moderate, Value: High)",
+      "BTTS: No supported by Burkina Faso's 0.33 Group F goals-conceded rate and 61.1% Poisson shutout outlook (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545899",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Mauritania",
+      "awayTeam": "Burkina Faso",
+      "match_time": "19:00",
+      "match_highlight": "Can Mauritania's low block hold Burkina Faso's set-piece threat for 90 minutes?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545899,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Burkina Faso's narrow 0:1 breakthrough script alongside a 0:0 stalemate because Mauritania's 93-minute containment on November 13 makes a single Away Win too exposed without draw protection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda of 2.00, 67.7% Poisson Under 2.5 density, and three straight 1:0 meetings support a low-scoring match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Burkina Faso have kept two consecutive Group F clean sheets (0.33 conceded per game) while projecting a 61.1% BTTS: No probability."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 15.8% behind Burkina Faso's defensive edge, while 0:0 (13.5%) captures a full-time low-block deadlock."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 total goals share the 27.1% Poisson modal peak under conservative Group F scoring rates."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half mirrors both sides' recent AFCON ties before either a late Burkina Faso winner (Draw-Loss) or full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 11:38:16 UTC"
+}
