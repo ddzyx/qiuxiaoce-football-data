@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1588399,
+    "matchup": "Truro City vs Billericay Town",
+    "home_team": "Truro City",
+    "away_team": "Billericay Town",
+    "league": "National League - South",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-truro-city-vs-billericay-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Truro City vs Billericay Town Tactical Breakdown & Preview: Defensive Steel vs Attacking Firepower",
+    "meta": {
+      "matchId": "1588399",
+      "league": "National League - South",
+      "matchup": "Truro City vs Billericay Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Truro City avoids defeat via Home Win / Draw in an open National League South clash projected to produce Over 2.5 goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Truro City's 2:1 home edge and 2:2 draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 3.26 combined lambda and Billericay Town's 2.43 goals-per-game output (Confidence: Moderate, Value: High)",
+      "Both Teams To Score (Yes) backed by over-80% single-side scoring projections and sub-20% clean-sheet rates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588399",
+      "league": "National League - South",
+      "homeTeam": "Truro City",
+      "awayTeam": "Billericay Town",
+      "match_time": "19:45",
+      "match_highlight": "Truro's tight defense meets Billericay's prolific attack in Cornwall.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588399,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Truro City's structured 2:1 home win script and the 2:2 draw script driven by Billericay Town's prolific attack and unbeaten league resilience, as a single call overlooks near-even lambda balance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.26 combined lambda total (63.2% Over 2.5 in Poisson baseline) and Billericay's 3.72 average total league goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Truro's 1.93 goals per game against Billericay's 1.29 conceded meets Billericay's 2.43 goals-per-game attack, yielding a 64.6% baseline BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Truro's home containment edging an open back line, while 2:2 captures Billericay's recurring high-scoring away draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.2%) leads the Poisson distribution and matches 2:1, while 4 goals (18.1%) reflects Billericay's frequent four-goal league outings."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Truro's compact first-half shape keeps the interval level before second-half separation determines either a 2:1 home win or a 2:2 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 14:08:20 UTC"
+}
