@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1554065,
+    "matchup": "Ho Chi Minh vs Buriram United",
+    "home_team": "Ho Chi Minh",
+    "away_team": "Buriram United",
+    "league": "ASEAN Club Championship",
+    "kickoff_utc": "2026-11-18 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-ho-chi-minh-vs-buriram-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ho Chi Minh vs Buriram United Prediction & Match Analysis: Caneda's Debut vs Home Defense",
+    "meta": {
+      "matchId": "1554065",
+      "league": "ASEAN Club Championship",
+      "matchup": "Ho Chi Minh vs Buriram United",
+      "matchTime": "2026-11-18 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Side with Draw / Away Win alongside Under 2.5 Goals in a tightly contested Group A clash where a 1:1 stalemate leads a 0:1 Buriram United away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers the modal 1:1 stalemate and Buriram United's superior late-game depth (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 combined lambda, 60.9% model share, and tight recent defending (Confidence: Moderate, Value: High)",
+      "Buriram United Clean-Sheet Shutout (0:1) serves as the key branch if Williams Minh Hoàng's absence blunts the hosts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1554065",
+      "league": "ASEAN Club Championship",
+      "homeTeam": "Ho Chi Minh",
+      "awayTeam": "Buriram United",
+      "match_time": "11:00",
+      "match_highlight": "Caneda debuts for Buriram against Ho Chi Minh's compact home structure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1554065,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate and a 0:1 Buriram road win, whereas a single call would ignore either Ho Chi Minh's tight home defense or Buriram's superior bench depth."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda (60.9% Under 2.5 probability), Ho Chi Minh's 0.86 V.League goals-conceded rate, and Buriram's 50.0% big-chance waste rate point to a low-scoring contest."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligns with the primary 1:1 scoreline as both teams clear 65% individual scoring expectations (69.9% home, 65.0% away) and Ho Chi Minh commit to an attacking home approach."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 tops the Poisson matrix at 13.3% given both clubs' recent draws, while 0:1 (11.1%) captures a Buriram clean sheet against an injury-trimmed host."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) dominate the Poisson total-goals distribution under a 2.25 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both sides tend toward cautious opening halves before second-half transitions and Buriram's bench quality decide between a 1:1 draw and a 0:1 away win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 23:08:22 UTC"
+}
