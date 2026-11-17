@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647644,
+    "matchup": "Croatia U21 vs Germany U21",
+    "home_team": "Croatia U21",
+    "away_team": "Germany U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-croatia-u21-vs-germany-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Croatia U21 vs Germany U21 Tactical Breakdown & Preview: Depleted Attacks in Rijeka Friendly",
+    "meta": {
+      "matchId": "1647644",
+      "league": "Friendlies",
+      "matchup": "Croatia U21 vs Germany U21",
+      "matchTime": "2026-11-17 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Croatia U21's home continuity and rest advantage against a depleted Germany U21 frontline support a Home Win / Draw direction alongside Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind a 1:1 stalemate or 1:0 Croatia U21 edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals driven by 2.25 combined lambda and confirmed forward absences (Confidence: Moderate, Value: Moderate)",
+      "Germany U21 set-piece breakthrough led by Muhammed Damar against rusty hosts (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647644",
+      "league": "Friendlies",
+      "homeTeam": "Croatia U21",
+      "awayTeam": "Germany U21",
+      "match_time": "17:00",
+      "match_highlight": "Rested Croatia U21 host Tresoldi-less Germany U21 in tight Rijeka friendly.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647644,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the 1:1 stalemate and 1:0 home-win scripts because Germany's confirmed attacking absences and 4-day turnaround blunt its depth edge, while Croatia's own three withdrawals and 42-day layoff make a single win call overly aggressive."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 total goal-based lambda (60.9% Poisson share under 2.5) and key forward absences on both sides."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% given mutual talent and friendly rotation, while 1:0 (12.6%) captures Croatia's rested home defensive edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) account for half of the Poisson total-goals distribution under a cautious 2.25 lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Croatia's 42-day layoff and 3-for-3 tracked half-time draws favor a level interval before either a 1:1 finish or a fresher second-half Croatian push."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 05:11:29 UTC"
+}
