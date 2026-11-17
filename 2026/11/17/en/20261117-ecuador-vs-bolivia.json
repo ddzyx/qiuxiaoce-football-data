@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647373,
+    "matchup": "Ecuador vs Bolivia",
+    "home_team": "Ecuador",
+    "away_team": "Bolivia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-ecuador-vs-bolivia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ecuador vs Bolivia Tactical Breakdown & Probabilistic Modeling: Possession Control vs Scoring Drought",
+    "meta": {
+      "matchId": "1647373",
+      "league": "Friendlies",
+      "matchup": "Ecuador vs Bolivia",
+      "matchTime": "2026-11-17 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ecuador is projected to defeat Bolivia by a 2:0 or 1:0 margin in Guayaquil, combining home territorial control with a clean sheet against scoreless visitors.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win via sustained Ecuadorian possession and defensive solidity despite friendly rotation (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals driven by Ecuador's 1.20 goal average, high big-chance waste, and Bolivia's five-match scoring drought (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Narrow 1:0 attrition grind if rotated Ecuadorian forwards take time to unlock Bolivia's 4-3-3 low block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647373",
+      "league": "Friendlies",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Bolivia",
+      "match_time": "23:30",
+      "match_highlight": "Ecuador's possession dominance tests Bolivia's five-match scoreless drought in Guayaquil.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647373,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by a +250 Elo edge, strong home defense, and Bolivia's five consecutive scoreless defeats, Ecuador projects to secure a 2:0 or 1:0 win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda, Ecuador's 90.0% big-chance waste rate, friendly rotation, and Bolivia's 0.00 decayed scoring form anchor Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Bolivia has failed to score in five straight friendlies and six of eight sample matches, while Ecuador kept clean sheets in two of three home outings."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Ecuador's home control and Bolivia's 0:2 defeats to Peru and Paraguay point to 2:0, with 1:0 covering rotation-induced finishing friction."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The Poisson distribution peaks at two goals (26.7%) and one goal (23.7%), matching a one-sided low-to-moderate scoring home win."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Ecuador led at halftime in all three home sample wins while Bolivia trailed at the break in 75% of matches, with Draw-Win covering slow rotation starts."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 16:26:03 UTC"
+}
