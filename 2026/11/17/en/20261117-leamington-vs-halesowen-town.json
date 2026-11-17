@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1596884,
+    "matchup": "Leamington vs Halesowen Town",
+    "home_team": "Leamington",
+    "away_team": "Halesowen Town",
+    "league": "Non League Premier - Southern Central",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-leamington-vs-halesowen-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leamington vs Halesowen Town Tactical Breakdown & Probabilistic Modeling: Goalkeeper Void & Tempo Risk",
+    "meta": {
+      "matchId": "1596884",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Leamington vs Halesowen Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Halesowen Town hold the decisive edge in attacking quality and form stability against a porous Leamington defense adjusting to Brian Okonkwo's departure, though covering the Draw remains prudent given the hosts' reliable home scoring output.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing Away Win via Halesowen's 1.60 PPG edge and Leamington's 1.94 GA/gm (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by a 3.29 combined lambda and Leamington's three straight high-scoring league games (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes as Leamington's 1.44 GF/gm meets Halesowen's 1.60 GA/gm road vulnerability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596884",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Leamington",
+      "awayTeam": "Halesowen Town",
+      "match_time": "19:45",
+      "match_highlight": "Holleran faces former club as Leamington adjust after Okonkwo's loan ends.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596884,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors on a 1:2 Away Win driven by Halesowen's superior 1.60 PPG and Okonkwo's exit, while covering a 2:2 Draw because Halesowen concede 1.60 goals per league game against fast-starting hosts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.29 combined lambda (63.9% Poisson Over 2.5) and Leamington's recent 2:3, 2:3, and 2:2 league scorelines."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Leamington's 1.44 GF/gm and three straight two-goal league outings meet Halesowen's 1.60 GA/gm and 21.9% clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Halesowen's second-half edge over an unsettled Leamington defense, while 2:2 covers a high-scoring stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns directly with the 3.29 total lambda center of gravity and the 22.1% (3 goals) and 18.2% (4 goals) Poisson buckets."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss projects an even first half before Halesowen pull away late, while Win-Draw covers Leamington's habit of leading early before conceding."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 14:26:46 UTC"
+}
