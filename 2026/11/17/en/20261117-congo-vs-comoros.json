@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1545889,
+    "matchup": "Congo vs Comoros",
+    "home_team": "Congo",
+    "away_team": "Comoros",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-congo-vs-comoros/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Congo vs Comoros Prediction & Match Analysis: Will Home Urgency Break the Deadlock? — Scoreline Preview",
+    "meta": {
+      "matchId": "1545889",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Congo vs Comoros",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 Goals reflects Comoros' +167 Elo advantage and Congo's home defensive discipline in a tight 0:0 or 0:1 matchup.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by 39.3% Poisson draw share and Comoros' superior Group G points and Elo (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by 1.34 combined lambda and Congo's three consecutive low-scoring qualifiers (Confidence: Moderate, Value: High)",
+      "Congo 1:0 Home Surprise if Le Roy's side convert a rare transition chance and protect the box (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545889",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Congo",
+      "awayTeam": "Comoros",
+      "match_time": "19:00",
+      "match_highlight": "Can Congo score at home after a 0:0 stalemate in Moroni?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545889,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 0:0 stalemate from Congo's home resilience and a 0:1 Comoros breakthrough backed by their +167 Elo edge, whereas a single call overlooks either the Draw's 39.3% Poisson share or Comoros' territorial superiority."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides carry a 0.67 lambda baseline (1.34 total, 84.8% Under 2.5 probability) and just played out a 0:0 draw with three combined shots on target."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson models give BTTS No a 76.2% share as Congo failed to score in two of three qualifiers and Comoros kept two group clean sheets."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "0:0 (26.2%) mirrors the November 13 stalemate and Congo's 0.33 goals-per-game output, while 0:1 (17.5%) captures Comoros' second-half scoring edge if Congo push forward late."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "1 total goal (35.1%) and 0 total goals (26.2%) account for over 61% of the Poisson goal distribution in a low-chance rematch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both sides drew two of three Group G first halves and Comoros have zero first-half goals, pointing to a level interval before either a 0:0 finish or a second-half Comoros winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 10:31:39 UTC"
+}
