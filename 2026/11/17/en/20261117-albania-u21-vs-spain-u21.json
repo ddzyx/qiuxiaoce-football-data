@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649028,
+    "matchup": "Albania U21 vs Spain U21",
+    "home_team": "Albania U21",
+    "away_team": "Spain U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-albania-u21-vs-spain-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Albania U21 vs Spain U21 Prediction & Match Analysis: Rotation Risks vs Home Block — Scoreline Preview",
+    "meta": {
+      "matchId": "1649028",
+      "league": "Friendlies",
+      "matchup": "Albania U21 vs Spain U21",
+      "matchTime": "2026-11-17 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and squad-depth fundamentals favor Spain U21 to prevail in a tight, low-scoring contest in Tirana, with a Draw retained as the secondary script due to confirmed Spanish rotation.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Spain U21 leading) — Spain's 165.91M EUR talent pool against Albania's zero-clean-sheet friendly record, tempered by confirmed guest rotation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Aligned with the 2.25 combined lambda, Spain's three clean sheets in five games, and Albania's compact home setup (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: No — Supported by Spain's 0.54 decayed goals-against average and Albania's difficulty breaching elite U21 defenses, with 1:1 as the main draw variance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649028",
+      "league": "Friendlies",
+      "homeTeam": "Albania U21",
+      "awayTeam": "Spain U21",
+      "match_time": "18:00",
+      "match_highlight": "Spain U21's confirmed squad rotation tests Albania's compact home structure in Tirana.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649028,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Spain U21's superior depth supports a 0:2 away win, while a 1:1 draw remains live because David Gordo confirmed friendly rotation against an organized host, making a single call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal expectancy (60.9% baseline Under 2.5 probability) aligns with Spain's 0.54 decayed goals conceded and Albania's compact home approach."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Spain U21 have kept three clean sheets in their last five matches and the baseline assigns 54.6% to at least one side failing to score, matching the primary 0:2 projection."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Spain's second-half bench quality against a host without a clean sheet in five friendlies, while 1:1 covers the top Poisson stalemate if rotation blunts Spain."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7% baseline) and one goal (23.7% baseline) dominate the low-scoring 2.25 lambda distribution under cautious friendly tactics."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Albania's disciplined Tirana block can hold Spain level at half-time before Spain's bench either breaks through late (Draw-Loss) or settles for a stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 10:16:36 UTC"
+}
