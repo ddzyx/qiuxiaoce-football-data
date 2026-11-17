@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559491,
+    "matchup": "Albania U17 vs Finland U17",
+    "home_team": "Albania U17",
+    "away_team": "Finland U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-albania-u17-vs-finland-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Albania U17 vs Finland U17 Prediction & Match Analysis: Can Compact Hosts Slow Finland? — Model Preview",
+    "meta": {
+      "matchId": "1559491",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Albania U17 vs Finland U17",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Finland U17 is backed to avoid defeat in Elbasan, led by an away win with the draw formally covered.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Finland U17's superior attacking form alongside a draw-friendly table setup (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 3.50 combined goal expectancy and Finland's 5.00-goal qualifying match average (Confidence: Moderate, Value: High)",
+      "Second-half goal surge contingency reflects Albania U17 scoring all three tournament goals after the hour mark (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559491",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Albania U17",
+      "awayTeam": "Finland U17",
+      "match_time": "13:00",
+      "match_highlight": "Finland's early firepower tests Albania's resilient second-half comeback machine in Elbasan.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559491,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Finland U17 win driven by four-match attacking momentum and a 1:1 draw that suits both teams' League A and group-winning targets, as a single away call risks understating Albania's 0.50 goals-conceded home resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.50 combined goal expectancy, with Finland averaging 3.00 scored and 2.00 conceded per qualifier against an Albania side capable of late second-half breakthroughs."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Finland's clinical front line edging past Albania's defense while conceding to a late push; 1:1 captures the compact stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals represent the top two probability buckets in the 3.50-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Albania's disciplined first-half defending favors a level interval before Finland's attacking depth either breaks through late (Draw-Loss) or both sides settle level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:30:11 UTC"
+}
