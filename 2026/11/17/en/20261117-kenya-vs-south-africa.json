@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545894,
+    "matchup": "Kenya vs South Africa",
+    "home_team": "Kenya",
+    "away_team": "South Africa",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-kenya-vs-south-africa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kenya vs South Africa Tactical Breakdown & Probabilistic Modeling: Late Vulnerability vs Host Resilience",
+    "meta": {
+      "matchId": "1545894",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Kenya vs South Africa",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leans toward a South Africa victory on Elo and scoring superiority while covering a Nairobi stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by South Africa's 197-point Elo edge and Kenya's home draw resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.17 combined lambda and four goals in Leg 1 (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge if altitude and a 50.0% big-chance waste rate blunt Bafana Bafana (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545894",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Kenya",
+      "awayTeam": "South Africa",
+      "match_time": "16:00",
+      "match_highlight": "Can South Africa's high-scoring attack overcome Nairobi altitude and Kenya's resilience?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545894,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 South Africa win driven by Elo and Group D urgency alongside a 1:1 draw, as a single away call understates Kenya's Soweto fightback and Nairobi altitude."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.17 combined goal lambda, a 61.4% Poisson Over-2.5 share, and four goals in Friday's first leg."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Both 1:2 (9.9%) and 1:1 (9.1%) sit atop the Poisson matrix, balancing South Africa's attacking quality against Kenya's home scoring threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the Poisson total distribution at 22.3% ahead of two goals at 21.1%, matching the 1:2 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight first half in Nairobi before South Africa's deeper second-half attack decides it or Kenya holds a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:16:09 UTC"
+}
