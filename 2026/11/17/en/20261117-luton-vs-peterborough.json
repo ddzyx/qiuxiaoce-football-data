@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1588885,
+    "matchup": "Luton vs Peterborough",
+    "home_team": "Luton",
+    "away_team": "Peterborough",
+    "league": "EFL Trophy",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-luton-vs-peterborough/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Luton Town vs Peterborough United Prediction & Match Analysis: Can Depleted Posh Resist? — Scoreline Preview",
+    "meta": {
+      "matchId": "1588885",
+      "league": "EFL Trophy",
+      "matchup": "Luton vs Peterborough",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Luton Town's high-pressing structure and superior available squad depth project a controlled Home Win over an injury- and international-depleted Peterborough United.",
+    "possibilityAssessment": [
+      "Luton Town Home Win supported by 4W-1D recent form and Peterborough's ten senior absences (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals and BTTS No backed by 60.9% Poisson under expectancy and Peterborough's three-match scoring drought (Confidence: Moderate, Value: High)",
+      "Low-tempo 0:0 stalemate contingency if heavy Luton rotation without Jamie Donley stalls final-third penetration (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1588885",
+      "league": "EFL Trophy",
+      "homeTeam": "Luton",
+      "awayTeam": "Peterborough",
+      "match_time": "19:00",
+      "match_highlight": "Luton's high press targets Peterborough's injury-hit backline at Kenilworth Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1588885,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Luton's 66.3 FW-OTI and five-match unbeaten form outweigh cup rotation against a Peterborough squad missing ten senior players."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 baseline lambda total, Luton rotation without Jamie Donley, and Peterborough's three-match scoring drought suppress goal volume."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Peterborough arrive without injured striker Harry Leonard after three straight blanks against a Luton unit conceding 0.51 decayed goals recently."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Luton's recent 2:0 wins over Peterborough and Forest Green converge with Under 2.5 shutout projections for a 2:0 or 1:0 result."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals lead the Poisson distribution at 26.7% and 23.7% respectively and fit a one-sided controlled cup victory."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Luton's 97.9 pressing index favors an early breakthrough as in their October 31 meeting, with Draw-Win covering slower rotated starts."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 11:46:16 UTC"
+}
