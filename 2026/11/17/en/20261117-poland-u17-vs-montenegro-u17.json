@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1559506,
+    "matchup": "Poland U17 vs Montenegro U17",
+    "home_team": "Poland U17",
+    "away_team": "Montenegro U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-poland-u17-vs-montenegro-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Poland U17 vs Montenegro U17 Prediction & Match Analysis: Can Poland Crack Montenegro's Group A9 Block?",
+    "meta": {
+      "matchId": "1559506",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Poland U17 vs Montenegro U17",
+      "matchTime": "2026-11-17 18:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Poland U17 are projected to win or draw (Home Win / Draw) behind superior multi-goal firepower and stronger common-opponent resistance, anchored by a 2:1 primary scoreline.",
+    "possibilityAssessment": [
+      "Poland U17 to win or draw via superior 1.83 decayed scoring rate and 44.3% Poisson win baseline (Confidence: Low, Value: Moderate)",
+      "Over 2.5 total goals driven by a 3.75 combined lambda and both teams conceding 2.50+ goals per qualifier (Confidence: Low, Value: Moderate)",
+      "Both Teams To Score (Yes) as Poland enter with zero clean sheets in five matches while Montenegro scored in three straight games (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559506",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Poland U17",
+      "awayTeam": "Montenegro U17",
+      "match_time": "18:30",
+      "match_highlight": "Poland chase Group A9 breakthrough against resilient Montenegro defense.",
+      "ai_confidence": "Low",
+      "fixtureId": 1559506,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 Poland breakthrough and a 2:2 draw contingency, because Poland's five-match zero-clean-sheet run makes a single Home Win call vulnerable to Montenegro's counter."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.75 combined goal-based lambda (72.3% Poisson Over 2.5) and qualifying defensive concession averages of 2.50 and 3.00 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poland have conceded in five consecutive matches while Montenegro scored in all three recorded fixtures, matching the 71.4% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Poland's 2+ goal scoring consistency against Montenegro's 1-goal output, while 2:2 captures an open draw if Montenegro capitalize in transition."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (20.7%) and four goals (19.4%) lead the Poisson total distribution under a 3.75 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Poland scored zero first-half goals in both qualifiers while Montenegro reached half-time 0:0 against Ukraine, pointing to a level interval before a decisive second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 10:23:55 UTC"
+}
