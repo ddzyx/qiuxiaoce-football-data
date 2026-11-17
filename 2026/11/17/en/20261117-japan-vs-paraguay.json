@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640088,
+    "matchup": "Japan vs Paraguay",
+    "home_team": "Japan",
+    "away_team": "Paraguay",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 13:10:00",
+    "source_url": "https://xgmind.com/matches/20261117-japan-vs-paraguay/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Japan vs Paraguay Tactical Breakdown & Preview: Rotation Fatigue vs Low-Block Defense",
+    "meta": {
+      "matchId": "1640088",
+      "league": "Friendlies",
+      "matchup": "Japan vs Paraguay",
+      "matchTime": "2026-11-17 13:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw alongside Under 2.5 Goals as Japan's +74 Elo advantage and second-half bench depth face Paraguay's rested low-block defense in a tight neutral-venue friendly.",
+    "possibilityAssessment": [
+      "Japan Win or Draw supported by +74 Elo gap, 1.20 vs 1.05 goal lambda, and Paraguay missing Andrés Cubas (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by 2.25 combined lambda, 60.9% Poisson probability, and Paraguay's 0.57 recent decayed GA (Confidence: Moderate, Value: High)",
+      "Exact Score 1:1 hedge capturing Paraguay's counter-attacking threat against a Japan defense without a clean sheet in five games (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640088",
+      "league": "Friendlies",
+      "homeTeam": "Japan",
+      "awayTeam": "Paraguay",
+      "match_time": "13:10",
+      "match_highlight": "Rotated Japan attack tests rested Paraguay defense in Kallang.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640088,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Japan win driven by second-half depth and a 1:1 stalemate created by Japan's absences and 74-hour turnaround, where a single win call leaves the draw path unprotected."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal lambda of 2.25 produces a 60.9% Under 2.5 baseline against Paraguay's compact 29.7% possession defense."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Anchors on Japan's frequent one-goal winning margin and the 13.3% Poisson modal 1:1 draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the top two Poisson total-goal buckets at 26.7% and 23.7% probability."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides score over 61% of goals after half-time, pointing to a level opening 45 minutes before Japan either edge ahead late or share a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:49:44 UTC"
+}
