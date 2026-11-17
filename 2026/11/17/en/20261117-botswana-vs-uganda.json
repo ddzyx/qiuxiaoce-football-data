@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1545886,
+    "matchup": "Botswana vs Uganda",
+    "home_team": "Botswana",
+    "away_team": "Uganda",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-botswana-vs-uganda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Botswana vs Uganda Tactical Breakdown & Probabilistic Modeling: Can Backup Keeper Hold Off Zebras?",
+    "meta": {
+      "matchId": "1545886",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Botswana vs Uganda",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Botswana is projected to avoid defeat via a 1:1 draw or 2:1 home breakthrough as Uganda adjusts to confirmed absences of Denis Onyango and Rogers Mato.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw anchored by a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Total Goals Outlook: Under 2.5 Goals led by the 2-goal Poisson peak at 25.7% (Confidence: Moderate, Value: Moderate)",
+      "Scoring Dynamic: Both Teams To Score Yes driven by Botswana's 1.67 GF/GA qualifier profile (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545886",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Botswana",
+      "awayTeam": "Uganda",
+      "match_time": "19:00",
+      "match_highlight": "Botswana tests backup goalkeeper Kingdom Osayi in Gaborone home opener.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545886,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1:1 stalemate and a 2:1 home breakthrough against a weakened Uganda spine, whereas a single call would prematurely discard either supported script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.50 combined lambda, a 54.4% Poisson Under 2.5 share, and tight recent head-to-head scoring margins."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Botswana has scored and conceded in all three Group H qualifiers while Uganda fields a backup goalkeeper without Denis Onyango."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.8% and mirrors Saturday's draw, while 2:1 captures Botswana converting home urgency late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.7%) and 3 goals (21.4%) represent the top two Poisson clusters around the 2.50 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Tight first-half parity mirrors recent meetings before either an unchanged 1:1 finish or a late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 10:27:30 UTC"
+}
