@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528999,
+    "matchup": "Bosnia & Herzegovina vs Romania",
+    "home_team": "Bosnia & Herzegovina",
+    "away_team": "Romania",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-bosnia-herzegovina-vs-romania/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bosnia & Herzegovina vs Romania Tactical Breakdown & Probabilistic Modeling: Defensive Fragility Test",
+    "meta": {
+      "matchId": "1528999",
+      "league": "UEFA Nations League",
+      "matchup": "Bosnia & Herzegovina vs Romania",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bosnia & Herzegovina's unbeaten home group record and superior attacking output face a porous Romanian defense missing suspended midfielder Tudor Băluță, supporting a Home Win / Draw projection alongside Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw — Bosnia's 1.60 goals per match and set-piece edge exploit Romania's 2.80 goals conceded per game, while the Draw covers dead-rubber home rotation risk (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Thesis: Over 2.5 Goals & BTTS Yes — Combined 3.30 goal-expectancy lambdas and Romania's 80.0% Over 2.5 rate align with an open three-goal exchange (Confidence: Moderate, Value: High)",
+      "Contingency Script Thesis: 1:1 Draw Stalemate — Should Tabaković's absence and potential Bosnian rotation blunt finishing efficiency, urgent Romania can trade one counter-attacking goal for a point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528999",
+      "league": "UEFA Nations League",
+      "homeTeam": "Bosnia & Herzegovina",
+      "awayTeam": "Romania",
+      "match_time": "19:45",
+      "match_highlight": "Bosnia's set-piece threat targets winless-away Romania missing suspended Tudor Băluță.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528999,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bosnia's leading 2:1 home-win script against Romania's 0% clean-sheet defense alongside the 1:1 draw branch, because Bosnia's locked-in second place and Tabaković's injury make a single Home Win call less resilient."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.30 combined lambda expectancy, Romania's 80.0% Over 2.5 rate (19 total goals in five games), and Bet365's 1.80 Over pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bosnia's 88.9% scoring expectation meets Romania's zero-clean-sheet defense, while Romania's transition threats target a Bosnia backline with a 40.0% clean-sheet rate missing Hadžikadunić."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Anchors on the two highest-density Poisson outcomes (9.8% and 8.9%), pairing Bosnia's home attacking edge with Romania's survival-driven counter-attacking threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Targets the top two modes of the Poisson total-goals distribution (22.1% for 3 goals, 20.1% for 2 goals) across open-game and rotated-host scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win captures Romania's 80.0% half-time trailing rate without suspended Băluță, whereas Draw-Draw covers Bosnia's 60.0% half-time draw tendency if rotated hosts start slowly."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:32:05 UTC"
+}
