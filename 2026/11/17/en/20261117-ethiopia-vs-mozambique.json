@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1545891,
+    "matchup": "Ethiopia vs Mozambique",
+    "home_team": "Ethiopia",
+    "away_team": "Mozambique",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-ethiopia-vs-mozambique/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ethiopia vs Mozambique Tactical Breakdown & Modeling: Can Walias Repeat Maputo Stunner?",
+    "meta": {
+      "matchId": "1545891",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Ethiopia vs Mozambique",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mozambique are projected to avoid defeat and hold a slight edge in a tight, low-scoring Group J return leg at Bahir Dar.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Mozambique's 1.17 goal-based lambda and Ethiopia's 0.67 conceded-per-qualifier defense (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals backed by a 1.84 combined Poisson lambda and 72.0% probability mass on 0 to 2 goals (Confidence: Moderate, Value: Moderate)",
+      "Ethiopia 1-0 late-counter upset contingency if Mozambique replicate Maputo finishing wastefulness (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545891",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Ethiopia",
+      "awayTeam": "Mozambique",
+      "match_time": "13:00",
+      "match_highlight": "Can Mozambique break Ethiopia's low block after Maputo's shock loss?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545891,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Mozambique's superior 1.67 qualifying scoring rate (0:1) alongside a 1:1 draw script given Ethiopia's compact defense and Mozambique's five-match run without a clean sheet, whereas a single Away Win would ignore Mozambique's defensive leakage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson lambda sits at 1.84 with 72.0% of probability on 0 to 2 goals, reflecting Ethiopia's 0.33 qualifying goals per match and low-block containment."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 18.6% if Mozambique convert their territorial edge, while 1:1 (12.4%) accounts for Mozambique conceding in five straight fixtures."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (29.2%) and 2 goals (26.9%) capture the two dominant branches of a tight, low-margin tactical battle."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides trend toward cagey, level first halves before either Mozambique find a late breakthrough (Draw-Loss) or Ethiopia hold firm for a share of the spoils (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:11:17 UTC"
+}
