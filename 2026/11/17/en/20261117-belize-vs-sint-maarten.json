@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1640005,
+    "matchup": "Belize vs Sint Maarten",
+    "home_team": "Belize",
+    "away_team": "Sint Maarten",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-belize-vs-sint-maarten/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Belize vs Sint Maarten Tactical Breakdown & Probabilistic Modeling: Defensive Order vs Transition Fragility",
+    "meta": {
+      "matchId": "1640005",
+      "league": "CONCACAF Nations League",
+      "matchup": "Belize vs Sint Maarten",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Belize Win or Draw paired with Under 2.5 Goals and BTTS: No captures both Belize's Group D defensive discipline and the low-scoring neutral-venue dynamics.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Belize's 1.00 Group D goals-conceded rate and September H2H shutout anchor the double-chance call, Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals (2.25 combined lambda and five straight Under 2.5 Group D games for Belize support a tight total, Confidence: Moderate, Value: Moderate)",
+      "1:1 Transition Draw (Sint Maarten's survival urgency via Gerwin Lake and Quinton Christina could force a single goal against a blunt Belize attack, Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640005",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "Belize",
+      "awayTeam": "Sint Maarten",
+      "match_time": "19:00",
+      "match_highlight": "Belize's compact block faces winless Sint Maarten for League B survival.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640005,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow Belize shutout win over leaky Sint Maarten and a 1:1 or 0:0 stalemate given Belize's four-match scoring drought on neutral turf."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 total lambda, 60.9% Poisson Under probability, and five consecutive Under 2.5 Group D fixtures for Belize."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by 54.6% Poisson BTTS: No expectancy, five straight BTTS: No Group D matches for Belize, and Sint Maarten failing to score in three of five qualifiers."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Belize's September H2H blueprint and Group D defensive control, while 1:1 covers the top raw Poisson density if Sint Maarten convert one transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the Poisson distribution and align directly with Belize's tight Group D match totals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Belize have zero first-half goals in Group D, pointing toward a level interval before either exploiting Sint Maarten's late fatigue or settling for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 11:55:02 UTC"
+}
