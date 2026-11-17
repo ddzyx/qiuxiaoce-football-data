@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1647370,
+    "matchup": "Saudi Arabia vs Uzbekistan",
+    "home_team": "Saudi Arabia",
+    "away_team": "Uzbekistan",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261117-saudi-arabia-vs-uzbekistan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saudi Arabia vs Uzbekistan Prediction & Match Analysis: Can Green Falcons Exploit Khusanov Void?",
+    "meta": {
+      "matchId": "1647370",
+      "league": "Friendlies",
+      "matchup": "Saudi Arabia vs Uzbekistan",
+      "matchTime": "2026-11-17 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Saudi Arabia's Doha continuity and five-match winning momentum project them to avoid defeat against a Khusanov-less Uzbekistan side in a controlled, under-2.5-goal friendly.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Saudi Arabia's Doha residency and Uzbekistan's winless away friendly defense (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.25 combined lambda and 60.9% Poisson under-2.5 distribution (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough script driven by both teams' low first-half goal shares and Uzbekistan's late defensive fade (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647370",
+      "league": "Friendlies",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uzbekistan",
+      "match_time": "15:30",
+      "match_highlight": "Saudi Arabia's Doha winning streak tests Uzbekistan's Khusanov-less backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647370,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 1:0 home win leads behind Doha continuity and Khusanov's absence, while a 1:1 draw covers Saudi flank absences and Uzbekistan's higher Elo rating, making a single call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda (60.9% under 2.5), Saudi Arabia's four recent Gulf Cup clean sheets, and Sultan Mandash's absence favor two or fewer goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Saudi Arabia breaking down a depleted Uzbek defense late, while 1:1 reflects the 13.3% modal Poisson stalemate if Shomurodov finds a counter."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) hold half of the Poisson total-goals distribution around the 2.25 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Low first-half goal shares point to an even interval before Saudi Arabia exploits Uzbekistan's late fragility (Draw-Win) or rotation keeps it level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 03:38:03 UTC"
+}
