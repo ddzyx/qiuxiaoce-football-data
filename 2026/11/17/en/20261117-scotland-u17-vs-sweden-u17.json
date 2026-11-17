@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559508,
+    "matchup": "Scotland U17 vs Sweden U17",
+    "home_team": "Scotland U17",
+    "away_team": "Sweden U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-scotland-u17-vs-sweden-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Scotland U17 vs Sweden U17 Tactical Breakdown & Probabilistic Modeling: Defensive Asymmetry in Tirana",
+    "meta": {
+      "matchId": "1559508",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Scotland U17 vs Sweden U17",
+      "matchTime": "2026-11-17 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sweden U17's tighter defensive structure and lingering Group 4 progression incentive position them to avoid defeat against a Scotland U17 side conceding 3.50 goals per qualifier, with 1:2 and 2:2 anchoring an Over 2.5 outlook.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Sweden U17's defensive superiority (1.00 GA/match) against Scotland's 3.50 GA/match leakiness while covering Sweden's 0.50 GF/match open-play drought (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by lambda_total 3.50 (67.9% Poisson density) and Scotland's 5.50-goal Group 4 match average (Confidence: Moderate, Value: Moderate)",
+      "1:2 and 2:2 exact scorelines span both a narrow Swedish breakthrough against Scotland's second-half fade and an open four-goal stalemate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559508",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Scotland U17",
+      "awayTeam": "Sweden U17",
+      "match_time": "13:00",
+      "match_highlight": "Can Sweden's muted attack punish Scotland's leaky defense in Tirana?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559508,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sweden's 1:2 away win against Scotland's 3.50 GA/match defense and the 2:2 draw branch, because Sweden's 0.50 Group 4 goals-per-game output makes a single away-win call overly exposed to a high-scoring stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by lambda_total 3.50 (67.9% Over 2.5 Poisson baseline) and Scotland U17 averaging 5.50 total goals across their two Group 4 qualifiers."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 aligns with Sweden's defensive edge exploiting Scotland's second-half vulnerability, while 2:2 accounts for Scotland's 2.00 qualifying goals-per-game threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.6%) and 4 goals (18.9%) represent the two highest-density Poisson total buckets and match Scotland's recent high-scoring variance."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Sweden's 0% first-half goal share in Group 4 points to a level interval before Scotland's second-half defensive fade either yields a 1:2 loss or holds at 2:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 01:42:01 UTC"
+}
