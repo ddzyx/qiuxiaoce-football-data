@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1528997,
+    "matchup": "Rep. Of Ireland vs Kosovo",
+    "home_team": "Rep. Of Ireland",
+    "away_team": "Kosovo",
+    "league": "UEFA Nations League",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-rep-of-ireland-vs-kosovo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rep. Of Ireland vs Kosovo Tactical Breakdown & Probabilistic Modeling: Low-Block Attrition in Dublin",
+    "meta": {
+      "matchId": "1528997",
+      "league": "UEFA Nations League",
+      "matchup": "Rep. Of Ireland vs Kosovo",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw in a tight, low-scoring Dublin finale where Kosovo's four confirmed absences favour Ireland's first-half pressure alongside live 0:0 stalemate risk.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers Ireland's home attack against a depleted Kosovo core and the draw risk posed by Nathan Collins's absence (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 1.8 lambda_total baseline and Kosovo's 0.6 goals-per-match low-block profile (Confidence: High, Value: Moderate)",
+      "BTTS: No reflects Kosovo's 60.0% clean-sheet rate and the loss of Edon Zhegrova and Ermal Krasniqi (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1528997",
+      "league": "UEFA Nations League",
+      "homeTeam": "Rep. Of Ireland",
+      "awayTeam": "Kosovo",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Kosovo seek stalemate in Dublin against must-win Ireland.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1528997,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win against depleted Kosovo and a 0:0 stalemate, as Nathan Collins's absence and Ireland's second-half drought make a single Home Win too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 1.8 lambda_total (73.1% Poisson Under 2.5), Kosovo's 4-of-5 Under 2.5 trend, and Zhegrova's absence."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kosovo's 60.0% clean-sheet rate and 0.6 goals/match attack minus Zhegrova and Krasniqi point strongly to at least one blank."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 captures Ireland's first-half edge over a patched-up Kosovo shield, while 0:0 covers Kosovo's low-block containment."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Reflects the top two exact-goal Poisson densities (29.8% for 1 goal, 26.8% for 2 goals) in a compressed 1.8-lambda fixture."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Pairs Ireland's 100% first-half goal share leading to a 1:0 hold against Kosovo's 80.0% half-time draw containment."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 13:24:24 UTC"
+}
