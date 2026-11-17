@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1559498,
+    "matchup": "Estonia U17 vs Wales U17",
+    "home_team": "Estonia U17",
+    "away_team": "Wales U17",
+    "league": "UEFA U17 Championship - Qualification",
+    "kickoff_utc": "2026-11-17 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-estonia-u17-vs-wales-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estonia U17 vs Wales U17 Prediction & Match Analysis: Can Cymru Capitalize Without Walls? — Preview",
+    "meta": {
+      "matchId": "1559498",
+      "league": "UEFA U17 Championship - Qualification",
+      "matchup": "Estonia U17 vs Wales U17",
+      "matchTime": "2026-11-17 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wales U17 are projected to claim an ordinary full-time away victory as their superior defensive organization and second-half attacking depth overwhelm an Estonia backline leaking five goals per qualifier.",
+    "possibilityAssessment": [
+      "Wales U17 to win via second-half territorial acceleration and set-piece pressure on a 3:0 trajectory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by Estonia U17's 5.0 goals-conceded rate and 3.75 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Wales U17 clean-sheet control victory (0:2) if Archie Walls's suspension slows early central tempo (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559498",
+      "league": "UEFA U17 Championship - Qualification",
+      "homeTeam": "Estonia U17",
+      "awayTeam": "Wales U17",
+      "match_time": "14:00",
+      "match_highlight": "Suspended Wales captain Archie Walls tests depth against leaky Estonia defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559498,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Projected 0:3 and 0:2 scorelines reflect Wales U17's 2:0 win over Ireland and Estonia's 10 goals conceded in two Group 1 games."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.75 combined goal-expectancy lambda and Estonia U17's 5.00 goals-conceded average across Group 1."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "Joint 10.6% Poisson leaders balancing Wales U17's clean-sheet stability against Estonia's second-half defensive vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Top two Poisson goal-count outcomes around lambda_total 3.75 given Estonia's propensity to concede late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Wales U17 drew both Group 1 first halves 0:0 before winning late vs Ireland, while Loss-Loss covers an earlier Welsh breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 02:12:53 UTC"
+}
