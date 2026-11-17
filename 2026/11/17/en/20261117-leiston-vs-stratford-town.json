@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1596943,
+    "matchup": "Leiston vs Stratford Town",
+    "home_team": "Leiston",
+    "away_team": "Stratford Town",
+    "league": "Non League Premier - Southern Central",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-leiston-vs-stratford-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leiston vs Stratford Town Tactical Breakdown & Match Analysis: Defensive Fragility vs Unbeaten Run",
+    "meta": {
+      "matchId": "1596943",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Leiston vs Stratford Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stratford Town's scoring efficiency and unbeaten run against Leiston's porous home defense support a Draw / Away Win direction paired with Over 2.5 goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Stratford Town's 41.0% Poisson win projection alongside a live high-scoring draw branch (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes backed by a 3.52 combined lambda and sub-19% clean-sheet probabilities for both sides (Confidence: Moderate, Value: High)",
+      "Second-half comeback draw contingency driven by Leiston's late-scoring resilience and Stratford's recent difficulty protecting road leads (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596943",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Leiston",
+      "awayTeam": "Stratford Town",
+      "match_time": "19:45",
+      "match_highlight": "Leiston's 2.19 conceded rate meets Stratford's five-match league unbeaten streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596943,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Stratford Town's 1:2 away win projection while retaining the 2:2 draw script given Stratford's eight league draws and narrow 0.10 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.52 combined lambda, a 68.3% Poisson Over 2.5 projection, and Leiston's 3.94 average goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 68.5% Poisson BTTS projection as Leiston's 1.75 scoring rate faces Stratford's 1.67 conceding rate and weak clean-sheet floors."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 aligns with Stratford's narrow lambda edge, while 2:2 reflects both clubs' November 14 away draws and fragile second-half defending."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.5%) and four goals (18.9%) represent the two highest-probability outcomes around the 3.52 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Low first-half goal shares point to Draw-Loss as Stratford pull away late, while Loss-Draw covers an early away lead pegged back after halftime."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 14:30:01 UTC"
+}
