@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597347,
+    "matchup": "Chippenham Town vs Sholing",
+    "home_team": "Chippenham Town",
+    "away_team": "Sholing",
+    "league": "Non League Premier - Southern South",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-chippenham-town-vs-sholing/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chippenham Town vs Sholing Tactical Breakdown & Probabilistic Modeling: Defensive Leaks vs Draw Threat",
+    "meta": {
+      "matchId": "1597347",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Chippenham Town vs Sholing",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads the probabilistic outlook as Sholing's superior defensive record faces Chippenham Town's vulnerable backline in a tight Southern League rematch.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Sholing's 1.57 vs 1.26 scoring-expectancy edge alongside their high league draw frequency (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes reflect a 2.83 combined lambda and suppressed clean-sheet projections for both sides (Confidence: Moderate, Value: Moderate)",
+      "1:1 Scoreline Contingency remains live if Sholing's finishing stalls and Chippenham replicate last week's home-and-away response (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597347",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Chippenham Town",
+      "awayTeam": "Sholing",
+      "match_time": "19:45",
+      "match_highlight": "Porous home defense meets draw-prone Sholing seven days after 1-1 stalemate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597347,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Sholing's 1:2 away-win edge while covering the high-density 1:1 draw script, as Sholing's 6 draws in 15 league games make an isolated single away call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.83 combined lambda (53.8% Over 2.5 probability) and Chippenham Town's 1.88 goals conceded per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 56.7% Poisson BTTS projection as both defenses post sub-30% clean-sheet probabilities against active November attackers."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Balances Sholing's superior road defensive and scoring expectancy (1:2) against the highest-probability Poisson stalemate (1:1) seen seven days ago."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns directly with the 1:2 primary and 1:1 secondary branches, covering the two densest buckets in the Poisson goal distribution (22.3% and 23.6%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Covers a tight first half ending in a second-half Sholing breakthrough (Draw-Loss) alongside an early away strike pegged back after the break (Loss-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 15:38:59 UTC"
+}
