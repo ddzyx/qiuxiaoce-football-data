@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1640017,
+    "matchup": "St. Lucia vs Barbados",
+    "home_team": "St. Lucia",
+    "away_team": "Barbados",
+    "league": "CONCACAF Nations League",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-st-lucia-vs-barbados/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St. Lucia vs Barbados Tactical Breakdown & Probabilistic Modeling: Can Barbados Breach Latchoo's Block?",
+    "meta": {
+      "matchId": "1640017",
+      "league": "CONCACAF Nations League",
+      "matchup": "St. Lucia vs Barbados",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "St. Lucia is projected to avoid defeat in a controlled, low-scoring CONCACAF Nations League Group B decider leaning toward Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by St. Lucia's higher goal lambda and promotion cushion (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by the 2.25 combined lambda and 60.9% Poisson projection (Confidence: Moderate, Value: High)",
+      "BTTS: No / St. Lucia Clean Sheet backed by Barbados's recent shutout loss at Stade Roger Zami (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640017",
+      "league": "CONCACAF Nations League",
+      "homeTeam": "St. Lucia",
+      "awayTeam": "Barbados",
+      "match_time": "19:00",
+      "match_highlight": "St. Lucia needs one point for Gold Cup; Barbados must attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640017,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both St. Lucia edging a 1:0 counter-attacking victory and a cautious 1:1 stalemate, since a single point secures Group B promotion and a single call would ignore their incentive to protect a draw."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal lambda, 60.9% Poisson Under 2.5 density, and Barbados's conservative 5-4-1 setup point toward two or fewer goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "The 54.6% Poisson BTTS: No baseline aligns with St. Lucia's reinforced backline and Barbados failing to score in a 0:3 loss at this stadium five days prior."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects St. Lucia capitalizing once on late Barbadian risks while keeping a clean sheet, while 1:1 covers the top modal Poisson draw script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent the two highest-probability bands in the 2.25-lambda goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half favors a level interval before Barbados's must-win second-half push either opens space for a St. Lucia winner or finishes in a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 12:17:29 UTC"
+}
