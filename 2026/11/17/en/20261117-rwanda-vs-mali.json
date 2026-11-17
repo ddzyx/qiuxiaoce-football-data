@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1545902,
+    "matchup": "Rwanda vs Mali",
+    "home_team": "Rwanda",
+    "away_team": "Mali",
+    "league": "Africa Cup of Nations - Qualification",
+    "kickoff_utc": "2026-11-17 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-rwanda-vs-mali/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rwanda vs Mali Prediction & Match Analysis: Can Amavubi Hold Mali at Stade Amahoro?",
+    "meta": {
+      "matchId": "1545902",
+      "league": "Africa Cup of Nations - Qualification",
+      "matchup": "Rwanda vs Mali",
+      "matchTime": "2026-11-17 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads with Mali favored to edge a high-scoring Group K contest on superior squad depth, while Rwanda's Stade Amahoro home form warrants retaining the stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win reflects Mali's 1588.0 Elo edge and 3-0-0 Group K record against Rwanda's three-match 2026 home winning streak (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes align with a 3.67 lambda_total and both sides averaging 2.33 goals per Group K qualifier (Confidence: Moderate, Value: High)",
+      "High-scoring 2:2 draw contingency if Jojea Kwizera and Phanuel Kavita replicate Bamako's transition threat and Rwanda manage late fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1545902",
+      "league": "Africa Cup of Nations - Qualification",
+      "homeTeam": "Rwanda",
+      "awayTeam": "Mali",
+      "match_time": "19:00",
+      "match_highlight": "Can Rwanda's home surge hold off Mali's late-game firepower?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1545902,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 1:2 Mali victory driven by superior second-half depth and a 2:2 draw fueled by Rwanda's unbeaten 2026 Stade Amahoro home run, since neither side cleanly justifies an isolated single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.67 combined lambda_total, 70.9% Poisson Over 2.5 probability, and 2.33 goals per Group K match from both attacks."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams scored in all three Group K qualifiers while Rwanda have kept zero clean sheets, aligning with a 70.2% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 mirrors Mali's slight 2.00 vs 1.67 lambda edge and late-game depth, while 2:2 reflects Rwanda's ability to breach Mali twice on home soil."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.0%) and four goals (19.3%) represent the two highest-probability Poisson buckets around a 3.67 total goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides were level 1:1 at half-time in Bamako and Mali were tied 0:0 at half-time in Liberia, pointing toward a level interval before Mali's bench either wins it late or Rwanda hold for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 11:42:21 UTC"
+}
