@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1640089,
+    "matchup": "Jordan vs Australia",
+    "home_team": "Jordan",
+    "away_team": "Australia",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-jordan-vs-australia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jordan vs Australia Prediction & Match Analysis: Can Rotated Socceroos Unlock Zaki's Rested Block?",
+    "meta": {
+      "matchId": "1640089",
+      "league": "Friendlies",
+      "matchup": "Jordan vs Australia",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Australia's neutral-Doha momentum and superior finishing efficiency make Draw / Away Win (with Under 2.5 Goals) the most coherent pre-match projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Australia's +166 Elo edge and Doha continuity against a winless Jordan side (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.25 combined lambda, market shading, and Jordan's 50.0% big-chance waste rate (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge driven by Jordan's 42-day rest edge and Australia's second-friendly defensive rotation (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1640089",
+      "league": "Friendlies",
+      "homeTeam": "Jordan",
+      "awayTeam": "Australia",
+      "match_time": "16:00",
+      "match_highlight": "Relocated Doha friendly tests rotated Socceroos against rested Jordan.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1640089,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Australia's clinical 0:1 Doha edge alongside a 1:1 stalemate, as friendly rotation and missing veterans prevent trusting a single away call blindly."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by 2.25 combined lambda, 60.9% Poisson Under probability, and Jordan's low time-decayed scoring output."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Reflects Australia's neutral-venue quality overcoming Jordan's wastefulness or a rested Jordanian equalizer against rotated Socceroos."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns directly with the top two Poisson total-goal densities and historical low-margin head-to-head trends."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Contrasts Australia's fast-starting first-half scoring rhythm holding 0:1 against a level stalemate across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:30:11 UTC"
+}
