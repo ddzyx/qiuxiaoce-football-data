@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "fixture_id": 1649551,
+    "matchup": "Egypt U21 vs Japan U21",
+    "home_team": "Egypt U21",
+    "away_team": "Japan U21",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261117-egypt-u21-vs-japan-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Egypt U21 vs Japan U21 Tactical Breakdown & Match Analysis: Cairo Test for Sedky's New Olympic Core",
+    "meta": {
+      "matchId": "1649551",
+      "league": "Friendlies",
+      "matchup": "Egypt U21 vs Japan U21",
+      "matchTime": "2026-11-17 16:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Backing Home Win / Draw alongside Under 2.5 Goals aligns Egypt U21's home freshness and 1.20 goal-based lambda with the defensive caution of an inaugural Olympic-cycle camp.",
+    "possibilityAssessment": [
+      "Egypt U21 leverages home preparation at Petro Sport Stadium to edge a narrow 1:0 second-half victory (Confidence: Low, Value: Moderate)",
+      "A low-scoring Under 2.5 Goals contest anchored by 2.25 combined lambda and Japan's 40% scoreless friendly rate (Confidence: Moderate, Value: High)",
+      "Japan U21's 60% first-half goal share yields an early lead before fresher Egyptian legs restore a 1:1 draw (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649551",
+      "league": "Friendlies",
+      "homeTeam": "Egypt U21",
+      "awayTeam": "Japan U21",
+      "match_time": "16:00",
+      "match_highlight": "Egypt's fresh Olympic camp meets travel-weary Japan U21 in Cairo.",
+      "ai_confidence": "Low",
+      "fixtureId": 1649551,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 1:0 home win fueled by Egypt's eight-day camp freshness and the 1:1 draw reflecting Japan's 4-3-3 continuity, whereas a single win call ignores Egypt's unverified debut-camp sample."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal-based lambda (60.9% Under 2.5 Poisson share) and Japan U21's 40% failed-to-score rate across five 2026 friendlies."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Converges on the top two Home Win / Draw Poisson scorelines (1:0 at 12.6% and 1:1 at 13.3%) under tight scoring expectancies."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Captures the top two Poisson goal-count probabilities (26.7% for 2 goals and 23.7% for 1 goal) around the 2.25 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Win reflects a cautious first half before Egypt's fresher legs tell late, while Loss-Draw covers Japan's 60% first-half goal share preceding a second-half Egyptian equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 04:42:11 UTC"
+}
