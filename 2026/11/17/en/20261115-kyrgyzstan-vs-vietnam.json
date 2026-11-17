@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1647366,
+    "matchup": "Kyrgyzstan vs Vietnam",
+    "home_team": "Kyrgyzstan",
+    "away_team": "Vietnam",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-17 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261115-kyrgyzstan-vs-vietnam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Friendlies",
+      "matchId": "1647366",
+      "matchup": "Kyrgyzstan vs Vietnam",
+      "matchTime": "2026-11-15 12:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Win-Draw",
+        "Win-Win"
+      ],
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Kyrgyzstan vs Vietnam Tactical Breakdown & Match Analysis: Rest Asymmetry vs Squad Departures",
+    "coreRecommendation": "Under a 2.25 combined goal expectancy, opposing pressures from Kyrgyzstan's 48-hour turnaround and Vietnam's four confirmed club departures converge on Home Win / Draw and Under 2.5 Goals.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Pairs Kyrgyzstan's 69.2% first-half scoring concentration against second-half 48-hour fatigue equalization (Win-Draw) or successful low-block preservation (Win-Win).",
+        "selection": [
+          "Win-Draw",
+          "Win-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Anchors on a 1:1 Draw ahead of a 1:0 Kyrgyzstan win, as neither single call captures both Kyrgyzstan's 48-hour fatigue and Vietnam's four confirmed squad departures.",
+        "selection": "Home Win / Draw"
+      },
+      "goals": {
+        "comment": "Reflects the two highest Poisson goal-count densities (26.7% for 2 goals, 23.7% for 1 goal) in a controlled friendly tempo.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "Balances the top Poisson 1:1 stalemate from rest-vs-personnel parity against a 1:0 Kyrgyzstan win if Vietnam's depleted frontline fails to convert.",
+        "selection": [
+          "1:1",
+          "1:0"
+        ]
+      },
+      "league": "Friendlies",
+      "matchId": "1647366",
+      "awayTeam": "Vietnam",
+      "homeTeam": "Kyrgyzstan",
+      "fixtureId": 1647366,
+      "match_time": "12:00",
+      "over_under": {
+        "comment": "Supported by a 2.25 combined lambda, 60.9% Poisson Under 2.5 share, Vietnam's 40.0% big-chance waste rate, and missing Vietnamese attacking starters.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Kyrgyzstan's 48-hour rest deficit tests Vietnam's reshuffled, club-depleted Ninh Bình squad."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win / Draw led by a 1:1 Draw with 1:0 Kyrgyzstan Win retained if Vietnam's depleted attack stalls (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by 60.9% Poisson probability and Vietnam's missing forward and midfield starters (Confidence: Moderate, Value: High)",
+      "HT/FT Win-Draw driven by Kyrgyzstan's 69.2% first-half goal share before second-half fatigue invites a Vietnam equalizer (Confidence: Low, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-17 14:29:12 UTC"
+  }
+}
