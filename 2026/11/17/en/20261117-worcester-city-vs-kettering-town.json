@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1596946,
+    "matchup": "Worcester City vs Kettering Town",
+    "home_team": "Worcester City",
+    "away_team": "Kettering Town",
+    "league": "Non League Premier - Southern Central",
+    "kickoff_utc": "2026-11-17 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261117-worcester-city-vs-kettering-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Worcester City vs Kettering Town Tactical Breakdown & Preview: Rest Edge Meets Poppies Firepower",
+    "meta": {
+      "matchId": "1596946",
+      "league": "Non League Premier - Southern Central",
+      "matchup": "Worcester City vs Kettering Town",
+      "matchTime": "2026-11-17 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win reflects Kettering Town's superior league scoring and top-five standing while covering Worcester City's seven-day recovery edge.",
+    "possibilityAssessment": [
+      "Kettering Town Away Win leads on 1.82 goals per league game with Draw retained for home rest advantage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes align with a 2.73 combined Poisson lambda and open recent results (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency driven by Kettering's 76-hour turnaround and Worcester's recent cup containment (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1596946",
+      "league": "Non League Premier - Southern Central",
+      "homeTeam": "Worcester City",
+      "awayTeam": "Kettering Town",
+      "match_time": "19:45",
+      "match_highlight": "Rested Worcester City test Kettering Town's attack after short cup turnaround.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1596946,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Kettering Town's 1.82 goals-per-match league attack leads toward a 1:2 away win, while a 1:1 draw is retained because Worcester's 92-hour rest advantage weakens a single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.73 combined goal-based lambda (51.4% Poisson Over 2.5) and Kettering's 2.94 average league match goals favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear the scoring floor with 69.0% and 79.0% Poisson scoring projections alongside imperfect clean-sheet protection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Kettering's superior attacking depth overcoming Worcester's home strike, while 1:1 carries the highest single-cell Poisson density (11.9%) if fatigue slows the visitors."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the primary 1:2 projection and Kettering's high-scoring league average, with two goals covering the high-density 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Fresh-legged Worcester can hold Kettering level through a tight first half before either Kettering's attacking depth breaks through (Draw-Loss) or the hosts secure a 1:1 point (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-17 14:33:53 UTC"
+}
