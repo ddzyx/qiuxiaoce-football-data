@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492450,
+    "matchup": "Corinthians vs Botafogo",
+    "home_team": "Corinthians",
+    "away_team": "Botafogo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-19 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-corinthians-vs-botafogo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Corinthians vs Botafogo Prediction & Match Analysis: Garro & Yuri Alberto Out — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1492450",
+      "league": "Serie A",
+      "matchup": "Corinthians vs Botafogo",
+      "matchTime": "2026-11-19 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Botafogo are projected to avoid defeat (Draw / Away Win) in a tight 1:1 or 1:2 contest as Corinthians absorb severe spine absences across attack, midfield, and defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Botafogo avoid defeat led by a 1:1 stalemate, supported by superior 1.26 season xG and 51.0 MF-OTI against depleted hosts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: Yes — 1:1 convergence reflects Corinthians' 62.5% home Under 2.5 rate offset by Botafogo's 7.1% away clean-sheet record (Confidence: Moderate, Value: Moderate)",
+      "1:2 Botafogo Breakthrough — Secondary script if relegation urgency stretches Corinthians after 60 minutes for Ziyech and Danilo Santos to exploit (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492450",
+      "league": "Serie A",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Botafogo",
+      "match_time": "00:30",
+      "match_highlight": "Depleted Corinthians spine faces porous Botafogo road defense in relegation clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492450,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate and a 1:2 Botafogo breakthrough, as Corinthians' five confirmed outfield absences outweigh single-win confidence while Botafogo's 7.1% away clean-sheet rate prevents isolating an away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 51.8% Poisson under baseline, Corinthians' 62.5% home Under 2.5 profile, and the loss of Garro and Yuri Alberto curbing home goal volume."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with 52.9% Poisson BTTS probability and 1.75 market pricing as Botafogo's 7.1% away clean-sheet rate meets a Corinthians backline missing Andre Ramalho."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the top Poisson convergence point (12.6%) given mutual scoring floors and home creative losses, while 1:2 captures late away quality if hosts overcommit."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.1% Poisson) and 3 goals (21.8% Poisson) anchor the narrow-margin 1:1 and 1:2 scoring scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Corinthians' 50.0% half-time draw rate at home points to a level first half before settling at 1:1 or breaking toward a second-half Botafogo win (66.7% away HT-draw-to-win rate)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 12:39:16 UTC"
+}
