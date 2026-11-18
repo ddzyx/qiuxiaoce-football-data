@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647531,
+    "matchup": "Tolmin vs Brinje-Grosuplje",
+    "home_team": "Tolmin",
+    "away_team": "Brinje-Grosuplje",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-18 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-tolmin-vs-brinje-grosuplje/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tolmin vs Brinje-Grosuplje Prediction & Match Analysis: Can Third-Tier Hosts Crack PrvaLiga Defense?",
+    "meta": {
+      "matchId": "1647531",
+      "league": "Cup",
+      "matchup": "Tolmin vs Brinje-Grosuplje",
+      "matchTime": "2026-11-18 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brinje-Grosuplje project to avoid 90-minute defeat in a tight, under-2.5 Slovenian Cup tie led by a narrow away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures the visitors' 1. SNL quality edge and four-match clean-sheet run alongside potential 90-minute stalemate risk (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with the 60.9% Poisson baseline and Brinje-Grosuplje's low-scoring November defensive form (Confidence: Moderate, Value: Moderate)",
+      "Low-scoring 1:1 regulation draw hedge covers potential PrvaLiga rotation ahead of Celje and Tolmin's home intensity (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647531",
+      "league": "Cup",
+      "homeTeam": "Tolmin",
+      "awayTeam": "Brinje-Grosuplje",
+      "match_time": "12:30",
+      "match_highlight": "PrvaLiga clean-sheet streak meets third-tier hosts before winter break.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647531,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both a controlled 0:1 away win for two-tier-higher Brinje-Grosuplje and a 1:1 stalemate because their five away PrvaLiga goals make a single away-win call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined Poisson lambda (60.9% Under 2.5) and Brinje-Grosuplje's four consecutive shutouts."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by a 54.6% Poisson No probability and Brinje-Grosuplje's four straight clean sheets against lower-tier and PrvaLiga attacks."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects top-flight defensive control; 1:1 covers Brinje-Grosuplje's away concession tendency against motivated hosts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson total-goal buckets (26.7% for 2 goals, 23.7% for 1 goal) in a cautious cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first half trends level before either Brinje-Grosuplje's bench depth decides it late or Tolmin hold out for 90 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 00:38:25 UTC"
+}
