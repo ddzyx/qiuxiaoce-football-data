@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1604054,
+    "matchup": "Al-Adalah vs Al Orubah",
+    "home_team": "Al-Adalah",
+    "away_team": "Al Orubah",
+    "league": "Division 1",
+    "kickoff_utc": "2026-11-18 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-al-adalah-vs-al-orubah/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Al-Adalah vs Al Orubah: Tactical Breakdown, Lineup Context & Scoreline Preview",
+    "meta": {
+      "matchId": "1604054",
+      "league": "Division 1",
+      "matchup": "Al-Adalah vs Al Orubah",
+      "matchTime": "2026-11-18 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Al-Adalah to win or draw (Home Win / Draw) in a tight, Under 2.5 contest anchored by a 1:0 home victory or 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw led by Al-Adalah's 1.50 goals-per-game attack while covering Al Orubah's draw-heavy low block (Confidence: Moderate, Value: Moderate)",
+      "Totals Direction: Under 2.5 supported by 60.1% Poisson probability and Al Orubah's 1.67 total-goal match average (Confidence: Moderate, Value: High)",
+      "BTTS Direction: No, reflecting Al Orubah's 0.67 goals-per-game output and 54.1% Poisson clean-sheet balance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1604054",
+      "league": "Division 1",
+      "homeTeam": "Al-Adalah",
+      "awayTeam": "Al Orubah",
+      "match_time": "14:30",
+      "match_highlight": "Tijanič's home creativity tests Željko Petrović's compact Al Orubah block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1604054,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Al-Adalah's 1:0 home-win edge behind superior scoring output alongside the 1:1 draw script driven by Al Orubah's five-draw containment profile, as a single win call leaves late defensive lapses exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.28 lambda_total (60.1% Poisson Under 2.5) and Al Orubah's 0.67 goals scored and 1.00 goals conceded per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Al Orubah averages just 0.67 goals across nine league matches and enters off a 0-1 defeat, aligning with the 54.1% Poisson BTTS No lean."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Al-Adalah's narrow creative edge over a blunt away attack, while 1:1 covers the top Poisson stalemate density."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson total-goal bins (26.6% and 23.3%) and aligns directly with the 1:1 and 1:0 projected scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams show frequent 0-0 half-time patterns before Al-Adalah either breaks through late (Draw-Win) or the deadlock holds (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 02:38:32 UTC"
+}
