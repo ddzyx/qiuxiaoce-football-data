@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1549554,
+    "matchup": "Alianza Atletico vs FBC Melgar",
+    "home_team": "Alianza Atletico",
+    "away_team": "FBC Melgar",
+    "league": "Football",
+    "kickoff_utc": "2026-11-18 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261114-alianza-atletico-vs-fbc-melgar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Primera División",
+      "matchId": "1549554",
+      "matchup": "Alianza Atletico vs FBC Melgar",
+      "matchTime": "2026-11-14 21:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Alianza Atletico vs FBC Melgar Tactical Breakdown & Probabilistic Modeling: Attacking Edge vs Injury Doubts",
+    "coreRecommendation": "Backing FBC Melgar to avoid defeat captures the visitors' 0.76-goal Clausura defensive edge while respecting Sullana home variance and mutual key-player fitness doubts.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Warm Sullana conditions favor a cautious, level first half before Melgar's depth either delivers a second-half winner (Draw-Loss) or settles for a stalemate (Draw-Draw).",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Retains both the 1:2 away win driven by Melgar's 1.12 goals-conceded advantage and the 1:1 draw script given Cuesta's doubtful status, Caceres's absence, and Alianza Atletico's recent Sullana home wins, where a single call would ignore genuine personnel uncertainty.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "Three goals (22.2%) and two goals (20.5%) top the Poisson distribution around a 3.25 lambda_total.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "1:2 reflects Melgar's superior goal prevention and attacking depth against a 1.88 GA/game host, while 1:1 captures the highest standalone Poisson cell (10.1%) if finishing dips.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Primera División",
+      "matchId": "1549554",
+      "awayTeam": "FBC Melgar",
+      "homeTeam": "Alianza Atletico",
+      "fixtureId": 1549554,
+      "match_time": "21:00",
+      "over_under": {
+        "comment": "Supported by a 3.25 lambda_total (63.0% Poisson Over 2.5) and Clausura scoring averages of 1.81 for Alianza Atletico and 1.69 for Melgar.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Melgar's 1.12 defensive record faces Alianza Atletico's Sullana firepower amid injury doubts."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Melgar's 45.1% Poisson win expectancy and the 22.9% stalemate path under Sullana's 0.503 Elo home parity (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 3.25 combined goal expectancy (lambda_total) and both sides' productive Clausura scoring rates of 1.81 and 1.69 goals per game (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency hedges against Melgar lacking penalty-box sharpness if Bernardo Cuesta misses out against a returning Jose Villegas (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-18 22:19:49 UTC"
+  }
+}
