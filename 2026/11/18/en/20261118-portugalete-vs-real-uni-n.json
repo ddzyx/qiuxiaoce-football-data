@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1644369,
+    "matchup": "Portugalete vs Real Unión",
+    "home_team": "Portugalete",
+    "away_team": "Real Unión",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-11-18 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-portugalete-vs-real-uni-n/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portugalete vs Real Unión Prediction & Match Analysis: Can Cup Momentum Hold at La Florida? — Preview",
+    "meta": {
+      "matchId": "1644369",
+      "league": "Copa del Rey",
+      "matchup": "Portugalete vs Real Unión",
+      "matchTime": "2026-11-18 18:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Projecting Draw / Away Win alongside Under 2.5 goals, anchored by a 1:1 regulation-time stalemate with a 0:1 Real Unión away victory as the secondary branch.",
+    "possibilityAssessment": [
+      "Draw / Away Win reflects a 1:1 knockout stalemate and Real Unión's Primera Federación edge (Confidence: Low, Value: Moderate)",
+      "Under 2.5 aligns the 2.25 combined goal lambda (60.9% Under) with Bet365's 1.73 totals pricing (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes captures Portugalete's 69.9% and Real Unión's 65.0% individual scoring probabilities (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644369",
+      "league": "Copa del Rey",
+      "homeTeam": "Portugalete",
+      "awayTeam": "Real Unión",
+      "match_time": "18:00",
+      "match_highlight": "Fourth-tier La Florida momentum tests Primera Federación cup discipline under strict refereeing.",
+      "ai_confidence": "Low",
+      "fixtureId": 1644369,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate and a 0:1 Real Unión win, as unconfirmed cup lineups and Portugalete's home resilience prevent isolating a single away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda (60.9% Under 2.5 probability) and Bet365's 1.73 Under pricing in a cautious knockout tie."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Portugalete's 69.9% home scoring probability and Real Unión's 19 league goals conceded support both sides breaching the defense at least once."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% density, while 0:1 (11.1%) reflects Real Unión holding a narrow shutout like their 1:0 win over Cultural Leonesa."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two bins of the Poisson total-goals distribution (26.7% for 2 goals, 23.7% for 1 goal) under a 2.25 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Models a cagey, level first half at La Florida followed either by a shared 1:1 finish or a second-half Real Unión breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 06:11:07 UTC"
+}
