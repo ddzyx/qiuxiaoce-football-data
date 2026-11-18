@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1645824,
+    "matchup": "Zemun vs Radnicki 1923",
+    "home_team": "Zemun",
+    "away_team": "Radnicki 1923",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-18 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-zemun-vs-radnicki-1923/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zemun vs Radnicki 1923 Prediction & Match Analysis: Can Zemun Contain Cisse and Sremcevic?",
+    "meta": {
+      "matchId": "1645824",
+      "league": "Cup",
+      "matchup": "Zemun vs Radnicki 1923",
+      "matchTime": "2026-11-18 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win alongside Under 2.5 Goals and BTTS: No, backed by Radnicki 1923's superior league output and 37.1% clean-sheet rate against Zemun's 0.53 goals-per-game attack.",
+    "possibilityAssessment": [
+      "Radnicki 1923 Away Win or Draw (Draw / Away Win) led by superior SuperLiga firepower and set-piece threat (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals and BTTS: No anchored by 60.9% Poisson Under 2.5 projection and Zemun's low scoring floor (Confidence: Moderate, Value: High)",
+      "Low-scoring 1:1 Draw contingency if Cup rotation and Radnicki's 63.6% big-chance waste delay a breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645824",
+      "league": "Cup",
+      "homeTeam": "Zemun",
+      "awayTeam": "Radnicki 1923",
+      "match_time": "17:30",
+      "match_highlight": "Radnicki 1923's set-piece edge meets Zemun's survival-mode low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645824,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Radnicki 1923's superior-quality 0:2 victory script and a rotated 1:1 Cup stalemate, as unconfirmed midweek XIs and high big-chance waste make a single call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligns with the 60.9% Poisson Under 2.5 baseline (lambda_total 2.25), Zemun's 0.53 SuperLiga goals per game, and Radnicki's 63.6% big-chance waste rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Zemun's eight goals in 15 SuperLiga matches face Radnicki 1923's 37.1% clean-sheet ratio, supporting the 54.6% Poisson BTTS No baseline."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Radnicki 1923 pulling clear after the break without conceding, while 1:1 covers Zemun matching their recent draw against IMT if visitors rotate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7% baseline) and one goal (23.7%) represent the two densest scoring bands in a cautious knockout contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects Zemun's low block to hold level until halftime before Radnicki either breaks through for 0:2 or settles into a 90-minute stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 05:39:40 UTC"
+}
