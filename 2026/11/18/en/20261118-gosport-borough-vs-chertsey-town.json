@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597403,
+    "matchup": "Gosport Borough vs Chertsey Town",
+    "home_team": "Gosport Borough",
+    "away_team": "Chertsey Town",
+    "league": "Non League Premier - Southern South",
+    "kickoff_utc": "2026-11-18 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261118-gosport-borough-vs-chertsey-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gosport Borough vs Chertsey Town Tactical Breakdown: Leaky Backlines & Poisson Goal Projections",
+    "meta": {
+      "matchId": "1597403",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Gosport Borough vs Chertsey Town",
+      "matchTime": "2026-11-18 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Chertsey Town are projected to avoid defeat at Privett Park in a high-scoring contest, with an Away Win leading and the Draw formally retained.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Chertsey Town's superior league form and 2.19 goals-per-game attack (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes supported by a 3.49 combined Poisson lambda and both defenses conceding over 1.55 goals per game (Confidence: High, Value: Moderate)",
+      "2:2 Draw contingency if Gosport Borough convert home chances early and exploit Chertsey's 1.56 goals-conceded rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597403",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Gosport Borough",
+      "awayTeam": "Chertsey Town",
+      "match_time": "19:45",
+      "match_highlight": "Chertsey Town's seven-game unbeaten league run tests Gosport Borough's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597403,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Chertsey Town's 1:2 winning path alongside a 2:2 draw script, as a single Away Win would ignore Chertsey's five league draws and recurring defensive concessions."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.49 combined Poisson lambda (67.7% Over 2.5 probability) and both sides conceding over 1.55 league goals per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by a 67.8% Poisson BTTS projection, with both attacks scoring at least 1.65 league goals per game and clean-sheet probabilities at 15.1% and 20.2%."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Converges on Chertsey Town's recent 2:1 winning pattern while retaining the 2:2 draw scoreline seen in their February 2026 Privett Park meeting."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Reflects the top two outcomes in the Poisson total-goals distribution (21.6% for 3 goals and 18.9% for 4 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Covers an early Chertsey Town lead held to full time alongside an even back-and-forth battle finishing level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 08:11:02 UTC"
+}
