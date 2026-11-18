@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492454,
+    "matchup": "Gremio vs Bahia",
+    "home_team": "Gremio",
+    "away_team": "Bahia",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-19 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-gremio-vs-bahia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gremio vs Bahia: Expected Goals (xG), Spine Absences & Match Analysis",
+    "meta": {
+      "matchId": "1492454",
+      "league": "Serie A",
+      "matchup": "Gremio vs Bahia",
+      "matchTime": "2026-11-19 00:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Bahia holds the cleaner open-play and midfield-progression edge to avoid defeat at Arena do Grêmio in an open contest where both sides project to score.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Bahia's 1.53 xG attacking edge against a suspended Gremio spine while respecting the hosts' 75% home unbeaten record (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes aligned with combined 3.16 xGA/match and 81.2% respective home/away scoring rates (Confidence: Moderate, Value: High)",
+      "1:1 Scoring Draw hedge via Gremio's league-best 15 set-piece goals and Bahia's 18.8% away clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492454",
+      "league": "Serie A",
+      "homeTeam": "Gremio",
+      "awayTeam": "Bahia",
+      "match_time": "00:30",
+      "match_highlight": "Suspended Gremio spine tests Bahia's attacking edge in crucial Serie A clash.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1492454,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors around the leading 1:2 away victory driven by Bahia's xG and midfield superiority while covering the 1:1 draw branch created by Gremio's 75% home unbeaten resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Gremio's 1.67 xGA without suspended Villasanti and Kannemann plus Bet365's 1.70 Over price lift expected scoring past the 2.64 baseline lambda."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams have scored in 81.2% of their respective home and away league fixtures while keeping clean sheets in just 31.2% at home and 18.8% away."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Bahia's 52.9 MF-OTI and extra rest point to a 1:2 away win, with 1:1 serving as the natural draw alternative if Gremio's dead-ball threat holds parity."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflect the primary 1:2 away breakthrough against depleted hosts, while two goals cover a tighter 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Gremio's 51.6% overall half-time draw tendency favors a level break before Bahia pulls clear (Draw-Loss), while Gremio's 42.9% home lead-not-won rate supports an early home lead pegged back to a draw (Win-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 12:43:35 UTC"
+}
