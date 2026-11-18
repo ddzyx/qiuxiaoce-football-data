@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1572123,
+    "matchup": "Bergantiños vs Sestao River",
+    "home_team": "Bergantiños",
+    "away_team": "Sestao River",
+    "league": "Segunda División RFEF - Group 1",
+    "kickoff_utc": "2026-11-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-berganti-os-vs-sestao-river/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bergantiños vs Sestao River Tactical Breakdown & Match Analysis: High-Scoring Hosts Test Leader's Defense",
+    "meta": {
+      "matchId": "1572123",
+      "league": "Segunda División RFEF - Group 1",
+      "matchup": "Bergantiños vs Sestao River",
+      "matchTime": "2026-11-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Sestao River to avoid defeat captures the Group 1 leaders' structural superiority while respecting Bergantiños's unbeaten home attack.",
+    "possibilityAssessment": [
+      "Thesis 1: Sestao River wins or draws behind a 0.30 goals-conceded-per-game defense and seven-match scoring streak (Confidence: Moderate, Value: Moderate)",
+      "Thesis 2: Over 2.5 goals and BTTS Yes align with Bergantiños's 2.30-goal attack meeting its 1.50-goal defensive concession rate (Confidence: Moderate, Value: Moderate)",
+      "Thesis 3: A controlled 1:1 stalemate covers Sestao River managing energy 97 hours after Saturday's Copa Federación final (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572123",
+      "league": "Segunda División RFEF - Group 1",
+      "homeTeam": "Bergantiños",
+      "awayTeam": "Sestao River",
+      "match_time": "19:00",
+      "match_highlight": "Unbeaten home attack tests Sestao River's 0.30-goal defense after cup final.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572123,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "An Away Win leads on Sestao's 8W-1D-1L class, while Draw is retained because Bergantiños's unbeaten home scoring and Sestao's 97-hour recovery make a single away call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "The 2.70 lambda total and Bergantiños's 3.80 goals-per-match league average lean marginally toward Over 2.5 despite Sestao's defensive discipline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams exceed a 72% Poisson scoring probability, matching Bergantiños's 2.30 home-powered attack against their own 1.50 goals conceded per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away win reflects Sestao's superior edge without a clean sheet, while 1:1 covers the top modal Poisson score if post-final fatigue slows Sestao late."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals fits the primary 1:2 away-win script, while two goals covers the 24.5% modal Poisson band via a tight 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Sestao's low first-half goal share points to a level opening 45 minutes before the leaders either strike late for Draw-Loss or share points in Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 07:08:21 UTC"
+}
