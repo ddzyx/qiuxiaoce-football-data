@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1627125,
+    "matchup": "Nottingham Forest U21 vs Newcastle United U21",
+    "home_team": "Nottingham Forest U21",
+    "away_team": "Newcastle United U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-nottingham-forest-u21-vs-newcastle-united-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nottingham Forest U21 vs Newcastle United U21 Match Analysis: Possession Edge vs Compact Low Block",
+    "meta": {
+      "matchId": "1627125",
+      "league": "Premier League Cup",
+      "matchup": "Nottingham Forest U21 vs Newcastle United U21",
+      "matchTime": "2026-11-18 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Nottingham Forest U21 hold the territorial, rest, and Group D edge in a controlled Under 2.5 matchup, though unconfirmed youth cup lineups justify pairing Home Win with Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Forest's 3-0-0 Group D start and 72-hour rest edge against a compact visitor (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No supported by a 2.25 combined lambda and Newcastle's 0.79 decayed scoring rate (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency if Forest's 50.0% big-chance waste rate meets a clinical Newcastle transition (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627125",
+      "league": "Premier League Cup",
+      "homeTeam": "Nottingham Forest U21",
+      "awayTeam": "Newcastle United U21",
+      "match_time": "19:00",
+      "match_highlight": "Forest set-piece control tests Newcastle's compact 37.5%-possession defensive block.",
+      "ai_confidence": "Low",
+      "fixtureId": 1627125,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a controlled 2:0 Forest win driven by set pieces and rest superiority and a 1:1 draw if Forest's 50.0% big-chance waste rate leaves Newcastle's low block unbroken, as unconfirmed U21 lineups weaken a single-direction call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Under 2.5 Poisson baseline) and Newcastle's 0.79 decayed goals scored against a 1.10 decayed defensive conceding rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with the 54.6% Poisson BTTS: No baseline, Newcastle's 0.79 decayed attacking output and zero set-piece goals, and Forest's recent 3:0 shutout at Grimsby."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Forest's Group D authority and clean-sheet edge over a low-scoring visitor, while 1:1 covers the top Poisson scoreline if Forest waste key chances."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7% Poisson) and one goal (23.7% Poisson) anchor the Under 2.5 distribution and match Newcastle's recent 1:0 and 0:1 road pattern."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Newcastle's compact 37.5%-possession shape points to a tight first half before Forest's +72h rest and set-piece edge decide it late or hold level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 07:12:39 UTC"
+}
