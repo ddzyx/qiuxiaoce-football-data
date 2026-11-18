@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1648286,
+    "matchup": "Switzerland U17 vs Czech Republic U17",
+    "home_team": "Switzerland U17",
+    "away_team": "Czech Republic U17",
+    "league": "Friendlies",
+    "kickoff_utc": "2026-11-19 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-switzerland-u17-vs-czech-republic-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Switzerland U17 vs Czech Republic U17 Tactical Breakdown & Preview: Rematch Rotation After 2:2 Draw",
+    "meta": {
+      "matchId": "1648286",
+      "league": "Friendlies",
+      "matchup": "Switzerland U17 vs Czech Republic U17",
+      "matchTime": "2026-11-19 10:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Switzerland U17 are projected to avoid defeat (Home Win / Draw) in a tight neutral-site friendly rematch anchored on a 1:1 draw with Under 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win / Draw driven by a rotated 1:1 stalemate and Switzerland U17's narrow 1.20 vs 1.05 goal expectancy edge (Confidence: Low, Value: Moderate)",
+      "Total goals & BTTS angle: Under 2.5 paired with BTTS: Yes as mutual friendly clean-sheet fragility meets 41-hour turnaround fatigue (Confidence: Low, Value: Moderate)",
+      "Contingency scenario: Late Czech Republic U17 transition recovery if second-half Swiss midfield rotation weakens central control (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1648286",
+      "league": "Friendlies",
+      "homeTeam": "Switzerland U17",
+      "awayTeam": "Czech Republic U17",
+      "match_time": "10:00",
+      "match_highlight": "Rotated U17 squads rematch 41 hours after Tuesday's 2:2 draw.",
+      "ai_confidence": "Low",
+      "fixtureId": 1648286,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the 1:1 rotated-rematch stalemate and a narrow 2:1 Swiss victory, as Switzerland U17's winless friendly record prevents relying on a single win call despite their slight baseline edge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal expectancy (60.9% Under 2.5 Poisson baseline) and 41-hour camp rotation point toward a contained 2-goal ceiling."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Zero clean sheets across seven combined 2026 Friendlies and Czechia U17's five-match multi-goal streak support both attacks scoring at least once."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% under short-rest rotation, while 2:1 covers Switzerland U17's narrow edge without projecting a clean sheet."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals represent the Poisson mode (26.7%) matching 1:1, with three goals (20.0%) covering a 2:1 second-half breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both sides post 42.9% first-half goal shares and Czechia have yet to lead at half-time in four Friendlies, pointing to an even interval before a 1:1 draw or late 2:1 Swiss winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 22:08:01 UTC"
+}
