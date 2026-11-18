@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597419,
+    "matchup": "Frome Town vs Gloucester City",
+    "home_team": "Frome Town",
+    "away_team": "Gloucester City",
+    "league": "Non League Premier - Southern South",
+    "kickoff_utc": "2026-11-18 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261118-frome-town-vs-gloucester-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Frome Town vs Gloucester City Tactical Breakdown & Match Analysis: Can Tigers' Draw Resilience Hold?",
+    "meta": {
+      "matchId": "1597419",
+      "league": "Non League Premier - Southern South",
+      "matchup": "Frome Town vs Gloucester City",
+      "matchTime": "2026-11-18 19:45 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "With a 3.06 combined goal expectancy and both defenses conceding at least 1.50 goals per game, Frome Town hold a narrow home edge that requires formal draw protection alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Frome Town's 1.62 goals-per-game attack and home setting support a 2:1 win, while Gloucester City's 7 draws in 15 league matches warrant Home Win / Draw coverage (Confidence: Low, Value: Moderate)",
+      "Combined Poisson lambda of 3.06 (59.0% Over 2.5) supports 3 or 2 total goals in an open match script (Confidence: Moderate, Value: Moderate)",
+      "Both sides clear the scoring floor (80.0% home, 76.5% away) against sub-24% clean-sheet projections, supporting BTTS: Yes (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597419",
+      "league": "Non League Premier - Southern South",
+      "homeTeam": "Frome Town",
+      "awayTeam": "Gloucester City",
+      "match_time": "19:45",
+      "match_highlight": "Frome home attack tests Gloucester's seven-draw resilience at Badgers Hill.",
+      "ai_confidence": "Low",
+      "fixtureId": 1597419,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Frome Town's 2:1 home-win edge (41.5% Poisson) alongside the 1:1 draw script because Gloucester City have drawn 7 of 15 league games and Frome's lambda lead is only 0.16."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.06 combined lambda (59.0% Over 2.5 probability) and both teams conceding 1.50+ goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Independent Poisson gives 80.0% home and 76.5% away scoring probabilities (61.2% BTTS Yes) against clean-sheet projections under 24%."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Frome's primary home victory over a leaky defense, while 1:1 covers Gloucester's high-frequency draw resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Top two exact total-goal bins in the Poisson baseline at 22.4% and 22.0%, aligning cleanly with 2:1 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Gloucester's compact first-half tendency points to a level interval before Frome press for a second-half winner or settle for a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 08:15:36 UTC"
+}
