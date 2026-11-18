@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1644346,
+    "matchup": "Badajoz vs Tenerife",
+    "home_team": "Badajoz",
+    "away_team": "Tenerife",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-11-18 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-badajoz-vs-tenerife/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "CD Badajoz vs CD Tenerife Tactical Breakdown & Probabilistic Modeling: Squad Rotation Fuels Cup Tension",
+    "meta": {
+      "matchId": "1644346",
+      "league": "Copa del Rey",
+      "matchup": "Badajoz vs Tenerife",
+      "matchTime": "2026-11-18 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw in regulation time, led by a 1:1 stalemate under 2.5 goals as Tenerife rotate four core starters.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw in 90 minutes (Confidence: Moderate, Value: High)",
+      "Secondary Scoring Thesis: Under 2.5 Goals with BTTS: Yes via 1:1 and 1:0 scripts (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Strict officiating disrupts rhythm toward a single-goal decider (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644346",
+      "league": "Copa del Rey",
+      "homeTeam": "Badajoz",
+      "awayTeam": "Tenerife",
+      "match_time": "19:00",
+      "match_highlight": "Tenerife rest four core starters against unbeaten Badajoz at Nuevo Vivero.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644346,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:1 stalemate and a 1:0 Badajoz upset because Tenerife's confirmed four-starter rotation strips away their clean-sheet and creative superiority."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 total lambda, Badajoz's 1.82-goal league match average, and Tenerife's 50.0% big-chance waste rate without Nacho Gil and Enric Gallego."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tenerife's rotated backline and backup goalkeeper leave clean-sheet integrity vulnerable, while Segunda Division attacking depth should still yield one reply in a 1:1 script."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% and mirrors both teams' recent draw trends, while 1:0 captures a home shutout if Tenerife's rotated attack stalls."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the Poisson distribution in a tight knockout matchup governed by a strict referee."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A cagey, whistle-interrupted opening 45 minutes favors a level half-time before either remaining level at 1:1 or Badajoz striking late for 1:0."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 07:25:22 UTC"
+}
