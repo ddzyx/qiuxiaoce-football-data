@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492452,
+    "matchup": "Cruzeiro vs Palmeiras",
+    "home_team": "Cruzeiro",
+    "away_team": "Palmeiras",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-18 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-cruzeiro-vs-palmeiras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cruzeiro vs Palmeiras Prediction & Match Analysis: Can Home Freshness Exploit Depleted Backline?",
+    "meta": {
+      "matchId": "1492452",
+      "league": "Serie A",
+      "matchup": "Cruzeiro vs Palmeiras",
+      "matchTime": "2026-11-18 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cruzeiro holds the freshness and tactical matchup edge at Mineirão to avoid defeat against a defensively depleted Palmeiras side in a contest projecting goals at both ends.",
+    "possibilityAssessment": [
+      "Cruzeiro Win or Draw captures the hosts' 87.5% home unbeaten profile against Palmeiras's improvised backline and 43.8% away draw rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and Both Teams To Score Yes align with compromised defenses on both sides and Bet365's 1.75 totals / 1.62 BTTS pricing (Confidence: Moderate, Value: High)",
+      "Second-half game-state volatility remains elevated if Palmeiras leads early before Cruzeiro's rested attacking core accelerates after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492452",
+      "league": "Serie A",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Palmeiras",
+      "match_time": "23:30",
+      "match_highlight": "Rested Matheus Pereira tests Palmeiras's makeshift backline ahead of Flamengo clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492452,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Cruzeiro's 2:1 freshness-and-personnel advantage over a depleted visiting defense alongside Palmeiras's proven 1:1 road draw resilience, where neither single outcome dominates cleanly."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Adjusted 2.76 combined lambda rises as both backlines lose key starters, aligning with Bet365's 1.75 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cruzeiro scores in 87.5% of home games while keeping just 31.2% clean sheets, meeting a Palmeiras side missing Gustavo Gómez and Jefté."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Cruzeiro's second-half home surge against an improvised defense, while 1:1 captures Palmeiras's 43.8% away draw rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals and 2 goals sit virtually tied atop the Poisson distribution and tighten directly around 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Palmeiras has drawn half of its 16 away first halves without winning any of them in the second half, contrasting Cruzeiro's 83.3% home Draw-Win conversion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 11:39:05 UTC"
+}
