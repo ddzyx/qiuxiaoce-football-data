@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492451,
+    "matchup": "Coritiba vs Santos",
+    "home_team": "Coritiba",
+    "away_team": "Santos",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-18 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-coritiba-vs-santos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Coritiba vs Santos Prediction & Match Analysis: Backup Keepers & Neymar's Return — xG Preview",
+    "meta": {
+      "matchId": "1492451",
+      "league": "Serie A",
+      "matchup": "Coritiba vs Santos",
+      "matchTime": "2026-11-18 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win alongside Over 2.5 Goals and BTTS: Yes as superior visitor firepower meets dual goalkeeper absences and mutual defensive vulnerability.",
+    "possibilityAssessment": [
+      "Draw / Away Win with Santos leading on superior attacking output (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes driven by backup goalkeepers and away scoring trends (Confidence: Moderate, Value: High)",
+      "1:1 Draw hedge via Santos lead-protection fragility against Coritiba's home counter-attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492451",
+      "league": "Serie A",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Santos",
+      "match_time": "22:30",
+      "match_highlight": "Backup keepers face Neymar's return and Coritiba's home counter-attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492451,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors on the 1:2 Santos win driven by superior attacking quality while retaining the 1:1 draw script because Santos's improvised backline compromises a single away-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.79 combined lambda, missing starting goalkeepers on both sides, and Santos's 81.2% away Over 2.5 frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides post 18.8% venue clean-sheet rates and start backup goalkeepers against attacks scoring in 81.2% of home games and 93.8% of away games respectively."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Santos's front-four edge over Coritiba's 1.61 xGA/match defense, while 1:1 covers the top Poisson stalemate density if Coritiba's counter-attack holds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads due to missing starting keepers and Neymar's return around a 2.79 lambda, with 2 goals covering the tight 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects high half-time draw rates for both sides in their venue splits before second-half quality tilts toward 1:2 or holds level at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 10:38:24 UTC"
+}
