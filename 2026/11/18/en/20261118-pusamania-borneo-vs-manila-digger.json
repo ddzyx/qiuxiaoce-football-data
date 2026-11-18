@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1639359,
+    "matchup": "Pusamania Borneo vs Manila Digger",
+    "home_team": "Pusamania Borneo",
+    "away_team": "Manila Digger",
+    "league": "ASEAN Club Championship",
+    "kickoff_utc": "2026-11-18 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-pusamania-borneo-vs-manila-digger/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pusamania Borneo vs Manila Digger Prediction & Match Analysis: Can Farias's Debut Break Manila's Block?",
+    "meta": {
+      "matchId": "1639359",
+      "league": "ASEAN Club Championship",
+      "matchup": "Pusamania Borneo vs Manila Digger",
+      "matchTime": "2026-11-18 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pusamania Borneo (Home Win / Draw) in a disciplined Under 2.5 Goals contest with BTTS: No holding the slight statistical edge.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers 68.0% of the Poisson distribution as Borneo leverage home structure against Farias's debut transition (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 lambda_total and 60.9% model probability behind compact defenses (Confidence: Moderate, Value: High)",
+      "BTTS: No holds 54.6% Poisson support given Borneo's clean-sheet discipline and Manila Digger's low-scoring Indonesian away record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1639359",
+      "league": "ASEAN Club Championship",
+      "homeTeam": "Pusamania Borneo",
+      "awayTeam": "Manila Digger",
+      "match_time": "12:00",
+      "match_highlight": "Sergio Farias's Borneo debut tests Manila Digger's counter-attacking resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1639359,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Borneo's home containment and Villa-Obieta link favor a 1:0 win, while Farias's debut transition makes a 1:1 draw too plausible to leave uncovered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda_total (60.9% Under 2.5 probability), Borneo's 1.00 goals-conceded baseline, and Manila Digger's tight away profile."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by 54.6% Poisson support, Borneo's clean sheets against Buriram and Yangon, and Manila Digger's recent 0:1 away shutouts."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Borneo grinding out a disciplined home shutout win, while 1:1 covers a Ceesay transition equalizer if the hosts overcommit."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) dominate the Poisson distribution ahead of higher-scoring branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious opening tactics under Farias point toward a level half-time before Borneo's second-half depth decides it or Manila hold out."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 00:08:11 UTC"
+}
