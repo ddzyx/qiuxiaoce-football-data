@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647529,
+    "matchup": "Rače vs Radomlje",
+    "home_team": "Rače",
+    "away_team": "Radomlje",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-18 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-ra-e-vs-radomlje/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rače vs Radomlje Prediction & Match Analysis: Can Third-Tier Defense Hold PrvaLiga Visitors?",
+    "meta": {
+      "matchId": "1647529",
+      "league": "Cup",
+      "matchup": "Rače vs Radomlje",
+      "matchTime": "2026-11-18 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kalcer Radomlje's two-division PrvaLiga superiority should tell after a tight opening half, though NK Rače's disciplined home defense warrants Draw / Away Win coverage in a low-scoring Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win covering Radomlje's class edge and Rače's home containment (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Rače's five-match league Under streak and Radomlje's prior 1-0 and 2-0 cup ties (Confidence: Moderate, Value: High)",
+      "BTTS: No reflecting Rače's modest third-tier scoring output against top-flight defenders (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647529",
+      "league": "Cup",
+      "homeTeam": "Rače",
+      "awayTeam": "Radomlje",
+      "match_time": "16:00",
+      "match_highlight": "Third-tier Rače's unbeaten defense tests Radomlje's PrvaLiga cup ambition.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647529,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Radomlje's superior top-flight depth breaking through for 0:2 while protecting against a 1:1 stalemate created by Rače's compact home defense and Radomlje's upcoming league schedule."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by the 2.25 lambda_total Poisson anchor (60.9% Under 2.5), Rače's 11 goals conceded in 14 third-tier games, and Radomlje's low-scoring prior cup wins."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with the 54.6% baseline probability as Rače's 1.0 goal-per-game third-tier attack steps up two divisions against a side that shut out Rudar Trbovlje and Podvinci."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Radomlje's professional fitness telling after the interval, while 1:1 captures the primary transition or set-piece stalemate risk."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the 26.7% Poisson mode covering both 0:2 and 1:1, with one goal accounting for a repeat of Radomlje's 1:0 win at Podvinci."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Rače's disciplined low block can keep the opening 45 minutes level before Radomlje either breaks through late or settles for a 90-minute draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 04:08:44 UTC"
+}
