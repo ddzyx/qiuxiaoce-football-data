@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1644373,
+    "matchup": "Reddis vs Barakaldo",
+    "home_team": "Reddis",
+    "away_team": "Barakaldo",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-11-18 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-reddis-vs-barakaldo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Reddis vs Barakaldo Prediction & Match Analysis: Can Home Form Topple Tier Gap? — Scoreline Preview",
+    "meta": {
+      "matchId": "1644373",
+      "league": "Copa del Rey",
+      "matchup": "Reddis vs Barakaldo",
+      "matchTime": "2026-11-18 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barakaldo's Primera Federación defensive solidity and extra rest support a tight Draw / Away Win outlook with Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures a narrow visiting breakthrough or 90-minute stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 combined lambda baseline and recent shutout form (Confidence: Moderate, Value: High)",
+      "BTTS: No reflects Barakaldo's four clean sheets in five games and three home absences (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644373",
+      "league": "Copa del Rey",
+      "homeTeam": "Reddis",
+      "awayTeam": "Barakaldo",
+      "match_time": "19:30",
+      "match_highlight": "Barakaldo's third-tier defense tests Reddis's 1-0 streak in delayed Copa clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644373,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Barakaldo edge on division class and rest, alongside a 1:1 stalemate given Barakaldo's winless away league record where a single call leaves road draw risk uncovered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda baseline (60.9% Under 2.5) and both teams averaging near one goal per league fixture."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Matches the 0:1 primary scoreline and 54.6% Poisson projection, backed by Barakaldo's four clean sheets in five games and three Reddis injuries."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Primera Federación defensive control and late freshness; 1:1 covers Reddis's set-piece threat meeting Barakaldo's 50% league draw rate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Tightly packed in the 1–2 goal range matching 0:1 and 1:1 trajectories under single-leg cup caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs start cautiously before Barakaldo's depth either decides the second half or defensive discipline holds through 90 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 07:44:14 UTC"
+}
