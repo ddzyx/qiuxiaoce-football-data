@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1644353,
+    "matchup": "Deportiva Minera vs FC Cartagena",
+    "home_team": "Deportiva Minera",
+    "away_team": "FC Cartagena",
+    "league": "Copa del Rey",
+    "kickoff_utc": "2026-11-18 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261118-deportiva-minera-vs-fc-cartagena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportiva Minera vs FC Cartagena Tactical Breakdown & Match Analysis: Artificial Turf Threat in Cup Derby",
+    "meta": {
+      "matchId": "1644353",
+      "league": "Copa del Rey",
+      "matchup": "Deportiva Minera vs FC Cartagena",
+      "matchTime": "2026-11-18 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportiva Minera are projected to avoid defeat in regulation time against third-tier neighbors FC Cartagena in a tight, Under 2.5 goal Copa del Rey derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by synthetic-pitch leverage and visitor fatigue (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals anchored by a 2.25 combined lambda and 60.9% Poisson weight (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes via a 1:1 stalemate capturing both sides' primary strikers scoring once (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1644353",
+      "league": "Copa del Rey",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "FC Cartagena",
+      "match_time": "19:30",
+      "match_highlight": "Artificial turf and derby urgency narrow the Primera-Segunda tier gap.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1644353,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the leading 1:1 regulation draw and the 1:0 home upset script because Cartagena's 80-hour turnaround and three injuries compress their higher-division edge without guaranteeing a Minera winner."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda, 60.9% Poisson Under 2.5 probability, and knockout derby caution support two or fewer regulation-time goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Minera's full-strength home attack meets a Cartagena side missing Marco Carrascal, while Cartagena's Ibán Ribeiro gives the visitors a strong route to one goal."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% density, while 1:0 (12.6%) captures Minera's home shutout streak holding against Cartagena's 75.0% big-chances-missed rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7% Poisson) and 1 goal (23.7%) reflect the two densest bins under a 2.25 goal-expectancy anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "A tight, card-disrupted first half is projected to stay level before either a shared second-half exchange (1:1) or late home fatigue edge (1:0)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 07:39:17 UTC"
+}
