@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1645811,
+    "matchup": "Dubočica vs Radnicki NIS",
+    "home_team": "Dubočica",
+    "away_team": "Radnicki NIS",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-18 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261118-dubo-ica-vs-radnicki-nis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dubočica vs Radnicki NIS Prediction & Match Analysis: Five Away Absences Tilt Cup Tie? — Scoreline Preview",
+    "meta": {
+      "matchId": "1645811",
+      "league": "Cup",
+      "matchup": "Dubočica vs Radnicki NIS",
+      "matchTime": "2026-11-18 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Dubočica to avoid defeat in regulation time under an Under 2.5 and BTTS No framework best captures Radnički Niš's five confirmed absences and low away scoring floor.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures both Dubočica's home personnel edge and the visitors' stalemate route (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with lambda_total 2.25 and depleted visiting firepower (Confidence: Moderate, Value: High)",
+      "BTTS No reflects Radnički Niš missing five key attacking and midfield contributors (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1645811",
+      "league": "Cup",
+      "homeTeam": "Dubočica",
+      "awayTeam": "Radnicki NIS",
+      "match_time": "15:00",
+      "match_highlight": "Depleted Radnicki NIS attack faces motivated Dubočica in southern Cup derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1645811,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Dubočica win driven by Radnički's five absences and a 1:1 Cup stalemate given Dubočica's modest scoring rate, whereas a single Home Win overlooks the hosts' recent 1-4 defeat."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Under 2.5 baseline) and a visiting Super Liga attack averaging 0.71 goals per game without five regulars."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Radnički Niš's verified omissions of Luka Izderić, Đorđe Petrović, Ibrahim Mustapha, Issah Abass, and Franck Kanouté sharply lower the away scoring floor below the 54.6% Poisson No baseline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Dubočica breaking down a depleted but compact top-flight block after the hour mark, while 1:1 covers a transitional lapse by the hosts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson total distribution at 26.7% across 1:1 and 2:0 branches, followed closely by 1 goal at 23.7% matching the primary 1:0 script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts anticipate a cautious, scoreless first half before either Dubočica forces a second-half winner (Draw-Win) or Radnički holds firm to 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-18 03:08:33 UTC"
+}
