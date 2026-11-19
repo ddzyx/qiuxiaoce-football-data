@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1642195,
+    "matchup": "East Bengal II vs SC Delhi",
+    "home_team": "East Bengal II",
+    "away_team": "SC Delhi",
+    "league": "Indian Super League",
+    "kickoff_utc": "2026-11-20 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-east-bengal-ii-vs-sc-delhi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "East Bengal II vs SC Delhi Prediction & Match Analysis: Can Scorers Offset Anwar Ali's Defensive Absence?",
+    "meta": {
+      "matchId": "1642195",
+      "league": "Indian Super League",
+      "matchup": "East Bengal II vs SC Delhi",
+      "matchTime": "2026-11-20 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and attacking output point toward East Bengal II securing a Home Win or Draw at Salt Lake Stadium in an open contest exceeding 2.5 goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis — Home Win / Draw driven by East Bengal II's 4.0 goals per match and 55.1% Poisson win baseline alongside defensive draw cover (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Angle — Over 2.5 Goals & BTTS Yes anchored by a 4.8 combined lambda and 0.0% league failed-to-score rates for both clubs (Confidence: High, Value: Moderate)",
+      "Contingency Trajectory — 2:2 Draw / Win-Draw HT/FT capturing an early home lead erased by SC Delhi's late-game transition push (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "5",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:2",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1642195",
+      "league": "Indian Super League",
+      "homeTeam": "East Bengal II",
+      "awayTeam": "SC Delhi",
+      "match_time": "11:30",
+      "match_highlight": "East Bengal's potent attack meets SC Delhi without Anwar Ali.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1642195,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "East Bengal II's 4.0-goal domestic attack supports a primary 3:2 home win while Anwar Ali's absence and SC Delhi's five-match scoring streak warrant covering a 2:2 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.8 combined lambda, 85.7% Poisson Over 2.5 baseline, and East Bengal II's 6.0-goal ISL match average strongly favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither side has failed to score in the 2026 ISL, and Anwar Ali's absence lowers East Bengal II's clean-sheet security against an 81.2% Poisson BTTS baseline."
+      },
+      "score": {
+        "selection": [
+          "3:2",
+          "2:2"
+        ],
+        "comment": "Both scorelines reflect East Bengal II's multi-goal home ceiling paired with SC Delhi's reliable transition scoring against a reshuffled defense."
+      },
+      "goals": {
+        "selection": [
+          "5",
+          "4"
+        ],
+        "comment": "Five and four goals match the exact peak of the Poisson distribution (17.5% and 18.2%) and align directly with our 3:2 and 2:2 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "East Bengal II's 66.7% first-half goal share favors an early home lead, with late SC Delhi scoring pressure making Win-Draw the primary second-half risk fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 23:46:58 UTC"
+}
