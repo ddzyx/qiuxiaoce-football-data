@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551379,
+    "matchup": "FC Fredericia vs Hillerød",
+    "home_team": "FC Fredericia",
+    "away_team": "Hillerød",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-19 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-fc-fredericia-vs-hiller-d/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Fredericia vs Hillerød Prediction & Match Analysis: Can Home Fortress Exploit Road Drought?",
+    "meta": {
+      "matchId": "1551379",
+      "league": "1. Division",
+      "matchup": "FC Fredericia vs Hillerød",
+      "matchTime": "2026-11-19 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Fredericia are projected to secure a controlled home victory built on territorial dominance and a clean sheet.",
+    "possibilityAssessment": [
+      "Home Win behind second-half territorial acceleration and set-piece edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 & BTTS: No anchored by Hillerød's 85.7% away under rate and 57.1% road blank rate (Confidence: Moderate, Value: High)",
+      "Draw variance via FC Fredericia's 72.1% big-chance waste rate and three home stalemates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551379",
+      "league": "1. Division",
+      "homeTeam": "FC Fredericia",
+      "awayTeam": "Hillerød",
+      "match_time": "18:00",
+      "match_highlight": "Unbeaten Monjasa Park hosts face winless, clean-sheet-less away side.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551379,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Fredericia's unbeaten home record and 2:0 October blueprint dominate a winless away side with zero road clean sheets."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.50 combined lambda aligns with Hillerød's 85.7% away Under 2.5 rate and Fredericia's 0.71 goals conceded per game."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Hillerød's 57.1% away failed-to-score rate collides with Fredericia's 57.1% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "Both 2:0 and 1:0 capture Fredericia's home clean-sheet control across normal and high-waste finishing outcomes."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals leads the Poisson distribution at 25.7%, with one goal covering Hillerød's recurring single-goal road losses."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Fredericia's 71.4% home half-time draw rate favors Draw-Win, while Win-Win covers Hillerød's 0.0% road recovery rate when trailing at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 06:13:54 UTC"
+}
