@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1639691,
+    "matchup": "Persib Bandung vs Shan United",
+    "home_team": "Persib Bandung",
+    "away_team": "Shan United",
+    "league": "ASEAN Club Championship",
+    "kickoff_utc": "2026-11-19 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-persib-bandung-vs-shan-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Persib Bandung vs Shan United Prediction & Match Analysis: Home Depth Without Berguinho — Scoreline Preview",
+    "meta": {
+      "matchId": "1639691",
+      "league": "ASEAN Club Championship",
+      "matchup": "Persib Bandung vs Shan United",
+      "matchTime": "2026-11-19 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Persib Bandung to secure a controlled home victory with clean-sheet emphasis under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Persib Bandung win in regulation time driven by 3-5-2 wide depth and superior regional caliber (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and Both Teams To Score No anchored by the 2.25 lambda total and home clean-sheet record (Confidence: Moderate, Value: Moderate)",
+      "Persib Bandung 2:1 contingency if Shan United convert a physical set-piece opportunity (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1639691",
+      "league": "ASEAN Club Championship",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Shan United",
+      "match_time": "12:00",
+      "match_highlight": "Persib depth without Berguinho tests Shan United low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1639691,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Persib's recent wins over Melbourne Victory and Port FC alongside home defensive solidity point toward a 2:0 or 2:1 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal lambda, 60.9% Under 2.5 Poisson baseline, and Berguinho's absence favor a controlled two-goal ceiling."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Persib's 0.57 decayed goals-against rate and consecutive home clean sheets support the 54.6% Poisson projection against Shan United scoring."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "Persib's 2.24 decayed scoring rate supports two home goals, while 2:1 covers a possible set-piece lapse."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals leads the Poisson distribution at 26.7%, with three goals serving as the secondary branch if the visitors score."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Shan United's compact block can hold early before Persib's bench breaks through, though an early home strike remains live."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 00:12:09 UTC"
+}
