@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516191,
+    "matchup": "Surkhon vs Andijan",
+    "home_team": "Surkhon",
+    "away_team": "Andijan",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-19 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-surkhon-vs-andijan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Surkhon vs Andijan Tactical Breakdown & Probabilistic Modeling: Low-Scoring Survival Stalemate?",
+    "meta": {
+      "matchId": "1516191",
+      "league": "Super League",
+      "matchup": "Surkhon vs Andijan",
+      "matchTime": "2026-11-19 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw alongside Under 2.5 goals and BTTS: No, as Surkhon's four-in-five clean-sheet run meets a leaky Andijan defense in a cautious survival six-pointer.",
+    "possibilityAssessment": [
+      "Surkhon grinds out a narrow 1:0 victory or 0:0 stalemate via compact home containment (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals driven by a 2.17 combined lambda and Surkhon's five-match low-scoring run (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No anchored by Surkhon's ~41% clean-sheet rate and post-Chinedu attacking deficit (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516191",
+      "league": "Super League",
+      "homeTeam": "Surkhon",
+      "awayTeam": "Andijan",
+      "match_time": "13:00",
+      "match_highlight": "Survival six-pointer tests Surkhon's blunt attack against Andijan's leaky defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516191,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Surkhon's 1:0 breakthrough against Andijan's 1.37 goals-conceded rate and a 0:0 stalemate, as Surkhon's post-Chinedu scoring slump makes a single Home Win too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.17 combined goal lambda (63.1% Poisson Under 2.5) and Surkhon's five consecutive Under 2.5 league fixtures."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by a 56.2% Poisson No baseline, Surkhon's four clean sheets in five matches, and both teams' recent scoring blanks."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "Reflects Surkhon's home defensive discipline exploiting Andijan's 14-loss fragility for 1:0, with 0:0 capturing Surkhon's four-in-five stalemate pattern."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Centers on a single decisive goal given Surkhon's 0.74 goals-per-game output, while covering the 26.9% Poisson modal two-goal bucket."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight goalless first half before either a second-half home breakthrough or a full-time 0:0 deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 01:12:58 UTC"
+}
