@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649584,
+    "matchup": "Kheybar Khorramabad vs Esteghlal FC",
+    "home_team": "Kheybar Khorramabad",
+    "away_team": "Esteghlal FC",
+    "league": "Persian Gulf Pro League",
+    "kickoff_utc": "2026-11-19 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-kheybar-khorramabad-vs-esteghlal-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kheybar Khorramabad vs Esteghlal FC Prediction & Match Analysis: Breaking the Away Draw Run",
+    "meta": {
+      "matchId": "1649584",
+      "league": "Persian Gulf Pro League",
+      "matchup": "Kheybar Khorramabad vs Esteghlal FC",
+      "matchTime": "2026-11-19 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects Draw / Away Win in a low-scoring contest (Under 2.5, BTTS: No), leaning narrowly toward a 0:1 Esteghlal FC win with 1:1 as the primary draw alternative.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Esteghlal FC's 0.45 goals-conceded-per-game baseline supports an away breakthrough (0:1), while their five-game away league draw run requires covering the 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No — Supported by lambda_total 2.07 (65.8% Under 2.5, 60.2% BTTS: No) and Esteghlal's 100% Under 2.5 rate across seven tracked league matches (Confidence: High, Value: Moderate)",
+      "1:1 Score Draw via Late Equalizer — Protects against Esteghlal surrendering another narrow away advantage if Kheybar strike late at Takhti Stadium (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649584",
+      "league": "Persian Gulf Pro League",
+      "homeTeam": "Kheybar Khorramabad",
+      "awayTeam": "Esteghlal FC",
+      "match_time": "13:00",
+      "match_highlight": "Esteghlal's 0.45 GA/g defense meets five-match away draw streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649584,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Esteghlal FC's 0:1 defensive-control win script and the 1:1 draw script driven by five straight away league draws, avoiding a single away call given their 0W-4D-0L tracked road record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by lambda_total 2.07 (65.8% Under 2.5 probability) and Esteghlal FC's 100% Under 2.5 record across all seven tracked league fixtures."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligns with the 0:1 primary projection and 60.2% Poisson probability as Esteghlal's 0.45 goals-conceded-per-game defense faces Kheybar's 0.81 home lambda."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads Poisson density at 15.9% via Esteghlal's defensive shutout edge, while 1:1 (12.9%) captures their recurring away draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.0%) and one goal (26.1%) represent the top Poisson total-goal densities around the 2.07 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Esteghlal's 71.4% first-half draw rate and back-loaded scoring before either breaking through late (Draw-Loss) or sharing points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 02:21:21 UTC"
+}
