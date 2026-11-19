@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1643063,
+    "matchup": "Al Ain vs Al-Dhafra",
+    "home_team": "Al Ain",
+    "away_team": "Al-Dhafra",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-19 15:25:00",
+    "source_url": "https://xgmind.com/matches/20261119-al-ain-vs-al-dhafra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Ain vs Al-Dhafra Tactical Breakdown & Prediction: Can Carteron's Block Contain Ivic's Attack?",
+    "meta": {
+      "matchId": "1643063",
+      "league": "Pro League",
+      "matchup": "Al Ain vs Al-Dhafra",
+      "matchTime": "2026-11-19 15:25 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Ain hold a decisive attacking and structural edge at Hazza Bin Zayed Stadium to secure a Home Win over Al-Dhafra in a contest projected to exceed 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win — Al Ain's 21.86 shots per league game and unbeaten home run overpower Al-Dhafra's 1.86 goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 — Combined 2.94 Poisson goal expectancy and Al-Dhafra's zero league clean sheets support three or more goals (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes / Draw-Win — Al Ain's 33.3% clean-sheet rate and 46.7% big-chance waste keep a visiting goal or level halftime alive (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643063",
+      "league": "Pro League",
+      "homeTeam": "Al Ain",
+      "awayTeam": "Al-Dhafra",
+      "match_time": "15:25",
+      "match_highlight": "Al Ain's 21.9 shots/game test Al-Dhafra's 1.86 conceded rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1643063,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Al Ain's superior shot creation, home unbeaten league record, and healthy attacking depth support a 2:1 or 3:1 Home Win against a leaky Al-Dhafra defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.94 combined lambda and Al-Dhafra's 1.86 goals conceded per league match align with three or more total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al Ain's 33.3% clean-sheet rate in tracked league games gives returning Karim El Berkaoui and Sory Kaba a realistic transition scoring route."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 balances Al Ain's attacking superiority with their clean-sheet vulnerability, while 3:1 reflects their two-goal winning margin habit if Al-Dhafra open up late."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals serve as the central Poisson and tactical convergence point, with four goals covering a late second-half expansion."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Al Ain have converted every half-time league lead into victory (Win-Win), while Al-Dhafra's 5-4-1 block makes a level interval before home pressure breaks through (Draw-Win) the primary alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 03:40:28 UTC"
+}
