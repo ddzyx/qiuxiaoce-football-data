@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649492,
+    "matchup": "Seattle Sounders vs Real Salt Lake",
+    "home_team": "Seattle Sounders",
+    "away_team": "Real Salt Lake",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-20 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-seattle-sounders-vs-real-salt-lake/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Seattle Sounders vs Real Salt Lake: Expected Goals (xG), Backline Crisis & Match Preview",
+    "meta": {
+      "matchId": "1649492",
+      "league": "Major League Soccer",
+      "matchup": "Seattle Sounders vs Real Salt Lake",
+      "matchTime": "2026-11-20 03:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Real Salt Lake is projected to avoid defeat in 90 minutes against a Seattle Sounders defense missing suspended center-back Jackson Ragen, with goals expected at both ends.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Over 2.5 & BTTS: Yes (Confidence: Moderate, Value: High)",
+      "Second-half comeback swing via Loss-Draw or Loss-Win (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649492",
+      "league": "Major League Soccer",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Real Salt Lake",
+      "match_time": "03:00",
+      "match_highlight": "Depleted Seattle backline faces surging Real Salt Lake transition attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1649492,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both RSL's 1:2 transition victory against Seattle's depleted center-backs and the tight 1:1 knockout draw branch, avoiding a single away call given RSL's 11 road losses."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.87 combined lambda expectancy, RSL's 70.6% away Over 2.5 rate with zero road clean sheets, and Seattle's disrupted defensive spine."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "RSL conceded in all 17 away matches while scoring in 14 of 17, facing a Seattle side with only three home clean sheets and missing Ragen."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures RSL punishing Seattle's makeshift central defense, while 1:1 reflects the highest Poisson density and single-elimination knockout caution."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 1:2 Over 2.5 scenario and 2.87 lambda_total, while two goals cover a cautious 1:1 penalty-bound stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss pairs Seattle's slow first-half scoring with a late RSL winner, while Loss-Draw covers RSL striking early before Seattle's second-half home recovery."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 15:08:09 UTC"
+}
