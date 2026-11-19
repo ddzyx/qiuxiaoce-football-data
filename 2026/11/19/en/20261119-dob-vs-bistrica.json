@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647527,
+    "matchup": "Dob vs Bistrica",
+    "home_team": "Dob",
+    "away_team": "Bistrica",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-19 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-dob-vs-bistrica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dob vs Bistrica Prediction & Match Analysis: Can Host Momentum Break 2. SNL Steel? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647527",
+      "league": "Cup",
+      "matchup": "Dob vs Bistrica",
+      "matchTime": "2026-11-19 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dob are projected to avoid defeat in regulation time against suspended-hit Bistrica in a tight, low-scoring Pokal Pivovarna Union Round of 16 tie.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw led by Dob's home momentum and Bistrica's forward suspension, with the Draw retained for 2. SNL resistance (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 goals supported by a 2.25 lambda_total baseline and single-leg knockout containment (Confidence: Moderate, Value: High)",
+      "Contingency Angle: 1:1 Draw script if Bistrica's second-tier forward line breaches Dob's defense via transition or set play (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647527",
+      "league": "Cup",
+      "homeTeam": "Dob",
+      "awayTeam": "Bistrica",
+      "match_time": "12:30",
+      "match_highlight": "In-form Dob host suspended-hit Bistrica in tight Slovenian Cup clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647527,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:0 home breakthrough against suspended-hit Bistrica and the 1:1 second-tier containment draw, as Bistrica's 2. SNL quality makes a single Home Win call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 lambda_total baseline, knockout caution, and Lazar Ikac's suspension point strongly toward one or two regulation goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Dob's compact league defense, lambda_away at 1.05, and Ikac's confirmed suspension give a home shutout the primary edge over a 1:1 branch."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Dob's home momentum and Bistrica's missing forward, while 1:1 captures the visitors' 2. SNL pedigree and 2022/23 H2H precedent."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson goal density peaks at 2 goals (26.7%) and 1 goal (23.7%), aligning tightly with 1:0 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Single-leg cup caution points to a level first half before Dob either break through late (Draw-Win) or Bistrica hold out (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 00:47:47 UTC"
+}
