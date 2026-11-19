@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601934,
+    "matchup": "Imisli FK vs Zira",
+    "home_team": "Imisli FK",
+    "away_team": "Zira",
+    "league": "Premyer Liqa",
+    "kickoff_utc": "2026-11-20 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-imisli-fk-vs-zira/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Imisli FK vs Zira Prediction & Match Analysis: Will Zira's Road Leaks Open the Door? — Scoreline Preview",
+    "meta": {
+      "matchId": "1601934",
+      "league": "Premyer Liqa",
+      "matchup": "Imisli FK vs Zira",
+      "matchTime": "2026-11-20 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win with Under 2.5 goals and BTTS: Yes captures both Imisli FK's home resilience and Zira's superior attacking depth.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers the central 1:1 stalemate and Zira's 1:2 late-breakthrough scenario (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with 6 of 11 league matches for both sides and a 54.4% Poisson baseline (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes targets Zira's eight-match league run without a clean sheet against a full-strength Imisli squad (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601934",
+      "league": "Premyer Liqa",
+      "homeTeam": "Imisli FK",
+      "awayTeam": "Zira",
+      "match_time": "10:30",
+      "match_highlight": "Winless road Zira test Perkons's compact full-strength Imisli home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601934,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on the 1:1 draw script and Zira's 1:2 attacking edge, a compound call is required because Zira are 0W-2D-2L away yet hold clear class superiority over 11 rounds."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.50 combined lambda, a 54.4% Poisson Under 2.5 projection, and 6 of 11 Under 2.5 league matches for both teams."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by Zira conceding in eight straight Premyer Liqa games (0% away clean sheets) while still averaging 1.45 goals scored per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.6% and echoes three draws in four H2H meetings, while 1:2 reflects Zira's late-scoring quality if they unlock Imisli's block."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.7%) and 3 goals (21.4%) lead the Poisson total-goal distribution and match the 1:1 and 1:2 score scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Imisli's compact early 3-5-2 structure favors a level half-time before either remaining 1:1 or yielding late to Zira's stronger finishing."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 22:39:51 UTC"
+}
