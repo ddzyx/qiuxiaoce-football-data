@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556150,
+    "matchup": "Vissel Kobe vs Mito Hollyhock",
+    "home_team": "Vissel Kobe",
+    "away_team": "Mito Hollyhock",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-20 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-vissel-kobe-vs-mito-hollyhock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vissel Kobe vs Mito Hollyhock Prediction & Match Analysis: Can Mito Breach Kobe? — xG Preview",
+    "meta": {
+      "matchId": "1556150",
+      "league": "J1 League",
+      "matchup": "Vissel Kobe vs Mito Hollyhock",
+      "matchTime": "2026-11-20 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vissel Kobe are projected to claim a controlled regulation-time home win by exploiting Mito Hollyhock's winless clean-sheet record and prolonged away scoring drought.",
+    "possibilityAssessment": [
+      "Home Win — Vissel Kobe's home territorial control, Muto/Osako attacking axis, and Mito's 0.0% clean-sheet rate outweigh Kobe's mild schedule fatigue (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No (2:0 script) — Mito's 0.19 decayed goals-for average and four straight league blanks anchor a controlled two-goal home victory (Confidence: Moderate, Value: Moderate)",
+      "Vissel Kobe 2:1 victory — Should Kobe's 28.6% home clean-sheet rate leak a single transition goal, their 1.75 home lambda still projects a narrow win (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556150",
+      "league": "J1 League",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Mito Hollyhock",
+      "match_time": "10:00",
+      "match_highlight": "Unbeaten home side Vissel Kobe test winless Mito Hollyhock's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556150,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by the primary 2:0 projection, Vissel Kobe's 1.58 xG attack and unbeaten home league record outclass a Mito side on five straight defeats."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Despite a 2.68 combined lambda, Mito's four consecutive J1 scoreless matches and 5.2-day Kobe turnaround point toward a controlled two-goal total."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Mito Hollyhock's 57.1% away failed-to-score rate and 0.86 xG average favor Vissel Kobe keeping a clean sheet at Noevir Stadium."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 reflects Kobe's home +2 margin ceiling against Mito's drought, while 2:1 covers Kobe's 28.6% home clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.6%) and three goals (22.0%) represent the top two Poisson outcomes aligned with a 2:0 or 2:1 home win."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures Kobe's 71.4% home half-time draw rate before second-half acceleration, while Win-Win reflects Mito's 42.9% away half-time deficit rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 22:15:38 UTC"
+}
