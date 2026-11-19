@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597962,
+    "matchup": "Al Ahli Doha vs Al Shamal",
+    "home_team": "Al Ahli Doha",
+    "away_team": "Al Shamal",
+    "league": "Stars League",
+    "kickoff_utc": "2026-11-19 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-al-ahli-doha-vs-al-shamal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Ahli Doha vs Al Shamal Tactical Breakdown & Probabilistic Modeling: Suspension Tests Fragile Defenses",
+    "meta": {
+      "matchId": "1597962",
+      "league": "Stars League",
+      "matchup": "Al Ahli Doha vs Al Shamal",
+      "matchTime": "2026-11-19 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Ahli Doha are projected to avoid defeat (Home Win / Draw) in a high-scoring Stars League contest featuring Over 2.5 goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Al Ahli Doha Home Win / Draw driven by 17.78 shots per game and home midfield control (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes backed by 3.77 combined lambda expectancy and 1.89 goals conceded per game each (Confidence: High, Value: Moderate)",
+      "Draw-Win and Draw-Draw HT/FT scripts shaped by Al Shamal's 80.0% half-time draw profile (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597962",
+      "league": "Stars League",
+      "homeTeam": "Al Ahli Doha",
+      "awayTeam": "Al Shamal",
+      "match_time": "15:30",
+      "match_highlight": "Ben Romdhane suspension tests Al Shamal defense against Expósito and Draxler.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597962,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough exploiting Al Shamal's suspended midfield anchor and a 2:2 draw given both sides' 1.89 goals-conceded rates, whereas a single call leaves the equal-points transition threat uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs concede 1.89 league goals per match while generating a 3.77 combined goal-expectancy lambda (72.6% Over 2.5 probability)."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson clean-sheet probabilities sit at just 14.4% for Al Ahli and 16.0% for Al Shamal, matching Al Shamal's 80.0% BTTS sample rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Reflects the top two converging Home Win and Draw matrices (7.5% and 7.3%) around a 3.77 total goal expectancy."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (20.6%) and four goals (19.4%) represent the two highest-density buckets in the Poisson total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Al Shamal have been level at half-time in 80.0% of sampled games before second-half acceleration determines a home win or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 04:14:13 UTC"
+}
