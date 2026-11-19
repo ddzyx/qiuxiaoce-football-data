@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650500,
+    "matchup": "Boston River vs Deportivo Maldonado",
+    "home_team": "Boston River",
+    "away_team": "Deportivo Maldonado",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-19 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-boston-river-vs-deportivo-maldonado/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Boston River vs Deportivo Maldonado Prediction & Match Analysis: Can Maldonado Seal Clausura Finale?",
+    "meta": {
+      "matchId": "1650500",
+      "league": "Primera División",
+      "matchup": "Boston River vs Deportivo Maldonado",
+      "matchTime": "2026-11-19 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Maldonado's Clausura defensive resilience and superior two-way output support a Draw / Away Win projection paired with Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing a narrow Deportivo Maldonado victory with draw protection against recent finishing stalls (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: No driven by a 2.22 combined lambda and Boston River's 55.6% big-chance waste against a 0.79 goals-conceded defense (Confidence: Moderate, Value: High)",
+      "1:1 Draw contingency triggered if Maldonado's recent cross-competition defensive lapses permit a home transition goal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650500",
+      "league": "Primera División",
+      "homeTeam": "Boston River",
+      "awayTeam": "Deportivo Maldonado",
+      "match_time": "19:30",
+      "match_highlight": "Maldonado's Clausura-best defense visits struggling Boston River in a tight finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650500,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 0:1 away breakthrough and the 1:1 draw script, as Maldonado's recent two-match slide and modest 0.36 lambda edge weaken a single-direction away call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.22 combined lambda, 61.7% Poisson Under 2.5 probability, and Deportivo Maldonado's 0.79 goals conceded per Clausura match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Boston River average 1.07 goals per game with a 55.6% big-chance waste rate against Maldonado's 39.5% modeled clean-sheet probability, aligning with 0:1."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Captures the top two Poisson scorelines (14.0% and 13.0%), balancing Maldonado's tight away control against potential late home resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the two highest-density Poisson total-goal buckets (26.8% and 24.1%) and directly maps onto the 1:1 and 0:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a tight, cagey first half (mirroring two 0:0 half-times in the 2024 H2H meetings) before either a second-half away breakthrough or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 07:38:25 UTC"
+}
