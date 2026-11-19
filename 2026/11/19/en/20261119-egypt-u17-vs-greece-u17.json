@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1546147,
+    "matchup": "Egypt U17 vs Greece U17",
+    "home_team": "Egypt U17",
+    "away_team": "Greece U17",
+    "league": "World Cup - U17",
+    "kickoff_utc": "2026-11-19 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-egypt-u17-vs-greece-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Egypt U17 vs Greece U17 Tactical Breakdown & Probabilistic Modeling: Doha Rhythm vs Greek Discipline",
+    "meta": {
+      "matchId": "1546147",
+      "league": "World Cup - U17",
+      "matchup": "Egypt U17 vs Greece U17",
+      "matchTime": "2026-11-19 16:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Egypt U17 hold the stronger pathway in this Matchday 1 Group A opener, with Home Win / Draw and Under 2.5 reflecting their Doha rhythm against Greece U17's compact structure.",
+    "possibilityAssessment": [
+      "Egypt U17 Win / Draw driven by Doha Gulf Cup momentum and Greece U17's Matchday 1 defensive organization (Confidence: Low, Value: Moderate)",
+      "Under 2.5 total goals anchored by tournament-opener caution and Greece U17's compact 4-2-3-1 setup (Confidence: Low, Value: Moderate)",
+      "BTTS: No contingency supported by Egypt U17's recent tournament clean sheets and Greece U17's low-scoring 2026 blanks (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1546147",
+      "league": "World Cup - U17",
+      "homeTeam": "Egypt U17",
+      "awayTeam": "Greece U17",
+      "match_time": "16:00",
+      "match_highlight": "Egypt's Doha-tested attack meets Greece's settled 4-2-3-1 World Cup debutants.",
+      "ai_confidence": "Low",
+      "fixtureId": 1546147,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Egypt U17's superior Doha scoring rhythm (2:0) alongside Greece U17's disciplined 4-2-3-1 stalemate path (1:1), as cold-start Matchday 1 uncertainty prevents isolating a single outcome."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Opening-day Group A caution and Greece U17's compact double-pivot structure constrain expected scoring toward two goals or fewer."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Egypt U17 kept four clean sheets across six major 2026 tournament outings while Greece U17 failed to score in half of their six tracked 2026 matches."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Balances Egypt U17 pulling away after a tight first half against Greece U17 grinding out an opening-day score draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Centers on a two-goal tactical battle while retaining three goals as the secondary branch if Egypt open the game late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a cagey, level first half before Egypt U17 either break through after the interval or Greece U17 hold firm."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 05:01:12 UTC"
+}
