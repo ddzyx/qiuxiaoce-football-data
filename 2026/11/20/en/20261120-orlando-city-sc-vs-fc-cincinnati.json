@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649491,
+    "matchup": "Orlando City SC vs FC Cincinnati",
+    "home_team": "Orlando City SC",
+    "away_team": "FC Cincinnati",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-20 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-orlando-city-sc-vs-fc-cincinnati/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Orlando City SC vs FC Cincinnati Prediction & Match Analysis: Griezmann vs Evander Without Key Defenders",
+    "meta": {
+      "matchId": "1649491",
+      "league": "Major League Soccer",
+      "matchup": "Orlando City SC vs FC Cincinnati",
+      "matchTime": "2026-11-20 00:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Cincinnati's +0.14 xGD per game and Evander-led midfield creation project them to avoid regulation defeat against an Orlando defense missing Robin Jansson.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Cincinnati's 1.81 xG attack exploiting a Jansson-less 2.23 xGA Orlando defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS: Yes driven by 4.16 combined lambda and both starting center-backs ruled out (Confidence: High, Value: Moderate)",
+      "High-scoring 2:2 draw contingency fueled by Griezmann's home scoring floor and Cincinnati's six away draws (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649491",
+      "league": "Major League Soccer",
+      "homeTeam": "Orlando City SC",
+      "awayTeam": "FC Cincinnati",
+      "match_time": "00:30",
+      "match_highlight": "Griezmann and Evander collide with both defenses missing starting center backs.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649491,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Cincinnati win driven by superior xG/xGA fundamentals and a 2:2 shootout draw given Orlando's home scoring punch and knockout parity."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.16 combined lambda, 78.4% Poisson Over 2.5 probability, and both defenses allowing over 2.20 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Orlando scored in 14 of 15 home games while Cincinnati kept just 1 away clean sheet, and both backlines miss starting center-backs."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Top Poisson convergence pairing Cincinnati's midfield xG edge against Jansson's absence with Griezmann keeping Orlando on the scoresheet."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns directly with 1:2 and 2:2 scripts around the 4.16 expected-goal baseline and knockout match-state pacing."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Cincinnati's 40.6% half-time draw rate and 59% second-half goal share opening up tight first halves into late away wins or draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 12:42:15 UTC"
+}
