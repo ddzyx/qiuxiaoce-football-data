@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649586,
+    "matchup": "Mes Shahr-e Babak vs Tractor Sazi",
+    "home_team": "Mes Shahr-e Babak",
+    "away_team": "Tractor Sazi",
+    "league": "Persian Gulf Pro League",
+    "kickoff_utc": "2026-11-19 13:45:00",
+    "source_url": "https://xgmind.com/matches/20261119-mes-shahr-e-babak-vs-tractor-sazi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mes Shahr-e Babak vs Tractor Sazi Tactical Breakdown & Probabilistic Modeling: Compact Debut vs Away Edge",
+    "meta": {
+      "matchId": "1649586",
+      "league": "Persian Gulf Pro League",
+      "matchup": "Mes Shahr-e Babak vs Tractor Sazi",
+      "matchTime": "2026-11-19 13:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project an ordinary full-time Away Win for Tractor Sazi alongside Under 2.5 Goals and Both Teams To Score: No.",
+    "possibilityAssessment": [
+      "Ordinary Away Win anchored by Tractor Sazi's 0.45 goals-conceded rate and 63.7% Poisson projection against 18th-placed Mes Shahr-e Babak (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and 0:1 / 0:2 away shutout supported by 2.11 combined goal expectancy and Tractor's five-for-five Under 2.5 league sample (Confidence: Moderate, Value: High)",
+      "Goalless first-half deadlock stretching late if Tomislav Štrkalj's suspension blunts finishing against Mojtaba Hosseini's debut block (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649586",
+      "league": "Persian Gulf Pro League",
+      "homeTeam": "Mes Shahr-e Babak",
+      "awayTeam": "Tractor Sazi",
+      "match_time": "13:45",
+      "match_highlight": "Can Mojtaba Hosseini's debut block halt Tractor's title push?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649586,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A disciplined 0:1 or 0:2 away shutout reflects Tractor Sazi's 1.59-to-0.52 lambda superiority and Mes Shahr-e Babak's five-match losing streak."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.11, five straight Under 2.5 outings in Tractor's tracked sample, and Štrkalj's suspension support Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Mes Shahr-e Babak average 0.58 goals per match against Tractor's 0.45 goals-conceded defense, driving a 67.7% Poisson projection for BTTS No."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 19.3% given Hosseini's debut tightening, while 0:2 (15.3%) mirrors Tractor's recent win over Kheybar."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.0%) and one goal (25.6%) are the top two Poisson total-goal buckets under a controlled away victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Tractor recorded level half-times in all three tracked away league matches before accelerating late, with a first-half away lead as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 02:48:06 UTC"
+}
