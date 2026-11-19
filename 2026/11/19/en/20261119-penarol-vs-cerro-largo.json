@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650501,
+    "matchup": "Penarol vs Cerro Largo",
+    "home_team": "Penarol",
+    "away_team": "Cerro Largo",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-19 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-penarol-vs-cerro-largo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Penarol vs Cerro Largo Tactical Breakdown & Match Analysis: Title Stakes Meet Survival Urgency",
+    "meta": {
+      "matchId": "1650501",
+      "league": "Primera División",
+      "matchup": "Penarol vs Cerro Largo",
+      "matchTime": "2026-11-19 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw (led by Penarol) alongside Under 2.5 and BTTS: No at Campeón del Siglo.",
+    "possibilityAssessment": [
+      "Home Win / Draw combining Penarol's restored spine and home title urgency with Draw protection against a 50% Clausura draw side (Confidence: Moderate, Value: High)",
+      "Under 2.5 supported by a 2.11 combined goal expectancy and five consecutive Under 2.5 league matches for Penarol (Confidence: Moderate, Value: High)",
+      "BTTS: No anchored by Aguerre and Remedi's returns against Cerro Largo's 0.86 goals-per-game attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650501",
+      "league": "Primera División",
+      "homeTeam": "Penarol",
+      "awayTeam": "Cerro Largo",
+      "match_time": "19:30",
+      "match_highlight": "Aguerre and Remedi return as title-chasing Penarol host survival-focused Cerro Largo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650501,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a tight 1:0 Penarol victory led by their returning spine while protecting against a 1:1 stalemate given Penarol's five-match winless slump."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.11 (64.7% Under 2.5) aligns with Penarol's 0.71 goals conceded per game and five straight Under 2.5 league outings."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Penarol's 0.71 GA/match defense bolstered by Aguerre and Remedi projects a 60.2% BTTS No likelihood against Cerro Largo's 0.86 GF/match attack."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects the top Poisson density (16.1%) on a tight home breakthrough, with 1:1 (12.6%) covering Penarol's recent tendency to concede once."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (27.0%) and 1 goal (25.6%) lead the Poisson total-goals distribution beneath the 2.5 threshold."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Penarol's 0% first-half goal share in five league games points to a level interval before either a late home winner or a sustained stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 07:42:01 UTC"
+}
