@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551236,
+    "matchup": "Svay Rieng vs Port FC",
+    "home_team": "Svay Rieng",
+    "away_team": "Port FC",
+    "league": "ASEAN Club Championship",
+    "kickoff_utc": "2026-11-19 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-svay-rieng-vs-port-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Svay Rieng vs Port FC Prediction & Match Analysis: Can McConkey's Unbeaten Hosts Contain Thai Leaders?",
+    "meta": {
+      "matchId": "1551236",
+      "league": "ASEAN Club Championship",
+      "matchup": "Svay Rieng vs Port FC",
+      "matchTime": "2026-11-19 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Svay Rieng to win or draw in a controlled Under 2.5 Group B contest leaning toward a 1:0 home shutout over a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Svay Rieng combine home continuity and a 0.77 decayed GA run against Port FC's leaky continental defense, while the draw covers Thai League 1 quality (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals: Combined goal lambda of 2.25 and a 60.9% Poisson probability support a low-scoring tactical battle between two zero-point Group B sides (Confidence: Moderate, Value: High)",
+      "Contingency Set-Piece & Late Transition Branch: Port FC's three set-piece goals and second-half punch keep a 1:1 draw or narrow late upset alive if key forwards start fit (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551236",
+      "league": "ASEAN Club Championship",
+      "homeTeam": "Svay Rieng",
+      "awayTeam": "Port FC",
+      "match_time": "12:00",
+      "match_highlight": "Unbeaten Svay Rieng host leaky Thai League leaders Port FC.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551236,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Svay Rieng's 1:0 home-continuity win script alongside the 1:1 draw script driven by Port FC's Thai League 1 attack and tight 0.15 lambda gap, where a single win call leaves too much exposure to a set-piece stalemate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined goal lambda, 60.9% Poisson Under 2.5 share, Port FC's 50.0% big-chance waste rate, and Group B defensive caution favour under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Svay Rieng's 0.77 decayed goals-against form and 35.0% Poisson clean-sheet projection outweigh Port FC's 1.05 away lambda and wasteful 42.6%-possession attack."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 represents the leading home shutout script while 1:1 captures the top Poisson cell if Port FC convert a set piece or late counter."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) lead the Poisson total-goal distribution around a 2.25 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "First-half caution between two zero-point teams points to a level interval before Svay Rieng either break through late or share a tight stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 00:08:59 UTC"
+}
