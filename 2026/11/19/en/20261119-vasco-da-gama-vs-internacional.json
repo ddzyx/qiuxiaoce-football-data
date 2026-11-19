@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492458,
+    "matchup": "Vasco DA Gama vs Internacional",
+    "home_team": "Vasco DA Gama",
+    "away_team": "Internacional",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-19 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-vasco-da-gama-vs-internacional/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Vasco DA Gama vs Internacional: Expected Goals (xG), Defensive Absences & Match Analysis",
+    "meta": {
+      "matchId": "1492458",
+      "league": "Serie A",
+      "matchup": "Vasco DA Gama vs Internacional",
+      "matchTime": "2026-11-19 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vasco DA Gama are projected to secure a home victory at São Januário in an open contest exceeding 2.5 goals with both teams on the scoresheet.",
+    "possibilityAssessment": [
+      "Vasco DA Gama Home Win driven by home venue output and midfield reinforcements (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes anchored by 73.3% home Over 2.5 frequency and mutual defensive fragility (Confidence: Moderate, Value: High)",
+      "Second-half comeback or late-equalizer volatility driven by Inter's 15.9-day rest edge and Vasco's 66.7% HT-deficit recovery rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Loss-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492458",
+      "league": "Serie A",
+      "homeTeam": "Vasco DA Gama",
+      "awayTeam": "Internacional",
+      "match_time": "22:30",
+      "match_highlight": "Vasco host depleted Internacional backline in high-tempo São Januário clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492458,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Vasco's 53.3% home win rate, +0.48 xG differential, and returning central midfielders outweigh Inter's rest edge against a backline missing Maripán, Rochet, Bernabéi, and Thiago Maia."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Vasco's 1.58 xG/match and 73.3% home Over 2.5 rate meet an 11.8% away clean-sheet defense weakened by four key spine absences."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Inter's returning Alan Patrick targets Vasco's 20.0% home clean-sheet rate, while Vasco's front four face backup keeper Kauan Jesus without Maripán."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects Vasco's narrow-margin home pattern (6 of 8 home wins by one goal) with an Inter reply, while 3:1 captures late space if Inter chase."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Combined 3.06 xG and second-half defensive openings support a 3-goal primary band with 4 goals as the secondary extension."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Loss-Win"
+        ],
+        "comment": "Vasco won 5 of 5 home matches after leading at half-time and 3 of 7 after trailing, while recording zero Draw-Win results in 31 league games."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 10:38:43 UTC"
+}
