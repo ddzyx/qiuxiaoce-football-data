@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647177,
+    "matchup": "Lokomotíva Zvolen vs FK Košice",
+    "home_team": "Lokomotíva Zvolen",
+    "away_team": "FK Košice",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-19 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-lokomot-va-zvolen-vs-fk-ko-ice/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lokomotíva Zvolen vs FK Košice Tactical Breakdown & Probabilistic Modeling: Tier Gap vs Cup Rotation",
+    "meta": {
+      "matchId": "1647177",
+      "league": "Cup",
+      "matchup": "Lokomotíva Zvolen vs FK Košice",
+      "matchTime": "2026-11-19 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FK Košice is projected to win in regulation time via a controlled 0:2 margin driven by top-flight attacking quality and Zvolen's 72-hour turnaround.",
+    "possibilityAssessment": [
+      "Away Win driven by Niké liga attacking superiority, 14:0 cup pedigree, and fresh post-break legs (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by the 2.25 package lambda total and Košice's pragmatic 2:0 Round 4 template at Považská Bystrica (Confidence: Moderate, Value: Moderate)",
+      "1:2 Away Win contingency if Dominik Kružliak's defensive absence allows a single Zvolen set-piece or transition goal (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647177",
+      "league": "Cup",
+      "homeTeam": "Lokomotíva Zvolen",
+      "awayTeam": "FK Košice",
+      "match_time": "12:00",
+      "match_highlight": "Top-flight FK Košice attacks fatigued second-tier Zvolen despite Kružliak's defensive absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647177,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Košice's Niké liga firepower, 14:0 cup record, and 12-day rest edge support a 0:2 regulation away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 package lambda total, Zvolen's 0.94 second-tier goal rate, and Košice's measured cup template favor Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Three straight Košice cup clean sheets and Zvolen's low second-tier scoring output align with a 54.6% BTTS No baseline."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "0:2 mirrors Košice's Round 4 shutout win at Považská Bystrica, while 1:2 covers a set-piece concession without Kružliak."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals holds the modal 26.7% Poisson share, with 3 goals covering late Zvolen fatigue or a consolation strike."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures early Zvolen resistance before late fatigue, while Loss-Loss reflects an immediate Košice breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 00:16:14 UTC"
+}
