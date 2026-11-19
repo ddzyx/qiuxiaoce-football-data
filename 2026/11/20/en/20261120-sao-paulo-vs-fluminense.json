@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492457,
+    "matchup": "Sao Paulo vs Fluminense",
+    "home_team": "Sao Paulo",
+    "away_team": "Fluminense",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-20 00:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-sao-paulo-vs-fluminense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sao Paulo vs Fluminense: Expected Goals, Suspension Crisis & Match Intelligence",
+    "meta": {
+      "matchId": "1492457",
+      "league": "Serie A",
+      "matchup": "Sao Paulo vs Fluminense",
+      "matchTime": "2026-11-20 00:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Backing Fluminense to avoid defeat via Draw / Away Win exploits Sao Paulo's severe suspension and defensive injury crisis against fourth-placed Serie A opposition.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on 1:1 stalemate and 0:1 away breakthrough as Fluminense control possession against a depleted host spine (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals supported by simultaneous absences of Luciano, Ferreira, Canobbio, and Savarino alongside Bet365's 1.70 Under pricing (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes backed by Fluminense's 2-in-17 away clean-sheet record and Sao Paulo's makeshift three-man defense facing Lucho Acosta and Hulk (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492457",
+      "league": "Serie A",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Fluminense",
+      "match_time": "00:30",
+      "match_highlight": "Depleted Sao Paulo backline and missing forwards test Fluminense's G4 push.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1492457,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on 1:1 and 0:1, covering both a MorumBIS stalemate shaped by missing wingers and a narrow Fluminense win over Sao Paulo's suspension-hit lineup where neither single outcome dominates alone."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs lose key attacking starters (Luciano, Ferreira; Canobbio, Savarino) on top of a 52.3% Under 2.5 Poisson baseline and 1.70 Bet365 Under pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Fluminense have scored in 14 of 17 away league games against depleted defending while keeping just 2 away clean sheets, supporting a 1:1 exchange."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Top two Poisson scorelines (12.5% and 10.5%) reflecting balanced scoring-floor vulnerability at 1:1 and Sao Paulo's conversion risk at 0:1."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two-goal equilibrium leads the 25.2% Poisson peak, with 1 goal capturing the downward scoring compression from four absent forwards."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious first-half midfield balance (Sao Paulo 50% home HT draw rate) leads to a level 1:1 finish or a late Fluminense second-half breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 12:38:19 UTC"
+}
