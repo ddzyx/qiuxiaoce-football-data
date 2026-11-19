@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1628045,
+    "matchup": "Ghaz Al Shamal vs Al Karkh",
+    "home_team": "Ghaz Al Shamal",
+    "away_team": "Al Karkh",
+    "league": "Iraqi League",
+    "kickoff_utc": "2026-11-19 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261119-ghaz-al-shamal-vs-al-karkh/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ghaz Al Shamal vs Al Karkh Prediction & Match Analysis: Can Home Solidity Hold? — Scoreline Preview",
+    "meta": {
+      "matchId": "1628045",
+      "league": "Iraqi League",
+      "matchup": "Ghaz Al Shamal vs Al Karkh",
+      "matchTime": "2026-11-19 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ghaz Al Shamal is projected to avoid defeat via Home Win / Draw in a tight Round 14 contest expected to finish Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Ghaz Al Shamal's 0.77 goals conceded per game versus Al Karkh's 1.62 conceded (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.16 combined lambda and 63.3% Poisson density (Confidence: Moderate, Value: High)",
+      "BTTS: No aligned with a projected 1:0 scoreline and 56.6% Poisson shutout probability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1628045",
+      "league": "Iraqi League",
+      "homeTeam": "Ghaz Al Shamal",
+      "awayTeam": "Al Karkh",
+      "match_time": "16:00",
+      "match_highlight": "Low-scoring test of Ghaz Al Shamal's defense against Al Karkh transitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1628045,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 home win built on 0.77 GA/pg solidity and a 1:1 draw, as Ghaz Al Shamal's 0.69 GF/pg output makes a single win call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.16 combined lambda, 63.3% Poisson Under 2.5 projection, and Ghaz Al Shamal's 1.46-goal average match total favor a low-scoring match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Ghaz Al Shamal's 0.77 GA/pg defensive record and 56.6% Poisson BTTS: No rate support at least one side failing to score in a 1:0 baseline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Co-highest 13.4% Poisson densities reflecting either a narrow home breakthrough against 1.62 GA/pg defending or an eighth seasonal draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Highest exact-goal Poisson bands at 26.9% and 24.9%, consistent with tight margins and a 2.16 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Early tactical caution favors a level half-time before Ghaz Al Shamal either breaks through late or shares the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 05:03:53 UTC"
+}
