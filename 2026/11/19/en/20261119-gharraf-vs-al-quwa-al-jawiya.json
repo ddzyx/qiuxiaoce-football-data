@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1628039,
+    "matchup": "Gharraf vs Al Quwa Al Jawiya",
+    "home_team": "Gharraf",
+    "away_team": "Al Quwa Al Jawiya",
+    "league": "Iraqi League",
+    "kickoff_utc": "2026-11-19 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-gharraf-vs-al-quwa-al-jawiya/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gharraf vs Al Quwa Al Jawiya Prediction & Match Analysis: Can Air Force End Their Domestic Scoring Drought?",
+    "meta": {
+      "matchId": "1628039",
+      "league": "Iraqi League",
+      "matchup": "Gharraf vs Al Quwa Al Jawiya",
+      "matchTime": "2026-11-19 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win leaning slightly toward Al Quwa Al Jawiya in a low-scoring Under 2.5 and BTTS: No contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Al Quwa Al Jawiya's 40.5% win and 30.6% draw Poisson distribution (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals anchored by a 2.00 combined goal lambda and domestic defensive compactness (Confidence: High, Value: Moderate)",
+      "Both Teams To Score: No supported by Gharraf's 0.69 goals-per-game output and Al Quwa Al Jawiya's four-game domestic scoreless run (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1628039",
+      "league": "Iraqi League",
+      "homeTeam": "Gharraf",
+      "awayTeam": "Al Quwa Al Jawiya",
+      "match_time": "15:30",
+      "match_highlight": "Gharraf's home resilience tests Al Quwa Al Jawiya's domestic scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1628039,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al Quwa Al Jawiya's superior 1.11 goal lambda and H2H edge (0:1) alongside the high-frequency stalemate script (0:0) against a compact five-match unbeaten host, where a single call overlooks both sides' draw habits."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.00 combined goal lambda (67.7% Poisson Under 2.5 share), Gharraf's 0.69 goals per game, and four consecutive Under 1.5 league games for Al Quwa Al Jawiya."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with a 60.5% Poisson BTTS: No probability as Gharraf's low scoring rate meets Al Quwa Al Jawiya's 41.1% clean-sheet projection and recent league shutouts."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Reflects the top two independent-Poisson scorelines (15.0% and 13.5%), balancing a narrow away breakthrough against a mutually restricted stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Captures the joint-modal 1-goal and 2-goal buckets (27.1% each in the Poisson matrix) within an attrition-driven domestic script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey goalless first half consistent with low first-half scoring shares before either a late away winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 04:26:41 UTC"
+}
