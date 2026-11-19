@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622835,
+    "matchup": "Garudayaksa vs Persepam Madura Utd",
+    "home_team": "Garudayaksa",
+    "away_team": "Persepam Madura Utd",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-20 08:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-garudayaksa-vs-persepam-madura-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Garudayaksa vs Persepam Madura Utd Tactical Breakdown: Midfield Suspensions & Goal Edge",
+    "meta": {
+      "matchId": "1622835",
+      "league": "Liga 1",
+      "matchup": "Garudayaksa vs Persepam Madura Utd",
+      "matchTime": "2026-11-20 08:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads as Persepam Madura Utd's top-four attack exploits Garudayaksa's winless clean-sheet record alongside Over 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win pairing captures the visiting quality advantage and the credible home scoring stalemate route (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes reflect combined scoring expectancy of 3.00 goals and porous defensive records at Pakansari (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge addresses post-break rust and Persepam Madura Utd's 1.50 goals conceded per away fixture (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622835",
+      "league": "Liga 1",
+      "homeTeam": "Garudayaksa",
+      "awayTeam": "Persepam Madura Utd",
+      "match_time": "08:30",
+      "match_highlight": "Zero-clean-sheet Garudayaksa host top-four Madura without suspended shield Busnić.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622835,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 away win driven by Madura's superior finishing against a Busnić-less host alongside a 1:1 draw given Madura's mixed 2W-0D-2L away defense, where a single outcome alone would understate the road concession risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.00 combined lambda, Garudayaksa's 66.7% Over 2.5 league rate, and zero home clean sheets."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Garudayaksa have conceded in all nine matches while scoring in 77.8%, meeting a visitor with just one clean sheet in four away games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Converges on a 1:2 away edge if Mitkov and Lulinha capitalize late, with 1:1 covering a balanced Pakansari stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson modeling peaks jointly at 3 and 2 goals (22.4% each) around a 3.00 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Post-break caution favors a level first half before Madura's superior attacking depth decides it or both sides settle level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 20:38:53 UTC"
+}
