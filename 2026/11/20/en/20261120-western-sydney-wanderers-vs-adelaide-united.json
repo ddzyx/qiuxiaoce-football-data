@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593704,
+    "matchup": "Western Sydney Wanderers vs Adelaide United",
+    "home_team": "Western Sydney Wanderers",
+    "away_team": "Adelaide United",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-20 08:40:00",
+    "source_url": "https://xgmind.com/matches/20261120-western-sydney-wanderers-vs-adelaide-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Western Sydney Wanderers vs Adelaide United Prediction & Match Analysis: Can WSW Exploit Depleted Reds?",
+    "meta": {
+      "matchId": "1593704",
+      "league": "A-League",
+      "matchup": "Western Sydney Wanderers vs Adelaide United",
+      "matchTime": "2026-11-20 08:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Western Sydney Wanderers are projected to secure a home win over Adelaide United in a three-to-four-goal contest featuring goals from both sides.",
+    "possibilityAssessment": [
+      "Western Sydney's 1.62 xG midfield engine targets an Adelaide defense conceding 2.53 xGA without Bart Vriends and Dylan Pierias (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes align with Adelaide's zero clean sheets and Western Sydney's loss of Anthony Pantazopoulos (Confidence: Moderate, Value: Moderate)",
+      "Adelaide's 66.7% half-time lead rate paired with a 100% lead-not-won rate supports a second-half home comeback risk path (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593704",
+      "league": "A-League",
+      "homeTeam": "Western Sydney Wanderers",
+      "awayTeam": "Adelaide United",
+      "match_time": "08:40",
+      "match_highlight": "Western Sydney's intact attack targets Adelaide's depleted back line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593704,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Western Sydney's 1.62 xG per match and intact playmaking core should overwhelm an Adelaide defense conceding 2.53 xGA without Bart Vriends and Dylan Pierias to produce a 2:1 or 3:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined Poisson expectancy of 3.08 goals, Adelaide's 100% Over 2.5 league record, and Bet365's 1.44 Over pricing support three or more total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Adelaide's 0.0% league clean-sheet rate meets Western Sydney's 87.5% scoring projection, while Anthony Pantazopoulos's absence keeps Adelaide's 63.2% scoring floor active."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects Western Sydney's territorial control tempered by big-chance waste and Pantazopoulos's absence, while 3:1 captures sharper second-half conversion against a thin visiting defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals hold the highest Poisson density at 22.4%, while four goals reflect Adelaide's multi-goal road concessions and historical high-scoring H2H trends."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Win"
+        ],
+        "comment": "Western Sydney have drawn all four league first halves before accelerating late, while Adelaide led two of three league half-times before failing to win either."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 21:08:32 UTC"
+}
