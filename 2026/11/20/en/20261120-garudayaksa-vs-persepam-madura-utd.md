@@ -1,0 +1,83 @@
+# Garudayaksa vs Persepam Madura Utd Tactical Breakdown: Midfield Suspensions & Goal Edge
+
+> **Competition**: Liga 1
+> **Kickoff**: 2026-11-20 08:30 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At Pakansari Stadium in Bogor, tenth-placed Garudayaksa host fourth-placed Persepam Madura Utd in Round 10 of the 2026 Liga 1 season, pitting a resurgent newly promoted host against a disciplined top-four visitor separated by eight points in the table. The central dilemma centers on whether Garudayaksa&#x27;s productive home attack—which struck three goals apiece in recent Pakansari victories over Arema FC and PSS Sleman—can overcome a glaring defensive fragility that has yielded zero clean sheets in nine league outings, especially with holding midfielder Aleksandar Busnić still suspended. XG Mind AI deconstructs this first-ever competitive meeting by pairing verified season scoring profiles and post-break personnel updates with an independent Poisson goal-expectancy model to map the most probable scorelines and half-time progressions.
+
+📌 Garudayaksa vs Persepam Madura Utd: Match Intelligence Brief
+
+Fixture ID
+
+: 1622835
+
+Matchup
+
+: Garudayaksa vs Persepam Madura Utd
+
+Competition
+
+: Liga 1, Regular Season - 10
+
+Kickoff Time
+
+: 2026-11-20 08:30 UTC
+
+Key Tactical Watchpoint
+
+: Garudayaksa&#x27;s winless clean-sheet record across nine league rounds collides with Dimitar Mitkov and fit-again captain Lulinha while both midfields absorb key disciplinary and injury absences.
+
+📊 1. Garudayaksa Attacking Structure vs Persepam Madura Utd Defensive Counter
+
+⚔️ Head-to-Head History: First Competitive Meeting in Top-Flight Action
+
+No competitive head-to-head matches have occurred between Garudayaksa and Persepam Madura Utd in recent seasons, as Garudayaksa are competing in their debut 2026/27 Liga 1 campaign following promotion.
+
+📈 Team Form &amp; Tactical Style Breakdown: Open Home Aggression vs Controlled Away Efficiency
+
+Home Team (Garudayaksa):
+
+Under head coach Miloš Joksić, Garudayaksa sit 10th with 11 points from nine Liga 1 matches (3W-2D-4L, 12 goals scored, 16 conceded) and arrive off consecutive victories prior to the November international break: a 3-1 home win against PSS Sleman on November 1 and a 2-1 away triumph at Persijap Jepara on November 7. Operating primarily in a structured 4-4-2, Joksić&#x27;s side channels attacking threat through forward Brian Rubio (4 to 5 league goals, including a brace against PSS Sleman) and chief playmaker Christian Frýdek (2 goals, 2 assists), with Jairo Jean stretching channels alongside him. At Pakansari Stadium, they have shown genuine punch by netting seven goals in four home outings (2W-0D-2L), beating Arema FC 3-1 and PSS Sleman 3-1.
+
+However, Garudayaksa have failed to keep a single clean sheet across all nine league fixtures (0%), conceding at least once in every outing—including a 5-0 collapse at Bali United and a 2-1 stoppage-time home defeat to Persib Bandung.
+
+Having scored in seven of nine matches (77.8%), their matches consistently tilt open rather than locked down.
+
+Away Team (Persepam Madura Utd):
+
+Managed by Zé Gomes, Persepam Madura Utd (competing as Madura United FC) occupy fourth place with 19 points from nine matches (6W-1D-2L, 16 goals for, 10 against) and closed their pre-break schedule with back-to-back clean-sheet wins: 1-0 away at PSM Makassar on October 31 and 3-0 at home against Arema FC on November 6. Zé Gomes deploys a flexible 4-2-3-1 or 4-3-3 built around central midfielders Jajá and Taufany Muslihuddin feeding creative hub Danilo Santacruz, wide threats Lulinha (3 league assists) and Gali Freitas, and clinical Bulgarian striker Dimitar Mitkov (6 league goals). Overall, they boast four clean sheets in nine games (44.4%) and have failed to score only once (11.1%, in a 2-0 defeat at Persik Kediri on October 9).
+
+Crucially, their road metrics reveal a sharper contrast than their overall table standing: away from home they stand at 2W-0D-2L with five goals scored and six conceded, keeping only one clean sheet in four trips.
+
+While their transition quality punishes open back lines, conceding three at Persebaya Surabaya (3-1 loss) highlights vulnerability when pressed on the road.
+
+🔍 Core Statistical Comparison: Away Finishing &amp; Clean-Sheet Edge vs Winless Home Shutout Record
+
+(Note: Season-aligned expected goals data is unavailable in this match package, so attacking and defensive evaluation relies on verified 9-match Liga 1 per-match scoring rates and calculated statistical lambdas. Pre-computed JSON profile blocks reflect only a single captured fixture per side; the clean-sheet and failed-to-score percentages below are derived from all nine verified 2026 Liga 1 matches.)
+
+Metric
+
+Garudayaksa (Season)
+
+Persepam Madura Utd (Season)
+
+Expected Goals (xG / match)
+
+N/A
+
+N/A
+
+Expected Goals Against (xGA / match)
+
+N/A
+
+N/A
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261120-garudayaksa-vs-persepam-madura-utd/)
