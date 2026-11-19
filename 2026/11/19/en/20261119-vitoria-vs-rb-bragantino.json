@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492459,
+    "matchup": "Vitoria vs RB Bragantino",
+    "home_team": "Vitoria",
+    "away_team": "RB Bragantino",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-19 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-vitoria-vs-rb-bragantino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vitoria vs RB Bragantino Prediction & Match Analysis: Can Lacerda Halt Slide? — xG Preview",
+    "meta": {
+      "matchId": "1492459",
+      "league": "Serie A",
+      "matchup": "Vitoria vs RB Bragantino",
+      "matchTime": "2026-11-19 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing RB Bragantino to avoid defeat via Draw / Away Win alongside Under 2.5 Goals and BTTS Yes best balances the visitors' superior season xG against Vitoria's strong home record and mutual defensive absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers the twin primary trajectories of a 1:1 deadlock and a narrow 1:2 away breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.49 total lambda, strong venue Under 2.5 frequencies, and missing attacking starters (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes reflects Bragantino's 13.3% away clean-sheet rate meeting a severely depleted Vitoria defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492459",
+      "league": "Serie A",
+      "homeTeam": "Vitoria",
+      "awayTeam": "RB Bragantino",
+      "match_time": "22:30",
+      "match_highlight": "Debutant Lacerda tests depleted Vitoria backline against Barbosa-less Bragantino.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492459,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Bragantino's 1.56 xG creation and Vitoria's five-match winless slump support Draw / Away Win, covering both a 1:1 stalemate from Bragantino's road lead-erosion trend and a 1:2 away win while avoiding a single away call due to Lucas Barbosa's suspension."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.49 total lambda (54.6% Under 2.5), ~68% venue Under 2.5 splits, high big-chance wastefulness, and key attacking absences support Under 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bragantino's 13.3% away clean-sheet rate and Vitoria's injury-hit defense leaking nine goals in five games strongly support Both Teams To Score: Yes."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.7% where road fragility cancels Bragantino's xG edge, while 1:2 captures late visitor depth deciding the match."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.7%) and three goals (21.3%) hold nearly half the total-goal distribution, directly tracking the 1:1 primary and 1:2 secondary scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Sub-46% venue first-half goal shares under a debuting home coach point toward a level interval before either holding 1:1 or yielding late to Bragantino."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 10:41:51 UTC"
+}
