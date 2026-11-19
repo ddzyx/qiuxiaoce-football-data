@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601152,
+    "matchup": "Negeri Sembilan vs Kuching FA",
+    "home_team": "Negeri Sembilan",
+    "away_team": "Kuching FA",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-20 08:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-negeri-sembilan-vs-kuching-fa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Negeri Sembilan vs Kuching FA Tactical Breakdown & Probabilistic Modeling: Can Hosts Stop Etame?",
+    "meta": {
+      "matchId": "1601152",
+      "league": "Super League",
+      "matchup": "Negeri Sembilan vs Kuching FA",
+      "matchTime": "2026-11-20 08:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kuching FA hold the clear attacking and structural edge to claim an Away Win at Tuanku Abdul Rahman Stadium in an open contest exceeding 2.5 goals.",
+    "possibilityAssessment": [
+      "Away Win — Kuching FA's 2.83 goals-per-game Super League attack led by Jerome Mpacko Etame and Ajdin Mujagić outweighs a Negeri Sembilan side winless on the pitch (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Combined statistical lambda of 3.58 and high-scoring league trends for both clubs point toward three or four total goals (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes — Negeri Sembilan's home scoring continuity meets a Kuching FA backline that conceded in two of its last three Super League away fixtures (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601152",
+      "league": "Super League",
+      "homeTeam": "Negeri Sembilan",
+      "awayTeam": "Kuching FA",
+      "match_time": "08:45",
+      "match_highlight": "Clinical Kuching attack tests winless-on-pitch Negeri Sembilan defense at Paroi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601152,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Kuching FA's 2.83 goals-per-game league output and unbeaten six-match H2H record support a 1:2 or 1:3 away victory against Negeri Sembilan's porous on-pitch defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.58 combined goal lambda and strong multi-goal league trends across both clubs support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kuching FA's 90.3% scoring projection pairs with Negeri Sembilan's 71.3% scoring projection and home scoring record across played Super League fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Both 1:2 and 1:3 reflect Kuching FA's superior finishing quality prevailing while Negeri Sembilan convert a home transition chance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals lead the realistic Poisson distribution around a 3.58 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Kuching FA have led at half-time in three straight meetings (Loss-Loss from home view), with Draw-Loss covering early home compact resistance before second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 21:11:58 UTC"
+}
