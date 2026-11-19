@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556143,
+    "matchup": "Kashima vs Shimizu S-pulse",
+    "home_team": "Kashima",
+    "away_team": "Shimizu S-pulse",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-20 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-kashima-vs-shimizu-s-pulse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashima vs Shimizu S-pulse Prediction & Match Analysis: Can Antlers Exploit Road Fragility?",
+    "meta": {
+      "matchId": "1556143",
+      "league": "J1 League",
+      "matchup": "Kashima vs Shimizu S-pulse",
+      "matchTime": "2026-11-20 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Kashima for a regulation-time Home Win anchored by a primary 3:0 scoreline projection and Over 2.5 / BTTS: No outlook.",
+    "possibilityAssessment": [
+      "Home Win behind Kashima's 2.07 goals/match and 63.1 FW-OTI (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.06 combined lambda and Shimizu's 1.61 xGA/match (Confidence: Moderate, Value: Moderate)",
+      "2:1 Home Win contingency if Kashima's 1.71 GA/match concedes once on the break (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556143",
+      "league": "J1 League",
+      "homeTeam": "Kashima",
+      "awayTeam": "Shimizu S-pulse",
+      "match_time": "10:00",
+      "match_highlight": "Kashima home firepower tests Shimizu's four-match league scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556143,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by Kashima's 71.4% home win rate and Shimizu's four consecutive scoreless league defeats, converging on a 3:0 primary projection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.06 lambda, 59.0% Poisson Over 2.5 expectancy, and Kashima's 2.07 goals/match output point past the 2.5-goal mark."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Shimizu's 50.0% failed-to-score rate and four-match scoring drought align with Bet365's 1.80 BTTS: No lean against Kashima's 1.16 xGA/match."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:1"
+        ],
+        "comment": "3:0 captures Kashima's multi-goal home ceiling against a scoreless visitor, while 2:1 hedges Kashima's 28.6% home clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflect the modal 22.4% Poisson total, while two goals cover a controlled 2:0 home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kashima lead at half-time in 57.1% of home games with 100% conversion, with Draw-Win covering an initially compact rested Shimizu block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 22:08:00 UTC"
+}
