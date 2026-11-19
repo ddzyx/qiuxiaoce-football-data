@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1581564,
+    "matchup": "Van vs Ararat-Armenia",
+    "home_team": "Van",
+    "away_team": "Ararat-Armenia",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-van-vs-ararat-armenia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Van vs Ararat-Armenia Prediction & Match Analysis: Can Home Resistance Stall Title-Chasing Firepower?",
+    "meta": {
+      "matchId": "1581564",
+      "league": "Premier League",
+      "matchup": "Van vs Ararat-Armenia",
+      "matchTime": "2026-11-20 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ararat-Armenia hold a clear structural edge for an Away Win in Charentsavan, anchored by a 2.00 goals-per-game attack and 68.4% first-half scoring share against Van's 2.46 goals-conceded rate.",
+    "possibilityAssessment": [
+      "Away Win — Ararat-Armenia's multi-source attack, unbeaten eight-game league profile, and fast-starting tempo overwhelm Van's leaky defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & 1:2 / 0:2 Away-Win Margin Band — Combined 3.11 lambda total, Ararat-Armenia's 75.0% sampled Over 2.5 rate, and Van's five straight 3+ goal matches support an away victory across 2 or 3 total goals (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes / Second-Half Acceleration (Draw-Loss) — Van's 1.33 home goals-per-match output and Ararat-Armenia's 37.5% clean-sheet rate allow a home reply before away depth decides the second half (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1581564",
+      "league": "Premier League",
+      "homeTeam": "Van",
+      "awayTeam": "Ararat-Armenia",
+      "match_time": "11:00",
+      "match_highlight": "Fast-starting Ararat-Armenia attack tests Van's Charentsavan home resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1581564,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Ararat-Armenia's superior league scoring and prevention profile supports an Away Win across 1:2 or 0:2 margins."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.11 combined lambda total, 75.0% sampled Over 2.5 rate for Ararat-Armenia, and Van's 2.46 goals-conceded average support Over 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Van's 1.33 home goals-per-game output and Ararat-Armenia's 62.5% sampled BTTS rate point toward both sides scoring."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 reconciles Ararat-Armenia's single-goal win frequency with Van's home scoring, while 0:2 covers the clean-sheet shutout branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson goal density peaks at 3 goals (22.4%) and 2 goals (21.6%), matching the 1:2 and 0:2 scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Ararat-Armenia's 75.0% half-time lead rate backs Loss-Loss, while August's 0:0 half-time precedent keeps Draw-Loss as the main fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 23:08:46 UTC"
+}
