@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1633935,
+    "matchup": "Thanh Hóa vs Hoang Anh Gia Lai",
+    "home_team": "Thanh Hóa",
+    "away_team": "Hoang Anh Gia Lai",
+    "league": "V.League 1",
+    "kickoff_utc": "2026-11-20 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-thanh-h-a-vs-hoang-anh-gia-lai/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Thanh Hóa vs Hoang Anh Gia Lai Tactical Breakdown: Probabilistic Modeling & Defensive Vulnerabilities",
+    "meta": {
+      "matchId": "1633935",
+      "league": "V.League 1",
+      "matchup": "Thanh Hóa vs Hoang Anh Gia Lai",
+      "matchTime": "2026-11-20 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Thanh Hóa is projected to win or draw at home behind a 2:1 primary scoreline in an open Over 2.5 and BTTS Yes matchup.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Thanh Hóa's 1.72 home goal expectancy and HAGL's three away defeats with nine goals conceded (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes supported by 3.08 combined goal expectancy and both clubs conceding in 13 of 14 combined fixtures (Confidence: Moderate, Value: Moderate)",
+      "Win-Draw half-time to full-time variance reflecting Thanh Hóa's habit of scoring early before conceding late without a clean sheet (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1633935",
+      "league": "V.League 1",
+      "homeTeam": "Thanh Hóa",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "match_time": "10:00",
+      "match_highlight": "Guindo targets HAGL's 3.00 away GA against reshuffled host defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1633935,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home breakthrough against HAGL's 0-0-3 road defense and a 1:1 draw driven by Bá Tiến's suspension, avoiding a single call given Thanh Hóa's zero clean sheets."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.08 combined Poisson lambda (59.4% Over 2.5) and HAGL conceding 2.14 goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 61.0% Poisson BTTS probability, Thanh Hóa's zero clean sheets in seven matches, and HAGL conceding in six of seven outings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Thanh Hóa's home attacking edge over HAGL's leaky road defense, while 1:1 captures the club's three straight 1-1 league draws and H2H pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson total-goal probabilities at 22.4% and 21.8% across both the 2:1 and 1:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a tight first half before Thanh Hóa wears down HAGL late, whereas Win-Draw reflects an early Guindo strike followed by a second-half equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 22:19:46 UTC"
+}
