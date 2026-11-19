@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622836,
+    "matchup": "PSS Sleman vs Arema FC",
+    "home_team": "PSS Sleman",
+    "away_team": "Arema FC",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-20 08:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-pss-sleman-vs-arema-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "PSS Sleman vs Arema FC Prediction & Match Analysis: Can Demerson Exploit Arema's Road Crisis?",
+    "meta": {
+      "matchId": "1622836",
+      "league": "Liga 1",
+      "matchup": "PSS Sleman vs Arema FC",
+      "matchTime": "2026-11-20 08:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing PSS Sleman via Home Win / Draw alongside Over 2.5 goals and Both Teams To Score (Yes) captures the decisive home-versus-away defensive asymmetry at Maguwoharjo Stadium.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by 2:1 primary and 2:2 secondary match scripts (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes aligned with a 3.67 combined lambda and 88.9% seasonal Over 2.5 frequency for both sides (Confidence: Moderate, Value: Moderate)",
+      "Contingency 2:2 high-scoring draw covering Careca's transition threat against PSS Sleman's fragile home defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622836",
+      "league": "Liga 1",
+      "homeTeam": "PSS Sleman",
+      "awayTeam": "Arema FC",
+      "match_time": "08:30",
+      "match_highlight": "Caretaker Demerson tests Arema FC's suspended defense at Maguwoharjo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622836,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home breakthrough against Arema's depleted road defense and the 2:2 stalemate if Careca exploits PSS Sleman's single-clean-sheet backline, as either single call leaves material game-state risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.67 combined lambda (70.9% Poisson Over 2.5 probability) and eight of nine Liga 1 matches clearing 2.5 goals for both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by a 70.6% Poisson BTTS probability, PSS Sleman scoring in all nine league matches, and Arema FC keeping zero away clean sheets while Careca returns."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Converges on 2:1 as PSS Sleman exploit Arema's suspended defensive spine, with 2:2 covering Careca's counter-attacking response against a 1.89 goals-conceded home defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Matches the two highest Poisson total-goal densities (21.0% for 3 goals, 19.3% for 4 goals) and directly aligns with 2:1 and 2:2 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects a cautious caretaker first half before Arema's depleted core tires late, while Win-Draw covers an early home lead erased by second-half defensive lapses."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 20:43:24 UTC"
+}
