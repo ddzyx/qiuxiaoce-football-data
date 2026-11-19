@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647524,
+    "matchup": "Beltinci vs Celje",
+    "home_team": "Beltinci",
+    "away_team": "Celje",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-19 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261119-beltinci-vs-celje/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Beltinci vs Celje Prediction & Match Analysis: Can Home Low Block Halt Celje? — Scoreline Preview",
+    "meta": {
+      "matchId": "1647524",
+      "league": "Cup",
+      "matchup": "Beltinci vs Celje",
+      "matchTime": "2026-11-19 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celje's top-flight quality and 13.7-day rest edge point to a controlled 90-minute victory or draw at Beltinci Sports Park under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Celje's PrvaLiga class against a host missing Lazar Ikač, with the Draw retained for post-break rotation risk (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals backed by the 2.25 lambda_total anchor and Celje's 2.29 goals-per-game 1. SNL profile (Confidence: Moderate, Value: High)",
+      "1:1 regulation-time stalemate contingency if Beltinci convert a home transition chance while Celje waste big openings (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647524",
+      "league": "Cup",
+      "homeTeam": "Beltinci",
+      "awayTeam": "Celje",
+      "match_time": "12:30",
+      "match_highlight": "Beltinci's low block without Ikač meets Celje's patient top-flight depth.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647524,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Built around a 0:2 Celje breakthrough and 1:1 stalemate, covering both Celje's division edge and post-break rotation draw risk where a single Away Win leaves cup friction uncovered."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by lambda_total of 2.25 (60.9% Under 2.5 baseline), Celje's 2.29 goals-per-match 1. SNL average, and Beltinci's compact low-block setup."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with the 54.6% Poisson BTTS-No baseline, Celje's 43-50% 1. SNL clean-sheet rate, and Beltinci losing suspended Lazar Ikač."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "Primary 0:2 reflects Celje's second-half quality telling like their 2:0 win at Korotan, while 1:1 covers wasteful finishing against Beltinci's home counter."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the top two exact totals in the independent Poisson distribution (26.7% for 2 goals, 23.7% for 1 goal) inside an Under 2.5 script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Beltinci's disciplined opening half should keep matters level at the break before Celje either pull clear late (Draw-Loss) or settle into a 90-minute stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 00:43:16 UTC"
+}
