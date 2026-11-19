@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603483,
+    "matchup": "Albirex Niigata S vs Balestier Khalsa",
+    "home_team": "Albirex Niigata S",
+    "away_team": "Balestier Khalsa",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-albirex-niigata-s-vs-balestier-khalsa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Albirex Niigata S vs Balestier Khalsa Tactical Breakdown & Probabilistic Modeling: Open Goal Battle",
+    "meta": {
+      "matchId": "1603483",
+      "league": "Premier League",
+      "matchup": "Albirex Niigata S vs Balestier Khalsa",
+      "matchTime": "2026-11-20 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Albirex Niigata S to avoid defeat (Home Win / Draw) in an open Over 2.5 and BTTS: Yes encounter anchored around a 2:1 home victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis — Home Win / Draw driven by 1.92 vs 1.33 Poisson goal expectancy and 2:1 / 1:1 score density (Confidence: Moderate, Value: Moderate)",
+      "Secondary Goals Thesis — Over 2.5 Goals & BTTS: Yes backed by 3.25 combined lambda and 4/6 Over 2.5 league rates for both clubs (Confidence: Moderate, Value: Moderate)",
+      "Contingency Draw Thesis — 1:1 stalemate hedge reflecting Albirex's recent four-game winless run and 9.9% modal scoreline weight (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603483",
+      "league": "Premier League",
+      "homeTeam": "Albirex Niigata S",
+      "awayTeam": "Balestier Khalsa",
+      "match_time": "11:30",
+      "match_highlight": "Mid-table equals collide as Albirex's firepower tests Balestier's leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603483,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough built on Albirex's 1.83 goals-per-game edge alongside a 1:1 draw script given Albirex's four-match winless slide, whereas a single call would ignore their recent concession rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.25 combined lambda (63.0% Over 2.5), four Over 2.5 outings in six SPL games for each side, and five straight high-scoring H2Hs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 85.3% home and 73.6% away scoring projections, Balestier's zero away clean sheets, and Albirex conceding in four consecutive league matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Albirex's attacking superiority against Balestier's 2.00 goals-conceded rate, while 1:1 is the Poisson model's top modal draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (20.5%) represent the two highest-density totals in the Poisson distribution across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Albirex have failed to lead at half-time in four straight games, favoring a level interval before either a second-half home breakthrough or a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-19 23:43:08 UTC"
+}
