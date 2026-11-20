@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650173,
+    "matchup": "Bucaramanga vs America de Cali",
+    "home_team": "Bucaramanga",
+    "away_team": "America de Cali",
+    "league": "Primera A",
+    "kickoff_utc": "2026-11-20 23:35:00",
+    "source_url": "https://xgmind.com/matches/20261120-bucaramanga-vs-america-de-cali/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bucaramanga vs America de Cali Tactical Breakdown & Probabilistic Modeling: Home Fortress Meets Fatigue",
+    "meta": {
+      "matchId": "1650173",
+      "league": "Primera A",
+      "matchup": "Bucaramanga vs America de Cali",
+      "matchTime": "2026-11-20 23:35 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project a tight Draw / Away Win outcome under 2.5 goals led by a 1:1 stalemate as regular-season defensive discipline offsets recovery asymmetry.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by 1:1 stalemate with 0:1 visiting steal retained (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals anchored by two-goal and one-goal match scripts (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes on late-halfway fatigue opening a single chance per side (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650173",
+      "league": "Primera A",
+      "homeTeam": "Bucaramanga",
+      "awayTeam": "America de Cali",
+      "match_time": "23:35",
+      "match_highlight": "Unbeaten home fortress with 147h rest faces fatigued América.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650173,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 home-fortress stalemate driven by Bucaramanga's 60% home draw rate and a 0:1 Away Win backed by América's superior defense and Elo, since neither single call safely captures both the rest gap and class edge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides conceded under 0.90 goals per regular-season game and finished Under 2.5 in four of their last five matches, pointing to a controlled opener."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams averaged 1.63 regular-season goals per match and América's 70-hour recovery reduces clean-sheet durability against fresh home wing-backs."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 mirrors October's stalemate in Bucaramanga under equal 1.63 scoring averages, while 0:1 captures América's clinical conversion against home wastefulness."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Low-margin Quadrangular opening caution and strict officiating concentrate scoring density around two-goal and one-goal outcomes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious first-half pacing favors a level interval before either matched late goals (Draw-Draw) or an América second-half breakthrough (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:57:19 UTC"
+}
