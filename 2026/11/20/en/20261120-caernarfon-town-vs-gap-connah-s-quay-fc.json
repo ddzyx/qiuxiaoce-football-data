@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576014,
+    "matchup": "Caernarfon Town vs GAP Connah S Quay FC",
+    "home_team": "Caernarfon Town",
+    "away_team": "GAP Connah S Quay FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-caernarfon-town-vs-gap-connah-s-quay-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Caernarfon Town vs GAP Connah S Quay FC Match Analysis: 2.62 GPG Attack vs 0.56 GA Defense — Model Preview",
+    "meta": {
+      "matchId": "1576014",
+      "league": "Premier League",
+      "matchup": "Caernarfon Town vs GAP Connah S Quay FC",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Model synthesis projects a competitive Over 2.5 contest where GAP Connah S Quay FC avoid defeat at The Oval via Draw / Away Win alongside Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "GAP Connah S Quay FC Draw / Away Win supported by 41.3% Away Win and 22.9% Draw Poisson density on 1.72 vs 1.59 goal expectancies (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals supported by a 3.31 combined lambda (64.3% Over 2.5) and 4 of 5 recent H2H meetings clearing two goals (Confidence: Moderate, Value: High)",
+      "Both Teams To Score (Yes) backed by 65.4% Poisson probability and five consecutive two-way scoring H2H clashes (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576014",
+      "league": "Premier League",
+      "homeTeam": "Caernarfon Town",
+      "awayTeam": "GAP Connah S Quay FC",
+      "match_time": "19:45",
+      "match_highlight": "2.62 GPG home firepower tests league-best 0.56 GA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576014,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Connah's Quay's away win edge (1:2) and the high-scoring draw branch (2:2), as Caernarfon's 2.62 goals per game make an isolated single away call riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.31 combined goal lambda (64.3% Over 2.5), Caernarfon's 42-goal league attack, and four Over 2.5 results in the last five H2H meetings."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with a 65.4% Poisson BTTS rate as Caernarfon's 79.6% home scoring floor meets Connah's Quay's 82.1% scoring probability against a 1.31 GA/g defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures the visitors' slight 1.72 vs 1.59 lambda edge and transition finishing, while 2:2 covers a repeat of January's high-tempo stalemate at The Oval."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (22.1%) and four goals (18.3%) represent the primary Over 2.5 distribution peaks matching the 1:2 and 2:2 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A compact first half gives way after the interval either to Connah's Quay's clinical transition surge (Draw-Loss) or an equal-terms late share (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:28:40 UTC"
+}
