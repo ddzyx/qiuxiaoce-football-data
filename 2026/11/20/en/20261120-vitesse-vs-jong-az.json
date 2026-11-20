@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551895,
+    "matchup": "Vitesse vs Jong AZ",
+    "home_team": "Vitesse",
+    "away_team": "Jong AZ",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-vitesse-vs-jong-az/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vitesse vs Jong AZ Tactical Breakdown & Probabilistic Modeling: Defensive Absences vs Youth Firepower",
+    "meta": {
+      "matchId": "1551895",
+      "league": "Eerste Divisie",
+      "matchup": "Vitesse vs Jong AZ",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jong AZ are well positioned to avoid defeat at the GelreDome in an open, multi-goal contest where Vitesse's injury-hit back line meets a prolific yet porous visiting setup.",
+    "possibilityAssessment": [
+      "Draw / Away Win supported by Jong AZ's 100% away scoring rate and Vitesse's confirmed defensive absences (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals driven by a 3.64 derived goal expectancy and zero home or away clean sheets for either side (Confidence: High, Value: High)",
+      "BTTS: Yes backed by Naoufal Bannis's 10-goal output facing Jong AZ's 0.0% season clean-sheet rate (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551895",
+      "league": "Eerste Divisie",
+      "homeTeam": "Vitesse",
+      "awayTeam": "Jong AZ",
+      "match_time": "19:00",
+      "match_highlight": "Injury-hit Vitesse defense faces Jong AZ's 100% away scoring streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551895,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 away win driven by Vitesse's defensive injuries and a 2:2 draw branch given Jong AZ's 0.0% clean-sheet rate, as neither side reliably holds a shutout."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Derived lambda_total of 3.64 and 10 of 13 combined venue matches clearing 2.5 goals support an open, high-scoring script."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Jong AZ have scored and conceded in all seven away league fixtures, while Vitesse hold a 0.0% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Jong AZ's superior midfield creation against depleted hosts, while 2:2 covers Jong AZ's 66.7% away lead-not-won rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the densest bands under a 3.64 total goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss mirrors Vitesse's 66.7% home half-time draw rate before Jong AZ pull away late, while Loss-Draw covers an early away lead surrendered after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:21:48 UTC"
+}
