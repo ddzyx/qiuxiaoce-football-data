@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551887,
+    "matchup": "Almere City FC vs NAC Breda",
+    "home_team": "Almere City FC",
+    "away_team": "NAC Breda",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-almere-city-fc-vs-nac-breda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Almere City FC vs NAC Breda Prediction & Match Analysis: Greiml Absence & Counter-Attack Battle",
+    "meta": {
+      "matchId": "1551887",
+      "league": "Eerste Divisie",
+      "matchup": "Almere City FC vs NAC Breda",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Almere City FC's counter-attacking edge against a reshuffled NAC Breda defence makes Home Win / Draw with Over 2.5 Goals and BTTS: Yes the optimal analytical direction.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Almere City FC leading, Draw retained) (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes (Confidence: High, Value: Moderate)",
+      "2:2 High-Scoring Draw contingency branch (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551887",
+      "league": "Eerste Divisie",
+      "homeTeam": "Almere City FC",
+      "awayTeam": "NAC Breda",
+      "match_time": "19:00",
+      "match_highlight": "Almere counter-attacks test Greiml-less NAC defence in top-four clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551887,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Almere's 2:1 home counter-attacking win leads against a Greiml-less NAC backline, while a single Home Win call would overlook NAC's 87.5% away unbeaten record supporting the 2:2 Draw script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average 3.40 total goals per league match (73.3% Over 2.5 for Almere, 62.5% away Over 2.5 for NAC) with standings-derived lambda_total at 3.40."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Almere score in 93.3% of league matches against a Greiml-less NAC defence (26.7% clean sheets), while NAC score in 87.5% of away games against Almere's 33.3% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects the 1.93 vs 1.47 lambda convergence and Greiml's absence, while 2:2 covers NAC's set-piece threat and 50.0% half-time deficit recovery rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Standings-derived total expectancy of 3.40 goals and high shot volumes from both sides concentrate probability across three and four total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win mirrors Almere's 62.5% conversion from level intervals, while Win-Draw captures Almere's 57.1% home half-time lead rate meeting NAC's 50.0% deficit recovery."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 12:17:17 UTC"
+}
