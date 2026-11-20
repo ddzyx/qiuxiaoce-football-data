@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556149,
+    "matchup": "Tokyo Verdy vs Nagoya Grampus",
+    "home_team": "Tokyo Verdy",
+    "away_team": "Nagoya Grampus",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-tokyo-verdy-vs-nagoya-grampus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Tokyo Verdy vs Nagoya Grampus: Expected Goals (xG), Set-Piece Edge & Match Intelligence",
+    "meta": {
+      "matchId": "1556149",
+      "league": "J1 League",
+      "matchup": "Tokyo Verdy vs Nagoya Grampus",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tokyo Verdy are projected to avoid defeat in an open J1 League Round 15 contest where both defenses concede.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Home Win / Draw driven by Verdy's second-half surge and 1.65 decayed goals-for rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS: Yes supported by 2.57 combined lambda and zero venue clean sheets for either side (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency covering Nagoya Grampus's 57% possession volume against Verdy's depleted backline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556149",
+      "league": "J1 League",
+      "homeTeam": "Tokyo Verdy",
+      "awayTeam": "Nagoya Grampus",
+      "match_time": "05:00",
+      "match_highlight": "Soma's set-piece Verdy test winless Nagoya's zero-clean-sheet away backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556149,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Verdy's 2:1 second-half winning trajectory and a 1:1 stalemate, as Verdy's 0/8 home clean-sheet record makes a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.57 combined lambda, Nagoya's 71.4% away Over 2.5 rate, and zero venue clean sheets for both clubs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Nagoya have 0 clean sheets in 14 league games while Verdy hold 0 in 8 at home against Nagoya's 1.29 xG/match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Verdy's set-piece edge over winless Nagoya; 1:1 covers a possession-controlled deadlock."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligned directly with the 2:1 primary and 1:1 secondary projections around a 2.57 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "High half-time draw rates for both clubs precede either Verdy's 75% second-half scoring surge or a shared 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:08:12 UTC"
+}
