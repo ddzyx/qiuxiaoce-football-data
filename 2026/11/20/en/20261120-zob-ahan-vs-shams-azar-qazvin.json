@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649588,
+    "matchup": "ZOB Ahan vs Shams Azar Qazvin",
+    "home_team": "ZOB Ahan",
+    "away_team": "Shams Azar Qazvin",
+    "league": "Persian Gulf Pro League",
+    "kickoff_utc": "2026-11-20 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-zob-ahan-vs-shams-azar-qazvin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "ZOB Ahan vs Shams Azar Qazvin Tactical Breakdown & Probabilistic Modeling: Breaking a Goalless Deadlock",
+    "meta": {
+      "matchId": "1649588",
+      "league": "Persian Gulf Pro League",
+      "matchup": "ZOB Ahan vs Shams Azar Qazvin",
+      "matchTime": "2026-11-20 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "ZOB Ahan avoids defeat in a low-scoring contest anchored by Under 2.5 goals and BTTS: No, with a 0:0 stalemate slightly leading a 1:0 home breakthrough.",
+    "possibilityAssessment": [
+      "Primary 1X2 Trajectory: Home Win / Draw backed by 0.83 home goals conceded per match and seven ZOB Ahan draws in 12 games (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & Under/Over 2.5: Under 2.5 supported by a 1.57 combined goal expectancy and 79.1% Poisson probability (Confidence: Moderate, Value: High)",
+      "Both Teams To Score Asymmetry: BTTS: No projected at 70.6% as both sides struggle below 0.65 goals scored per match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649588",
+      "league": "Persian Gulf Pro League",
+      "homeTeam": "ZOB Ahan",
+      "awayTeam": "Shams Azar Qazvin",
+      "match_time": "12:00",
+      "match_highlight": "ZOB Ahan hosts Shams Azar after three straight goalless league draws.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649588,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a fourth 0:0 stalemate (35.7% draw probability) and a narrow 1:0 home win (35.3%), as ZOB Ahan's 0.50-goal attack weakens a single-outcome home call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a suppressed 1.57 combined lambda and 79.1% Poisson probability across two low-scoring attacks."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "ZOB Ahan's three consecutive clean sheets and Shams Azar's three blanks in four league games align with a 70.6% no-BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "1:0"
+        ],
+        "comment": "0:0 (20.8%) reflects ZOB Ahan's recent run and December's H2H stalemate, while 1:0 (17.5%) captures a late home breakthrough against a 1.18-conceding defense."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "1 goal leads the aggregated distribution (32.7%) across 1:0 and 0:1, with 0 goals (20.8% baseline) elevated by consecutive 0:0 results."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both scripts project a cautious, scoreless first half before either staying deadlocked at full time or breaking late for ZOB Ahan."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:26:01 UTC"
+}
