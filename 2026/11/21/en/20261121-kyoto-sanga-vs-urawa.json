@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556146,
+    "matchup": "Kyoto Sanga vs Urawa",
+    "home_team": "Kyoto Sanga",
+    "away_team": "Urawa",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kyoto-sanga-vs-urawa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kyoto Sanga vs Urawa Tactical Breakdown & Probabilistic Modeling: Rest Disparity Meets xG Asymmetry",
+    "meta": {
+      "matchId": "1556146",
+      "league": "J1 League",
+      "matchup": "Kyoto Sanga vs Urawa",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Kyoto Sanga to win or draw (Home Win / Draw) with Over 2.5 goals and BTTS: Yes captures the hosts' 14-day rest advantage and Urawa's 2.07 goals-conceded rate while respecting Urawa's 1.56 xG second-half threat.",
+    "possibilityAssessment": [
+      "Kyoto Sanga Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes (Confidence: Moderate, Value: High)",
+      "HT/FT Win-Draw contingency behind Urawa's second-half surge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556146",
+      "league": "J1 League",
+      "homeTeam": "Kyoto Sanga",
+      "awayTeam": "Urawa",
+      "match_time": "05:00",
+      "match_highlight": "Fresh Kyoto Sanga test Cho Kwi-jae's leaky Urawa defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556146,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kyoto Sanga's 2:1 home edge behind 14 days rest and 5 unbeaten games alongside a 2:2 draw fueled by Urawa's 1.56 xG and second-half scoring surge, as neither single call eliminates the other's mechanism."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.35 combined lambda, 65.1% Poisson Over 2.5 baseline, Kyoto's 1.58 xGA, and Urawa's 2.07 goals conceded per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides stand above 80% modeled scoring probability with 64.3% season BTTS rates and sub-22% clean-sheet frequencies."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Reflects Kyoto's home attacking sharpness via Rafael Elias against Urawa's porous road defense, with 2:2 capturing Urawa's second-half recovery threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals leads the Poisson distribution at 22.0% around a 3.35 lambda_total, with 4 goals (18.4%) covering open second-half exchanges."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Kyoto leads at half-time in 66.7% of home league matches while Urawa trails in 50.0% away, leaving Win-Win primary and Win-Draw as the main lead-erosion fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:56:22 UTC"
+}
