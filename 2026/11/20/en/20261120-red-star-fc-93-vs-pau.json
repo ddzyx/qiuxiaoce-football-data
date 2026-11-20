@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552537,
+    "matchup": "RED Star FC 93 vs PAU",
+    "home_team": "RED Star FC 93",
+    "away_team": "PAU",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-red-star-fc-93-vs-pau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling RED Star FC 93 vs PAU: Expected Goals (xG), Key Absences & Match Analysis",
+    "meta": {
+      "matchId": "1552537",
+      "league": "Ligue 2",
+      "matchup": "RED Star FC 93 vs PAU",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with BTTS Yes and Under 2.5 captures a balanced 1:1 central script and a 1:2 Pau edge amid asymmetric confirmed absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Pau's intact midfield and 3W-1D-1L away record against a Red Star side missing top scorer Damien Durand (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 and BTTS Yes reflecting 2.50 combined lambda, Durand's absence capping Red Star's output, and Pau's triple defensive injury lowering clean-sheet reliability (Confidence: Moderate, Value: High)",
+      "2 Goals exact convergence around a 1:1 stalemate if Pau's patched-up backline adopts a conservative mid-block at Stade de Paris (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552537",
+      "league": "Ligue 2",
+      "homeTeam": "RED Star FC 93",
+      "awayTeam": "PAU",
+      "match_time": "19:00",
+      "match_highlight": "Damien Durand's absence tests Red Star against Pau's depleted back four.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552537,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 equilibrium caused by Pau's three defensive absences and the 1:2 away win supported by Pau's intact midfield and Red Star losing top scorer Damien Durand, avoiding single-outcome exposure on a weakened host or patched-up visitor defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.50 lambda total, 54.4% Poisson Under 2.5 projection, and Damien Durand's absence reducing Red Star's multi-goal ceiling."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Pau's 16.7% clean-sheet rate and three missing starting defenders give Red Star a clear scoring floor, while Red Star's 1.42 goals-conceded rate invites Pau's intact attack."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects balanced xG and mutual absences; 1:2 captures Pau's midfield and 7-goal set-piece advantage."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the Poisson distribution (25.7%) for a 1:1 draw, with 3 goals covering a narrow 1:2 Pau victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Draw captures a cautious opening half while Pau adjust three defensive replacements; Loss-Loss reflects Pau's 60% away half-time lead rate against Red Star's 0% deficit-recovery record."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 14:13:54 UTC"
+}
