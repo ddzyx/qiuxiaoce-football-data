@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556145,
+    "matchup": "Kawasaki Frontale vs Avispa Fukuoka",
+    "home_team": "Kawasaki Frontale",
+    "away_team": "Avispa Fukuoka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kawasaki-frontale-vs-avispa-fukuoka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kawasaki Frontale vs Avispa Fukuoka Prediction & Match Analysis: Can Jofuku Halt Home xG? — Preview",
+    "meta": {
+      "matchId": "1556145",
+      "league": "J1 League",
+      "matchup": "Kawasaki Frontale vs Avispa Fukuoka",
+      "matchTime": "2026-11-21 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kawasaki Frontale hold the home attacking and matchup advantage to avoid defeat, leaning toward a 2:1 home win with the 1:1 draw retained alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Kawasaki's 4W-2D-1L home record and Avispa's 0W-0D-6L road record while hedging Frontale's fatigue and clean-sheet fragility (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by 3.25 combined lambda, 7/7 Kawasaki home Over 2.5/BTTS matches, and 5/6 Avispa away Over 2.5 fixtures (Confidence: High, Value: High)",
+      "Second-half fatigue equalization risk if Frontale's 142-hour turnaround from cup duty allows rested Avispa to convert transition pressure into a 1:1 draw (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556145",
+      "league": "J1 League",
+      "homeTeam": "Kawasaki Frontale",
+      "awayTeam": "Avispa Fukuoka",
+      "match_time": "06:00",
+      "match_highlight": "Frontale's intact attack meets Jofuku's debut after contrasting rest windows.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556145,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 2:1 Kawasaki home victory against winless-away Avispa and the 1:1 draw script driven by Frontale's 142-hour rest gap, four-match skid, and Jofuku's 14-day tactical reset."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.25 lambda total, 63.0% Poisson Over 2.5 expectancy, and Kawasaki's 7-for-7 home Over 2.5 record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kawasaki have scored in all 14 J1 games while keeping zero home clean sheets, matching the 63.0% Poisson BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Balances Kawasaki's 2.00 goals/match home attacking edge against their 0.0% home clean-sheet rate and Jofuku's rest-aided containment branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson total-goal probabilities (3 goals at 22.2% and 2 goals at 20.5%) across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Kawasaki's 57.1% home half-time lead rate versus Avispa's 66.7% away half-time trailing rate, paired with a compact 1:1 stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 23:58:23 UTC"
+}
