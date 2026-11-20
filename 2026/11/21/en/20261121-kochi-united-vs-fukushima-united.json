@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555814,
+    "matchup": "Kochi United vs Fukushima United",
+    "home_team": "Kochi United",
+    "away_team": "Fukushima United",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kochi-united-vs-fukushima-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kochi United vs Fukushima United Prediction & Match Analysis: Can Okada Exploit Leaky Hosts?",
+    "meta": {
+      "matchId": "1555814",
+      "league": "J3 League",
+      "matchup": "Kochi United vs Fukushima United",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fukushima United project to claim an away victory in an open, multi-goal contest where both defenses remain vulnerable.",
+    "possibilityAssessment": [
+      "Away Win driven by Fukushima's 1.88 goals per game and seven-goal set-piece advantage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 3.29 combined goal lambda and 63.9% Poisson probability (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by Fukushima's 1.94 goals conceded per match and Kochi's 71.6% scoring projection (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555814",
+      "league": "J3 League",
+      "homeTeam": "Kochi United",
+      "awayTeam": "Fukushima United",
+      "match_time": "05:00",
+      "match_highlight": "Yuki Okada's 12-goal attack tests Kochi's reshuffled backline and set-piece marking.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555814,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Fukushima's 1.88 goals-per-match attack and 7-0 set-piece edge converge on a 1:2 or 1:3 away victory against 20th-placed Kochi."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.29 combined goal lambda and both teams conceding near two goals per game support a 63.9% Over 2.5 projection."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Fukushima's 1.94 goals-conceded rate allows a home reply despite Kochi's 2.18 conceding average favoring the visitors."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 leads the Poisson matrix at 9.7%, while 1:3 captures an open late-game transition margin."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (22.1%) and four (18.2%) goals anchor the upper-middle Poisson total distribution around a 3.29 lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Kochi's midfield reinforcement can hold early before Fukushima's second-half firepower tells, with an early away strike as the alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:39:25 UTC"
+}
