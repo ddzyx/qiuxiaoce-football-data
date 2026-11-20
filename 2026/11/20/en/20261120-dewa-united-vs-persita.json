@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622837,
+    "matchup": "Dewa United vs Persita",
+    "home_team": "Dewa United",
+    "away_team": "Persita",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-20 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-dewa-united-vs-persita/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dewa United vs Persita Tactical Breakdown & Probabilistic Modeling: Can Persita Halt Dewa's Derby Streak?",
+    "meta": {
+      "matchId": "1622837",
+      "league": "Liga 1",
+      "matchup": "Dewa United vs Persita",
+      "matchTime": "2026-11-20 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dewa United are projected to take at least a point (Home Win / Draw) with a 2:1 home victory favoured in an open, both-teams-to-score Liga 1 derby.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Home Win / Draw led by Dewa United's home control and 2:1 convergence (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by 3.31 combined lambda and fragile defensive clean-sheet rates (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency covering post-international-break rust and Persita's 2.12 goals-per-match counter threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622837",
+      "league": "Liga 1",
+      "homeTeam": "Dewa United",
+      "awayTeam": "Persita",
+      "match_time": "12:00",
+      "match_highlight": "Dewa United's five-match derby streak faces Persita's 2.12 goals-per-game attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622837,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Dewa United's 2:1 home win script built on 3W-1D-0L home form and five straight H2H wins alongside the 1:1 draw risk from Persita's 2.12 goals-per-match attack, since a single home call would understate Dewa's two-clean-sheet fragility."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.31 lambda_total (64.3% Over 2.5 Poisson baseline) and combined league scoring of 3.90 goals per match across two porous backlines."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks project above 79% to score (65.3% BTTS Yes baseline) against a Persita defense with zero clean sheets in eight league games and a Dewa side with two in nine."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Dewa United's recent Liga 1 home-win margin against a scoring visitor, while 1:1 captures the top unweighted Poisson scoreline (10.0%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the top two exact-total outcomes in the Poisson baseline (22.1% for 3 goals, 20.0% for 2 goals) across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Dewa United led at half-time in all five recent competitive H2Hs (Win-Win), while Win-Draw captures the main second-half equalization risk from Dewa's low clean-sheet rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:19:11 UTC"
+}
