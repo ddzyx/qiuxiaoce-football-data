@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1564415,
+    "matchup": "Barnsley vs Sheffield Wednesday",
+    "home_team": "Barnsley",
+    "away_team": "Sheffield Wednesday",
+    "league": "League One",
+    "kickoff_utc": "2026-11-20 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-barnsley-vs-sheffield-wednesday/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Barnsley vs Sheffield Wednesday: Expected Goals (xG), Key Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1564415",
+      "league": "League One",
+      "matchup": "Barnsley vs Sheffield Wednesday",
+      "matchTime": "2026-11-20 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sheffield Wednesday carry the primary edge to prevail at Oakwell, while Draw / Away Win protects the realistic 1:1 score-draw branch.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing Sheffield Wednesday's superior attacking efficiency and transition threat while covering a tight Oakwell draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes driven by zero clean sheets across both clubs' home and away venue splits (Confidence: Moderate, Value: High)",
+      "1:1 Score Draw contingency covering Barnsley's home possession share if Wednesday struggle to extend a single-goal margin (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564415",
+      "league": "League One",
+      "homeTeam": "Barnsley",
+      "awayTeam": "Sheffield Wednesday",
+      "match_time": "20:00",
+      "match_highlight": "Keillor-Dunn returns to Oakwell against McGeehan-less Barnsley",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564415,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Sheffield Wednesday win driven by superior xG and finishing alongside a 1:1 draw given Wednesday's zero away clean sheets."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.82 lambda, 3.12 combined xG per game, and zero clean sheets in both venue splits strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Barnsley have scored in five of six home league matches while neither side has kept a clean sheet in tonight's venue splits."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Wednesday's clinical edge in one-goal away victories alongside the balanced stalemate script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Centers on a 2:1 away triumph as primary outcome with a tighter 1:1 draw covering finishing variance."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight first half at Oakwell before Wednesday either pull clear after the interval or settle level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:53:05 UTC"
+}
