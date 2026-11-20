@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647396,
+    "matchup": "Pohang Steelers vs FC Anyang",
+    "home_team": "Pohang Steelers",
+    "away_team": "FC Anyang",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-pohang-steelers-vs-fc-anyang/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pohang Steelers vs FC Anyang Prediction & Match Analysis: Finishing Waste vs 1.66 xGA — Scoreline Preview",
+    "meta": {
+      "matchId": "1647396",
+      "league": "K League 1",
+      "matchup": "Pohang Steelers vs FC Anyang",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and underlying xG matchups point toward Pohang Steelers avoiding defeat against FC Anyang in a tight, low-scoring K League 1 Round 36 contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw 1X2 direction balancing stalemate probability with home xG creation (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligned with 2.39 combined lambda and venue suppression trends (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes anchored on 1:1 draw convergence as recent attacking output meets defensive lapses (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647396",
+      "league": "K League 1",
+      "homeTeam": "Pohang Steelers",
+      "awayTeam": "FC Anyang",
+      "match_time": "05:00",
+      "match_highlight": "Pohang xG creation tests Anyang's compact road setup",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647396,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1:1 draw script from Anyang's road resilience and a narrow 1:0 home win backed by Pohang's +0.13 vs -0.34 xG differential, whereas a single call would prematurely discard one well-supported branch."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.39 total lambda (57.2% Poisson Under 2.5) and heavy venue suppression across 14 of 15 Pohang home and 12 of 17 Anyang away league games."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Anyang has scored in 75.8% of league games against a Pohang defense with no clean sheets in five straight matches, while Anyang's 1.66 xGA invites a Pohang reply."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 reflects the 13.1% Poisson mode and recent interim scoring trends, while 1:0 captures Pohang's 40.0% home clean-sheet floor if they convert one chance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.2%) and 1 goal (21.9%) hold the highest Poisson total-goal densities beneath the 2.5 line."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Anyang has been level at half-time in 12 of 17 away matches and Pohang in 8 of 15 home games, pointing to a level interval before either a shared 1:1 finish or a late home winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 23:49:39 UTC"
+}
