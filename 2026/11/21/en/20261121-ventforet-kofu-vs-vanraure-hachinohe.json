@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606774,
+    "matchup": "Ventforet Kofu vs Vanraure Hachinohe",
+    "home_team": "Ventforet Kofu",
+    "away_team": "Vanraure Hachinohe",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-ventforet-kofu-vs-vanraure-hachinohe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ventforet Kofu vs Vanraure Hachinohe Tactical Breakdown & Probabilistic Modeling: Scoring-Floor Clash",
+    "meta": {
+      "matchId": "1606774",
+      "league": "J2 League",
+      "matchup": "Ventforet Kofu vs Vanraure Hachinohe",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Vanraure Hachinohe to avoid defeat via Draw / Away Win alongside Under 2.5 goals and BTTS: No, anchored in Ventforet Kofu's winless 0-clean-sheet defense and both clubs' sub-0.80 goals-per-game output.",
+    "possibilityAssessment": [
+      "Draw / Away Win combines the visitors' 42.3% Poisson win share against a depleted Kofu backline with 1:1 draw protection against Hachinohe's 6% conversion rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns the 52.1% Poisson under probability with both sides averaging under 0.77 goals per match (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No reflects Hachinohe's 70.6% single-sided match profile and Kofu's 50.0% home failed-to-score rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606774",
+      "league": "J2 League",
+      "homeTeam": "Ventforet Kofu",
+      "awayTeam": "Vanraure Hachinohe",
+      "match_time": "05:00",
+      "match_highlight": "Zero-clean-sheet Kofu host low-converting Hachinohe in a crucial relegation six-pointer.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606774,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 0:1 away breakthrough against Kofu's 0-clean-sheet defense and a 1:1 stalemate, as Hachinohe's 5-match winless slump makes a single Away Win call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 52.1% Poisson under probability, 4 of Kofu's last 5 matches finishing Under 2.5, and combined scoring of just 1.47 goals per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Anchored in Hachinohe's 70.6% BTTS-No season record and Kofu's 50.0% home failed-to-score rate despite Kofu lacking a clean sheet."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 captures Kofu's 4-of-8 home single-goal defeat pattern and missing keeper Kawata, while 1:1 covers the 12.5% modal Poisson draw if Kofu's set pieces connect."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.2%) leads the Poisson distribution across 1:1 and 0:2 scripts, while 1 goal (19.4%) captures the tight 0:1 relegation-battle ceiling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Kofu have been level at half-time in 5 of 8 home games before losing 4 of them (Draw-Loss), while Hachinohe's 50.0% away HT-draw-to-FT-draw split supports Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 23:38:51 UTC"
+}
