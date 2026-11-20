@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601612,
+    "matchup": "Hellas Verona vs Cesena",
+    "home_team": "Hellas Verona",
+    "away_team": "Cesena",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-hellas-verona-vs-cesena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hellas Verona vs Cesena Prediction & Match Analysis: Can Verona Overcome Suslov's Absence?",
+    "meta": {
+      "matchId": "1601612",
+      "league": "Serie B",
+      "matchup": "Hellas Verona vs Cesena",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Hellas Verona to avoid defeat with a primary lean toward a home victory under Home Win / Draw, anchored by their 2.00 xG-per-match creation against Cesena's zero away clean sheets.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Verona's Bentegodi attacking edge while covering Cesena's six-draw resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by Verona's 83.3% home Over 2.5 rate and Cesena's 0.0% away clean-sheet record (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes backed by Verona's 100% home scoring run and Cristian Shpendi's return for Cesena (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601612",
+      "league": "Serie B",
+      "homeTeam": "Hellas Verona",
+      "awayTeam": "Cesena",
+      "match_time": "19:30",
+      "match_highlight": "Verona's home xG superiority faces draw-prone Cesena without Suslov.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601612,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Verona's leading 2:1 home breakthrough built on 2.00 xG/match and Cesena's 0% away clean sheets alongside the 1:1 draw script triggered by Suslov's absence and Verona's 51.7% big-chance waste."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Verona's 2.00 xG/match, 83.3% home Over 2.5 rate, and 2.64 lambda_total outweigh Cesena's lower overall scoring against a Bohinen- and Klinsmann-depleted visiting defense."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Verona have scored in all six home matches (77.7% Poisson scoring probability), while Cesena carry a 72.7% season BTTS rate and recover top striker Cristian Shpendi."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Verona's superior home chance creation against a fragile away defense while conceding one transition goal; 1:1 captures the Poisson modal stalemate if Verona's finishing stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the primary 2:1 Over 2.5 script, while two goals covers the secondary 1:1 draw branch in line with the 2.64 lambda_total distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Verona have drawn 66.7% of home first halves while generating 64.3% of home goals after the break, pointing to a level interval before either a home breakthrough or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 17:12:38 UTC"
+}
