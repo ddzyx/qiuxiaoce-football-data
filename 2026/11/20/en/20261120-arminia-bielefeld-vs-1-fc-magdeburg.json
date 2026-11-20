@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576233,
+    "matchup": "Arminia Bielefeld vs 1. FC Magdeburg",
+    "home_team": "Arminia Bielefeld",
+    "away_team": "1. FC Magdeburg",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-20 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-arminia-bielefeld-vs-1-fc-magdeburg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arminia Bielefeld vs 1. FC Magdeburg Prediction: Home Fortress vs MacNulty Ban — xG Preview",
+    "meta": {
+      "matchId": "1576233",
+      "league": "2. Bundesliga",
+      "matchup": "Arminia Bielefeld vs 1. FC Magdeburg",
+      "matchTime": "2026-11-20 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Arminia Bielefeld's unbeaten Schuco-Arena record and Anselmo Garcia MacNulty's suspension point toward a Home Win / Draw direction in a high-scoring encounter.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win / Draw — Bielefeld hold a 3W-2D-0L home record against a MacNulty-less Magdeburg defense, while retaining the draw covers set-piece parity (Confidence: Moderate, Value: Moderate)",
+      "Scoring direction: Over 2.5 Goals and BTTS Yes — Bielefeld's 5-for-5 home Over 2.5 streak meets a 3.32 total lambda and two depleted backlines (Confidence: High, Value: Moderate)",
+      "Alternative stalemate branch: 2:2 score draw if Magdeburg's 54.2% possession and dead-ball edge offset Bielefeld's home counter-attacking pace (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576233",
+      "league": "2. Bundesliga",
+      "homeTeam": "Arminia Bielefeld",
+      "awayTeam": "1. FC Magdeburg",
+      "match_time": "17:30",
+      "match_highlight": "Unbeaten home side faces Magdeburg without suspended defender Anselmo Garcia MacNulty.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576233,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 Bielefeld victory over Magdeburg's depleted away backline and a 2:2 stalemate driven by Magdeburg's set-piece potency, as Elo parity and Bielefeld's 60.9% big-chance waste make a single call narrower than the evidence warrants."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.32 total lambda, Bielefeld's 5-for-5 home Over 2.5 record, and defensive absences on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by Bielefeld's 0% home failed-to-score rate facing a MacNulty-less backline alongside Bielefeld's 18.2% clean-sheet rate against Magdeburg's 25-goal attack."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Bielefeld's recent winning template at home, while 2:2 captures the open-game stalemate if Magdeburg convert dead-ball chances."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.0%) and 4 goals (18.3%) anchor the Poisson distribution and align directly with 2:1 and 2:2 projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Magdeburg have drawn at half-time in 60% of away league fixtures before fading late, making a level interval followed by a home win or draw the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 05:38:11 UTC"
+}
