@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1641840,
+    "matchup": "Ipswich Town U21 vs FC Porto U21",
+    "home_team": "Ipswich Town U21",
+    "away_team": "FC Porto U21",
+    "league": "Premier League International Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-ipswich-town-u21-vs-fc-porto-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ipswich Town U21 vs FC Porto U21 Prediction & Preview: Can Senior Quartet Break Porto? — Model Analysis",
+    "meta": {
+      "matchId": "1641840",
+      "league": "Premier League International Cup",
+      "matchup": "Ipswich Town U21 vs FC Porto U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With four senior Ipswich Town first-teamers strengthening John McGreal's side against a low-scoring FC Porto B squad, the quantitative baseline favors Ipswich Town U21 Win or Draw alongside Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Ipswich Town U21 Win or Draw backed by senior spine inclusions and Under 2.5 goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Angle: Under 2.5 goals and Both Teams To Score: No aligned with 2.25 combined lambda and Porto B's sub-1.0 domestic scoring rate (Confidence: Moderate, Value: High)",
+      "Contingency Variance: Second-half senior fitness substitutions around 60' could reopen transition space for Porto B to force a 1:1 stalemate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1641840",
+      "league": "Premier League International Cup",
+      "homeTeam": "Ipswich Town U21",
+      "awayTeam": "FC Porto U21",
+      "match_time": "19:00",
+      "match_highlight": "Senior Ipswich quartet tests Porto B's resilience at Portman Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1641840,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 home victory driven by Ipswich's four confirmed senior inclusions alongside a 1:1 draw script if Porto B's Liga Portugal 2 maturity forces a tight stalemate, avoiding a single call due to unconfirmed senior minutes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Under 2.5 probability), Porto B's low domestic goal output, and Ipswich's defensive reinforcement via David Button and Jack Taylor."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by a 54.6% Poisson No probability as Porto B's sub-goal-per-game Liga Portugal 2 attack faces veteran goalkeeper David Button and Ipswich search for their first Group D goals."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures the senior-boosted home edge and clean-sheet thesis, while 1:1 covers the top raw Poisson scoreline if Porto B capitalize after second-half substitutions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the top two Poisson total-goal densities (26.7% for 2 goals and 23.7% for 1 goal) in a compact, second-half-decided contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Early tactical caution points to a level first half before Ipswich either break through late via senior wing quality or share a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 16:08:37 UTC"
+}
