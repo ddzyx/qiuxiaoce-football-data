@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622670,
+    "matchup": "Kazma vs Al Fahaheel",
+    "home_team": "Kazma",
+    "away_team": "Al Fahaheel",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 18:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-kazma-vs-al-fahaheel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kazma vs Al Fahaheel Prediction & Match Analysis: Can Home Edge Break H2H Stalemate? — Scoreline Preview",
+    "meta": {
+      "matchId": "1622670",
+      "league": "Premier League",
+      "matchup": "Kazma vs Al Fahaheel",
+      "matchTime": "2026-11-20 18:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Kazma to avoid defeat at home in a goal-trading contest anchored on a 2:1 primary win and a 1:1 stalemate alternative.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Kazma's 1.71 goals per match and unbeaten home record against Al Fahaheel's three-in-four away defeats (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes supported by a 3.04 combined goal expectancy and both teams scoring in six league outings apiece (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw and Win-Draw HT/FT branch covering Kazma's recent defensive lapses and four straight unbeaten Al Fahaheel H2Hs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622670",
+      "league": "Premier League",
+      "homeTeam": "Kazma",
+      "awayTeam": "Al Fahaheel",
+      "match_time": "18:45",
+      "match_highlight": "Kazma's unbeaten home form meets Al Fahaheel's fragile away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622670,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Kazma's primary 2:1 home-control script and the 1:1 stalemate branch, as recent defensive leaks and four unbeaten H2Hs for Al Fahaheel make a single Home Win call too exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.04 combined Poisson goal expectancy, Al Fahaheel's 3.25 average total league goals, and both sides conceding regularly."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks score over 1.70 goals per league match while holding sub-30% clean-sheet records and 76%-plus Poisson scoring probabilities."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Kazma's home edge over Al Fahaheel's porous road defense, while 1:1 captures the dominant recent H2H draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals represent the top two Poisson total-goal densities at 22.4% and 22.1%, aligning with 2:1 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Kazma's fast starts support an opening-half lead, with Win-Draw covering the second-half lead-erosion risk seen against Al Salmiya and in H2H play."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 12:12:33 UTC"
+}
