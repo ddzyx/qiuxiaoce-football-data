@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1584082,
+    "matchup": "Havelse vs FC Viktoria Köln",
+    "home_team": "Havelse",
+    "away_team": "FC Viktoria Köln",
+    "league": "3. Liga",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-havelse-vs-fc-viktoria-k-ln/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Havelse vs FC Viktoria Köln Tactical Breakdown & Probabilistic Modeling: Can Home Grit Slow the Leaders?",
+    "meta": {
+      "matchId": "1584082",
+      "league": "3. Liga",
+      "matchup": "Havelse vs FC Viktoria Köln",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Viktoria Köln are projected to defeat Havelse in an open, multi-goal 3. Liga encounter where the hosts' home resilience still produces a consolation strike.",
+    "possibilityAssessment": [
+      "Away Win: FC Viktoria Köln's 2.77 goals-per-game transition attack and 2.50 Poisson lambda outclass Havelse's 2.23 goals-conceded defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals: Combined 3.84 Poisson goal expectancy (73.7% Over 2.5 probability) aligns with both clubs' high-scoring 3. Liga match averages (Confidence: High, Value: Moderate)",
+      "BTTS Yes: Havelse's three-match home scoring streak meets a Viktoria Köln defense conceding 1.38 goals per game without suspended Meiko Sponsel (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1584082",
+      "league": "3. Liga",
+      "homeTeam": "Havelse",
+      "awayTeam": "FC Viktoria Köln",
+      "match_time": "18:00",
+      "match_highlight": "Sponsel suspension tests leaders' defense against resilient hosts at Eilenriedestadion.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1584082,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Anchored on the projected 1:2 and 1:3 scorelines, FC Viktoria Köln's 2.77 goals-per-game attack holds a decisive 1.16-lambda edge over 20th-placed Havelse."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.84 combined Poisson lambda (73.7% Over 2.5 probability) reflects both teams' open 3. Liga goal profiles."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Havelse have scored across three straight home league outings while Viktoria Köln concede 1.38 goals per match without suspended defender Meiko Sponsel."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 and 1:3 represent the top two Poisson scoreline densities (9.0% and 7.5%), balancing Köln's multi-goal threat with Havelse's home scoring floor."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals lead the Poisson distribution (20.3% and 19.5%), matching both projected away-win margins."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "From the home perspective, Loss-Loss captures Viktoria Köln striking before halftime, while Draw-Loss covers a compact opening half before late visiting pressure tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 10:37:54 UTC"
+}
