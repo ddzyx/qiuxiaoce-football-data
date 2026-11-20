@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649589,
+    "matchup": "Persepolis FC vs Paykan",
+    "home_team": "Persepolis FC",
+    "away_team": "Paykan",
+    "league": "Persian Gulf Pro League",
+    "kickoff_utc": "2026-11-20 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-persepolis-fc-vs-paykan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Persepolis FC vs Paykan Match Analysis & Preview: Can Paykan's Low Block Disrupt Azadi Dominance?",
+    "meta": {
+      "matchId": "1649589",
+      "league": "Persian Gulf Pro League",
+      "matchup": "Persepolis FC vs Paykan",
+      "matchTime": "2026-11-20 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Persepolis FC to avoid defeat in a tightly controlled, low-scoring Azadi Stadium encounter shaped by superior home goal differential and compact visiting resistance.",
+    "possibilityAssessment": [
+      "Persepolis FC Home Win or Draw driven by a 1.67 vs 0.58 season goal balance alongside recent home frustration (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and BTTS No anchored by a 2.08 combined lambda and five under-2.5 results in the last six league meetings (Confidence: Moderate, Value: Moderate)",
+      "1:1 Transition Draw contingency if unconfirmed defensive absences weaken Persepolis against Paykan's five-draw blueprint (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649589",
+      "league": "Persian Gulf Pro League",
+      "homeTeam": "Persepolis FC",
+      "awayTeam": "Paykan",
+      "match_time": "12:45",
+      "match_highlight": "Persepolis's Azadi dominance faces Paykan's stubborn, draw-heavy low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649589,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Persepolis FC's superior 1.67 GF/g attacking edge breaking through for 1:0 alongside Paykan's recent 1:1 low-block resilience, where a single win call leaves recent home slips exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.08 combined goal lambda (65.5% Under 2.5 baseline), Persepolis's 0.58 conceded per game, and Paykan's 0.92 scoring rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Paykan's 0.75 goal lambda meets a Persepolis defense conceding 0.58 goals per match with five clean sheets in the last six league H2H meetings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 leads the Poisson matrix at 16.6% and matches recent H2H results, while 1:1 (12.5%) captures Paykan's exact scoreline in three of their last five league games."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (27.0%) and 1 goal (26.0%) represent the two highest-density counts in the 2.08 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Paykan's compact block favors a level opening half before Persepolis's attacking depth either forces a late breakthrough or settles for a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:12:07 UTC"
+}
