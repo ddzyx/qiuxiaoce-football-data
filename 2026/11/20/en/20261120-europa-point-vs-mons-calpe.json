@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1619766,
+    "matchup": "Europa Point vs Mons Calpe",
+    "home_team": "Europa Point",
+    "away_team": "Mons Calpe",
+    "league": "Premier Division",
+    "kickoff_utc": "2026-11-20 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-europa-point-vs-mons-calpe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Europa Point vs Mons Calpe Prediction & Match Analysis: Can Racino's Defense Halt Mons Calpe?",
+    "meta": {
+      "matchId": "1619766",
+      "league": "Premier Division",
+      "matchup": "Europa Point vs Mons Calpe",
+      "matchTime": "2026-11-20 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mons Calpe are projected to secure an Away Win over Europa Point in an open contest exceeding 2.5 total goals.",
+    "possibilityAssessment": [
+      "Primary Thesis: Away Win driven by Mons Calpe's 2.00 goals-per-game output and 0.88 defensive concession rate (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals with 1:2 or 1:3 away-win scorelines supported by a 3.72 lambda total (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Mons Calpe 0:3 shutout or Draw-Loss second-half breakthrough if Europa Point sit deep early (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1619766",
+      "league": "Premier Division",
+      "homeTeam": "Europa Point",
+      "awayTeam": "Mons Calpe",
+      "match_time": "20:00",
+      "match_highlight": "Unbeaten Mons Calpe test Europa Point's 2.78 goals-conceded-per-game backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1619766,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Mons Calpe's 100% scoring rate across eight league matches and superior defensive structure align with a 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.72 combined goal lambda and Europa Point's 88.9% Over 2.5 league rate strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Mons Calpe conceded in 62.5% of league outings and Europa Point scored in all three recent head-to-heads despite recent shutout losses."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 leads the Poisson matrix at 9.2% while 1:3 captures second-half defensive collapse risk if Europa Point chase the game."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the top two Poisson densities (20.8% and 19.3%) under a 3.72 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Mons Calpe's early scoring sharpness favors leading at both intervals, with Draw-Loss covering a tight first half before away second-half dominance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:16:28 UTC"
+}
