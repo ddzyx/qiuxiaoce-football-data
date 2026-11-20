@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576012,
+    "matchup": "Airbus UK vs Colwyn Bay",
+    "home_team": "Airbus UK",
+    "away_team": "Colwyn Bay",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-airbus-uk-vs-colwyn-bay/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Airbus UK vs Colwyn Bay Prediction & Match Analysis: Can Peers Break the Seagulls' Defence?",
+    "meta": {
+      "matchId": "1576012",
+      "league": "Premier League",
+      "matchup": "Airbus UK vs Colwyn Bay",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Colwyn Bay's tighter 1.12 goals-conceded structure and six-match unbeaten run support Draw / Away Win alongside Over 2.5 and BTTS: Yes against Airbus UK's high-scoring yet porous 2.12/1.50 profile.",
+    "possibilityAssessment": [
+      "Draw / Away Win covering Colwyn Bay's defensive edge and Airbus's home scoring power (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by lambda_total 3.24 and 80.2% single-side scoring expectancy (Confidence: Moderate, Value: Moderate)",
+      "High-scoring 2:2 stalemate branch if George Peers stretches Colwyn Bay's backline twice (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576012",
+      "league": "Premier League",
+      "homeTeam": "Airbus UK",
+      "awayTeam": "Colwyn Bay",
+      "match_time": "19:45",
+      "match_highlight": "In-form Peers faces Colwyn Bay's resilient top-four defensive unit.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576012,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Colwyn Bay win driven by their 1.12 goals-conceded edge and a 2:2 draw branch if Airbus's 2.12 goals-per-game attack breaches them twice, where a single call ignores symmetric 38.4% vs 38.4% Poisson win weights."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.24 combined lambda total (62.8% Over 2.5) and Airbus UK averaging 3.62 total goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides hold an 80.2% Poisson scoring probability (64.3% BTTS Yes), with Airbus conceding twice in four straight games despite Peers's 17 league goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Colwyn Bay's defensive edge holding Airbus to one goal, while 2:2 covers the open four-goal stalemate if both attacks convert."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.2%) and 4 goals (18.0%) lead the Over 2.5 Poisson density bands and align with 1:2 and 2:2."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half against Colwyn Bay's compact shape opens after the break toward either a 1:2 away win (Draw-Loss) or a 2:2 draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:21:29 UTC"
+}
