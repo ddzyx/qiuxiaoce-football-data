@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597964,
+    "matchup": "Al-Gharafa vs Al-Arabi SC",
+    "home_team": "Al-Gharafa",
+    "away_team": "Al-Arabi SC",
+    "league": "Stars League",
+    "kickoff_utc": "2026-11-20 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-al-gharafa-vs-al-arabi-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Gharafa vs Al-Arabi SC Prediction & Match Analysis: Can Home Resistance Halt Away Firepower? — Preview",
+    "meta": {
+      "matchId": "1597964",
+      "league": "Stars League",
+      "matchup": "Al-Gharafa vs Al-Arabi SC",
+      "matchTime": "2026-11-20 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Draw / Away Win as Al-Arabi SC's 2.00 goals-per-game league attack holds the edge against Al-Gharafa's leaky defense while high league draw rates justify draw cover.",
+    "possibilityAssessment": [
+      "Al-Arabi SC win (1:2) behind Michael Olunga and Pablo Sarabia exploiting Al-Gharafa's 1.67 league goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by a 3.00 combined lambda and Al-Gharafa's 2.89 league goals-per-match average (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes as Al-Gharafa's home counter-attacks meet an away defense with one clean sheet in three road games (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597964",
+      "league": "Stars League",
+      "homeTeam": "Al-Gharafa",
+      "awayTeam": "Al-Arabi SC",
+      "match_time": "15:30",
+      "match_highlight": "Clinical Al-Arabi attack tests leaky Al-Gharafa defense after international break.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597964,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al-Arabi SC's superior attacking efficiency in a 1:2 away win alongside the 1:1 draw script given five visitor league draws and Rodri Sánchez's absence; a single call ignores Al-Arabi's 55.6% draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.00 combined goal-expectancy lambda (57.7% Over 2.5 probability) and Al-Arabi SC's 3.11 average total goals across nine league games."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al-Arabi SC project an 84.0% scoring floor against Al-Gharafa's 1.67 GA/game, while the hosts score 1.22 per league game and Al-Arabi kept just one clean sheet in three recorded road outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Al-Arabi SC's superior finishing edge over a porous home defense, while 1:1 reflects the top Poisson density outcome if Rodri Sánchez's absence stalls central penetration."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Co-leading Poisson total-goal densities at 22.4% each, directly tracking the 1:2 primary scenario and the tighter 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams drew at half-time in at least two-thirds of recorded league matches, leaving the second-half fork between Al-Arabi SC pulling away (Draw-Loss) or sharing points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 03:48:55 UTC"
+}
