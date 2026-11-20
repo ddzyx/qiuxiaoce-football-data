@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576013,
+    "matchup": "Briton Ferry vs Holywell",
+    "home_team": "Briton Ferry",
+    "away_team": "Holywell",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-briton-ferry-vs-holywell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Briton Ferry vs Holywell Prediction & Match Analysis: Can Home Attack Exploit Winless Visitors?",
+    "meta": {
+      "matchId": "1576013",
+      "league": "Premier League",
+      "matchup": "Briton Ferry vs Holywell",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Statistical modeling and verified Cymru Premier form point toward a Briton Ferry Home Win in a high-scoring encounter where both teams find the net.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction backs Briton Ferry Home Win on home goal expectancy of 2.27 against Holywell's 3.47 goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Total goals expectation of 3.68 strongly supports Over 2.5 Goals with 3 and 4 goals leading the distribution (Confidence: Moderate, Value: High)",
+      "Holywell's 1.07 goals scored per match against Briton Ferry's 1.75 conceded sustains Both Teams To Score: Yes even in a home win (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576013",
+      "league": "Premier League",
+      "homeTeam": "Briton Ferry",
+      "awayTeam": "Holywell",
+      "match_time": "19:45",
+      "match_highlight": "Briton Ferry firepower tests Holywell's 3.47-goals-conceded defense at Old Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576013,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A 2:1 primary projection favors Briton Ferry exploiting winless Holywell's 52 goals conceded across 15 league matches."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.68 and defensive concessions of 1.75 and 3.47 project 71.1% probability for Over 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks average over 1.06 goals per league match against defenses projecting 24.4% and 10.3% clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 (9.2%) and 3:1 (6.9%) lead the home-win Poisson branches under a 2.27 versus 1.41 goal expectancy split."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.0%) and four goals (19.3%) hold the highest densities in the total-goals Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Briton Ferry's Old Road pressure favors leading from the interval or pulling clear after a level first half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:25:03 UTC"
+}
