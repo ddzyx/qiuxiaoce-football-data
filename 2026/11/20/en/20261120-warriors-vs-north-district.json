@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1607341,
+    "matchup": "Warriors vs North District",
+    "home_team": "Warriors",
+    "away_team": "North District",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-warriors-vs-north-district/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Warriors vs North District Tactical Breakdown & Probabilistic Modeling: Unbeaten Leaders Test Home Depth",
+    "meta": {
+      "matchId": "1607341",
+      "league": "Premier League",
+      "matchup": "Warriors vs North District",
+      "matchTime": "2026-11-20 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Warriors via Home Win / Draw alongside Over 2.5 and BTTS Yes in an open top-of-the-table clash.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Home Win / Draw captures Warriors' home depth and H2H edge plus North District's resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes leverage both attacks' 2.14+ league scoring rates and four straight BTTS H2H meetings (Confidence: Moderate, Value: High)",
+      "A 2:2 stalemate covers North District's transition threat matching Warriors' sustained home pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1607341",
+      "league": "Premier League",
+      "homeTeam": "Warriors",
+      "awayTeam": "North District",
+      "match_time": "12:00",
+      "match_highlight": "Unbeaten North District test Warriors' home firepower in top-of-table clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1607341,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Warriors home win backed by multi-scorer depth and a 2:2 draw given North District's 6-1-0 league start, as a single win call underweights the visitors' unbeaten defensive discipline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.93 derived goal expectancy, five Over 2.5 results in seven league games for each side, and high-scoring H2H history."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs average over 2.1 goals per league match and scored in all four 2025-26 head-to-head fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Warriors' late-game depth overcoming North District's structure, while 2:2 captures an open transition stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligned with the 2.93 derived lambda total and the primary 2:1 and secondary 2:2 scoreline branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects Warriors breaking a tight half after the break, while Win-Draw covers an early home lead pegged back by North District's counters."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:14:50 UTC"
+}
