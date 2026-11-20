@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1632063,
+    "matchup": "Sportivo Ameliano vs Sportivo Luqueno",
+    "home_team": "Sportivo Ameliano",
+    "away_team": "Sportivo Luqueno",
+    "league": "Division Profesional - Clausura",
+    "kickoff_utc": "2026-11-20 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-sportivo-ameliano-vs-sportivo-luqueno/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sportivo Ameliano vs Sportivo Luqueno: Goal Expectancy, Form Divergence & Match Analysis",
+    "meta": {
+      "matchId": "1632063",
+      "league": "Division Profesional - Clausura",
+      "matchup": "Sportivo Ameliano vs Sportivo Luqueno",
+      "matchTime": "2026-11-20 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sportivo Luqueno are projected to avoid defeat in an open Clausura contest featuring goals at both ends, driven by their November attacking surge against a winless host.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Luqueno's superior November finishing and Ameliano's home draw resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals supported by a 2.77 combined lambda and both defenses conceding over 1.45 goals per match (Confidence: Moderate, Value: High)",
+      "BTTS: Yes backed by 56.2% Poisson expectation and mutual defensive fragility across recent rounds (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1632063",
+      "league": "Division Profesional - Clausura",
+      "homeTeam": "Sportivo Ameliano",
+      "awayTeam": "Sportivo Luqueno",
+      "match_time": "20:30",
+      "match_highlight": "Luqueno's surging attack tests Ameliano's fragile defense and unbeaten 2026 H2H run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1632063,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 away win powered by Luqueno's eight-goal November form and a 1:1 draw given Luqueno's 1.74 goals-conceded rate and Ameliano's 2026 H2H edge, where an away-only call ignores home resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.77 lambda (1.37 home, 1.40 away) and 52.3% Poisson Over 2.5 probability reflect two defenses conceding 1.47 and 1.74 goals per Clausura match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear 74% Poisson scoring expectancy against backlines with roughly 25% clean-sheet probabilities and 28 and 33 Clausura goals conceded."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Luqueno's sharper recent finishing overcoming one home strike, while 1:1 captures the Poisson modal stalemate if Ameliano's compact block holds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the primary 1:2 open script, while two goals covers the tight 1:1 draw cluster holding 24.0% seasonal Poisson density."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cautious first half at Villeta before Luqueno's post-75-minute scoring surge either decides a 1:2 away win or stalls into a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:24:37 UTC"
+}
