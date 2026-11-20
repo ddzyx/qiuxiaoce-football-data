@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552531,
+    "matchup": "Annecy vs Clermont Foot",
+    "home_team": "Annecy",
+    "away_team": "Clermont Foot",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-annecy-vs-clermont-foot/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Annecy vs Clermont Foot Prediction & Match Analysis: xG Gap vs Away Draw Specialists",
+    "meta": {
+      "matchId": "1552531",
+      "league": "Ligue 2",
+      "matchup": "Annecy vs Clermont Foot",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Clermont Foot project to avoid defeat at Parc des Sports, anchored by a 1:1 stalemate with a secondary 1:2 away-steal pathway.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Equal 1.21 Poisson lambdas, Annecy's 60.0% home loss rate, and Clermont's 80.0% away unbeaten profile support the visitors avoiding defeat (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: Yes: Both sides clear the one-goal floor without sustained multi-goal clinical efficiency (Confidence: Moderate, Value: High)",
+      "1:2 Away Steal / 3 Total Goals: Late transition exposure without Ahmed Kashi offers a plausible third-goal decider for Clermont (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Win-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552531",
+      "league": "Ligue 2",
+      "homeTeam": "Annecy",
+      "awayTeam": "Clermont Foot",
+      "match_time": "19:00",
+      "match_highlight": "Depleted Annecy spine faces Clermont's second-half away recovery engine.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552531,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A 1:1 draw is the primary convergence script given Clermont's four draws in five away matches, while 1:2 covers Annecy's vulnerability to second-half lead erosion without Ahmed Kashi; neither single side carries enough certainty alone."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.42 combined statistical lambda, 56.4% Under 2.5 Poisson baseline, and Clermont's 75.0% season Under 2.5 rate favor two goals over an open goal-fest."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Clermont have scored and conceded in all five away Ligue 2 games, while Annecy generate 1.56 xG per game yet hold just a 20.0% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects balanced 1.21 goal lambdas and mutual clean-sheet fragility, while 1:2 captures a late Clermont transition winner if Annecy fade after the hour."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals aligns directly with the 1:1 modal Poisson outcome, while three goals covers the late-breakthrough 1:2 alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Win-Draw pairs Annecy's 58.3% half-time lead rate with Clermont's 75.0% away deficit recovery, while Draw-Loss covers a level opening half broken by a late away goal."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:25:59 UTC"
+}
