@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516192,
+    "matchup": "Lokomotiv vs Pakhtakor",
+    "home_team": "Lokomotiv",
+    "away_team": "Pakhtakor",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-20 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-lokomotiv-vs-pakhtakor/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lokomotiv vs Pakhtakor Prediction & Match Analysis: Can Title Chasers Overcome Derby & ACL Lookahead?",
+    "meta": {
+      "matchId": "1516192",
+      "league": "Super League",
+      "matchup": "Lokomotiv vs Pakhtakor",
+      "matchTime": "2026-11-20 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads this Tashkent derby as Pakhtakor's superior 27-round efficiency meets Lokomotiv's home scoring threat and pre-continental schedule pressure.",
+    "possibilityAssessment": [
+      "Draw / Away Win covering a 1:2 Pakhtakor victory and 1:1 stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by a 2.81 combined lambda and open domestic scoring averages (Confidence: Moderate, Value: High)",
+      "BTTS: Yes backed by Pakhtakor's 80% away sample BTTS rate and Lokomotiv's 1.63 home-season scoring pace (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516192",
+      "league": "Super League",
+      "homeTeam": "Lokomotiv",
+      "awayTeam": "Pakhtakor",
+      "match_time": "12:00",
+      "match_highlight": "Pakhtakor's 1.78 goals-per-game attack faces Lokomotiv's 19% clean-sheet defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516192,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Pakhtakor victory backed by a 16-point table edge alongside a 1:1 draw given Lokomotiv's home scoring floor and Pakhtakor's Nov 23 ACLE trip."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.81 combined lambda, 53.3% Poisson Over 2.5 probability, and both sides averaging above 1.60 goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams project above 72% scoring probability, while Pakhtakor kept one clean sheet in five away sample games and Lokomotiv average 1.63 goals."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Pakhtakor's second-half superiority against an open home defense, while 1:1 covers the top Poisson stalemate cell."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2.81 lambda and 1:2 primary projection, with two goals covering the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Pakhtakor were level at half-time in 60% of away sample matches before converting two-thirds into wins, leaving Draw-Draw as the stalemate fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:11:45 UTC"
+}
