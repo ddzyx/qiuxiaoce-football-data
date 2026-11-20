@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555817,
+    "matchup": "Nara Club vs Sagamihara",
+    "home_team": "Nara Club",
+    "away_team": "Sagamihara",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-nara-club-vs-sagamihara/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nara Club vs Sagamihara Tactical Breakdown & Probabilistic Modeling: Possession vs Volume",
+    "meta": {
+      "matchId": "1555817",
+      "league": "J3 League",
+      "matchup": "Nara Club vs Sagamihara",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nara Club are projected to avoid defeat at home in a tightly balanced J3 promotion clash, with a narrow 2:1 victory leading ahead of a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Nara Club's 1.94 goals per game and Sagamihara's 0.94 goals conceded per game (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals and BTTS Yes driven by 2.85 combined lambdas and four straight BTTS-Yes head-to-head meetings (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency if Sagamihara's 6-clean-sheet defense limits Nara's central combinations while converting on corners (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555817",
+      "league": "J3 League",
+      "homeTeam": "Nara Club",
+      "awayTeam": "Sagamihara",
+      "match_time": "05:00",
+      "match_highlight": "Nara's 60.1% possession meets Sagamihara's league-high 15.5 shots and 6.9 corners.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555817,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Nara Club's home attacking edge (2:1) alongside Sagamihara's 0.94 GA/game containment route (1:1), as a single call overlooks the 0.03 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.85 lambda total (54.2% Over 2.5) and Nara averaging 3.23 combined goals per J3 match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Nara's 1.94 GF and 1.29 GA per game meet Sagamihara's 15.5 shots and 6.9 corners per game, with both sides above 75% to score."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Nara's home efficiency and recent H2H pattern, while 1:1 captures the highest-density Poisson draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson totals cluster at 2 goals (23.5%) and 3 goals (22.3%), aligning directly with the 2:1 and 1:1 scoreline scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides drew 0-0 at half-time in Round 17 and shared HT parity in 3 of 4 H2Hs before second-half separation or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:48:42 UTC"
+}
