@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606773,
+    "matchup": "Tochigi City vs Albirex Niigata",
+    "home_team": "Tochigi City",
+    "away_team": "Albirex Niigata",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-tochigi-city-vs-albirex-niigata/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tochigi City vs Albirex Niigata Preview & Tactical Breakdown: Depleted Niigata Tested by Resurgent Hosts",
+    "meta": {
+      "matchId": "1606773",
+      "league": "J2 League",
+      "matchup": "Tochigi City vs Albirex Niigata",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win represents the most balanced projection, pairing Albirex Niigata's 10-win second-half efficiency with formal draw coverage against their 2-2-3 away record and midfield injuries.",
+    "possibilityAssessment": [
+      "Albirex Niigata edge a tight contest via second-half adjustments and one-goal margin discipline (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes materialize as both leaky defenses concede in open wing-back transitions (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate emerges if Wakatsuki misses out and Niigata's depleted midfield settles for road containment (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606773",
+      "league": "J2 League",
+      "homeTeam": "Tochigi City",
+      "awayTeam": "Albirex Niigata",
+      "match_time": "05:00",
+      "match_highlight": "Niigata's winless away first halves face Tochigi's resurgent attacking wing-backs.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606773,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Albirex Niigata's 1:2 one-goal away win profile and the 1:1 draw branch given their 2-2-3 road record, zero multi-goal wins, and midfield injuries."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.24 combined lambda, Tochigi City's 87.5% home Over 2.5 rate, and both clubs conceding over 1.55 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tochigi City score in 87.5% of home games while Niigata keep just 14.3% away clean sheets and score in 88.2% of matches overall."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Niigata's 10-for-10 one-goal win pattern against a leaky host, while 1:1 reflects the modal Poisson outcome if Niigata's injury-hit midfield stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (20.6%) lead the Poisson total-goal distribution, bridging the primary 1:2 victory and the 1:1 draw alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Niigata have drawn half-time in 64.7% of matches with zero away interval leads before winning 63.6% of level halves, making Draw-Loss primary and Draw-Draw secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 23:06:45 UTC"
+}
