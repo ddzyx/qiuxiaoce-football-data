@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1510499,
+    "matchup": "Busan I Park vs Cheongju",
+    "home_team": "Busan I Park",
+    "away_team": "Cheongju",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-busan-i-park-vs-cheongju/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Busan I Park vs Cheongju Prediction & Match Analysis: Can Playoff-Chasing Hosts Break Away Draw Hoodoo?",
+    "meta": {
+      "matchId": "1510499",
+      "league": "K League 2",
+      "matchup": "Busan I Park vs Cheongju",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw captures Busan I Park's strong home set-piece and table edge alongside Cheongju's persistent away draw threat in a projected 2:1 or 1:1 contest.",
+    "possibilityAssessment": [
+      "Busan I Park hold a 60.0% home win rate and league-high 16 set-piece goals against a Cheongju defense on a three-match losing skid (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and 3 total goals align with a 2.83 combined lambda and Cheongju's 61.5% away Over 2.5 frequency, with 2 goals as the secondary 1:1 branch (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 stalemate hedge protects against Busan's 30.8% big-chance waste rate without suspended striker Cristian if Kim Chan is limited (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510499",
+      "league": "K League 2",
+      "homeTeam": "Busan I Park",
+      "awayTeam": "Cheongju",
+      "match_time": "05:00",
+      "match_highlight": "Busan's 16 set-piece goals test Cheongju's six-game unbeaten away run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510499,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Busan's 60.0% home win rate and playoff urgency lead a 2:1 projection, while Cheongju's 7 away draws and Busan's forward absences make a 1:1 draw risk too substantial for a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal lambda of 2.83, Busan's recent 3:1 and 2:1 home wins, and Cheongju's 61.5% away Over 2.5 rate support 3+ total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides concede frequently (Busan 33.3% home clean sheets; Cheongju 17.2% overall) while Cheongju's 69.2% away BTTS rate supports both attacks scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Busan's 1.60 home lambda over Cheongju's 1.63 conceded average, while 1:1 matches the 11.6% modal Poisson draw scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the primary 2:1 Over 2.5 projection, whereas 2 goals capture the modal 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Busan have won all 11 matches when leading at half-time (Win-Win), whereas Cheongju's 53.8% away half-time draw rate supports Draw-Draw in a cagey first half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:49:58 UTC"
+}
