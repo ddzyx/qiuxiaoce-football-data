@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494808,
+    "matchup": "Molde vs Bodo/Glimt",
+    "home_team": "Molde",
+    "away_team": "Bodo/Glimt",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-molde-vs-bodo-glimt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Molde vs Bodo/Glimt: Expected Goals (xG), Injury Doubts & Eliteserien Intelligence",
+    "meta": {
+      "matchId": "1494808",
+      "league": "Eliteserien",
+      "matchup": "Molde vs Bodo/Glimt",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bodo/Glimt's superior xG balance (+1.85 net per match) and 69.2% away win rate favor Draw / Away Win alongside Over 2.5 and BTTS Yes against Molde's high-scoring yet porous home setup.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Bodo/Glimt's primary edge (2.84 xG vs 0.99 xGA) and the 2:2 draw branch driven by Molde's 75.0% home unbeaten rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.72 combined statistical lambda, 71.8% Poisson probability, and both sides exceeding 6.4 shots on target per match (Confidence: High, Value: High)",
+      "HT/FT Win-Draw risk scenario reflecting Molde's 58.3% home half-time lead rate against Bodo/Glimt's 50.0% away recovery rate from half-time deficits (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494808",
+      "league": "Eliteserien",
+      "homeTeam": "Molde",
+      "awayTeam": "Bodo/Glimt",
+      "match_time": "18:00",
+      "match_highlight": "Molde's prolific home attack challenges title-chasing Bodo/Glimt's league-best road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494808,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors on the 1:2 away win driven by Bodo/Glimt's +1.85 net xG superiority while covering the 2:2 draw branch given Molde's 75.0% home unbeaten record and 22 goals in five games."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.72 combined lambda, 71.8% Poisson Over 2.5 probability, and Over 2.5 hit rates of 76.0% for Molde and 68.0% for Bodo/Glimt."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 70.7% Poisson BTTS expectancy, Molde's 12.0% clean-sheet rate, and both attacks clearing 2.29 xG per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Bodo/Glimt's top Poisson density (8.5%) and defensive edge, while 2:2 (7.1%) models Molde's high-press home scoring surge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (20.8%) and four (19.3%) total goals represent the two highest-density bands in the 3.72-lambda scoring distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss (home perspective) reflects Bodo/Glimt's 69.2% away half-time lead rate and 100% lead conversion, while Draw-Draw covers an evenly matched first half ending 2:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 08:42:35 UTC"
+}
