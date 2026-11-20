@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556148,
+    "matchup": "Sanfrecce Hiroshima vs Yokohama F. Marinos",
+    "home_team": "Sanfrecce Hiroshima",
+    "away_team": "Yokohama F. Marinos",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-sanfrecce-hiroshima-vs-yokohama-f-marinos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sanfrecce Hiroshima vs Yokohama F. Marinos Tactical Breakdown & Modeling: Second-Half xG vs Suspensions",
+    "meta": {
+      "matchId": "1556148",
+      "league": "J1 League",
+      "matchup": "Sanfrecce Hiroshima vs Yokohama F. Marinos",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Sanfrecce Hiroshima to secure a full-time Home Win on the strength of their 2.35 xG/match home attack, 13-day rest edge, and Yokohama F. Marinos' five verified absences.",
+    "possibilityAssessment": [
+      "Home Win — Sanfrecce Hiroshima's 2.35 xG/match creation, 5-1-0 home record, and Marinos' suspended and injured midfield/defensive losses drive a decisive second-half victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Supported by a 2.78 total lambda, Hiroshima's five Over 2.5 results in six home league games, and Marinos' 11 goals conceded in five recent matches (Confidence: Moderate, Value: Moderate)",
+      "2:0 Clean-Sheet Branch — If missing creators Croux, Miyaichi, and Yamane leave Marinos short in transition against Hiroshima's 0.79 xGA/match defense, a two-goal home shutout covers the lower-scoring fork (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556148",
+      "league": "J1 League",
+      "homeTeam": "Sanfrecce Hiroshima",
+      "awayTeam": "Yokohama F. Marinos",
+      "match_time": "05:00",
+      "match_highlight": "Rested Hiroshima second-half xG surge faces depleted Marinos shield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556148,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sanfrecce Hiroshima's 2.35 xG/match home output and 13-day rest advantage align with a 2:1 or 2:0 victory against a fatigued Marinos side missing five first-team contributors."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.78 total lambda, Hiroshima's 83.3% home Over 2.5 rate, and Marinos' 11 goals conceded across their past five outings favor three or more total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Marinos' 85.7% league scoring frequency and first-half transition threat support one visiting goal alongside Hiroshima's high home xG creation despite the hosts' 0.79 xGA/match baseline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 balances Hiroshima's dominant home creation with Marinos' scoring streak, while 2:0 captures the clean-sheet alternative if Marinos' absences blunt their attack."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 2:1 primary script and 2.78 total lambda, while two goals covers the 2:0 clean-sheet shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects Marinos' 0.0% half-time deficit rate giving way to Hiroshima's 70.0% home second-half scoring surge, while Win-Win covers an early host breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:04:09 UTC"
+}
