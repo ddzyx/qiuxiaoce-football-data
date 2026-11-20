@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606767,
+    "matchup": "Sagan Tosu vs Vegalta Sendai",
+    "home_team": "Sagan Tosu",
+    "away_team": "Vegalta Sendai",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-sagan-tosu-vs-vegalta-sendai/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sagan Tosu vs Vegalta Sendai Tactical Breakdown & Probabilistic Modeling: Goalkeeper Doubt vs Home Form",
+    "meta": {
+      "matchId": "1606767",
+      "league": "J2 League",
+      "matchup": "Sagan Tosu vs Vegalta Sendai",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win led by Vegalta Sendai represents the optimal projection, balancing the leaders' superior attacking output against Sagan Tosu's unbroken home scoring streak.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Vegalta Sendai's 1.88 goals-per-game attack and 62.5% away win rate, tempered by Sagan Tosu's home scoring consistency (Confidence: Moderate, Value: High)",
+      "Over 2.5 & BTTS: Yes backed by Sendai's nine goals in two games and Tosu's eight-for-eight home scoring record (Confidence: Moderate, Value: Moderate)",
+      "1:1 second-half parity hedge if Tosu stay level through halftime against an unsettled visiting goalkeeping setup (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606767",
+      "league": "J2 League",
+      "homeTeam": "Sagan Tosu",
+      "awayTeam": "Vegalta Sendai",
+      "match_time": "05:00",
+      "match_highlight": "Sendai's fast away starts collide with goalkeeper doubts and Tosu's home surge.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606767,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Vegalta Sendai's 1:2 away victory script alongside a 1:1 stalemate rather than a single away call due to Sendai's goalkeeper uncertainty and Tosu's 100% home scoring floor."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Sendai's 1.88 goals per game and Tosu's eight-for-eight home scoring streak lift the 2.50 goal-expectancy baseline toward three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tosu have scored in all eight home league games while Sendai carry goalkeeper injury doubts and a 37.5% away clean-sheet rate alongside elite scoring volume."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Sendai's attacking edge over a scoring host, while 1:1 covers a level halftime script and second-half Tosu reply."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals fits the primary 1:2 exchange, with two goals covering the tighter 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Sendai's 66.7% first-half away scoring share and 100% halftime lead conversion, whereas Draw-Draw covers Tosu holding parity until late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:43:25 UTC"
+}
