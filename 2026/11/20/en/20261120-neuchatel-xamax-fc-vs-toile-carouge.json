@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555085,
+    "matchup": "Neuchatel Xamax FC vs Étoile Carouge",
+    "home_team": "Neuchatel Xamax FC",
+    "away_team": "Étoile Carouge",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-20 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-neuchatel-xamax-fc-vs-toile-carouge/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Neuchatel Xamax FC vs Étoile Carouge Prediction & Match Analysis: Can Hosts Halt Home Slide? — Preview",
+    "meta": {
+      "matchId": "1555085",
+      "league": "Challenge League",
+      "matchup": "Neuchatel Xamax FC vs Étoile Carouge",
+      "matchTime": "2026-11-20 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Statistical modeling and venue scoring patterns favor Neuchatel Xamax FC on the Home Win / Draw double-result axis in an open Over 2.5 and BTTS: Yes contest projected around a 2:1 or 1:1 finish.",
+    "possibilityAssessment": [
+      "Primary Direction — Home Win / Draw: Neuchatel Xamax FC holds a narrow 37.6% vs 36.3% Poisson edge with a 26.1% draw baseline, making home-or-draw coverage the balanced full-time stance (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Angle — Over 2.5 Goals & BTTS Yes: All 6 Xamax home games and 4 of 6 Carouge away games cleared 2.5 goals with 66.7% venue BTTS rates for both sides (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle — Second-Half Equalizer or Reversal: Xamax's 33.3% home lead-loss rate exposes them if Carouge's 57.1% second-half goal share sparks a 1:1 draw or Win-Loss turnaround (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555085",
+      "league": "Challenge League",
+      "homeTeam": "Neuchatel Xamax FC",
+      "awayTeam": "Étoile Carouge",
+      "match_time": "18:30",
+      "match_highlight": "Xamax's home defensive fragility tested by Carouge's second-half road resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555085,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Xamax's 2:1 home edge driven by early tempo and set pieces and the 1:1 draw script given Carouge's 50% away draw rate and minimal 0.03 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Despite a 2.65 Poisson total lambda, 10 of 12 combined venue-specific league matches cleared 2.5 goals with both defenses keeping just 16.7% venue clean sheets."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams carry 73%+ Poisson scoring probabilities and 66.7% venue BTTS rates while scoring regularly and keeping only one clean sheet in six venue outings apiece."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Xamax's home Over 2.5 streak and set-piece edge against leaky defenses, while 1:1 covers the 12.4% Poisson modal draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the 2:1 venue-driven Over 2.5 expectation, while 2 goals aligns with the 24.8% Poisson modal peak and 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Win-Win pairs Xamax's 50% home HT lead rate with Carouge's 66.7% away HT trailing rate, while Win-Draw captures Carouge's 50% away HT-deficit recovery rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 11:47:59 UTC"
+}
