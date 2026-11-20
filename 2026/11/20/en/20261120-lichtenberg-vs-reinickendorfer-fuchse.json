@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1577051,
+    "matchup": "Lichtenberg vs Reinickendorfer Fuchse",
+    "home_team": "Lichtenberg",
+    "away_team": "Reinickendorfer Fuchse",
+    "league": "Oberliga - Nordost-Nord",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-lichtenberg-vs-reinickendorfer-fuchse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lichtenberg vs Reinickendorfer Fuchse Prediction: Can Interim Reset Halt Fuchse's Run? — XG Mind AI",
+    "meta": {
+      "matchId": "1577051",
+      "league": "Oberliga - Nordost-Nord",
+      "matchup": "Lichtenberg vs Reinickendorfer Fuchse",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Reinickendorfer Fuchse hold the primary edge on defensive structure and unbeaten league momentum, warranting a Draw / Away Win stance led by a 1:2 visiting victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Reinickendorfer Fuchse's superior 1.09 goals-conceded rate and five-match unbeaten run alongside Lichtenberg's home draw resistance (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes align with Lichtenberg's five-game conceding-and-scoring streak and 2.64 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Script covers an early tactical tightening under Lichtenberg's interim staff matching the top single Poisson density (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1577051",
+      "league": "Oberliga - Nordost-Nord",
+      "homeTeam": "Lichtenberg",
+      "awayTeam": "Reinickendorfer Fuchse",
+      "match_time": "18:00",
+      "match_highlight": "Lichtenberg's interim coaching reset faces unbeaten Fuchse's sharp Zoschke counter-attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1577051,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on the 1:2 primary and 1:1 secondary scorelines, covering Fuchse's defensive superiority alongside a potential interim-coach stalemate where a single away call risks understating the 0.18 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.64 combined lambda, 1.36 goals scored per game from both clubs, and Lichtenberg conceding 11 goals across their last five league games."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks exceed 70% scoring probability in the Poisson baseline, with Lichtenberg scoring and conceding in all five recent league outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Projects Fuchse's sharper containment edging a 1:2 away win, with 1:1 retained as the leading Poisson stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 1:2 central script and recent scoring trends, while two goals covers the 1:1 defensive-tightening branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a disciplined, level first half under Lichtenberg's interim setup before Fuchse either break through late or settle for a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 10:20:28 UTC"
+}
