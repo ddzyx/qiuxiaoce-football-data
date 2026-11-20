@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1627120,
+    "matchup": "Burnley U21 vs Fleetwood Town U21",
+    "home_team": "Burnley U21",
+    "away_team": "Fleetwood Town U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-burnley-u21-vs-fleetwood-town-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burnley U21 vs Fleetwood Town U21 Prediction & Match Analysis: Can Clarets Crack Fleetwood's Block?",
+    "meta": {
+      "matchId": "1627120",
+      "league": "Premier League Cup",
+      "matchup": "Burnley U21 vs Fleetwood Town U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Burnley U21 hold the stronger goals-based baseline and home depth to avoid defeat against a Fleetwood Town U21 attack coming off consecutive scoreless November outings, making Home Win / Draw alongside Under 2.5 the optimal projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Burnley's 1.20 vs 1.05 lambda edge and 68.0% combined Poisson density (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No driven by 2.25 combined lambda and Fleetwood's two straight November blanks (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Stalemate if Burnley's recent single-goal defensive vulnerability surfaces on a Fleetwood transition (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627120",
+      "league": "Premier League Cup",
+      "homeTeam": "Burnley U21",
+      "awayTeam": "Fleetwood Town U21",
+      "match_time": "19:00",
+      "match_highlight": "Burnley U21 aim to crack Fleetwood's compact block at Leyland.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1627120,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Burnley U21's home technical edge for a narrow 1:0 win alongside a 1:1 containment draw, as Burnley's four-match winless stretch and unconfirmed U21 teamsheets make a single Home Win call less secure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda (60.9% Under 2.5 probability) and Fleetwood Town U21's consecutive November blanks."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Favored at 54.6% baseline probability as Fleetwood have scored only two goals across three Group E ties and none in November."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Burnley's superior home attacking quality against a low block, while 1:1 covers the top Poisson stalemate cell."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.7%) and 1 goal (23.7%) dominate the Poisson total-goals distribution under a 2.25 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cagey first half before Burnley either find a second-half breakthrough or settle for a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 15:15:34 UTC"
+}
