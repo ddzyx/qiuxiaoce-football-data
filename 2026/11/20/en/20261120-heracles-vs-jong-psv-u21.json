@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551892,
+    "matchup": "Heracles vs Jong PSV U21",
+    "home_team": "Heracles",
+    "away_team": "Jong PSV U21",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-heracles-vs-jong-psv-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Heracles vs Jong PSV U21 Tactical Breakdown & Modeling: Home Dominance vs Away Scoring Streak",
+    "meta": {
+      "matchId": "1551892",
+      "league": "Eerste Divisie",
+      "matchup": "Heracles vs Jong PSV U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Heracles are projected to extend their unbeaten home run against Jong PSV U21 in an open, multi-goal contest where both teams find the net.",
+    "possibilityAssessment": [
+      "Heracles Home Win backed by a 7-0-0 home record and 14 set-piece goals (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes supported by a 3.50 goal-based lambda total and Jong PSV's 100% away scoring rate (Confidence: High, Value: High)",
+      "Narrower 2:1 Home Win contingency if Heracles's 59.7% big-chance waste rate combines with Jong PSV's 14-day rest edge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551892",
+      "league": "Eerste Divisie",
+      "homeTeam": "Heracles",
+      "awayTeam": "Jong PSV U21",
+      "match_time": "19:00",
+      "match_highlight": "Heracles chase eight straight home wins against free-scoring Jong PSV U21.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551892,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Heracles's 7-for-7 home record, 78.8 FW-OTI, and 14 set-piece goals overpower a Jong PSV side without an away clean sheet, pointing to a 3:1 home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs clear 2.5 goals in 71.4% of their respective home and away league fixtures, supported by a 3.50 combined goal-based lambda."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Jong PSV have scored in all 7 away league matches (100% away BTTS), while Heracles hold only a 26.7% overall clean-sheet rate despite home strength."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 captures Heracles's 71.4% two-plus home margin rate and Jong PSV's road scoring floor, with 2:1 covering slight home chance waste."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Heracles's 3.07 goals per game against Jong PSV's 1.57 conceded anchors expectancy around 3 to 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Heracles lead at half-time in 71.4% of home games and convert 100%, while Draw-Win covers Jong PSV's 71.4% away half-time draw rate before second-half fade."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:08:37 UTC"
+}
