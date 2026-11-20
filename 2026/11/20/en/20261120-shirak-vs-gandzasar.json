@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1581567,
+    "matchup": "Shirak vs Gandzasar",
+    "home_team": "Shirak",
+    "away_team": "Gandzasar",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-shirak-vs-gandzasar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shirak vs Gandzasar Prediction & Match Analysis: Can Gyumri Hosts Exploit League-Worst Defense?",
+    "meta": {
+      "matchId": "1581567",
+      "league": "Premier League",
+      "matchup": "Shirak vs Gandzasar",
+      "matchTime": "2026-11-20 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shirak are projected to claim a controlled Home Win at Gyumri City Stadium by exploiting Gandzasar's 2.46 goals-conceded-per-game defensive vulnerability.",
+    "possibilityAssessment": [
+      "Home Win driven by Shirak's 1.77 goal expectancy and defensive structure against 1-0-12 Gandzasar (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & 2 Total Goals anchored by Shirak's 1.08 goals-per-game pace and Gandzasar's recent scoring blanks (Confidence: Moderate, Value: Moderate)",
+      "2:1 Home Win variance if Gandzasar convert a set piece or transition chance against Shirak's 36.8% clean-sheet baseline (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1581567",
+      "league": "Premier League",
+      "homeTeam": "Shirak",
+      "awayTeam": "Gandzasar",
+      "match_time": "15:00",
+      "match_highlight": "Shirak's home control tests Gandzasar's league-worst 2.46 goals-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1581567,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored on the 2:0 primary scoreline, Shirak combine superior home organization and a 55.5% Poisson win baseline against a visitor with 12 defeats in 13 league games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Although raw season lambdas total 2.77, Shirak's 1.08 goals-per-game league output and Gandzasar's three recent blanks favor a two-goal contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Gandzasar average just 0.77 goals per game and failed to score in both recent 0:1 head-to-head defeats against Shirak."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 reflects Shirak capitalizing on Gandzasar's 2.46 goals conceded per match while keeping a clean sheet, with 2:1 covering a single transition reply."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals carries the highest Poisson probability at 24.0% ahead of three goals at 22.2%, aligning directly with the 2:0 and 2:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Shirak led at half-time in both 2026 head-to-head meetings for Win-Win, while Draw-Win covers a cagey opening half like November 2025's 0:0 interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 03:11:58 UTC"
+}
