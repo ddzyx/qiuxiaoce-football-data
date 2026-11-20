@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551890,
+    "matchup": "FC Volendam vs Jong Ajax",
+    "home_team": "FC Volendam",
+    "away_team": "Jong Ajax",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-fc-volendam-vs-jong-ajax/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Volendam vs Jong Ajax Prediction & Match Analysis: Can Veerman's Hosts Expose Ajax's Road Defense?",
+    "meta": {
+      "matchId": "1551890",
+      "league": "Eerste Divisie",
+      "matchup": "FC Volendam vs Jong Ajax",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Volendam are projected to secure a multi-goal home victory at the Kras Stadion in an open contest where Jong Ajax also find the net.",
+    "possibilityAssessment": [
+      "Primary 1X2 thesis backs Home Win as Volendam's 73.3 FW-OTI and 52.2% first-half home goal share target Jong Ajax's 2.14 away goals conceded per game (Confidence: Moderate, Value: Moderate)",
+      "Goal-expectancy thesis targets Over 2.5 and BTTS: Yes across a 3:1 or 2:1 trajectory given both clubs' 71.4% venue Over 2.5 rate and 0.0% venue failed-to-score rate (Confidence: High, Value: Moderate)",
+      "Contingency hedge monitors Jong Ajax's 14-day rest edge and recent four-match unbeaten streak producing a tighter single-goal margin or late-goal variance if Volendam waste early chances (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551890",
+      "league": "Eerste Divisie",
+      "homeTeam": "FC Volendam",
+      "awayTeam": "Jong Ajax",
+      "match_time": "19:00",
+      "match_highlight": "Volendam's lethal Kras Stadion attack meets Jong Ajax's fragile road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551890,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by Volendam's 6-0-1 home record, five home wins by 2+ goals, and Jong Ajax's 0.0% recovery rate when trailing at half-time."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs hit Over 2.5 in 71.4% of their respective home and away league fixtures with combined goal expectancy near 3.90 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams hold a 0.0% failed-to-score rate in their respective venue splits, while Volendam hold just a 20.0% clean-sheet rate overall."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "Reflects Volendam's 71.4% two-goal home winning margin rate alongside Jong Ajax's 100% away scoring record."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Derived ~3.90 combined goal expectancy concentrates maximum probability mass squarely across 3 and 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Volendam lead at the break in 85.7% of home games while retaining a 100% home conversion rate from rare level half-times."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 12:30:03 UTC"
+}
