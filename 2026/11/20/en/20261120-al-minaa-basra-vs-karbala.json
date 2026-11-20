@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1628042,
+    "matchup": "Al Minaa Basra vs Karbala",
+    "home_team": "Al Minaa Basra",
+    "away_team": "Karbala",
+    "league": "Iraqi League",
+    "kickoff_utc": "2026-11-20 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-al-minaa-basra-vs-karbala/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Minaa Basra vs Karbala Prediction & Match Analysis: Blunt Attack Meets League-Worst Defense",
+    "meta": {
+      "matchId": "1628042",
+      "league": "Iraqi League",
+      "matchup": "Al Minaa Basra vs Karbala",
+      "matchTime": "2026-11-20 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Minaa Basra vs Karbala projects as a low-scoring contest leaning toward a narrow home victory or stalemate under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Al Minaa Basra Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals & BTTS: No (Confidence: Moderate, Value: High)",
+      "1:1 Draw via Late Transition Counter (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1628042",
+      "league": "Iraqi League",
+      "homeTeam": "Al Minaa Basra",
+      "awayTeam": "Karbala",
+      "match_time": "14:00",
+      "match_highlight": "Radulovic's compact Al Minaa defense tests Karbala's leaky backline in Basra.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1628042,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 1:0 home breakthrough against Karbala's 1.92 goals-conceded rate and the 1:1 stalemate branch given Al Minaa's 0.92 scoring average and consecutive 0:0 draws, making a single home call too exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.35 total lambda (58.3% Under 2.5 probability), Al Minaa's 1.92 combined goals-per-game profile, and four of their last five league fixtures finishing under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Al Minaa's 1.00 goal-conceded rate and three clean sheets in five matches restrict Karbala's 0.85 scoring average, aligning with the 54.1% Poisson BTTS No lean and 1:0 primary scoreline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 (13.5% Poisson density) reflects a disciplined home shutout win, while 1:1 (12.6%) captures the transition risk posed by Karbala top scorer Austin Amutu."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson total-goal density concentrates on 2 goals (26.3%) and 1 goal (22.4%), matching low-tempo home control after a 14-day competitive break."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey 0:0 opening half is favored given Al Minaa's consecutive scoreless draws and Karbala's cautious away setup, diverging into either a second-half home breakthrough or a shared result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 02:10:55 UTC"
+}
