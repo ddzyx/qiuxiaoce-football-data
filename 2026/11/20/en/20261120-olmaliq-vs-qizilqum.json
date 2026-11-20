@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516190,
+    "matchup": "Olmaliq vs Qizilqum",
+    "home_team": "Olmaliq",
+    "away_team": "Qizilqum",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-20 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-olmaliq-vs-qizilqum/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Olmaliq vs Qizilqum Tactical Breakdown & Match Analysis: Can Away Block Slow OKMK's Attack?",
+    "meta": {
+      "matchId": "1516190",
+      "league": "Super League",
+      "matchup": "Olmaliq vs Qizilqum",
+      "matchTime": "2026-11-20 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Olmaliq to avoid defeat in a low-scoring Super League contest projected to remain Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Olmaliq's 1.44 goals per game and Qizilqum's 54% away loss rate while covering a narrow 0.20 lambda gap (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals supported by a 2.42 combined lambda, Qizilqum's 1.92 away total-goals average, and two consecutive Under 2.5 H2H meetings (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency via Qizilqum transition counter-attacks against Olmaliq's 1.30 goals-conceded rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516190",
+      "league": "Super League",
+      "homeTeam": "Olmaliq",
+      "awayTeam": "Qizilqum",
+      "match_time": "12:00",
+      "match_highlight": "Can Olmaliq's attack crack Qizilqum's compact away defensive block?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516190,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Olmaliq's 1:0 home breakthrough and a 1:1 stalemate because a narrow 0.20 lambda gap and 1.30 home conceded rate leave a single Home Win too exposed to Qizilqum's low-block containment."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.42 combined lambda, 56.4% Poisson Under probability, and Qizilqum's 1.92 away total-goals average point to a tight, low-scoring match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Qizilqum's 54% away failed-to-score rate (0.69 goals per road game) and consecutive blank sheets in recent H2H meetings favor a home shutout."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Olmaliq's patient breakthrough against a 0.69-goal away attack, while 1:1 covers Qizilqum exploiting Olmaliq's 1.30 conceded-goals rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.0% Poisson) and one goal (21.5% Poisson) capture the dominant 1:1, 2:0, and 1:0 branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Qizilqum's compact 4-1-4-1 setup points to a level first half before either a second-half Olmaliq winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:08:10 UTC"
+}
