@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597965,
+    "matchup": "Al Sadd vs Lusail City",
+    "home_team": "Al Sadd",
+    "away_team": "Lusail City",
+    "league": "Stars League",
+    "kickoff_utc": "2026-11-20 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-al-sadd-vs-lusail-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Sadd vs Lusail City Tactical Breakdown & Match Analysis: Defensive Fragility vs Attacking Firepower",
+    "meta": {
+      "matchId": "1597965",
+      "league": "Stars League",
+      "matchup": "Al Sadd vs Lusail City",
+      "matchTime": "2026-11-20 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Sadd is projected to claim an ordinary full-time home win in an open contest where both teams find the net.",
+    "possibilityAssessment": [
+      "Home Win behind Al Sadd's 3.78 goals and 8.9 shots on target per game (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by Al Sadd's 9/9 Over 2.5 streak and defensive lapses (Confidence: High, Value: High)",
+      "Lusail City counter-attacking goal exploiting spaces behind high home full-backs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597965",
+      "league": "Stars League",
+      "homeTeam": "Al Sadd",
+      "awayTeam": "Lusail City",
+      "match_time": "13:00",
+      "match_highlight": "Al Sadd's league-leading attack tests Lusail City's compact road organization.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597965,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Al Sadd's intact attacking core and 6-for-6 two-goal winning margins justify a single Home Win around a 3:1 core projection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Al Sadd's 3.78 goals scored and 2.00 conceded per match align with a 4.22 combined lambda and 79.2% Poisson Over 2.5 baseline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al Sadd has scored in every league match while conceding in eight of nine, facing a Lusail City side with five goals in its last two outings."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 captures Al Sadd's two-plus goal winning pattern with a leaky backline, while 2:1 covers tighter early Lusail resistance."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four and three goals represent the two highest independent Poisson goal counts at 19.4% and 18.4% respectively."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win reflects Al Sadd's 57.1% half-time lead rate, while Draw-Win covers early Lusail containment before late home pressure tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:26:40 UTC"
+}
