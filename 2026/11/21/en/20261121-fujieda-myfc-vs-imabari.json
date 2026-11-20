@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606769,
+    "matchup": "Fujieda MYFC vs Imabari",
+    "home_team": "Fujieda MYFC",
+    "away_team": "Imabari",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-fujieda-myfc-vs-imabari/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fujieda MYFC vs Imabari Tactical Breakdown & Probabilistic Modeling: Scoring Drought Meets Road Fragility",
+    "meta": {
+      "matchId": "1606769",
+      "league": "J2 League",
+      "matchup": "Fujieda MYFC vs Imabari",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw paired with Under 2.5 Goals and BTTS No reflects Fujieda MYFC's home defensive reliability against an Imabari side enduring a severe road and scoring slump.",
+    "possibilityAssessment": [
+      "Fujieda MYFC Home Win or Draw leverages a 77.8% home unbeaten record against Imabari's 0% away clean-sheet rate while covering home draw frequency (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals aligns with Fujieda's 77.8% home Under 2.5 rate and Imabari's four blanks in five recent matches (Confidence: Moderate, Value: High)",
+      "Draw-Draw HT/FT covers a low-event stalemate if depleted home attacking depth fails to unlock Imabari's back three (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606769",
+      "league": "J2 League",
+      "homeTeam": "Fujieda MYFC",
+      "awayTeam": "Imabari",
+      "match_time": "05:00",
+      "match_highlight": "Fujieda's home clean-sheet resilience tests Imabari's winless, blunt away attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606769,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Fujieda victory and a 1:1 stalemate, as Matsuki and Uehata's absences cap home margin certainty against an opponent with zero away clean sheets."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Fujieda's 77.8% home Under 2.5 rate meets an Imabari attack averaging 0.15 decayed goals per match across its last five outings."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Fujieda's 44.4% home clean-sheet rate collides with an Imabari side missing Hikaru Arai that failed to score in four of its last five games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 mirrors Fujieda's home containment blueprint against a porous road defense, while 1:1 covers a single transitional lapse if Edigar Junio converts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the modal Poisson expectation (25.0%), with one goal capturing the tight 1:0 home clean-sheet script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Fujieda draws 66.7% of home first halves before Imabari's second-half road fragility (0/3 survived HT draws away) tilts late control toward either Draw-Win or Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:51:40 UTC"
+}
