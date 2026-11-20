@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555820,
+    "matchup": "Matsumoto Yamaga vs FC Ryukyu",
+    "home_team": "Matsumoto Yamaga",
+    "away_team": "FC Ryukyu",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-matsumoto-yamaga-vs-fc-ryukyu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Matsumoto Yamaga vs FC Ryukyu Prediction & Match Analysis: Can Home Defense Halt Ryukyu's Attack?",
+    "meta": {
+      "matchId": "1555820",
+      "league": "J3 League",
+      "matchup": "Matsumoto Yamaga vs FC Ryukyu",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win represents the optimal risk-adjusted match direction, as FC Ryukyu's superior second-half scoring output faces a compact Matsumoto Yamaga side prone to low-scoring stalemates.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Ryukyu's 1.47 goals-per-game floor and Matsumoto's three-match goalless run alongside six league draws (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by a 2.42 combined Poisson lambda and five consecutive Under 2.5 matches for Matsumoto Yamaga (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No supported by Matsumoto's 47% season failed-to-score rate and FC Ryukyu's recent 1:0 clean sheet (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555820",
+      "league": "J3 League",
+      "homeTeam": "Matsumoto Yamaga",
+      "awayTeam": "FC Ryukyu",
+      "match_time": "05:00",
+      "match_highlight": "Blunt Matsumoto attack tests Ryukyu's leaky away defense under second-half pressure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555820,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Derived from the 0:1 away breakthrough and 1:1 stalemate scripts, covering both FC Ryukyu's superior scoring floor and their low 13% away clean-sheet rate rather than risking a solo away call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.42 combined goal lambda, a 56.4% Poisson Under 2.5 projection, and Matsumoto's 0.88 goals-per-game attack."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Matsumoto's 47% failed-to-score rate across 17 J3 matches and three consecutive scoreless outings against a Ryukyu side fresh off a 1:0 shutout."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Ryukyu's second-half attacking edge against a blunt host, while 1:1 captures Matsumoto's home set-piece threat against a vulnerable road defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.0% Poisson probability) and 1 goal (21.5%) anchor the tight, low-event distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams routinely reach half-time level before Ryukyu either score after the interval (0:1) or share a tight draw (1:1)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:52:22 UTC"
+}
