@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576235,
+    "matchup": "SV Darmstadt 98 vs 1. FC Heidenheim",
+    "home_team": "SV Darmstadt 98",
+    "away_team": "1. FC Heidenheim",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-20 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-sv-darmstadt-98-vs-1-fc-heidenheim/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SV Darmstadt 98 vs 1. FC Heidenheim Match Analysis: Keeper Absences, xG & 2. Bundesliga Preview",
+    "meta": {
+      "matchId": "1576235",
+      "league": "2. Bundesliga",
+      "matchup": "SV Darmstadt 98 vs 1. FC Heidenheim",
+      "matchTime": "2026-11-20 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "1. FC Heidenheim's 2.37 xG per match creation and set-piece edge confront a resilient home side at the Böllenfalltor, pointing to a Draw / Away Win trajectory led by a 1:2 visitor victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win projection anchored by 1. FC Heidenheim's 1.82 away lambda and 13 set-piece goals against a host unbeaten in five of six home league games (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by both starting goalkeepers and two regular defenders confirmed out alongside a 3.14 combined lambda (Confidence: Moderate, Value: High)",
+      "Both Teams To Score (Yes) profile reflecting Heidenheim's 1.82 goals conceded per game and 80% away BTTS frequency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576235",
+      "league": "2. Bundesliga",
+      "homeTeam": "SV Darmstadt 98",
+      "awayTeam": "1. FC Heidenheim",
+      "match_time": "17:30",
+      "match_highlight": "Both sides missing starting goalkeepers and key defenders amid stark xG disparity",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576235,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Heidenheim's 1:2 creative win path and a 1:1 draw script because Heidenheim's 1W-1D-3L away record and defensive absences make a single Away Win the weaker expression."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.14 combined lambda, Heidenheim's 80% away Over 2.5 rate, and both clubs starting backup goalkeepers."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Heidenheim scores in all away matches while conceding 1.82 goals per game without Dähne and Föhrenbach, and Darmstadt has BTTS in 66.7% of home games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Heidenheim's 2.37 xG and set-piece edge; 1:1 reflects Darmstadt's 50% home draw rate and Heidenheim's 70.5% big-chance waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3% Poisson density) leads behind the 3.14 lambda, with 2 goals (21.3%) capturing a tighter 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss mirrors Darmstadt's 66.7% home HT draw rate yielding late; Loss-Draw covers Heidenheim's 40% away HT lead rate colliding with their 50% lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 08:38:41 UTC"
+}
