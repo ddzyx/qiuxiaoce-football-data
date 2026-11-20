@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551893,
+    "matchup": "Jong Utrecht vs Emmen",
+    "home_team": "Jong Utrecht",
+    "away_team": "Emmen",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-jong-utrecht-vs-emmen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jong Utrecht vs Emmen Tactical Breakdown & Preview: Can Depleted Visitors Hold Off Hosts?",
+    "meta": {
+      "matchId": "1551893",
+      "league": "Eerste Divisie",
+      "matchup": "Jong Utrecht vs Emmen",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jong Utrecht are projected to avoid defeat (Home Win / Draw) in a high-scoring Eerste Divisie clash featuring Over 2.5 goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw backed by Jong Utrecht's 1.64 goals per game and 13.1-day rest edge (Confidence: Moderate, Value: High)",
+      "Total Goals & BTTS Direction: Over 2.5 and BTTS Yes supported by 3.97 derived lambda_total and 92.9% home BTTS frequency (Confidence: High, Value: Moderate)",
+      "Second-Half Variance Angle: High-scoring 2:2 Draw covering Jong Utrecht's 50.0% overall lead-not-won rate against Jack Cooper-Love (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551893",
+      "league": "Eerste Divisie",
+      "homeTeam": "Jong Utrecht",
+      "awayTeam": "Emmen",
+      "match_time": "19:00",
+      "match_highlight": "Intact Jong Utrecht attack tests Emmen's injury-hit defense at Sportcomplex Zoudenbalch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551893,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 home victory driven by Jong Utrecht's intact attack against Emmen's depleted backline and a 2:2 draw if Jack Cooper-Love punishes the hosts' 50.0% lead-not-won rate, as neither single call captures both verified scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.97 derived goal-based lambda total, Jong Utrecht's 85.7% Over 2.5 rate (2.43 GA/g), and Emmen's 71.4% away Over 2.5 rate (2.00 GA/g)."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Jong Utrecht have scored in 13 of 14 matches (7.1% clean-sheet rate) while Emmen have scored in 6 of 7 away games and concede 2.00 goals per match with key defenders sidelined."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Jong Utrecht's home attacking efficiency exploiting Emmen's missing defensive spine, while 2:2 accounts for Emmen's second-half recovery threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Both clubs average roughly four combined goals per match in Eerste Divisie play, centering expectations on 3 or 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Jong Utrecht register a 69.2% home first-half goal share and 42.9% home half-time lead rate against slow-starting Emmen, leaving the second half as the key hold-or-equalize fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:13:13 UTC"
+}
