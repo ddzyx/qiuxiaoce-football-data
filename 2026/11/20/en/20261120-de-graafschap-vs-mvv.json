@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551888,
+    "matchup": "De Graafschap vs MVV",
+    "home_team": "De Graafschap",
+    "away_team": "MVV",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-de-graafschap-vs-mvv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "De Graafschap vs MVV Tactical Breakdown & Probabilistic Modeling: High-Press Exposure Meets Road Resilience",
+    "meta": {
+      "matchId": "1551888",
+      "league": "Eerste Divisie",
+      "matchup": "De Graafschap vs MVV",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MVV are projected to avoid defeat at Stadion De Vijverberg as their clinical transition play and superior league form exploit De Graafschap's leaky home defence.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Draw / Away Win leaning Away Win (Confidence: Moderate, Value: High)",
+      "Goal Expectancy Angle: Over 2.5 Total Goals with 3 or 4 goals and BTTS Yes (Confidence: Moderate, Value: Moderate)",
+      "Half-Time Fork Contingency: Win-Draw second-half comeback if De Graafschap convert early (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551888",
+      "league": "Eerste Divisie",
+      "homeTeam": "De Graafschap",
+      "awayTeam": "MVV",
+      "match_time": "19:00",
+      "match_highlight": "Porous De Graafschap defence missing Meerstadt faces MVV's sharp transitions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551888,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 MVV away win built on superior form and Meerstadt's absence alongside a 2:2 draw since De Graafschap score reliably at home."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs concede at least 2.00 goals per league match and carry 71.4% venue Over 2.5 rates."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "De Graafschap have scored in all 7 home league matches while both clubs hold just 14.3% venue clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 mirrors De Graafschap's home concession trend and MVV's efficiency, with 2:2 covering a late home response."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Combined league scoring and conceding averages anchor total goals between 3 and 4."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "MVV's 63.6% second-half away goal share supports Draw-Loss, while De Graafschap's 50% home lead-drop rate supports Win-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 12:21:52 UTC"
+}
