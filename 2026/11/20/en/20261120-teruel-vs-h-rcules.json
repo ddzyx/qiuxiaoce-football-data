@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1571223,
+    "matchup": "Teruel vs Hércules",
+    "home_team": "Teruel",
+    "away_team": "Hércules",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-teruel-vs-h-rcules/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Teruel vs Hércules Prediction & Match Analysis: Can Pinilla Hosts Contain Narro? — Scoreline Preview",
+    "meta": {
+      "matchId": "1571223",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Teruel vs Hércules",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is projected with Hércules's superior final-third output favored to edge a tight Under 2.5 contest at Pinilla.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by an Hércules win in a low-scoring contest (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals and BTTS: No anchored on a 2.21 combined goal expectancy (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency via Teruel set-piece efficiency against an imperfect away back line (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571223",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Teruel",
+      "awayTeam": "Hércules",
+      "match_time": "18:00",
+      "match_highlight": "Can Teruel's Pinilla resistance contain Hércules's wing creativity?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571223,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Hércules win driven by wing quality alongside a 1:1 Pinilla stalemate given the visitors' away defensive leaks, whereas a single away call would ignore Hércules conceding two goals in four of their last five games."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.21 combined Poisson goal expectancy (62.0% Under 2.5 probability) reflects Teruel's 0.42 goals-per-game output meeting a compact home game plan."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Teruel's five goals in twelve matches and Relu's absence lower their scoring floor (57.8% BTTS: No baseline) despite Hércules's 1.25 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 (15.1%) captures Hércules's second-half breakthrough over a tight host, while 1:1 (12.6%) covers Teruel nicking a home goal against a leaky traveling defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.8%) and one goal (24.2%) dominate the Poisson distribution around a 2.21 combined goal expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Teruel's compact Pinilla setup points to a level first half before Hércules either break through after the interval (Draw-Loss) or remain held to parity (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 10:16:34 UTC"
+}
