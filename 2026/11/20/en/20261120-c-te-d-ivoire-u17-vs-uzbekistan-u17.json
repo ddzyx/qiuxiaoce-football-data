@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1546151,
+    "matchup": "Côte d'Ivoire U17 vs Uzbekistan U17",
+    "home_team": "Côte d'Ivoire U17",
+    "away_team": "Uzbekistan U17",
+    "league": "World Cup - U17",
+    "kickoff_utc": "2026-11-20 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-c-te-d-ivoire-u17-vs-uzbekistan-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Côte d'Ivoire U17 vs Uzbekistan U17 Tactical Breakdown & Modeling: Sharpness vs Asian Cup Structure",
+    "meta": {
+      "matchId": "1546151",
+      "league": "World Cup - U17",
+      "matchup": "Côte d'Ivoire U17 vs Uzbekistan U17",
+      "matchTime": "2026-11-20 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win in this Group E opener, led by a 1:1 stalemate with a 1:2 Uzbekistan U17 victory retained as the secondary branch.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals with BTTS: Yes via 1:1 convergence (Confidence: Moderate, Value: High)",
+      "Uzbekistan U17 1:2 late transition or set-piece victory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1546151",
+      "league": "World Cup - U17",
+      "homeTeam": "Côte d'Ivoire U17",
+      "awayTeam": "Uzbekistan U17",
+      "match_time": "16:00",
+      "match_highlight": "Ivory Coast Dubai sharpness tests Uzbekistan's unbeaten Asian Cup tournament structure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1546151,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors on a 1:1 draw while covering a 1:2 Uzbekistan U17 win because neither team's unconfirmed Matchday 1 lineup justifies discarding the draw or the Asian Cup semi-finalists."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Uzbekistan's 0.75 goals-conceded average at the 2026 AFC U-17 Asian Cup and Group E Matchday 1 caution favor a two-goal 1:1 convergence over an open shootout."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Côte d'Ivoire conceded in eight of their last nine known 2026 matches while scoring in ten of eleven, and Uzbekistan scored in all four Asian Cup fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "Primary 1:1 reflects balanced Youth World Cup opener caution with both attacks scoring, while 1:2 captures Uzbekistan capitalizing on Ivorian defensive gaps."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals aligns directly with the 1:1 base script, while three goals accommodates a decisive second-half winner in a 1:2 outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Draw mirrors Uzbekistan's Asian Cup habit of leading at half-time before conceding late equalizers, while Draw-Loss covers a cagey first half won late by Uzbekistan."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 04:12:28 UTC"
+}
