@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558563,
+    "matchup": "Mornar vs Sutjeska",
+    "home_team": "Mornar",
+    "away_team": "Sutjeska",
+    "league": "First League",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-mornar-vs-sutjeska/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mornar vs Sutjeska Tactical Breakdown & Probabilistic Modeling: Top-Four Deadlock at Stadion Topolica",
+    "meta": {
+      "matchId": "1558563",
+      "league": "First League",
+      "matchup": "Mornar vs Sutjeska",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mornar holds the tactical edge to avoid defeat in a tight, low-scoring First League encounter at Stadion Topolica.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Mornar's 1.40 goals-per-game output and 1.14 vs 1.14 Poisson parity (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 supported by 60.1% baseline probability and 4-of-5 low-scoring H2H meetings (Confidence: Moderate, Value: High)",
+      "BTTS: No paired with 1:0 Mornar script given 53.7% clean-sheet model lean (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558563",
+      "league": "First League",
+      "homeTeam": "Mornar",
+      "awayTeam": "Sutjeska",
+      "match_time": "19:00",
+      "match_highlight": "Top-four clash pits Mornar's home attack against Sutjeska's tight defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558563,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Mornar's 1:0 home-win script and the 1:1 stalemate branch because exact 1.14 lambda parity and Mornar's 40% draw rate weaken an outright single-win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by 2.28 combined lambda, a 60.1% Under 2.5 baseline, and Sutjeska's 0.87 goals conceded per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligns with the 53.7% Poisson BTTS-No projection, four clean sheets in the last five H2H meetings, and Sutjeska's recent scoring blanks."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Mornar's narrow home-winning control as primary and the high-density 1:1 Poisson draw as secondary."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Directly matches the two highest-probability Poisson total-goal buckets at 26.6% and 23.3%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Captures Sutjeska's strong first-half stalemate pattern before either a second-half Mornar breakthrough or a full-time draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 14:22:15 UTC"
+}
