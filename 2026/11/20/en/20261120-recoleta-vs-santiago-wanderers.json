@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650549,
+    "matchup": "Recoleta vs Santiago Wanderers",
+    "home_team": "Recoleta",
+    "away_team": "Santiago Wanderers",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-20 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-recoleta-vs-santiago-wanderers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Recoleta vs Santiago Wanderers Tactical Breakdown & Match Analysis: Midfield Absences Test Playoff Balance",
+    "meta": {
+      "matchId": "1650549",
+      "league": "Primera B",
+      "matchup": "Recoleta vs Santiago Wanderers",
+      "matchTime": "2026-11-20 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Recoleta to avoid defeat (Home Win / Draw) in a tight Liguilla quarter-final opener anchored around a 1:1 draw and a secondary 2:1 home edge.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw — 1:1 stalemate primary, 2:1 home win secondary (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Angle: Under 2.5 goals paired with BTTS Yes on first-leg tactical caution (Confidence: Moderate, Value: Moderate)",
+      "Margin Contingency: Recoleta 2:1 single-goal victory replicating October's home blueprint (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650549",
+      "league": "Primera B",
+      "homeTeam": "Recoleta",
+      "awayTeam": "Santiago Wanderers",
+      "match_time": "21:00",
+      "match_highlight": "Suspended Wanderers midfielders test away control against Recoleta's home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650549,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a cautious 1:1 first-leg stalemate alongside Recoleta's 2:1 home-win script, because Wanderers' dual midfield suspensions prevent backing an outright away win while Recoleta's 1.47 goals-against average prevents an outright home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Despite a 2.80 season goal-based lambda total, two-legged playoff caution, Wanderers' missing midfield duo, and both sides' recent 1:1 results favor two goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Recoleta score 1.40 per game at home against a weakened midfield while conceding 1.47 per game to an attack regaining Marcos Camarda."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the independent Poisson matrix at 11.8% and fits playoff caution, while 2:1 reflects Recoleta's October home win over Wanderers."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals holds the top 23.8% Poisson bucket under knockout restraint, with three goals capturing the secondary 2:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Opening-leg caution favors a level half-time before either holding at 1:1 or tilting toward a late Recoleta breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:38:12 UTC"
+}
