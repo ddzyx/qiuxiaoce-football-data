@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649587,
+    "matchup": "Fajr Sepasi vs Chadormalu SC",
+    "home_team": "Fajr Sepasi",
+    "away_team": "Chadormalu SC",
+    "league": "Persian Gulf Pro League",
+    "kickoff_utc": "2026-11-20 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-fajr-sepasi-vs-chadormalu-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fajr Sepasi vs Chadormalu SC Prediction & Match Analysis: Can Rajabzadeh's Surge Break Akhbari's Block?",
+    "meta": {
+      "matchId": "1649587",
+      "league": "Persian Gulf Pro League",
+      "matchup": "Fajr Sepasi vs Chadormalu SC",
+      "matchTime": "2026-11-20 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fajr Sepasi are favored to avoid defeat via Home Win / Draw in a tight, low-scoring encounter at Pars Stadium where a 1:0 home breakthrough leads a 1:1 stalemate branch.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Pars Stadium advantage, Fajr Sepasi's four-match unbeaten revival under Mehdi Rajabzadeh, and Chadormalu SC captain Saeed Mohammadifard's season-ending knee injury (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by modest seasonal scoring outputs (1.09 vs 1.00 goals per match), a 2.26 combined Poisson lambda, and 60.7% Under 2.5 model density (Confidence: Moderate, Value: High)",
+      "1:1 draw branch driven by identical 17-point standings, five draws apiece this season, and Chadormalu's five-match unbeaten road resilience (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649587",
+      "league": "Persian Gulf Pro League",
+      "homeTeam": "Fajr Sepasi",
+      "awayTeam": "Chadormalu SC",
+      "match_time": "12:00",
+      "match_highlight": "Rajabzadeh's resurgent attack targets Chadormalu's flank without injured captain Mohammadifard.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649587,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers a narrow 1:0 Fajr Sepasi breakthrough exploiting Saeed Mohammadifard's absence alongside a 1:1 stalemate between two 17-point, five-draw rivals, where a single outcome alone would understate the 0.08 lambda parity."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.26 combined lambda, 60.7% Poisson Under 2.5 projection, and post-international-break caution from both managers point toward two goals or fewer."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson BTTS No (54.2%) aligns with Fajr's four early-season clean sheets and Chadormalu's reduced right-flank progression without captain Saeed Mohammadifard."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Fajr Sepasi's narrow home edge and clean-sheet ceiling, while 1:1 reflects the single highest-density Poisson scoreline (13.3%) if Chadormalu score on transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 Goals (26.6%) and 1 Goal (23.6%) lead the Poisson total-goals distribution and map cleanly onto the 1:1 and 1:0 projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious post-break opening halves favor a level interval before either a second-half Fajr Sepasi winner (Draw-Win) or a shared point at full-time (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:22:36 UTC"
+}
