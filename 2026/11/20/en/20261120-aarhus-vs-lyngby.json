@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1549058,
+    "matchup": "Aarhus vs Lyngby",
+    "home_team": "Aarhus",
+    "away_team": "Lyngby",
+    "league": "Superliga",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-aarhus-vs-lyngby/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Aarhus vs Lyngby: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1549058",
+      "league": "Superliga",
+      "matchup": "Aarhus vs Lyngby",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aarhus hold the clear home territorial and Elo edge over an injury-hit Lyngby backline, supporting a Home Win / Draw trajectory alongside Over 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Aarhus's 85.7% home unbeaten record against Lyngby's 85.7% away defeat rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by 3.14 combined expected goals and mutual centre-back absences (Confidence: Moderate, Value: High)",
+      "1:1 Draw / HT-FT Loss-Draw contingency driven by Aarhus's 71.4% big-chance waste and Colyn's return (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1549058",
+      "league": "Superliga",
+      "homeTeam": "Aarhus",
+      "awayTeam": "Lyngby",
+      "match_time": "18:00",
+      "match_highlight": "Aarhus home control meets returning Simon Colyn without Tingager or Garananga.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1549058,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 Aarhus home victory over Lyngby's leaky road defense and a 1:1 draw if Aarhus's finishing waste persists, as neither single call accounts for both strong scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.14 combined lambda, 3.33 combined season xG, 60.7% Poisson Over 2.5 probability, and 57.1% Over 2.5 rates for both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 62.3% Poisson BTTS expectancy, both teams losing starting centre-backs for the season, and Colyn returning to boost Lyngby's 1.77 xG attack."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Aarhus's home edge over a Garananga-less defense while conceding to Colyn, whereas 1:1 captures the 10.6% modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson goal counts (22.3% for three goals, 21.3% for two) and aligns directly with the 2:1 and 1:1 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Win-Win captures Lyngby trailing at HT and losing in 57.1% of away games, while Loss-Draw reflects Aarhus's 66.7% home deficit recovery and Lyngby's 75.0% lead erosion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 09:09:31 UTC"
+}
