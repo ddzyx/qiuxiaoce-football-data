@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606771,
+    "matchup": "Yokohama FC vs Consadole Sapporo",
+    "home_team": "Yokohama FC",
+    "away_team": "Consadole Sapporo",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-yokohama-fc-vs-consadole-sapporo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama FC vs Consadole Sapporo Prediction & Match Analysis: Can Mitsuzawa Attack Crack Sapporo's Block?",
+    "meta": {
+      "matchId": "1606771",
+      "league": "J2 League",
+      "matchup": "Yokohama FC vs Consadole Sapporo",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Yokohama FC's 71.4% home win rate and 100% home scoring consistency support a Home Win / Draw projection led by a 2:1 home victory in a both-teams-to-score contest.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw driven by Yokohama FC's 5W-1D-1L Mitsuzawa record and 69.7% combined Poisson home-or-draw share (Confidence: Moderate, Value: Moderate)",
+      "Scoring Volume & BTTS: Over 2.5 and BTTS: Yes backed by Yokohama's 7-for-7 home Over 2.5 streak and Sapporo's 88.9% away scoring rate (Confidence: Moderate, Value: High)",
+      "Containment Contingency: 1:1 draw script if returning captain Shota Nishino restores Sapporo's recent road compactness against a 28.6% home clean-sheet defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606771",
+      "league": "J2 League",
+      "homeTeam": "Yokohama FC",
+      "awayTeam": "Consadole Sapporo",
+      "match_time": "05:00",
+      "match_highlight": "Yokohama's 100% home Over 2.5 run meets Nishino-led Sapporo block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606771,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Yokohama FC's leading 2:1 Mitsuzawa victory script alongside the 1:1 draw hedge created by Sapporo's high road scoring floor and returning defensive captain, where a single win call leaves the 11.8% modal stalemate uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.80 combined goal lambda (53.1% Poisson Over 2.5), Yokohama FC's 7-for-7 home Over 2.5 record, and Sapporo's 88.9% away scoring consistency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear clean-sheet resistance: Yokohama owns a 0% home blank rate with just 28.6% home clean sheets, while Sapporo has scored in 16 of 17 league matches (56.1% Poisson BTTS)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Yokohama's home firepower and Sapporo's four single-goal road losses, while 1:1 captures the top Poisson density (11.8%) if Nishino tightens the back three."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 Over 2.5 projection (22.2% Poisson), while two goals covers the 23.8% modal Poisson bucket via a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sapporo's 55.6% away half-time draw rate points to a level interval before Yokohama's 73.7% second-half home goal share either forces a breakthrough (Draw-Win) or settles in a 1:1 stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:59:26 UTC"
+}
