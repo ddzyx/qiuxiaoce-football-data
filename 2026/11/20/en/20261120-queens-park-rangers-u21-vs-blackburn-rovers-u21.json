@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1627122,
+    "matchup": "Queens Park Rangers U21 vs Blackburn Rovers U21",
+    "home_team": "Queens Park Rangers U21",
+    "away_team": "Blackburn Rovers U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-queens-park-rangers-u21-vs-blackburn-rovers-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Queens Park Rangers U21 vs Blackburn Rovers U21 Tactical Breakdown: Can QPR Halt Rovers?",
+    "meta": {
+      "matchId": "1627122",
+      "league": "Premier League Cup",
+      "matchup": "Queens Park Rangers U21 vs Blackburn Rovers U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "A decisive result favoring Queens Park Rangers U21 or Blackburn Rovers U21 paired with Over 2.5 goals and Both Teams To Score aligns best with Group A scoring trends.",
+    "possibilityAssessment": [
+      "Home Win / Away Win captures QPR's home Group A urgency and November clean-sheet turnaround alongside Blackburn's three-match winning momentum (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes leverage QPR's eight-match scoring streak and Blackburn's four-game run of scoring 2+ goals without a clean sheet (Confidence: Moderate, Value: High)",
+      "Blackburn Away Win via an early first-half breakthrough mirrors their September 4-2 template if QPR's transition defense leaks early (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627122",
+      "league": "Premier League Cup",
+      "homeTeam": "Queens Park Rangers U21",
+      "awayTeam": "Blackburn Rovers U21",
+      "match_time": "19:00",
+      "match_highlight": "QPR's November clean-sheet turnaround meets Blackburn's three-match winning attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1627122,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Retains QPR's 2:1 home turnaround script and Blackburn's 1:2 winning-streak script because neither side has drawn in three prior H2H meetings and a single call understates the razor-thin 0.15 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Verified Group A matches for QPR have averaged 5.25 goals and Blackburn have hit 3+ total goals in four straight outings, outweighing the 2.25 baseline lambda."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "QPR have scored in eight straight autumn matches while Blackburn have scored 2+ and conceded in four consecutive verified fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:2"
+        ],
+        "comment": "Balances QPR's slight home statistical edge and second-half scoring surge against Blackburn's proven 2-1 road winning blueprint."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 2:1 and 1:2 Group A convergence, while two goals covers the tighter 2.25 lambda Poisson peak."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Loss"
+        ],
+        "comment": "Covers QPR's second-half acceleration after an even opening period alongside Blackburn's blueprint of striking before halftime and holding firm."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 15:42:34 UTC"
+}
