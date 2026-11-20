@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576018,
+    "matchup": "Penybont vs Haverfordwest County AFC",
+    "home_team": "Penybont",
+    "away_team": "Haverfordwest County AFC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-penybont-vs-haverfordwest-county-afc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Penybont vs Haverfordwest County AFC Match Analysis: Post-Pennock Void & Scoreline Preview",
+    "meta": {
+      "matchId": "1576018",
+      "league": "Premier League",
+      "matchup": "Penybont vs Haverfordwest County AFC",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Penybont are projected to secure a controlled home shutout victory over Haverfordwest County AFC under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Home Win driven by Penybont's 1.04-goal lambda edge, 40.0% clean-sheet rate, and +97.0 Elo advantage (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: No anchored by Haverfordwest's 0.75 goals-per-game output and 53.0% failed-to-score rate (Confidence: Moderate, Value: Moderate)",
+      "1:0 Tight Home Shutout if Haverfordwest execute a compact interim low block before tiring late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576018",
+      "league": "Premier League",
+      "homeTeam": "Penybont",
+      "awayTeam": "Haverfordwest County AFC",
+      "match_time": "19:45",
+      "match_highlight": "Penybont's 2.13 goals-per-game attack tests post-Pennock Haverfordwest's fragile backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576018,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Penybont's 2.13 goals-per-match attack and 0.73 conceded-per-match defense align with a 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.52 combined lambda driven mainly by Penybont against Haverfordwest's 0.75 scoring rate favors Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Haverfordwest's 53.0% failed-to-score rate meets Penybont's 40.0% clean-sheet rate and 56.5% BTTS: No baseline."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 reflects Penybont's two-goal home average and recent H2H shutouts, with 1:0 covering tight low-block resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals match the 25.5% Poisson modal peak, while one goal captures a cautious post-Pennock away containment script."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Penybont often lead by half-time as in August's 3-0 win, with Draw-Win covering a scoreless first-half low block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:45:32 UTC"
+}
