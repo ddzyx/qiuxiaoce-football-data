@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1642196,
+    "matchup": "Bengaluru vs Mumbai City",
+    "home_team": "Bengaluru",
+    "away_team": "Mumbai City",
+    "league": "Indian Super League",
+    "kickoff_utc": "2026-11-20 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-bengaluru-vs-mumbai-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bengaluru vs Mumbai City Tactical Breakdown & Probabilistic Modeling: Midfield Absences vs New-Coach Spark",
+    "meta": {
+      "matchId": "1642196",
+      "league": "Indian Super League",
+      "matchup": "Bengaluru vs Mumbai City",
+      "matchTime": "2026-11-20 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bengaluru's unbeaten home scoring efficiency and second-half depth tilt the matchup toward a home win with goals at both ends, though Suresh Singh Wangjam's absence warrants covering the draw.",
+    "possibilityAssessment": [
+      "Bengaluru Win / Draw backed by 2.00 goals per game and 0.0% big-chance waste vs winless Mumbai City (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes supported by 2.75 total lambda and 75.0% BTTS-Yes rates across both clubs' opening four matches (Confidence: Moderate, Value: Moderate)",
+      "Controlled 1:1 stalemate contingency if Ashvir Singh Johal's compact debut setup and Mumbai's four set-piece goals exploit Bengaluru's midfield reshuffle (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1642196",
+      "league": "Indian Super League",
+      "homeTeam": "Bengaluru",
+      "awayTeam": "Mumbai City",
+      "match_time": "14:00",
+      "match_highlight": "Bengaluru's second-half surge tests Ashvir Singh Johal's debut Mumbai City setup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1642196,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bengaluru's leading 2:1 home-win script and the 1:1 draw contingency rather than a single call given Suresh Singh Wangjam's absence and Mumbai City's coaching reset."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.75 total lambda, Bengaluru's 2.00 goals per match, and Mumbai City's 1.50 goals conceded per match tilt expectancy over 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides carry 25.0% clean-sheet rates across four league games, while Bengaluru's midfield injury and Mumbai's four set-piece goals sustain two-way scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Bengaluru's second-half quality overcoming a leaky Mumbai defense, while 1:1 covers a compact away debut under Johal."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 projection and 2.75 lambda, while 2 goals aligns with the 24.2% Poisson mode and 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Mumbai City's cautious early away structure points to a level interval before Bengaluru's late acceleration decides it or stalls into a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 02:14:18 UTC"
+}
