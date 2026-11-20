@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650505,
+    "matchup": "Racing Montevideo vs Central Espanol",
+    "home_team": "Racing Montevideo",
+    "away_team": "Central Espanol",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-racing-montevideo-vs-central-espanol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Racing Montevideo vs Central Espanol Prediction & Match Analysis: Semifinal Prep vs Survival Fight",
+    "meta": {
+      "matchId": "1650505",
+      "league": "Primera División",
+      "matchup": "Racing Montevideo vs Central Espanol",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project a controlled Racing Montevideo victory or low-scoring draw under 2.5 total goals at Estadio Osvaldo Roberto.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Racing Montevideo's 1.50 goal expectancy and compact tempo control (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Central Espanol's 0.64 goals-per-game output and 2.39 combined lambda (Confidence: Moderate, Value: High)",
+      "Draw-Draw half-time to full-time stalemate if Racing manage minutes before their Championship Semifinal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650505",
+      "league": "Primera División",
+      "homeTeam": "Racing Montevideo",
+      "awayTeam": "Central Espanol",
+      "match_time": "19:30",
+      "match_highlight": "Racing's home attack tests Central's low block amid semifinal rotation risk.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650505,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 1:0 Racing Montevideo home breakthrough and a 1:1 stalemate, as pre-semifinal caution prevents treating a single home win as an isolated certainty."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.39 combined lambda (57.2% Under 2.5 Poisson baseline) and Central Espanol's 0.64 goals-per-game Clausura scoring rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Central Espanol's 0.89 away goal expectancy and 58.9% scoring probability give Racing Montevideo a 41.1% clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two Poisson scorelines (13.7% and 12.2%), capturing both a tight home shutout and a contested draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.2%) and one goal (21.9%) represent the highest-density outcomes in the 2.39-lambda distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Three 2026 head-to-heads reached half-time level, projecting another tight opening half resolved either by a late Racing winner or a shared draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:09:21 UTC"
+}
