@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606768,
+    "matchup": "Blaublitz Akita vs Montedio Yamagata",
+    "home_team": "Blaublitz Akita",
+    "away_team": "Montedio Yamagata",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-blaublitz-akita-vs-montedio-yamagata/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Blaublitz Akita vs Montedio Yamagata Prediction & Match Analysis: Home Edge vs Road Drought — Preview",
+    "meta": {
+      "matchId": "1606768",
+      "league": "J2 League",
+      "matchup": "Blaublitz Akita vs Montedio Yamagata",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Blaublitz Akita's strong Soyu Stadium unbeaten record and Montedio Yamagata's road scoring drought support backing the hosts to avoid defeat in a low-scoring contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Akita's 88.9% home unbeaten rate and Yamagata's 50.0% away failed-to-score rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No supported by a 2.14 combined lambda and Yamagata's 70.6% season Under 2.5 rate (Confidence: High, Value: High)",
+      "Draw 1:1 hedge covering Akita's 33.3% home draw rate and Jun Okano's confirmed defensive absence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606768",
+      "league": "J2 League",
+      "homeTeam": "Blaublitz Akita",
+      "awayTeam": "Montedio Yamagata",
+      "match_time": "05:00",
+      "match_highlight": "Akita home resilience tests Yamagata's zero-goal first-half road attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606768,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win driven by Akita's 5W-3D-1L Soyu Stadium record alongside the 1:1 draw script given identical 1.06/1.08 season lambdas and Okano's absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.14 combined lambda, 63.9% Poisson Under 2.5 probability, and Yamagata's 70.6% season Under 2.5 rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Yamagata carry a 23.5% season BTTS rate and 50.0% away failed-to-score rate against Akita's 44.4% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Akita's tight home shutout edge over a toothless road attack, while 1:1 covers Yamagata exploiting Akita's post-Okano defensive gap."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.9% Poisson) and one goal (25.2% Poisson) represent the twin statistical peaks around the 2.14 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Yamagata's 62.5% away half-time draw rate and 0.0% first-half away goal share point to level intervals before Akita push late or settle for parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:48:10 UTC"
+}
