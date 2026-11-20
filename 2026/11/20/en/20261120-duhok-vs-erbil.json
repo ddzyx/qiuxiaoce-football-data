@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1628044,
+    "matchup": "Duhok vs Erbil",
+    "home_team": "Duhok",
+    "away_team": "Erbil",
+    "league": "Iraqi League",
+    "kickoff_utc": "2026-11-20 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261120-duhok-vs-erbil/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Duhok vs Erbil Tactical Breakdown & Probabilistic Modeling: Defensive Steel vs Home Firepower",
+    "meta": {
+      "matchId": "1628044",
+      "league": "Iraqi League",
+      "matchup": "Duhok vs Erbil",
+      "matchTime": "2026-11-20 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Erbil's 0.69 goals-conceded-per-game defensive floor and four-match derby winning streak anchor a Draw / Away Win projection in a low-scoring Northern Derby.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both Erbil's 38.9% statistical win lead and the 28.0% stalemate probability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.34 combined goal expectancy and 58.5% Poisson support (Confidence: Moderate, Value: High)",
+      "BTTS: No reflects Erbil's 52.6% model shutout edge and consecutive away clean sheets in Duhok (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1628044",
+      "league": "Iraqi League",
+      "homeTeam": "Duhok",
+      "awayTeam": "Erbil",
+      "match_time": "16:15",
+      "match_highlight": "Erbil's 0.69 GA/game defense faces Duhok's home attack after four 0:0 half-times.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1628044,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Erbil victory built on league-best defense and a 1:1 stalemate given Erbil's three recent league draws, avoiding an outright away call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy sits at 2.34 (58.5% Under 2.5) with Erbil conceding just 0.69 goals per league match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson BTTS leans No at 52.6%, backed by Erbil's 0.69 GA/game record and consecutive shutouts on their last two trips to Duhok."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Erbil's away defensive discipline and recent derby shutouts, while 1:1 covers the 13.2% modal Poisson branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.4%) and one goal (22.5%) represent the two highest-density totals in a compact 2.34 lambda_total profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Four consecutive league meetings stood 0:0 at half-time before Erbil struck late, positioning Draw-Loss ahead of Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 04:38:22 UTC"
+}
