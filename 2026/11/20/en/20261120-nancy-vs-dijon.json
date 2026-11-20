@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552535,
+    "matchup": "Nancy vs Dijon",
+    "home_team": "Nancy",
+    "away_team": "Dijon",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-nancy-vs-dijon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nancy vs Dijon Prediction & Match Analysis: Can Depleted Hosts Hold Dijon's xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1552535",
+      "league": "Ligue 2",
+      "matchup": "Nancy vs Dijon",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "With Nancy missing two regular defensive starters against Dijon's 1.86 xG road attack, the visitors are well positioned to avoid defeat in a high-probability BTTS contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Dijon's 5-of-6 away unbeaten record and Nancy's simultaneous loss of Fernandez-Veliz and Mendy (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals anchored on a 1:1 primary ceiling with 1:2 as the three-goal transition branch (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes driven by Dijon's 6-of-6 away scoring and conceding streak against a reorganized home defense (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552535",
+      "league": "Ligue 2",
+      "homeTeam": "Nancy",
+      "awayTeam": "Dijon",
+      "match_time": "19:00",
+      "match_highlight": "Depleted Nancy backline faces Dijon's 1.86 xG road attack",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552535,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate and the 1:2 away win branch, as a single Draw or Away Win call would miss the tight balance between Dijon's 1.98 xGA vulnerability and Nancy's missing defenders."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Nancy's 5-of-6 home Under 2.5 rate and 68.3% big-chance waste anchor expectations at 2 goals despite a live 3-goal secondary branch."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Dijon has scored and conceded in all 6 away league games while Nancy enters without both Fernandez-Veliz and Mendy."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects mutual penetration capped by Nancy's chance waste, while 1:2 captures late transition exposure for the hosts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson density peaks at 2 goals (24.2%) followed closely by 3 goals (22.2%) if second-half fatigue opens the match."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both teams record low first-half goal shares in tonight's venue roles before Dijon's late-game surge decides whether the draw holds or breaks."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:39:16 UTC"
+}
