@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1632066,
+    "matchup": "Deportivo Recoleta vs Club Guarani",
+    "home_team": "Deportivo Recoleta",
+    "away_team": "Club Guarani",
+    "league": "Division Profesional - Clausura",
+    "kickoff_utc": "2026-11-20 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-deportivo-recoleta-vs-club-guarani/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo Recoleta vs Club Guarani Prediction & Match Analysis: Can Guarani Overcome Captain Loss?",
+    "meta": {
+      "matchId": "1632066",
+      "league": "Division Profesional - Clausura",
+      "matchup": "Deportivo Recoleta vs Club Guarani",
+      "matchTime": "2026-11-20 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club Guarani are projected to avoid defeat in a Draw / Away Win trajectory, balancing their superior league defensive record against midfield absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Guarani's 0.89 GA/pg containment and 15-point table advantage tempered by midfield injuries (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS: Yes backed by Recoleta's 6-for-6 covered BTTS record and Guarani's missing central midfield shields (Confidence: Moderate, Value: Moderate)",
+      "2 to 3 total goals capturing both the 1:2 away breakthrough and 1:1 stalemate scenarios (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1632066",
+      "league": "Division Profesional - Clausura",
+      "homeTeam": "Deportivo Recoleta",
+      "awayTeam": "Club Guarani",
+      "match_time": "23:00",
+      "match_highlight": "Guarani test new midfield without injured captain against scoring-consistent Recoleta.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1632066,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 Guarani victory driven by their 0.89 GA/pg defense and the 1:1 draw path created by captain Luis Gilberto Martinez Soto's absence, where a single away call would understate midfield disruption."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Recoleta's 1.74 GA/pg defense and 83.3% covered Over 2.5 rate combine with Guarani's depleted midfield screen to push expected scoring past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Recoleta scored in all six covered Clausura matches while keeping zero clean sheets, supporting goals at both ends against an injury-hit Guarani midfield."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Guarani's class and rest advantage exploiting Recoleta's 1.74 GA/pg defense, while 1:1 reflects Recoleta's resilient recent draws."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Concentrates on the 2-to-3-goal corridor anchored by 1.00 and 1.43 goal-based lambdas and both clubs' 1.11 GF/pg averages."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half aligns with Recoleta's 30% first-half goal share before Guarani's freshness either forces a second-half winner or settles at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:46:23 UTC"
+}
