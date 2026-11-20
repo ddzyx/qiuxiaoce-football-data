@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570025,
+    "matchup": "FC Andorra vs Leganes",
+    "home_team": "FC Andorra",
+    "away_team": "Leganes",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-fc-andorra-vs-leganes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Andorra vs Leganes: Expected Goals, Defensive Suspensions & Preview",
+    "meta": {
+      "matchId": "1570025",
+      "league": "Segunda División",
+      "matchup": "FC Andorra vs Leganes",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Leganes are well positioned to avoid defeat at Estadi de la FAF, with a Draw / Away Win projection led by a 1:2 road victory in an Over 2.5 and BTTS Yes contest.",
+    "possibilityAssessment": [
+      "Primary 1X2 Call: Draw / Away Win led by Leganes Victory (Confidence: Moderate, Value: High)",
+      "Goal Expectancy & BTTS: Over 2.5 Goals & Both Teams To Score Yes (Confidence: Moderate, Value: High)",
+      "Stalemate Hedge: 1:1 Draw driven by mutual big-chance wastefulness (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570025",
+      "league": "Segunda División",
+      "homeTeam": "FC Andorra",
+      "awayTeam": "Leganes",
+      "match_time": "19:30",
+      "match_highlight": "Depleted Andorra defense faces Gharbi-led Leganes transitions at Estadi de la FAF.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1570025,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Leganes's 1:2 transition win against an Alende- and Owono-less Andorra backline and the 1:1 draw branch if Andorra's possession limits clear chances, where a single call would ignore Andorra's 1.63 xG home scoring floor."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 2.97 combined statistical lambda, Bet365's 1.80 Over 2.5 pricing, and both sides conceding over 1.7 goals per match with key defensive absences."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Andorra's 83.3% home scoring rate meets a 1.69 xGA Leganes defense, while Andorra's 15.4% clean-sheet rate and suspended spine invite Leganes's returning attackers onto the scoresheet."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Leganes exploiting Andorra's depleted defense after half-time, while 1:1 covers the 11.3% modal Poisson draw if high big-chance waste ratios cap scoring."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the top two Poisson total-goal densities (22.4% for 3 goals, 22.6% for 2 goals) centered around the 2.97 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Andorra's 61.9% possession keeps the opening 45 minutes level before either Leganes break through late as in recent H2H visits (Draw-Loss) or the match stays deadlocked (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 16:38:44 UTC"
+}
