@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555811,
+    "matchup": "Ehime FC vs FC Gifu",
+    "home_team": "Ehime FC",
+    "away_team": "FC Gifu",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-ehime-fc-vs-fc-gifu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ehime FC vs FC Gifu Prediction & Tactical Breakdown: Can Ishimaru's Defense Shut Down Tamura?",
+    "meta": {
+      "matchId": "1555811",
+      "league": "J3 League",
+      "matchup": "Ehime FC vs FC Gifu",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Gifu are projected to remain unbeaten at Ningineer Stadium (Draw / Away Win), with their 0.88 GA/g defense and superior inside-box finishing tilting a competitive, both-teams-scoring contest toward a 1:2 away win or 1:1 draw.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Draw / Away Win leaning toward FC Gifu's 43.8% Poisson win edge and 61% inside-box shot profile (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Thesis: Over 2.5 goals and BTTS Yes anchored by a 2.97 combined lambda and Ehime's zero clean sheets in five matches (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: An early Ehime set-piece or distance strike slows Gifu into a cagey 1:1 split rather than a late visitor winner (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555811",
+      "league": "J3 League",
+      "homeTeam": "Ehime FC",
+      "awayTeam": "FC Gifu",
+      "match_time": "05:00",
+      "match_highlight": "Gifu's 0.88 GA/g defense faces Ehime's 1.82 GF/g attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555811,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 away win driven by Gifu's box efficiency and the 1:1 draw script given Ehime's home scoring output and Gifu's recent 0:0 stalemate, whereas a single Away Win would ignore Gifu's 0.43 decayed scoring dip."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.97 combined lambda (57.0% Over 2.5 probability), Ehime's 3.35 average match goals across 17 rounds, and Gifu's 1.71 goals-per-game season output."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by a 59.4% BTTS baseline, Ehime's 31 league goals (74.1% scoring projection), and Ehime's zero clean sheets in their five-match sample against Gifu's 80.2% scoring projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Gifu's 1.62 lambda and superior box-finishing efficiency over Ehime's 1.53 GA/g defense, while 1:1 reflects the modal Poisson draw scenario if Gifu's recent low-scoring tempo holds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4% density) and 2 goals (22.6% density) bracket the 2.97 combined lambda and match the 1:2 and 1:1 scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Gifu recorded zero first-half goals and 66.7% half-time draws in their three-match league sample while 62.5% of Ehime's sample goals arrive after half-time, pointing to a level interval before a 1:2 away win or 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:57:08 UTC"
+}
