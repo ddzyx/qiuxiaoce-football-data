@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1559198,
+    "matchup": "Club Brugge II vs Excelsior Virton",
+    "home_team": "Club Brugge II",
+    "away_team": "Excelsior Virton",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-club-brugge-ii-vs-excelsior-virton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Club Brugge II vs Excelsior Virton: Defensive Fragility, Scoring Floors & Match Analysis",
+    "meta": {
+      "matchId": "1559198",
+      "league": "Challenger Pro League",
+      "matchup": "Club Brugge II vs Excelsior Virton",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and goal-expectancy differentials favor Excelsior Virton avoiding defeat against Club Brugge II in an open Challenger Pro League contest expected to clear 2.5 total goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate) — Dual-outcome coverage prioritizing an away victory (1:2) alongside a competitive stalemate (1:1) driven by Virton's superior attacking index and Club Brugge II's home scoring output.",
+      "Over 2.5 Goals & BTTS: Yes (Confidence: High, Value: Moderate) — Combined 3.45 lambda total and 75.0% venue BTTS rates support goals at both ends.",
+      "1:1 Tight-Tempo Stalemate (Confidence: Moderate, Value: Moderate) — Tactical compaction under Pedro Resende following the international break could hold total goals at two."
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559198",
+      "league": "Challenger Pro League",
+      "homeTeam": "Club Brugge II",
+      "awayTeam": "Excelsior Virton",
+      "match_time": "19:00",
+      "match_highlight": "Virton's 79.3 forward threat tests Club Brugge II's 2.33 GA/game defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559198,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains the 1:2 Excelsior Virton win alongside the 1:1 draw script because Virton hold clear attacking superiority while lacking a 2+ away margin and transitioning under a new coach."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.45 combined lambda total, 67.0% Poisson Over 2.5 probability, and Club Brugge II's 77.8% season Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Virton have scored in 100% of away league games against a host with zero home clean sheets, while Club Brugge II scored in 75% of home outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Both scorelines share the top 9.2% Poisson density, balancing Virton's single-goal road wins against Club Brugge II's home resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals lead the Poisson distribution at 21.7% (matching 1:2), with two goals (18.9%) capturing the secondary 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects high first-half draw rates for both sides (44.4% home, 50.0% away) before second-half divergence into either a 1:2 away win or 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 14:25:40 UTC"
+}
