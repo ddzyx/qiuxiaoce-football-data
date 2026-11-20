@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552536,
+    "matchup": "Nantes vs Grenoble",
+    "home_team": "Nantes",
+    "away_team": "Grenoble",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-nantes-vs-grenoble/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Nantes vs Grenoble: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552536",
+      "league": "Ligue 2",
+      "matchup": "Nantes vs Grenoble",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nantes Win or Draw is projected as the most balanced full-time outcome, led by Nantes' superior underlying xG balance while respecting home conversion volatility.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Nantes' 1.33 xG vs 0.97 xGA profile against Grenoble's 1.58 xGA defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 2.79 combined lambda, Grenoble's 66.7% away Over 2.5 rate, and mutual defensive absences (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) driven by 25.0% clean-sheet rates and key defensive absences on both sides (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552536",
+      "league": "Ligue 2",
+      "homeTeam": "Nantes",
+      "awayTeam": "Grenoble",
+      "match_time": "19:00",
+      "match_highlight": "Nantes' xG edge meets Grenoble counter-attacks amid mutual defensive absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552536,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Nantes victory driven by superior xG and Grenoble's defensive absences alongside the 1:1 stalemate branch caused by Nantes' 69.2% big-chance waste and home lead-erosion risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.79 combined lambda, Grenoble's 1.58 xGA/match and 66.7% away Over 2.5 frequency, plus verified defensive absences for both clubs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides hold 25.0% clean-sheet rates in Ligue 2 and miss regular defenders (Sow, Tati, Doucoure for Nantes; Vidal, Xantippe for Grenoble), aligning with a 56.3% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Nantes' +0.36 net xG edge breaking a depleted Grenoble defense while conceding on transition; 1:1 captures Nantes' home finishing waste and blown-lead trend."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 projection and 2.79 total lambda, while 2 goals holds the top Poisson density (23.9%) for the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects Nantes' 58.3% half-time draw rate and Grenoble's 0-for-4 record after half-time stalemates; Win-Draw covers Nantes' 100% home lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 14:10:01 UTC"
+}
