@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576016,
+    "matchup": "Flint Town United vs Cambrian & Clydach",
+    "home_team": "Flint Town United",
+    "away_team": "Cambrian & Clydach",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-flint-town-united-vs-cambrian-clydach/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Flint Town United vs Cambrian & Clydach Match Analysis & Preview: Can Flint Exploit a 2.56 GA Defense?",
+    "meta": {
+      "matchId": "1576016",
+      "league": "Premier League",
+      "matchup": "Flint Town United vs Cambrian & Clydach",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Flint Town United are projected to avoid defeat in an open, multi-goal contest where both sides clear the threshold to score.",
+    "possibilityAssessment": [
+      "Flint Town United Home Win / Draw driven by superior home goal expectancy and opponent defensive concession (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.54 combined lambda and porous defensive averages on both sides (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes supported by >80% Poisson scoring projections for each attack (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576016",
+      "league": "Premier League",
+      "homeTeam": "Flint Town United",
+      "awayTeam": "Cambrian & Clydach",
+      "match_time": "19:45",
+      "match_highlight": "Holmes' revived Silkmen attack tests Cambrian's leaky 2.56 goals-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576016,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A single Home Win is supported by Flint's 1.88 lambda and Cambrian's 2.56 goals-conceded rate, while Draw is formally retained to cover Liam Eason's scoring threat against Flint's 1.69 conceded average."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.54 combined lambda (68.6% Poisson Over 2.5) and two defenses allowing a combined 4.25 league goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks project above 80% scoring likelihood in Poisson modeling against defenses posting sub-20% clean-sheet projections."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Flint's home goal expectancy edge over Cambrian's porous defense, with 2:2 covering an open second-half equalizer."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.5%) and four (19.0%) goals represent the dual peaks of the 3.54 combined-lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a cagey opening half before Flint's fresher legs break Cambrian late, while Win-Draw covers an early home lead pegged back."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:38:16 UTC"
+}
