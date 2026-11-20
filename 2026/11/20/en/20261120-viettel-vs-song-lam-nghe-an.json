@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1633936,
+    "matchup": "Viettel vs Song Lam Nghe An",
+    "home_team": "Viettel",
+    "away_team": "Song Lam Nghe An",
+    "league": "V.League 1",
+    "kickoff_utc": "2026-11-20 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261120-viettel-vs-song-lam-nghe-an/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Viettel vs Song Lam Nghe An Tactical Breakdown & Probabilistic Modeling: Key Absences Test Unbeaten Run",
+    "meta": {
+      "matchId": "1633936",
+      "league": "V.League 1",
+      "matchup": "Viettel vs Song Lam Nghe An",
+      "matchTime": "2026-11-20 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Song Lam Nghe An's unbeaten V.League 1 structure should avoid defeat at Hang Day Stadium, with a Draw / Away Win stance balancing their league edge against key midfield and striker absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals led by 2-goal ceiling (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes via missing central shields (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1633936",
+      "league": "V.League 1",
+      "homeTeam": "Viettel",
+      "awayTeam": "Song Lam Nghe An",
+      "match_time": "12:15",
+      "match_highlight": "Onoja and Bruno absences test unbeaten SLNA against rested Viettel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1633936,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 stalemate driven by SLNA's missing spine and a 1:2 away win given SLNA's unbeaten 1.86 goals-per-game attack against Viettel's leaky defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bruno Pereira's injury trims SLNA's scoring ceiling while Viettel's 1.00 goal-per-game attack and 16.1-day reset favor a 2-goal ceiling."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Suspensions to Viettel defender Paulo Martins and SLNA midfielder Joseph Onoja weaken clean-sheet protection on both sides."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects SLNA's four league draws and missing striker, while 1:2 covers Luizao exploiting Viettel's suspended center-back."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the Poisson distribution at 24.4% with 3 goals at 22.1% if late defensive fatigue opens space."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A rested Viettel side can keep the first half level before either holding 1:1 or conceding a second-half winner to SLNA."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 00:37:57 UTC"
+}
