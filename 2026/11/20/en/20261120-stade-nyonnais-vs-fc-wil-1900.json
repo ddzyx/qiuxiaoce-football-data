@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555084,
+    "matchup": "Stade Nyonnais vs FC WIL 1900",
+    "home_team": "Stade Nyonnais",
+    "away_team": "FC WIL 1900",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-20 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-stade-nyonnais-vs-fc-wil-1900/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stade Nyonnais vs FC WIL 1900 Prediction & Tactical Breakdown: Can Wil Exploit Nyon's Leaky Defense?",
+    "meta": {
+      "matchId": "1555084",
+      "league": "Challenge League",
+      "matchup": "Stade Nyonnais vs FC WIL 1900",
+      "matchTime": "2026-11-20 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC WIL 1900's superior shot generation and Nyon's 2.62 goals-conceded rate support a Draw / Away Win trajectory alongside Over 2.5 Goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures FC WIL 1900's attacking edge and Nyon's home scoring resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes backed by 3.66 lambda_total and Nyon's 83.3% home BTTS rate (Confidence: High, Value: Moderate)",
+      "2:2 High-Scoring Draw branch if Nyon hold level at half-time against Wil's 0% HT-draw win rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555084",
+      "league": "Challenge League",
+      "homeTeam": "Stade Nyonnais",
+      "awayTeam": "FC WIL 1900",
+      "match_time": "18:30",
+      "match_highlight": "Wil's 15.57 shots per game test Nyon's 2.62 GA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555084,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Wil's higher attacking ceiling (1:2) and the live stalemate path (2:2), as Wil's 2.08 GA/match and 42.9% away draw rate keep a single away call too exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.66 lambda_total, 70.8% Poisson Over 2.5 expectancy, and Nyon's 84.6% season Over 2.5 frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Nyon scored in 5 of 6 home league outings while Wil own just 1 away clean sheet in 7 (14.3%) and Nyon allow 2.62 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 tops the Poisson matrix (8.9%) on Wil's shot edge, while 2:2 (6.9%) covers Wil's leaky away defense and draw frequency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.0%) and 4 goals (19.2%) lead the Poisson total-goals distribution around a 3.66 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss fits Nyon's 0% HT lead rate vs Wil's 100% HT lead hold rate, while Draw-Draw covers Wil's 100% away draw conversion when level at HT."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 11:42:17 UTC"
+}
