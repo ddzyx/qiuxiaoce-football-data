@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1565308,
+    "matchup": "FC Botosani vs FC Voluntari",
+    "home_team": "FC Botosani",
+    "away_team": "FC Voluntari",
+    "league": "Liga I",
+    "kickoff_utc": "2026-11-20 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-fc-botosani-vs-fc-voluntari/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Botosani vs FC Voluntari Prediction & Match Analysis: Home Edge vs Road Collapse — Scoreline Preview",
+    "meta": {
+      "matchId": "1565308",
+      "league": "Liga I",
+      "matchup": "FC Botosani vs FC Voluntari",
+      "matchTime": "2026-11-20 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Botosani's 85.7% home unbeaten record against FC Voluntari's winless road defense supports a Home Win / Draw projection led by a 2:1 victory.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by FC Botosani capitalizes on Voluntari's seven away losses while covering Botosani's 42.9% home draw rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes driven by a 2.91 combined lambda, Voluntari's 100% away Over 2.5 rate, and scoring in five straight games (Confidence: Moderate, Value: Moderate)",
+      "1:1 Stalemate Variance if Botosani's 67.4% big-chance waste rate stalls home conversion against Voluntari's set-piece threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565308",
+      "league": "Liga I",
+      "homeTeam": "FC Botosani",
+      "awayTeam": "FC Voluntari",
+      "match_time": "15:30",
+      "match_highlight": "Botosani's home resilience tests Voluntari's winless road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565308,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Built around a 2:1 home win against Voluntari's 0-0-7 away record, retaining the 1:1 draw branch because Botosani has drawn 42.9% at home and gone five matches winless."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.91 combined goal lambda, 55.6% Poisson Over 2.5 probability, and Voluntari hitting Over 2.5 in all seven away Liga I matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 56.9% Poisson BTTS probability, Voluntari scoring in 71.4% of away matches with zero road clean sheets, and Botosani conceding in four straight games."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Botosani's 1.74 home lambda against Voluntari's 2.20 GA/match and recent 2:1 road losses, with 1:1 covering home finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 script and 2.91 total lambda, while 2 goals aligns with the highest-density 1:1 draw alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win targets Voluntari's 85.7% away half-time trailing rate, while Draw-Draw covers Botosani's 53.3% overall half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 03:46:00 UTC"
+}
