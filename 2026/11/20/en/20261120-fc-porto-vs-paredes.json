@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647583,
+    "matchup": "FC Porto vs Paredes",
+    "home_team": "FC Porto",
+    "away_team": "Paredes",
+    "league": "Taça de Portugal",
+    "kickoff_utc": "2026-11-20 20:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-fc-porto-vs-paredes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Porto vs Paredes Tactical Breakdown & Probabilistic Modeling: Division Gap vs Cup Rotation",
+    "meta": {
+      "matchId": "1647583",
+      "league": "Taça de Portugal",
+      "matchup": "FC Porto vs Paredes",
+      "matchTime": "2026-11-20 20:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Porto are projected to earn a controlled regulation-time home win with a clean sheet against Liga 3 visitors Paredes.",
+    "possibilityAssessment": [
+      "Home Win driven by Porto's 11-0-0 domestic form and clean-sheet resilience at Estádio do Dragão (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by expected host cup rotation and Paredes' compact low-block resistance (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No supported by Porto's 0.45 league goals-conceded rate against third-tier attacking volume (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647583",
+      "league": "Taça de Portugal",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Paredes",
+      "match_time": "20:45",
+      "match_highlight": "Unbeaten Porto host Liga 3 leaders Paredes amid cup rotation questions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647583,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Superior top-flight depth and a five-match winning streak point to a controlled 2:0 or 3:0 home win over third-tier Paredes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 total-goal baseline, cup rotation ahead of European play, and a deep Paredes block favor a 2:0 finish under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Porto's 0.45 league goals-conceded rate and 54.6% Poisson BTTS-No anchor strongly restrict Paredes' away scoring floor."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 reflects disciplined cup control over a stubborn low block, while 3:0 captures late separation if Porto's bench converts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Exact counts of 2 and 3 goals align with the 26.7% and 20.0% modal distribution around a controlled home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Porto's home intensity favors leading at both intervals, with Draw-Win covering early patience against a fresh Liga 3 block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:27:56 UTC"
+}
