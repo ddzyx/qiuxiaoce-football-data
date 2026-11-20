@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1616168,
+    "matchup": "Anaza vs Marino",
+    "home_team": "Anaza",
+    "away_team": "Marino",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-20 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-anaza-vs-marino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Anaza vs Marino Tactical Breakdown & Match Analysis: Defensive Fragility vs Road Control",
+    "meta": {
+      "matchId": "1616168",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Anaza vs Marino",
+      "matchTime": "2026-11-20 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Statistical goal-expectancy lambdas (1.00 vs 1.77) and an 11-round +17 goal-difference gap favour Marino to avoid defeat in a competitive contest where both attacks project to score.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Marino's 1.64 goals-per-match attack against Anaza's 1.91 conceded rate, with Draw retained for Marino's three-match November stalemate run (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes driven by a 2.77 lambda total and Anaza scoring in four of five documented home matches (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency if Marino's recent two-goals-in-three-matches slowdown continues against Anaza's compact home setup (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616168",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Anaza",
+      "awayTeam": "Marino",
+      "match_time": "21:00",
+      "match_highlight": "Marino's 1.64 goals/game tests Anaza's leaky 1.91 conceded/game home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616168,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Marino's leading 1:2 road victory alongside the 1:1 draw script because Marino's three consecutive November draws prevent dismissing a home stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.77 combined goal lambda (52.3% Over 2.5) and Anaza conceding 21 goals across 11 rounds."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides carry >52% combined Poisson BTTS expectancy as Anaza score regularly at home while leaking 1.91 per game against Marino's 1.64 scoring pace."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Marino's superior attacking depth overcoming an early home challenge, while 1:1 covers Marino's recent November draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 1:2 Over 2.5 expectation, with 2 goals covering the 24.0% Poisson modal bucket via a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight, level first half at La Bombonera before Marino either break through after the interval (1:2) or are held to a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:34:31 UTC"
+}
