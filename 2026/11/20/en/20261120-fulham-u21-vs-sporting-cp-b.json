@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1623287,
+    "matchup": "Fulham U21 vs Sporting CP B",
+    "home_team": "Fulham U21",
+    "away_team": "Sporting CP B",
+    "league": "Premier League International Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-fulham-u21-vs-sporting-cp-b/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fulham U21 vs Sporting CP B Tactical Breakdown & Match Analysis: Away Cohesion vs Home Fragility",
+    "meta": {
+      "matchId": "1623287",
+      "league": "Premier League International Cup",
+      "matchup": "Fulham U21 vs Sporting CP B",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Probabilistic modeling and form divergence favor Sporting CP B avoiding defeat at Motspur Park, with a 1:2 away win leading a 1:1 draw alternative.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Sporting CP B's superior recent form and set-piece edge against Fulham U21's defensive concession rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes driven by Fulham U21's five-match scoring and conceding streak alongside Sporting CP B's 4:2 PLIC away opener (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals / 1:1 Draw Scenario if Motspur Park familiarity tightens Fulham U21's spacing against Sporting CP B's senior-tier defense (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1623287",
+      "league": "Premier League International Cup",
+      "homeTeam": "Fulham U21",
+      "awayTeam": "Sporting CP B",
+      "match_time": "19:00",
+      "match_highlight": "Sporting CP B's set-piece edge tests Fulham U21's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1623287,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sporting CP B winning 1:2 via superior cohesion and set pieces while retaining the 1:1 draw because Fulham scores consistently at home and XIs are unconfirmed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Fulham U21 cleared 2.5 goals in five straight games and Sporting CP B opened its PLIC campaign with a 4:2 away win."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Fulham U21 scored in five straight outings without a clean sheet, meeting a Sporting CP B attack averaging 2.13 decayed goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Sporting CP B's second-half and dead-ball edge over Fulham's home scoring floor, while 1:1 covers a tighter defensive stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Recent 5-match goal volume pushes expectation toward 3 goals (1:2), with 2 goals (1:1) serving as the Poisson modal fallback."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive, level first half at Motspur Park precedes either Sporting CP B's second-half surge or a 1:1 deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 15:08:12 UTC"
+}
