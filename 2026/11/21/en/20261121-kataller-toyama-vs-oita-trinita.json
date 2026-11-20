@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606770,
+    "matchup": "Kataller Toyama vs Oita Trinita",
+    "home_team": "Kataller Toyama",
+    "away_team": "Oita Trinita",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kataller-toyama-vs-oita-trinita/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kataller Toyama vs Oita Trinita Tactical Breakdown & Probabilistic Modeling: Home Draws vs Road Drought",
+    "meta": {
+      "matchId": "1606770",
+      "league": "J2 League",
+      "matchup": "Kataller Toyama vs Oita Trinita",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kataller Toyama holds the decisive attacking and personnel edge over suspension-hit Oita Trinita, supporting a Home Win or Draw projection led by a 2:0 shutout script.",
+    "possibilityAssessment": [
+      "Primary Thesis: Kataller Toyama Home Win or Draw built on 1.82 goals per match against an Oita squad missing Koya Hayashida and Matheus Pereira, balanced by Toyama's four home draws (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals driven by Oita's six Under 2.5 results in eight away trips and Toyama's five Under 2.5 outcomes in nine home matches (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 Draw transition scenario should Oita's Shinya Utsumoto exploit spaces behind a Fukazawa-less home back line (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606770",
+      "league": "J2 League",
+      "homeTeam": "Kataller Toyama",
+      "awayTeam": "Oita Trinita",
+      "match_time": "05:00",
+      "match_highlight": "Toyama's late surge tests Hayashida-less Oita after 1:6 collapse",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606770,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:0 home breakthrough against depleted Oita and the 1:1 road-containment script, as Toyama's 2W-4D-3L home record makes a single win call overly narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Oita has stayed Under 2.5 in 6 of 8 away matches without Shuto Udo, while 5 of Toyama's 9 home games ended Under 2.5 around a 2.62 total lambda."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Oita failed to score in 5 of 8 away league fixtures (62.5%) and misses forward Shuto Udo, lowering their away scoring floor against Toyama's 1.06 GA/match."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Toyama's second-half firepower against an Oita backline missing Pereira and Hayashida, while 1:1 covers Toyama's high home draw rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson outcome (25.0%) matching both 2:0 and 1:1, with 3 goals (21.8%) covering an early-opening 2:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Toyama scores 67.7% of goals after half-time and Oita drew at the break in 5 of 8 away games, pointing to a level interval before decisive second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:55:41 UTC"
+}
