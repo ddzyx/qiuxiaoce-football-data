@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576017,
+    "matchup": "Llandudno vs Barry Town",
+    "home_team": "Llandudno",
+    "away_team": "Barry Town",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-llandudno-vs-barry-town/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Llandudno vs Barry Town Prediction & Match Analysis: Away Firepower vs Home Slump — Scoreline Preview",
+    "meta": {
+      "matchId": "1576017",
+      "league": "Premier League",
+      "matchup": "Llandudno vs Barry Town",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barry Town's 2.19 goals-per-game attack and Llandudno's seven-match league losing run make an Away Win the leading direction, paired with Over 2.5 goals and BTTS Yes while retaining the Draw due to Barry's 2.00 away goals conceded per match.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Leading outcome: Away Win; Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes supported by 3.59 lambda_total and 1.81 goals conceded per game by each side (Confidence: Moderate, Value: High)",
+      "Exact Total Goals 3 or 4 covering a 1:2 away victory or open 2:2 draw (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576017",
+      "league": "Premier League",
+      "homeTeam": "Llandudno",
+      "awayTeam": "Barry Town",
+      "match_time": "19:45",
+      "match_highlight": "Barry Town's 2.19 goal average tests Llandudno's seven-game league skid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576017,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Barry Town lead on 29 points vs 16 and beat Llandudno 4:1 in September for a 1:2 win, while Barry's 2.00 away goals conceded per match and recent 3:3 draw require retaining the Draw alongside the Away Win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.59 statistical lambda_total (69.5% Over 2.5 Poisson baseline) and 1.81 goals conceded per league match by both teams strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Barry Town have conceded 16 goals in eight away league matches while scoring 2.19 per game overall, yielding a 68.8% Poisson BTTS Yes expectation."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 (8.8% Poisson density) reflects Barry's attacking superiority over Llandudno's conceding rate, while 2:2 (7.0%) captures an open draw if Barry's away defense leaks again."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.3%) and four goals (19.1%) represent the top two Poisson total-goal buckets under a 3.59 lambda_total expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Llandudno can compete through a level first half at Maesdu Park before either Barry's superior second-half firepower secures 1:2 (Draw-Loss) or traded goals settle 2:2 (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:41:38 UTC"
+}
