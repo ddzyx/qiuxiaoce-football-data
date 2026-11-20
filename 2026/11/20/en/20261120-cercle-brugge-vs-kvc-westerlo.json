@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558682,
+    "matchup": "Cercle Brugge vs KVC Westerlo",
+    "home_team": "Cercle Brugge",
+    "away_team": "KVC Westerlo",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-cercle-brugge-vs-kvc-westerlo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Cercle Brugge vs KVC Westerlo: Expected Goals (xG), Defensive Fragility & Preview",
+    "meta": {
+      "matchId": "1558682",
+      "league": "Jupiler Pro League",
+      "matchup": "Cercle Brugge vs KVC Westerlo",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects an open, decisive contest (Home Win / Away Win) led narrowly by KVC Westerlo alongside Over 2.5 goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Decisive full-time winner driven by 4.18 combined lambda and zero away draws for Westerlo (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS: Yes backed by identical 1.77 xGA/match defensive concessions (Confidence: High, Value: High)",
+      "Cercle Brugge second-half press surge (Draw-Win / 2:1) exploiting visiting defensive fragility (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558682",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Cercle Brugge",
+      "awayTeam": "KVC Westerlo",
+      "match_time": "19:45",
+      "match_highlight": "High-pressing Cercle test Westerlo's leaky defense in an open 4.18-lambda clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558682,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Covers both Westerlo's 1:2 clinical finishing edge and Cercle's 2:1 high-press upset route because a 20.1% draw projection and zero away draws for Westerlo make a single call unnecessarily exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.18 combined lambda (78.7% Over 2.5 density), identical 1.77 xGA/match rates, and Westerlo clearing 2.5 goals in 10 of 11 league matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Driven by >86% single-side scoring expectations, Cercle's zero home clean sheets in five matches, and Westerlo conceding 2.73 goals per league outing."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:1"
+        ],
+        "comment": "1:2 reflects Westerlo's superior 62.5 FW-OTI finishing against Cercle's porous home defense, while 2:1 covers Cercle's 1.66 xG/match pressing threat against Westerlo's road leaks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the modal Poisson cluster around 4.18 lambda, balancing 1:2/2:1 core scripts with open transition upside."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Win"
+        ],
+        "comment": "Loss-Loss captures Westerlo's 55.6% first-half away goal share against Cercle's zero recoveries from half-time deficits, while Draw-Win covers Cercle's late second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:17:04 UTC"
+}
