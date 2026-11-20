@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601153,
+    "matchup": "Terengganu vs DPMM FC Brunei",
+    "home_team": "Terengganu",
+    "away_team": "DPMM FC Brunei",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-20 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-terengganu-vs-dpmm-fc-brunei/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Terengganu vs DPMM FC Brunei Tactical Breakdown: Suspended Attack Threatens Home Stability",
+    "meta": {
+      "matchId": "1601153",
+      "league": "Super League",
+      "matchup": "Terengganu vs DPMM FC Brunei",
+      "matchTime": "2026-11-20 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Model and personnel evidence favour a DPMM FC Brunei away victory in regulation time, anchored by a disciplined 0:2 projection over a 1:2 alternative.",
+    "possibilityAssessment": [
+      "Away Win (DPMM FC Brunei) driven by 1.50 goals/game output and Terengganu's two suspended forwards (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals anchored by lambda_total 2.5 and Terengganu's depleted finishing floor (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Contingency if Terengganu contain transition space and exploit DPMM's 1.33 goals-conceded rate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601153",
+      "league": "Super League",
+      "homeTeam": "Terengganu",
+      "awayTeam": "DPMM FC Brunei",
+      "match_time": "13:00",
+      "match_highlight": "Suspended Terengganu attack faces clinical DPMM transition counter at Gong Badak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601153,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by a 0:2 primary scoreline and 1:2 secondary projection as DPMM's 1.50 goals-per-game attack faces a Terengganu side missing suspended forwards Romel Morales and Gervane Kastaneer."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson lambda_total of 2.5 (54.4% Under 2.5 baseline) combines with Terengganu's 0.67 goals-per-game average and forward suspensions to suppress total scoring."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Terengganu have failed to score in four of six Super League matches and lose Morales and Kastaneer to suspension, reinforcing the 50.9% baseline edge for BTTS No."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "0:2 reflects a home shutout against DPMM's clinical counters, while 1:2 captures the secondary branch if Terengganu score once against a 1.33 goals-conceded defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Matches the two highest Poisson goal-count probabilities (25.7% for 2 goals, 21.4% for 3 goals) and aligns directly with the 0:2 and 1:2 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "DPMM frequently break games open after level intervals (including 1:1 HT to 3:1 FT at this venue in September), with Loss-Loss covering an early away strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:30:54 UTC"
+}
