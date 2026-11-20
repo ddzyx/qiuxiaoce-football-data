@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555812,
+    "matchup": "Gainare Tottori vs Parceiro Nagano",
+    "home_team": "Gainare Tottori",
+    "away_team": "Parceiro Nagano",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-gainare-tottori-vs-parceiro-nagano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gainare Tottori vs Parceiro Nagano Prediction & Match Analysis: Can Home Set Pieces Halt Nagano's Run?",
+    "meta": {
+      "matchId": "1555812",
+      "league": "J3 League",
+      "matchup": "Gainare Tottori vs Parceiro Nagano",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Parceiro Nagano are projected to secure at least a point via Draw / Away Win in an Under 2.5 J3 League contest at Axis Bird Stadium.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Parceiro Nagano's superior goal balance and road organization (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored by Tottori's five straight home league Unders and cold-weather friction (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No reflecting Tottori failing to score in four of five recent J3 home outings (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555812",
+      "league": "J3 League",
+      "homeTeam": "Gainare Tottori",
+      "awayTeam": "Parceiro Nagano",
+      "match_time": "05:00",
+      "match_highlight": "Tottori's five-match home scoring drought meets Nagano's structured J3 charge.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555812,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains the 0:1 Nagano away-win thesis alongside the 1:1 draw script because a 0.41 lambda gap and Tottori's set-piece threat keep a single Away Win call exposed to a dead-ball share."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Despite a 2.71 seasonal lambda total, Tottori's five consecutive Under 2.5 J3 home matches and Nagano's three straight Under 2.5 games favor a controlled low-scoring battle."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Tottori failed to score in four of their last five J3 home fixtures while Nagano posted clean sheets in two of their last three league games, supporting a visitor shutout."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 captures Nagano's clinical road pattern and Tottori's recurring 0:1 home defeats, while 1:1 covers the top Poisson density if Tottori convert a set piece."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (24.4%) and one goal (18.0%) represent the leading Under 2.5 Poisson bins matching the 1:1 and 0:1 projected scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tottori's 18.2% first-half goal share points to a level interval before Nagano press for a second-half winner (Draw-Loss) or settle for a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:01:14 UTC"
+}
