@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1571224,
+    "matchup": "Villarreal II vs Gimnastic",
+    "home_team": "Villarreal II",
+    "away_team": "Gimnastic",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-20 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-villarreal-ii-vs-gimnastic/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Villarreal II vs Gimnastic Match Analysis & Tactical Breakdown: Suspended Spine vs Home Firepower",
+    "meta": {
+      "matchId": "1571224",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Villarreal II vs Gimnastic",
+      "matchTime": "2026-11-20 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Villarreal II are projected to secure a Home Win in regulation time as their 2.17 goals-per-game attack exploits a winless-away Gimnastic side.",
+    "possibilityAssessment": [
+      "Home Win behind Villarreal II's restored attacking depth and territorial pressure (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes driven by 3.12 combined lambda and mutual defensive concessions (Confidence: Moderate, Value: Moderate)",
+      "Win-Draw Half-Time/Full-Time hedge reflecting Villarreal II's recent three-match drawing run (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571224",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Villarreal II",
+      "awayTeam": "Gimnastic",
+      "match_time": "20:00",
+      "match_highlight": "Returning Villarreal II trio tests Gimnastic defense missing two suspended starters.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571224,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored on a 2:1 home projection where Villarreal II's superior scoring output (2.17 per game) overcomes Gimnastic's depleted central spine."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.12 combined goal lambda, 60.3% Poisson Over 2.5 probability, and five of Villarreal II's last seven games clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 60.8% Poisson BTTS expectancy as Villarreal II average 1.25 conceded per game and kept one clean sheet in their last seven outings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Primary 2:1 reflects home attacking dominance with typical defensive leakage, while 2:0 covers Gimnastic's occasional road shutout risk."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two modes of the Poisson total-goals distribution at 22.4% for 3 goals and 21.5% for 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Villarreal II's early tempo targets a first-half lead, while Win-Draw accounts for their recent pattern of late equalizers."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:12:10 UTC"
+}
