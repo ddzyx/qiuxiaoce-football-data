@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555086,
+    "matchup": "Yverdon Sport vs FC Winterthur",
+    "home_team": "Yverdon Sport",
+    "away_team": "FC Winterthur",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-20 19:15:00",
+    "source_url": "https://xgmind.com/matches/20261120-yverdon-sport-vs-fc-winterthur/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yverdon Sport vs FC Winterthur Tactical Breakdown & Probabilistic Modeling: Home Edge vs Top Attack",
+    "meta": {
+      "matchId": "1555086",
+      "league": "Challenge League",
+      "matchup": "Yverdon Sport vs FC Winterthur",
+      "matchTime": "2026-11-20 19:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back FC Winterthur to avoid defeat at Stade Municipal, with a 1:2 away victory leading and a 1:1 draw retained for Yverdon Sport's unbeaten home spine.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Winterthur's 2.15 goals-per-game firepower and Yverdon's unbeaten home draw tendency (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by a 3.00 combined lambda and Winterthur's 69.2% season Over 2.5 rate (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) backed by a 60.1% Poisson rate and Yverdon's 71.4% home BTTS frequency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555086",
+      "league": "Challenge League",
+      "homeTeam": "Yverdon Sport",
+      "awayTeam": "FC Winterthur",
+      "match_time": "19:15",
+      "match_highlight": "Unbeaten home hosts face Winterthur's top attack without suspended Varol Tasar.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555086,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Winterthur victory driven by 2.15 goals per game and the 1:1 draw reflecting Yverdon's 3W-4D-0L home record, as a single away call underweights four home stalemates."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda, 57.7% Poisson Over 2.5 expectancy, and Winterthur's 69.2% Over 2.5 rate favor at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "High single-side scoring expectations (75.1% home, 80.0% away) and Yverdon's 71.4% home BTTS rate support both teams scoring."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Winterthur's superior finishing edge and Tasar's absence, while 1:1 anchors the highest modal Poisson scoreline for Yverdon's home resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals tie at 22.4% apiece in the Poisson matrix, matching the 1:2 and 1:1 game-state branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Yverdon have never trailed at half-time this season, pointing to a level interval before Winterthur either break through late (Draw-Loss) or share the points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 16:12:35 UTC"
+}
