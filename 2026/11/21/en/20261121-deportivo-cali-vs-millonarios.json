@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650174,
+    "matchup": "Deportivo Cali vs Millonarios",
+    "home_team": "Deportivo Cali",
+    "away_team": "Millonarios",
+    "league": "Primera A",
+    "kickoff_utc": "2026-11-21 01:40:00",
+    "source_url": "https://xgmind.com/matches/20261121-deportivo-cali-vs-millonarios/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo Cali vs Millonarios Tactical Breakdown & Probabilistic Modeling: Palmaseca Wall vs Ruiz Void",
+    "meta": {
+      "matchId": "1650174",
+      "league": "Primera A",
+      "matchup": "Deportivo Cali vs Millonarios",
+      "matchTime": "2026-11-21 01:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Cali's undefeated Palmaseca regular-season defense and full-strength spine hold the primary edge against a Millonarios side missing injured Daniel Ruiz, while high H2H and season draw frequency supports retaining Home Win / Draw alongside Under 2.5 and BTTS No.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Deportivo Cali's 0.63 regular-season goals-conceded rate, Pedro Gallese's return, and three consecutive H2H draws (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by Cali's 47.4% clean-sheet rate, Millonarios' 73.3% big-chance waste rate, and Quadrangular Matchday 1 caution (Confidence: Moderate, Value: High)",
+      "Exact stalemate contingency driven by Leonardo Castro and Sergio Mosquera returning from suspension under strict referee Bismarks Santiago (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650174",
+      "league": "Primera A",
+      "homeTeam": "Deportivo Cali",
+      "awayTeam": "Millonarios",
+      "match_time": "01:40",
+      "match_highlight": "Undefeated Palmaseca defense faces Ruiz-less Millonarios in tight opener.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650174,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Deportivo Cali home victory driven by defensive solidity and a 1:1 draw reflecting three straight H2H stalemates, as Millonarios' returning suspension duo makes a single Home Win slightly riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs averaged roughly 2.1–2.3 total goals per regular-season match, while Cali's 47.4% clean-sheet rate and Millonarios' Daniel Ruiz absence suppress scoring ceiling."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Deportivo Cali conceded just 12 goals in 19 regular-season games and restore Pedro Gallese against a Millonarios attack missing Daniel Ruiz with a 73.3% big-chance waste rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances Cali's home shutout efficiency against Millonarios' three-match H2H draw run and Leonardo Castro's return."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Bridged Poisson expectancy (~2.10 goals) peaks at 2 goals (27%) closely followed by 1 goal (26%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "High-foul officiating and Matchday 1 caution point to a level half-time before either a late Cali breakthrough or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:05:53 UTC"
+}
