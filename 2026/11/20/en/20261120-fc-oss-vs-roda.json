@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551894,
+    "matchup": "FC OSS vs Roda",
+    "home_team": "FC OSS",
+    "away_team": "Roda",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-fc-oss-vs-roda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC OSS vs Roda Tactical Breakdown & Probabilistic Modeling: Home Fortress vs Road Surge",
+    "meta": {
+      "matchId": "1551894",
+      "league": "Eerste Divisie",
+      "matchup": "FC OSS vs Roda",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Home Win / Draw is supported in an open, mutual-scoring contest featuring Over 2.5 goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw: FC OSS leverages a 4W-2D-1L home record and 2.43 home goals per game to secure a 2:1 win or 1:1 draw against Roda's 1.50 away goals conceded (Confidence: Moderate, Value: High)",
+      "Over 2.5 & BTTS Yes: Venue-adjusted 2.90 total goal expectancy and six of seven FC OSS home games clearing 2.5 with both teams scoring (Confidence: High, Value: Moderate)",
+      "2 Total Goals (1:1 Draw): Roda's 49.8% possession and 75.0% away half-time recovery rate force a second-half equalizer in a tighter finish (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551894",
+      "league": "Eerste Divisie",
+      "homeTeam": "FC OSS",
+      "awayTeam": "Roda",
+      "match_time": "19:00",
+      "match_highlight": "FC OSS's 71.4% home HT lead rate tests Roda's road defense.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1551894,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers FC OSS's 2:1 home-fortress script (4W-2D-1L, 2.43 home GF) and the 1:1 draw branch driven by Roda's 75% away HT recovery rate, whereas a single call would ignore either home dominance or road resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Blended 2.90 goal expectancy and FC OSS's 85.7% home Over 2.5 rate outweigh Roda's tighter overall numbers against a host conceding 20.0 shots per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "FC OSS has scored in 100% of home matches while keeping only 14.3% home clean sheets against Roda's 9-goal striker Anthony van den Hurk."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects FC OSS's 2.43 home goals/game against Roda's 1.50 away GA/game, while 1:1 covers Roda's second-half equalizer path."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2:1 primary projection and 2.90 total lambda, with 2 goals capturing a controlled 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "FC OSS leads at half-time in 71.4% of home games while Roda trails in 50.0% away, creating a second-half fork between holding 2:1 and conceding a 1:1 equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:17:48 UTC"
+}
