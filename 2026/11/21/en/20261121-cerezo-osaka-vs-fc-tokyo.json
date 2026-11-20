@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556141,
+    "matchup": "Cerezo Osaka vs FC Tokyo",
+    "home_team": "Cerezo Osaka",
+    "away_team": "FC Tokyo",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-cerezo-osaka-vs-fc-tokyo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cerezo Osaka vs FC Tokyo Prediction & Match Analysis: Can Depleted Hosts Crack 9-Game Shutout?",
+    "meta": {
+      "matchId": "1556141",
+      "league": "J1 League",
+      "matchup": "Cerezo Osaka vs FC Tokyo",
+      "matchTime": "2026-11-21 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Tokyo projects to extend its nine-match J1 League clean-sheet streak and secure an Away Win against a Cerezo Osaka attack missing suspended duo Lucas Fernandes and Pablo Sabbag.",
+    "possibilityAssessment": [
+      "FC Tokyo Away Win via 2.12 xG/match firepower and +192h rest edge (Confidence: High, Value: High)",
+      "Under 2.5 Goals & BTTS: No anchored by FC Tokyo's 78.6% clean-sheet rate and Cerezo suspensions (Confidence: Moderate, Value: High)",
+      "Controlled 0:1 late breakthrough if Cerezo's 4-4-2 home block resists past half-time (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556141",
+      "league": "J1 League",
+      "homeTeam": "Cerezo Osaka",
+      "awayTeam": "FC Tokyo",
+      "match_time": "06:00",
+      "match_highlight": "FC Tokyo chases record 10th straight clean sheet against suspended-hit Cerezo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556141,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "FC Tokyo's 2.12 xG/match, 14-day rest, and 847-minute defensive wall overpower a Cerezo side stripped of Lucas Fernandes and Pablo Sabbag."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cerezo's attacking suspensions and 57.1% home Under 2.5 rate pair with FC Tokyo's 50.0% big-chance wastefulness to keep totals under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "FC Tokyo has kept 11 clean sheets in 14 league games (0.92 xGA/match) while Cerezo loses its top creator and starting striker."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Both scores reflect FC Tokyo's dominant away shutout profile and 4-of-4 two-plus-goal road wins tempered by Cerezo's home resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the top Poisson mode at 22.9% baseline, with one goal covering a tight home defensive stand."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "FC Tokyo draws 57.1% of first halves overall before accelerating after the break, while leading 66.7% of away halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 23:53:46 UTC"
+}
