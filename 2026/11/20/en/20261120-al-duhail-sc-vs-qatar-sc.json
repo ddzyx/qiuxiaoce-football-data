@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1597963,
+    "matchup": "Al-Duhail SC vs Qatar SC",
+    "home_team": "Al-Duhail SC",
+    "away_team": "Qatar SC",
+    "league": "Stars League",
+    "kickoff_utc": "2026-11-20 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-al-duhail-sc-vs-qatar-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Duhail SC vs Qatar SC Prediction & Match Analysis: Unbeaten Attack vs Fragile Backline",
+    "meta": {
+      "matchId": "1597963",
+      "league": "Stars League",
+      "matchup": "Al-Duhail SC vs Qatar SC",
+      "matchTime": "2026-11-20 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Duhail SC are projected to secure a full-time Home Win in an Over 2.5 and BTTS Yes contest built on their 2.28 home goal expectancy against a 2.33 goals-conceded defense.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win driven by Al-Duhail SC's 2.22 goals-per-game attack, five-match league winning streak, and Qatar SC's 2.33 goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Thesis: Over 2.5 goals and BTTS Yes supported by a 3.33 lambda_total, Al-Duhail conceding in four of their last five wins, and Qatar SC scoring twice in three recent away/neutral matches (Confidence: Moderate, Value: High)",
+      "Tactical Variance Angle: Al-Duhail's 56.5% big-chance waste rate keeps the half-time score competitive before second-half quality settles the margin (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1597963",
+      "league": "Stars League",
+      "homeTeam": "Al-Duhail SC",
+      "awayTeam": "Qatar SC",
+      "match_time": "13:00",
+      "match_highlight": "Unbeaten Al-Duhail attack tests Qatar SC's 2.33 goals-conceded backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1597963,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 2:1 primary and 3:1 secondary scoreline, unbeaten Al-Duhail SC possess the attacking firepower to overcome Qatar SC's 2.33 goals-conceded defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.33 combined lambda_total (64.7% Over 2.5 Poisson projection) aligns with five consecutive Over 2.5 league wins for Al-Duhail SC and five in seven for Qatar SC."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al-Duhail SC carry an 89.8% scoring projection and conceded in four of their last five wins, while Qatar SC retain a 65.0% scoring projection via João Pedro and Yohan Boli."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 tops the Poisson matrix at 9.8% and mirrors recent league and H2H results, while 3:1 (7.4%) captures sharper home finishing."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (22.0%) and four (18.3%) total goals flank the 3.33 lambda_total and map cleanly onto 2:1 and 3:1 Home Win scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects three level half-times in the last four H2Hs and Al-Duhail's second-half acceleration, while Win-Win covers an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:23:01 UTC"
+}
