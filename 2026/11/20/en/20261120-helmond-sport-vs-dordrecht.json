@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551891,
+    "matchup": "Helmond Sport vs Dordrecht",
+    "home_team": "Helmond Sport",
+    "away_team": "Dordrecht",
+    "league": "Eerste Divisie",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-helmond-sport-vs-dordrecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Helmond Sport vs Dordrecht Prediction & Match Analysis: Can Home Fortress Hold Leaky Defenses?",
+    "meta": {
+      "matchId": "1551891",
+      "league": "Eerste Divisie",
+      "matchup": "Helmond Sport vs Dordrecht",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Helmond Sport to avoid defeat against travel-weary Dordrecht in an open, high-scoring contest where both porous defenses concede.",
+    "possibilityAssessment": [
+      "Helmond Sport home resilience and superior forward threat index outweigh Dordrecht's struggling road form, while both backlines leave a high-scoring draw live (Confidence: Moderate, Value: High)",
+      "Verified 15-match goal rates and matching 73.3% Over 2.5 trends support a 3-to-4 goal match with both teams scoring (Confidence: High, Value: Moderate)",
+      "Dordrecht's strong first-half away scoring share risks an early setback for Helmond before second-half home pressure forces a recovery (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551891",
+      "league": "Eerste Divisie",
+      "homeTeam": "Helmond Sport",
+      "awayTeam": "Dordrecht",
+      "match_time": "19:00",
+      "match_highlight": "Helmond Sport's 75% home unbeaten run tests porous Dordrecht defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551891,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 home win driven by Helmond's 75% home unbeaten rate and the 2:2 draw branch caused by their 0% clean-sheet record, where a single win call leaves too much defensive variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides have hit Over 2.5 in 73.3% of league matches with a standings-derived lambda_total of 3.94 and ~2.40+ goals conceded per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Helmond Sport have 0 clean sheets in 15 league games (86.7% BTTS) while Dordrecht have scored in 6 of 7 away matches with just 1 away shutout."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Helmond's home attacking edge over Dordrecht's disrupted goalkeeping, while 2:2 captures the open transition draw risk."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Centered directly on the 3.94 combined league goal expectancy and recent multi-goal trajectories for both clubs."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Win pairs a tight opening half with Helmond's 62.5% second-half home scoring surge, while Loss-Draw covers Dordrecht's 62.5% first-half away threat pegged back late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 12:38:49 UTC"
+}
