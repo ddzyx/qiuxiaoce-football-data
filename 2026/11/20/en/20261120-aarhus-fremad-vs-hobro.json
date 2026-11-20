@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551377,
+    "matchup": "Aarhus Fremad vs Hobro",
+    "home_team": "Aarhus Fremad",
+    "away_team": "Hobro",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-aarhus-fremad-vs-hobro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aarhus Fremad vs Hobro Tactical Breakdown & Match Analysis: Blunt Attack vs Leaky Road Defense",
+    "meta": {
+      "matchId": "1551377",
+      "league": "1. Division",
+      "matchup": "Aarhus Fremad vs Hobro",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aarhus Fremad's home containment and 56.7% possession control support a Home Win / Draw projection capped under 2.5 goals against a winless Hobro road defense.",
+    "possibilityAssessment": [
+      "Home Win / Draw: Hosts lead Poisson win expectancy (41.2%) against a Hobro defense with zero away clean sheets, while 0.86 GF/pg warrants draw protection (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals: Combined lambda_total of 2.35 and big-chance waste rates above 70% for both clubs strongly favor a low-scoring total (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No (1:1 Draw Contingency): Aarhus Fremad's 42.9% clean-sheet rate and 50.0% blank rate edge a one-sided shutout, with Hobro's set-piece threat driving 1:1 risk (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551377",
+      "league": "1. Division",
+      "homeTeam": "Aarhus Fremad",
+      "awayTeam": "Hobro",
+      "match_time": "18:00",
+      "match_highlight": "Aarhus Fremad's low-scoring home control tests Hobro's winless, clean-sheet-less away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551377,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchored on a 1:0 home breakthrough against Hobro's 0% away clean-sheet record while covering 1:1 due to Aarhus Fremad's 50% failed-to-score rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Lambda_total of 2.35 (58.3% Under 2.5 Poisson baseline) and 71.4%/70.8% big-chance waste rates point to a low-scoring contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson BTTS No (52.6%) aligns with Aarhus Fremad's 42.9% clean-sheet rate and four scoreless outings in their last five matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Aarhus Fremad's narrow defensive edge, while 1:1 (13.1% modal Poisson score) covers Hobro's 83.3% away scoring rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The 2-goal (26.3%) and 1-goal (22.4%) Poisson buckets capture nearly half of the probability distribution around lambda_total 2.35."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Aarhus Fremad's 33.3% home first-half goal share and Hobro's 50% away half-time draw rate point to a level break before a late decision or deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 10:08:54 UTC"
+}
