@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1628048,
+    "matchup": "Zakho vs Al Shorta",
+    "home_team": "Zakho",
+    "away_team": "Al Shorta",
+    "league": "Iraqi League",
+    "kickoff_utc": "2026-11-20 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-zakho-vs-al-shorta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Zakho vs Al Shorta Tactical Breakdown & Probabilistic Modeling: Wage Crisis Tests Defensive Steel",
+    "meta": {
+      "matchId": "1628048",
+      "league": "Iraqi League",
+      "matchup": "Zakho vs Al Shorta",
+      "matchTime": "2026-11-20 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Shorta are projected to control a tight, low-scoring Round 14 contest through their 0.54 goals-conceded defense, making Draw / Away Win alongside Under 2.5 goals and BTTS: No the most coherent probabilistic alignment.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Al Shorta) anchored by league-best 0.54 GA/game and lambda_away 1.23 vs lambda_home 0.66 (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by lambda_total 1.89 and a 70.6% Poisson Under 2.5 distribution (Confidence: Moderate, Value: High)",
+      "BTTS: No supported by Al Shorta's 51.7% projected clean-sheet share against Zakho's 0.77 goals-per-match attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1628048",
+      "league": "Iraqi League",
+      "homeTeam": "Zakho",
+      "awayTeam": "Al Shorta",
+      "match_time": "13:00",
+      "match_highlight": "Debuting coach Hossam Al-Sayed tests Zakho against Al Shorta's stingy defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1628048,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Aligned with the 0:1 and 0:0 scripts, retaining the Draw alongside the leading Away Win accounts for Al Shorta's 46.2% league draw rate while respecting Zakho's training disruption."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by lambda_total of 1.89, a 70.6% Poisson Under 2.5 expectation, and two measured league attacks averaging 0.77 and 1.15 goals per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Al Shorta's 0.54 goals conceded per game and 51.7% clean-sheet projection against a Zakho attack averaging 0.77 goals after a 10-day training halt."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Reflects the top two Poisson scorelines (18.6% and 15.1%), capturing either a late Al Shorta breakthrough or a disciplined debut stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Covers the two highest Poisson goal-count probabilities (28.6% for 1 goal and 27.0% for 2 goals) within a low-scoring match profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Models a cautious, level first half under Zakho's new manager before either a late Al Shorta winner or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:34:00 UTC"
+}
