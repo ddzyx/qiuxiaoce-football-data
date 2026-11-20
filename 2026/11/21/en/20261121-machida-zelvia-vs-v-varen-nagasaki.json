@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556147,
+    "matchup": "Machida Zelvia vs V-varen Nagasaki",
+    "home_team": "Machida Zelvia",
+    "away_team": "V-varen Nagasaki",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-machida-zelvia-vs-v-varen-nagasaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Machida Zelvia vs V-varen Nagasaki: Expected Goals (xG), Road Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1556147",
+      "league": "J1 League",
+      "matchup": "Machida Zelvia vs V-varen Nagasaki",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Machida Zelvia hold a clear structural and two-way xG advantage to secure a controlled Home Win at Machida GION Stadium.",
+    "possibilityAssessment": [
+      "Machida Zelvia Home Win anchored by superior two-way xG (1.68 vs 1.10 xGA) and Nagasaki's winless 0-2-5 away record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by Nagasaki's 5-of-7 away Under 2.5 trend and Machida's 0.45 decayed goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No contingency pairing Machida's 50.0% league clean-sheet rate with Nagasaki's three away scoring blanks in seven trips (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556147",
+      "league": "J1 League",
+      "homeTeam": "Machida Zelvia",
+      "awayTeam": "V-varen Nagasaki",
+      "match_time": "05:00",
+      "match_highlight": "Clinical Machida defense hosts winless-away Nagasaki in J1 Round 15.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556147,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Machida Zelvia's 1.68 xG attack, set-piece threat, and 50.0% clean-sheet rate project a 2:0 victory over an away side with zero road clean sheets."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Despite a 2.81 blended lambda total, Nagasaki's 5-of-7 away Under 2.5 trend and Machida's 0.45 decayed goals conceded per match favor Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Machida's 0.71 league goals conceded per game and 50.0% clean-sheet rate align against a Nagasaki attack blanked in 3 of 7 away fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 captures Machida's shutout control and 2-goal winning tendency, while 2:1 covers a single counter-attacking breach from Matheus Jesus."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson goal density peaks at 2 goals (23.8%) followed by 3 goals (22.3%), matching a controlled 2:0 primary or 2:1 secondary script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Machida's 57.1% home half-time draw rate and second-half scoring surge support Draw-Win first, with Win-Win covering an early breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:00:22 UTC"
+}
