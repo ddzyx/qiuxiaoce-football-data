@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576019,
+    "matchup": "The New Saints vs Trefelin",
+    "home_team": "The New Saints",
+    "away_team": "Trefelin",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-the-new-saints-vs-trefelin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "The New Saints vs Trefelin Prediction & Match Analysis: Can TNS Crack Trefelin's Block? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576019",
+      "league": "Premier League",
+      "matchup": "The New Saints vs Trefelin",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "The New Saints are projected to record a comfortable home victory over Trefelin at Park Hall behind a 2.41 goal-expectancy edge and superior defensive control.",
+    "possibilityAssessment": [
+      "The New Saints Home Win driven by 3.38 league goals scored per game against Trefelin's 2.38 conceded (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS No anchored by a 3.35 combined lambda and Trefelin's 0.56 scoring floor (Confidence: Moderate, Value: Moderate)",
+      "Lower-scoring 2:0 home shutout contingency if Trefelin delay the opening goal into the second half (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "4:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576019",
+      "league": "Premier League",
+      "homeTeam": "The New Saints",
+      "awayTeam": "Trefelin",
+      "match_time": "19:45",
+      "match_highlight": "Unbeaten leaders host struggling newcomers with 3.38 goals per game.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576019,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "The New Saints' 3.38 goals-per-game attack and 0.38 concession rate support a clean 3:0 home victory over 15th-placed Trefelin."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined standings-derived lambda of 3.35 and Trefelin's 2.38 goals conceded per game align with a 65.0% Over 2.5 projection."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "The New Saints allow 0.38 goals per match while Trefelin score just 0.56, supporting a 64.6% Poisson projection for a clean sheet."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "4:0"
+        ],
+        "comment": "3:0 reflects the 2.88 home lambda and Trefelin's recent 0:3 away defeats, while 4:0 captures TNS's high-margin home ceiling."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals is the modal 22.0% Poisson total, with four goals (18.4%) covering sustained second-half pressure."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "The New Saints typically start fast and protect interval leads, while Draw-Win covers a compact first-half visiting block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:49:01 UTC"
+}
