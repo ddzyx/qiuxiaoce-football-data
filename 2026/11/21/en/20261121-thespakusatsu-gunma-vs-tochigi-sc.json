@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555816,
+    "matchup": "Thespakusatsu Gunma vs Tochigi SC",
+    "home_team": "Thespakusatsu Gunma",
+    "away_team": "Tochigi SC",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-thespakusatsu-gunma-vs-tochigi-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Thespakusatsu Gunma vs Tochigi SC Tactical Breakdown & Match Analysis: Can Tochigi Extend Its Shutout Run?",
+    "meta": {
+      "matchId": "1555816",
+      "league": "J3 League",
+      "matchup": "Thespakusatsu Gunma vs Tochigi SC",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tochigi SC are projected to earn an Away Win under 2.5 total goals with a clean sheet by pairing their six-match J3 shutout streak against Thespakusatsu Gunma's 2.06 goals-conceded rate.",
+    "possibilityAssessment": [
+      "Away Win: Tochigi SC leverage six straight league clean sheets and 123.5 attacks per match against Gunma's 2.06 goals conceded per game (Confidence: Moderate, Value: High)",
+      "Under 2.5 & BTTS No: Identical 0.94 goals-scored averages and Tochigi's 9.0% opponent chance-building prevention anchor a 0:1 or 0:2 script (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency: Tochigi's modest 7.3% shot conversion leaves a secondary stalemate risk if Gunma hold compact through the opening hour (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555816",
+      "league": "J3 League",
+      "homeTeam": "Thespakusatsu Gunma",
+      "awayTeam": "Tochigi SC",
+      "match_time": "05:00",
+      "match_highlight": "Tochigi's six-match shutout streak tests Gunma's porous 2.06 goals-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555816,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Backed by 0.56 lambda superiority and six consecutive clean sheets against a host conceding 2.06 goals per match on a four-game J3 losing streak."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.44 lambda expectancy and identical 0.94 goals-per-game scoring averages keep expected match volume below 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Tochigi SC's six-match shutout run and 9.0% opponent chance-building prevention strongly suppress Gunma's 20th-ranked attack."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:2"
+        ],
+        "comment": "A narrow 0:1 away breakthrough leads the Poisson matrix at 13.1%, with 0:2 covering a late counter if Gunma chase the game."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two total goals hold the peak 25.9% Poisson density, closely followed by a single-goal Tochigi win at 21.3%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tochigi's cautious opening phases favor a level half-time before a second-half breakthrough, with Draw-Draw covering a low-conversion stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:44:45 UTC"
+}
