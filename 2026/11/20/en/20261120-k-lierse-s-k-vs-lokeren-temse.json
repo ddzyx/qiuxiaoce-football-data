@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1559201,
+    "matchup": "K. Lierse S.K. vs Lokeren-Temse",
+    "home_team": "K. Lierse S.K.",
+    "away_team": "Lokeren-Temse",
+    "league": "Challenger Pro League",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-k-lierse-s-k-vs-lokeren-temse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "K. Lierse S.K. vs Lokeren-Temse Tactical Breakdown & Match Analysis: Interim Reset Meets Road Firepower",
+    "meta": {
+      "matchId": "1559201",
+      "league": "Challenger Pro League",
+      "matchup": "K. Lierse S.K. vs Lokeren-Temse",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Statistical modeling favors Draw / Away Win alongside Over 2.5 and BTTS Yes, led by Lokeren-Temse's 2.00 goals-per-game attack against a transitional K. Lierse S.K. setup.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Lokeren-Temse's 1.78 attacking lambda and 67.7 midfield OTI versus Lierse's 48.9 (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.17 combined lambda and 61.4% Poisson probability across two vulnerable defenses (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes supported by 62.4% Poisson expectancy and identical 22.2% clean-sheet rates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1559201",
+      "league": "Challenger Pro League",
+      "homeTeam": "K. Lierse S.K.",
+      "awayTeam": "Lokeren-Temse",
+      "match_time": "19:00",
+      "match_highlight": "Interim Lierse without Dwomoh face Pau and Lloci's fast-starting attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1559201,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 Lokeren-Temse win via superior attacking firepower while protecting the 1:1 draw branch given Lokeren's 1.78 goals conceded per game and Lierse's home resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.17 combined goal lambda, 61.4% Poisson Over 2.5 probability, and 75.0% Over 2.5 venue rates for both Lierse at home and Lokeren away."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs hold 22.2% league clean-sheet rates, with Lokeren scoring in 88.9% of matches and Lierse netting five goals across their last two home league outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Lokeren-Temse's 2.00 goals-per-game edge against a weakened Lierse spine, while 1:1 reflects the top 10.4% Poisson modal density and recent Lier H2H draws."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.1%) lead the Poisson total-goals distribution and map directly onto the 1:2 and 1:1 scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss aligns with Lierse's 55.6% half-time deficit rate and Lokeren's 100% conversion of half-time leads, while Draw-Draw covers a cautious interim first half ending 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 14:38:55 UTC"
+}
