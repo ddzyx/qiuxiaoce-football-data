@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606766,
+    "matchup": "Jubilo Iwata vs Omiya Ardija",
+    "home_team": "Jubilo Iwata",
+    "away_team": "Omiya Ardija",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-jubilo-iwata-vs-omiya-ardija/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jubilo Iwata vs Omiya Ardija Prediction & Match Analysis: Kaneko Ban Tests Hosts — Scoreline Preview",
+    "meta": {
+      "matchId": "1606766",
+      "league": "J2 League",
+      "matchup": "Jubilo Iwata vs Omiya Ardija",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Poisson goal expectancy (1.44 vs 1.18) and Omiya Ardija's flawless conversion of nine half-time leads favor Draw / Away Win alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Omiya Ardija's 1.44 lambda attack and 9-for-9 HT-lead conversion, balanced by Iwata's 75.0% home unbeaten record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes driven by Omiya's five straight 3+ goal fixtures and 75.0% away BTTS rate against an Iwata squad scoring in 15 of 17 games (Confidence: Moderate, Value: High)",
+      "1:1 Draw via Win-Draw HT/FT reversal should Iwata convert an early flank surge before Omiya's bench restores parity late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606766",
+      "league": "J2 League",
+      "homeTeam": "Jubilo Iwata",
+      "awayTeam": "Omiya Ardija",
+      "match_time": "05:00",
+      "match_highlight": "Suspended anchor Daiki Kaneko tests Jubilo Iwata against four-win Omiya Ardija.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606766,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Omiya Ardija's 1:2 away win against a Kaneko-less midfield and Iwata's 1:1 home draw script, as Iwata's eight-match unbeaten run prevents safely excluding the stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.62 lambda, Omiya's five straight Over 2.5 outings, and Daiki Kaneko's suspension tilt a balanced baseline just past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Omiya kept clean sheets in just two of eight away games (75.0% road BTTS) while Iwata scored in 15 of 17 matches and face Omiya's 1.88 goals/game attack without Kaneko."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Omiya's recent 2:1 winning cadence and Iwata's scoring floor, while 1:1 covers Yamaha Stadium's peak Poisson density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches Omiya's four straight three-goal results and our 1:2 projection, with 2 goals retaining the compact 1:1 containment branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Loss-Loss reflects Omiya's 9-for-9 conversion from half-time leads, while Win-Draw captures Iwata failing to protect two of three home half-time leads."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 22:39:14 UTC"
+}
