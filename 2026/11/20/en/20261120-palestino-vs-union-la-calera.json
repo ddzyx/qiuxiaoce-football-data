@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1505569,
+    "matchup": "Palestino vs Union La Calera",
+    "home_team": "Palestino",
+    "away_team": "Union La Calera",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-20 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-palestino-vs-union-la-calera/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Palestino vs Union La Calera Prediction & Match Analysis: Can Munder Lift Home Finishing?",
+    "meta": {
+      "matchId": "1505569",
+      "league": "Primera División",
+      "matchup": "Palestino vs Union La Calera",
+      "matchTime": "2026-11-20 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Palestino hold the territorial and tactical edge at La Cisterna against a relegation-threatened Union La Calera side missing Rodrigo Cáseres, though recent home finishing wastefulness warrants retaining Home Win / Draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw supported by Palestino's 9-of-11 home unbeaten record and Munder's return alongside their 81.8% big-chance waste rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes backed by 2.67 combined lambda, Calera's 1.59 goals conceded per game, and Palestino's 18.2% home clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw HT/FT contingency reflects Calera's 3-of-4 away half-time draw conversion into full-time stalemates (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505569",
+      "league": "Primera División",
+      "homeTeam": "Palestino",
+      "awayTeam": "Union La Calera",
+      "match_time": "23:30",
+      "match_highlight": "Munder returns as wasteful Palestino host Cáseres-less relegation battlers Calera.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505569,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 Palestino home victory behind Munder's return and a 1:1 draw if their 81.8% big-chance waste persists, as Calera lack strong evidence for an away upset."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.67 lambda total, 54.5% venue Over 2.5 rates for both teams, defensive absences, and Bet365's 1.85 Over pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Palestino's 18.2% home clean-sheet rate (72.7% home BTTS) and Calera's 1.59 goals conceded per match align with Bet365's 1.67 BTTS Yes price."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Palestino's 1.52 home lambda against a depleted defense, while 1:1 covers Poisson's modal 12.1% outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "2.67 combined lambda and venue Over 2.5 trends favor 3 goals as primary, with 2 goals as the secondary 24.7% Poisson branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams record low first-half goal shares at these venues before splitting across Palestino's 80% home HT-draw conversion and Calera's 75% away HT-draw hold rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:53:28 UTC"
+}
