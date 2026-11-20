@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551038,
+    "matchup": "Club Tijuana vs Atlante FC",
+    "home_team": "Club Tijuana",
+    "away_team": "Atlante FC",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-21 03:10:00",
+    "source_url": "https://xgmind.com/matches/20261121-club-tijuana-vs-atlante-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Club Tijuana vs Atlante FC Tactical Breakdown & Probabilistic Modeling: Home Surge vs Road Fragility",
+    "meta": {
+      "matchId": "1551038",
+      "league": "Liga MX",
+      "matchup": "Club Tijuana vs Atlante FC",
+      "matchTime": "2026-11-21 03:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club Tijuana's 5W-1D-2L home record and second-half scoring surge support a regulation-time Home Win in a 2:1 Over 2.5 and BTTS Yes matchup.",
+    "possibilityAssessment": [
+      "Thesis 1: Club Tijuana Home Win driven by Estadio Caliente dominance and Atlante's 1.62 goals conceded per game (Confidence: Moderate, Value: High)",
+      "Thesis 2: Over 2.5 total goals and 2:1 primary scoreline supported by 2.78 lambda_total and Tijuana's 3.6-goal five-match tempo (Confidence: Moderate, Value: Moderate)",
+      "Thesis 3: 2:0 home clean-sheet branch if eliminated Atlante's 0.75 decayed recent scoring stalls on the road (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551038",
+      "league": "Liga MX",
+      "homeTeam": "Club Tijuana",
+      "awayTeam": "Atlante FC",
+      "match_time": "03:10",
+      "match_highlight": "Tijuana's home stronghold meets Atlante's leaky defense in decisive Apertura finale.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551038,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Club Tijuana have won five of eight home league matches and face an eliminated Atlante side conceding 1.62 goals per game, converging on a 2:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.78 combined Poisson lambda, Tijuana's five-match 3.6-goal average, and Atlante's 12.5% clean-sheet rate lean toward three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tijuana have conceded in five straight matches (25.0% clean-sheet rate) while Atlante scored in 75.0% of away fixtures and own just a 12.5% road shutout rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 balances Tijuana's home firepower with their ongoing defensive leakage, while 2:0 covers a shutout if Atlante's 0.75 decayed recent attack stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflect the primary 2:1 Over 2.5 script, while two goals carry the highest single Poisson density (24.0%) via a 2:0 home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Tijuana convert 75.0% of home half-time draws into wins against an Atlante side tied at half-time in 56.2% of games, with Win-Win covering an early home blitz."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:41:52 UTC"
+}
