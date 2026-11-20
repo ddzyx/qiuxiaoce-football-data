@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516189,
+    "matchup": "Navbahor vs Neftchi",
+    "home_team": "Navbahor",
+    "away_team": "Neftchi",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-20 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-navbahor-vs-neftchi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Navbahor vs Neftchi Prediction & Match Analysis: Can Markaziy Solidity Halt the Leaders? — Scoreline Preview",
+    "meta": {
+      "matchId": "1516189",
+      "league": "Super League",
+      "matchup": "Navbahor vs Neftchi",
+      "matchTime": "2026-11-20 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Neftchi's league-leading 2.41 goals-per-game attack gives the visitors the primary edge in Namangan, while Navbahor's 0.93 goals-conceded record and rest advantage justify retaining the Draw.",
+    "possibilityAssessment": [
+      "Primary 1X2 projection: Draw / Away Win led by Neftchi's 46.8% Poisson win rate and 1.67 away lambda (Confidence: Moderate, Value: High)",
+      "Total goals outlook: Over 2.5 backed by a 2.94 combined lambda and Neftchi's 8-for-8 Over 2.5 sampled streak (Confidence: Moderate, Value: Moderate)",
+      "BTTS outlook: Yes supported by Navbahor scoring in 25 of 27 league games and Neftchi conceding in 6 of 8 sampled fixtures (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516189",
+      "league": "Super League",
+      "homeTeam": "Navbahor",
+      "awayTeam": "Neftchi",
+      "match_time": "13:30",
+      "match_highlight": "Neftchi's second-half firepower tests Navbahor's rested Markaziy Stadium defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516189,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchoring on 1:2 and 1:1 covers Neftchi's superior 2.41 goals-per-game firepower while respecting Navbahor's five-match unbeaten run and 13-day rest advantage because away win probability sits below 50%."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.94 combined lambda total and Neftchi's 8-for-8 Over 2.5 sampled sequence favor at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Navbahor have scored in 25 of 27 Super League matches while Neftchi conceded in 6 of 8 sampled outings, supporting a 58.4% BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Neftchi's late attacking superiority over Navbahor's scoring floor, while 1:1 mirrors the 11.2% Poisson modal peak and July's reverse fixture."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals align directly with the 2.94 lambda total and the primary 1:2 and secondary 1:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both recent league derbies stood 0:0 at half-time, pointing to a level interval before Neftchi either break through late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:38:01 UTC"
+}
