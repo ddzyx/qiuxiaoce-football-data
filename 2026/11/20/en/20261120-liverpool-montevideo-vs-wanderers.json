@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650504,
+    "matchup": "Liverpool Montevideo vs Wanderers",
+    "home_team": "Liverpool Montevideo",
+    "away_team": "Wanderers",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-liverpool-montevideo-vs-wanderers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Liverpool Montevideo vs Wanderers Match Analysis: Can Survival-Chasing Visitors Breach the Champions?",
+    "meta": {
+      "matchId": "1650504",
+      "league": "Primera División",
+      "matchup": "Liverpool Montevideo vs Wanderers",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Liverpool Montevideo are projected to remain unbeaten via Home Win / Draw in an Under 2.5, BTTS: No contest led by a 2:0 victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw leverages Liverpool's 1.71 GF/g and 0.64 GA/g dominance while covering stalemate variance from Acosta's ban and post-title pacing (Confidence: Moderate, Value: Moderate)",
+      "Secondary Total Goals Angle: Under 2.5 aligns with a 2.46 combined lambda total and 55.4% Poisson probability against an open shootout (Confidence: Moderate, Value: High)",
+      "Contingency Clean-Sheet Angle: BTTS: No reflects Liverpool's 41.1% clean-sheet projection against a 58.9% Wanderers scoring probability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650504",
+      "league": "Primera División",
+      "homeTeam": "Liverpool Montevideo",
+      "awayTeam": "Wanderers",
+      "match_time": "19:30",
+      "match_highlight": "Clausura champions Liverpool test survival-chasing Wanderers despite Acosta suspension.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650504,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Liverpool's dominant 2:0 control script and a 1:1 relegation-driven stalemate, as Acosta's suspension and post-title context make a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.46 combined lambda total, 55.4% Poisson Under probability, and Liverpool's 0.64 goals-conceded-per-game defensive structure."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by Liverpool's 0.64 league goals conceded per match, 41.1% Poisson clean-sheet projection, and 53.3% BTTS No baseline."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Liverpool's superior attack exploiting late spaces for a clean-sheet win, while 1:1 covers a compact Wanderers side converting a set piece."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson distribution at 25.9% density ahead of 1 goal at 21.0%, fitting tight tactical containment."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a cautious level first half against Wanderers' survival block before Liverpool pull away late or share a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 17:47:02 UTC"
+}
