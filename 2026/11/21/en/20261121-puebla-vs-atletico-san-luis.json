@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551039,
+    "matchup": "Puebla vs Atletico San Luis",
+    "home_team": "Puebla",
+    "away_team": "Atletico San Luis",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-21 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-puebla-vs-atletico-san-luis/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Puebla vs Atletico San Luis Prediction & Match Analysis: Home Clean-Sheet Drought — Scoreline Preview",
+    "meta": {
+      "matchId": "1551039",
+      "league": "Liga MX",
+      "matchup": "Puebla vs Atletico San Luis",
+      "matchTime": "2026-11-21 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atletico San Luis are projected to avoid defeat via Draw / Away Win in a balanced Round 17 contest centered on 1:1 and 1:2 with Both Teams To Score (Yes) and Under 2.5.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on 1:1 and 1:2 scripts (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by 2.65 combined lambda and 1.19 goals-per-match scoring rates (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Puebla's 85.7% home BTTS frequency and San Luis's 12.5% clean-sheet rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551039",
+      "league": "Liga MX",
+      "homeTeam": "Puebla",
+      "awayTeam": "Atletico San Luis",
+      "match_time": "01:00",
+      "match_highlight": "Puebla's zero home clean sheets meet San Luis's road resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551039,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the modal 1:1 stalemate and the 1:2 road breakthrough because Puebla have won only once in seven home games without a clean sheet while San Luis are unbeaten in five of seven away trips."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both attacks average 1.19 goals per match under a 2.65 total lambda, and San Luis's 0.81 decayed goals-conceded run favors a two-goal 1:1 finish ahead of the three-goal 1:2 branch."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Puebla have scored in six of seven home league matches without keeping a single home clean sheet, while San Luis carry a 12.5% overall clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the independent Poisson matrix at 12.4% between identical 19-point clubs, while 1:2 reflects San Luis's second-half scoring edge and +50 Elo advantage."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.8% Poisson) and three goals (21.9% Poisson) represent the two dominant scoring buckets around a 2.65 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "San Luis have been level at half-time in 12 of 16 league outings and score 68.4% of their goals after the interval, setting up a tied opening half resolving into 1:1 or 1:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:02:12 UTC"
+}
