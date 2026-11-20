@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1627119,
+    "matchup": "Bristol City U21 vs Norwich City U21",
+    "home_team": "Bristol City U21",
+    "away_team": "Norwich City U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-bristol-city-u21-vs-norwich-city-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bristol City U21 vs Norwich City U21 Tactical Breakdown & Probabilistic Modeling: Cup Rematch Balance",
+    "meta": {
+      "matchId": "1627119",
+      "league": "Premier League Cup",
+      "matchup": "Bristol City U21 vs Norwich City U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Bristol City U21 are projected to avoid defeat at home in an Under 2.5 Premier League Cup contest led by a narrow 1:0 win or 1:1 draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by a 1.20 vs 1.05 goal-lambda edge and home venue familiarity against a traveling side on four days' rest (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.25 combined lambda and 60.9% Poisson probability for two or fewer goals (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough after a level first half driven by late fatigue and tactical substitutions (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627119",
+      "league": "Premier League Cup",
+      "homeTeam": "Bristol City U21",
+      "awayTeam": "Norwich City U21",
+      "match_time": "19:00",
+      "match_highlight": "Tight Under 2.5 cup rematch with late second-half breakthrough potential.",
+      "ai_confidence": "Low",
+      "fixtureId": 1627119,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win driven by Bristol City U21's 1.20 lambda and home venue alongside a 1:1 draw matching October's group meeting, as unconfirmed U21 lineups and Norwich's top-spot incentive weaken a standalone single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined goal lambda, 60.9% Poisson probability, and Norwich's 96-hour recovery turnaround."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligns with the primary 1:0 scoreline and 54.6% Poisson probability as Bristol City's 1.00 concession baseline meets tired visiting legs."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects home-venue and rest edges on a tight 1.20 vs 1.05 expectancy split, with 1:1 retained as the modal 13.3% draw hedge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) lead the Poisson total-goal distribution inside a 2.25-lambda framework."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a level opening half before diverging on whether Bristol City U21 convert late pressure or Norwich hold a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 15:11:51 UTC"
+}
