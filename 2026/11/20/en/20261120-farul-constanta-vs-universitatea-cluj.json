@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1565306,
+    "matchup": "Farul Constanta vs Universitatea Cluj",
+    "home_team": "Farul Constanta",
+    "away_team": "Universitatea Cluj",
+    "league": "Liga I",
+    "kickoff_utc": "2026-11-20 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-farul-constanta-vs-universitatea-cluj/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Farul Constanta vs Universitatea Cluj Tactical Breakdown & Probabilistic Modeling: Bic Void vs Home Edge",
+    "meta": {
+      "matchId": "1565306",
+      "league": "Liga I",
+      "matchup": "Farul Constanta vs Universitatea Cluj",
+      "matchTime": "2026-11-20 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Farul Constanta is projected to avoid defeat against an Ovidiu Bic-less Universitatea Cluj in an open contest featuring goals at both ends.",
+    "possibilityAssessment": [
+      "Farul Constanta avoids defeat (Home Win / Draw) behind a 5W-2D-0L home record and U Cluj's midfield suspension (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by a 3.07 combined lambda and Farul's 71.4% home BTTS rate (Confidence: Moderate, Value: High)",
+      "A 1:1 second-half draw contingency if U Cluj's recent defensive tightness holds through the first 45 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565306",
+      "league": "Liga I",
+      "homeTeam": "Farul Constanta",
+      "awayTeam": "Universitatea Cluj",
+      "match_time": "18:30",
+      "match_highlight": "Unbeaten home side Farul tests a Bic-less U Cluj spine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565306,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Farul win driven by first-half home control against a Bic-less U Cluj and a 1:1 draw if the visitors' second-half surge equalizes, because Farul's 20.0% clean-sheet rate makes a single Home Win less complete."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.07 combined lambda, 59.2% Poisson Over 2.5 probability, and U Cluj's midfield and centre-back absences."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Farul's 71.4% home BTTS rate and 20.0% overall clean-sheet rate meet U Cluj's 1.73 goals/game and depleted defensive spine."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Farul's first-half home edge with a late U Cluj response; 1:1 covers Farul's 40% draw rate and U Cluj's recent defensive compactness."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.9%) represent the two highest-density buckets around the 3.07 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win mirrors Farul's 4-for-4 home HT-lead conversion rate, while Draw-Draw covers U Cluj's 42.9% away HT-draw rate and Farul's four league Draw-Draw results."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 11:51:09 UTC"
+}
