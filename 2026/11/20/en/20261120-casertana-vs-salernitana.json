@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1609133,
+    "matchup": "Casertana vs Salernitana",
+    "home_team": "Casertana",
+    "away_team": "Salernitana",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-casertana-vs-salernitana/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Casertana vs Salernitana Prediction & Match Analysis: Can Di Bari End Away Drought? — Scoreline Preview",
+    "meta": {
+      "matchId": "1609133",
+      "league": "Serie C - Girone C",
+      "matchup": "Casertana vs Salernitana",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Casertana hold the tactical edge to win or draw in a tightly contested Under 2.5 Campania derby against a winless-away Salernitana side missing Mattia Tascone.",
+    "possibilityAssessment": [
+      "Casertana Home Win / Draw driven by 7/7 home scoring consistency (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by 2.42 combined lambda and recent defensive compactness (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency if returning Salernitana forwards exploit Casertana's home concession rate (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609133",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Casertana",
+      "awayTeam": "Salernitana",
+      "match_time": "19:30",
+      "match_highlight": "Casertana's 7-match home scoring streak tests Salernitana's winless away record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609133,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Casertana home victory against Tascone-less Salernitana and a 1:1 stalemate given both clubs' high draw rates and 0.08 lambda gap, avoiding a risky single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.42 combined lambda (56.4% Under 2.5 baseline), five Under 2.5 results in Casertana's last six, and Salernitana's two-goal away output."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Salernitana have failed to score in three straight away matches (0.33 goals/game away) and miss suspended midfielder Mattia Tascone, reinforcing a 1:0 shutout script."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Casertana's unbroken home scoring against Salernitana's road drought, while 1:1 covers the top raw Poisson scoreline (13.0%) if late visitors' transitions break through."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.0% Poisson) and 1 goal (21.5% Poisson) capture the tightest density around 2.42 total goal expectancy under two defensively cautious coaches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Tight first-half derby containment favors a level interval before Casertana either break through late (Draw-Win) or share points in a low-scoring stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 17:39:02 UTC"
+}
