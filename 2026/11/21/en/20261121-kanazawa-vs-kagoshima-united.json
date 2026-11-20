@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555813,
+    "matchup": "Kanazawa vs Kagoshima United",
+    "home_team": "Kanazawa",
+    "away_team": "Kagoshima United",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kanazawa-vs-kagoshima-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kanazawa vs Kagoshima United Prediction & Match Analysis: Depleted Attack vs Road Leaks — Model Preview",
+    "meta": {
+      "matchId": "1555813",
+      "league": "J3 League",
+      "matchup": "Kanazawa vs Kagoshima United",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kanazawa are positioned to avoid defeat against Kagoshima United in an open J3 League contest where both defenses are projected to concede.",
+    "possibilityAssessment": [
+      "Home Win / Draw reflects Kanazawa's home scoring edge and Kagoshima's defensive fragility (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals aligns with a 3.09 combined lambda and high-scoring league profiles (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency accounts for Kanazawa's confirmed forward absences and Kagoshima's set-piece threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555813",
+      "league": "J3 League",
+      "homeTeam": "Kanazawa",
+      "awayTeam": "Kagoshima United",
+      "match_time": "05:00",
+      "match_highlight": "Depleted Kanazawa attack tests Kagoshima United's zero-shutout road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555813,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Kanazawa's 2:1 home edge against winless Kagoshima alongside a 1:1 draw branch, as confirmed host forward absences make a single win call overly aggressive."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.09 combined lambda (59.7% Poisson Over 2.5 share) and high goal rates from both attacks (1.82 and 1.71 goals per match)."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 61.9% Poisson BTTS expectancy, Kanazawa's 0% failed-to-score rate, and Kagoshima's 0% clean-sheet rate in the league scoring profile."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Kanazawa's home momentum exploiting Kagoshima's leaky defense, while 1:1 covers the top Poisson density if host absences cap conversion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.7%) lead the Poisson total-goal distribution around the 3.09 lambda expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Kagoshima's 0% half-time deficit rate favors a level interval before Kanazawa either break through late (Draw-Win) or share points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 21:05:05 UTC"
+}
