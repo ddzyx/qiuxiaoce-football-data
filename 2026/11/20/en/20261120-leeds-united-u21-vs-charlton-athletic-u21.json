@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1627121,
+    "matchup": "Leeds United U21 vs Charlton Athletic U21",
+    "home_team": "Leeds United U21",
+    "away_team": "Charlton Athletic U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-leeds-united-u21-vs-charlton-athletic-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leeds United U21 vs Charlton Athletic U21 Prediction & Match Analysis: Must-Win Stakes vs Group Leaders",
+    "meta": {
+      "matchId": "1627121",
+      "league": "Premier League Cup",
+      "matchup": "Leeds United U21 vs Charlton Athletic U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Home Win / Draw alongside Under 2.5 Goals and BTTS: No in a tight Premier League Cup Group I clash.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers a patient Leeds United U21 breakthrough driven by qualification urgency and Charlton Athletic U21's disciplined away containment (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 2.25 combined goal lambda, 60.9% Poisson probability, and Leeds' 70.0% big-chance miss ratio (Confidence: Moderate, Value: High)",
+      "BTTS: No reflects Charlton Athletic U21's four clean sheets in six verified matches and a 54.6% Poisson shutout-side probability (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627121",
+      "league": "Premier League Cup",
+      "homeTeam": "Leeds United U21",
+      "awayTeam": "Charlton Athletic U21",
+      "match_time": "19:00",
+      "match_highlight": "Leeds chase vital Group I points against already-qualified Charlton.",
+      "ai_confidence": "Low",
+      "fixtureId": 1627121,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both a narrow 1:0 Leeds victory driven by must-win stakes and a 1:1 stalemate given Charlton's away defensive discipline, as missing xG and unconfirmed youth XIs make a single call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.25 combined goal lambda, 60.9% Poisson Under 2.5 probability, and Charlton's recent 1:0 road wins."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by a 54.6% Poisson BTTS: No projection and Charlton keeping four clean sheets across their last six verified outings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Leeds' urgent home breakthrough despite finishing waste, while 1:1 covers the 13.3% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the top two Poisson total-goal outcomes at 26.7% and 23.7% inside a 2.25-lambda framework."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight first half against Charlton's compact block before Leeds either break through late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 15:38:09 UTC"
+}
