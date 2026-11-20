@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647381,
+    "matchup": "Jeonbuk Motors vs FC Seoul",
+    "home_team": "Jeonbuk Motors",
+    "away_team": "FC Seoul",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-21 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-jeonbuk-motors-vs-fc-seoul/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Jeonbuk Motors vs FC Seoul: Expected Goals (xG), Title-Hangover Risks & Preview",
+    "meta": {
+      "matchId": "1647381",
+      "league": "K League 1",
+      "matchup": "Jeonbuk Motors vs FC Seoul",
+      "matchTime": "2026-11-21 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Seoul's superior two-way xG balance and 60.0% away win rate favor Draw / Away Win alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by an FC Seoul 1:2 away victory with a 1:1 draw covering Jeonbuk's home unbeaten resistance (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by 3.56 combined xG and >62% venue Over 2.5 rates for both sides (Confidence: Moderate, Value: High)",
+      "Level first half followed by second-half breakthrough (Draw-Loss primary, Draw-Draw secondary) (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647381",
+      "league": "K League 1",
+      "homeTeam": "Jeonbuk Motors",
+      "awayTeam": "FC Seoul",
+      "match_time": "05:00",
+      "match_highlight": "Jeonbuk's ACLE urgency tests champions FC Seoul's leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647381,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers FC Seoul's leading 1:2 away win trajectory and the 1:1 draw script, as Seoul's post-title 3-match league winless run and 26.7% away clean-sheet rate make a single Away Win riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "3.56 combined xG/match and Over 2.5 rates of 62.5% (Jeonbuk home) and 66.7% (Seoul away) outweigh the 2.5 season-wide lambda."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Jeonbuk's 1.72 xG meets Seoul's 26.7% away clean-sheet rate, while Seoul's 1.84 xG attacks Jeonbuk's 1.37 xGA defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Seoul's clinical away edge against a scoring host; 1:1 covers Jeonbuk's 68.8% home unbeaten record if finishing waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the open 1:2 venue-supported baseline, while 2 goals aligns with the 25.7% Poisson modal total and tight H2H history."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Jeonbuk's 68.8% home HT draw rate and five consecutive 0:0 H2H half-times point to a level break before Seoul's second-half quality or a shared draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 23:42:04 UTC"
+}
