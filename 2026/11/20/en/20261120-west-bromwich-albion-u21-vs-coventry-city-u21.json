@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1627124,
+    "matchup": "West Bromwich Albion U21 vs Coventry City U21",
+    "home_team": "West Bromwich Albion U21",
+    "away_team": "Coventry City U21",
+    "league": "Premier League Cup",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-west-bromwich-albion-u21-vs-coventry-city-u21/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "West Bromwich Albion U21 vs Coventry City U21 Prediction & Match Analysis: Late Fragility vs Group Leaders",
+    "meta": {
+      "matchId": "1627124",
+      "league": "Premier League Cup",
+      "matchup": "West Bromwich Albion U21 vs Coventry City U21",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Coventry City U21 are projected to avoid defeat against West Bromwich Albion U21, centered on a 1:1 draw with a 1:2 away victory as the secondary second-half branch.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Coventry City U21's Group H lead (9 pts) and three clean sheets in four outings meet WBA's five-match losing run and late-game vulnerability (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals (2 Goals primary, 3 Goals secondary) — Anchored by a 2.25 combined lambda and Coventry's disciplined recent cup structure (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes — WBA have scored in five of their last six matches while failing to keep a clean sheet across all six (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1627124",
+      "league": "Premier League Cup",
+      "homeTeam": "West Bromwich Albion U21",
+      "awayTeam": "Coventry City U21",
+      "match_time": "19:00",
+      "match_highlight": "WBA's set-piece threat meets Coventry's Group H defensive organization.",
+      "ai_confidence": "Low",
+      "fixtureId": 1627124,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 Poisson modal stalemate and a 1:2 late Coventry breakthrough, as WBA's set-piece scoring threat prevents a single away call while their five-match losing run undermines a home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined lambda (60.9% Under 2.5 in Poisson baseline) and Coventry City U21's three clean sheets across their last four verified outings."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams project above a 65% single-side scoring probability, and WBA have conceded in six straight matches while scoring nine goals across that same span."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the top Poisson density scoreline (13.3%), while 1:2 captures Coventry punishing WBA's documented late defensive collapses if the hosts over-commit."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals holds the highest Poisson share (26.7%) for a balanced 1:1 stalemate, with three goals (20.0%) covering a late-decided 1:2 outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious first half favors level terms at the interval, before either holding 1:1 or opening late via Coventry's second-half transition threat."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 15:46:37 UTC"
+}
