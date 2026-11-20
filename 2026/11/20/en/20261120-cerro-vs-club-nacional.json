@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650503,
+    "matchup": "Cerro vs Club Nacional",
+    "home_team": "Cerro",
+    "away_team": "Club Nacional",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-cerro-vs-club-nacional/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cerro vs Club Nacional Tactical Breakdown & Match Analysis: Exploiting Coates's Absence at Luis Tróccoli",
+    "meta": {
+      "matchId": "1650503",
+      "league": "Primera División",
+      "matchup": "Cerro vs Club Nacional",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Cerro to avoid defeat (Home Win / Draw) in a tight Clausura finale anchored on Under 2.5 goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Cerro leverage survival urgency and three-match league momentum against a reshuffled Nacional spine (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals — Compressed scoring expectancy with Gómez starting on the bench and Nacional carrying a 50.0% big-chance waste ratio (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes — Coates and Zuculini's absences open Nacional's box while Cerro's 1.36 GA/match allows Lodeiro and Silvera a reply (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650503",
+      "league": "Primera División",
+      "homeTeam": "Cerro",
+      "awayTeam": "Club Nacional",
+      "match_time": "19:30",
+      "match_highlight": "Survival-driven Cerro target Nacional's Coates-less backline at Tróccoli.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650503,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchored on 1:1 and 2:1 scripts, covering both a balanced stalemate and a late Cerro victory because Nacional miss suspended captain Coates and injured Zuculini while still retaining enough midfield quality to avoid an outright home-only lock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.47 combined lambda (55.2% Under 2.5 baseline), Nacional's 50.0% big-chance waste ratio, and Maximiliano Gómez starting on the bench compress scoring toward two goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Coates and Zuculini's confirmed absences compromise Nacional's clean-sheet structure against Cerro's WDW attack, while Cerro's 1.36 GA/match leaves room for Lodeiro and Silvera to score."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix (12.7%) and reflects both teams' latest league draws, while 2:1 captures Cerro's second-half acceleration exploiting Nacional's depleted spine."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Matches the top two Poisson goal-count densities (25.8% for 2 goals, 21.2% for 3 goals) across the 1:1 primary and 2:1 secondary scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Cerro's low first-half goal share (20% in recent sample) and cautious Tróccoli openings support a drawn half-time before either remaining 1:1 or breaking toward a second-half home winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 17:42:52 UTC"
+}
