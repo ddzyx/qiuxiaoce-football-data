@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1553229,
+    "matchup": "Piast Gliwice vs Korona Kielce",
+    "home_team": "Piast Gliwice",
+    "away_team": "Korona Kielce",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-20 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-piast-gliwice-vs-korona-kielce/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Piast Gliwice vs Korona Kielce: Expected Goals, Goalkeeper Loss & Match Intelligence",
+    "meta": {
+      "matchId": "1553229",
+      "league": "Ekstraklasa",
+      "matchup": "Piast Gliwice vs Korona Kielce",
+      "matchTime": "2026-11-20 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Piast Gliwice hold the stronger home attacking platform and midfield control to avoid defeat against a depleted Korona Kielce squad, with a 2:1 home win leading a 1:1 draw hedge.",
+    "possibilityAssessment": [
+      "Piast Gliwice home unbeaten extension via Home Win / Draw backed by 7-for-7 home scoring and Korona's four losses in five matches (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by Piast's 85.7% home hit rate and 2.81 combined Poisson lambda (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate contingency if Piast's 66.7% big-chance waste ratio stalls them and Korona exploit Plach's absence on the break (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553229",
+      "league": "Ekstraklasa",
+      "homeTeam": "Piast Gliwice",
+      "awayTeam": "Korona Kielce",
+      "match_time": "17:00",
+      "match_highlight": "Piast's unbeaten home attack tests Korona despite Plach's injury absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553229,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Piast Gliwice's 7-for-7 home scoring floor supports a 2:1 win, while Plach's absence and 2.10 xGA/match make 1:1 draw coverage necessary rather than an isolated single win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.81 combined lambda, 53.3% Poisson Over 2.5 expectancy, and Piast's 85.7% home Over 2.5 frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both venue clean-sheet rates sit at 14.3% and Piast lose starting keeper Frantisek Plach against Korona's 1.33 xG attack, aligning with a 56.0% baseline BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Piast's superior midfield creation and home scoring floor against a leaky Korona defense, with 1:1 capturing the modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the Over 2.5 2:1 script, while two goals covers the tight 1:1 branch if Korona's missing attackers cap transition conversion."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Piast have drawn half-time in 50% of league matches and score 58.8% of home-match goals after the break, making a level first half before a 2:1 win or 1:1 draw the sharpest progression fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 05:07:58 UTC"
+}
