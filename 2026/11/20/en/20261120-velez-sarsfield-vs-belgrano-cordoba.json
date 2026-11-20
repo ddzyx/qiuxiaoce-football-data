@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649571,
+    "matchup": "Velez Sarsfield vs Belgrano Cordoba",
+    "home_team": "Velez Sarsfield",
+    "away_team": "Belgrano Cordoba",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-20 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-velez-sarsfield-vs-belgrano-cordoba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Velez Sarsfield vs Belgrano Cordoba Prediction: Can Spine Absences Crack 0.81 xGA? — xG Preview",
+    "meta": {
+      "matchId": "1649571",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Velez Sarsfield vs Belgrano Cordoba",
+      "matchTime": "2026-11-20 23:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Projecting Belgrano Cordoba to avoid defeat in a tightly contested, low-scoring Round of 16 tie anchored by Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Draw / Away Win regulation-time direction led by a tight stalemate with a second-half away breakthrough path (Confidence: Moderate, Value: High)",
+      "Under 2.5 goals and BTTS: No aligned around 0:0 and 0:1 scoreline concentrations (Confidence: High, Value: Moderate)",
+      "Belgrano Cordoba clean sheet and Draw-Loss half-time/full-time second-half conversion (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "0"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:0",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649571",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Velez Sarsfield",
+      "awayTeam": "Belgrano Cordoba",
+      "match_time": "23:00",
+      "match_highlight": "Reshuffled Velez defense faces Belgrano's league-tight 0.81 xGA road block.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1649571,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 0:0 knockout stalemate and a 0:1 second-half Belgrano breakthrough because Velez's missing spine and 0.93 xG attack make a single home call too fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by 1.80 combined xG, a 2.10 lambda total, 68.8% home and 75.0% away Under 2.5 rates, and Bet365's 1.62 Under price."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Belgrano kept clean sheets in 56.2% of away games while failing to score in 37.5%, aligning with 57.9% Poisson BTTS-No and 1.80 market pricing."
+      },
+      "score": {
+        "selection": [
+          "0:0",
+          "0:1"
+        ],
+        "comment": "Captures Belgrano's 25.0% away goalless-draw rate alongside their 5-of-16 second-half away Draw-Win pattern against Velez's reshuffled backline."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "0"
+        ],
+        "comment": "Low-xG knockout structure and near-70% big-chance waste concentrate total scoring around one decisive strike or a goalless 90 minutes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Belgrano reached half-time level in 10 of 16 away matches (5 draws, 5 wins), splitting full-time outcomes between holding 0:0 and winning late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:50:19 UTC"
+}
