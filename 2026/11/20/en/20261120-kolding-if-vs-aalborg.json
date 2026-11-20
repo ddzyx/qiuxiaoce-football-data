@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551380,
+    "matchup": "Kolding IF vs Aalborg",
+    "home_team": "Kolding IF",
+    "away_team": "Aalborg",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-20 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-kolding-if-vs-aalborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kolding IF vs Aalborg Tactical Breakdown & Preview: Depleted Visitors Face Second-Half Surge",
+    "meta": {
+      "matchId": "1551380",
+      "league": "1. Division",
+      "matchup": "Kolding IF vs Aalborg",
+      "matchTime": "2026-11-20 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Kolding IF to avoid defeat (Home Win / Draw) with Both Teams To Score (Yes) as the balanced convergence around a 1:1 or 2:1 script.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Kolding IF's 71.4% home unbeaten record and Aalborg's seven-match winless slide alongside visiting backline absences (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes aligns with Kolding's 78.6% BTTS rate and Aalborg's 100% away scoring record across seven road trips (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals reflects the 2.61 total lambda baseline, high big-chance waste (71.0% vs 60.0%), and mutual midfield/forward absences anchoring a 1:1 primary outcome (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551380",
+      "league": "1. Division",
+      "homeTeam": "Kolding IF",
+      "awayTeam": "Aalborg",
+      "match_time": "18:00",
+      "match_highlight": "Kolding's second-half home surge tests injury-hit Aalborg's fragile lead protection.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551380,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the 1:1 stalemate and 2:1 home victory scripts because Aalborg's 100% away scoring floor prevents excluding the draw while their defensive absences undermine an away-win call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.61 combined lambda (51.6% Poisson Under 2.5), elevated big-chance waste on both sides, and Aalborg's consecutive 1:1 draws."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Driven by Kolding IF's 7.1% clean-sheet rate against an Aalborg attack that scored in all seven away games, paired with Aalborg's depleted backline."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 is the clear 12.5% Poisson mode matching recent draws and August's H2H, while 2:1 reflects Kolding's one-goal home winning pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson distribution peaks at 2 goals (25.0%) and 3 goals (21.8%), aligning cleanly with the 1:1 primary and 2:1 secondary projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Kolding IF draw 57.1% of home first halves and score 60.0% of home goals after the break, pointing to a level interval before either a 1:1 draw or 2:1 home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 10:12:57 UTC"
+}
