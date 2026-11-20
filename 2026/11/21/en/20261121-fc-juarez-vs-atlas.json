@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551040,
+    "matchup": "FC Juarez vs Atlas",
+    "home_team": "FC Juarez",
+    "away_team": "Atlas",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-21 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-fc-juarez-vs-atlas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Juarez vs Atlas: Expected Goals, Frías Suspension & Match Intelligence",
+    "meta": {
+      "matchId": "1551040",
+      "league": "Liga MX",
+      "matchup": "FC Juarez vs Atlas",
+      "matchTime": "2026-11-21 03:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atlas's 56.8 midfield threat index and 85.7% away win rate establish the visitors as the leading side against Juarez's 2.02 xGA defense, with draw coverage added due to defensive restructuring.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Kevin Zenón and Luís Esteves driving Atlas's road attack while covering a 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes driven by a 3.25 combined lambda and both defenses conceding above 1.70 xGA per game (Confidence: Moderate, Value: High)",
+      "1:1 Defensive Consolidation if Juarez exploits Atlas's reshuffled backline early and slows second-half transitions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551040",
+      "league": "Liga MX",
+      "homeTeam": "FC Juarez",
+      "awayTeam": "Atlas",
+      "match_time": "03:00",
+      "match_highlight": "Atlas midfield creativity tests Juarez defense minus suspended Adonis Frías.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551040,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Atlas's dominant 1:2 road-win trajectory behind 56.8 MF-OTI and the 1:1 draw risk caused by Adonis Frías's suspension, as an isolated single away win leaves the reshuffled visiting backline exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.25 combined lambda, 63.0% Poisson Over 2.5 projection, and combined 3.72 xGA per match across both backlines."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Atlas has scored in 100% of away fixtures facing a 12.5% home clean-sheet rate, while Frías's suspension raises Juarez's 73.8% scoring floor."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Atlas's 57.1% one-goal away win pattern with a home consolation, while 1:1 mirrors the leading 9.9% Poisson draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson total-goal buckets at 22.2% (3 goals) and 20.5% (2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw half-time in 50.0% of league matches, before Atlas's 64.3% second-half away scoring surge decides either a Draw-Loss win or stalls into Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:38:43 UTC"
+}
