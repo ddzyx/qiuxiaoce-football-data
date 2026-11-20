@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1643064,
+    "matchup": "Al-Ittihad Kalba vs Sharjah FC",
+    "home_team": "Al-Ittihad Kalba",
+    "away_team": "Sharjah FC",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-20 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-al-ittihad-kalba-vs-sharjah-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Ittihad Kalba vs Sharjah FC Tactical Breakdown & Modeling: Defensive Gaps vs Away Power",
+    "meta": {
+      "matchId": "1643064",
+      "league": "Pro League",
+      "matchup": "Al-Ittihad Kalba vs Sharjah FC",
+      "matchTime": "2026-11-20 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sharjah FC's 2.14 goals-per-match Pro League attack and superior 2.21 single-side goal expectancy support an ordinary Away Win over winless-at-home Al-Ittihad Kalba in a multi-goal contest.",
+    "possibilityAssessment": [
+      "Away Win for Sharjah FC driven by a 2.14 GF/pg vs 2.29 GA/pg Pro League scoring matchup and 57.0% Poisson win share (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 3.56 combined lambda total and 69.0% Poisson Over 2.5 probability (Confidence: High, Value: Moderate)",
+      "Both Teams To Score Yes anchored by Kalba's 74.1% home scoring floor and Sharjah's 89.0% away scoring expectancy (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643064",
+      "league": "Pro League",
+      "homeTeam": "Al-Ittihad Kalba",
+      "awayTeam": "Sharjah FC",
+      "match_time": "12:45",
+      "match_highlight": "Sharjah's 2.14 goals/game attack targets Kalba's leaky, winless home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1643064,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Sharjah FC's 5W-0D-2L Pro League record and 2.21 vs 1.35 goal-expectancy edge point to a 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal expectancy of 3.56 and a 69.0% Poisson Over 2.5 probability point decisively to three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kalba's 1.57 goals/game and 74.1% scoring floor meet Sharjah's 89.0% scoring rate and 25.9% away clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 leads the Poisson matrix at 9.4% density, while 1:3 (6.9%) mirrors Sharjah's recent 3:1 Pro League road wins."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.4%) and four (19.0%) goals represent the top two nodes of the baseline Poisson total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Three of the last four league H2Hs were level at half-time before Sharjah pulled clear, while Kalba's 75% tracked HT-behind rate backs Loss-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 01:08:33 UTC"
+}
