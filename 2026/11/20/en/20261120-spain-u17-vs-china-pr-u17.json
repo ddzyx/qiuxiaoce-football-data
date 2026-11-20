@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1546160,
+    "matchup": "Spain U17 vs China PR U17",
+    "home_team": "Spain U17",
+    "away_team": "China PR U17",
+    "league": "World Cup - U17",
+    "kickoff_utc": "2026-11-20 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-spain-u17-vs-china-pr-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Spain U17 vs China PR U17 Tactical Breakdown & Probabilistic Modeling: Navigating Key Striker Absences",
+    "meta": {
+      "matchId": "1546160",
+      "league": "World Cup - U17",
+      "matchup": "Spain U17 vs China PR U17",
+      "matchTime": "2026-11-20 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Spain U17's midfield quality gives them the edge in Group H, though retaining the draw alongside a home win appropriately covers cold-start opening caution.",
+    "possibilityAssessment": [
+      "Home Win / Draw combines Spain U17's superior technical possession with protection against a low-scoring deadlock (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals captures Group Stage Round 1 conservatism and China PR U17's compact defensive structure (Confidence: Moderate, Value: High)",
+      "Draw-Win to Draw-Draw HT/FT progression reflects a patient opening half before second-half separation or stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1546160",
+      "league": "World Cup - U17",
+      "homeTeam": "Spain U17",
+      "awayTeam": "China PR U17",
+      "match_time": "14:00",
+      "match_highlight": "Barcelona's Ebrima Tunkara tests China PR U17's compact block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1546160,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Spain U17 leads toward a 2:0 victory via superior midfield depth, while retaining the Draw covers a 1:1 stalemate given Enzo Alves's absence and China's disciplined defensive organization."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Spain's missing focal-point striker and China PR U17's 0.41 time-decayed goals-conceded average suppress combined scoring expectancy in a cautious opener."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Spain's prolonged possession and Girona-anchored defense are projected to limit China's counter-attacking opportunities and preserve a clean sheet in the primary script."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Spain's second-half technical breakthrough with a clean sheet, while 1:1 covers China holding compact shape and converting a single transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Cold-start tournament caution and China's defensive discipline concentrate total scoring density around 1 to 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "An organized Chinese first half should keep the interval level before Spain's bench quality tells after half-time or both sides settle level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 02:07:46 UTC"
+}
