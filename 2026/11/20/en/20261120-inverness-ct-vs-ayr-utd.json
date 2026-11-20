@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556903,
+    "matchup": "Inverness CT vs Ayr Utd",
+    "home_team": "Inverness CT",
+    "away_team": "Ayr Utd",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-inverness-ct-vs-ayr-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inverness CT vs Ayr Utd Tactical Breakdown & Probabilistic Modeling: Home Control vs Road Firepower",
+    "meta": {
+      "matchId": "1556903",
+      "league": "Championship",
+      "matchup": "Inverness CT vs Ayr Utd",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inverness CT's seven-match home Under 2.5 and 57.1% clean-sheet foundation supports Home Win / Draw alongside Under 2.5 Goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw driven by Inverness CT's 85.7% home unbeaten rate and 0.08 lambda parity (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals anchored by 7/7 Inverness home matches and 4/6 Ayr away matches finishing under two-and-a-half goals (Confidence: Moderate, Value: High)",
+      "Contingency Angle: BTTS: No via home shutout control if Ayr Utd's 33.3% away failed-to-score rate persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556903",
+      "league": "Championship",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Ayr Utd",
+      "match_time": "19:30",
+      "match_highlight": "Inverness CT home defensive control tests Ayr Utd recent scoring surge",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556903,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Inverness CT's 2:0 home-win blueprint and the 1:1 draw script because a 0.08 lambda gap and 42.9% home draw rate make a single win call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 51.3% Poisson Under 2.5 baseline alongside 7/7 Inverness CT home fixtures and 4/6 Ayr Utd away fixtures staying at two goals or fewer."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Inverness CT's 57.1% home clean-sheet rate and 71.4% home BTTS-No profile outweigh season-wide away concessions against an Ayr Utd side blanked in 33.3% of road games."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "Converges on 2:0 to match Inverness CT's three identical home victories by a two-goal margin, while 1:1 covers the top Poisson modal scoreline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the 25.0% Poisson modal count covering both 2:0 and 1:1, while three goals (21.8%) captures the secondary 2:1 branch if Ayr scores once."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Every Inverness CT league win has been Win-Win with 0.0% home lead erosion, while both clubs carry 100.0% Draw-Draw conversion when level at half-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 16:20:56 UTC"
+}
