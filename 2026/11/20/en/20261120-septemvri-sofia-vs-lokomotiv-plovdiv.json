@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551149,
+    "matchup": "Septemvri Sofia vs Lokomotiv Plovdiv",
+    "home_team": "Septemvri Sofia",
+    "away_team": "Lokomotiv Plovdiv",
+    "league": "First League",
+    "kickoff_utc": "2026-11-20 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-septemvri-sofia-vs-lokomotiv-plovdiv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Septemvri Sofia vs Lokomotiv Plovdiv Tactical Breakdown & Preview: Can Hosts Breach Plovdiv's Block?",
+    "meta": {
+      "matchId": "1551149",
+      "league": "First League",
+      "matchup": "Septemvri Sofia vs Lokomotiv Plovdiv",
+      "matchTime": "2026-11-20 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling favors Lokomotiv Plovdiv to avoid defeat in a tightly contested, low-scoring First League fixture projected to stay under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Lokomotiv Plovdiv's lower conceding rate (1.29 goals per match) and three-match unbeaten H2H run against Septemvri's 1.79-GA vulnerability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals supported by a 2.25 combined goal expectancy, Lokomotiv Plovdiv's 57% failed-to-score rate, and low shot volumes from both sides (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: No driven by a 54.5% Poisson shutout probability and Septemvri Sofia's limited box conversion despite 52.6% average possession (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551149",
+      "league": "First League",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "match_time": "16:00",
+      "match_highlight": "Septemvri possession meets Plovdiv's low block in tight six-pointer.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551149,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Lokomotiv Plovdiv's 0:1 transition win and a 1:1 stalemate because the visitors' 0.57 goals-per-game attack makes a single away win call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda total, 60.9% Poisson Under 2.5 probability, and sub-1.0 scoring averages for both sides."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by a 54.5% Poisson BTTS-No baseline, Lokomotiv's 57% failed-to-score rate, and Septemvri's low ~9.1–9.4 shots per match."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Lokomotiv Plovdiv's tighter defense exploiting Septemvri's 1.79-GA back line, while 1:1 covers the modal draw scenario."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.7%) and one goal (23.7%) represent over half of the Poisson distribution around the 2.25 combined expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Low early shot volume points to a level half-time before either a late Lokomotiv Plovdiv winner or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 04:16:12 UTC"
+}
