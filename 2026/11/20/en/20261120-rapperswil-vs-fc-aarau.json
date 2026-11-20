@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555083,
+    "matchup": "Rapperswil vs FC Aarau",
+    "home_team": "Rapperswil",
+    "away_team": "FC Aarau",
+    "league": "Challenge League",
+    "kickoff_utc": "2026-11-20 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-rapperswil-vs-fc-aarau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rapperswil vs FC Aarau Tactical Breakdown & Modeling: Defensive Leaks Meet Key Forward Absences",
+    "meta": {
+      "matchId": "1555083",
+      "league": "Challenge League",
+      "matchup": "Rapperswil vs FC Aarau",
+      "matchTime": "2026-11-20 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project FC Aarau to avoid defeat in a high-scoring Challenge League clash via Draw / Away Win alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Aarau's 1.46 goals per game and Rapperswil's four-match winless slump (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS Yes backed by a 3.34 lambda_total and Aarau's 100% away Over 2.5 record (Confidence: High, Value: Moderate)",
+      "Loss-Draw HT/FT & 2:2 draw hedge capturing Aarau's 75.0% half-time lead-not-won rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555083",
+      "league": "Challenge League",
+      "homeTeam": "Rapperswil",
+      "awayTeam": "FC Aarau",
+      "match_time": "18:30",
+      "match_highlight": "Both defenses leak goals; Aarau's road attack edges Rapperswil's depleted midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555083,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:2 away win driven by Rapperswil's absences and the 2:2 draw driven by Aarau's 0% clean-sheet rate, avoiding a risky single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.34 lambda_total, 2.00 vs. 1.85 goals conceded per game, and Aarau's 6-for-6 Over 2.5 away record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by Aarau's 0.0% clean-sheet rate across 13 matches, 80.0%/82.3% Poisson scoring floors, and Rapperswil's depleted central shield."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Balances Aarau's higher attacking baseline and set-piece advantage against their persistent road defensive leaks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns with the 22.0% three-goal Poisson mode and 3.34 lambda_total across two open defenses."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Reflects both teams' 50% venue half-time draw rates and Aarau's second-half scoring surge alongside their 75.0% lead-not-won tendency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 11:38:38 UTC"
+}
