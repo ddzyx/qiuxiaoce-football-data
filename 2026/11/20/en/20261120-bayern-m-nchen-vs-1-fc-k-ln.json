@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575221,
+    "matchup": "Bayern München vs 1. FC Köln",
+    "home_team": "Bayern München",
+    "away_team": "1. FC Köln",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-bayern-m-nchen-vs-1-fc-k-ln/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Bayern München vs 1. FC Köln: Expected Goals, Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1575221",
+      "league": "Bundesliga",
+      "matchup": "Bayern München vs 1. FC Köln",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bayern München's superior chance creation at the Allianz Arena is projected to overcome their flank absences for a high-scoring Home Win against an injury-depleted 1. FC Köln backline.",
+    "possibilityAssessment": [
+      "Bayern München ordinary Home Win driven by Kane and Olise attacking Köln's weakened central defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals supported by a 3.45 combined statistical lambda and Bayern's 100% home Over 2.5 record (Confidence: High, Value: Moderate)",
+      "Both Teams To Score (Yes) as Bayern's 22.2% clean-sheet rate and goalkeeper change allow a Köln transition or set-piece reply (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575221",
+      "league": "Bundesliga",
+      "homeTeam": "Bayern München",
+      "awayTeam": "1. FC Köln",
+      "match_time": "19:30",
+      "match_highlight": "Olise and Kane test Skhiri-less Köln as Urbig faces former club.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575221,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bayern's 3.45 xG home attack against Köln's depleted center-backs and winless road record points decisively toward a 3:1 or 2:1 Home Win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.45 combined lambda, Bayern's 4-for-4 home Over 2.5 streak, and Bet365's 1.14 line strongly favor at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bayern hold just a 22.2% clean-sheet rate with Neuer and Davies out, while Köln average 1.55 xG and netted in all three recent meetings."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 reflects Bayern's 5.0 home goals-per-game potency against missing Köln defenders with a consolation reply; 2:1 covers a tighter left-wing adjustment."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson peaks at 3 goals (21.7%) and 4 goals (18.7%), aligning cleanly with 2:1 and 3:1 scripts before Bayern's midweek European trip."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Bayern led at half-time in all four home league games (Win-Win), while Draw-Win covers a tight first half before second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 17:08:26 UTC"
+}
