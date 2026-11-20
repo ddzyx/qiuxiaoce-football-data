@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593705,
+    "matchup": "Auckland vs Melbourne Victory",
+    "home_team": "Auckland",
+    "away_team": "Melbourne Victory",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-21 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-auckland-vs-melbourne-victory/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Auckland vs Melbourne Victory: Expected Goals (xG), Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1593705",
+      "league": "A-League",
+      "matchup": "Auckland vs Melbourne Victory",
+      "matchTime": "2026-11-21 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Auckland are projected to avoid defeat in a goal-active contest at Go Media Stadium, with Home Win / Draw, Over 2.5 Goals, and BTTS Yes standing as the primary research calls.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Auckland's home continuity and core six availability against a Ziereis-less Victory backline (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by 3.0 combined lambda and 1.47 vs 1.22 xGA defensive concession profiles (Confidence: Moderate, Value: Moderate)",
+      "Secondary 1:1 stalemate contingency if Auckland's 85.7% big-chance waste rate and Brimmer absence blunt second-half finishing (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593705",
+      "league": "A-League",
+      "homeTeam": "Auckland",
+      "awayTeam": "Melbourne Victory",
+      "match_time": "04:00",
+      "match_highlight": "Ziereis suspension tests winless Victory defense against Auckland's home resolve.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593705,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Auckland's unbeaten home record and intact core six lead in a 2:1 script, while Victory's three league draws in four rounds and Auckland's 1.47 xGA require covering a 1:1 stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.0 (57.7% Over 2.5 Poisson baseline), Victory's 0% clean-sheet rate, and Ziereis's suspension outweigh low three-match attacking xG."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Victory have scored and conceded in 4 of 4 league games, while Auckland yield 1.47 xGA per match, matching the 60.4% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Auckland's wide pressure against a suspended Victory backline alongside host concession risk, while 1:1 captures Victory's league draw trend."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals share the top 22.4% Poisson density each, bridging the primary 2:1 home edge and the secondary 1:1 low-xG branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Auckland have drawn 100% of home first halves before second-half acceleration, making Draw-Win primary and Draw-Draw the natural stalemate fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 20:46:06 UTC"
+}
