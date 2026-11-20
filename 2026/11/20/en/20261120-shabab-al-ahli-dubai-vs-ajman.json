@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1643065,
+    "matchup": "Shabab Al Ahli Dubai vs Ajman",
+    "home_team": "Shabab Al Ahli Dubai",
+    "away_team": "Ajman",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-20 15:25:00",
+    "source_url": "https://xgmind.com/matches/20261120-shabab-al-ahli-dubai-vs-ajman/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shabab Al Ahli Dubai vs Ajman Tactical Breakdown & Match Analysis: High Press vs Leaky Defense",
+    "meta": {
+      "matchId": "1643065",
+      "league": "Pro League",
+      "matchup": "Shabab Al Ahli Dubai vs Ajman",
+      "matchTime": "2026-11-20 15:25 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shabab Al Ahli Dubai are projected to claim a home Pro League victory over Ajman behind superior defensive prevention and second-half tactical depth.",
+    "possibilityAssessment": [
+      "Home Win — Shabab Al Ahli Dubai leverage home stability and second-half acceleration to outscore Ajman (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Combined 3.43 goal lambda and Ajman's 2.29 league goals conceded per match support three or more goals (Confidence: Moderate, Value: High)",
+      "2:0 Home Shutout Branch — Shabab Al Ahli's 60.0% clean-sheet sample covers Ajman extending their three-game away scoring drought (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643065",
+      "league": "Pro League",
+      "homeTeam": "Shabab Al Ahli Dubai",
+      "awayTeam": "Ajman",
+      "match_time": "15:25",
+      "match_highlight": "Shabab Al Ahli's high press targets Ajman's 2.29-goal-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1643065,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A 2:1 primary projection reflects Shabab Al Ahli Dubai's superior home defensive containment and decisive edge over Ajman's porous Pro League backline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.43 combined lambda and six Over 2.5 outcomes in Ajman's seven Pro League matches strongly support at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Shabab Al Ahli's 86.5% scoring projection pairs with Ajman's 1.86 league goals per game to support both sides finding the net."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 tops the Poisson matrix at 9.3% while 2:0 captures Shabab Al Ahli's recent home shutout template if Ajman's away drought continues."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (21.8%) and two goals (19.1%) lead the Poisson total-goal distribution across open and shutout home-win scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Shabab Al Ahli's 80.0% half-time draw rate favors Draw-Win, while an early breakthrough against Ajman's leaky defense makes Win-Win the secondary route."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 03:38:29 UTC"
+}
