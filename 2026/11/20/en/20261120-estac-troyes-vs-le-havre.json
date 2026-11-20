@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552827,
+    "matchup": "Estac Troyes vs Le Havre",
+    "home_team": "Estac Troyes",
+    "away_team": "Le Havre",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-20 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261120-estac-troyes-vs-le-havre/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estac Troyes vs Le Havre Prediction & Match Analysis: Can New Boss Ismael Fix 1.92 xGA? — xG Preview",
+    "meta": {
+      "matchId": "1552827",
+      "league": "Ligue 1",
+      "matchup": "Estac Troyes vs Le Havre",
+      "matchTime": "2026-11-20 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Estac Troyes hold the personnel and pressing edge to avoid defeat against injury-depleted Le Havre in a match projected to produce goals at both ends.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Troyes's home structure and Le Havre's six Confirmed Out absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by 2.75 lambda_total and compromised backlines on both sides (Confidence: Moderate, Value: High)",
+      "Both Teams To Score Yes driven by 1.24 vs 1.57 xG creation and 1.70 market alignment (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552827",
+      "league": "Ligue 1",
+      "homeTeam": "Estac Troyes",
+      "awayTeam": "Le Havre",
+      "match_time": "19:45",
+      "match_highlight": "Valerien Ismael debuts at Troyes with both relegation rivals leaking chances.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552827,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Estac Troyes exploiting Le Havre's goalkeeping and defensive absences in a 2:1 win alongside a 1:1 draw if Troyes's finishing waste persists under Valerien Ismael's debut setup, avoiding a single Home Win due to Troyes's 60% failed-to-score rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.75 lambda_total (51.9% Poisson Over 2.5), 3.48 combined xGA, and starting defensive absences for both clubs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Le Havre's 1.57 xG and 75% away BTTS rate meet Diaz-less Troyes, while Le Havre's 10% clean-sheet rate and missing goalkeeper invite home scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Troyes's first-half pressing edge over a depleted visitor conceding 2.20 goals per game, with 1:1 capturing the Poisson modal stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals anchor the 2.75 lambda_total distribution across the primary 2:1 victory and secondary 1:1 draw scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win captures Troyes's 71.4% first-half goal share against Le Havre's 70% HT-trailing rate, while Draw-Draw covers an early Ismael defensive stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 18:12:57 UTC"
+}
