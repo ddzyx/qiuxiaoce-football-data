@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552539,
+    "matchup": "Sochaux vs Dunkerque",
+    "home_team": "Sochaux",
+    "away_team": "Dunkerque",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-sochaux-vs-dunkerque/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sochaux vs Dunkerque: Expected Goals (xG) Preview & Match Intelligence",
+    "meta": {
+      "matchId": "1552539",
+      "league": "Ligue 2",
+      "matchup": "Sochaux vs Dunkerque",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Under 2.5 goals and Draw / Away Win best capture Dunkerque's attacking edge tempered by their zero-clean-sheet away record at Stade Auguste Bonal.",
+    "possibilityAssessment": [
+      "Draw / Away Win balances Dunkerque's 43.3% Poisson win edge against Sochaux's 60% home unbeaten rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 aligns with a 2.37 combined lambda and both teams' majority Under 2.5 Ligue 2 records (Confidence: Moderate, Value: High)",
+      "BTTS: Yes anchored on a 1:1 stalemate targets Dunkerque's 0% away clean-sheet rate and Sochaux's 1.86 xGA conceded (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552539",
+      "league": "Ligue 2",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Dunkerque",
+      "match_time": "19:00",
+      "match_highlight": "Sochaux home scoring resilience tests Dunkerque's zero-clean-sheet away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552539,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 home-resistance script and a narrow 0:1 Dunkerque victory, as neither a solitary away win nor home upset outweighs both sides' venue flaws."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.37 lambda_total, 57.8% Poisson Under 2.5 probability, and Sochaux's 77.8% big-chance waste ratio."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sochaux scored in 4 of 5 home league games while Dunkerque kept zero away clean sheets and Sochaux allow 1.86 xGA per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads Poisson density at 12.9% via mutual defensive leaks, with 0:1 at 12.4% if Sochaux's finishing slump persists."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.3%) and 1 goal (22.2%) lead the Poisson total distribution and align cleanly with low-margin scoring."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both clubs start slowly before half-time, making a level interval leading to either a 1:1 draw or a late Dunkerque breakthrough most plausible."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 14:18:25 UTC"
+}
