@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1553230,
+    "matchup": "Pogon Szczecin vs Slask Wroclaw",
+    "home_team": "Pogon Szczecin",
+    "away_team": "Slask Wroclaw",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-20 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261120-pogon-szczecin-vs-slask-wroclaw/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Pogon Szczecin vs Slask Wroclaw: Expected Goals, Full-Back Injuries & Match Intelligence",
+    "meta": {
+      "matchId": "1553230",
+      "league": "Ekstraklasa",
+      "matchup": "Pogon Szczecin vs Slask Wroclaw",
+      "matchTime": "2026-11-20 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Match modeling favors Pogon Szczecin avoiding defeat with Home Win leading over Draw alongside Over 2.5 Goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw led by Pogon Szczecin's home resilience and returning spine with draw coverage for flank absences (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Thesis: Over 2.5 Goals and BTTS Yes anchored by 2.85 total lambda and Slask's 100% away BTTS record (Confidence: Moderate, Value: High)",
+      "Contingency Tempo Thesis: Tight opening half breaking open after the interval via Slask's second-half defensive erosion (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553230",
+      "league": "Ekstraklasa",
+      "homeTeam": "Pogon Szczecin",
+      "awayTeam": "Slask Wroclaw",
+      "match_time": "19:30",
+      "match_highlight": "Pogon's restored spine faces Slask's 100% away scoring streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553230,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 home-win script against Slask's 0-1-6 road record and the 1:1 draw branch driven by Pogon's confirmed full-back injuries, whereas a single win call leaves flank transition exposure uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.85 combined lambda, Slask's 2.03 xGA per match, and 6 of 7 Slask away league fixtures clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Slask have scored and conceded in 7 of 7 away matches on 1.50 xG per game, while Pogon's missing full-backs lower their 28.6% home clean-sheet floor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Pogon's 1.67 home lambda and Slask's five one-goal road defeats, while 1:1 captures the top raw Poisson cell under Toni Golem's compact setup."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the primary 2:1 Over 2.5 expectation, with two goals covering the tighter 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Pogon's 71.4% home half-time draw frequency resolving either into a second-half home breakthrough or a level 1:1 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 16:16:45 UTC"
+}
