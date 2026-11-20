@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1505563,
+    "matchup": "Cobresal vs A. Italiano",
+    "home_team": "Cobresal",
+    "away_team": "A. Italiano",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-20 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-cobresal-vs-a-italiano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cobresal vs A. Italiano Tactical Breakdown & Probabilistic Modeling: Tempo Asymmetry at El Cobre",
+    "meta": {
+      "matchId": "1505563",
+      "league": "Primera División",
+      "matchup": "Cobresal vs A. Italiano",
+      "matchTime": "2026-11-20 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cobresal are projected to avoid defeat (Home Win / Draw) against A. Italiano in a competitive relegation clash featuring Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Cobresal's home-only winning profile and 67.3 MF-OTI edge (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligned with 2.84 combined lambda and Bet365 1.73 pricing (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes driven by 57.5% Poisson expectancy and Cobresal's 12.0% clean-sheet rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505563",
+      "league": "Primera División",
+      "homeTeam": "Cobresal",
+      "awayTeam": "A. Italiano",
+      "match_time": "21:00",
+      "match_highlight": "Cobresal's El Cobre attacking volume tests A. Italiano's shaky road attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505563,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Cobresal's home creative edge (2:1) and A. Italiano's road containment stalemate (1:1), as Cobresal's 1.85 goals-conceded rate prevents an isolated home call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.84 combined lambda (54.0% Poisson Over 2.5), Bet365 1.73 totals pricing, and Cobresal's 60.0% season Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear 75% Poisson scoring expectancy against Cobresal's 12.0% clean-sheet rate and an A. Italiano backline missing Cristóbal Muñoz."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Cobresal's altitude midfield superiority against a leaky defense, while 1:1 covers their 83.3% big-chance waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 2.84 lambda and 2:1 primary script, with 2 goals capturing the 23.6% Poisson peak of a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cobresal score 70.6% of home goals after half-time against an A. Italiano side with a 44.0% overall HT draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 19:31:12 UTC"
+}
