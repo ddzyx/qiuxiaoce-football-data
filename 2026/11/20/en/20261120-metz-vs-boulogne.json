@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552534,
+    "matchup": "Metz vs Boulogne",
+    "home_team": "Metz",
+    "away_team": "Boulogne",
+    "league": "Ligue 2",
+    "kickoff_utc": "2026-11-20 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261120-metz-vs-boulogne/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Metz vs Boulogne Tactical Breakdown & Probabilistic Modeling: Low-Block Resilience vs Leaky Home Defense",
+    "meta": {
+      "matchId": "1552534",
+      "league": "Ligue 2",
+      "matchup": "Metz vs Boulogne",
+      "matchTime": "2026-11-20 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win offers the strongest structural fit as Boulogne's low-block prevention exploits Metz's zero-clean-sheet home defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by 1:1 stalemate and 0:1 counter-attacking theft (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals anchored by 2.38 combined lambda and Boulogne's 6/6 away Under 2.5 record (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes tied to Metz's 100% home BTTS rate and Mboula's defensive absence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552534",
+      "league": "Ligue 2",
+      "homeTeam": "Metz",
+      "awayTeam": "Boulogne",
+      "match_time": "19:00",
+      "match_highlight": "Mboula absence tests leaky Metz backline against Boulogne's second-half counters.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552534,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 central stalemate and a 0:1 away theft against Metz's Mboula-less backline, avoiding reliance on a home win without clean-sheet backing."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.38 lambda total, 57.5% Poisson Under 2.5 probability, and Boulogne's 100% away Under 2.5 record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Metz have scored and conceded in all 6 home league games (1.69 xGA/g) and lose Mboula, keeping both sides on the scoresheet in the primary 1:1 script."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "Reflects Poisson's top two scorelines where Boulogne's 1.11 xGA structure caps scoring against either a Savanier-led equalizer or a home blank."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson goal counts (26.2% and 22.0%) inside a tight Under 2.5 tactical battle."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Built on Boulogne's 0.0% away first-half scoring share and 66.7% away HT draw rate before decisive second-half action."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-20 13:35:01 UTC"
+}
