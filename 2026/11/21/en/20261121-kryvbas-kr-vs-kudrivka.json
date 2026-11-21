@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1565533,
+    "matchup": "Kryvbas KR vs Kudrivka",
+    "home_team": "Kryvbas KR",
+    "away_team": "Kudrivka",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kryvbas-kr-vs-kudrivka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kryvbas KR vs Kudrivka Tactical Breakdown & Probabilistic Modeling: Petrakov's Rebuild Tests Leaky Defense",
+    "meta": {
+      "matchId": "1565533",
+      "league": "Premier League",
+      "matchup": "Kryvbas KR vs Kudrivka",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kryvbas KR's home organization under Oleksandr Petrakov and Kudrivka's 2.42 goals-conceded-per-game defensive vulnerability support a Home Win / Draw projection led by a narrow 2:1 home victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw led by Kryvbas KR victory at Hirnyk Stadium against Kudrivka's porous road defense (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Direction: Over 2.5 Goals and Both Teams To Score (Yes), driven by 2.91 combined lambda expectancy and 72.7%-80.0% single-side scoring projections (Confidence: Moderate, Value: Moderate)",
+      "Stalemate Contingency: 1:1 Draw if Kryvbas KR's 0.80 goals-per-game attack misfires without Shakeone Satchwell against a compact Kudrivka block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565533",
+      "league": "Premier League",
+      "homeTeam": "Kryvbas KR",
+      "awayTeam": "Kudrivka",
+      "match_time": "11:00",
+      "match_highlight": "Petrakov's tightened Kryvbas host Kudrivka's 2.42 goals-conceded-per-game defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565533,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 Kryvbas KR breakthrough against Kudrivka's 2.42 goals-conceded-per-game defense and a 1:1 stalemate if Kryvbas KR's 0.80 goals-per-game attack stalls, whereas a single call would ignore their four league draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.91 combined lambda expectancy (55.6% Poisson Over 2.5) and Kudrivka conceding 15 goals across four verified away league defeats."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses concede frequently (1.60 and 2.42 goals per game), yielding a 58.2% Poisson BTTS Yes baseline with 80.0% home and 72.7% away scoring probabilities."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges on the top two Poisson-aligned outcomes (9.2% and 11.4%), capturing Kryvbas KR's home edge alongside their 0.80 goals-per-game finishing ceiling."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Captures the 2-to-3-goal Poisson ridge (22.4% and 23.1% density) matching the 2:1 primary victory and 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cautious, level first half under Petrakov before the second half splits between a late Kryvbas KR breakthrough or a shared-points stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:24:09 UTC"
+}
