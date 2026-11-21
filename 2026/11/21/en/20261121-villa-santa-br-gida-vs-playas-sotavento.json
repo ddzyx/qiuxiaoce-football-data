@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1616175,
+    "matchup": "Villa Santa Brígida vs Playas Sotavento",
+    "home_team": "Villa Santa Brígida",
+    "away_team": "Playas Sotavento",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-villa-santa-br-gida-vs-playas-sotavento/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Villa Santa Brígida vs Playas Sotavento Prediction: Suspensions Strain Host Defense — Scoreline Preview",
+    "meta": {
+      "matchId": "1616175",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Villa Santa Brígida vs Playas Sotavento",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Playas Sotavento is backed to avoid defeat (Draw / Away Win) in a tight two-way Under 2.5 contest where both teams project to score.",
+    "possibilityAssessment": [
+      "Draw / Away Win balances the two clubs' identical 0.82 goals-per-match scoring ceiling with Playas Sotavento's improved recent form and the hosts' defensive reorganization (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals reflects Villa Santa Brígida's eight-match single-goal cap and Playas Sotavento's tightened 1.40 goals-conceded rate across its last five outings (Confidence: Moderate, Value: High)",
+      "Both Teams To Score (Yes) pairs Playas Sotavento's 11-match run without a clean sheet against Villa Santa Brígida's suspension-weakened backline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616175",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Villa Santa Brígida",
+      "awayTeam": "Playas Sotavento",
+      "match_time": "12:00",
+      "match_highlight": "Three host suspensions test a blunt attack against improving Playas Sotavento.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616175,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on the 1:1 stalemate and 1:2 away-steal scripts, covering both outcomes because three host suspensions compromise control while low scoring ceilings make a single away-win call overly narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams average 0.82 goals per match and Villa Santa Brígida has not scored twice in eight straight rounds, pulling realistic expectations below the unadjusted 2.78 lambda total."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Playas Sotavento has conceded in all 11 league matches (2.36 per game) while scoring in four of its last five against a host missing three suspended defensive and midfield pieces."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 matches the 11.7% Poisson modal scoreline and identical 0.82 scoring averages, while 1:2 captures a late transition breakthrough against a reshaped home defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.0% Poisson density) fits the tight 1:1 base script, with three goals (22.2%) covering a decisive 1:2 late break."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Cautious relegation-battle pacing points to a level first half before either an even 1:1 finish or a late Playas Sotavento counter winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 06:55:13 UTC"
+}
