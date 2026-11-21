@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1610664,
+    "matchup": "NagaWorld vs Dangkor Senchey",
+    "home_team": "NagaWorld",
+    "away_team": "Dangkor Senchey",
+    "league": "C-League",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-nagaworld-vs-dangkor-senchey/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "NagaWorld vs Dangkor Senchey Tactical Breakdown & Probabilistic Modeling: Home Resilience vs Transition Risk",
+    "meta": {
+      "matchId": "1610664",
+      "league": "C-League",
+      "matchup": "NagaWorld vs Dangkor Senchey",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project NagaWorld to preserve their unbeaten home run via a narrow Home Win or a high-scoring Draw in an Over 2.5, Both Teams To Score matchup.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by NagaWorld's unbeaten Kampong Speu defense and 7-match scoring streak, with Draw covered for Dangkor Senchey's equalizing resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and Both Teams To Score: Yes driven by a 3.48 combined goal-expectancy lambda and both sides conceding over 1.4 goals per match (Confidence: Moderate, Value: High)",
+      "2:2 Draw contingency via second-half transition pressure if NagaWorld surrender an early advantage (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1610664",
+      "league": "C-League",
+      "homeTeam": "NagaWorld",
+      "awayTeam": "Dangkor Senchey",
+      "match_time": "11:00",
+      "match_highlight": "NagaWorld's unbeaten home defense faces Dangkor Senchey's first road test.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1610664,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers NagaWorld's unbeaten home 2:1 script and Dangkor Senchey's 2:2 draw resilience, as narrow goal-expectancy lambdas make an unhedged single result less balanced."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined goal-expectancy lambda of 3.48 and defensive concession rates of 1.43 and 1.67 goals per game strongly favor at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "NagaWorld have scored in all seven league matches while Dangkor Senchey average 2.00 goals per game against a 42.9% home clean-sheet rate, yielding a 68.0% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects NagaWorld's home edge over a porous away defense, while 2:2 captures the open transition draw script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.6%) and 4 goals (18.8%) represent the top two probability buckets under the 3.48 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Expect a controlled opening half before NagaWorld's home depth breaks through in Draw-Win, with Win-Draw covering second-half lead erosion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:36:03 UTC"
+}
