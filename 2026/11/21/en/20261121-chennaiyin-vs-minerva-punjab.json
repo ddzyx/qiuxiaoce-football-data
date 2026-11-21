@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1642197,
+    "matchup": "Chennaiyin vs Minerva Punjab",
+    "home_team": "Chennaiyin",
+    "away_team": "Minerva Punjab",
+    "league": "Indian Super League",
+    "kickoff_utc": "2026-11-21 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-chennaiyin-vs-minerva-punjab/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chennaiyin vs Minerva Punjab Tactical Breakdown & Prediction: Can Punjab Breach Home Momentum?",
+    "meta": {
+      "matchId": "1642197",
+      "league": "Indian Super League",
+      "matchup": "Chennaiyin vs Minerva Punjab",
+      "matchTime": "2026-11-21 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Minerva Punjab's four-match scoring consistency and superior Poisson goal expectancy lean toward Draw / Away Win in an open contest backed for Over 2.5 goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Minerva Punjab's 1.75 goals-per-game output and Chennaiyin's home resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.92 combined lambda and both defenses' lack of clean sheets (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by >74% single-side scoring probabilities in a 1:2 or 1:1 script (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1642197",
+      "league": "Indian Super League",
+      "homeTeam": "Chennaiyin",
+      "awayTeam": "Minerva Punjab",
+      "match_time": "11:30",
+      "match_highlight": "Punjab's 1.75-goal attack tests Chennaiyin's home surge and porous defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1642197,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Minerva Punjab's 1:2 transition victory edge and the 1:1 modal draw script, as Chennaiyin's home unbeaten run weakens a solo away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 2.92 yields a 55.9% Over 2.5 expectancy against two defenses averaging 1.40 and 1.50 goals conceded."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks project above 74% to score while combining for just one clean sheet across nine league fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Punjab's away scoring consistency and Over 2.5, while 1:1 covers the top Poisson stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson goal density peaks tightly at 2 goals (23.0%) and 3 goals (22.4%) around a 2.92 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced opening half after the international break splits into either Punjab's second-half push or a shared 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:39:36 UTC"
+}
