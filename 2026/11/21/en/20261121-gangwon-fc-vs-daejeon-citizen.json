@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647382,
+    "matchup": "Gangwon FC vs Daejeon Citizen",
+    "home_team": "Gangwon FC",
+    "away_team": "Daejeon Citizen",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-21 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-gangwon-fc-vs-daejeon-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gangwon FC vs Daejeon Citizen: Expected Goals (xG), Draw Resilience & Match Analysis",
+    "meta": {
+      "matchId": "1647382",
+      "league": "K League 1",
+      "matchup": "Gangwon FC vs Daejeon Citizen",
+      "matchTime": "2026-11-21 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With near-even expected goal lambdas (1.21 vs 1.27) and contrasting venue profiles, Draw / Away Win anchored to Under 2.5 goals and BTTS: Yes represents the strongest probabilistic projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by a 1:1 modal expectation and Daejeon's 1.65 xG/match attack (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals paired with BTTS: Yes across both teams' 56.2% venue BTTS rates (Confidence: Moderate, Value: Moderate)",
+      "Second-half breakthrough by Daejeon producing a 1:2 road victory via Draw-Loss (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647382",
+      "league": "K League 1",
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Daejeon Citizen",
+      "match_time": "07:30",
+      "match_highlight": "Gangwon's 81.2% home unbeaten resilience tests Daejeon's nine-match domestic unbeaten streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647382,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate rooted in Gangwon's 9 home draws and Daejeon's superior 1.65 xG/match firepower (1:2), as neither script alone cleanly isolates the outcome."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.48 lambda_total, 54.9% Poisson Under 2.5 expectancy, and Gangwon's 68.8% home Under 2.5 profile."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by both clubs' 56.2% venue BTTS rates, 70.2% vs 71.9% team-to-score expectancies, and sub-38% venue clean-sheet frequencies."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.9% while 1:2 captures Daejeon's second-half attacking edge if the deadlock breaks late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals holds the highest Poisson density at 25.8%, with 3 goals at 21.3% representing the secondary late-decider branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Daejeon's 27.8% first-half goal share points to a level interval, diverging between Gangwon's 83.3% home HT-draw hold rate and Daejeon's 40.0% HT-draw conversion into wins."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:48:43 UTC"
+}
