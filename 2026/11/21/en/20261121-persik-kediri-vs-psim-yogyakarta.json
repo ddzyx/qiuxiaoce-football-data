@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622839,
+    "matchup": "Persik Kediri vs PSIM Yogyakarta",
+    "home_team": "Persik Kediri",
+    "away_team": "PSIM Yogyakarta",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-21 08:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-persik-kediri-vs-psim-yogyakarta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Persik Kediri vs PSIM Yogyakarta Tactical Breakdown: Neutral-Venue Disruption & Midfield Shift",
+    "meta": {
+      "matchId": "1622839",
+      "league": "Liga 1",
+      "matchup": "Persik Kediri vs PSIM Yogyakarta",
+      "matchTime": "2026-11-21 08:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw paired with Under 2.5 and BTTS No reflects Persik Kediri's superior season standing and returning center-backs tempered by a crowdless neutral venue in Gresik.",
+    "possibilityAssessment": [
+      "Persik Kediri Win / Draw led by superior 1.00 goals-per-game output and returning defensive starters against a winless-away PSIM attack (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals backed by a 2.39 combined lambda, 57.2% Poisson probability, and PSIM's 1 goal in 4 away matches (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency driven by Zé Valente's midfield return exploiting Park Jun-heong's suspension in a neutral stadium (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622839",
+      "league": "Liga 1",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "PSIM Yogyakarta",
+      "match_time": "08:30",
+      "match_highlight": "Crowdless Gresik venue tests Park-less Persik against returning Zé Valente.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622839,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Persik victory built on superior season scoring and returning defenders alongside a 1:1 stalemate created by Park Jun-heong's ban and the neutral closed-door venue."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.39 combined lambda, 57.2% Poisson probability, Savio Sheva's injury absence, and PSIM's 1-goal output across 4 away league games."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "PSIM failed to score in 3 of 4 away matches and miss Savio Sheva, while Kiko Carneiro and Marcelo Djaló return to steady Persik's backline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Persik's superior attacking depth breaking down a compact visitor late, while 1:1 covers Zé Valente exploiting Park Jun-heong's absence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson goal-count outcomes (26.2% and 21.9%) in a sub-2.5 tactical matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious neutral-venue opening points to a level half-time before Persik break through late or settle for a second-half stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:59:37 UTC"
+}
