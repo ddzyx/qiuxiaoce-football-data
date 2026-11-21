@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551041,
+    "matchup": "CF Pachuca vs Toluca",
+    "home_team": "CF Pachuca",
+    "away_team": "Toluca",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-21 22:50:00",
+    "source_url": "https://xgmind.com/matches/20261121-cf-pachuca-vs-toluca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling CF Pachuca vs Toluca: Expected Goals, Helinho Absence & Match Intelligence",
+    "meta": {
+      "matchId": "1551041",
+      "league": "Liga MX",
+      "matchup": "CF Pachuca vs Toluca",
+      "matchTime": "2026-11-21 22:50 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CF Pachuca are projected to avoid defeat against Toluca (Home Win / Draw) in a high-tempo Round 17 contest featuring Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by CF Pachuca's 2:1 and 2:2 game scripts (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS: Yes driven by combined 3.28 expected goals (Confidence: High, Value: Moderate)",
+      "Slow Burn HT/FT Draw-Loss contingency if Toluca's second-half quality breaks a tight first half (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551041",
+      "league": "Liga MX",
+      "homeTeam": "CF Pachuca",
+      "awayTeam": "Toluca",
+      "match_time": "22:50",
+      "match_highlight": "Pachuca's 100% home scoring streak tests Helinho-less Toluca in Round 17.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551041,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 2:1 home win leads behind Pachuca's three-match surge and Helinho's suspension, while covering Draw (2:2) captures Toluca's 50% away draw rate and 1.91 xG baseline where a single call would carry undue risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.28 combined expected goals, a 63.7% Poisson Over 2.5 probability, and Pachuca's 85.7% home Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by Pachuca's 100% home scoring rate, sub-22% model clean-sheet probabilities for both sides, and Toluca's 1.91 xG/gm attack."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Both 2:1 and 2:2 reconcile Pachuca's spotless home scoring floor and Toluca's 1.91 xG output with Toluca's recent 2:2 road draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals is the modal 22.1% Poisson total, while four goals reflects open second-half transitions and recent 2:2/4:1 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Low first-half goal shares point toward a level interval before Pachuca push late (Draw-Win), while Pachuca's 3/7 home Loss-Draw record covers an early Toluca strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 22:39:03 UTC"
+}
