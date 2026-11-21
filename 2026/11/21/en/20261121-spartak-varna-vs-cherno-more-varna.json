@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551151,
+    "matchup": "Spartak Varna vs Cherno More Varna",
+    "home_team": "Spartak Varna",
+    "away_team": "Cherno More Varna",
+    "league": "First League",
+    "kickoff_utc": "2026-11-21 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261121-spartak-varna-vs-cherno-more-varna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Spartak Varna vs Cherno More Varna Prediction & Match Analysis: Injury-Hit Hosts Face Shutout Test",
+    "meta": {
+      "matchId": "1551151",
+      "league": "First League",
+      "matchup": "Spartak Varna vs Cherno More Varna",
+      "matchTime": "2026-11-21 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cherno More Varna's four-match clean-sheet streak, superior shot accuracy, and Elo edge align with Draw / Away Win under 2.5 goals against injury-hit Spartak Varna.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Cherno More's four straight shutouts, 1357 Elo, and Spartak's three attacking absences (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals supported by Cherno More's 1.00 goals/match output and tightened recent defensive block (Confidence: Moderate, Value: Moderate)",
+      "1:2 away-win variance if Spartak's 1.79 goals conceded per game combines with one Chidera Okoh counter (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551151",
+      "league": "First League",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Cherno More Varna",
+      "match_time": "15:15",
+      "match_highlight": "Injury-hit Spartak Varna attack tests Cherno More's four-match clean-sheet streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551151,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the modal 1:1 derby stalemate and a disciplined 0:1 Cherno More victory because neither a home-depleted draw nor an away shutout can be safely excluded."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cherno More's four consecutive clean sheets and 1.00 goals per match meet an injury-thinned Spartak frontline, pulling expected scoring below the 2.72 season lambda."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Matches the 1:1 primary projection as Chidera Okoh challenges Cherno More's 21% full-season clean-sheet rate while the visitors target Spartak's 1.79 goals conceded per game."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.2% while 0:1 (9.2%) reflects Cherno More extending its defensive shutout run."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (24.4%) and 1 goal (17.9%) capture the tight derby scripts projected under 2.5 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious level first half either holds at 1:1 or breaks late in Cherno More's favor via second-half bench depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 15:09:37 UTC"
+}
