@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1584470,
+    "matchup": "Gençlerbirliği S.K. vs Gaziantep FK",
+    "home_team": "Gençlerbirliği S.K.",
+    "away_team": "Gaziantep FK",
+    "league": "Super Lig",
+    "kickoff_utc": "2026-11-21 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-gen-lerbirli-i-s-k-vs-gaziantep-fk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gençlerbirliği S.K. vs Gaziantep FK Prediction & Match Analysis: Defensive Crisis vs New-Coach Bounce",
+    "meta": {
+      "matchId": "1584470",
+      "league": "Süper Lig",
+      "matchup": "Gençlerbirliği S.K. vs Gaziantep FK",
+      "matchTime": "2026-11-21 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win stands as the optimal projection, led by a 1:1 stalemate with Both Teams To Score: Yes and Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on a 1:1 draw and 1:2 away branch as defensive gaps equalize home attacking edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by Gaziantep's 56.7% big-chance waste rate and 2-goal Poisson mode (Confidence: Moderate, Value: Moderate)",
+      "Away Win 1:2 contingency if Alexandru Maxim's set-piece delivery and Serdar Dursun punish makeshift home defenders late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1584470",
+      "league": "Süper Lig",
+      "homeTeam": "Gençlerbirliği S.K.",
+      "awayTeam": "Gaziantep FK",
+      "match_time": "10:30",
+      "match_highlight": "Depleted Gençlerbirliği defense tests Volkan Demirel's suspended Gaziantep debut.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1584470,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Derived from the 1:1 primary script and 1:2 secondary branch; a single outcome is weaker because Gençlerbirliği score reliably at home despite acute defensive absences while Gaziantep enter on five straight losses."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Aligned with the 2-goal Poisson mode (24.0%), Gaziantep's 60.0% away Under 2.5 rate, and their 56.7% big-chance waste rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses sit below 21% clean sheets and concede 1.73-1.91 goals per game, supporting the 56.2% Poisson BTTS baseline."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.0% between porous but inefficient sides, with 1:2 covering a late set-piece breakthrough against depleted hosts."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals represents the highest Poisson probability (24.0%), with 3 goals covering the late-drama branch if home defensive replacements fracture."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Gençlerbirliği have drawn 50.0% of home first halves with a 27.3% home first-half goal share, pointing to an even interval before either a 1:1 stalemate or a late Gaziantep breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:13:01 UTC"
+}
