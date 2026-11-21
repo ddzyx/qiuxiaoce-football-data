@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647383,
+    "matchup": "Incheon United vs Ulsan Hyundai FC",
+    "home_team": "Incheon United",
+    "away_team": "Ulsan Hyundai FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-21 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-incheon-united-vs-ulsan-hyundai-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Incheon United vs Ulsan Hyundai FC: Expected Goals (xG) & Defensive Contrast",
+    "meta": {
+      "matchId": "1647383",
+      "league": "K League 1",
+      "matchup": "Incheon United vs Ulsan Hyundai FC",
+      "matchTime": "2026-11-21 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ulsan Hyundai FC's superior attacking creation and second-half scoring surge support an away win or draw against Incheon United's disciplined home setup.",
+    "possibilityAssessment": [
+      "Draw / Away Win covering Ulsan's second-half quality edge and a potential shared stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes driven by Ulsan's 1.77 xG output and 18.8% away clean-sheet rate (Confidence: Moderate, Value: High)",
+      "Exact 1:1 Draw if Incheon's 1.15 xGA home structure and big-chance waste rates limit late breakthroughs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647383",
+      "league": "K League 1",
+      "homeTeam": "Incheon United",
+      "awayTeam": "Ulsan Hyundai FC",
+      "match_time": "07:30",
+      "match_highlight": "Incheon's 1.15 xGA defense tests Ulsan's 1.77 xG attack",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647383,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Ulsan's 1:2 second-half winning script and a 1:1 draw given Incheon's 1.15 xGA home containment and symmetrical 1.33 Poisson lambdas."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.88 combined xG expectancy, Ulsan's 66.7% season Over 2.5 rate, and five consecutive 3+ goal matches for the visitors."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Incheon scored in 13 of 15 home games while Ulsan kept clean sheets in just 18.8% of away matches with a 73.6% Poisson scoring probability each."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors both 2026 league H2H meetings and Ulsan's late-game edge, while 1:1 reflects the 12.4% modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 1:2 primary script and 2.88 xG expectancy, with 2 goals covering the 24.7% Poisson peak."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Incheon's 66.7% half-time draw rate and Ulsan's 68.5% second-half goal share point to a level break before Ulsan pushes ahead or shares points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:52:20 UTC"
+}
