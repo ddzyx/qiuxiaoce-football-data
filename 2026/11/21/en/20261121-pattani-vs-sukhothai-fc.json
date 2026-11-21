@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1598076,
+    "matchup": "Pattani vs Sukhothai FC",
+    "home_team": "Pattani",
+    "away_team": "Sukhothai FC",
+    "league": "Thai League 1",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-pattani-vs-sukhothai-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pattani vs Sukhothai FC Tactical Breakdown & Match Analysis: Defensive Fragility vs Road Efficiency",
+    "meta": {
+      "matchId": "1598076",
+      "league": "Thai League 1",
+      "matchup": "Pattani vs Sukhothai FC",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win captures the two highest-probability scripts around an even 1.50 goal-expectancy split, balancing Sukhothai FC's superior league finishing against their 2.00 goals-conceded rate.",
+    "possibilityAssessment": [
+      "Draw / Away Win leads on Sukhothai FC's 1.25 goals per match and 12.13 shots per game paired with equal 1.50 Poisson lambdas (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 3.00 combined lambda, 57.7% Poisson probability, and 6-of-8 league Over 2.5 records for both clubs (Confidence: Moderate, Value: High)",
+      "BTTS Yes is backed by 60.4% Poisson probability as both sides have conceded 1.75 to 2.00 goals per league game with only one clean sheet each (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1598076",
+      "league": "Thai League 1",
+      "homeTeam": "Pattani",
+      "awayTeam": "Sukhothai FC",
+      "match_time": "11:00",
+      "match_highlight": "Sukhothai transition finishers test Pattani home compactness in leaky matchup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1598076,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Sukhothai FC transition victory and a 1:1 Rainbow Stadium stalemate because equal 1.50 lambdas and Sukhothai's 2.00 goals-conceded rate make a single away call fragile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.00, 57.7% Poisson Over 2.5 probability, and 6-of-8 league Over 2.5 rates for both teams support at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs carry 77.7% scoring probability and just one clean sheet in eight league matches while conceding 1.75 and 2.00 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Sukhothai's sharper shot output breaking through late, while 1:1 (11.2% top Poisson density) captures Pattani holding home parity."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals share the top 22.4% Poisson density, matching a 1:2 away edge and the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Pattani's cautious first-half home approach points to an interval deadlock before either Sukhothai pull clear (Draw-Loss) or parity holds (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:31:30 UTC"
+}
