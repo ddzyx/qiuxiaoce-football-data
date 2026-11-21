@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1553919,
+    "matchup": "Radnicki NIS vs Zemun",
+    "home_team": "Radnicki NIS",
+    "away_team": "Zemun",
+    "league": "Super Liga",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-radnicki-nis-vs-zemun/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Radnicki NIS vs Zemun Tactical Breakdown & Match Analysis: Can Cair Hosts Break Five-Game Slump?",
+    "meta": {
+      "matchId": "1553919",
+      "league": "Super Liga",
+      "matchup": "Radnicki NIS vs Zemun",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Radnicki NIS to avoid defeat (Home Win / Draw) in a tight Under 2.5 and BTTS: No contest led by a 1:0 home breakthrough.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction leans Home Win / Draw behind Radnicki NIS's +150 Elo edge and 12.83 home shots per match (Confidence: Moderate, Value: Moderate)",
+      "Total-goal model favors Under 2.5 and BTTS: No due to two 6%-conversion offenses and Zemun's 71% away failed-to-score rate (Confidence: Moderate, Value: High)",
+      "Secondary 1:1 / Draw-Draw contingency covers Radnicki NIS's 14% clean-sheet rate if early pressure stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553919",
+      "league": "Super Liga",
+      "homeTeam": "Radnicki NIS",
+      "awayTeam": "Zemun",
+      "match_time": "12:00",
+      "match_highlight": "Blunt Cair hosts target rebound against road-shy Zemun.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553919,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 home territorial breakthrough alongside a 1:1 stalemate, as Radnicki NIS's five-game league losing run prevents relying on an uncovered single win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 54.9% Poisson Under 2.5 baseline (lambda_total 2.48) and two offenses averaging 0.71 and 0.53 goals per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Zemun's 71% away failed-to-score rate and 2.60 shots on target per match point toward a shutout despite a 14% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances a narrow home victory matching recent H2H history against the primary draw script if Radnicki NIS concede on transition."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aggregates the densest low-scoring branches across 2:0, 1:1, and 1:0 under a 2.48 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cagey opening half matching Zemun's 0.0 sampled first-half goal share before a second-half home winner or deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 06:08:34 UTC"
+}
