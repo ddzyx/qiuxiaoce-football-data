@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1609132,
+    "matchup": "Audace Cerignola vs Barletta",
+    "home_team": "Audace Cerignola",
+    "away_team": "Barletta",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-21 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-audace-cerignola-vs-barletta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Audace Cerignola vs Barletta Prediction & Match Analysis: Can Home Firepower Crack Barletta's Block?",
+    "meta": {
+      "matchId": "1609132",
+      "league": "Serie C - Girone C",
+      "matchup": "Audace Cerignola vs Barletta",
+      "matchTime": "2026-11-21 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Audace Cerignola's home scoring edge and Barletta's seven-match Under 2.5 defensive streak align toward a Home Win / Draw and Under 2.5 outcome.",
+    "possibilityAssessment": [
+      "Home Win / Draw directional call backed by Cerignola's 1.54 goals-per-game output and 68.0% combined Poisson Home/Draw baseline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals projection supported by 2.49 total lambda and Barletta's seven straight low-scoring league games (Confidence: Moderate, Value: High)",
+      "BTTS: No containment angle reflecting Cerignola's three consecutive October home clean sheets and Barletta's cautious away scoring floor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609132",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Audace Cerignola",
+      "awayTeam": "Barletta",
+      "match_time": "13:30",
+      "match_highlight": "Cerignola's home attack tests Barletta's four-match clean-sheet streak at Monterisi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609132,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 1:0 home breakthrough and a 1:1 containment stalemate because Barletta's four-match shutout streak prevents treating a single home win as overwhelmingly dominant."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.49 total lambda (54.6% Under 2.5 baseline) and Barletta's seven consecutive Under 2.5 Serie C fixtures."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Cerignola kept three straight October home clean sheets while Barletta enter on four consecutive shutouts and one goal across four verified away matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Cerignola breaking a tight block in the second half; 1:1 covers a single counter-attacking reply from Barletta."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson density peaks at 2 goals (25.7%), while recent 1:0 and 0:1 scorelines elevate 1 total goal as the primary low-event alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Barletta's compact 4-2-3-1 tends to keep the opening half level before either Cerignola's home pressure tells late or the deadlock holds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 13:23:01 UTC"
+}
