@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1610667,
+    "matchup": "Phnom Penh Crown vs Kirivong Sok Sen Chey",
+    "home_team": "Phnom Penh Crown",
+    "away_team": "Kirivong Sok Sen Chey",
+    "league": "C-League",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-phnom-penh-crown-vs-kirivong-sok-sen-chey/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Phnom Penh Crown vs Kirivong Sok Sen Chey Prediction & Preview: Can Crown Outscore Defensive Leaks?",
+    "meta": {
+      "matchId": "1610667",
+      "league": "C-League",
+      "matchup": "Phnom Penh Crown vs Kirivong Sok Sen Chey",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Phnom Penh Crown hold the decisive attacking edge to beat or draw against Kirivong Sok Sen Chey in an open contest projecting goals at both ends.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers Crown's superior squad quality and Kirivong's 2.57 goals-conceded rate alongside the host's home winless sample (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes backed by a 3.20 combined lambda total and Crown's zero clean sheets across five recorded league matches (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge capturing Kirivong's four-match scoring streak if Crown rotate ahead of AFC Champions League Two travel (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1610667",
+      "league": "C-League",
+      "homeTeam": "Phnom Penh Crown",
+      "awayTeam": "Kirivong Sok Sen Chey",
+      "match_time": "11:00",
+      "match_highlight": "Crown's firepower tests Kirivong's 2.57 GA/game defense before continental travel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1610667,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough driven by Crown's superior firepower and a 1:1 draw if pre-ACL2 rotation or defensive leaks prevent separation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.20 combined lambda total (62.0% Poisson probability) and Kirivong's 2.57 goals conceded per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Crown kept zero clean sheets in five recorded league matches while Kirivong scored in four straight recent C-League outings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges on a narrow 2:1 Crown victory exploiting Kirivong's leaky backline, with 1:1 reflecting the top Poisson draw risk."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligned with the top two Poisson goal counts (22.3% for 3 goals, 20.9% for 2 goals) around a 3.20 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Crown drew 60% of recorded half-times with a 28.6% first-half goal share, pointing toward a level break before either a second-half winner or 1:1 deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 02:11:54 UTC"
+}
