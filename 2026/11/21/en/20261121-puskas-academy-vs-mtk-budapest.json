@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1560282,
+    "matchup": "Puskas Academy vs MTK Budapest",
+    "home_team": "Puskas Academy",
+    "away_team": "MTK Budapest",
+    "league": "NB I",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-puskas-academy-vs-mtk-budapest/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Puskas Academy vs MTK Budapest Prediction & Match Analysis: Can Szabics Fix MTK's Leaks? — Scoreline Preview",
+    "meta": {
+      "matchId": "1560282",
+      "league": "NB I",
+      "matchup": "Puskas Academy vs MTK Budapest",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Puskas Academy project to claim a home victory over a defensively disrupted MTK Budapest side in an open, multi-goal Round 14 clash.",
+    "possibilityAssessment": [
+      "Home Win — League-leading Puskas Academy hold superior attacking-defensive balance and face an MTK backline leaking 2.08 goals per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined goal expectancy of 2.99 and MTK's 85% Over 2.5 league trend strongly point toward three or more goals (Confidence: Moderate, Value: High)",
+      "Win-Draw HT/FT Contingency — Puskas Academy frequently lead at half-time in this fixture, making an MTK second-half recovery the main draw risk (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1560282",
+      "league": "NB I",
+      "homeTeam": "Puskas Academy",
+      "awayTeam": "MTK Budapest",
+      "match_time": "12:30",
+      "match_highlight": "League leaders test Imre Szabics's debuting MTK against leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1560282,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Derived from a projected 2:1 home victory where Puskas Academy's 1.73 lambda and zero-draw league profile exploit MTK's 0-11 three-game away slump."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.99 combined lambda, 57.5% Poisson Over 2.5 probability, and MTK conceding 2.08 goals per NB I match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Projected at 58.9% as Puskas Academy's 84.6% scoring rate meets MTK's 15% clean sheets while Gábor Jurek tests a host backline without a home shutout in two games."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 balances Puskas Academy's home control with MTK's transition threat, while 3:1 captures the margin expansion if MTK's depleted rearguard unravels late."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals matches the 2.99 total lambda anchor and 22.4% Poisson density, with 4 goals reflecting recent high-scoring head-to-head trends."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Puskas Academy have led at half-time in three of the last four meetings, leaving Win-Win primary and MTK's comeback ability as the Win-Draw alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 08:14:51 UTC"
+}
