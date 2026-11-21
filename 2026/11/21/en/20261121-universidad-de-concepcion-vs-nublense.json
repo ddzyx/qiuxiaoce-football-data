@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1505570,
+    "matchup": "Universidad de Concepcion vs Nublense",
+    "home_team": "Universidad de Concepcion",
+    "away_team": "Nublense",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-21 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-universidad-de-concepcion-vs-nublense/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Universidad de Concepcion vs Nublense Tactical Breakdown: Can El Campanil Crack Road Structure?",
+    "meta": {
+      "matchId": "1505570",
+      "league": "Primera División",
+      "matchup": "Universidad de Concepcion vs Nublense",
+      "matchTime": "2026-11-21 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nublense hold the fundamental, Elo, and set-piece edge to avoid defeat on the road in a tight, low-scoring Matchday 28 contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 & BTTS: No (Confidence: Moderate, Value: High)",
+      "1:1 Draw Stalemate Contingency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1505570",
+      "league": "Primera División",
+      "homeTeam": "Universidad de Concepcion",
+      "awayTeam": "Nublense",
+      "match_time": "23:30",
+      "match_highlight": "Nublense set-piece threat tests U de Concepcion home scoring floor.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1505570,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Nublense's 0:1 road-control script (44.3% Poisson win edge and 10 set-piece goals) alongside a 1:1 draw, as recent coaching transition prevents backing a single Away Win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs finished Under 2.5 in 8 of 12 respective home and away league matches, supported by Bet365's 1.73 Under shading and the hosts' 0.81 goals-per-game output."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Universidad de Concepcion failed to score in 6 of 12 home league fixtures with a 65.0% big-chance waste rate against a Nublense unit holding 4 away clean sheets."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Nublense's second-half set-piece edge over a blanking home attack, while 1:1 covers the top 12.2% Poisson modal draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (24.8% Poisson mode) and 1 goal capture the high-probability Under 2.5 band shaped by both teams' venue scoring limits."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Nublense play tight first halves on the road (6 of 12 level at the break, 63.6% of goals after half-time), creating a second-half fork between a visitor breakthrough and a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 22:50:19 UTC"
+}
