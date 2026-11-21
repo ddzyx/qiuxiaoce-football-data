@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647580,
+    "matchup": "Atlético CP vs Casa Pia",
+    "home_team": "Atlético CP",
+    "away_team": "Casa Pia",
+    "league": "Taça de Portugal",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-atl-tico-cp-vs-casa-pia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atlético CP vs Casa Pia Tactical Breakdown & Probabilistic Modeling: Cup Discipline Meets Liga 3 Surge",
+    "meta": {
+      "matchId": "1647580",
+      "league": "Taça de Portugal",
+      "matchup": "Atlético CP vs Casa Pia",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atlético CP is backed to avoid defeat in 90 minutes (Home Win / Draw) in a tight Taça de Portugal tie projected to finish Under 2.5 with BTTS: No.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures Atlético CP's 20-point Liga 3 momentum and Tapadinha edge alongside Casa Pia's compact three-match away unbeaten structure (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 and BTTS: No capitalize on a 2.25 lambda_total and Casa Pia's 78.6% big-chance waste rate across a six-goal Primeira Liga campaign (Confidence: High, Value: High)",
+      "Away Win via late set-piece or transition if Casa Pia's top-flight physicality breaks down Atlético CP in the closing 20 minutes (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647580",
+      "league": "Taça de Portugal",
+      "homeTeam": "Atlético CP",
+      "awayTeam": "Casa Pia",
+      "match_time": "11:00",
+      "match_highlight": "Casa Pia's 78.6% big-chance waste meets Atlético CP's Tapadinha cup momentum.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647580,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Atlético CP's 1:0 home upset script alongside a 1:1 stalemate, as Casa Pia's low-scoring away solidity makes a pure single outcome too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 lambda_total (60.9% Under 2.5 in Poisson) and Casa Pia's 0.55 league goals-per-match output."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by 54.6% Poisson BTTS: No density, Casa Pia's 78.6% big-chance waste, and recent 1:0 clean-sheet wins for both sides."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Centers on a tight 1:0 Atlético CP breakthrough at Tapadinha, with 1:1 covering Casa Pia's recent away stalemate resilience."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Follows the two highest-density Poisson bands (26.7% for 2 goals, 23.7% for 1 goal) in a cautious cup tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cagey, level first half before Atlético CP either strikes late (Draw-Win) or both teams settle level after 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:16:12 UTC"
+}
