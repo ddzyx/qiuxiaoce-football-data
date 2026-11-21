@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1598077,
+    "matchup": "Chonburi FC vs Uthai Thani",
+    "home_team": "Chonburi FC",
+    "away_team": "Uthai Thani",
+    "league": "Thai League 1",
+    "kickoff_utc": "2026-11-21 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-chonburi-fc-vs-uthai-thani/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chonburi FC vs Uthai Thani Match Analysis & Preview: Can Chonburi's Home Revival Slow Gama's Attack?",
+    "meta": {
+      "matchId": "1598077",
+      "league": "Thai League 1",
+      "matchup": "Chonburi FC vs Uthai Thani",
+      "matchTime": "2026-11-21 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Uthai Thani's superior 1.88-goal-per-game attacking output and full-strength core make Draw / Away Win alongside Over 2.5 Goals and BTTS: Yes the strongest probabilistic direction.",
+    "possibilityAssessment": [
+      "Draw / Away Win leans toward an Uthai Thani 1:2 victory backed by a 1:1 draw hedge (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by 2.94 combined lambda and porous clean-sheet rates (Confidence: Moderate, Value: High)",
+      "1:1 Full-Time Stalemate covering Chonburi's 14-day tactical reset and three consecutive 1:1 H2Hs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1598077",
+      "league": "Thai League 1",
+      "homeTeam": "Chonburi FC",
+      "awayTeam": "Uthai Thani",
+      "match_time": "11:30",
+      "match_highlight": "Uthai Thani's 1.88-goal attack tests Chonburi's home revival under Withaya Laohakul.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1598077,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Uthai Thani's 1:2 attacking-quality edge and a 1:1 draw, as Chonburi's recent defensive stabilization makes a pure away win less reliable."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.94 combined lambda (56.3% Poisson Over 2.5) and Uthai Thani's 1.88 goals scored alongside 1.62 goals conceded per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses concede regularly (Chonburi 12.5% clean sheets, Uthai Thani ~25% clean sheets), aligning with the 58.7% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Uthai Thani's finishing and squad-health advantage against Chonburi's absentees, while 1:1 mirrors three straight H2H draws."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 1:2 primary script and 22.4% Poisson density, while 2 goals covers the 1:1 stalemate at 22.8%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a cautious, level first half consistent with Chonburi's low early scoring share before second-half goals decide between 1:2 and 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:20:22 UTC"
+}
