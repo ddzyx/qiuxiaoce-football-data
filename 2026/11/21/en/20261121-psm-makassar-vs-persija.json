@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622841,
+    "matchup": "PSM Makassar vs Persija",
+    "home_team": "PSM Makassar",
+    "away_team": "Persija",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-psm-makassar-vs-persija/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "PSM Makassar vs Persija Prediction & Match Analysis: Can Depleted Hosts Halt Leaders? — Scoreline Preview",
+    "meta": {
+      "matchId": "1622841",
+      "league": "Liga 1",
+      "matchup": "PSM Makassar vs Persija",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Persija Jakarta are projected to secure a controlled away victory at Gelora BJ Habibie as clinical finishing and defensive structure overcome a suspension-hit PSM Makassar side.",
+    "possibilityAssessment": [
+      "Away Win: Persija's 2.11 goals-per-game efficiency and four-match winning streak meet a reshuffled PSM lineup missing Stefan Jevtoski and Mufli Hidayat (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals (2 Goals primary total): PSM's four straight Under 2.5 league matches and lost central finishing point toward a disciplined 0:2 shutout (Confidence: Moderate, Value: High)",
+      "1:1 Parepare Stalemate Contingency: Potential Persija congestion rotation and road defensive lapses keep a tight home draw as the main tactical deviation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622841",
+      "league": "Liga 1",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Persija",
+      "match_time": "12:00",
+      "match_highlight": "Suspended Jevtoski leaves depleted PSM facing clinical Persija attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622841,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Persija's 2.11 goals-per-game attack and 0.89 goals-conceded defense project a 0:2 road victory over suspension-depleted PSM Makassar."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "PSM's four consecutive Under 2.5 league games and Jevtoski's suspension compress scoring expectations below the raw 2.83 lambda total."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "PSM's 33.3% failed-to-score rate and loss of 3-goal top scorer Stefan Jevtoski tilt clean-sheet asymmetry toward Persija's 33.3% shutout defense."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "Primary 0:2 reflects Persija clean-sheet control over depleted hosts, while 1:2 covers Persija's 1.25 away goals-conceded exposure."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson goal density peaks at 2 goals (23.6%) and 3 goals (22.3%), matching the 0:2 and 1:2 away-win branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "PSM's compact Parepare setup can hold level at half-time as in 2025 before Persija's second-half quality tells, with Loss-Loss covering an early away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 07:15:08 UTC"
+}
