@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557474,
+    "matchup": "Manchester City vs Fulham",
+    "home_team": "Manchester City",
+    "away_team": "Fulham",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-manchester-city-vs-fulham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Manchester City vs Fulham Prediction & Match Analysis: Can City's 2.01 xG Snap a Three-Game Slump?",
+    "meta": {
+      "matchId": "1557474",
+      "league": "Premier League",
+      "matchup": "Manchester City vs Fulham",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Manchester City are projected to claim a regulation-time Home Win in an open, multi-goal contest where both sides find the net.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win driven by City's 2.01 xG creation and 67.9 FW-OTI overcoming a 1.39 xGA Fulham defense (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals backed by 2.80 goal lambda, 70% City Over 2.5 league rate, and 1.50 market pricing (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Both Teams To Score (Yes) reflecting City's 20% home clean-sheet rate and defensive fitness doubts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557474",
+      "league": "Premier League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Fulham",
+      "match_time": "12:30",
+      "match_highlight": "City's 2.01 xG firepower tests Fulham's stubborn road organization.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557474,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "City's 2.01 xG home pressure and Haaland-led forward edge support a 2:1 or 3:1 home victory despite transition vulnerability."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG near 3.05, a 2.80 goal lambda, and City's 70% Over 2.5 league frequency favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "City's 20% home clean-sheet rate (1.27 xGA) allows Fulham's 1.44 xG attack a credible scoring route even in defeat."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Both scores reflect City's attacking superiority alongside Fulham's single-goal loss pattern and City's conceded-goal rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the 2:1 core projection, while two goals covers the tighter 2:0 or 1:1 Poisson peak."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "City lead 60% of home halves and hold 100% of leads, while Draw-Win covers Fulham's 80% away half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 08:09:20 UTC"
+}
