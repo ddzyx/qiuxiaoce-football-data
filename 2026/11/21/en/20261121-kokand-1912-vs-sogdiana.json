@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516187,
+    "matchup": "Kokand-1912 vs Sogdiana",
+    "home_team": "Kokand-1912",
+    "away_team": "Sogdiana",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kokand-1912-vs-sogdiana/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kokand-1912 vs Sogdiana Tactical Breakdown & Match Analysis: Can Doriev Exploit Relegation Hosts?",
+    "meta": {
+      "matchId": "1516187",
+      "league": "Super League",
+      "matchup": "Kokand-1912 vs Sogdiana",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sogdiana's superior 1.63 goals-per-game attack offsets its fragile 1.96 goals-conceded defense to favor Draw / Away Win alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win reflects Sogdiana's scoring edge led by 15-goal Ljupche Doriev against a 15th-placed host, balanced by the visitors' 8% away clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes aligns with the 2.99 combined Poisson goal expectancy and both teams' defensive vulnerabilities (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals (1:1) serves as the secondary lower-tempo hedge if Kokand-1912's 31% home clean-sheet structure stalls Sogdiana's transitions (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516187",
+      "league": "Super League",
+      "homeTeam": "Kokand-1912",
+      "awayTeam": "Sogdiana",
+      "match_time": "12:00",
+      "match_highlight": "Doriev's 15-goal attack tests Kokand-1912 against Sogdiana's porous road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516187,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the leading 1:2 away win driven by Doriev's finishing and the 1:1 draw script created by Sogdiana's 1.96 goals-conceded rate, avoiding a single away call amid a six-match winless streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.99 combined Poisson lambda and Sogdiana's 3.59 average total match goals across 27 league fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sogdiana has failed to score in only 15% of league games while keeping just 11% clean sheets overall (8% away), enabling both sides to score."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Sogdiana's attacking quality overcoming an away concession; 1:1 reflects the top Poisson exact score if Kokand-1912 slows transition play."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 1:2 projection and high-event Sogdiana profile, while 2 goals aligns with the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Kokand-1912's compact home opening half keeps the interval level before second-half fatigue decides whether Sogdiana edges 1:2 or both settle at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:43:45 UTC"
+}
