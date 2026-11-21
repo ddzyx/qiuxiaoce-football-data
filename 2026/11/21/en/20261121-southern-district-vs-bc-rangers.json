@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1607342,
+    "matchup": "Southern District vs BC Rangers",
+    "home_team": "Southern District",
+    "away_team": "BC Rangers",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-southern-district-vs-bc-rangers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Southern District vs BC Rangers Prediction & Match Analysis: Home Firepower vs Road Leaks — Preview",
+    "meta": {
+      "matchId": "1607342",
+      "league": "Premier League",
+      "matchup": "Southern District vs BC Rangers",
+      "matchTime": "2026-11-21 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Southern District are projected to secure a home victory over BC Rangers in an open, multi-goal contest where both teams find the net.",
+    "possibilityAssessment": [
+      "Home attacking efficiency at Aberdeen Sports Ground overwhelms BC Rangers' 2.80 away goals conceded per match for a Home Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes aligned with a 3.45 derived goal-expectancy total and low clean-sheet rates on both sides (Confidence: High, Value: High)",
+      "Midfield screening gap without injured anchor Igor César allows BC Rangers a late counter-attacking equalizer in a 2:2 scenario (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1607342",
+      "league": "Premier League",
+      "homeTeam": "Southern District",
+      "awayTeam": "BC Rangers",
+      "match_time": "07:00",
+      "match_highlight": "Southern District home firepower faces BC Rangers' leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1607342,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored by a projected 2:1 home victory, Southern District's 2.25 home league goals per match directly exploit a BC Rangers side winless away with 2.80 goals conceded per road fixture."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Derived goal expectancy of 3.45 aligns with 83.3% of Southern District's league matches and 80% of BC Rangers' away league fixtures exceeding 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Southern District have scored in every home league game against an 11.1% BC Rangers clean-sheet rate, while Igor César's absence and a 16.7% home clean-sheet rate give BC Rangers' away attack a clear route to score."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects the Poisson convergence of Southern District's 2.03 derived lambda and BC Rangers' 1.42 away scoring threat, while 3:1 captures BC Rangers' recurring late-game road defensive fade."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals occupy the peak Poisson probability mass around a 3.45 total goal expectancy and match the 2:1 and 3:1 scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures Southern District's second-half acceleration against a tiring BC Rangers backline, while Win-Win covers an early home breakthrough at Aberdeen Sports Ground."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:38:57 UTC"
+}
