@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622838,
+    "matchup": "Persebaya Surabaya vs Malut United",
+    "home_team": "Persebaya Surabaya",
+    "away_team": "Malut United",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-21 08:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-persebaya-surabaya-vs-malut-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Persebaya Surabaya vs Malut United Preview & Match Analysis: Tight Defense Meets Sharp Attack",
+    "meta": {
+      "matchId": "1622838",
+      "league": "Liga 1",
+      "matchup": "Persebaya Surabaya vs Malut United",
+      "matchTime": "2026-11-21 08:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win alongside Under 2.5 goals and BTTS: Yes as Persebaya Surabaya's compact home structure meets Malut United's superior scoring output.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers both a 1:1 Gelora Bung Tomo stalemate and a narrow visiting breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 aligns with a 2.40 combined Poisson lambda and seven Under 2.5 outcomes in Persebaya's nine Liga 1 games (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes reflects Persebaya scoring in all five home league fixtures against a Malut United side conceding 1.22 goals per game (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622838",
+      "league": "Liga 1",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Malut United",
+      "match_time": "08:30",
+      "match_highlight": "Two 13-point Liga 1 rivals clash with tight defenses and balanced firepower.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622838,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate from Persebaya's home draws and a 1:2 visiting edge, as neither side shows enough separation for a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined Poisson lambda of 2.40 (57.0% Under 2.5 probability) and Persebaya's 0.89 goals conceded per game point toward a low-scoring match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Persebaya have scored in all five home league fixtures while Malut United have scored in five straight matches yet average 1.22 goals conceded."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.1% density, while 1:2 captures Malut United's 1.56 goals per game attack if the second half opens up."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.1%) and one goal (21.8%) hold the highest densities in the Poisson distribution under a disciplined defensive tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A cautious, level opening 45 minutes fits both sides' mid-table parity before either staying deadlocked or breaking late for Malut United."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:56:13 UTC"
+}
