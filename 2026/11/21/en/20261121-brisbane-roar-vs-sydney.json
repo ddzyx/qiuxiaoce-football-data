@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593707,
+    "matchup": "Brisbane Roar vs Sydney",
+    "home_team": "Brisbane Roar",
+    "away_team": "Sydney",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-21 08:40:00",
+    "source_url": "https://xgmind.com/matches/20261121-brisbane-roar-vs-sydney/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Brisbane Roar vs Sydney: Expected Goals (xG), Absences & Match Preview",
+    "meta": {
+      "matchId": "1593707",
+      "league": "A-League",
+      "matchup": "Brisbane Roar vs Sydney",
+      "matchTime": "2026-11-21 08:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Projecting Brisbane Roar Home Win / Draw with Over 2.5 Goals and BTTS: Yes, anchored on a 2:1 primary scoreline.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw led by a 2:1 Brisbane win (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Angle: Over 2.5 Goals and BTTS: Yes behind 2.71 lambda_total (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoreline Branch: 1:1 Draw capturing Brisbane's 66.7% chance waste (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593707",
+      "league": "A-League",
+      "homeTeam": "Brisbane Roar",
+      "awayTeam": "Sydney",
+      "match_time": "08:40",
+      "match_highlight": "Brisbane's 1.64 xG press tests Sydney's transition threat in Round 5.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593707,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Brisbane's primary 2:1 xG-led edge and the 1:1 draw branch, as 66.7% chance waste and zero clean sheets make a single win call fragile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.71 lambda_total, 50.9% Poisson Over 2.5 probability, and 5 of the sides' 7 combined league games clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Brisbane have scored and conceded in 3 of 3 league games while Sydney carry a 74.8% Poisson scoring probability and 75% league BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Brisbane's 1.64 xG control against an injury-hit Sydney side, while 1:1 captures the 12.2% Poisson modal draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the 2:1 primary script and 2.71 lambda_total, with 2 goals covering the 24.4% top Poisson integer share via 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both branches anticipate a cagey, level first half before diverging on whether Brisbane convert second-half pressure or settle at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:03:37 UTC"
+}
