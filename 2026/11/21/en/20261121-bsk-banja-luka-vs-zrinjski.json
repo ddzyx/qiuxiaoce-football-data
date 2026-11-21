@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635103,
+    "matchup": "BSK Banja Luka vs Zrinjski",
+    "home_team": "BSK Banja Luka",
+    "away_team": "Zrinjski",
+    "league": "Premijer Liga",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-bsk-banja-luka-vs-zrinjski/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "BSK Banja Luka vs Zrinjski Tactical Breakdown: Can Artificial Turf Blunt Leader's Firepower?",
+    "meta": {
+      "matchId": "1635103",
+      "league": "Premijer Liga",
+      "matchup": "BSK Banja Luka vs Zrinjski",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "League-leading Zrinjski Mostar projects to secure an ordinary full-time Away Win over BSK Banja Luka behind a superior 2.38-to-0.54 goals-per-game efficiency profile.",
+    "possibilityAssessment": [
+      "Away Win for Zrinjski Mostar driven by second-half attacking depth and synthetic-turf preparation (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes anchored by a 3.04 combined lambda and BSK's 1.83 home scoring rate (Confidence: Moderate, Value: Moderate)",
+      "0:2 Zrinjski clean-sheet branch if the visitors' 0.54 goals-conceded-per-game defense shuts down BSK transitions early (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635103",
+      "league": "Premijer Liga",
+      "homeTeam": "BSK Banja Luka",
+      "awayTeam": "Zrinjski",
+      "match_time": "12:00",
+      "match_highlight": "League-leading Zrinjski tests its dominant defense on Krupa's artificial turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635103,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Zrinjski's 1.84-goal per-match goal differential and Mario Ćuže's return anchor a projected 1:2 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.04 combined lambda and BSK's 1.62 goals conceded per match point to three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "BSK has scored in five of six home games, giving them a realistic scoring floor against Zrinjski's 86.5% scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 leads the Poisson matrix at 9.9% while 0:2 captures Zrinjski's clean-sheet away control branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (22.1%) top the Poisson distribution around a 3.04 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "BSK can contest a level first half like September's 0:0 interval before Zrinjski's class prevails, or Zrinjski may lead early."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 07:20:14 UTC"
+}
