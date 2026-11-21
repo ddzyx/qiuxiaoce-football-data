@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1564416,
+    "matchup": "Blackpool vs Wigan",
+    "home_team": "Blackpool",
+    "away_team": "Wigan",
+    "league": "League One",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-blackpool-vs-wigan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Blackpool vs Wigan Prediction & Match Analysis: Defensive Crisis Tests Interim Boss — xG Preview",
+    "meta": {
+      "matchId": "1564416",
+      "league": "League One",
+      "matchup": "Blackpool vs Wigan",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wigan's transition threat and five-match unbeaten momentum tilt this League One clash toward Draw / Away Win against a defensively depleted Blackpool side.",
+    "possibilityAssessment": [
+      "Draw / Away Win supported by Blackpool's 1.90 xGA and Wigan's 1.41 xG attacking edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals and BTTS Yes aligned with both clubs' sub-21% clean-sheet rates and Bet365 totals pricing (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw branch retained as secondary hedge given Blackpool's 100% home scoring rate and Wigan's 0W-1D-6L league road record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564416",
+      "league": "League One",
+      "homeTeam": "Blackpool",
+      "awayTeam": "Wigan",
+      "match_time": "12:30",
+      "match_highlight": "Depleted Blackpool backline faces Wigan's second-half surge under interim boss.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564416,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Backed by 1:2 and 1:1 projections, covering Wigan's transition edge over a weakened Blackpool defense while accounting for Wigan's winless league road record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.70 statistical lambda_total, combined 3.73 xGA per match, and Bet365's 1.75 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Blackpool have scored in all 6 home league games while Wigan generate 1.41 xG per match against a 15.4% host clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Wigan exploiting Blackpool's centre-back absences late on, while 1:1 covers a tighter home interim containment script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Both defenses allow over 1.80 xGA per game, clustering expected scoring around 3 goals with 2 goals as the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Wigan's 0% away first-half goal share points to an even interval before second-half outcomes split between a 1:2 away win and 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 08:45:51 UTC"
+}
