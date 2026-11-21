@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601937,
+    "matchup": "Keshla FC vs Turan",
+    "home_team": "Keshla FC",
+    "away_team": "Turan",
+    "league": "Premyer Liqa",
+    "kickoff_utc": "2026-11-21 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-keshla-fc-vs-turan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Keshla FC vs Turan Prediction & Match Analysis: Can Berdyev's Defense Contain Home Attack? — Model Preview",
+    "meta": {
+      "matchId": "1601937",
+      "league": "Premyer Liqa",
+      "matchup": "Keshla FC vs Turan",
+      "matchTime": "2026-11-21 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Turan to avoid defeat (Draw / Away Win, led by an away victory) in a disciplined encounter staying Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Turan's 0.73 conceded-goal rate and 21-point table edge against a host with two clean sheets in 11 games (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.41 lambda_total and 8 of 11 Turan league fixtures finishing with two goals or fewer (Confidence: Moderate, Value: High)",
+      "BTTS: No backed by Turan's 45.5% clean-sheet rate and back-to-back 0:0 head-to-head shutouts in 2026, with 1:1 retained as the secondary draw branch (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601937",
+      "league": "Premyer Liqa",
+      "homeTeam": "Keshla FC",
+      "awayTeam": "Turan",
+      "match_time": "10:30",
+      "match_highlight": "Turan's 0.73 conceded-goal defense faces Keshla's eight-match scoring streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601937,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Turan's 0.73 conceded-goal shield and 1:0 away blueprint lead the projection, while Draw is retained because Turan average 0.83 away goals and Keshla FC have five league draws."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined lambda_total of 2.41 and Turan's 72.7% Under 2.5 rate (including five of six road matches) support a low-scoring contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Turan's 45.5% clean-sheet rate and two straight 0:0 head-to-head shutouts slightly outweigh Keshla FC's 1.55 scoring average."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Four of Turan's six wins finished 1:0, while 1:1 carries the highest Poisson density (13.0%) if Keshla FC's scoring streak breaks through once."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson probabilities peak at two goals (26.1%) and one goal (21.6%), aligning directly with both 1:1 and 0:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Following two consecutive 0:0 half-times in 2026 head-to-head meetings, a level opening period leaves Turan to decide it late or share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:16:54 UTC"
+}
