@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563268,
+    "matchup": "Norwich vs Cardiff",
+    "home_team": "Norwich",
+    "away_team": "Cardiff",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-norwich-vs-cardiff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Norwich City vs Cardiff City: Expected Goals (xG), Defensive Crises & Match Intelligence",
+    "meta": {
+      "matchId": "1563268",
+      "league": "Championship",
+      "matchup": "Norwich vs Cardiff",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norwich Home Win / Draw (led by a 2:1 home victory) paired with Over 2.5 goals and BTTS: Yes best reflects Norwich's pressing edge against Cardiff's depleted defense and mutual clean-sheet fragility.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw with Norwich Home Win leading against Cardiff's winless away defense (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 goals and BTTS Yes driven by 3.66 combined lambda and zero venue clean sheets (Confidence: High, Value: High)",
+      "Contingency Angle: Cardiff strike first on transition before conceding a draw in an open 2:2 exchange (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563268",
+      "league": "Championship",
+      "homeTeam": "Norwich",
+      "awayTeam": "Cardiff",
+      "match_time": "12:30",
+      "match_highlight": "Norwich's 93.8-percentile high press targets Cardiff's injury-hit backline at Carrow Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563268,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Norwich win exploiting Cardiff's four-defender absence and 0-for-7 away record, plus a 2:2 draw branch given Touré's absence and Norwich's zero home clean sheets, where a single call ignores the narrow 0.26 lambda gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.66 combined lambda (70.8% Poisson Over 2.5), Norwich's 80.0% seasonal Over 2.5 rate, and Cardiff's 1.73 xGA per match with four defenders out."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 70.2% Poisson BTTS probability, Cardiff's 1.86 xG per match, and neither side recording a single clean sheet in tonight's home or away venue role."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Norwich's pressing dominance over Cardiff's depleted defense with Touré absent; 2:2 captures Cardiff breaching Norwich's win-or-lose home backline in an open shootout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.0%) and four (19.2%) total goals represent the top two Poisson densities around the 3.66 lambda total and align directly with 2:1 and 2:2."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Win-Win mirrors Cardiff trailing at HT and losing in four of seven away matches; Loss-Draw reflects Cardiff leading twice at HT away before drawing both."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 08:27:53 UTC"
+}
