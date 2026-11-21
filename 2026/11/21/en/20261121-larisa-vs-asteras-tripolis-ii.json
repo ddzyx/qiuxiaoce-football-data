@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636989,
+    "matchup": "Larisa vs Asteras Tripolis II",
+    "home_team": "Larisa",
+    "away_team": "Asteras Tripolis II",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-21 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261121-larisa-vs-asteras-tripolis-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Larisa vs Asteras Tripolis II Prediction & Match Analysis: Suspensions Test Unbeaten Home Defense",
+    "meta": {
+      "matchId": "1636989",
+      "league": "Super League 2",
+      "matchup": "Larisa vs Asteras Tripolis II",
+      "matchTime": "2026-11-21 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Larisa is projected to remain unbeaten at AEL FC Arena via Home Win / Draw alongside Under 2.5 goals and a 1:0 primary scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw pairs Larisa's 0.55 goals conceded per match home stability with formal draw coverage for a tight low-block test (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 aligns with the 2.09 combined lambda and Larisa's 60.0% clean-sheet rate across sampled matches (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No reflects Larisa's home shutout efficiency against an away B-side scoring 1.27 goals per match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636989",
+      "league": "Super League 2",
+      "homeTeam": "Larisa",
+      "awayTeam": "Asteras Tripolis II",
+      "match_time": "12:45",
+      "match_highlight": "Suspended Larisa spine meets unbeaten Asteras Tripolis II attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636989,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Larisa's 1:0 home defensive grind and a 1:1 draw script, as a single Home Win is weakened by suspensions to Risvanis and K. Papageorgiou against a seven-match unbeaten visitor."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Anchored by a 2.09 total goal expectancy, 65.2% Poisson Under 2.5 probability, and Larisa conceding just 0.55 goals per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Larisa's 58.6% Poisson BTTS No projection, 0.55 goals conceded per match, and clean sheets in both sampled home fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Larisa's home defensive edge and top Poisson density (14.6%), while 1:1 covers Asteras Tripolis II's transition scoring streak."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Concentrated at the 27.0% and 25.9% peaks of the Poisson total-goals distribution in an Under 2.5 script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey level first half without K. Papageorgiou before either Larisa's senior bench forces a second-half breakthrough or the stalemate holds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 11:37:18 UTC"
+}
