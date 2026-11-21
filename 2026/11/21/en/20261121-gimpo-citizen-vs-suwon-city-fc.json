@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1510501,
+    "matchup": "Gimpo Citizen vs Suwon City FC",
+    "home_team": "Gimpo Citizen",
+    "away_team": "Suwon City FC",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-21 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-gimpo-citizen-vs-suwon-city-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimpo Citizen vs Suwon City FC Prediction & Match Analysis: Promotion Push Tests Home Draw Resilience",
+    "meta": {
+      "matchId": "1510501",
+      "league": "K League 2",
+      "matchup": "Gimpo Citizen vs Suwon City FC",
+      "matchTime": "2026-11-21 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Suwon City FC's attacking edge and second-half surge point toward Draw / Away Win alongside Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Suwon City FC's 1.90 goals-per-game attack, 15 set-piece goals, and direct promotion push, with the draw covered against Gimpo's 64.3% home unbeaten record (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes supported by 2.81 combined lambda and 78.6% away Over 2.5 and BTTS frequency for Suwon City FC (Confidence: Moderate, Value: High)",
+      "1:1 Containment Draw if Gimpo slows the tempo and exploits Suwon's 14.3% away clean-sheet rate without conceding late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510501",
+      "league": "K League 2",
+      "homeTeam": "Gimpo Citizen",
+      "awayTeam": "Suwon City FC",
+      "match_time": "07:30",
+      "match_highlight": "Suwon's set-piece edge tests Gimpo's leaky home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510501,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 away win driven by Suwon's superior attack and promotion push alongside the 1:1 draw script given Suwon's 14.3% away clean-sheet rate and Gimpo's six home draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.81 combined lambda, 53.3% Poisson Over 2.5 probability, Suwon's 78.6% away Over 2.5 rate, and Gimpo's four straight 3+ goal matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs keep clean sheets in just 14.3% of tonight's venue matches while scoring in 85.7% (Gimpo home) and 92.9% (Suwon away), aligning with 55.6% Poisson BTTS."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Suwon's attacking and set-piece edge breaking a porous Gimpo defense that still scores at home; 1:1 covers the modal Poisson draw scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 1:2 primary script and Over 2.5 projection, while two goals represent the top single Poisson bin (23.8%) and the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Gimpo draws 50.0% of home first halves before Suwon's 65.4% second-half away goal share drives Draw-Loss, with Draw-Draw covering a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:42:26 UTC"
+}
