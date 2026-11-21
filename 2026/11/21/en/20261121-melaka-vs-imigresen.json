@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601154,
+    "matchup": "Melaka vs Imigresen",
+    "home_team": "Melaka",
+    "away_team": "Imigresen",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-melaka-vs-imigresen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Melaka vs Imigresen Tactical Breakdown & Probabilistic Modeling: Open Defenses at Hang Jebat",
+    "meta": {
+      "matchId": "1601154",
+      "league": "Super League",
+      "matchup": "Melaka vs Imigresen",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Melaka to avoid defeat at Hang Jebat Stadium in an open, high-scoring clash clearing 2.5 goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Melaka's home scoring output against Imigresen's 3.00 away goals conceded per match, with 2:2 draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes backed by a 3.92 combined lambda total and zero clean sheets across six league games for both sides (Confidence: Moderate, Value: Moderate)",
+      "Second-half transition surge if Imigresen's counter-attackers exploit Melaka's forward full-backs late (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601154",
+      "league": "Super League",
+      "homeTeam": "Melaka",
+      "awayTeam": "Imigresen",
+      "match_time": "12:30",
+      "match_highlight": "Melaka's home firepower tests Imigresen's leaky away defense without clean sheets.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601154,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Melaka's 2.00 home goals per match favor a 2:1 home win against Imigresen's 3.00 away goals conceded, while Melaka's zero clean sheets require retaining the 2:2 draw branch."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.92 combined lambda total and 75.0% Poisson Over 2.5 probability align with Melaka's 6-for-6 Over 2.5 league record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides hold 0.0% clean-sheet rates across six rounds, supporting the 73.2% Poisson BTTS projection and high individual scoring floors."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Poisson top densities converge on 2:1 (8.2%) and 2:2 (7.2%), reflecting Melaka's home attacking edge paired with persistent defensive fragility."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (19.9%) and four goals (19.5%) lead the Poisson total-goals distribution alongside both teams' open transition profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Rust after a 20-day break favors a level half-time before a 2:1 Melaka win, while an early home lead risks second-half lead erosion to 2:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 10:23:35 UTC"
+}
