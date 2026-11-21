@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1579541,
+    "matchup": "Katwijk vs Rijnsburgse Boys",
+    "home_team": "Katwijk",
+    "away_team": "Rijnsburgse Boys",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-katwijk-vs-rijnsburgse-boys/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Katwijk vs Rijnsburgse Boys Prediction & Match Analysis: Can Leaky Defenses Hold in the Bollenstreek Derby?",
+    "meta": {
+      "matchId": "1579541",
+      "league": "Tweede Divisie",
+      "matchup": "Katwijk vs Rijnsburgse Boys",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Katwijk are projected to win or draw at Sportpark De Krom against Rijnsburgse Boys in an open derby featuring Over 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Katwijk's 1.93 home goal expectancy and Rijnsburgse Boys' 2.54 league goals conceded per match, with Draw covered for Katwijk's 2.00 goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals & BTTS: Yes backed by a 3.62 combined lambda expectancy and two defenses averaging over two goals conceded per game (Confidence: Moderate, Value: High)",
+      "High-Scoring 2:2 Draw contingency should Rijnsburgse Boys' 1.38-goals-per-game attack exploit Katwijk's open transition defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579541",
+      "league": "Tweede Divisie",
+      "homeTeam": "Katwijk",
+      "awayTeam": "Rijnsburgse Boys",
+      "match_time": "12:30",
+      "match_highlight": "Katwijk host winless-in-five Rijnsburgse Boys in a high-scoring Bollenstreek derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579541,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 2:1 Katwijk win against a five-game losing streak and the 2:2 draw branch driven by Katwijk's 2.00 goals-conceded average, where a single call underestimates host defensive leakage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.62 combined lambda expectancy, a 70.1% Poisson Over 2.5 baseline, and both clubs conceding 2.00+ goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks average over 1.30 league goals per game against backlines holding sub-19% projected clean-sheet probabilities, yielding a 69.7% BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 captures Katwijk's home attacking edge over Rijnsburgse Boys' depleted defense, while 2:2 covers the main transition-leakage draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals represent the top two Poisson buckets at 21.2% and 19.2%, aligning with 2:1 and 2:2 derby trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Katwijk's fast starts against a defense that conceded twice inside 19 minutes last week favor an early home lead, with Win-Draw covering second-half parity."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 09:24:22 UTC"
+}
