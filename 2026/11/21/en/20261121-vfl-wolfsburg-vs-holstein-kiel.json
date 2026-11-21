@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576241,
+    "matchup": "VfL Wolfsburg vs Holstein Kiel",
+    "home_team": "VfL Wolfsburg",
+    "away_team": "Holstein Kiel",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-vfl-wolfsburg-vs-holstein-kiel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VfL Wolfsburg vs Holstein Kiel Prediction & Match Analysis: Can Kniat's Debut Halt Wolfsburg's Home xG?",
+    "meta": {
+      "matchId": "1576241",
+      "league": "2. Bundesliga",
+      "matchup": "VfL Wolfsburg vs Holstein Kiel",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "VfL Wolfsburg are projected to secure an ordinary full-time home win over Holstein Kiel in Matchday 12, powered by superior home chance creation and Kiel's weakened away attack.",
+    "possibilityAssessment": [
+      "VfL Wolfsburg home victory driven by 2.20 xG/match and unbeaten home form against a winless road side (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals and BTTS Yes behind a 3.04 goal lambda and both teams' >1.65 xGA profiles (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Win-Draw risk scenario reflecting Wolfsburg's 42.9% rate of dropping half-time leads alongside Cleiton's suspension (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576241",
+      "league": "2. Bundesliga",
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "Holstein Kiel",
+      "match_time": "12:00",
+      "match_highlight": "Wolfsburg's 2.20 home xG tests Kniat's debut Kiel side without Kaprálik.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576241,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Wolfsburg's unbeaten home record, 2.20 xG/match, and Kiel's 0W-1D-4L away form without injured Adrián Kaprálik concentrate expectations on a 2:1 or 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.04 goal lambda (58.6% Poisson Over 2.5 probability) and both clubs conceding above 1.65 xGA per match support at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Wolfsburg's 1.66 xGA per game and Cleiton's suspension give Kiel a realistic route to one reply despite their 80% away failed-to-score rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Wolfsburg's superior attacking firepower meeting a 27.3% clean-sheet defense, while 2:0 captures the shutout margin if Kaprálik's absence stalls Kiel."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4% Poisson density) and two goals (22.1%) lead the probability matrix and map directly onto the 2:1 and 2:0 scoreline branches."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Wolfsburg led at half-time in 4 of 5 home league games supporting Win-Win, while their 42.9% overall lead-not-won rate makes Win-Draw the primary second-half risk path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 06:46:02 UTC"
+}
