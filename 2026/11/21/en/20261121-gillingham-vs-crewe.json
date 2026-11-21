@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563868,
+    "matchup": "Gillingham vs Crewe",
+    "home_team": "Gillingham",
+    "away_team": "Crewe",
+    "league": "League Two",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-gillingham-vs-crewe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gillingham vs Crewe Tactical Breakdown & Match Analysis: Demetriou Absence vs Priestfield Grit",
+    "meta": {
+      "matchId": "1563868",
+      "league": "League Two",
+      "matchup": "Gillingham vs Crewe",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects Home Win / Draw led by a low-margin stalemate alongside Under 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw — Draw leads as Crewe's 86.7% scoring consistency meets Gillingham's home containment, while Home Win covers a clean-sheet home squeeze (Confidence: Moderate, Value: Moderate)",
+      "Secondary Total Goals Angle: Under 2.5 Goals backed by 85.7% Crewe away under rate and five consecutive low-scoring head-to-heads (Confidence: Moderate, Value: High)",
+      "Contingency Angle: BTTS: Yes reflecting Crewe's Demetriou-weakened defense and 13-of-15 season scoring floor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563868",
+      "league": "League Two",
+      "homeTeam": "Gillingham",
+      "awayTeam": "Crewe",
+      "match_time": "12:30",
+      "match_highlight": "Demetriou-less Crewe defense faces Gillingham's Priestfield containment",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563868,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Built around a primary 1:1 draw and secondary 1:0 home win, covering both Crewe's draw frequency and their defensive vulnerability without Demetriou rather than risking a single outcome in an even matchup."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by 6 of 7 Crewe away games, 4 of 7 Gillingham home games, and all 5 recent head-to-heads finishing under 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Crewe have scored in 13 of 15 league games while missing captain Mickey Demetriou at the back against Gillingham's forward unit."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 is the top Poisson outcome matching Crewe's 53.3% draw rate, while 1:0 captures Gillingham's 42.9% home clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal Poisson expectation at 24.9%, with 1 goal reflecting the tight 1:0 history between these two sides."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Gillingham have drawn 6 of 7 home first halves and Crewe 4 of 7 away first halves, pointing to a level break before either a 1:1 share or narrow home winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 08:37:11 UTC"
+}
