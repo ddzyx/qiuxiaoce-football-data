@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647528,
+    "matchup": "Svoboda vs Šencur",
+    "home_team": "Svoboda",
+    "away_team": "Šencur",
+    "league": "Cup",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-svoboda-vs-encur/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Svoboda vs Šencur Tactical Breakdown & Probabilistic Modeling: Cup Attrition vs Imeraj's Edge",
+    "meta": {
+      "matchId": "1647528",
+      "league": "Cup",
+      "matchup": "Svoboda vs Šencur",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 goals and BTTS: No best reflects Šenčur's verified league and attacking superiority while covering the 90-minute stalemate created by Šenčur's erratic away defending.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Draw / Away Win prioritizes Šenčur's 19-vs-8 point league advantage and 23-vs-11 goal output while retaining the 90-minute draw due to Šenčur's four losses in five recent road league games (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals aligns with the 2.25 combined lambda, 60.9% Poisson probability, and three straight low-scoring head-to-head meetings averaging 0.67 goals (Confidence: Moderate, Value: High)",
+      "BTTS: No leverages Svoboda's 0.79 goals-per-match league scoring rate and three consecutive scoreless outings against Šenčur (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647528",
+      "league": "Cup",
+      "homeTeam": "Svoboda",
+      "awayTeam": "Šencur",
+      "match_time": "12:30",
+      "match_highlight": "Can bottom-placed Svoboda stifle Edmond Imeraj again in Ljubljana?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647528,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a narrow 0:1 Šenčur breakthrough driven by their superior 3. SNL Zahod attack and a 1:1 cup stalemate caused by Šenčur's leaky away defense, whereas a single Away Win would leave that road fragility unaddressed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 total lambda (60.9% Under 2.5 baseline) and three straight head-to-head fixtures producing only two goals combined."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Svoboda average 0.79 goals per league match and failed to score in their last three meetings with Šenčur, reinforcing a 54.6%-plus shutout profile."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Primary 0:1 mirrors September's league meeting in Ljubljana, while 1:1 accounts for Šenčur's recent second-half away concessions."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Aligns the 1-goal H2H pattern with the 26.7% two-goal Poisson baseline peak in a tight Round of 16 knockout tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both recent H2H clashes with verified half-time records were 0:0 at the break, pointing to a level opening 45 minutes before Šenčur edge ahead or the tie goes to extra time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 10:44:14 UTC"
+}
