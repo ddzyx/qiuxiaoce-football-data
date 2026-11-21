@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1643066,
+    "matchup": "Baniyas SC vs Al Nasr",
+    "home_team": "Baniyas SC",
+    "away_team": "Al Nasr",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-21 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261121-baniyas-sc-vs-al-nasr/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Baniyas SC vs Al Nasr Tactical Breakdown & Probabilistic Modeling: Can Home Block Halt Al Nasr?",
+    "meta": {
+      "matchId": "1643066",
+      "league": "Pro League",
+      "matchup": "Baniyas SC vs Al Nasr",
+      "matchTime": "2026-11-21 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Nasr hold a decisive Pro League attacking advantage over winless Baniyas SC, justifying a Draw / Away Win direction anchored on a 1:2 away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing Away Win via second-half attacking depth (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals driven by Baniyas SC's 1.86 league goals conceded per match and 2.79 combined lambda (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes as Al Nasr's winless away defense faces transition threats Youssoufou Niakaté and Saviour Godwin (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643066",
+      "league": "Pro League",
+      "homeTeam": "Baniyas SC",
+      "awayTeam": "Al Nasr",
+      "match_time": "12:45",
+      "match_highlight": "Can Baniyas SC's low-block clearances survive Al Nasr's second-half attacking depth?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1643066,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al Nasr's primary 1:2 quality-driven win script alongside a 1:1 stalemate if Baniyas SC's compact low block extends their away frustration."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.79 combined lambda, 52.8% Poisson Over 2.5 probability, and Baniyas SC conceding 10 goals in 4 home Pro League losses."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with a 52.7% Poisson BTTS projection, Al Nasr's 71% Pro League BTTS rate, and Baniyas SC's counter-attacking pace."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Al Nasr's superior finishing edge while 1:1 reflects Baniyas SC's recent defensive tightening and Al Nasr's modest road shot volume."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 2.79 lambda_total and 1:2 primary score, while two goals covers the tight 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs tend toward cautious first halves, leaving second-half depth to decide between an Al Nasr breakthrough or a shared draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:14:19 UTC"
+}
