@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649505,
+    "matchup": "Ostersunds FK vs Varbergs BoIS FC",
+    "home_team": "Ostersunds FK",
+    "away_team": "Varbergs BoIS FC",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-ostersunds-fk-vs-varbergs-bois-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ostersunds FK vs Varbergs BoIS FC Tactical Breakdown & Probabilistic Modeling: First-Leg Playoff Tension",
+    "meta": {
+      "matchId": "1649505",
+      "league": "Allsvenskan",
+      "matchup": "Ostersunds FK vs Varbergs BoIS FC",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Model synthesis favors Ostersunds FK on a Home Win / Draw trajectory paired with Under 2.5 total goals in a tight first-leg playoff opener.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Ostersunds FK's 66% home possession, 29-goal league defense, and first-leg stalemate trends (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.25 combined lambda baseline and 60.9% Poisson under projection (Confidence: Moderate, Value: Moderate)",
+      "1:1 Transition Draw contingency if Varbergs BoIS FC's 50-goal attack converts a counter-attacking chance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649505",
+      "league": "Allsvenskan",
+      "homeTeam": "Ostersunds FK",
+      "awayTeam": "Varbergs BoIS FC",
+      "match_time": "12:00",
+      "match_highlight": "Ostersunds home possession meets Varbergs unbeaten counter threat in playoff opener.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649505,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Ostersunds FK's narrow 1:0 home control script and the 1:1 stalemate path because neither club separates cleanly across a cautious first leg."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.25 combined lambda baseline and Ostersunds FK's compact 0.97 league goals-conceded rate support under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson clean-sheet projections (35.0% home, 30.1% away) and reduced away shot volume for Varbergs favor at least one shutout."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Converges on a tight 1:0 home edge with a 1:1 draw branch matching October's Superettan meeting at Jämtkraft Arena."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Poisson total-goal density peaks at 2 goals (26.7%) and 1 goal (23.7%) under restrained playoff pacing."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "First-leg caution favors a level interval before Ostersunds FK either break through late or share the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 07:25:07 UTC"
+}
