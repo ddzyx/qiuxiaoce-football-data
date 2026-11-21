@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551602,
+    "matchup": "Ružomberok vs Slovan Bratislava",
+    "home_team": "Ružomberok",
+    "away_team": "Slovan Bratislava",
+    "league": "Super Liga",
+    "kickoff_utc": "2026-11-21 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-ru-omberok-vs-slovan-bratislava/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ružomberok vs Slovan Bratislava Tactical Breakdown & Probabilistic Modeling: Ščasný's Debut vs Champions",
+    "meta": {
+      "matchId": "1551602",
+      "league": "Super Liga",
+      "matchup": "Ružomberok vs Slovan Bratislava",
+      "matchTime": "2026-11-21 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Slovan Bratislava for an Away Win in a 1:2 Over 2.5 contest driven by their 2.29 goals-per-game Super Liga attack and 6-1-1 road record.",
+    "possibilityAssessment": [
+      "Away Win — Slovan Bratislava's 2.29 goals/match output, 75.0% away win rate, and healthy Šporar-Barseghyan-Ibrahim core outmatch a defense conceding 2.07 goals per game (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined lambda_total of 3.18 (61.6% Poisson Over 2.5) and Slovan's 76.9% league Over 2.5 rate support a three-goal ceiling led by 1:2 (Confidence: Moderate, Value: Moderate)",
+      "Slovan 0:2 Controlled Shutout — If Ščasný's debut block stalls open play and Slovan manage minutes ahead of Tuesday's Real Betis fixture without conceding, a clinical 0:2 road win covers the Under 2.5 branch (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551602",
+      "league": "Super Liga",
+      "homeTeam": "Ružomberok",
+      "awayTeam": "Slovan Bratislava",
+      "match_time": "14:30",
+      "match_highlight": "Ščasný debuts for Ružomberok against rested Super Liga power Slovan Bratislava.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551602,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by a 1:2 core projection, Slovan Bratislava's 2.29 goals/pg offense, 6-1-1 away league record, and 249-point Elo edge outweigh Ružomberok's new-coach bounce."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.18 lambda_total (61.6% Poisson Over 2.5) and Slovan's 76.9% league Over 2.5 frequency align with a three-goal script."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Slovan's 92.3% league scoring consistency meets a 37.5% away clean-sheet rate, giving Ščasný's hosts a 63.2% model scoring floor."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 and 0:2 share the top 9.9% Poisson density, balancing Ružomberok's home scoring chance against a clinical Slovan shutout before Real Betis."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.0%) lead the Poisson total-goal distribution around lambda_total 3.18."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "From Ružomberok's perspective, Slovan's 50.0% away half-time lead rate (6/6 converted) favors Loss-Loss, while Draw-Loss covers a tight opening half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 14:08:51 UTC"
+}
