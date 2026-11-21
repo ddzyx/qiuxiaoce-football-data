@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551044,
+    "matchup": "Tigres UANL vs Club America",
+    "home_team": "Tigres UANL",
+    "away_team": "Club America",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-22 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-tigres-uanl-vs-club-america/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Tigres UANL vs Club America: Expected Goals (xG), Key Absences & Match Preview",
+    "meta": {
+      "matchId": "1551044",
+      "league": "Liga MX",
+      "matchup": "Tigres UANL vs Club America",
+      "matchTime": "2026-11-22 03:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club America's superior attacking depth and second-half scoring surge favor an Away Win with both teams scoring, while key visitor absences keep the Draw in scope.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Away Win via America's 1.96 xG and 63.2% second-half goal share (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by 3.22 total lambda and 75.0% away Over 2.5 rate for America (Confidence: Moderate, Value: High)",
+      "BTTS Yes backed by America's 0.0% failed-to-score rate and 87.5% away BTTS frequency (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551044",
+      "league": "Liga MX",
+      "homeTeam": "Tigres UANL",
+      "awayTeam": "Club America",
+      "match_time": "03:00",
+      "match_highlight": "Depleted America seek top seed against rested Tigres at El Volcan.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551044,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains the Draw (1:1) alongside leading Away Win (1:2) because America miss Erick Sanchez and Brian Rodriguez despite a clear xG and road edge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.22 combined lambda, 62.4% Poisson Over 2.5 projection, and Club America clearing 2.5 goals in 6 of 8 away matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "America have scored in all 16 games while keeping 1 clean sheet in 8 away trips, facing a Tigres side that scored in 6 of 7 home fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures America's second-half edge against Tigres's 1.67 xGA defense; 1:1 covers America's missing wide threat extending their league draw streak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (20.7%) represent the two highest-density bands in the independent Poisson distribution and match 1:2 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tigres drew the first half in 5 of 7 home games, setting up a level interval before America either accelerate (Draw-Loss) or share points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 23:59:32 UTC"
+}
