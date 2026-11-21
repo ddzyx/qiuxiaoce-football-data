@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516188,
+    "matchup": "Nasaf vs Mash'al",
+    "home_team": "Nasaf",
+    "away_team": "Mash'al",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-nasaf-vs-mash-al/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nasaf vs Mash'al Tactical Breakdown & Probabilistic Modeling: Breaking a Bottom-Placed Low Block",
+    "meta": {
+      "matchId": "1516188",
+      "league": "Super League",
+      "matchup": "Nasaf vs Mash'al",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and 27-round fundamental metrics project a controlled Nasaf home victory underpinned by clean-sheet superiority over bottom-placed Mash'al.",
+    "possibilityAssessment": [
+      "Home Win — Superior scoring efficiency (1.44 vs 0.44 goals/match) and home territorial control favor Nasaf at Markaziy Stadium (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No — Modest 2.37 combined lambda and Mash'al's 12-goal season output point toward a low-scoring home shutout (Confidence: Moderate, Value: High)",
+      "Draw-Win HT/FT — A compact Mash'al 5-4-1 block could hold level until half-time before Nasaf break through late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516188",
+      "league": "Super League",
+      "homeTeam": "Nasaf",
+      "awayTeam": "Mash'al",
+      "match_time": "12:00",
+      "match_highlight": "Nasaf's home attack tests Mash'al's league-worst defense after the international break.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516188,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Nasaf's 1.70 expected-goal anchor and 40-point standings advantage strongly support a controlled 2:0 or 1:0 home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.37 combined goal expectancy, Mash'al's 0.44 scoring rate, and Nasaf's upcoming continental fixture cap the scoring ceiling below 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Mash'al's 0.44 goals-per-game attack faces a disciplined Nasaf back line posting a 51.2% baseline home clean-sheet probability."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 captures Nasaf's home territorial gap, while 1:0 accounts for Mash'al's compact 5-4-1 resistance and Nasaf's chance waste."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two and one total goals align with the top Poisson density outcomes and a controlled home shutout script."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Win-Win reflects Nasaf's 72.7% tracked home first-half goal share, while Draw-Win covers patient second-half conversion against a deep block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:47:25 UTC"
+}
