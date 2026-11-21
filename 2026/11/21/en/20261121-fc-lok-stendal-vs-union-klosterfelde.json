@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1577054,
+    "matchup": "FC Lok Stendal vs Union Klosterfelde",
+    "home_team": "FC Lok Stendal",
+    "away_team": "Union Klosterfelde",
+    "league": "Oberliga - Nordost-Nord",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-fc-lok-stendal-vs-union-klosterfelde/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Lok Stendal vs Union Klosterfelde Prediction & Match Analysis: Can Klosterfelde Break Away Duck?",
+    "meta": {
+      "matchId": "1577054",
+      "league": "Oberliga - Nordost-Nord",
+      "matchup": "FC Lok Stendal vs Union Klosterfelde",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads as Union Klosterfelde's tighter defensive structure and recent cup momentum outweigh FC Lok Stendal's seven-match league winless slide, while the visitors' winless away league record warrants retaining the stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both the visitors' 40.7% Poisson win edge and their high away draw frequency (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals with Both Teams To Score Yes reflects Stendal's 3.80 total goals per home game and 9.1% clean-sheet rates on both sides (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 draw branch remains active if Klosterfelde stay capped at one road league goal for a sixth straight trip (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1577054",
+      "league": "Oberliga - Nordost-Nord",
+      "homeTeam": "FC Lok Stendal",
+      "awayTeam": "Union Klosterfelde",
+      "match_time": "12:30",
+      "match_highlight": "Winless hosts face draw-heavy Klosterfelde in crucial Oberliga relegation six-pointer.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1577054,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Union Klosterfelde's 1.45 goals-conceded rate and four-match unbeaten competitive run support the 1:2 away win, while their 0W-3D-2L road league mark makes retaining the 1:1 draw stronger than a solitary away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.77 combined goal expectancy and Stendal's 2.40 home goals-conceded average support Over 2.5 (52.3% Poisson probability) over a tighter Under 2.5 script."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs hold a 9.1% league clean-sheet rate (1 in 11) and clear a 73% single-side scoring projection in the Poisson baseline, supporting mutual scoring."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "A 1:2 away win aligns with Stendal's open home profile and Klosterfelde's sharper trajectory, while 1:1 covers the modal 12.0% Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals fits the primary 1:2 Over 2.5 projection, with two goals (24.0% Poisson density) capturing the 1:1 draw alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half under relegation tension splits after the break between a late Klosterfelde breakthrough (Draw-Loss) and a shared stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 09:20:19 UTC"
+}
