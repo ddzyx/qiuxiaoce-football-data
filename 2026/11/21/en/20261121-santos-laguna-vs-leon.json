@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551042,
+    "matchup": "Santos Laguna vs Leon",
+    "home_team": "Santos Laguna",
+    "away_team": "Leon",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-21 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-santos-laguna-vs-leon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Santos Laguna vs Leon: Expected Goals, Suspensions & Match Intelligence",
+    "meta": {
+      "matchId": "1551042",
+      "league": "Liga MX",
+      "matchup": "Santos Laguna vs Leon",
+      "matchTime": "2026-11-21 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Santos Laguna are backed to win or draw against a suspension-depleted Leon side in an open Round 17 contest projected to clear 2.5 goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Santos Laguna victory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals anchored by 2:1 projected scoreline and Leon's defensive suspensions (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes with 1:1 draw contingency hedge (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551042",
+      "league": "Liga MX",
+      "homeTeam": "Santos Laguna",
+      "awayTeam": "Leon",
+      "match_time": "23:00",
+      "match_highlight": "Rested Santos home surge meets suspension-hit Leon in Liguilla decider.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551042,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Santos Laguna's 2:1 home transition win against Leon's suspended central spine and the 12.2% Poisson modal 1:1 draw, as Santos's 1.70 xGA prevents a single-outcome lock."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.72 combined lambda, 51.1% Poisson Over 2.5 rate, strong 1.62 market pricing, and Leon's urgent need to attack without two suspended defensive starters."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Leon have scored in 15 of 16 league games against Santos's 1.70 xGA, while Leon's 12.5% away clean-sheet rate leaves them vulnerable to Santos's 1.61 xG attack."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Santos exploiting Leon's missing defensive core in second-half transitions, while 1:1 captures the highest-density Poisson outcome if Paiva's block slows late tempo."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2:1 primary script and 2.72 lambda_total, while 2 goals covers the 24.4% modal Poisson total under a cautious 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams score roughly two-thirds of their goals after half-time, pointing to a level break before Santos pull clear or share points late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 22:42:39 UTC"
+}
