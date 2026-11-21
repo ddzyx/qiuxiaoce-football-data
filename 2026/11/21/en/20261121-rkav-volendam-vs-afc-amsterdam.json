@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1579542,
+    "matchup": "RKAV Volendam vs AFC Amsterdam",
+    "home_team": "RKAV Volendam",
+    "away_team": "AFC Amsterdam",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-21 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-rkav-volendam-vs-afc-amsterdam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RKAV Volendam vs AFC Amsterdam Tactical Breakdown & Probabilistic Modeling: Home Edge vs AFC Form",
+    "meta": {
+      "matchId": "1579542",
+      "league": "Tweede Divisie",
+      "matchup": "RKAV Volendam vs AFC Amsterdam",
+      "matchTime": "2026-11-21 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects RKAV Volendam to avoid defeat (Home Win / Draw) in an open Over 2.5 and BTTS: Yes encounter anchored on a 2:1 home edge.",
+    "possibilityAssessment": [
+      "RKAV Volendam Home Win / Draw dual direction capturing a narrow home transition victory and a high-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by a 3.54 combined goal lambda and mutual defensive leaks (Confidence: High, Value: High)",
+      "2:2 Draw contingency if AFC Amsterdam's 56.1% possession neutralizes early home control (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579542",
+      "league": "Tweede Divisie",
+      "homeTeam": "RKAV Volendam",
+      "awayTeam": "AFC Amsterdam",
+      "match_time": "13:30",
+      "match_highlight": "Volendam's 0% tracked clean-sheet rate meets AFC's 1.85 league goals conceded.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579542,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home transition win backed by Volendam's superior league table return and the 2:2 draw script driven by their 50% tracked league draw rate and clean-sheet fragility, as a narrow 0.16 lambda edge makes a single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Season goal rates generate a 3.54 combined lambda and a 68.6% Poisson probability for three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Volendam's 0.0% tracked clean-sheet rate and AFC's 1.85 league goals conceded per match leave both defenses exposed, yielding a 68.7% BTTS baseline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Volendam's one-goal home winning margin pattern, while 2:2 covers AFC's scoring route against a winless clean-sheet defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.5%) and 4 goals (19.0%) represent the two highest-density total-goal outcomes in the 3.54-lambda scoring distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Volendam won both tracked league games when leading at half-time (Win-Win), whereas half-time stalemates have consistently stayed level through full-time (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 13:18:52 UTC"
+}
