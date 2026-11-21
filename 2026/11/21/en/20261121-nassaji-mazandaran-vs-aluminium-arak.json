@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649591,
+    "matchup": "Nassaji Mazandaran vs Aluminium Arak",
+    "home_team": "Nassaji Mazandaran",
+    "away_team": "Aluminium Arak",
+    "league": "Persian Gulf Pro League",
+    "kickoff_utc": "2026-11-21 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261121-nassaji-mazandaran-vs-aluminium-arak/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nassaji Mazandaran vs Aluminium Arak Prediction & Match Analysis: Compact Visitors Test Draw-Prone Hosts",
+    "meta": {
+      "matchId": "1649591",
+      "league": "Persian Gulf Pro League",
+      "matchup": "Nassaji Mazandaran vs Aluminium Arak",
+      "matchTime": "2026-11-21 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aluminium Arak hold the superior two-way statistical profile in a low-scoring matchup where Draw / Away Win, Under 2.5 goals, and BTTS: No align tightly.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Aluminium Arak's 40.0% Poisson win projection and +0.25 goal-per-game lambda edge alongside Nassaji Mazandaran's 50% season draw rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with a 1.67 combined lambda (76.5% Poisson expectancy) and both teams conceding under 1.00 goal per match (Confidence: Moderate, Value: High)",
+      "BTTS: No and 0:0 / 0:1 low-score scripts reflect Nassaji's 0.67 goals-per-game attack facing a defense allowing 0.75 goals per game (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649591",
+      "league": "Persian Gulf Pro League",
+      "homeTeam": "Nassaji Mazandaran",
+      "awayTeam": "Aluminium Arak",
+      "match_time": "12:45",
+      "match_highlight": "Aluminium Arak's 0.75 GA/game defense faces draw-prone Nassaji Mazandaran.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649591,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Aluminium Arak's 1.00 scored and 0.75 conceded averages support an away breakthrough (0:1), while Nassaji's six draws in 12 matches plus the visitors' October road losses justify covering 0:0 over a single Away Win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.67 combined lambda yields a 76.5% Under 2.5 Poisson projection between two sub-1.0 goals-conceded defenses."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Nassaji average 0.67 goals per game (50.8% scoring expectancy) against Aluminium Arak's 0.75 goals-conceded structure, driving a 68.6% BTTS: No probability."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Both 0:1 (18.1%) and 0:0 (18.8%) lead the Poisson matrix and capture the contrast between Aluminium Arak's clean-sheet edge and Nassaji's stalemate tendency."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One goal (31.4%) and two goals (26.3%) form the two highest-probability Poisson buckets for this 1.67 lambda contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half containment points toward a level break before Aluminium Arak either strike late (Draw-Loss) or share a tight stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:28:38 UTC"
+}
