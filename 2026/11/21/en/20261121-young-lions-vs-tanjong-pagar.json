@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603484,
+    "matchup": "Young Lions vs Tanjong Pagar",
+    "home_team": "Young Lions",
+    "away_team": "Tanjong Pagar",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-young-lions-vs-tanjong-pagar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Young Lions vs Tanjong Pagar Prediction & Match Analysis: Midfield Absences vs Defensive Leaks",
+    "meta": {
+      "matchId": "1603484",
+      "league": "Premier League",
+      "matchup": "Young Lions vs Tanjong Pagar",
+      "matchTime": "2026-11-21 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tanjong Pagar are favored to win or claim a high-scoring draw at Jalan Besar against a Young Lions side allowing 3.50 goals per match.",
+    "possibilityAssessment": [
+      "Tanjong Pagar Win or Draw remains the primary direction due to superior attacking output and Young Lions' 21 goals conceded in six league games (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals aligns with a 4.16 combined Poisson lambda and nine of both clubs' twelve combined league matches clearing three goals (Confidence: High, Value: High)",
+      "Both Teams To Score (Yes) reflects Young Lions' five-game scoring run meeting a Tanjong Pagar backline still chasing its first clean sheet (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603484",
+      "league": "Premier League",
+      "homeTeam": "Young Lions",
+      "awayTeam": "Tanjong Pagar",
+      "match_time": "11:30",
+      "match_highlight": "Suspension of Gallagher leaves Tanjong Pagar exposed against resurgent Young Lions.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603484,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Tanjong Pagar lead the 1:2 away-win script against Young Lions' 3.50 GA/gm defense, while Gallagher's suspension keeps a 2:2 draw live."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.16 combined lambda (78.4% Over 2.5 probability) and 6.17 combined goals conceded per game strongly favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses average 2.67+ goals conceded per game with Tanjong Pagar holding zero clean sheets and Young Lions scoring in five straight."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 holds the top Poisson scoreline density (7.8%) with 2:2 (7.1%) capturing the draw path if Young Lions exploit midfield gaps."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four goals (19.5%) and three goals (18.7%) represent the two highest-probability Poisson bands around the 4.16 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss captures a cagey post-break opening before Tanjong Pagar pull away late, while Loss-Draw covers a Young Lions second-half comeback."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:24:23 UTC"
+}
