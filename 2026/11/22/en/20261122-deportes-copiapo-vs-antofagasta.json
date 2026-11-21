@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650550,
+    "matchup": "Deportes Copiapo vs Antofagasta",
+    "home_team": "Deportes Copiapo",
+    "away_team": "Antofagasta",
+    "league": "Primera B",
+    "kickoff_utc": "2026-11-22 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-deportes-copiapo-vs-antofagasta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportes Copiapo vs Antofagasta Tactical Breakdown: Can Home Block Slow Top Seed?",
+    "meta": {
+      "matchId": "1650550",
+      "league": "Primera B",
+      "matchup": "Deportes Copiapo vs Antofagasta",
+      "matchTime": "2026-11-22 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Antofagasta is projected to leave the first leg unbeaten via a 1:2 away victory or 1:1 stalemate, backed by superior 30-match scoring and defensive efficiency.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Antofagasta's 1.80 goals-per-match attack and +26 goal differential against first-leg knockout caution (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.81 combined goal expectancy and both teams' open November league fixtures (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Manuel Lopez's home finishing threat meeting Antofagasta's recent away goals conceded (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650550",
+      "league": "Primera B",
+      "homeTeam": "Deportes Copiapo",
+      "awayTeam": "Antofagasta",
+      "match_time": "00:00",
+      "match_highlight": "Antofagasta's clinical transition attack tests Copiapo's compact home playoff block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650550,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Antofagasta's superior 1:2 winning trajectory alongside a 1:1 first-leg stalemate because two-legged playoff caution makes an outright away single too narrow without confirmed lineups."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.81 combined goal expectancy (53.3% Over 2.5 probability) and recent high-scoring outings from Antofagasta."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 55.9% Poisson BTTS probability, Copiapo's 69.9% home scoring floor behind Manuel Lopez, and Antofagasta's 80.0% scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Balances Antofagasta's clear scoring superiority (1.61 lambda) against Copiapo's pragmatic home resistance in a first-leg tie."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the two densest Poisson exact-goal bins (22.3% for 3 goals, 23.8% for 2 goals) around a 2.81 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects a tight, low-margin first half under two 4-4-2 blocks before Antofagasta's second-half quality either breaks through or settles for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 23:05:49 UTC"
+}
