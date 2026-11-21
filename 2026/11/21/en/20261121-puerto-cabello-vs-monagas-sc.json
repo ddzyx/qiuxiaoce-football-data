@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1646937,
+    "matchup": "Puerto Cabello vs Monagas SC",
+    "home_team": "Puerto Cabello",
+    "away_team": "Monagas SC",
+    "league": "Primera División",
+    "kickoff_utc": "2026-11-21 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-puerto-cabello-vs-monagas-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Puerto Cabello vs Monagas SC Tactical Breakdown & Probabilistic Modeling: Finishing Waste vs Leaky Defense",
+    "meta": {
+      "matchId": "1646937",
+      "league": "Primera División",
+      "matchup": "Puerto Cabello vs Monagas SC",
+      "matchTime": "2026-11-21 23:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Back Puerto Cabello to avoid defeat (Home Win / Draw) in a low-scoring Clausura Quadrangular matchup anchored by superior home defensive containment.",
+    "possibilityAssessment": [
+      "Puerto Cabello Win / Draw (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals supported by 2.41 combined lambda and 56.7% Poisson baseline (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency if home finishing waste leaves Monagas a late counter-attacking opening (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1646937",
+      "league": "Primera División",
+      "homeTeam": "Puerto Cabello",
+      "awayTeam": "Monagas SC",
+      "match_time": "23:30",
+      "match_highlight": "Home chance conversion meets Monagas' 1.67 goals-conceded defensive vulnerability.",
+      "ai_confidence": "Low",
+      "fixtureId": 1646937,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Led by a 1:0 home victory against Monagas' 1.67 goals-conceded rate, while retaining 1:1 because Puerto Cabello's 64.3% big-chance waste rate and six-point table parity make a single win call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.41 combined lambda, 56.7% Poisson Under 2.5 probability, and sub-1.00 time-decayed scoring averages for both sides."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Matches the 1:0 primary scoreline and 51.4% Poisson BTTS No lean, driven by Monagas' 0.83 goals per game and 100.0% big-chance waste ratio."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Puerto Cabello's narrow home lambda edge over a leaky Monagas defense, while 1:1 covers the top Poisson stalemate branch if home chances are wasted."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.1%) and one goal (21.6%) lead the Poisson total-goals distribution around a 2.41 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects a tight first half followed by a late home breakthrough, while Win-Draw covers Puerto Cabello conceding after an early lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 22:58:19 UTC"
+}
