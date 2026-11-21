@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551043,
+    "matchup": "U.N.A.M. - Pumas vs Monterrey",
+    "home_team": "U.N.A.M. - Pumas",
+    "away_team": "Monterrey",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-22 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-u-n-a-m-pumas-vs-monterrey/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "U.N.A.M. - Pumas vs Monterrey Tactical Breakdown & Probabilistic Modeling: Liguilla Stakes & Flank Gaps",
+    "meta": {
+      "matchId": "1551043",
+      "league": "Liga MX",
+      "matchup": "U.N.A.M. - Pumas vs Monterrey",
+      "matchTime": "2026-11-22 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Monterrey hold the higher winning ceiling against a Pumas side with one home victory and one clean sheet all Apertura, making Draw / Away Win alongside Over 2.5 and BTTS Yes the coherent match direction.",
+    "possibilityAssessment": [
+      "Primary 1X2 thesis favors Draw / Away Win to capture Monterrey's superior chance creation alongside Pumas' high home stalemate rate (Confidence: Moderate, Value: Moderate)",
+      "Secondary totals angle favors Over 2.5 goals given a 3.19 combined lambda expectancy and must-win Round 17 urgency for Pumas (Confidence: Moderate, Value: High)",
+      "Contingency variance tracks a 2:2 high-scoring stalemate if César Huerta exploits Monterrey's depleted right flank while Pumas concede in transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551043",
+      "league": "Liga MX",
+      "homeTeam": "U.N.A.M. - Pumas",
+      "awayTeam": "Monterrey",
+      "match_time": "01:00",
+      "match_highlight": "Pumas chase Liguilla survival while Monterrey test a Vite-less midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551043,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Monterrey victory driven by their xG edge and a 2:2 stalemate reflecting Pumas' five home draws, as a single Away Win leaves Monterrey's four road defeats unguarded."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.19 combined lambda expectancy, Pumas' 62.5% Over 2.5 rate, and defensive absences on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Pumas hold a 6.2% clean-sheet rate overall while Monterrey carry just a 25.0% away shutout rate without Chávez and Medina."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Both scorelines sit inside Draw / Away Win and Over 2.5, capturing Monterrey's finishing edge and Pumas' home scoring floor."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals leads the Poisson total distribution at 22.3%, with four goals capturing late Round 17 transition chaos."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw 50% of first halves at this venue before Pumas' must-win late push forces either a Monterrey winner or a high-scoring draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 23:44:23 UTC"
+}
