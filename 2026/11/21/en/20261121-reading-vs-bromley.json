@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1564426,
+    "matchup": "Reading vs Bromley",
+    "home_team": "Reading",
+    "away_team": "Bromley",
+    "league": "League One",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-reading-vs-bromley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Reading vs Bromley Prediction & Match Analysis: Can Robinson's Backline Halt Marriott? — xG Preview",
+    "meta": {
+      "matchId": "1564426",
+      "league": "League One",
+      "matchup": "Reading vs Bromley",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Reading hold a clear statistical and home-venue edge to defeat 24th-placed Bromley in an open match featuring Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Reading Home Win backed by 1.85 xG/match and 71.4% home win rate against Bromley's 2.12 xGA/match (Confidence: Moderate, Value: Moderate)",
+      "Scoring Thesis: Over 2.5 Goals and BTTS Yes driven by 3.23 total lambda and Bromley's 85.7% away scoring rate (Confidence: Moderate, Value: High)",
+      "Chronological Thesis: Draw-Win or Win-Win progression as Reading's second-half home firepower exploits Bromley's depleted backline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1564426",
+      "league": "League One",
+      "homeTeam": "Reading",
+      "awayTeam": "Bromley",
+      "match_time": "12:30",
+      "match_highlight": "Reading's 1.85 xG home attack meets Bromley's 2.12 xGA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1564426,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored by 2:1 and 3:1 home projections as Reading's 71.4% home win rate and 1.85 xG outweigh Bromley's 2.12 xGA defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.23 combined lambda, 62.6% Poisson Over 2.5 rate, and Bromley's 71.4% away Over 2.5 frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Reading have scored in 100% of home league matches while Bromley have scored in 6 of 7 away league games against a rotated home backline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 tops the Poisson matrix at 9.9% and 3:1 captures Reading's 42.9% home two-plus goal winning margin if chances convert efficiently."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns directly with the top two Poisson goal counts in an open 3.23-lambda matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Bromley's 57.1% away half-time draw rate favors a Draw-Win breakthrough, with Win-Win covering an early Reading strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 09:11:06 UTC"
+}
