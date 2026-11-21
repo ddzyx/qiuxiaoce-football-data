@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1510502,
+    "matchup": "Seongnam FC vs Yongin City",
+    "home_team": "Seongnam FC",
+    "away_team": "Yongin City",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-21 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-seongnam-fc-vs-yongin-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Seongnam FC vs Yongin City Tactical Breakdown & Probabilistic Modeling: Late-Goal Asymmetry",
+    "meta": {
+      "matchId": "1510502",
+      "league": "K League 2",
+      "matchup": "Seongnam FC vs Yongin City",
+      "matchTime": "2026-11-21 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 and BTTS Yes captures Yongin City's superior recent form alongside Seongnam FC's high home draw density.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Yongin's 42.9 form index and 78.6% away scoring rate vs Seongnam's five-match slump (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals supported by Seongnam's 64.3% home Under 2.5 record and a 2.59 combined lambda baseline (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score Yes driven by Seongnam's 13.8% clean-sheet rate and Yongin's 1.50 goals conceded per game (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510502",
+      "league": "K League 2",
+      "homeTeam": "Seongnam FC",
+      "awayTeam": "Yongin City",
+      "match_time": "07:30",
+      "match_highlight": "Seongnam home containment meets Yongin second-half firepower in Round 33.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510502,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the 1:1 modal draw driven by Seongnam's 64.3% home unbeaten rate alongside the 1:2 away win where Yongin's 42.9 form index prevails."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.59 lambda total (52.1% Under 2.5 baseline) and Seongnam's 64.3% home Under 2.5 frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses lack clean-sheet security (Seongnam 13.8%, Yongin 24.1%) with both teams exceeding 72% Poisson scoring probability."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the top Poisson outcome (12.6%), while 1:2 reflects Yongin City's stronger second-half away scoring punch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the Poisson distribution (25.2%) with 3 goals (21.7%) covering a late-game away breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both teams draw roughly half their half-times (42.9% home vs 50.0% away), splitting between a 1:1 stalemate and Yongin's second-half push."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:45:26 UTC"
+}
