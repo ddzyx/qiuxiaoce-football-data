@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551382,
+    "matchup": "Vendsyssel FF vs Hvidovre",
+    "home_team": "Vendsyssel FF",
+    "away_team": "Hvidovre",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-21 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-vendsyssel-ff-vs-hvidovre/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vendsyssel FF vs Hvidovre Tactical Breakdown & Probabilistic Modeling: Second-Half Asymmetry",
+    "meta": {
+      "matchId": "1551382",
+      "league": "1. Division",
+      "matchup": "Vendsyssel FF vs Hvidovre",
+      "matchTime": "2026-11-21 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Unbeaten 1. Division leaders Hvidovre project for an Away Win at Nord Energi Arena as their clinical second-half attacking surge exposes Vendsyssel FF's home finishing waste and defensive fragility.",
+    "possibilityAssessment": [
+      "Away Win for Hvidovre driven by superior shot volume, set-piece threat, and second-half scoring dominance (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes anchored on 2.79 combined lambda and Hvidovre's 71.4% away BTTS rate (Confidence: Moderate, Value: Moderate)",
+      "0:2 Away Shutout contingency covering Vendsyssel FF's 50.0% home failed-to-score rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551382",
+      "league": "1. Division",
+      "homeTeam": "Vendsyssel FF",
+      "awayTeam": "Hvidovre",
+      "match_time": "13:00",
+      "match_highlight": "Unbeaten leaders Hvidovre target second-half surge at struggling Vendsyssel FF.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551382,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Hvidovre's 57.3% Poisson win edge, 1.93 goals per game, and unbeaten away record align around a 1:2 or 0:2 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.79 combined lambda, Hvidovre's 64.3% Over 2.5 season rate, and Vendsyssel FF's 1.71 goals conceded per match lean Over 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Hvidovre scored in all 14 games yet conceded in 5 of 7 away fixtures, supporting a 52.0% BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Hvidovre's away BTTS pattern and late finishing edge, while 0:2 covers Vendsyssel FF's 50.0% home blank rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 1:2 primary script and 2.79 lambda, while two goals covers the 23.9% Poisson mode via 0:2."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Hvidovre lead at half-time in 57.1% of away games (Loss-Loss), with Draw-Loss covering a tight first half before their 69.2% second-half away scoring surge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:51:31 UTC"
+}
