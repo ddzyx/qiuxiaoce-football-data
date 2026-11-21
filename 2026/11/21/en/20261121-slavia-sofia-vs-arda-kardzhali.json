@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551150,
+    "matchup": "Slavia Sofia vs Arda Kardzhali",
+    "home_team": "Slavia Sofia",
+    "away_team": "Arda Kardzhali",
+    "league": "First League",
+    "kickoff_utc": "2026-11-21 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261121-slavia-sofia-vs-arda-kardzhali/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Slavia Sofia vs Arda Kardzhali Tactical Breakdown & Match Analysis: Low-Block Defense vs Road Firepower",
+    "meta": {
+      "matchId": "1551150",
+      "league": "First League",
+      "matchup": "Slavia Sofia vs Arda Kardzhali",
+      "matchTime": "2026-11-21 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win alongside Under 2.5 and BTTS: No, as Arda Kardzhali's superior scoring reliability meets Slavia Sofia's low-scoring defensive containment.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers a narrow 0:1 Arda Kardzhali breakthrough and a 1:1 or 0:0 stalemate given Slavia's 2-8-4 record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 and BTTS: No reflect the 2.13 lambda_total baseline, Slavia's four-game league scoring blank, and Ivan Andonov's 7 clean sheets (Confidence: Moderate, Value: High)",
+      "Draw-Draw / 1:1 serves as the secondary stalemate branch if Slavia exploit Arda's 1.57 goals-conceded rate once via set play (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551150",
+      "league": "First League",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Arda Kardzhali",
+      "match_time": "12:45",
+      "match_highlight": "Slavia's three straight 0-0 shutouts test Arda's 1.43-goal road attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551150,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a narrow 0:1 Arda win driven by their 1.43 goals-per-game edge and a 1:1 stalemate rooted in Slavia's 8 league draws, whereas a single call would ignore either Slavia's 0.64 defensive floor or 4-match scoring drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.13 lambda_total (64.2% Poisson Under 2.5), Slavia's 0.64 goals-scored and goals-conceded averages, and strict referee Nikola Popov."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson BTTS: No stands at 57.1%, reinforced by Slavia's four consecutive First League blanks and goalkeeper Ivan Andonov's league-leading 7 clean sheets."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Arda's 93% league scoring rate overcoming Slavia's blunt attack, while 1:1 accounts for Arda's 1.57 goals-conceded road vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Poisson concentrates 52.3% of total-goal probability on 1 or 2 goals, aligning directly with Slavia's low-tempo match profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Slavia's compact first-half containment points toward a level interval before either a late Arda winner (matching July's 0-0 HT / 1-0 FT meeting) or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 10:51:38 UTC"
+}
