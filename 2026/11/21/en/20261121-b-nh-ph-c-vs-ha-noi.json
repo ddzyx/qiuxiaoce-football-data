@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1633938,
+    "matchup": "Bình Phước vs Ha Noi",
+    "home_team": "Bình Phước",
+    "away_team": "Ha Noi",
+    "league": "V.League 1",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-b-nh-ph-c-vs-ha-noi/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bình Phước vs Ha Noi Tactical Breakdown & Preview: Can Hosts Exploit Kewell's Fragile Defense?",
+    "meta": {
+      "matchId": "1633938",
+      "league": "V.League 1",
+      "matchup": "Bình Phước vs Ha Noi",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ha Noi's superior attacking pedigree meets a host still seeking its first open-play goal, making Draw / Away Win alongside Under 2.5 and BTTS: No the best-supported match trajectory.",
+    "possibilityAssessment": [
+      "Draw / Away Win primary 1X2 thesis leaning on Ha Noi's 1.14 goals-per-game edge while covering a low-block stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 & BTTS: No total-goals thesis grounded in lambda_total 2.28 and Bình Phước's 6 scoreless games in 7 rounds (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency covering Ha Noi's 1.71 goals-conceded rate without unregistered center-back Đỗ Duy Mạnh (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1633938",
+      "league": "V.League 1",
+      "homeTeam": "Bình Phước",
+      "awayTeam": "Ha Noi",
+      "match_time": "11:00",
+      "match_highlight": "Ha Noi's leaky backline faces Bình Phước's 1-goal attack in Round 8.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1633938,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Ha Noi breakthrough driven by their 8:1 scoring advantage and a 1:1 or 0:0 stalemate given Ha Noi's 1.71 goals conceded per game without Đỗ Duy Mạnh."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by lambda_total 2.28 (60.1% Under 2.5 baseline) and Bình Phước having 5 of 7 league matches end under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Bình Phước scoring only 1 penalty goal across 7 V.League 1 matches and a 55.2% Poisson BTTS: No baseline."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix (13.8%) as Ha Noi edge a tight game, while 1:1 (12.8%) accounts for their defensive concessions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 Goals (26.6%) and 1 Goal (23.3%) dominate the Poisson distribution and encompass 0:1, 1:1, and 0:2 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Bình Phước's conservative home block points to a level half-time before Ha Noi either break through late (Draw-Loss) or settle for a draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 05:12:42 UTC"
+}
