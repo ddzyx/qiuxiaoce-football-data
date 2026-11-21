@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492465,
+    "matchup": "Chapecoense-sc vs Cruzeiro",
+    "home_team": "Chapecoense-sc",
+    "away_team": "Cruzeiro",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-chapecoense-sc-vs-cruzeiro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chapecoense-sc vs Cruzeiro Prediction & Match Analysis: Can Cruzeiro Overcome Key Absences? — xG Preview",
+    "meta": {
+      "matchId": "1492465",
+      "league": "Serie A",
+      "matchup": "Chapecoense-sc vs Cruzeiro",
+      "matchTime": "2026-11-22 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cruzeiro should avoid defeat via Matheus Pereira's playmaking edge against relegated Chapecoense-sc, though five verified visiting starter absences make covering the draw alongside an away win essential.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Cruzeiro's retained creative quality over a 2.06 goals-conceded-per-game defense, with draw coverage for visiting rotation (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes backed by a 3.01 statistical lambda total and defensive absences on both sides (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Stalemate covering the scenario where Cruzeiro's backup forwards miss Kaio Jorge's finishing while Chapecoense-sc converts a set piece (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492465",
+      "league": "Serie A",
+      "homeTeam": "Chapecoense-sc",
+      "awayTeam": "Cruzeiro",
+      "match_time": "00:00",
+      "match_highlight": "Matheus Pereira's playmaking tests relegated Chapecoense-sc amid Cruzeiro's five key absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492465,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Derived from the 1:2 primary and 1:1 secondary scripts, pairing Cruzeiro's superior xG and Matheus Pereira's creativity with draw coverage because five regular Cruzeiro starters are unavailable."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.01 lambda total, 66.7% home and 71.4% away Over 2.5 rates, and defensive absences on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Chapecoense-sc scores in 73.3% of home matches and faces a Cruzeiro side with a 21.4% away clean-sheet rate missing Romero and William, while Matheus Pereira faces a 1.81 xGA defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Cruzeiro's second-half quality and single-goal away win pattern, while 1:1 covers rotational finishing friction."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 and 2 goals lead the Poisson total-goals distribution at 22.4% and 22.3% respectively and align with 1:2 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Chapecoense-sc draws 53.3% of home first halves while Cruzeiro converts 88.9% of level half-times into wins, making Draw-Loss primary and Draw-Draw the stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 23:02:07 UTC"
+}
