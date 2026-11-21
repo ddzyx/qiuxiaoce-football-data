@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551381,
+    "matchup": "Vejle vs HB Koge",
+    "home_team": "Vejle",
+    "away_team": "HB Koge",
+    "league": "1. Division",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-vejle-vs-hb-koge/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vejle vs HB Koge Prediction & Match Analysis: Can Depleted Visitors Breach Home Fortress?",
+    "meta": {
+      "matchId": "1551381",
+      "league": "1. Division",
+      "matchup": "Vejle vs HB Koge",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Second-placed Vejle are backed to defeat an injury-hit and suspension-weakened HB Koge side in regulation time behind Mikkel Duelund and Tobias Bach.",
+    "possibilityAssessment": [
+      "Vejle Home Win driven by 1.86 goals/match output and HB Koge's 14.3% clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes anchored by 3.14 combined lambda and 71.4% venue Over 2.5 splits (Confidence: Moderate, Value: High)",
+      "2:0 Home Shutout secondary branch if Vejle's recent 3-in-4 clean-sheet run holds against depleted visitors (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551381",
+      "league": "1. Division",
+      "homeTeam": "Vejle",
+      "awayTeam": "HB Koge",
+      "match_time": "12:30",
+      "match_highlight": "Duelund and Bach target an HB Koge defense missing suspended Larsen.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551381,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by a 2:1 primary projection as Vejle's 1.86 goals-per-game home attack exploits an HB Koge squad missing suspended Gabriel Larsen and five injured players."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.14 combined goal expectancy (60.7% Poisson Over 2.5) and identical 71.4% Over 2.5 rates in Vejle's home and HB Koge's away league fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "HB Koge have scored in five consecutive matches (72.2% Poisson scoring probability) against a Vejle side with just two clean sheets in seven home league games."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Vejle's superior attack meeting HB Koge's five-match scoring streak, while 2:0 covers Vejle's recent defensive tightening and July's 2:0 H2H result."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3% Poisson density) and 2 goals (21.3%) represent the two most probable scoring totals across the 2:1 primary and 2:0 secondary scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win aligns with Vejle's 57.1% half-time draw rate and HB Koge's low 22.2% away first-half goal share, while Win-Win covers an early Vejle breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 07:41:49 UTC"
+}
