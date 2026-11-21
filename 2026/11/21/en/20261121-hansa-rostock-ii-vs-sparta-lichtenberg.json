@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1577049,
+    "matchup": "Hansa Rostock II vs Sparta Lichtenberg",
+    "home_team": "Hansa Rostock II",
+    "away_team": "Sparta Lichtenberg",
+    "league": "Oberliga - Nordost-Nord",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-hansa-rostock-ii-vs-sparta-lichtenberg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hansa Rostock II vs Sparta Lichtenberg Prediction & Match Analysis: Can Hosts Halt Sparta Surge?",
+    "meta": {
+      "matchId": "1577049",
+      "league": "Oberliga - Nordost-Nord",
+      "matchup": "Hansa Rostock II vs Sparta Lichtenberg",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Hansa Rostock II are projected to avoid defeat in a high-scoring encounter anchored by a 2:1 primary scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Hansa Rostock II's +7 goal difference and 1.73 home expectancy, with Draw retained due to five league stalemates (Confidence: Low, Value: Moderate)",
+      "Over 2.5 goals and BTTS: Yes supported by 3.19 combined goal expectancy and sub-24% clean-sheet projections (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw and Win-Draw HT/FT scenario covering late defensive concessions by the hosts (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1577049",
+      "league": "Oberliga - Nordost-Nord",
+      "homeTeam": "Hansa Rostock II",
+      "awayTeam": "Sparta Lichtenberg",
+      "match_time": "12:30",
+      "match_highlight": "Hansa Rostock II's 2.00-goal attack tests resurgent Sparta Lichtenberg's leaky defense.",
+      "ai_confidence": "Low",
+      "fixtureId": 1577049,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home win driven by Rostock's 1.73 expectancy and a 1:1 draw given their five stalemates, as unverified squad rotation makes a single win call fragile."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.19 combined lambda (61.8% Over 2.5 baseline) and both teams averaging at least 3.00 total goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks project above 76% scoring probability against defenses conceding 1.36 and 1.45 goals per game (63.2% Poisson BTTS baseline)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Hansa's superior home attacking expectancy and +7 goal difference, while 1:1 captures the modal Poisson cell and Rostock's draw tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (20.9%) represent the top two Poisson total-goal densities aligned with the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects an even first half broken open late by Rostock's attack, while Win-Draw covers an early home lead eroded after halftime."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 09:15:43 UTC"
+}
