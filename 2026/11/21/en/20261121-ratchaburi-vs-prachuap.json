@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1598079,
+    "matchup": "Ratchaburi vs Prachuap",
+    "home_team": "Ratchaburi",
+    "away_team": "Prachuap",
+    "league": "Thai League 1",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-ratchaburi-vs-prachuap/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ratchaburi vs Prachuap Tactical Breakdown & Probabilistic Modeling: Fatigue vs Defensive Discipline",
+    "meta": {
+      "matchId": "1598079",
+      "league": "Thai League 1",
+      "matchup": "Ratchaburi vs Prachuap",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Prachuap to avoid defeat via Draw / Away Win alongside Over 2.5 Goals and BTTS: Yes, projecting a 1:2 away win or 1:1 draw.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Prachuap's 0.57 GA/match league defense and 13-day rest edge target Ratchaburi's 73-hour recovery window (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS Yes: Supported by lambda_total 2.75, Ratchaburi's 8/8 league scoring streak, and recent 1:2 home league losses (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Reversal Hedge (Win-Draw): Ratchaburi's 71.4% half-time lead rate offset by 40.0% half-time lead erosion under late fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1598079",
+      "league": "Thai League 1",
+      "homeTeam": "Ratchaburi",
+      "awayTeam": "Prachuap",
+      "match_time": "12:30",
+      "match_highlight": "Fresh Prachuap defense tests fatigued Ratchaburi between intense continental trips.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1598079,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Prachuap victory driven by Ratchaburi's 73-hour fatigue and a 1:1 draw backed by Ratchaburi's unbroken domestic scoring floor, whereas a single call would prematurely discard one well-supported script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by lambda_total of 2.75 (51.9% Poisson Over 2.5), Ratchaburi's 71.4% Over 2.5 league profile, and recent 2:1/1:2 patterns for both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ratchaburi have scored in all 8 league games (75.6% Poisson scoring rate) while conceding 8 goals in 3 recent matches, giving Édgar Méndez's Prachuap attack (73.8% scoring rate) a clear route."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors Ratchaburi's recent home league losses to Chonburi and Buriram under fatigue, while 1:1 matches the top Poisson density (12.1%) and February's H2H draw here."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns directly with the 1:2 primary and 1:1 secondary projections and the two peak Poisson total-goal bins (22.2% for 3 goals, 24.2% for 2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss projects Prachuap's 0.57 GA/match block holding early before Ratchaburi fade after 60 minutes, while Win-Draw captures Ratchaburi's 71.4% half-time lead rate and 40.0% lead-erosion risk."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 09:29:35 UTC"
+}
