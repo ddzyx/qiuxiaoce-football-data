@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551603,
+    "matchup": "AS Trencin vs Podbrezová",
+    "home_team": "AS Trencin",
+    "away_team": "Podbrezová",
+    "league": "Super Liga",
+    "kickoff_utc": "2026-11-21 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-as-trencin-vs-podbrezov/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AS Trencin vs Podbrezová Prediction & Match Analysis: Can Trenčín Halt Chrien & Podbrezová? — Model Preview",
+    "meta": {
+      "matchId": "1551603",
+      "league": "Super Liga",
+      "matchup": "AS Trencin vs Podbrezová",
+      "matchTime": "2026-11-21 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win anchored on Podbrezová's 1.64 goals-per-game attack exploiting AS Trencin's 2.14 conceded rate alongside Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Podbrezová leads the matchup behind Martin Chrien's six goals and 17.1 shots per match against the Super Liga's most porous home defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 3.24 combined goal expectancy and five Over 2.5 results in Podbrezová's six captured league fixtures (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) reflects Podbrezová's zero clean sheets in six captured matches and Eynel Soares's counter-attacking threat for Trenčín (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551603",
+      "league": "Super Liga",
+      "homeTeam": "AS Trencin",
+      "awayTeam": "Podbrezová",
+      "match_time": "14:30",
+      "match_highlight": "Podbrezová's high-volume attack tests Trenčín's leaky defense after the break.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551603,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Podbrezová's leading 1:2 road victory script while covering a 1:1 draw because the visitors have zero clean sheets in six captured league matches and debut a new permanent coach."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.24 combined Poisson lambda (62.8% Over 2.5 probability) and a combined 3.85 goals conceded per match across both clubs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson modeling rates BTTS Yes at 62.9%, reflecting Podbrezová's 1.71 goals conceded per match and Trenčín's 2.14 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Balances Podbrezová's attacking edge over Trenčín's fragile backline (1:2) with the modal 10.0% Poisson draw scenario (1:1) if the hosts maintain post-break organization."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Targets the top two Poisson goal-count probabilities at 22.2% (3 goals) and 20.6% (2 goals) in a 3.24 total expectancy matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a level first half given Podbrezová's 25% away first-half goal share before either Podbrezová pulls clear late (Draw-Loss) or points are shared (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 14:17:16 UTC"
+}
