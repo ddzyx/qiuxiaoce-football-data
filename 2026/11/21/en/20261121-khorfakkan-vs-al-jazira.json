@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1643067,
+    "matchup": "Khorfakkan vs Al-Jazira",
+    "home_team": "Khorfakkan",
+    "away_team": "Al-Jazira",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-21 12:45:00",
+    "source_url": "https://xgmind.com/matches/20261121-khorfakkan-vs-al-jazira/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Khorfakkan vs Al-Jazira Prediction & Match Analysis: Can Home Counter Threat Disrupt Al-Jazira's Surge?",
+    "meta": {
+      "matchId": "1643067",
+      "league": "Pro League",
+      "matchup": "Khorfakkan vs Al-Jazira",
+      "matchTime": "2026-11-21 12:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Jazira project to secure an ordinary full-time away victory built on a 2.14-to-0.71 league goal differential against Khorfakkan's 2.29 goals-conceded rate.",
+    "possibilityAssessment": [
+      "Away Win thesis driven by Al-Jazira's 2.21 statistical lambda and unbeaten 5W-2D-0L Pro League record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals supported by a 3.21 combined lambda and 62.2% Poisson over probability (Confidence: Moderate, Value: Moderate)",
+      "0:2 clean-sheet away shutout contingency reflecting Al-Jazira's 0.71 goals-conceded average and October 2:0 cup win at this venue (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1643067",
+      "league": "Pro League",
+      "homeTeam": "Khorfakkan",
+      "awayTeam": "Al-Jazira",
+      "match_time": "12:45",
+      "match_highlight": "Unbeaten Al-Jazira's 2.14 goals per game test Khorfakkan's porous 2.29-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1643067,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A single Away Win covers both the 1:2 primary script and the 0:2 clean-sheet branch without requiring draw coverage against a 2.29-conceded defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.21 combined goal lambda and 62.2% Poisson expectancy support Over 2.5 as Al-Jazira's 2.14-goal attack meets a leaky host backline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al-Jazira's 89.0% scoring expectation pairs with Khorfakkan's 63.2% single-side scoring floor and recent four-from-five scoring run."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Tied at 9.9% atop the Poisson matrix, 1:2 captures a competitive home reply while 0:2 covers an Al-Jazira defensive shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.2%) and two goals (20.8%) represent the top two Poisson bins around a 3.21 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Al-Jazira led at half-time in 60% of tracked league matches for Loss-Loss, while Draw-Loss covers a late breakthrough if Khorfakkan hold to the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:21:14 UTC"
+}
