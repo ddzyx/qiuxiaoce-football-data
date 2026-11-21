@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558564,
+    "matchup": "Otrant-Olympic vs Bokelj",
+    "home_team": "Otrant-Olympic",
+    "away_team": "Bokelj",
+    "league": "First League",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-otrant-olympic-vs-bokelj/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Otrant-Olympic vs Bokelj Tactical Breakdown & Probabilistic Modeling: Firepower vs Low Block",
+    "meta": {
+      "matchId": "1558564",
+      "league": "First League",
+      "matchup": "Otrant-Olympic vs Bokelj",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Otrant-Olympic hold the clearer path to victory or a shared point in a tight, low-scoring encounter anchored by Home Win / Draw and Under 2.5 Goals.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Otrant-Olympic's 1.87 goals per game versus Bokelj's 0.79 goals conceded per game (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by a 2.32 combined lambda and Bokelj's four scoreless outings in their last five league games (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No supported by Bokelj's 0.71 goals-per-match average against a 1:0 primary home-win script (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558564",
+      "league": "First League",
+      "homeTeam": "Otrant-Olympic",
+      "awayTeam": "Bokelj",
+      "match_time": "12:00",
+      "match_highlight": "League-leading Otrant-Olympic attack tests Bokelj's 0.79 goals-against defensive block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558564,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home victory and a 1:1 stalemate because Bokelj's compact defense offsets Otrant-Olympic's scoring edge while Bokelj lack consistent firepower for an away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.32 combined lambda (59.1% Under 2.5 baseline) and Bokelj conceding only two goals across their last four league fixtures."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Supported by Bokelj's 0.71 goals-per-game rate and four scoreless outings in their last five First League matches against the 1:0 primary script."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 (13.1%) reflects Otrant-Olympic breaking down Bokelj late, while 1:1 (12.9%) accounts for one home defensive lapse against a compact visitor."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.4%) and 1 goal (22.8%) are the two densest Poisson totals in a projected low-event contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first-half stalemate sets up either a second-half Otrant-Olympic breakthrough or a full-time share of the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 06:16:43 UTC"
+}
