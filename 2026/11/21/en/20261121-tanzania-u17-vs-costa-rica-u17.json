@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1546161,
+    "matchup": "Tanzania U17 vs Costa Rica U17",
+    "home_team": "Tanzania U17",
+    "away_team": "Costa Rica U17",
+    "league": "World Cup - U17",
+    "kickoff_utc": "2026-11-21 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-tanzania-u17-vs-costa-rica-u17/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tanzania U17 vs Costa Rica U17 Tactical Breakdown & Probabilistic Modeling: Group I Opener Clash",
+    "meta": {
+      "matchId": "1546161",
+      "league": "World Cup - U17",
+      "matchup": "Tanzania U17 vs Costa Rica U17",
+      "matchTime": "2026-11-21 13:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win leads the projection as Costa Rica U17's 4-2-4 attacking depth meets Tanzania U17's AFCON-tested 4-4-2 resilience in a Matchday 1 cold-start opener.",
+    "possibilityAssessment": [
+      "Primary 1X2 coverage on Draw / Away Win reflects Costa Rica's superior tournament pedigree alongside Tanzania's unbeaten 90-minute AFCON knockout record (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes align with both sides' recent high-scoring 2026 friendlies and open transitional spacing (Confidence: Low, Value: Moderate)",
+      "Contingency scenario for a 1:1 draw triggered by an early Tanzania transition strike forcing second-half Costa Rica pressure (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1546161",
+      "league": "World Cup - U17",
+      "homeTeam": "Tanzania U17",
+      "awayTeam": "Costa Rica U17",
+      "match_time": "13:00",
+      "match_highlight": "Costa Rica's 4-2-4 forward depth tests Tanzania's compact 4-4-2 transition resilience.",
+      "ai_confidence": "Low",
+      "fixtureId": 1546161,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both a 1:2 Costa Rica victory driven by their 4-2-4 attacking depth and a 1:1 stalemate rooted in Tanzania's AFCON knockout discipline, as a single call carries excess cold-start risk with zero tournament matches played."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by verified 2026 warm-up patterns—Tanzania's 5:3 win over Australia and Costa Rica's 2:3 defeat to the USA—pointing to open second-half transitions."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks bring proven 2026 scorers into a matchup between two defenses that conceded multiple goals in recent international tests."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Primary 1:2 backs Costa Rica's forward quality to edge an open second half, while 1:1 reflects Tanzania's proven 90-minute stalemate resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the leading 1:2 script once Group I urgency opens midfield space, with two goals covering the tighter 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss projects a level first half before Costa Rica pull clear late, while Win-Draw covers an early Tanzania counter-attacking lead pegged back after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:46:10 UTC"
+}
