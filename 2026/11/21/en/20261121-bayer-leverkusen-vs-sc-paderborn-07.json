@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575222,
+    "matchup": "Bayer Leverkusen vs SC Paderborn 07",
+    "home_team": "Bayer Leverkusen",
+    "away_team": "SC Paderborn 07",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-21 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-bayer-leverkusen-vs-sc-paderborn-07/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bayer Leverkusen vs SC Paderborn 07 Prediction & Match Analysis: Can Home xG Crack Road Defense?",
+    "meta": {
+      "matchId": "1575222",
+      "league": "Bundesliga",
+      "matchup": "Bayer Leverkusen vs SC Paderborn 07",
+      "matchTime": "2026-11-21 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bayer Leverkusen's superior expected-goal creation, restored frontline starters, and bench depth position them to secure a home victory in an open, multi-goal contest.",
+    "possibilityAssessment": [
+      "Home Win — Leverkusen's 1.98 xG/game, 65.4% possession, and confirmed attacking core overpower Paderborn's 1.66 xGA/game defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Supported by Leverkusen's 88.9% Bundesliga Over 2.5 rate (4.11 total goals/game) and 3.11 lambda total (Confidence: High, Value: Moderate)",
+      "BTTS: Yes — Leverkusen's 22.2% clean-sheet rate and 1.75 xGA/game leave Paderborn a plausible counter-attacking scoring route (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575222",
+      "league": "Bundesliga",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "SC Paderborn 07",
+      "match_time": "14:30",
+      "match_highlight": "Leverkusen's 1.98 xG attack tests Paderborn's injury-hit back three.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575222,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bayer Leverkusen's 1.98 xG/game output, +212 Elo advantage, and confirmed frontline of Schick, Tella, Tillman, and Moreira point to a 2:1 or 3:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Eight of Leverkusen's nine league matches (88.9%) cleared 2.5 goals, aligning with a 3.11 lambda total and Paderborn's 1.66 xGA/game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Leverkusen's 22.2% clean-sheet rate and 1.75 xGA/game expose transition space for Paderborn to score once even while conceding multiple goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects Paderborn's compact start before Leverkusen's quality tells, while 3:1 captures second-half expansion once the visitors chase."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals is the modal 22.4% Poisson bucket and fits a 2:1 script, with four goals capturing Leverkusen's 4.11 goals-per-game league pace."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Leverkusen lead 50% of home league games at the break (Win-Win), while Paderborn's 44.4% half-time draw rate makes a second-half surge (Draw-Win) the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 14:24:50 UTC"
+}
