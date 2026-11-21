@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576239,
+    "matchup": "1. FC Nürnberg vs Eintracht Braunschweig",
+    "home_team": "1. FC Nürnberg",
+    "away_team": "Eintracht Braunschweig",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-1-fc-nurnberg-vs-eintracht-braunschweig/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Nürnberg vs Eintracht Braunschweig Tactical Breakdown & Probabilistic Modeling: Defensive xGA Risk",
+    "meta": {
+      "matchId": "1576239",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Nürnberg vs Eintracht Braunschweig",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "1. FC Nürnberg project to secure a Home Win in an open, multi-goal Round 12 contest driven by superior midfield creation and Braunschweig's winless away defensive record.",
+    "possibilityAssessment": [
+      "Home Win behind Nürnberg's 2.36 goals/match output and Braunschweig's 4-of-5 road defeat rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes fueled by 3.31 combined lambda and Nürnberg's 2.02 xGA defensive exposure (Confidence: Moderate, Value: High)",
+      "Braunschweig counter-attacking threat exploits Fynn Otto's fitness uncertainty to keep margins tight (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576239",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Nürnberg",
+      "awayTeam": "Eintracht Braunschweig",
+      "match_time": "12:00",
+      "match_highlight": "Nürnberg's clinical home attack faces Braunschweig's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576239,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Nürnberg's 66.7% home win rate, 97-point Elo edge, and Braunschweig's four losses in five away matches anchor a 2:1 or 3:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.31 combined lambda, both teams exceeding 1.65 xG/xGA per game, and zero Braunschweig away clean sheets support 64.3% Over 2.5 probability."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Braunschweig's 1.65 xG attacks Nürnberg's 2.02 xGA backline while the visitors have conceded in all five away matches (63.1% Poisson BTTS Yes)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 matches top Poisson density (9.6%) with Zoma sidelined and Otto doubtful, while 3:1 captures Nürnberg's 50% two-goal home winning margin rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals represents the modal Poisson bucket (22.1%), with four goals (18.3%) reflecting open second-half transition space."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Nürnberg score 57.7% of their goals in the second half after drawing 50% of home first halves, while also holding a 4-from-4 record when leading at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 06:41:49 UTC"
+}
