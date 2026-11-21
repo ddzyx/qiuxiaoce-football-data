@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1607333,
+    "matchup": "Wofoo Tai Po vs Kitchee",
+    "home_team": "Wofoo Tai Po",
+    "away_team": "Kitchee",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-wofoo-tai-po-vs-kitchee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wofoo Tai Po vs Kitchee Tactical Breakdown & Probabilistic Modeling: Firepower vs Home Resilience",
+    "meta": {
+      "matchId": "1607333",
+      "league": "Premier League",
+      "matchup": "Wofoo Tai Po vs Kitchee",
+      "matchTime": "2026-11-21 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kitchee enters as the primary projected winner within a Draw / Away Win framework, driven by superior league scoring efficiency against a Tai Po defense without a home league clean sheet.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing Kitchee's clinical attack (66.0 decayed form score, 19 league goals) while retaining the draw via Tai Po's home scoring resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by Tai Po's 100% home league BTTS rate and Kitchee's five-match run without a clean sheet (Confidence: Moderate, Value: High)",
+      "Win-Draw HT/FT contingency capturing Tai Po's 50% home half-time lead rate before Kitchee's 27-hour rest advantage forces late parity (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1607333",
+      "league": "Premier League",
+      "homeTeam": "Wofoo Tai Po",
+      "awayTeam": "Kitchee",
+      "match_time": "07:00",
+      "match_highlight": "Kitchee's ruthless attack tests Tai Po's porous home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1607333,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Kitchee's primary 1:2 away win driven by superior league firepower alongside the 2:2 draw given Tai Po's home resilience and Kitchee's lack of recent clean sheets."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average over 3.8 combined goals per league match and have cleared 2.5 goals in three of four Tai Po home outings and both recorded Kitchee league games."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tai Po scored in all four recorded home league fixtures while Kitchee conceded in five straight matches and Tai Po kept zero clean sheets in that span."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Kitchee's decisive attacking edge against a home side that scores reliably, while 2:2 covers a high-tempo stalemate if Tai Po's front line strikes twice."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "High domestic scoring averages and persistent defensive concessions across both squads concentrate projected output on three or four total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Loss-Loss follows Kitchee's 100% half-time lead and conversion rate in recorded league play, while Win-Draw covers Tai Po starting fast at home before fading."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:09:54 UTC"
+}
