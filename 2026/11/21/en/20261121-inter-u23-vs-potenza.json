@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1609136,
+    "matchup": "Inter U23 vs Potenza",
+    "home_team": "Inter U23",
+    "away_team": "Potenza",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-21 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-inter-u23-vs-potenza/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inter U23 vs Potenza Prediction & Match Analysis: Can Potenza's 2.79 GPG Attack Break Breda?",
+    "meta": {
+      "matchId": "1609136",
+      "league": "Serie C - Girone C",
+      "matchup": "Inter U23 vs Potenza",
+      "matchTime": "2026-11-21 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Potenza's league-leading 2.79 goals-per-game attack makes an Away Win the primary trajectory against Inter U23, while defensive clean-sheet vulnerabilities on both sides warrant covering Draw / Away Win alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Potenza's 39-goal offensive output and second-half bench depth versus Inter U23's home scoring threat (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 3.66 combined goal lambda and aggressive 3-4-2-1 vs 4-3-3 transition profiles (Confidence: High, Value: Moderate)",
+      "Both Teams To Score: Yes backed by ~23% and ~15% clean-sheet rates and confirmed availability of both clubs' top forward catalysts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609136",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Inter U23",
+      "awayTeam": "Potenza",
+      "match_time": "13:30",
+      "match_highlight": "Potenza's 2.79 GPG quartet tests Inter U23's three-man backline at Breda.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609136,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Prioritizes Potenza's 1:2 road-win script via superior attacking depth while formally retaining the 2:2 draw branch given Potenza's ~15% clean-sheet rate and Giannini's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.66 combined goal lambda (70.8% Poisson Over 2.5) and both teams conceding over 1.25 goals per game strongly favor at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks start their primary scorers while carrying low clean-sheet rates (~23% for Inter U23 and ~15% for Potenza), aligning with a 68.6% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Potenza's second-half finishing edge (9.0% Poisson peak), whereas 2:2 covers Inter U23 capitalizing on fresh legs and Potenza's defensive absences."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.0%) and four goals (19.2%) dominate the Poisson total-goals distribution and match both 1:2 and 2:2 game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Inter U23's extra preparation supports a competitive first half before Potenza's post-interval surge forces either a late road win (Draw-Loss) or a shared high-scoring draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 13:28:17 UTC"
+}
