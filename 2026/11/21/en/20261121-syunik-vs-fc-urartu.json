@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1581568,
+    "matchup": "Syunik vs FC Urartu",
+    "home_team": "Syunik",
+    "away_team": "FC Urartu",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-syunik-vs-fc-urartu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Syunik vs FC Urartu Prediction & Match Analysis: Can Sisian Home Form Halt Urartu? — Scoreline Preview",
+    "meta": {
+      "matchId": "1581568",
+      "league": "Premier League",
+      "matchup": "Syunik vs FC Urartu",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Urartu's 1.58 goals-per-game attack and 1.83 lambda hold the decisive edge against Syunik's 2.08 goals-conceded defense, though managerial debut transition keeps the 1:1 draw in play alongside a 1:2 away win.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Urartu's 54.0% Poisson win projection and +0.71 lambda differential (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and Both Teams To Score Yes supported by a 2.95 combined lambda and 56.6% Poisson projection for both markets (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency branch if Hayk Milkon's debut structure starts cautiously in Sisian (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1581568",
+      "league": "Premier League",
+      "homeTeam": "Syunik",
+      "awayTeam": "FC Urartu",
+      "match_time": "11:00",
+      "match_highlight": "Hayk Milkon makes his Urartu debut against Syunik's fragile home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1581568,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains FC Urartu's superior scoring edge for a 1:2 away win while covering the 1:1 draw script during Hayk Milkon's debut after a 22-day hiatus, as a single away call ignores Syunik's recent Sisian home scoring surge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.95 combined lambda (56.6% Over 2.5 baseline) and Syunik's 2.08 goals conceded per match point toward at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear strong scoring thresholds (84.0% away and 67.4% home modeled to score) against defenses with limited clean-sheet reliability."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Converges on Urartu's quality breaking through for a 1:2 win while retaining the modal 1:1 Poisson draw if new-coach rhythm stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the central 1:2 three-goal expectation backed by the high-density 1:1 or 0:2 two-goal alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a cautious first half during Milkon's debut before Urartu either pulls away late (1:2) or settles for shared points (1:1)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:27:48 UTC"
+}
