@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494810,
+    "matchup": "Tromso vs Viking",
+    "home_team": "Tromso",
+    "away_team": "Viking",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-21 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-tromso-vs-viking/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tromso vs Viking Prediction & Match Analysis: Can Home Defense Halt Viking's xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494810",
+      "league": "Eliteserien",
+      "matchup": "Tromso vs Viking",
+      "matchTime": "2026-11-21 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Viking to claim an Away Win at Alfheim as their 2.37 xG frontline exploits a Tromso side missing confirmed absentee Troy Nyhammer.",
+    "possibilityAssessment": [
+      "Away Win — Viking's uncompromised attack and title-race urgency overcome Tromso's home block while avoiding a 7.7% season draw pattern (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes — Combined 3.43 lambda total and Viking's defensive absences align with 66.6% Over 2.5 and 64.7% BTTS Poisson baselines (Confidence: High, Value: Moderate)",
+      "Draw-Loss Second-Half Breakthrough — Tromso's 46.2% home half-time draw rate keeps the interval level before Viking's quality decides the second half (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494810",
+      "league": "Eliteserien",
+      "homeTeam": "Tromso",
+      "awayTeam": "Viking",
+      "match_time": "13:00",
+      "match_highlight": "Viking's elite frontline tests Tromso's Nyhammer-less midfield at Alfheim.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494810,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Viking's 2.37 xG attack and fit core trio project to outscore a Nyhammer-less Tromso side in a 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.43 combined lambda total, 66.6% Poisson probability, and Viking's 76.9% Over 2.5 rate support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Viking's 30.8% away clean-sheet rate and defensive absences allow Tromso to score, while Viking's 2.65 goals/match ensure a response."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 reflects Tromso's home resistance narrowing Viking's edge, while 1:3 captures open second-half transitions mirroring recent head-to-heads."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals leads the Poisson distribution at 21.8% across a 3.43 lambda total, with 4 goals (18.7%) covering late transition expansion."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Viking leads at half-time in 61.5% of away games while Tromso has lost all seven games when trailing at the interval; Draw-Loss covers a tight first half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:33:53 UTC"
+}
