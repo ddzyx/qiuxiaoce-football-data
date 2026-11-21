@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593706,
+    "matchup": "Central Coast Mariners vs Perth Glory",
+    "home_team": "Central Coast Mariners",
+    "away_team": "Perth Glory",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-21 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-central-coast-mariners-vs-perth-glory/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Central Coast Mariners vs Perth Glory Prediction & Match Analysis: Transition xG vs Defensive Frailty",
+    "meta": {
+      "matchId": "1593706",
+      "league": "A-League",
+      "matchup": "Central Coast Mariners vs Perth Glory",
+      "matchTime": "2026-11-21 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Perth Glory's superior transition finishing and Central Coast's nine-goal defensive concession tilt this Round 5 clash toward Draw / Away Win, led by a 1:2 away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Perth Glory's 2.00 goal-per-match counter-attacking edge alongside the risk of a 1:1 away stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals aligns with a 3.24 combined lambda and Perth's four-for-four Over 2.5 league record (Confidence: Moderate, Value: High)",
+      "BTTS: Yes reflects zero home clean sheets for Central Coast and zero road clean sheets for Perth Glory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593706",
+      "league": "A-League",
+      "homeTeam": "Central Coast Mariners",
+      "awayTeam": "Perth Glory",
+      "match_time": "06:00",
+      "match_highlight": "Can Perth Glory's transition pace exploit Central Coast's leaky backline?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593706,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Perth Glory's vertical counter-attacking edge supports a 1:2 away win, while their winless road record and five injuries justify retaining the 1:1 draw rather than a single outcome."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.24 combined lambda and 3.24 combined xG per match back Over 2.5 against two defenses averaging a combined 3.50 goals conceded per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Central Coast's 1.53 xG per match and Perth's 88.0% modeled scoring probability point toward goals at both ends given neither side's clean-sheet record."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Perth's clinical finishing over a Sainsbury-less defense, whereas 1:1 covers a tighter game state if Herrington steadies the hosts."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals represent the modal 22.2% Poisson total aligned with 1:2, while two goals cover the 20.6% alternative branch at 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Perth's scoreless first halves on the road and Mariners' 50% half-time draw rate point to a level interval before either a Glory breakthrough or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:02:15 UTC"
+}
