@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1616169,
+    "matchup": "Estrella vs Panadería Pulido",
+    "home_team": "Estrella",
+    "away_team": "Panadería Pulido",
+    "league": "Tercera División RFEF - Group 12",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-estrella-vs-panader-a-pulido/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Estrella vs Panadería Pulido Tactical Breakdown & Match Analysis: Can Home Grit Halt the League Leaders?",
+    "meta": {
+      "matchId": "1616169",
+      "league": "Tercera División RFEF - Group 12",
+      "matchup": "Estrella vs Panadería Pulido",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "League-leading Panadería Pulido project to claim an away victory at Las Palmitas in an open Group 12 encounter featuring at least three total goals and scoring from both sides.",
+    "possibilityAssessment": [
+      "Panadería Pulido's 3.09 goals-per-match output and 2.46 Poisson expectancy outmatch Estrella's 1.82-conceded defense for an Away Win (Confidence: Moderate, Value: Moderate)",
+      "Combined lambda_total of 3.73 and 72.0% Over 2.5 probability point toward a 3-goal or 4-goal contest (Confidence: Moderate, Value: High)",
+      "Panadería Pulido's 1.36 goals-conceded average against Estrella's 71.9% home scoring probability favors BTTS Yes alongside a 1:2 or 1:3 scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1616169",
+      "league": "Tercera División RFEF - Group 12",
+      "homeTeam": "Estrella",
+      "awayTeam": "Panadería Pulido",
+      "match_time": "11:00",
+      "match_highlight": "Panadería Pulido's 3.09-goal attack tests Estrella's fragile Las Palmitas defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1616169,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A 1:2 or 1:3 away victory reflects Panadería Pulido's 26-point pace and 3.09 goals-per-game advantage over 11th-placed Estrella."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.73 combined goal expectancy and 72.0% Poisson Over 2.5 share strongly favor at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Panadería Pulido concede 1.36 goals per game and face an Estrella side carrying a 71.9% home scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 tops the Poisson matrix at 9.2%, while 1:3 (7.6%) covers late visiting dominance if Estrella chase the game."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson total-goal densities peak at 3 goals (20.8%) and 4 goals (19.4%), aligning with both teams' season averages."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Panadería Pulido can establish an early lead as in September 2024 or pull away after a level half-time through superior depth."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 03:12:01 UTC"
+}
