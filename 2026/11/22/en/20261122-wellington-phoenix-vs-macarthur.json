@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593708,
+    "matchup": "Wellington Phoenix vs Macarthur",
+    "home_team": "Wellington Phoenix",
+    "away_team": "Macarthur",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-22 02:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-wellington-phoenix-vs-macarthur/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Wellington Phoenix vs Macarthur: Expected Goals (xG), Midfield Edge & Match Intelligence",
+    "meta": {
+      "matchId": "1593708",
+      "league": "A-League",
+      "matchup": "Wellington Phoenix vs Macarthur",
+      "matchTime": "2026-11-22 02:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wellington Phoenix are projected to defeat Macarthur 2:1 at Sky Stadium behind superior midfield creation and home second-half acceleration, while Macarthur's set-piece threat and Wellington's 1.12 xGA exposure support Over 2.5 goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 Home Win supported by 1.50 vs 1.04 xG/gm and 47.8 vs 29.2 MF-OTI (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes backed by 2.56 xG-implied matchup total and 1.70/1.67 market alignment (Confidence: Moderate, Value: High)",
+      "Draw-Draw / 2:0 containment hedge if Wellington's 44.4% big-chance waste persists or Macarthur blank (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593708",
+      "league": "A-League",
+      "homeTeam": "Wellington Phoenix",
+      "awayTeam": "Macarthur",
+      "match_time": "02:00",
+      "match_highlight": "Nagasawa's transition midfield meets Macarthur's 1.46 xGA and set-piece threat",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593708,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Anchored by the 2:1 primary scoreline, Wellington's superior midfield OTI, 2-0 home record, and returning internationals outweigh Macarthur's 1.46 xGA defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Underlying xG (1.50/1.12 vs 1.04/1.46) implies ~2.56 goals and reconciles the 2.00 goal-based lambda with strong 1.70 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Macarthur have scored in 3 of 4 league games with two set-piece goals against Wellington's 1.12 xGA, while the visitors hold a 0.0% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects xG-adjusted scoring regression for both sides, while 2:0 preserves the goal-based Poisson clean-sheet containment branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 xG-aligned script, while 2 goals captures the 2:0 home shutout or 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides post high half-time draw rates (75%) and low first-half scoring (28.6% vs 0.0%), pointing to Draw-Win with Draw-Draw as the finishing-risk path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 23:55:45 UTC"
+}
