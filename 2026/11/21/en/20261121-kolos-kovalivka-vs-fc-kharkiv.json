@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1565532,
+    "matchup": "Kolos Kovalivka vs FC Kharkiv",
+    "home_team": "Kolos Kovalivka",
+    "away_team": "FC Kharkiv",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-kolos-kovalivka-vs-fc-kharkiv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kolos Kovalivka vs FC Kharkiv Tactical Breakdown & Probabilistic Modeling: Can Kharkiv Breach Home Grit?",
+    "meta": {
+      "matchId": "1565532",
+      "league": "Premier League",
+      "matchup": "Kolos Kovalivka vs FC Kharkiv",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Analytical models project Draw / Away Win with FC Kharkiv holding the primary edge via a 1:2 scoreline and Over 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by FC Kharkiv's 2.00 goals-per-game attack and Kolos Kovalivka's home draw resistance (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by Kharkiv's five straight 3+ goal fixtures and a 2.74 combined lambda (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw with Both Teams To Score (Yes) if Kolos maintain midfield containment through 90 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565532",
+      "league": "Premier League",
+      "homeTeam": "Kolos Kovalivka",
+      "awayTeam": "FC Kharkiv",
+      "match_time": "11:00",
+      "match_highlight": "Kharkiv's 2.00 GF/g attack tests Kolos's stubborn home block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565532,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers FC Kharkiv's 1:2 statistical edge while retaining the 1:1 draw script given three stalemates in four historical meetings and unconfirmed XIs."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.74 combined lambda (51.6% Over 2.5) and five straight matches with 3+ goals for FC Kharkiv."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with a 52.8% Poisson BTTS baseline as Kharkiv conceded once in five straight games and Kolos hold a 20% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors FC Kharkiv's four straight 2:1 competitive wins, while 1:1 captures the highest-density Poisson stalemate outcome (11.4%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the 1:2 primary projection and Kharkiv's recent scoring run, with 2 goals reflecting the 1:1 / 0:2 Poisson peak (24.2%)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects three 0:0 half-times in the last four meetings before either Kharkiv break through late (Draw-Loss) or Kolos hold level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:20:38 UTC"
+}
