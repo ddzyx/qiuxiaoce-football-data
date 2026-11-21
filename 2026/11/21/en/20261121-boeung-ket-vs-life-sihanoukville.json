@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1610665,
+    "matchup": "Boeung Ket vs Life Sihanoukville",
+    "home_team": "Boeung Ket",
+    "away_team": "Life Sihanoukville",
+    "league": "C-League",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-boeung-ket-vs-life-sihanoukville/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Boeung Ket vs Life Sihanoukville Tactical Breakdown & Probabilistic Modeling: Home Leaks vs Road Surge",
+    "meta": {
+      "matchId": "1610665",
+      "league": "C-League",
+      "matchup": "Boeung Ket vs Life Sihanoukville",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Life Sihanoukville are projected to avoid defeat in an open, both-teams-scoring C-League encounter anchored on Draw / Away Win, Over 2.5 goals, and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Life Sihanoukville's +2 goal difference and 1.75 attacking lambda against Boeung Ket's 2.00 goals-conceded rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes supported by a 3.00 combined goal expectancy and mutual defensive leaks across six league outings (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Contingency reflecting Life Sihanoukville's recent away stalemate pattern if Boeung Ket tighten midfield spacing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1610665",
+      "league": "C-League",
+      "homeTeam": "Boeung Ket",
+      "awayTeam": "Life Sihanoukville",
+      "match_time": "11:00",
+      "match_highlight": "Life's four-match unbeaten surge tests Boeung Ket's 2.00 goals-conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1610665,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Life Sihanoukville's 1:2 statistical edge against Boeung Ket's 2.00 goals-conceded defense and the 1:1 draw script, avoiding a single Away Win call given Boeung Ket's 4:0 H2H record and unconfirmed starting XIs."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda, Boeung Ket's 2.00 goals conceded per game, and Life's 9 goals across their last 4 outings support at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear 71% scoring expectancy against defenses holding low clean-sheet rates (17.4% home, 28.7% away) with no verified attacking absences."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Life Sihanoukville's superior goal balance at Boeung Ket's porous home backline, while 1:1 covers the tight away-draw script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the 3.00 combined lambda and 1:2 primary score, while 2 goals covers the 1:1 Poisson mode."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "From the home perspective, a level opening half gives way either to Life's second-half transition winner (Draw-Loss) or a shared stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 02:08:34 UTC"
+}
