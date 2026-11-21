@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563267,
+    "matchup": "Millwall vs QPR",
+    "home_team": "Millwall",
+    "away_team": "QPR",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-21 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-millwall-vs-qpr/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Millwall vs QPR Prediction & Match Analysis: Can Depleted Lions Halt Ilias Chair? — xG Preview",
+    "meta": {
+      "matchId": "1563267",
+      "league": "Championship",
+      "matchup": "Millwall vs QPR",
+      "matchTime": "2026-11-21 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With Millwall's central defensive and midfield spine depleted and QPR averaging 1.11 xGA per match alongside healthy creators Ilias Chair and Richard Kone, QPR are backed to avoid defeat in an open derby where both teams score.",
+    "possibilityAssessment": [
+      "Draw / Away Win: QPR's superior defensive prevention and healthier playmaking unit point toward a 1:2 away victory, while QPR's 42.9% away draw tendency and Millwall's counter-attacking volume keep 1:1 live (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals: A 3.06 combined lambda, Millwall's 85.7% home Over 2.5 rate, and QPR's 71.4% away BTTS rate strongly support at least three goals (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes: Millwall's 1.79 xG per match against QPR's 14.3% away clean-sheet rate complements QPR's 81.7% scoring expectancy against an injury-hit home defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563267",
+      "league": "Championship",
+      "homeTeam": "Millwall",
+      "awayTeam": "QPR",
+      "match_time": "12:30",
+      "match_highlight": "Depleted Millwall midfield faces Ilias Chair in wide-open London derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563267,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers QPR's edge in a 1:2 away win against a depleted Millwall spine while retaining the 1:1 draw script given QPR's five-match away winless streak and 14.3% away clean-sheet rate, where an outright away-only call would ignore QPR's road vulnerability."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.06 combined lambda, 59.0% Poisson Over 2.5 probability, and Millwall's 85.7% home Over 2.5 frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams project strong scoring floors (74.3% home vs 81.7% away) while QPR hold a 14.3% away clean-sheet rate and Millwall concede 1.80 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects QPR's superior available quality exploiting Millwall's defensive absences, while 1:1 captures the top raw Poisson density if Millwall's finishing waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the Poisson distribution at 22.4% ahead of two goals at 22.0%, aligning directly with the 1:2 and 1:1 scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "QPR have drawn 42.9% of away first halves before either pulling away late against a stretched Millwall bench or sharing a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 08:18:35 UTC"
+}
