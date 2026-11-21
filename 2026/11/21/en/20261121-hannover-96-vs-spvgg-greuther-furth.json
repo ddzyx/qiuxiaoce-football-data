@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576236,
+    "matchup": "Hannover 96 vs SpVgg Greuther Fürth",
+    "home_team": "Hannover 96",
+    "away_team": "SpVgg Greuther Fürth",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-21 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-hannover-96-vs-spvgg-greuther-furth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hannover 96 vs SpVgg Greuther Fürth Prediction: Can xG Dominance Break the Deadlock? — Match Analysis",
+    "meta": {
+      "matchId": "1576236",
+      "league": "2. Bundesliga",
+      "matchup": "Hannover 96 vs SpVgg Greuther Fürth",
+      "matchTime": "2026-11-21 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Hannover 96 to avoid defeat (Home Win / Draw), led by a 2:1 home win with Over 2.5 goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Hannover 96 Home Win / Draw via central playmaking control and 1.78 xG per game against a winless recent road traveler (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored on 3.11 combined xG and 0% venue clean sheets for both clubs (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Contingency if Hannover's 75.0% big-chance wastefulness persists without Pichler and with Gindorf on limited minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576236",
+      "league": "2. Bundesliga",
+      "homeTeam": "Hannover 96",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "match_time": "12:00",
+      "match_highlight": "Hannover home xG dominance tests Fürth's leaky recent away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576236,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Hannover's leading 2:1 home control script and the 1:1 draw branch driven by their 75.0% big-chance waste rate and key forward absences, whereas a single call would ignore genuine finishing variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.11 combined xG, 2.82 total lambda, and zero home/away clean sheets across both clubs' respective venue samples."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Hannover have conceded in all 5 home league games and Fürth in all 6 away trips, aligning with a 57.1% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Hannover's 1-goal home winning trend and xG edge, while 1:1 remains the highest single-score Poisson node if finishing falters."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches our primary 2:1 projection and Fürth's last three away results, with 2 goals covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Hannover score 57.1% of home goals before half-time against Fürth's 0% away HT lead rate, while Hannover's 50% lead-not-won rate keeps Win-Draw live."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 06:32:06 UTC"
+}
