@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1516185,
+    "matchup": "Xorazm vs Buxoro",
+    "home_team": "Xorazm",
+    "away_team": "Buxoro",
+    "league": "Super League",
+    "kickoff_utc": "2026-11-21 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-xorazm-vs-buxoro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Xorazm vs Buxoro Tactical Breakdown & Match Analysis: Away Fragility vs Relegation Urgency",
+    "meta": {
+      "matchId": "1516185",
+      "league": "Super League",
+      "matchup": "Xorazm vs Buxoro",
+      "matchTime": "2026-11-21 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Buxoro's superior attacking efficiency and reliable away scoring floor support a Draw / Away Win direction anchored by 1:1 and 1:2 projections.",
+    "possibilityAssessment": [
+      "Draw / Away Win carries primary analytical backing as Buxoro's 1.41 goals per match meet Xorazm's 0.85 scoring output (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals aligns with a 2.46 combined lambda and Buxoro's three consecutive sub-three-goal league fixtures (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) captures Buxoro's 15% away clean-sheet rate alongside Xorazm's 69% home scoring frequency (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1516185",
+      "league": "Super League",
+      "homeTeam": "Xorazm",
+      "awayTeam": "Buxoro",
+      "match_time": "13:00",
+      "match_highlight": "Buxoro's 15% road clean-sheet rate meets Xorazm's home survival push.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1516185,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:1 draw script and 1:2 away win, because Buxoro's 3W-4D-6L road record prevents relying on an outright away win alone."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.46 combined lambda, 55.4% Poisson Under 2.5 probability, and Buxoro's three straight sub-three-goal matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Buxoro fail to score in just 8% of away matches while keeping only 15% road clean sheets against Xorazm's 69% home scoring rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.6% and matches March's reverse fixture, while 1:2 covers Buxoro's late attacking edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson total-goal distribution peaks at 2 goals (25.9%) with 3 goals (21.2%) capturing the secondary away-win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Expects a tight, level first half before Buxoro either break through late or Xorazm hold out for a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 12:41:31 UTC"
+}
