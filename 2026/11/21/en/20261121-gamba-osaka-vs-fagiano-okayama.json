@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556142,
+    "matchup": "Gamba Osaka vs Fagiano Okayama",
+    "home_team": "Gamba Osaka",
+    "away_team": "Fagiano Okayama",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-21 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-gamba-osaka-vs-fagiano-okayama/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gamba Osaka vs Fagiano Okayama Prediction & Match Analysis: Injuries & xG Gap Test Suita — XG Mind AI",
+    "meta": {
+      "matchId": "1556142",
+      "league": "J1 League",
+      "matchup": "Gamba Osaka vs Fagiano Okayama",
+      "matchTime": "2026-11-21 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With 0.51 xGA/match superior defensive prevention and a 7-for-7 away scoring run, Fagiano Okayama are projected to avoid defeat in a high-BTTS clash at Panasonic Stadium Suita.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Okayama's 1.22 vs 1.73 xGA edge and Gamba's depleted attack (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by 2.77 combined lambda and Okayama's 100% away BTTS rate (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge if Gamba's two-week defensive drill contains Okayama's transitions after Welton and Adams's absences (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556142",
+      "league": "J1 League",
+      "homeTeam": "Gamba Osaka",
+      "awayTeam": "Fagiano Okayama",
+      "match_time": "07:00",
+      "match_highlight": "Okayama's 1.22 xGA and road scoring test injury-hit Gamba.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556142,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 1:2 away-win script built on Okayama's xGA and second-half conversion edge and the 1:1 draw script driven by Okayama's 0% away clean-sheet rate and Suzuki's suspension, as neither single direction safely excludes the other."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.77 lambda (52.3% Poisson Over 2.5), Okayama's 85.7% away Over 2.5 record, and Gamba's 1.73 xGA/match favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Okayama have scored and conceded in all seven away J1 matches while Gamba hold a 14.3% clean-sheet rate, aligning with 56.2% Poisson BTTS."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Okayama's second-half conversion against Gamba's 1.73 xGA, while 1:1 reflects the highest single Poisson density (12.0%) if Gamba's absences cap scoring."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson density concentrates 46.2% across two and three goals, with Okayama's road Over 2.5 profile tipping three goals slightly ahead."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Gamba's 25.0% first-half goal share and Okayama's 0% away half-time lead rate point to a level interval before Okayama push for a 1:2 win or settle at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 00:06:31 UTC"
+}
