@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1579538,
+    "matchup": "Hoek vs GVVV Veenendaal",
+    "home_team": "Hoek",
+    "away_team": "GVVV Veenendaal",
+    "league": "Tweede Divisie",
+    "kickoff_utc": "2026-11-21 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261121-hoek-vs-gvvv-veenendaal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hoek vs GVVV Veenendaal Tactical Breakdown & Match Analysis: Can Veenhof Extend GVVV's Surge?",
+    "meta": {
+      "matchId": "1579538",
+      "league": "Tweede Divisie",
+      "matchup": "Hoek vs GVVV Veenendaal",
+      "matchTime": "2026-11-21 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "GVVV Veenendaal's 2.31 goals-per-game transition attack and three-match league winning streak under Jord Roos position the visitors to claim a multi-goal away victory at Sportpark Denoek.",
+    "possibilityAssessment": [
+      "Away Win for GVVV Veenendaal driven by Quincy Veenhof's 13-goal scoring pace and superior finishing efficiency (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals supported by a 3.50 combined lambda and 1.77 goals conceded per match by both defenses (Confidence: Moderate, Value: High)",
+      "Both Teams To Score (Yes) backed by Hoek's 76.8% Poisson scoring probability against GVVV's permeable away back line (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1579538",
+      "league": "Tweede Divisie",
+      "homeTeam": "Hoek",
+      "awayTeam": "GVVV Veenendaal",
+      "match_time": "13:30",
+      "match_highlight": "Clinical GVVV transition attack tests Hoek possession against shared defensive fragility.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1579538,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "GVVV's 2.31 league goals per match and 8-0-5 record project a decisive 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.50 total lambda, 67.9% Poisson Over 2.5 probability, and 1.77 goals conceded by each side support 3+ goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither side's 1.77-GA defense projects high clean-sheet security, aligning with a 66.8% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Both 1:2 (9.2% Poisson density) and 1:3 (6.2%) capture Hoek scoring once while GVVV's clinical attack prevails."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Total counts of 3 (21.6%) and 4 (18.9%) lead the Poisson distribution alongside a 3.50 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Hoek's high possession can keep the interval level before GVVV pull away, unless early transitions yield Loss-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 13:15:18 UTC"
+}
