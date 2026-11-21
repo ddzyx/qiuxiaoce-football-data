@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1623166,
+    "matchup": "Atlètic Club d'Escaldes vs FC Santa Coloma",
+    "home_team": "Atlètic Club d'Escaldes",
+    "away_team": "FC Santa Coloma",
+    "league": "1a Divisió",
+    "kickoff_utc": "2026-11-21 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-atletic-club-d-escaldes-vs-fc-santa-coloma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atlètic Club d'Escaldes vs FC Santa Coloma Prediction: Can Leaders Break Home Defense? — Scoreline Preview",
+    "meta": {
+      "matchId": "1623166",
+      "league": "1a Divisió",
+      "matchup": "Atlètic Club d'Escaldes vs FC Santa Coloma",
+      "matchTime": "2026-11-21 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Santa Coloma project for an ordinary regulation-time Away Win supported by their unbeaten 7W-1D-0L league record, 3.25 goals-per-game attack, and 2.12 Poisson lambda.",
+    "possibilityAssessment": [
+      "Ordinary Away Win anchored by FC Santa Coloma's 58.7% Poisson win probability and +23 goal difference (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by a 3.31 combined lambda and four straight 3+ goal head-to-head meetings in 2025-26 (Confidence: Moderate, Value: Moderate)",
+      "Controlled 0:2 Away Win contingency if FC Santa Coloma maintain their 0.38 goals-conceded defensive standard (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1623166",
+      "league": "1a Divisió",
+      "homeTeam": "Atlètic Club d'Escaldes",
+      "awayTeam": "FC Santa Coloma",
+      "match_time": "10:00",
+      "match_highlight": "Unbeaten leaders FC Santa Coloma test Atlètic's resilient home structure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1623166,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "FC Santa Coloma's 3.25 goals-scored and 0.38 goals-conceded averages across eight matches sustain a 58.7% Poisson Away Win baseline toward a 1:2 projection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.31 combined lambda, 64.3% Over 2.5 Poisson baseline, and four consecutive 3+ goal head-to-head meetings point toward three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Atlètic's 2.00 goals-per-game output and 69.6% Poisson scoring floor support one home breakthrough alongside FC Santa Coloma's 88.0% scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "A 1:2 away win (9.8% Poisson density) balances both sides' scoring floors, while 0:2 (8.2%) captures the visitors' 30.4% clean-sheet shutout branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.1% probability) and two goals (20.0%) represent the two highest-density total-goal buckets in the 3.31 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "FC Santa Coloma's early attacking tempo supports leading both halves (Loss-Loss), while Atlètic's compact block makes a level interval before a second-half away breakthrough (Draw-Loss) the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 01:08:06 UTC"
+}
