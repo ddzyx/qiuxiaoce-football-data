@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630263,
+    "matchup": "Politehnica UTM vs Zimbru",
+    "home_team": "Politehnica UTM",
+    "away_team": "Zimbru",
+    "league": "Super Liga",
+    "kickoff_utc": "2026-11-21 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261121-politehnica-utm-vs-zimbru/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Politehnica UTM vs Zimbru Prediction & Match Analysis: Can Home Compactness Halt Away Firepower?",
+    "meta": {
+      "matchId": "1630263",
+      "league": "Super Liga",
+      "matchup": "Politehnica UTM vs Zimbru",
+      "matchTime": "2026-11-21 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Zimbru's superior league goal differential, road clean-sheet pedigree, and dominant 2026 head-to-head record point to a controlled Away Win at Complexul Sportiv al Tineretului UTM.",
+    "possibilityAssessment": [
+      "Away Win driven by Zimbru's 2.11 goals-per-game multi-scorer attack against Politehnica UTM's 1.61 conceded rate (Confidence: High, Value: Moderate)",
+      "Over 2.5 Goals supported by a 3.00 combined Poisson lambda and a 57.7% three-or-more-goal expectancy (Confidence: Moderate, Value: High)",
+      "Zimbru 0:2 Shutout Contingency reflecting Politehnica UTM's sparse non-outlier home scoring output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630263",
+      "league": "Super Liga",
+      "homeTeam": "Politehnica UTM",
+      "awayTeam": "Zimbru",
+      "match_time": "11:00",
+      "match_highlight": "Politehnica UTM home compactness tested by Zimbru's 2.11 goal-per-game road attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630263,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Zimbru's 1.86 away goal expectancy and 0.83 league defensive record outweigh Politehnica UTM's home resistance across both 1:2 and 0:2 winning scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined Poisson lambda (57.7% Over 2.5 probability) and Zimbru's 2.11 goals-per-game output tilt the match toward three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson projections give Politehnica UTM a 68.0% scoring probability via Samuel Gandi and Isidore Doumbe Nkalle alongside Zimbru's 84.4% mark (57.4% BTTS Yes)."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 is the modal Away Win Poisson outcome matching September's 2:1 meeting, while 0:2 covers July's away shutout blueprint."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals tie at 22.4% each in the Poisson matrix, reflecting the narrow margin between a 1:2 exchange and a 0:2 away control script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Politehnica UTM's compact home openings favor a level halftime before Zimbru pull away, with Loss-Loss covering an early visiting breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-21 04:08:26 UTC"
+}
