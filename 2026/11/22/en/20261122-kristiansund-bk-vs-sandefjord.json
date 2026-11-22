@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494807,
+    "matchup": "Kristiansund BK vs Sandefjord",
+    "home_team": "Kristiansund BK",
+    "away_team": "Sandefjord",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-22 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-kristiansund-bk-vs-sandefjord/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kristiansund BK vs Sandefjord Prediction & Match Analysis: Porous Defenses in Relegation Clash",
+    "meta": {
+      "matchId": "1494807",
+      "league": "Eliteserien",
+      "matchup": "Kristiansund BK vs Sandefjord",
+      "matchTime": "2026-11-22 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kristiansund BK's home scoring consistency and back-to-back league wins support a Home Win / Draw projection in an open, high-scoring relegation six-pointer.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers a 2:1 home triumph and a 2:2 second-half stalemate behind strong home scoring volume (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes aligns with 3.41 combined season xG/xGA and heavy market support at 1.44 and 1.40 (Confidence: High, Value: Moderate)",
+      "Late Away Recovery (2:2 Draw) reflects Sandefjord's 60% second-half away goal share and recent 5:5 volatility (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494807",
+      "league": "Eliteserien",
+      "homeTeam": "Kristiansund BK",
+      "awayTeam": "Sandefjord",
+      "match_time": "16:00",
+      "match_highlight": "Relegation six-pointer pits home resilience against four away injuries.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494807,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchors on a 2:1 Kristiansund win while retaining the 2:2 draw branch because Sandefjord's 1.45 xG attack prevents relying on a single-outcome home call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.89 goal-based lambda, 2.11 and 1.91 team xGA rates, and Bet365's 1.44 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kristiansund has scored in 11 of 13 home league matches against an 8.3% away clean-sheet Sandefjord defense that still projects 1.57 expected goals."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Kristiansund's home edge over depleted travelers, while 2:2 covers a late Sandefjord second-half equalizer."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Both totals sit squarely inside the 3.41 combined xG/xGA environment and mirror the 2:1 and 2:2 script projections."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Exploits Sandefjord's 58.3% away half-time deficit rate while hedging second-half away scoring surges into a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:40:28 UTC"
+}
