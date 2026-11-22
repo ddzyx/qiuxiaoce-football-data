@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552822,
+    "matchup": "Marseille vs Le Mans",
+    "home_team": "Marseille",
+    "away_team": "Le Mans",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-22 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261122-marseille-vs-le-mans/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Marseille vs Le Mans: Expected Goals, Bourabaa's Absence & Match Intelligence",
+    "meta": {
+      "matchId": "1552822",
+      "league": "Ligue 1",
+      "matchup": "Marseille vs Le Mans",
+      "matchTime": "2026-11-22 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Marseille's 100% home scoring profile and 2.05 attacking lambda outweigh their 2.25 xGA exposure to deliver a Home Win over winless-away, zero-clean-sheet Le Mans.",
+    "possibilityAssessment": [
+      "Home Win behind Marseille's 74.1 FW-OTI attack and 3.35-lambda scoring environment (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals supported by 65.1% Poisson expectancy and 1.53 market alignment (Confidence: High, Value: Moderate)",
+      "Both Teams To Score Yes / 2:1 margin hedge driven by Marseille's 2.25 xGA defensive leakage (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552822",
+      "league": "Ligue 1",
+      "homeTeam": "Marseille",
+      "awayTeam": "Le Mans",
+      "match_time": "19:45",
+      "match_highlight": "Marseille's Vélodrome firepower meets Le Mans's zero-clean-sheet defense without Adil Bourabaa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552822,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 2:1 primary scoreline where Marseille's 100% home scoring and 177-point Elo edge overcome Le Mans's winless away record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.35 total lambda, Marseille's 80% home Over 2.5 rate, and Le Mans's 1.99 xGA conceded per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Marseille have scored in all five home games against zero Le Mans clean sheets, while Marseille's 2.25 xGA leaves a transition opening."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 tops the Poisson matrix at 9.6%, while 3:1 captures Marseille's 40% home win-by-two-plus margin trajectory."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals holds the highest Poisson density at 22.0%, with four goals covering second-half separation."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Le Mans trailed at half-time in 60% of away games, while Marseille's 63.6% second-half goal share covers a level interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:22:30 UTC"
+}
