@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575227,
+    "matchup": "Werder Bremen vs Hamburger SV",
+    "home_team": "Werder Bremen",
+    "away_team": "Hamburger SV",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-22 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-werder-bremen-vs-hamburger-sv/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Werder Bremen vs Hamburger SV Prediction & Match Analysis: Can HSV Contain Füllkrug? — xG Preview",
+    "meta": {
+      "matchId": "1575227",
+      "league": "Bundesliga",
+      "matchup": "Werder Bremen vs Hamburger SV",
+      "matchTime": "2026-11-22 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Werder Bremen's superior home chance creation and second-half scoring surge project a Home Win over injury-hit Hamburger SV in an open derby.",
+    "possibilityAssessment": [
+      "Werder Bremen Home Win backed by 1.70 xG/match, unbeaten Weser-Stadion form, and HSV's 0-0-4 road losses outside their lone away win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by 3.45 combined lambda and 11.1% season clean-sheet rates on both sides (Confidence: Moderate, Value: High)",
+      "Draw-Win HT/FT script driven by Bremen's 82.4% second-half goal share against HSV's 60.0% away half-time draw rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575227",
+      "league": "Bundesliga",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Hamburger SV",
+      "match_time": "16:30",
+      "match_highlight": "Füllkrug and Bremen's second-half surge test HSV's winless away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575227,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by our 2:1 and 3:1 scoreline projections, as Bremen's 1.70 xG/match home attack and 15-day rest edge confront an HSV side with 1W-0D-4L away form and key spine absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.45 combined lambda, 67.0% Poisson Over 2.5 probability, and 66.7% Over 2.5 league rates for both teams support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs hold an 11.1% league clean-sheet rate, allowing fit HSV attackers Muheim, Grønbæk, and Moffi to breach Bremen's 1.51 xGA/match defense even in defeat."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 tops the Poisson matrix at 9.4% density, while 3:1 captures the April 2026 derby margin if HSV fade late under midfield absences."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals hold the highest Poisson density (21.7%) ahead of four goals (18.7%), aligning cleanly with our 2:1 and 3:1 projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Bremen score 82.4% of their goals after half-time against HSV's 60.0% away half-time draw rate, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:06:56 UTC"
+}
