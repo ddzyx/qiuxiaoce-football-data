@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570459,
+    "matchup": "Racing Santander vs Real Sociedad",
+    "home_team": "Racing Santander",
+    "away_team": "Real Sociedad",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-22 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-racing-santander-vs-real-sociedad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Racing Santander vs Real Sociedad Prediction & Match Analysis: Can Home Counter-Attacks Breach La Real?",
+    "meta": {
+      "matchId": "1570459",
+      "league": "La Liga",
+      "matchup": "Racing Santander vs Real Sociedad",
+      "matchTime": "2026-11-22 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Sociedad's superior midfield creation against Racing Santander's Mantilla-less defense supports Draw / Away Win alongside Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes driven by 3.66 combined lambda_total and zero home/away clean sheets (Confidence: High, Value: Moderate)",
+      "Elevated corner volume (>10.5) fueled by Real Sociedad's 6.7 corners per match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570459",
+      "league": "La Liga",
+      "homeTeam": "Racing Santander",
+      "awayTeam": "Real Sociedad",
+      "match_time": "15:15",
+      "match_highlight": "Porous defenses clash as depleted Racing host winless-clean-sheet travelers Real Sociedad.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570459,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 Real Sociedad away win against Racing's depleted backline and the 2:2 draw branch driven by La Real's 0-of-6 away clean sheets and 75.0% big-chance waste, where an isolated away win leaves excess variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.66 combined lambda_total, Racing's 6-of-6 home Over 2.5 streak, and Real Sociedad's 5-of-6 away Over 2.5 record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both Racing at home (0-of-6 clean sheets) and Real Sociedad away (0-of-6 clean sheets) concede consistently while maintaining strong scoring floors."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Real Sociedad's midfield edge with a Racing transition reply; 2:2 covers La Real's chance waste matching Racing's home draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 and 4 goals represent the two highest-probability Poisson buckets (21.0% and 19.2%) aligned with 1:2 and 2:2."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Real Sociedad's 50% away half-time lead rate and 100% half-time lead conversion; Draw-Draw reflects Racing's 66.7% home half-time draw frequency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:54:46 UTC"
+}
