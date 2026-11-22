@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1613727,
+    "matchup": "Santurtzi vs Erandio",
+    "home_team": "Santurtzi",
+    "away_team": "Erandio",
+    "league": "Tercera División RFEF - Group 4",
+    "kickoff_utc": "2026-11-22 10:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-santurtzi-vs-erandio/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Santurtzi vs Erandio Tactical Breakdown & Probabilistic Modeling: Low-Scoring Battle at San Jorge",
+    "meta": {
+      "matchId": "1613727",
+      "league": "Tercera División RFEF - Group 4",
+      "matchup": "Santurtzi vs Erandio",
+      "matchTime": "2026-11-22 10:15 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Santurtzi are projected to avoid defeat against newly promoted Erandio in a low-scoring Round 12 Basque relegation clash.",
+    "possibilityAssessment": [
+      "Santurtzi Home Win / Draw remains the leading direction backed by a 1.19 to 1.04 lambda edge and superior home defensive containment (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Goals captures 61.5% of the Poisson total-goals distribution given two sub-0.85 goals-per-match offenses (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No holds a 55.0% model edge as both clubs enter off recent scoreless league defeats (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613727",
+      "league": "Tercera División RFEF - Group 4",
+      "homeTeam": "Santurtzi",
+      "awayTeam": "Erandio",
+      "match_time": "10:15",
+      "match_highlight": "Santurtzi's 0.64 scoring rate tests Erandio's 1.73 conceded defense.",
+      "ai_confidence": "Low",
+      "fixtureId": 1613727,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win driven by Santurtzi's tighter defense alongside a 1:1 draw branch given their low 0.64 goals-per-game output and unverified lineups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.23 combined Poisson lambda (61.5% Under 2.5) and two offenses averaging under 0.85 goals per league match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson modeling gives BTTS: No a 55.0% edge as Santurtzi hold a 35.3% home clean-sheet projection against an Erandio attack recently shut out 0:2."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Pairs the primary 1:0 home breakthrough against Erandio's 1.73 goals-conceded defense with the modal 1:1 draw contingency."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Targets the top two Poisson goal buckets at 26.7% (2 goals) and 24.0% (1 goal) in a cautious relegation six-pointer."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a cagey level first half between two low-scoring sides before either a second-half Santurtzi breakthrough or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:44:24 UTC"
+}
