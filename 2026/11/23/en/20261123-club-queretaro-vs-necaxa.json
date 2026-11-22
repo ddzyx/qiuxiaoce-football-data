@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551046,
+    "matchup": "Club Queretaro vs Necaxa",
+    "home_team": "Club Queretaro",
+    "away_team": "Necaxa",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-23 01:10:00",
+    "source_url": "https://xgmind.com/matches/20261123-club-queretaro-vs-necaxa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Club Queretaro vs Necaxa: Expected Goals, Keeper Ban & Match Intelligence",
+    "meta": {
+      "matchId": "1551046",
+      "league": "Liga MX",
+      "matchup": "Club Queretaro vs Necaxa",
+      "matchTime": "2026-11-23 01:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win represents the most grounded 1X2 direction as Necaxa's superior underlying expected-goal balance targets a reeling Club Queretaro side missing suspended goalkeeper Guillermo Allison.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers both a 1:1 stalemate and a 1:2 away breakthrough against a backup host goalkeeper (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals aligns with Queretaro's 5-of-8 home under rate, Necaxa's 5-match under streak, and mutual finishing waste (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes reflects Necaxa's 0-of-7 away clean sheets and Queretaro's 1-of-8 home clean-sheet record without Allison (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551046",
+      "league": "Liga MX",
+      "homeTeam": "Club Queretaro",
+      "awayTeam": "Necaxa",
+      "match_time": "01:10",
+      "match_highlight": "Suspended keeper Allison leaves Queretaro exposed to Necaxa's xG edge.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551046,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the modal 1:1 draw script and Necaxa's 1:2 transition route, as Necaxa's 0-7 away winless record prevents a single away call while Allison's ban and Queretaro's five straight losses argue against a home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by Necaxa's five consecutive Under 2.5 matches under Reynoso, Queretaro's 62.5% home Under 2.5 rate, and severe big-chance waste (67.5% home, 48.1% away)."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 55.1% Poisson BTTS baseline alongside Necaxa's 0% away clean-sheet rate and Queretaro's 12.5% home clean-sheet rate with backup goalkeeper José Santiago Hernández."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the top-density Poisson outcome (12.1%) matching mutual clean-sheet fragility and low conversion, while 1:2 captures Necaxa capitalizing late against Queretaro's second-half home vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.4%) and three goals (22.1%) lead the Poisson total-goal distribution, directly tracking the 1:1 stalemate and 1:2 away-breakthrough branches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both teams record high venue half-time draw rates (50.0% home, 71.4% away), pointing to a level interval followed by either a 1:1 deadlock or Queretaro's recurring second-half home collapse."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 16:15:04 UTC"
+}
