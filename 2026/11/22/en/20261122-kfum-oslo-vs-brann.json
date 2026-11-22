@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494806,
+    "matchup": "KFUM Oslo vs Brann",
+    "home_team": "KFUM Oslo",
+    "away_team": "Brann",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-22 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-kfum-oslo-vs-brann/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "KFUM Oslo vs Brann Prediction & Match Analysis: Away Absences Test Fragile Defenses — Scoreline Preview",
+    "meta": {
+      "matchId": "1494806",
+      "league": "Eliteserien",
+      "matchup": "KFUM Oslo vs Brann",
+      "matchTime": "2026-11-22 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling favors KFUM Oslo to avoid defeat (Home Win / Draw) alongside Over 2.5 goals and Both Teams To Score (Yes) in an open 2:1 or 1:1 encounter.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Artificial-turf resilience and transition efficiency exploit Brann's away defensive exposure (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals & BTTS: Yes — Dual 1.98 xGA profiles and 3.27 combined lambda support scoring at both ends (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 1:1 Draw Branch — Heavy away possession without suspended attackers could dampen finishing into a low-margin stalemate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494806",
+      "league": "Eliteserien",
+      "homeTeam": "KFUM Oslo",
+      "awayTeam": "Brann",
+      "match_time": "16:00",
+      "match_highlight": "Home artificial-turf resilience tests depleted Brann in a high-xGA clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494806,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers KFUM Oslo's 2:1 home transition win and 1:1 draw script because Brann's confirmed absences and 3W-3D-7L away record make a single away call unsustainable, while Brann's 1.83 xG prevents a single home-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.27 combined lambda, identical 1.98 xGA/match defensive profiles, and Brann's 76.9% away Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks face 1.98-xGA defenses with key defensive absences while Poisson assigns 77.2% home and 83.3% away scoring probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects KFUM Oslo's home edge against a depleted Brann spine, while 1:1 covers a lower-conversion possession stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson goal-count buckets (3 goals at 22.1%, 2 goals at 20.3%) across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win captures KFUM's 64.7% first-half home goal share against Brann's 0% deficit recovery rate; Draw-Draw covers a cagey 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:17:04 UTC"
+}
