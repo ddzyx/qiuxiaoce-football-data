@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557473,
+    "matchup": "Liverpool vs Manchester United",
+    "home_team": "Liverpool",
+    "away_team": "Manchester United",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-22 16:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-liverpool-vs-manchester-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Liverpool vs Manchester United Tactical Breakdown & Probabilistic Modeling: Transition Flaws at Anfield",
+    "meta": {
+      "matchId": "1557473",
+      "league": "Premier League",
+      "matchup": "Liverpool vs Manchester United",
+      "matchTime": "2026-11-22 16:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Liverpool hold the clear tactical and defensive-prevention edge at Anfield, though Manchester United's high chance volume and five league draws keep a high-scoring stalemate in play within an Over 2.5 and BTTS Yes framework.",
+    "possibilityAssessment": [
+      "Liverpool Win / Draw anchored by superior midfield progression against United's zero-clean-sheet defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and Both Teams To Score driven by 3.34 combined xG per match and nine Over 2.5 results in the last ten meetings (Confidence: Moderate, Value: High)",
+      "High-Scoring Draw (2:2) if Liverpool's 64.7% big-chance waste persists against Pochettino's transition setup (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557473",
+      "league": "Premier League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester United",
+      "match_time": "16:30",
+      "match_highlight": "Liverpool midfield control targets zero-clean-sheet United pivot absences",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557473,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Primary 2:1 home win and secondary 2:2 draw scripts reflect Liverpool's superior defense alongside United's 1.76 xG threat and 50% league draw rate, making a single call unnecessarily narrow given Liverpool's 1W-2D-2L Anfield record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.34 xG per match, United's 1.79 xGA and recent open results, nine Over 2.5 finishes in ten H2H meetings, and 1.50 market pricing align around three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "United have zero clean sheets in ten league matches while still generating 1.76 xG per game against Liverpool's 1.32 xGA defense, supporting both sides scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 captures Liverpool's second-half midfield superiority over United's depleted pivots, while 2:2 covers Anfield finishing waste meeting United's transition volume."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "United's 2.99 decayed goals conceded per match shifts expected goal density upward from the 2.85 season-lambda baseline toward three and four total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides score roughly two-thirds of their goals after halftime and United have drawn 70% of first halves, projecting a level interval before second-half separation or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:02:43 UTC"
+}
