@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563264,
+    "matchup": "Burnley vs Blackburn",
+    "home_team": "Burnley",
+    "away_team": "Blackburn",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-22 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-burnley-vs-blackburn/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burnley vs Blackburn Prediction & Match Analysis: Can Rovers Exploit Turf Moor Fragility? — xG Preview",
+    "meta": {
+      "matchId": "1563264",
+      "league": "Championship",
+      "matchup": "Burnley vs Blackburn",
+      "matchTime": "2026-11-22 12:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Blackburn's transition attack exploits Burnley's 2.07 goals-conceded rate and winless home record to favour Draw / Away Win alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 Call: Draw / Away Win led by a 1:2 Blackburn victory against Burnley's 0W-5D-2L Turf Moor record and 1.79 xGA (Confidence: Moderate, Value: High)",
+      "Total Goals & BTTS: Over 2.5 Goals and BTTS Yes backed by a 3.27 combined lambda and both teams missing key defensive and goalkeeping starters (Confidence: High, Value: Moderate)",
+      "Scoreline Hedge: 1:1 Draw covering Burnley's five home draws and Blackburn's missing midfield screen Sam Morsy (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563264",
+      "league": "Championship",
+      "homeTeam": "Burnley",
+      "awayTeam": "Blackburn",
+      "match_time": "12:00",
+      "match_highlight": "Winless at Turf Moor, Burnley face clinical Guðjohnsen without Roberts and Larsen.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1563264,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 away win driven by Blackburn's 44.2% Poisson edge and a 1:1 draw branch reflecting Burnley's five Turf Moor stalemates and Rovers' interim goalkeeper/midfield absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.27 combined lambda, ~1.78 xGA for both sides, and 1.80 market support favour three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Burnley's 86.7% BTTS rate meets Blackburn's 60.3 FW-OTI with backup keeper Aynsley Pears and suspended Connor Roberts weakening both clean-sheet floors."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Blackburn's clinical transition edge over Burnley's 2.07 GA/pg, while 1:1 protects Turf Moor's most common home stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three (22.1%) and two (20.3%) goals represent the two highest-probability Poisson totals aligned with 1:2 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss mirrors Burnley's slow home starts and four Draw-Loss league defeats, while Win-Draw accounts for their 83.3% rate of dropping half-time leads."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:30:20 UTC"
+}
