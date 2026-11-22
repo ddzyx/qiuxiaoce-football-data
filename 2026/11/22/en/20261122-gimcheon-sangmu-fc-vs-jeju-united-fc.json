@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647397,
+    "matchup": "Gimcheon Sangmu FC vs Jeju United FC",
+    "home_team": "Gimcheon Sangmu FC",
+    "away_team": "Jeju United FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-22 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-gimcheon-sangmu-fc-vs-jeju-united-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gimcheon Sangmu FC vs Jeju United FC Prediction & Match Analysis: Can Jeju Breach Gimcheon's Press?",
+    "meta": {
+      "matchId": "1647397",
+      "league": "K League 1",
+      "matchup": "Gimcheon Sangmu FC vs Jeju United FC",
+      "matchTime": "2026-11-22 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win offers the strongest risk-adjusted direction as Jeju United's superior defensive prevention and road scoring consistency offset Gimcheon Sangmu's home possession.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Poisson 67.6% Jeju unbeaten expectancy and Gimcheon's 11.8% home win rate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals anchored by 2.25 total lambda and >60% season Under 2.5 rates for both clubs (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by >62% venue BTTS rates and Gimcheon's 17.6% home clean-sheet record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647397",
+      "league": "K League 1",
+      "homeTeam": "Gimcheon Sangmu FC",
+      "awayTeam": "Jeju United FC",
+      "match_time": "05:00",
+      "match_highlight": "Jeju's 93.8% away scoring floor tests Gimcheon's 17.6% home clean-sheet rate.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647397,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the natural 1:1 stalemate script and a 1:2 Jeju breakthrough, whereas a single call would neglect either Gimcheon's 20-draw tendency or Jeju's recent five-match winless slump."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.25 combined lambda, 60.9% Poisson Under 2.5 probability, and >60% season Under 2.5 profiles for both teams."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Jeju have scored in 15 of 16 away matches against Gimcheon's 1.50 xGA/g, while Jeju have kept zero clean sheets across their last five outings."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.3% and matches three of the last five H2H meetings, with 1:2 capturing Jeju's second-half transition edge."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson outcome (26.7%), with three goals covering a second-half breakthrough if Jeju's recent defensive leaks persist."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both clubs draw over half their first halves and four of their last five H2H were level at the break, splitting into a 1:1 stalemate or 1:2 away win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 00:47:18 UTC"
+}
