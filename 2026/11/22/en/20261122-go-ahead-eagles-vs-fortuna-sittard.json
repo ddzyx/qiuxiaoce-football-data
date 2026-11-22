@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552227,
+    "matchup": "GO Ahead Eagles vs Fortuna Sittard",
+    "home_team": "GO Ahead Eagles",
+    "away_team": "Fortuna Sittard",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-22 15:45:00",
+    "source_url": "https://xgmind.com/matches/20261122-go-ahead-eagles-vs-fortuna-sittard/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "GO Ahead Eagles vs Fortuna Sittard Match Analysis: Expected Goals (xG) Gap vs Unbeaten Away Run",
+    "meta": {
+      "matchId": "1552227",
+      "league": "Eredivisie",
+      "matchup": "GO Ahead Eagles vs Fortuna Sittard",
+      "matchTime": "2026-11-22 15:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "GO Ahead Eagles are projected to stay unbeaten at De Adelaarshorst with a primary lean toward a 2:1 home victory alongside an Over 2.5 and BTTS Yes scoring profile.",
+    "possibilityAssessment": [
+      "GO Ahead Eagles Home Win / Draw driven by 1.77 vs 0.95 xG superiority and 3W-2D-0L home record against Fortuna's 3W-3D-0L away resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by 3.79 combined lambda_total, 100% home BTTS rate for GO Ahead Eagles, and 2.22 xGA defensive exposure for Fortuna Sittard (Confidence: High, Value: Moderate)",
+      "Loss-Draw Half-Time / Full-Time contingency reflecting Fortuna's 50% away half-time lead rate colliding with GO Ahead's 60% overall deficit-recovery rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552227",
+      "league": "Eredivisie",
+      "homeTeam": "GO Ahead Eagles",
+      "awayTeam": "Fortuna Sittard",
+      "match_time": "15:45",
+      "match_highlight": "GO Ahead Eagles' 1.77 xG attack tests Fortuna's unbeaten away run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552227,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers GO Ahead Eagles' 2:1 xG-driven home victory script and the 2:2 draw branch driven by home big-chance waste and Fortuna's unbeaten away record, where a single call overlooks both sides' 41.7% season draw rates."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.79 lambda_total (72.9% Over 2.5 Poisson probability), 75% home Over 2.5 frequency, and Fortuna's 2.22 xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by GO Ahead Eagles' 100% home BTTS rate (0 home clean sheets) meeting Fortuna Sittard's 83.3% away BTTS rate and 100% away scoring record."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects GO Ahead Eagles' 1.77 vs 0.95 xG dominance with one conceded transition goal, while 2:2 mirrors both 2025/26 Eredivisie H2H meetings."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Matches the top two Poisson goal-count peaks (3 goals at 20.5% and 4 goals at 19.4%) and aligns directly with the 2:1 and 2:2 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Win captures GO Ahead Eagles' 71.4% second-half home scoring surge breaking a level half, while Loss-Draw covers Fortuna's fast away starts before a home fightback."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:04:17 UTC"
+}
