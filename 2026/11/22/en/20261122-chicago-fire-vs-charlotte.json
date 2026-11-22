@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649493,
+    "matchup": "Chicago Fire vs Charlotte",
+    "home_team": "Chicago Fire",
+    "away_team": "Charlotte",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-22 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-chicago-fire-vs-charlotte/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chicago Fire vs Charlotte Prediction & Match Analysis: Can Fire's xG Edge Hold? — Model Preview",
+    "meta": {
+      "matchId": "1649493",
+      "league": "Major League Soccer",
+      "matchup": "Chicago Fire vs Charlotte",
+      "matchTime": "2026-11-22 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Decisive 90-minute play favors Home Win / Away Win with Chicago holding an underlying xG and home-venue edge while Charlotte's clinical transition attack supports an Over 2.5, BTTS Yes contest.",
+    "possibilityAssessment": [
+      "Home Win / Away Win captures both verified attacking winning routes while bypassing a low-probability stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 3.46 combined lambda and 75%+ seasonal Over 2.5 frequencies for both clubs (Confidence: High, Value: Moderate)",
+      "BTTS: Yes reflects Chicago's 100% home scoring floor meeting Charlotte's 1.94 goals-per-game offense over two porous back lines (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649493",
+      "league": "Major League Soccer",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Charlotte",
+      "match_time": "23:30",
+      "match_highlight": "Chicago's xG edge confronts Charlotte's clinical attack amid key defensive doubts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649493,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Retains Chicago's home xG-driven 2:1 script and Charlotte's transition 1:2 upset path because zero draws in 10 all-time meetings and Chicago's 11.8% home draw rate make either decisive winner far more compelling than a single call or draw hedge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.46 total lambda alongside 82.4% Chicago home and 76.5% Charlotte away Over 2.5 rates strongly supports three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Chicago scored in all 17 home league matches while Charlotte netted 66 goals and kept just two road clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:2"
+        ],
+        "comment": "2:1 reflects Chicago's +0.49 xG differential at home, while 1:2 covers Charlotte's 1.94 goals-per-game finishing surge against Chicago's leaky back line."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four goals anchor the highest-probability Over 2.5 bands under a 3.46 goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Loss"
+        ],
+        "comment": "An initially tight first half after a 15-day break yields to decisive second-half breakthroughs, mirroring both 2026 regular-season meetings and Charlotte's 61.9% second-half goal share."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 15:37:35 UTC"
+}
