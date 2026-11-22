@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555819,
+    "matchup": "Renofa Yamaguchi vs Biwako Shiga",
+    "home_team": "Renofa Yamaguchi",
+    "away_team": "Biwako Shiga",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-22 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-renofa-yamaguchi-vs-biwako-shiga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Renofa Yamaguchi vs Biwako Shiga Tactical Breakdown & Probabilistic Modeling: Backline Shift vs Road Threat",
+    "meta": {
+      "matchId": "1555819",
+      "league": "J3 League",
+      "matchup": "Renofa Yamaguchi vs Biwako Shiga",
+      "matchTime": "2026-11-22 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Renofa Yamaguchi hold the attacking and standings edge at Ishin Me-Life Stadium, though Shuta Kikuchi's suspension warrants covering a draw alongside the home victory.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Renofa Yamaguchi's 1.53 home lambda and 4th-place attacking balance against a 16th-placed defense allowing 1.71 goals per game, with the draw retained for Shuta Kikuchi's ban (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by Biwako Shiga's 14 goals in 9 away league fixtures and two high-scoring 2026 H2H meetings (Confidence: Moderate, Value: Moderate)",
+      "1:1 Stalemate / HT-FT Win-Draw reflecting Shiga's 3-4-2-1 road resilience and Yamaguchi's recent late concession at Kamatamare Sanuki (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555819",
+      "league": "J3 League",
+      "homeTeam": "Renofa Yamaguchi",
+      "awayTeam": "Biwako Shiga",
+      "match_time": "05:00",
+      "match_highlight": "Suspended defender Shuta Kikuchi tests Yamaguchi against surging away side Shiga.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555819,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home victory driven by Yamaguchi's attacking edge and a 1:1 draw prompted by Kikuchi's defensive suspension against Shiga's road form, avoiding an exposed single win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.53 combined lambda, Shiga's 1.71 goals conceded per match, and 3.22 average total goals across Shiga's nine away league fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Yamaguchi fail to score in just 19% of league games against Shiga's 25% clean-sheet rate, while Shiga's 1.56 away goals per match meet a Kikuchi-less home defense."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Yamaguchi's superior offensive output and Shiga's road scoring floor, while 1:1 covers a repeat of Shiga's 3-4-2-1 draw against FC Osaka."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the primary 2:1 script and Shiga's open away matches, with 2 goals covering a tighter 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Yamaguchi led at half-time in both 2026 H2Hs and last week at Sanuki, making a full-time hold or second-half equalizer the primary chronological fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 00:30:38 UTC"
+}
