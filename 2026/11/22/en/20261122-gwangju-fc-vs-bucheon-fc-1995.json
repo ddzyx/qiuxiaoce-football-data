@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647398,
+    "matchup": "Gwangju FC vs Bucheon FC 1995",
+    "home_team": "Gwangju FC",
+    "away_team": "Bucheon FC 1995",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-22 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-gwangju-fc-vs-bucheon-fc-1995/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gwangju FC vs Bucheon FC 1995: Expected Goals (xG), Rotation Risk & Match Preview",
+    "meta": {
+      "matchId": "1647398",
+      "league": "K League 1",
+      "matchup": "Gwangju FC vs Bucheon FC 1995",
+      "matchTime": "2026-11-22 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gwangju FC avoiding defeat via a Home Win / Draw direction best balances their late-season attacking upswing against both clubs' defensive vulnerabilities.",
+    "possibilityAssessment": [
+      "Gwangju FC Home Win or Draw driven by Ba Loua and Iredale exploitation of Bucheon's five-match defensive slump (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals and BTTS Yes supported by combined 3.76 xGA per match and 7 of 10 recent fixtures clearing three goals (Confidence: Moderate, Value: High)",
+      "1:1 Draw Contingency reflecting Gwangju's 14 season draws and potential playoff-preservation pacing in the closing stages (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647398",
+      "league": "K League 1",
+      "homeTeam": "Gwangju FC",
+      "awayTeam": "Bucheon FC 1995",
+      "match_time": "05:00",
+      "match_highlight": "Playoff-bound Gwangju's surging attack tests already-safe Bucheon's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647398,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 Gwangju win powered by Ba Loua and Iredale and a 1:1 stalemate, as Gwangju's 11.8% home clean-sheet rate and 14 season draws make a single result call riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.70 total lambda, combined 3.76 xGA per game, and 7 of the two clubs' combined last 10 league outings producing three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses struggle for shutouts (11.8% Gwangju home clean sheets, 11 goals conceded by Bucheon in 5 games) against active frontlines, aligning with a 54.2% Poisson BTTS anchor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Gwangju's recent offensive superiority paired with their persistent home goal concessions, while 1:1 captures the modal Poisson outcome and Gwangju's back-to-back recent draws."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals fits the 2.70 total lambda and recent multi-goal trend, with two goals covering the 24.5% modal Poisson count if finishing wastefulness slows the second half."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Gwangju has drawn 70.6% of home first halves without a single half-time lead in 17 home games, making a level interval before a second-half home winner or shared 1:1 draw the primary splits."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 00:50:22 UTC"
+}
