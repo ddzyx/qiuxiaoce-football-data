@@ -1,0 +1,83 @@
+# Sanjoanense vs Academica Prediction & Match Analysis: Can Cup Giant-Killers Hold Briosa?
+
+> **Competition**: Taça de Portugal
+> **Kickoff**: 2026-11-22 11:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the heart of this Taça de Portugal Round of 32 clash at Estádio Conde Dias Garcia lies a classic knockout contrast between fourth-tier home resilience and second-tier professional depth. AD Sanjoanense welcome Académica de Coimbra for an 11:00 UTC Sunday morning fixture with a place in the last 16 at stake, pitting Pedro Hipólito—a former Académica midfielder from 1999 to 2003—against António Barbosa, who once stood in Sanjoanense&#x27;s own technical area. Sanjoanense stunned Primeira Liga side CD Nacional 1–0 here in the previous round, yet Académica arrive sixth in Liga Portugal 2 and armed with eight set-piece goals this season. By synthesizing multi-tier scoring metrics, Poisson baseline distributions, verified squad availability, and officiating tendencies, XG Mind AI deconstructs whether the visitors&#x27; quality breaks through or the hosts force another stalemate.
+
+📌 Sanjoanense vs Academica: Match Intelligence Brief
+
+Fixture ID
+
+: 1647588
+
+Matchup
+
+: Sanjoanense vs Academica
+
+Competition
+
+: Taça de Portugal, Round of 32 (4th Round)
+
+Kickoff Time
+
+: 2026-11-22 11:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether Sanjoanense&#x27;s compact home low block can neutralize Académica&#x27;s eight-goal dead-ball threat across 90 disciplined minutes.
+
+📊 1. Sanjoanense Attacking Structure vs Academica Defensive Counter
+
+⚔️ Head-to-Head History: No Recent Competitive Meetings on Record
+
+Official data packages record zero recent competitive meetings between AD Sanjoanense and Académica de Coimbra across current-cycle domestic campaigns, as the clubs have operated in separate tiers. Their most recent Taça de Portugal clash in São João da Madeira dates back over a decade to October 2015 (a 1–5 away victory for Académica), which serves only as distant historical backdrop rather than a current tactical benchmark.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+No recent competitive meetings
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+📈 Team Form &amp; Tactical Style Breakdown: Compact Home Attrition vs Measured Second-Tier Control
+
+Home Team (Sanjoanense):
+
+Competing in Campeonato de Portugal Series B (sitting in the upper half with roughly 11 points from seven league fixtures), Pedro Hipólito&#x27;s side has built its cup identity around defensive compactness and late set-piece execution. In the third round on October 17, Sanjoanense shocked top-flight CD Nacional 1–0 at Estádio Conde Dias Garcia through an 81st-minute Demonreve Dabo (also listed as Maxwell Sani) finish from Francisco Brandão&#x27;s headed set-piece knockdown. Their surrounding league sequence reinforces a low-margin template: a 1–0 home victory over Guarda FC (October 10), a 1–2 away defeat at AD Camacha (October 25), a 2–1 road win at CF União de Lamas (October 31), and a 1–1 home draw against AD Machico (November 8).
+
+Across those last three home outings against Nacional, Guarda, and Machico, Sanjoanense conceded only one goal in total while averaging 1.00 goal conceded per match overall (home_goals_conceded_pg: 1.00) and 1.20 goals scored (home_goals_pg: 1.20).
+
+Rested for 14 days since November 8 with goalkeepers André Duarte and Bernardo Santos marshaling defenders Junilson Cá and recovered veteran Rúben Cardoso, Sanjoanense will concede territory willingly and hunt direct transitions toward Brandão and Erick Gabriel.
+
+Because league-wide advanced defensive metrics and full match-by-match cup scoring splits remain unavailable for Sanjoanense, their home defensive resilience relies on verified recent scores rather than an extended statistical sample.
+
+Away Team (Academica):
+
+Newly promoted to Liga Portugal 2 and sitting around sixth place with roughly 17 points after 11 matches, António Barbosa&#x27;s Académica combine structured mid-block stability with potent dead-ball delivery. Their five-match sequence (DDLWW) reflects a side far harder to break down than to contain: a 3–2 Taça de Portugal third-round home win over Amarante (October 17), a 4–0 Segunda Liga demolition of ten-man Leixões (October 24, featuring a Leandro Silva penalty, a Jean Sinisterra brace, and an Amadou Coundoul strike), a 1–2 away loss at Vizela (November 1), a 1–1 home draw with Amarante (November 7), and a disciplined 0–0 draw away at Portimonense (November 15).
+
+Over that five-match sample, Académica posted a time-decayed average of just 0.86 goals conceded per game (decayed_goals_against_avg: 0.86) against 1.39 goals scored (decayed_goals_for_avg: 1.39), backed by a season-wide 1.10 goals scored and 1.20 conceded per match.
+
+With Kévin Zohi, Martim Tavares, Edson Farias, and Ilies Faure providing varied attacking rotations alongside experienced left-back Hélder Lopes,
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261122-sanjoanense-vs-academica/)
