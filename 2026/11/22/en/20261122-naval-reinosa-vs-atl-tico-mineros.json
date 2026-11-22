@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1613418,
+    "matchup": "Naval Reinosa vs Atlético Mineros",
+    "home_team": "Naval Reinosa",
+    "away_team": "Atlético Mineros",
+    "league": "Tercera División RFEF - Group 3",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-naval-reinosa-vs-atl-tico-mineros/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Naval Reinosa vs Atlético Mineros Tactical Breakdown & Probabilistic Modeling: Open Transition Clash",
+    "meta": {
+      "matchId": "1613418",
+      "league": "Tercera División RFEF - Group 3",
+      "matchup": "Naval Reinosa vs Atlético Mineros",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atlético Mineros carry the stronger attacking and standings profile against Naval Reinosa's porous defense, making Draw / Away Win alongside Over 2.5 goals and Both Teams To Score (Yes) the most coherent projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Mineros' superior 1.45 goals/game attack while hedging against their 1.91 goals-conceded vulnerability (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals aligns with a 3.31 combined lambda and 64.3% Poisson probability across two leaky backlines (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes and the 1:1 secondary script capture Naval's 77.7% home scoring expectancy and recent defensive tightening (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613418",
+      "league": "Tercera División RFEF - Group 3",
+      "homeTeam": "Naval Reinosa",
+      "awayTeam": "Atlético Mineros",
+      "match_time": "11:00",
+      "match_highlight": "Mineros' 1.45 goals/game attack tests Reinosa's 2.18 goals-conceded backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1613418,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win retains Mineros' clear attacking and points edge (1:2 primary) while covering the 1:1 draw script created by Mineros' 1.91 goals-conceded rate and Naval's recent two-match improvement."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.31 combined lambda and season averages above 3.25 match goals for both sides support a 64.3% Poisson Over 2.5 expectation."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "High scoring expectancies (77.7% home, 83.6% away) paired with 2.18 and 1.91 goals conceded per match strongly favor Both Teams To Score: Yes."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Mineros' scoring superiority in an open contest, while 1:1 captures the top Poisson density if Naval sustain their recent compactness."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.1%) and two goals (20.0%) represent the two highest-probability Poisson totals matching the 1:2 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss models Mineros taking a first-half lead and holding on for 1:2, whereas Draw-Draw covers a cagey 1:1 stalemate across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:12:35 UTC"
+}
