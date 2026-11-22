@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615559,
+    "matchup": "Chiclana vs Tomares",
+    "home_team": "Chiclana",
+    "away_team": "Tomares",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-chiclana-vs-tomares/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chiclana vs Tomares Tactical Breakdown & Preview: Home Resilience Meets Away Efficiency",
+    "meta": {
+      "matchId": "1615559",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Chiclana vs Tomares",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Statistical baselines and Poisson scoreline modeling favour Draw / Away Win alongside Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Tomares secures an away clean-sheet victory on disciplined second-half execution (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals lands in a structured tactical contest featuring limited open transitions (Confidence: Moderate, Value: Moderate)",
+      "Both sides trade a single strike in a balanced 1:1 stalemate if Tomares' November defensive lapses persist (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615559",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Chiclana",
+      "awayTeam": "Tomares",
+      "match_time": "11:00",
+      "match_highlight": "Tomares' away resilience tests Chiclana's winless four-game home league run.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615559,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored to the 0:1 away breakthrough and 1:1 stalemate scripts, covering both outcomes reflects Tomares' 40.8% statistical edge while respecting its recent three-match slide."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.46 lambda_total, 55.4% Poisson Under 2.5 density, and Tomares' 63.6% season Under 2.5 rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Chiclana's 36.4% failed-to-score rate (two blanks in five home games) facing Tomares' 36.4% clean-sheet ratio."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Tomares' two 1:0 away wins against Chiclana's zero home clean sheets, while 1:1 covers the 12.9% modal stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.9%) and 1 goal (21.0%) represent the leading Under 2.5 Poisson exact-total clusters."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half containment points to a level interval before either a late Tomares winner (0:1) or a shared full-time draw (1:1)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:58:15 UTC"
+}
