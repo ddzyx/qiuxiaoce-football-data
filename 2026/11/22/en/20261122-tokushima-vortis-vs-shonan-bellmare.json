@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1606775,
+    "matchup": "Tokushima Vortis vs Shonan Bellmare",
+    "home_team": "Tokushima Vortis",
+    "away_team": "Shonan Bellmare",
+    "league": "J2 League",
+    "kickoff_utc": "2026-11-22 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-tokushima-vortis-vs-shonan-bellmare/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tokushima Vortis vs Shonan Bellmare Prediction & Tactical Breakdown: Can Shonan Unlock Home Block?",
+    "meta": {
+      "matchId": "1606775",
+      "league": "J2 League",
+      "matchup": "Tokushima Vortis vs Shonan Bellmare",
+      "matchTime": "2026-11-22 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project a low-scoring contest leaning toward Shonan Bellmare avoiding defeat via Under 2.5 Goals and BTTS: No, anchored by a 0:1 away win or 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Shonan Bellmare's road discipline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by a 1.97 combined lambda expectancy (Confidence: High, Value: Moderate)",
+      "BTTS: No backed by Tokushima's home blanks and Shonan's recent 0.70 decayed GA (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1606775",
+      "league": "J2 League",
+      "homeTeam": "Tokushima Vortis",
+      "awayTeam": "Shonan Bellmare",
+      "match_time": "05:00",
+      "match_highlight": "Shonan's second-half surge tests Tokushima's stubborn home defense at Pocarisweat Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1606775,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Shonan's superior road unbeaten record (8 of 9) and Tokushima's narrow home defensive resistance (5 of 9 Shonan away games drawn), where neither single call alone covers both top scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 1.97 combined goal expectancy (68.5% Poisson Under 2.5) and Shonan finishing Under 2.5 in 13 of 17 league matches."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with the 0:1 primary scoreline, Tokushima's 37.5% home failed-to-score rate, and Shonan's 61.2% baseline BTTS-No projection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Pairs the modal 0:1 second-half Shonan breakthrough with a 1:1 draw covering Shonan's frequent away stalemates."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One-goal (27.5%) and two-goal (27.1%) totals dominate the 1.97 lambda Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects cautious first-half parity before Shonan's second-half acceleration either breaks the deadlock or leaves both sides level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 00:42:41 UTC"
+}
