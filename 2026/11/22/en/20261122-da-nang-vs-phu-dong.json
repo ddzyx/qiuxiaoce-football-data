@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1633939,
+    "matchup": "Da Nang vs Phu Dong",
+    "home_team": "Da Nang",
+    "away_team": "Phu Dong",
+    "league": "V.League 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-da-nang-vs-phu-dong/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Da Nang vs Phu Dong Prediction & Match Analysis: Can Lee Young-jin Halt Phu Dong? — Scoreline Preview",
+    "meta": {
+      "matchId": "1633939",
+      "league": "V.League 1",
+      "matchup": "Da Nang vs Phu Dong",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Phu Dong's 2.00 goals-per-match firepower and midfield control make an away win the leading trajectory, though their seven-game concession streak supports covering a 1:1 draw under Draw / Away Win alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Primary Matchup Thesis: Phu Dong carry a clear 1.85 to 1.28 lambda advantage and superior depth through Nguyen Hoang Duc, projecting an away victory as the primary outcome while retaining the draw against Lee Young-jin's home debut (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Angle: A 3.13 combined lambda and Phu Dong's five Over 2.5 outings in seven rounds support Over 2.5 Goals with 3 goals as the primary total (Confidence: Moderate, Value: Moderate)",
+      "BTTS Asymmetry Angle: Phu Dong's 0.0% clean-sheet rate across seven rounds paired with scoring in 6 of 7 matches strongly supports BTTS: Yes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1633939",
+      "league": "V.League 1",
+      "homeTeam": "Da Nang",
+      "awayTeam": "Phu Dong",
+      "match_time": "11:00",
+      "match_highlight": "Lee Young-jin's Da Nang debut tests Phu Dong's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1633939,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors around the primary 1:2 away win while formally covering the 1:1 draw, as Phu Dong's superior attack faces a new-coach home block without a clean sheet in seven rounds."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.13 combined lambda and 60.5% Poisson Over 2.5 baseline, with Phu Dong averaging 2.00 goals scored and 1.43 conceded per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Phu Dong have scored in 6 of 7 league games but hold a 0.0% clean-sheet rate, aligning with a 60.8% Poisson BTTS probability."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Phu Dong's 50.8% win expectancy and 3-goal top bucket, while 1:1 covers the top single-cell Poisson draw scenario if Da Nang's compact block holds late."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3% Poisson density) leads off open away scoring, while 2 goals (21.4%) accounts for a tighter new-manager tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects Da Nang's organized debut setup to stay level at half-time before Phu Dong's depth decides a 1:2 win or stalls into a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:33:26 UTC"
+}
