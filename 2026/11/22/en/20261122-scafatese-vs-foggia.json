@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1609140,
+    "matchup": "Scafatese vs Foggia",
+    "home_team": "Scafatese",
+    "away_team": "Foggia",
+    "league": "Serie C - Girone C",
+    "kickoff_utc": "2026-11-22 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-scafatese-vs-foggia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Scafatese vs Foggia Prediction & Match Analysis: Can Home Attack Break Returning Foggia Defense?",
+    "meta": {
+      "matchId": "1609140",
+      "league": "Serie C - Girone C",
+      "matchup": "Scafatese vs Foggia",
+      "matchTime": "2026-11-22 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Scafatese holds the tactical edge to win or draw at Stadio Raffaele Guariglia in a competitive encounter where both attacks project to score.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw driven by Scafatese's 13-point home record and intact front trio alongside draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Totals & BTTS Angle: Over 2.5 Goals & BTTS Yes backed by 2.76 combined lambda and 77.0% / 72.5% team-to-score projections (Confidence: Moderate, Value: Moderate)",
+      "Tight-Margin Branch: 2 Total Goals (1:1 Draw) should Foggia's returning defensive starters suppress second-half scoring (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1609140",
+      "league": "Serie C - Girone C",
+      "homeTeam": "Scafatese",
+      "awayTeam": "Foggia",
+      "match_time": "11:30",
+      "match_highlight": "Home firepower faces Foggia's returning defensive core in Agropoli",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1609140,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Scafatese's 2:1 home-win edge and the 1:1 draw risk created by five home absences and Foggia's defensive returns, where a single win call leaves the hosts' 42.9% draw rate exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.76 combined lambda, Scafatese's 3.07 average total goals per match, and Foggia's 2.75 total-goal rate across eight away fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses post low Poisson clean-sheet projections (27.5% home, 23.0% away) while Scafatese's 1.57 home scoring rate meets Mario Ravasio's away threat."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Scafatese's home attacking superiority over Foggia's 1.50 road concession rate, while 1:1 captures a tighter stalemate if Foggia's returning defenders hold firm."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals anchors the primary 2:1 Over 2.5 projection, while 2 goals covers the high-density 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Caution after Round 14 defeats favors a level first half before either Scafatese pulls ahead late or both sides finish deadlocked."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 08:39:39 UTC"
+}
