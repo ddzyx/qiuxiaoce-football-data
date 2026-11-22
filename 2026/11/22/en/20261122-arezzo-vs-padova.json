@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601603,
+    "matchup": "Arezzo vs Padova",
+    "home_team": "Arezzo",
+    "away_team": "Padova",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-22 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-arezzo-vs-padova/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arezzo vs Padova Prediction & Match Analysis: Can Padova's Depleted Defense Hold? — xG Preview",
+    "meta": {
+      "matchId": "1601603",
+      "league": "Serie B",
+      "matchup": "Arezzo vs Padova",
+      "matchTime": "2026-11-22 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Padova are projected to avoid defeat in a tight Serie B contest where a 1:1 draw leads and a 1:2 away win serves as the main alternative.",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance backed by Padova's 100% away scoring record and Arezzo's winless 0W-2D-3L home run (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & Both Teams To Score: Yes aligned with a 2.46 combined lambda and Padova's compromised clean-sheet structure (Confidence: Moderate, Value: Moderate)",
+      "1:2 Away Win (3 Total Goals) capturing late midfield breakthrough potential for Padova if Arezzo overcommit after the break (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601603",
+      "league": "Serie B",
+      "homeTeam": "Arezzo",
+      "awayTeam": "Padova",
+      "match_time": "16:15",
+      "match_highlight": "Padova's center-back injury crisis tests winless-at-home Arezzo's blunt attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601603,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:1 stalemate and the 1:2 Padova transition win, as Arezzo's 0-2-3 home record and Padova's depleted backline create genuine two-way uncertainty rather than a clear single-outcome lock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.46 combined lambda, Poisson's 55.4% Under projection, and Padova's 63.6% season Under 2.5 rate alongside missing attackers on both rosters."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Padova have scored in all five away matches against an Arezzo side conceding 1.82 goals per game, while Padova's three absent centre-backs weaken their clean-sheet integrity."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "A 1:1 draw reflects the 12.5% Poisson peak adjusted for Padova's defensive absences, with 1:2 capturing Padova's superior midfield progression late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal 25.9% Poisson outcome matching 1:1, while three goals covers the 21.2% secondary branch of a 1:2 away victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Arezzo's 60% home half-time draw rate and zero first-half home goals point to a level interval before settling 1:1 or tipping late to Padova."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:45:28 UTC"
+}
