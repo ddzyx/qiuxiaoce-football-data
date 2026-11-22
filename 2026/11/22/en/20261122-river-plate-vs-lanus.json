@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649569,
+    "matchup": "River Plate vs Lanus",
+    "home_team": "River Plate",
+    "away_team": "Lanus",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-22 22:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-river-plate-vs-lanus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "River Plate vs Lanus Prediction & Match Analysis: Can Low-Block Lanus Contain Correa? — xG Preview",
+    "meta": {
+      "matchId": "1649569",
+      "league": "Liga Profesional Argentina",
+      "matchup": "River Plate vs Lanus",
+      "matchTime": "2026-11-22 22:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "River Plate's 1.99 xG-per-match attacking process at El Monumental and Lanus's 0.73 xGA defensive structure point toward a tight, Under 2.5 contest favoring Home Win / Draw.",
+    "possibilityAssessment": [
+      "River Plate Home Win or Draw anchored by 61.1% home league win rate, Correa-Almada-Beltran continuity, and Cardozo's absence for Lanus (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by 2.07 combined lambda, 65.8% Poisson probability, and 66.7% season Under 2.5 rates for both clubs (Confidence: High, Value: Moderate)",
+      "Both Teams To Score: No (1:0 shutout primary / 1:1 late-transition hedge) driven by River's 44.4% home clean-sheet rate versus Lanus's 1.00 xG floor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649569",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "River Plate",
+      "awayTeam": "Lanus",
+      "match_time": "22:00",
+      "match_highlight": "River's reshuffled midfield tests Lanus's 0.73 xGA low block at El Monumental.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649569,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers River Plate's 1:0 home breakthrough and a 1:1 regulation draw, as Montiel's ban and midfield absences prevent an unhedged single home call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by 2.07 lambda_total (65.8% Poisson Under 2.5), Lanus's 0.73 xGA per match, and 66.7% season Under 2.5 rates for both teams."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with the 1:0 primary scoreline, River's 44.4% home clean-sheet rate, and Lanus's modest 1.00 xG per match without Cardozo."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects River's 66.3% big-chance waste meeting Lanus's tight block, while 1:1 covers transitional leakage from River's depleted midfield."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Poisson goal counts (27.0% for 2 goals, 26.1% for 1 goal) in a cautious single-elimination playoff."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Follows three consecutive 0:0 half-times in recent H2H meetings and Lanus's 60.0% HT draw rate before a decisive second-half fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 15:24:47 UTC"
+}
