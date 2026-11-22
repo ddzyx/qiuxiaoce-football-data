@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570837,
+    "matchup": "Arenas Getxo vs Real Avilés",
+    "home_team": "Arenas Getxo",
+    "away_team": "Real Avilés",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-arenas-getxo-vs-real-avil-s/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arenas Getxo vs Real Avilés Prediction & Match Analysis: Can Depleted Avilés Outscore Arenas at Fadura?",
+    "meta": {
+      "matchId": "1570837",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "Arenas Getxo vs Real Avilés",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win captures Real Avilés's superior 2.08-goal-per-game attacking firepower against a 2.08-conceded home defense while accounting for visiting clean-sheet fragility in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Real Avilés's 25-goal league attack and Arenas Getxo's 25 goals conceded across 12 rounds (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by a 3.29 combined Poisson lambda and five straight Over 2.5 league matches for Real Avilés (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes supported by Arenas Getxo's four-match scoring streak and Real Avilés's 1.42 goals conceded per game (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570837",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "Arenas Getxo",
+      "awayTeam": "Real Avilés",
+      "match_time": "11:00",
+      "match_highlight": "Real Avilés's 25-goal attack tests Arenas Getxo amid suspended Carmona's absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570837,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Projects 1:2 away victory on Real Avilés's 2.08 goals/game edge while retaining the 2:2 draw branch because Carmona's suspension and defensive injuries compromise visiting clean-sheet security."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.29 combined Poisson goal lambda (63.9% Over 2.5) and league goal rates showing 2.08 scored per match by Real Avilés against 2.08 conceded by Arenas Getxo."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear the scoring floor (61.4% Poisson BTTS), combining Real Avilés's 25-goal attack with Arenas's four-match scoring streak against a Carmona-less visiting defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 leads the Poisson matrix (9.8%) as Real Avilés's clinical forwards edge a leaky home defense, while 2:2 reflects both clubs' November 15 draws and visiting defensive absences."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (22.1%) and four goals (18.2%) bracket the 3.29 lambda_total expectation across open game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A competitive first half at Fadura projects level before Real Avilés's second-half scoring surge seals 1:2 (Draw-Loss) or visiting defensive gaps allow a 2:2 share of points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:42:56 UTC"
+}
