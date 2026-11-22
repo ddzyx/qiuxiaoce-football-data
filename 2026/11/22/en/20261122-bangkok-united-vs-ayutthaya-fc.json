@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1598080,
+    "matchup": "Bangkok United vs Ayutthaya FC",
+    "home_team": "Bangkok United",
+    "away_team": "Ayutthaya FC",
+    "league": "Thai League 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-bangkok-united-vs-ayutthaya-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bangkok United vs Ayutthaya FC Prediction & Match Analysis: Clean-Sheet Steel vs Road Firepower",
+    "meta": {
+      "matchId": "1598080",
+      "league": "Thai League 1",
+      "matchup": "Bangkok United vs Ayutthaya FC",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Bangkok United to avoid defeat (Home Win / Draw), led by a narrow home victory over Over 2.5 goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored in Bangkok United's 0.75 goals-conceded rate and common-opponent edge while covering a 1:1 deadlock (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by a 2.56 combined lambda, Ayutthaya's 1.75 goals-per-game attack, and 4:1 / 3:1 H2H precedents (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes reflecting >71% single-side scoring probabilities and Ayutthaya's four-match winning run (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1598080",
+      "league": "Thai League 1",
+      "homeTeam": "Bangkok United",
+      "awayTeam": "Ayutthaya FC",
+      "match_time": "11:00",
+      "match_highlight": "Bangkok United's 0.75-goal defense tests Ayutthaya's 1.75-goal attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1598080,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bangkok United's home superiority in a 2:1 win and the 1:1 draw script if their 58.8% big-chance waste persists, as a single win call leaves zero cushion for post-King's Cup fatigue."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 2.56, Ayutthaya's 1.75 goals per game, and high-scoring 2025/26 H2H meetings support clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear 71% Poisson scoring probabilities, with Ayutthaya scoring in seven of eight tracked games against a post-break Bangkok defense."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Bangkok's territorial and set-piece edge overcoming one counter-attack, while 1:1 captures missed home chances against a compact road side."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 Over 2.5 trajectory, with 2 goals covering the 1:1 or 2:0 lower-scoring branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Bangkok United's patient opening and May 2 0:0 half-time precedent point to a level interval before either a second-half home breakthrough (Draw-Win) or shared points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 03:48:14 UTC"
+}
