@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1584468,
+    "matchup": "Erzurumspor FK vs Göztepe",
+    "home_team": "Erzurumspor FK",
+    "away_team": "Göztepe",
+    "league": "Super Lig",
+    "kickoff_utc": "2026-11-22 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-erzurumspor-fk-vs-g-ztepe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Erzurumspor FK vs Göztepe Tactical Breakdown & Match Analysis: Can Home Defense Halt Stoilov's Attack?",
+    "meta": {
+      "matchId": "1584468",
+      "league": "Süper Lig",
+      "matchup": "Erzurumspor FK vs Göztepe",
+      "matchTime": "2026-11-22 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Göztepe's 2.00 goals-per-match firepower and three-match away winning streak support a Draw / Away Win direction led by a 1:2 away victory alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win primary 1X2 direction (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals and BTTS Yes anchored by 3.09 combined lambda (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency driven by Göztepe's 70.7% big-chance waste and 1.73 goals conceded/match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1584468",
+      "league": "Süper Lig",
+      "homeTeam": "Erzurumspor FK",
+      "awayTeam": "Göztepe",
+      "match_time": "10:30",
+      "match_highlight": "Göztepe's 2.00 goals/game and set-piece threat test Erzurumspor's home resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1584468,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Göztepe's 1:2 road-win path driven by 2.00 goals/game and the 1:1 draw script created by their 1.73 goals-conceded rate, where a single Away Win call would ignore Erzurumspor's 60% home clean-sheet record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.09 combined lambda, 59.7% Poisson Over 2.5 probability, and Göztepe's 5-of-5 away Over 2.5 record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Göztepe have scored in all five away samples while keeping just a 20% clean-sheet rate, meeting an Erzurumspor side averaging 1.55 conceded/game that scored in 4 of 5 home outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors Göztepe's back-to-back 2:1 away wins and 3.09 total lambda, while 1:1 captures their 70.7% big-chance waste against a compact 5-4-1 host."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals peaks at 22.4% in the Poisson matrix for 1:2, with 2 goals at 21.7% covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Göztepe led at half-time in 60% of away games while Erzurumspor lost all three seasonal HT deficits (Loss-Loss), with Loss-Draw covering Göztepe's 33.3% away lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:49:38 UTC"
+}
