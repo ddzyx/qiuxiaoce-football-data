@@ -1,0 +1,83 @@
+# Isenmulang Kalteng vs Pusamania Borneo Tactical Breakdown & Prediction: Rest Edge Meets Borneo Class
+
+> **Competition**: Liga 1
+> **Kickoff**: 2026-11-22 08:30 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the heart of this Round 10 Liga 1 Borneo Derby lies a classic clash between fresh legs and superior squad quality as Isenmulang Kalteng host Pusamania Borneo on November 22, 2026. Although official fixture metadata lists Stadion Sriwedari in Surakarta—where Isenmulang played early-season matches while away from home—club reports confirm their return to Stadion Tuah Pahoe in Palangka Raya for this contest. Sitting 15th with six points following a two-point administrative deduction, Isenmulang Kalteng have struggled for goals but recently tightened their defensive structure. Pusamania Borneo arrive 12th on ten points, adapting to newly appointed head coach Sérgio Farias after a midweek regional victory. XG Mind AI integrates per-match scoring rates, Poisson goal modeling, verified squad availability, and recovery asymmetry to project the most probable scorelines and tactical trajectories.
+
+📌 Isenmulang Kalteng vs Pusamania Borneo: Match Intelligence Brief
+
+Fixture ID
+
+: 1622842
+
+Matchup
+
+: Isenmulang Kalteng vs Pusamania Borneo
+
+Competition
+
+: Liga 1, Regular Season - 10
+
+Kickoff Time
+
+: 2026-11-22 08:30 UTC
+
+Key Tactical Watchpoint
+
+: Whether Isenmulang Kalteng&#x27;s 21-day recovery window and compact defensive shell can frustrate a Pusamania Borneo attack playing on 92 hours of rest under new manager Sérgio Farias.
+
+📊 1. Isenmulang Kalteng Attacking Structure vs Pusamania Borneo Defensive Counter
+
+⚔️ Head-to-Head History: First Top-Flight Meeting Following Club Rebrand
+
+No competitive head-to-head meetings have occurred between Isenmulang Kalteng and Pusamania Borneo in recent seasons, as the hosts earned promotion and rebranded ahead of the 2026–27 Liga 1 campaign.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+N/A
+
+N/A
+
+No recent competitive meetings
+
+N/A
+
+N/A
+
+📈 Team Form &amp; Tactical Style Breakdown: Rested Low-Block Containment vs Transitional Control
+
+Home Team (Isenmulang Kalteng):
+
+Under head coach Mundari Karya, assisted by Ade Suhendra, Isenmulang Kalteng have built their survival push around damage limitation and disciplined midfield screening rather than sustained possession. Across nine Liga 1 matches, the hosts hold a 2-2-5 record with just four goals scored (0.44 per match) and 16 conceded (1.78 per match), leaving them 15th on six points after a two-point administrative penalty. However, that season concession figure is skewed by heavy defeats such as their 0:4 loss at Persib Bandung on November 1. In their other recent outings, Karya&#x27;s side defeated Persijap Jepara 1:0 away on October 16, drew 1:1 with Java United on October 20, held PSIM Yogyakarta 0:0 on October 24, and edged Persita Tangerang 1:0 away on November 7 via a 68th-minute Adilson Silva strike. Veteran midfielder Makan Konaté provides ball retention alongside Lucas Frigeri in goal and Douglas Cruz in defense.
+
+Isenmulang Kalteng&#x27;s primary route to points relies on compact low-block defending and selective counter-attacks, as their 0.44 goals-per-game output leaves virtually zero margin for open-ended shootouts.
+
+Away Team (Pusamania Borneo):
+
+Pusamania Borneo enter Round 10 in 12th place with 10 points from eight Liga 1 fixtures (3-1-4), averaging 1.00 goal scored and 1.25 goals conceded per match. Following a sluggish domestic stretch that included 1:2 away defeats at Java United (October 11) and PSIM Yogyakarta (November 1) alongside a 2:1 win at PSS Sleman (October 27) and a 1:1 draw with PSM Makassar (November 7), the club dismissed Mauro Jerónimo on November 9 and appointed Brazilian tactician Sérgio Farias. Farias opened his tenure on November 18 with a 1:0 ASEAN Club Championship victory over Manila Digger, sealed by substitute Asgal Habib in the 79th minute, building on an earlier 0:0 away draw at Buriram United on October 7. Creativity flows through Juan Felipe Villa, Asgal Habib, Hugo Samir, and Kablan N&#x27;Goma, though Farias openly criticized his squad&#x27;s final-third conversion after wasting clear openings against 10-man Manila Digger.
+
+Borneo hold a clear baseline quality advantage over Isenmulang, yet a 3.8-day turnaround and ongoing finishing inefficiency leave them vulnerable to prolonged first-half resistance.
+
+🔍 Core Statistical Comparison: Away Scoring Edge Against League-Low Home Output
+
+(Aligned expected-goals data is unavailable for this Liga 1 season; quantitative evaluation relies on verified per-match scoring rates, defensive concession averages, and goal-derived Poisson expectancies. Season-sample clean-sheet and failed-to-score profile rates are omitted due to insufficient pre-kickoff match coverage in the package feed.)
+
+Metric
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261122-isenmulang-kalteng-vs-pusamania-borneo/)
