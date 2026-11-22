@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651120,
+    "matchup": "Vancouver Whitecaps vs Real Salt Lake",
+    "home_team": "Vancouver Whitecaps",
+    "away_team": "Real Salt Lake",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-23 01:30:00",
+    "source_url": "https://xgmind.com/matches/20261123-vancouver-whitecaps-vs-real-salt-lake/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vancouver Whitecaps vs Real Salt Lake Prediction & Match Analysis: Can Depleted RSL Halt Home xG?",
+    "meta": {
+      "matchId": "1651120",
+      "league": "Major League Soccer",
+      "matchup": "Vancouver Whitecaps vs Real Salt Lake",
+      "matchTime": "2026-11-23 01:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Vancouver Whitecaps hold the superior statistical profile for a Game 1 Home Win, with 2:1, Over 2.5 Goals, and BTTS: Yes leading the projected match distribution.",
+    "possibilityAssessment": [
+      "Vancouver Whitecaps Home Win built on 1.85 vs 1.28 Poisson lambdas, 14 set-piece goals, and a 294-hour rest margin (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 3.13 combined lambda and 70.6% venue Over 2.5 rates for both teams (Confidence: Moderate, Value: Moderate)",
+      "2:0 Clean-Sheet Home Win or Draw-Win second-half breakthrough if RSL's depleted attack stalls after Thursday's Wild Card (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651120",
+      "league": "Major League Soccer",
+      "homeTeam": "Vancouver Whitecaps",
+      "awayTeam": "Real Salt Lake",
+      "match_time": "01:30",
+      "match_highlight": "Fresh Vancouver attacks zero-clean-sheet Salt Lake after grueling Seattle playoff.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651120,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Vancouver's 2.13 xG attack, 15.2-day freshness, and RSL's zero away clean sheets converge behind a 2:1 or 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.13 combined lambda and identical 70.6% venue Over 2.5 frequencies support three or more regulation goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "RSL scored in 14 of 17 away matches despite zero road shutouts, aligning with Vancouver's 84.3% home scoring projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects RSL's recurring single-goal road loss pattern against Vancouver's 2.13 xG output, with 2:0 covering a fatigued away shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.3%) and two goals (21.4%) lead the Poisson total-goal distribution around a 3.13 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Vancouver led at half-time in 58.8% of home matches (Win-Win), while RSL lost five of eight road HT draws after the break (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 16:19:15 UTC"
+}
