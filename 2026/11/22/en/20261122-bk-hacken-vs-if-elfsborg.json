@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494340,
+    "matchup": "BK Hacken vs IF Elfsborg",
+    "home_team": "BK Hacken",
+    "away_team": "IF Elfsborg",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-22 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-bk-hacken-vs-if-elfsborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling BK Hacken vs IF Elfsborg: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1494340",
+      "league": "Allsvenskan",
+      "matchup": "BK Hacken vs IF Elfsborg",
+      "matchTime": "2026-11-22 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "BK Hacken hold the decisive xG and personnel edge for a 2:1 home victory with Both Teams To Score (Yes) and Over 2.5 goals, while retaining the Draw to cover a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Primary Direction — Home Win / Draw led by BK Hacken on 1.89 xG/match and Rasmus Wikstrom's absence (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS — Over 2.5 and BTTS Yes driven by 64.3% home and 76.9% away BTTS frequency (Confidence: Moderate, Value: High)",
+      "Chronological Risk — Win-Draw half-time/full-time fork capturing Hacken's fast home starts against Elfsborg's second-half scoring skew (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494340",
+      "league": "Allsvenskan",
+      "homeTeam": "BK Hacken",
+      "awayTeam": "IF Elfsborg",
+      "match_time": "13:00",
+      "match_highlight": "Hacken's 1.89 xG attack targets Wikstrom-less Elfsborg away defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494340,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 BK Hacken win driven by superior xG and Wikstrom's injury alongside the 1:1 draw script given Hacken's 5 home draws and Elfsborg's 92.3% away scoring rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.79 combined goal lambda, 64.3% home and 69.2% away Over 2.5 rates, and Elfsborg's weakened road defense."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks score reliably by venue (Hacken 92.9% at home, Elfsborg 92.3% away) against 35.7% home and 15.4% away clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Hacken's home attacking edge over a depleted Elfsborg backline, while 1:1 captures the Poisson modal draw if Hacken's chance waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the primary 2:1 Over 2.5 script, while 2 goals cover the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Hacken's 57.7% first-half home goal share favors an early lead held to 2:1, with Win-Draw covering Elfsborg's second-half comeback threat seen in May's 1:1 meeting."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:07:32 UTC"
+}
