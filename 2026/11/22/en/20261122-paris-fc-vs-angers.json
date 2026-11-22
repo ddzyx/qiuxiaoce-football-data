@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552825,
+    "matchup": "Paris FC vs Angers",
+    "home_team": "Paris FC",
+    "away_team": "Angers",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-22 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-paris-fc-vs-angers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Paris FC vs Angers: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552825",
+      "league": "Ligue 1",
+      "matchup": "Paris FC vs Angers",
+      "matchTime": "2026-11-22 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Paris FC project to secure a controlled home victory at Stade Jean-Bouin in a match trending toward three or more total goals.",
+    "possibilityAssessment": [
+      "Paris FC Home Win via superior chance creation and clinical finishing (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by Paris FC home output and Angers defensive fragility (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes contingency if Angers convert set-piece volume against rotated home defenders (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552825",
+      "league": "Ligue 1",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Angers",
+      "match_time": "14:00",
+      "match_highlight": "Sinayoko targets Lefort-less Angers backline in top-versus-bottom clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552825,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by 2:1 and 3:0 scoreline projections, Paris FC hold clear home-venue, xG, and personnel advantages over an Angers side without Lefort."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.75 goal expectancy lambda, 80% home Over 2.5 rate for Paris FC, and Angers' 1.86 xGA per game support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Despite Angers' recent scoring drought, their 1.36 xG/match and 6.0 corners per game test a Paris FC defense holding a 40% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:0"
+        ],
+        "comment": "2:1 balances home attacking dominance with Angers' set-piece threat, while 3:0 covers a repeat of the visitors' recent finishing struggles."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals reflect the primary 2:1 and 3:0 scenarios, with four goals capturing late transition expansion if Angers chase."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Paris FC have led at half-time in 80% of home matches while Angers have trailed in 60% overall, leaving a disciplined 1H hold as the main fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:43:11 UTC"
+}
