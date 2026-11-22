@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1565536,
+    "matchup": "Veres Rivne vs Bukovyna",
+    "home_team": "Veres Rivne",
+    "away_team": "Bukovyna",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-veres-rivne-vs-bukovyna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Veres Rivne vs Bukovyna Tactical Breakdown & Probabilistic Modeling: Low-Scoring Stalemate Risk",
+    "meta": {
+      "matchId": "1565536",
+      "league": "Premier League",
+      "matchup": "Veres Rivne vs Bukovyna",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative goal-expectancy modeling and 12-match defensive baselines support Draw / Away Win alongside Under 2.5 Goals and BTTS: No as Bukovyna target a controlled 0:1 or 0:0 result.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Bukovyna's six-clean-sheet foundation and Veres Rivne's 0.58 goals-per-match struggles (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and BTTS: No backed by 2.04 combined lambda expectancy and dual offensive limitations (Confidence: Moderate, Value: High)",
+      "0:0 stalemate hedge reflecting Bukovyna's seven league draws and 50% failed-to-score record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565536",
+      "league": "Premier League",
+      "homeTeam": "Veres Rivne",
+      "awayTeam": "Bukovyna",
+      "match_time": "11:00",
+      "match_highlight": "Veres Rivne's 0.58 goal average tests Bukovyna's six-clean-sheet away resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565536,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Bukovyna's 0:1 away breakthrough and the 0:0 stalemate script, as Bukovyna's 7 draws in 12 matches make a single Away Win too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.04 lambda_total (66.6% Poisson Under 2.5) and both teams averaging under 1.0 goal scored per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Veres Rivne average 0.58 goals per game without injured Boyko and Blair against a Bukovyna defense with 6 clean sheets in 12 matches."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 15.7% on Bukovyna's defensive edge, while 0:0 (13.0%) covers Bukovyna's 50% failed-to-score tendency."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Reflects tight 1-goal and 2-goal Poisson concentrations (26.5% and 27.1%) compressed by verified attacking absences."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a level, cautious first half before either a second-half Bukovyna winner (0:1) or a full-time deadlock (0:0)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:38:19 UTC"
+}
