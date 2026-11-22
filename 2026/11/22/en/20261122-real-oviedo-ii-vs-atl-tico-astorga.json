@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1572135,
+    "matchup": "Real Oviedo II vs Atlético Astorga",
+    "home_team": "Real Oviedo II",
+    "away_team": "Atlético Astorga",
+    "league": "Segunda División RFEF - Group 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-real-oviedo-ii-vs-atl-tico-astorga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Oviedo II vs Atlético Astorga Prediction & Match Analysis: First-Team Call-Ups Test Home Edge",
+    "meta": {
+      "matchId": "1572135",
+      "league": "Segunda División RFEF - Group 1",
+      "matchup": "Real Oviedo II vs Atlético Astorga",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Oviedo II hold the tactical edge at El Requexón against a travel-fragile Atlético Astorga defense, though senior call-ups to the hosts' central spine justify pairing the home win with the draw.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction targets Home Win / Draw led by a 2:1 home breakthrough over Astorga's 1.73 goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Total goals and scoring-floor modeling align on Over 2.5 and BTTS: Yes behind a 2.90 combined lambda (Confidence: Moderate, Value: High)",
+      "Secondary 1:1 stalemate branch accounts for early midfield disruption without Enzo Pérez and Marco Esteban (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572135",
+      "league": "Segunda División RFEF - Group 1",
+      "homeTeam": "Real Oviedo II",
+      "awayTeam": "Atlético Astorga",
+      "match_time": "11:00",
+      "match_highlight": "Senior call-ups test Oviedo II against winless-away Astorga.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572135,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough driven by Oviedo II's home scoring against Astorga's road leaks alongside a 1:1 stalemate if senior call-ups stall Vetusta's rhythm, as a bare home win ignores the hosts' 1.55 goals-conceded rate without Marco Esteban."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.90 lambda and dual defensive concession rates above 1.50 goals per game support a three-goal contest."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Oviedo II's 1.55 goals conceded per match without Marco Esteban and Astorga's 1.73 conceded rate push both sides past the scoring floor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Primary 2:1 mirrors Oviedo II's recent home victories, while 1:1 covers the top Poisson density if midfield call-ups blunt home control."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the favored 2:1 home win, with two goals covering the closely rated 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects gradual home dominance against second-half road fatigue, while Win-Draw covers an early host lead undone by defensive transitions."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 03:01:39 UTC"
+}
