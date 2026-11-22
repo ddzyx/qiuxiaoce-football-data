@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1617094,
+    "matchup": "Subiza vs Pamplona",
+    "home_team": "Subiza",
+    "away_team": "Pamplona",
+    "league": "Tercera División RFEF - Group 15",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-subiza-vs-pamplona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Subiza vs Pamplona Tactical Breakdown & Probabilistic Modeling: Scoring Asymmetry at Sotoburu",
+    "meta": {
+      "matchId": "1617094",
+      "league": "Tercera División RFEF - Group 15",
+      "matchup": "Subiza vs Pamplona",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Subiza are projected to secure a home victory at Campo de Sotoburu, anchored by a 2:1 primary scoreline and their 1.91 goals-per-game league offense.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Subiza Home Win driven by 1.91 goals/game output and unbeaten Sotoburu home record versus 15th-placed Pamplona (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Angle: Over 2.5 goals and BTTS Yes aligned with Subiza's 3.36 combined goals-per-game league profile and 1.45 conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Alternative Margin Angle: 2:0 Home Win if Pamplona's 0.73 goals-per-game attack fails to breach Subiza's territorial control (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617094",
+      "league": "Tercera División RFEF - Group 15",
+      "homeTeam": "Subiza",
+      "awayTeam": "Pamplona",
+      "match_time": "11:00",
+      "match_highlight": "Subiza's 1.91 home-led attack tests Pamplona's 0.73-goal survival setup.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617094,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by a 2:1 primary projection, Subiza's unblemished Sotoburu home record and 1.91 goals-per-game attack outweigh Pamplona's 0.73-goal offense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.73 lambda total (51.4% Over 2.5 Poisson baseline) and Subiza's 3.36 average total goals across 11 league matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Subiza score at an 80.6% Poisson rate against Pamplona's 19.4% clean-sheet projection, while Subiza's 1.45 goals conceded per match leave Pamplona a 66.4% scoring window."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Subiza's home attacking edge paired with their 1.45 conceded rate, while 2:0 covers a clean-sheet home win if Pamplona's 0.73-goal offense stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two total goals capture 46.4% of the Poisson distribution and align directly with our 2:1 and 2:0 projected match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects Pamplona's compact first-half resistance before Subiza pull clear after the break, while Win-Win covers an early Sotoburu breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 05:38:27 UTC"
+}
