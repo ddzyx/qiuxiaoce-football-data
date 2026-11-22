@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558680,
+    "matchup": "Anderlecht vs OH Leuven",
+    "home_team": "Anderlecht",
+    "away_team": "OH Leuven",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-22 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-anderlecht-vs-oh-leuven/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Anderlecht vs OH Leuven: Expected Goals (xG), Biancone Ban & Match Preview",
+    "meta": {
+      "matchId": "1558680",
+      "league": "Jupiler Pro League",
+      "matchup": "Anderlecht vs OH Leuven",
+      "matchTime": "2026-11-22 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Anderlecht's unbeaten home xG dominance favors a Home Win / Draw outcome led by a 2:1 scoreline with Over 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Anderlecht's 4W-1D-0L Lotto Park record and 1.75 xG volume face OHL's 1.77 xGA road defense, with Draw retained for OHL's 5-game unbeaten streak (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes — Combined 2.85 xG, 60.0% venue Over 2.5 rates, OHL's 0% away clean sheets, and Biancone's ban align on 2:1 (Confidence: Moderate, Value: High)",
+      "1:1 Draw Script — Anderlecht's 62.5% big-chance wastefulness and Biancone/Hey absences allow OHL transition goals to replicate recent H2H draws (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558680",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "OH Leuven",
+      "match_time": "17:30",
+      "match_highlight": "Anderlecht's 1.75 xG home attack tests leaky OHL without banned Biancone.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558680,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Anderlecht's dominant 2:1 home-xG win script and the live 1:1 draw risk caused by Giulian Biancone's suspension and 62.5% home big-chance wastefulness."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.85 xG per game, 60.0% Over 2.5 venue rates for both clubs, and OHL's 1.77 xGA tilt this fixture past the 2.5 line."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "OH Leuven hold zero away clean sheets against Anderlecht's 1.75 xG, while Biancone's ban and Hey's injury compromise home shutout security."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Anderlecht's superior home creation breaching OHL's leaky defense while conceding to transition runners; 1:1 captures finishing wastefulness."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the primary 2:1 Over 2.5 script, while two goals covers the tight 1:1 Poisson modal outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "OH Leuven drew 80.0% of away first halves before fading late (3 of 5 away Draw-Loss), making Draw-Win primary and Draw-Draw the 1:1 alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:51:16 UTC"
+}
