@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1622842,
+    "matchup": "Isenmulang Kalteng vs Pusamania Borneo",
+    "home_team": "Isenmulang Kalteng",
+    "away_team": "Pusamania Borneo",
+    "league": "Liga 1",
+    "kickoff_utc": "2026-11-22 08:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-isenmulang-kalteng-vs-pusamania-borneo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Isenmulang Kalteng vs Pusamania Borneo Tactical Breakdown & Prediction: Rest Edge Meets Borneo Class",
+    "meta": {
+      "matchId": "1622842",
+      "league": "Liga 1",
+      "matchup": "Isenmulang Kalteng vs Pusamania Borneo",
+      "matchTime": "2026-11-22 08:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is the optimal projection in a tight Borneo Derby where Pusamania Borneo's superior quality meets Isenmulang Kalteng's rested low block under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Pusamania Borneo's 1.00 vs 0.44 goals-per-game edge and 49.8% Poisson win rate alongside draw protection (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.23 combined goal lambda and Isenmulang Kalteng's four-goal output across nine Liga 1 matches (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No contingency anchored by Borneo's 43.2% clean-sheet projection against a host attack averaging 0.44 goals per match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1622842",
+      "league": "Liga 1",
+      "homeTeam": "Isenmulang Kalteng",
+      "awayTeam": "Pusamania Borneo",
+      "match_time": "08:30",
+      "match_highlight": "Fresh Isenmulang low block tests tired Borneo attack under new boss Farias",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1622842,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Pusamania Borneo's 0:1 quality breakthrough and the 1:1 draw branch given Borneo's 92-hour turnaround, where a single away win would ignore real short-rest finishing risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.23 combined goal lambda, 61.5% Poisson Under 2.5 density, and Isenmulang Kalteng's 0.44 goals per game."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Isenmulang Kalteng's 0.44 goals-per-match attack faces a 43.2% Borneo clean-sheet projection, placing BTTS No at 57.3%."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 14.9%, with 1:1 (12.6%) covering the main draw risk if Borneo's tired defense concedes once."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 total goals account for 50.7% of the Poisson distribution and match both low-scoring match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious first half is projected to stay level before either Borneo's bench forces a 0:1 away win or Isenmulang hold out for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:13:08 UTC"
+}
