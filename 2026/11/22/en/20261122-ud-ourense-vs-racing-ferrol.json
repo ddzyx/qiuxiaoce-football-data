@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570845,
+    "matchup": "UD Ourense vs Racing Ferrol",
+    "home_team": "UD Ourense",
+    "away_team": "Racing Ferrol",
+    "league": "Primera División RFEF - Group 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-ud-ourense-vs-racing-ferrol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "UD Ourense vs Racing Ferrol Prediction & Match Analysis: Blunt Attack Meets O Couto — Scoreline Model",
+    "meta": {
+      "matchId": "1570845",
+      "league": "Primera División RFEF - Group 1",
+      "matchup": "UD Ourense vs Racing Ferrol",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Racing Ferrol's superior defensive structure is projected to control a tight, low-scoring derby at Estadio de O Couto, favoring the Draw / Away Win corridor alongside Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Draw / Away Win corridor led by a narrow away victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals supported by a 1.79 lambda_total baseline and dual scoring droughts (Confidence: High, Value: Moderate)",
+      "BTTS: No anchored by UD Ourense's 0.42 goals-per-match output without Rufo (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570845",
+      "league": "Primera División RFEF - Group 1",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Racing Ferrol",
+      "match_time": "11:00",
+      "match_highlight": "Blunt Racing Ferrol visit fragile UD Ourense in tight Galician derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570845,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored by the 0:1 primary and 0:0 secondary scripts, pairing Away Win with Draw covers Racing Ferrol's defensive edge alongside their recent scoring drought and three confirmed absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 1.79 lambda_total baseline, UD Ourense's 0.42 goals per game without Rufo, and Racing Ferrol's 0.75 goals conceded per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "UD Ourense carry just a 44.0% scoring projection against Racing Ferrol's 56.0% clean-sheet rate, aligning with both 0:1 and 0:0 scorelines."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "0:1 reflects Racing Ferrol's structural edge breaking through late, while 0:0 covers a stalemate if their four-match scoring drought continues."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 total goals represent the top two Poisson probability buckets (29.9% and 26.7%) in a low-expectancy fixture."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "UD Ourense's compact home opening keeps the first half level before Racing Ferrol either find a second-half winner (Draw-Loss) or settle into a 0:0 stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:45:54 UTC"
+}
