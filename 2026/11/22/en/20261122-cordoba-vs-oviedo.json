@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570030,
+    "matchup": "Cordoba vs Oviedo",
+    "home_team": "Cordoba",
+    "away_team": "Oviedo",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-22 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-cordoba-vs-oviedo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cordoba vs Oviedo Prediction & Match Analysis: Can Home xG Overcome Set-Piece Risk? — Scoreline Preview",
+    "meta": {
+      "matchId": "1570030",
+      "league": "Segunda División",
+      "matchup": "Cordoba vs Oviedo",
+      "matchTime": "2026-11-22 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cordoba's superior home chance creation against injury-depleted Oviedo makes Home Win / Draw alongside Over 2.5 Goals and BTTS Yes the primary analytical projection.",
+    "possibilityAssessment": [
+      "Cordoba Win / Draw reflects 1.82 home xG vs Oviedo's four confirmed absences while respecting Oviedo's 71.4% away unbeaten rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes align with a 3.15 combined lambda and high shot volumes from both sides (Confidence: High, Value: Moderate)",
+      "Late half-time-to-full-time momentum swing driven by set pieces and strict officiating (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570030",
+      "league": "Segunda División",
+      "homeTeam": "Cordoba",
+      "awayTeam": "Oviedo",
+      "match_time": "13:00",
+      "match_highlight": "Cordoba's home attack tests injury-hit Oviedo's away scoring streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570030,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Cordoba's 2:1 home win script driven by 1.82 xG per match against depleted Oviedo and the 2:2 draw branch driven by Oviedo's seven set-piece goals and Cordoba's 1.85 xGA; a single Home Win would ignore Oviedo's 100% away scoring record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.15 combined lambda, 61.0% Poisson expectancy, and high-tempo shot profiles against defenses conceding 1.85 and 1.59 xGA per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cordoba has scored in 13 of 14 league games while Oviedo has scored in all seven away league matches against a host defense with only three clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Cordoba's home attacking edge over an Oviedo backline missing Dani Calvo, while 2:2 captures Oviedo's set-piece and transition threat against 1.85 home xGA."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns with the leading 3-goal Poisson bucket (22.3%) around a 3.15 lambda_total and the open 4-goal upper branch seen in both clubs' recent fixtures."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Cordoba leads at half-time in four of six home league games (63.6% first-half home goal share), creating either a held Win-Win victory or a Win-Draw peg-back given its 50.0% overall lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:16:02 UTC"
+}
