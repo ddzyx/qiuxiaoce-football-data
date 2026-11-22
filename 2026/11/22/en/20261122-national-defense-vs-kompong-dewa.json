@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1610666,
+    "matchup": "National Defense vs Kompong Dewa",
+    "home_team": "National Defense",
+    "away_team": "Kompong Dewa",
+    "league": "C-League",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-national-defense-vs-kompong-dewa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "National Defense vs Kompong Dewa Prediction & Match Analysis: Can 4.50 GA/Game Hold? — Scoreline Preview",
+    "meta": {
+      "matchId": "1610666",
+      "league": "C-League",
+      "matchup": "National Defense vs Kompong Dewa",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kompong Dewa are projected to claim an Away Win against winless National Defense in a three-goal encounter led by a 1:2 scoreline.",
+    "possibilityAssessment": [
+      "Kompong Dewa Away Win driven by a 3.83-goal per-match defensive concession gap (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals anchored by lambda_total of 3.50 and National Defense's 4.50 GA/game (Confidence: Moderate, Value: Moderate)",
+      "Controlled 0:2 Away Shutout if Kompong Dewa's 0.67 GA/game backline denies a rusty host (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1610666",
+      "league": "C-League",
+      "homeTeam": "National Defense",
+      "awayTeam": "Kompong Dewa",
+      "match_time": "11:00",
+      "match_highlight": "Kompong Dewa's 0.67 GA/game defense tests National Defense's 4.50 GA/game backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1610666,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by a 1:2 primary projection as Kompong Dewa's 0.67 GA/game stability outweighs National Defense's winless 4.50 GA/game defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.50 combined lambda and 67.9% Poisson Over 2.5 probability driven by National Defense conceding 27 goals in six matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with a 52.5% Poisson BTTS probability as National Defense average 1.00 goal scored per match while leaking 4.50 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 mirrors National Defense's recent home loss to Phnom Penh Crown while 0:2 covers Kompong Dewa's 43.6% clean-sheet shutout branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.6%) leads the Poisson distribution, with 2 goals (18.5%) capturing Kompong Dewa's conservative 0.83 GF/game shutout profile."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Kompong Dewa either breach National Defense's 4.50 GA/game defense before half-time (Loss-Loss) or break through after the interval (Draw-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 03:57:03 UTC"
+}
