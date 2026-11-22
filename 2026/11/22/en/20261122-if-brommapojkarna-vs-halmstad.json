@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494338,
+    "matchup": "IF Brommapojkarna vs Halmstad",
+    "home_team": "IF Brommapojkarna",
+    "away_team": "Halmstad",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-22 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-if-brommapojkarna-vs-halmstad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "IF Brommapojkarna vs Halmstad Prediction & Match Analysis: Can Halmstad Crack Home xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1494338",
+      "league": "Allsvenskan",
+      "matchup": "IF Brommapojkarna vs Halmstad",
+      "matchTime": "2026-11-22 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "IF Brommapojkarna's superior home attacking volume is projected to edge a survival-driven Halmstad side in a 2:1 contest, with a 1:1 stalemate formally covered under the Home Win / Draw direction.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction targets Home Win / Draw, led by IF Brommapojkarna edging Halmstad's porous road defense while accounting for home finishing friction (Confidence: Moderate, Value: Moderate)",
+      "Total goals and mutual scoring align on Over 2.5 and BTTS Yes behind a 2.76 combined lambda and weak clean-sheet records on both sides (Confidence: Moderate, Value: High)",
+      "Scoreline matrix centers on 2:1 with 1:1 as the key contingency if second-half conversion stalls against a rested visitor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494338",
+      "league": "Allsvenskan",
+      "homeTeam": "IF Brommapojkarna",
+      "awayTeam": "Halmstad",
+      "match_time": "15:30",
+      "match_highlight": "Brommapojkarna's 1.41 xG creation meets Halmstad's zero-clean-sheet away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494338,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home victory driven by Brommapojkarna's xG and Elo superiority alongside a 1:1 draw script given their 38.5% home draw rate and recent league scoring drought, where a single home call would leave conversion risk uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.76 lambda total, Halmstad's 2.10 xGA per match, and Bet365's 1.67 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Brommapojkarna hold a 15.4% clean-sheet rate while Halmstad have zero away clean sheets in 14 league trips."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Brommapojkarna breaking Halmstad's 2.10 xGA defense while conceding once; 1:1 captures the Poisson modal draw if host wastefulness persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 expectation and Round 29 open late-game urgency, with 2 goals covering the 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Brommapojkarna drew nine of 13 home first halves (69.2%) and three straight H2H intervals were 0:0, pointing to a level break before either a home breakthrough or 1:1 share."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:00:16 UTC"
+}
