@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558685,
+    "matchup": "Kortrijk vs Union St. Gilloise",
+    "home_team": "Kortrijk",
+    "away_team": "Union St. Gilloise",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-22 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-kortrijk-vs-union-st-gilloise/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Kortrijk vs Union St. Gilloise: Expected Goals (xG), Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1558685",
+      "league": "Jupiler Pro League",
+      "matchup": "Kortrijk vs Union St. Gilloise",
+      "matchTime": "2026-11-22 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Union St. Gilloise hold a decisive statistical and tactical edge to secure an away victory against bottom-placed Kortrijk, backed by 1.96 expected goals per match, a 5-0-0 road record, and the hosts' suspension of center-back James Ndjeungoue.",
+    "possibilityAssessment": [
+      "Union St. Gilloise's 2.73 goals per game, seven set-piece goals, and second-half acceleration target a Kortrijk defense conceding 2.09 goals per match without James Ndjeungoue (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals is supported by a 2.91 combined lambda and Union's 80% away Over 2.5 rate, anchored on a 0:3 three-goal projection (Confidence: Moderate, Value: High)",
+      "A 0:2 clean-sheet containment branch covers scenarios where Besfort Zeneli's absence and Kortrijk's compact first-half home shape delay Union's breakthrough until after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558685",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Kortrijk",
+      "awayTeam": "Union St. Gilloise",
+      "match_time": "15:00",
+      "match_highlight": "Unbeaten Union St. Gilloise face bottom Kortrijk missing suspended Ndjeungoue.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558685,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Union St. Gilloise's 1.96 xG per game, unbeaten road form, and set-piece dominance project cleanly to a multi-goal away victory over a 0.36-goal-per-game Kortrijk side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.91 lambda_total, Union's 2.73 goals per match, and Kortrijk's 2.09 goals conceded per game support three or more total goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kortrijk have failed to score in 63.6% of league matches with an 85.7% big-chance miss rate against Union's 1.00 xGA and 54.5% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "A 0:3 rout captures Union's second-half surge against depleted home defending, while 0:2 covers the top Poisson density if Kortrijk hold firm early."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Total goals concentrate heavily in the 3-goal Over 2.5 anchor and the 2-goal conservative shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Kortrijk have drawn four of five home first halves while Union score 70% of their goals after the break, making Draw-Loss primary ahead of an early-lead Loss-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:49:29 UTC"
+}
