@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603485,
+    "matchup": "Hougang United vs Tampines Rovers",
+    "home_team": "Hougang United",
+    "away_team": "Tampines Rovers",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-22 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-hougang-united-vs-tampines-rovers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hougang United vs Tampines Rovers Tactical Breakdown & Probabilistic Modeling: Late Surge vs Leaky Defense",
+    "meta": {
+      "matchId": "1603485",
+      "league": "Premier League",
+      "matchup": "Hougang United vs Tampines Rovers",
+      "matchTime": "2026-11-22 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Tampines Rovers project to secure an away victory built on second-half attacking depth and clean-sheet control over a winless Hougang United defense.",
+    "possibilityAssessment": [
+      "Away Win: Tampines Rovers' 2.60 goals-per-game output and 60.0% clean-sheet rate overwhelm Hougang's 2.33 conceded-per-game backline (Confidence: Moderate, Value: High)",
+      "Over 2.5 & BTTS: No (0:3 Primary Scoreline): Single-side second-half firepower clears 2.5 goals while shutting out a 0.67 goals-per-game attack (Confidence: Moderate, Value: Moderate)",
+      "2 Total Goals / Controlled 0:2 Shutout: Schedule-management branch ahead of Tampines' 26 November continental fixture limits late margin expansion (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603485",
+      "league": "Premier League",
+      "homeTeam": "Hougang United",
+      "awayTeam": "Tampines Rovers",
+      "match_time": "11:30",
+      "match_highlight": "Tampines' second-half scoring surge tests Hougang's winless, porous defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603485,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Tampines Rovers' superior scoring and defensive prevention support a decisive away victory across both 0:3 and 0:2 shutout scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.10 combined goal-expectancy lambda and Hougang's 2.33 goals conceded per match point toward at least three goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Tampines' 60.0% league clean-sheet rate and Hougang's 50.0% failed-to-score record favor a single-sided shutout."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "The 0:3 primary captures Tampines' second-half acceleration, while 0:2 accounts for late-game minute management ahead of continental play."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the Poisson distribution at 22.4%, closely followed by the controlled two-goal shutout scenario at 21.6%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Tampines score 69.2% of their league goals after half-time and drew the break in four of their last five meetings with Hougang, while early defensive cracks open the Loss-Loss branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 07:39:33 UTC"
+}
