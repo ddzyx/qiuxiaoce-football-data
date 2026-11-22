@@ -1,0 +1,83 @@
+# Paju Citizen vs Cheonan City Tactical Breakdown & Probabilistic Modeling: Away Form vs Home Stalemates
+
+> **Competition**: K League 2
+> **Kickoff**: 2026-11-22 07:30 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+In Round 33 of the 2026 K League 2 Regular Season, Paju Stadium hosts a pivotal lower-mid-table encounter between 10th-placed Paju Citizen (35 points) and 11th-placed Cheonan City (33 points). At the heart of this contest lies a stark structural contrast: a host clinging to home stalemate resilience amid documented off-field financial turmoil against a visitor riding a four-match unbeaten surge yet still searching for its first away clean sheet of the campaign. With just two points separating the clubs and neither side holding a decisive baseline talent edge, XG Mind AI&#x27;s quantitative Poisson modeling, half-time/full-time chronology, and verified squad intelligence deconstruct whether Paju Citizen&#x27;s low-scoring home containment can withstand Cheonan City&#x27;s resurgent attacking transitions or whether the visitors&#x27; road scoring consistency tilts this clash.
+
+📌 Paju Citizen vs Cheonan City: Match Intelligence Brief
+
+Fixture ID
+
+: 1510505
+
+Matchup
+
+: Paju Citizen vs Cheonan City
+
+Competition
+
+: K League 2, Regular Season - 33
+
+Kickoff Time
+
+: 2026-11-22 07:30 UTC
+
+Key Tactical Watchpoint
+
+: Cheonan City have conceded in every single one of their 15 away league matches this season, setting up a decisive second-half test against a Paju Citizen side that has drawn 10 of 15 home first halves while failing to convert any of them into a victory.
+
+📊 1. Paju Citizen Attacking Structure vs Cheonan City Defensive Counter
+
+⚔️ Head-to-Head History: Tight Tactical Deadlock in 2026&#x27;s Lone Meeting
+
+(Note: The supplied automated H2H feed contains zero records, while verified K League official match archives document one prior 2026 K League 2 meeting between the clubs before Round 33.)
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+2026-05-16
+
+K League 2
+
+Cheonan City
+
+0:0 (0:0)
+
+Paju Citizen
+
+📈 Team Form &amp; Tactical Style Breakdown: Home Containment vs Road Volatility
+
+Home Team (Paju Citizen):
+
+Competing professionally as Paju Frontier FC in their 2026 K League 2 campaign under head coach Gerard Nus, Paju Citizen enter Round 33 sitting 10th on 35 points from 30 matches (9W-8D-13L, 30 goals scored, 36 conceded). Their recent five-match sequence (DWDLD) highlights stubbornness paired with limited attacking punch: three consecutive 1:1 home draws against Asan Mugunghwa (2026-11-08), Hwaseong (2026-10-25), and Busan I Park (2026-10-10), alongside a 2:1 win at Cheongju (2026-11-01) and a 1:4 loss at Gimpo Citizen (2026-10-17). Tactically, Paju concede territory—averaging just 41.7% possession and roughly 9.8 to 10.3 shots (3.9 on target) per game—relying on compact mid-block organization, set-piece efficiency (8 set-piece goals), and focal target man Borja Bastón (8 goals, 3 assists), supported by Lee Joon-Suk (3 assists), Jafar Arias, and midfielder Luke Amos.
+
+Across 15 home league fixtures this season, Paju Citizen have won only 3 times (20.0%), failed to score in 7 matches (46.7%), and seen 11 of 15 finish Under 2.5 goals (73.3%).
+
+Crucially, while their 26.7% big-chance missed ratio shows reasonable clinical composure when rare openings arrive,
+
+they have failed to turn any of their 10 home half-time stalemates into a full-time victory (0 wins, 4 draws, 6 losses), exposing recurring second-half vulnerability.
+
+Away Team (Cheonan City):
+
+Managed by Park Jin-sub, Cheonan City sit 11th with 33 points from 30 matches (7W-12D-11L), outscoring Paju by eight goals overall (38 GF, 1.27 per game) while conceding slightly more (41 GA, 1.37 per game). Cheonan arrive in far sharper recent form (WDWWL, weighted form score 72.1 vs Paju&#x27;s 44.2, decayed goal output 1.86 per match), unbeaten across their last four outings with wins over Busan I Park (1:0, 2026-11-08), Ansan Greeners (3:1, 2026-10-25), and Gyeongnam FC (1:0, 2026-10-10), plus a 3:3 road shootout at Gimhae City (2026-11-01) following a 1:3 defeat at Asan Mugunghwa (2026-09-19). Tactically, Cheonan hold greater ball control (48.4% possession) and generate superior shot volume (roughly 12.4 shots and 4.3 on target per game), orchestrated by top scorer Bruno Lamas (9 goals), Lee Jun-Ho (4 assists), Aboubacar Toungara, mid-season loanee Willyan, and emerging winger Lee Kyu-Min.
+
+Yet Cheonan&#x27;s road profile creates extreme structural symmetry for both attacks: across 15 away matches, they have scored in 12 (80.0%) and posted Both Teams To Score in 12 (80.0%), while keeping zero away clean sheets (0 of 15) and winning just twice on their travels (13.3%).
+
+Their 50.0% big-chance missed ratio explains why high-volume pressure frequently leaves matches open late.
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261122-paju-citizen-vs-cheonan-city/)
