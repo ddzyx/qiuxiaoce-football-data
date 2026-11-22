@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601933,
+    "matchup": "Araz vs Neftchi Baku",
+    "home_team": "Araz",
+    "away_team": "Neftchi Baku",
+    "league": "Premyer Liqa",
+    "kickoff_utc": "2026-11-22 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-araz-vs-neftchi-baku/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Araz vs Neftchi Baku Prediction & Match Analysis: Can Paro-Less Hosts Slow Vernydub? — Scoreline Preview",
+    "meta": {
+      "matchId": "1601933",
+      "league": "Premyer Liqa",
+      "matchup": "Araz vs Neftchi Baku",
+      "matchTime": "2026-11-22 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative Premyer Liqa goal models and tactical matchups project an Away Win for Neftchi Baku in an open contest at Shamakhi City Stadium.",
+    "possibilityAssessment": [
+      "Away Win backed by Neftchi Baku's 2.36 goals per game and 65.0% Poisson win baseline (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes anchored on a 3.22 lambda_total and 1:2 primary script (Confidence: Moderate, Value: Moderate)",
+      "Away clean-sheet control (0:2) if returning Igor Ribeiro tightens Neftchi's defense (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601933",
+      "league": "Premyer Liqa",
+      "homeTeam": "Araz",
+      "awayTeam": "Neftchi Baku",
+      "match_time": "10:30",
+      "match_highlight": "League-leading Neftchi attack tests winless Araz without injured defender Issouf Paro.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601933,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Neftchi Baku's 2.36 goals-per-game attack, Breno Almeida's form, and Issouf Paro's confirmed absence support a single Away Win across both 1:2 and 0:2 scripts."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.22 combined lambda total (62.4% Over 2.5) and Araz's five straight league matches conceding twice point above 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neftchi's 89.1% scoring projection meets Araz's 63.2% scoring baseline after back-to-back 2:2 league draws, supporting a 1:2 BTTS Yes outcome."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "Both scores sit atop the Poisson matrix at 9.8% density, led by 1:2 with 0:2 capturing the clean-sheet visitors' alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.2%) and two goals (20.7%) represent the two highest-probability Poisson totals around the 3.22 lambda expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Neftchi led at halftime in all three 2026 wins over Araz (Loss-Loss), while Draw-Loss covers a tighter opening half before late away pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:53:44 UTC"
+}
