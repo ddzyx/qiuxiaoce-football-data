@@ -1,0 +1,83 @@
+# Melilla vs Churriana Vega Tactical Breakdown & Match Analysis: Can Unbeaten Hosts Breach the Low Block?
+
+> **Competition**: Tercera División RFEF - Group 9
+> **Kickoff**: 2026-11-22 11:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+Sunday&#x27;s midday encounter at the Estadio Municipal Álvarez Claro pits Group 9 leaders Melilla against ninth-placed Churriana Vega in Round 12 of the Tercera División RFEF. At the heart of this contest lies a sharp tactical contrast between a home side that has yet to concede a single league goal on its own pitch across five outings and an organized Andalusian visitor that has recorded three clean sheets in its last four matches. With aligned expected-goals and market odds blocks unavailable in the pre-match data feed, analytical weight shifts directly to standings-derived scoring rates, Poisson goal modeling, verified league results, and late squad availability. XG Mind AI&#x27;s quantitative synthesis integrates Melilla&#x27;s 1.73 goals-per-match output and 0.64 concession rate with verified injury news and travel constraints to map the full 90-minute probability distribution.
+
+📌 Melilla vs Churriana Vega: Match Intelligence Brief
+
+Fixture ID
+
+: 1615255
+
+Matchup
+
+: Melilla vs Churriana Vega
+
+Competition
+
+: Tercera División RFEF - Group 9, Round 12
+
+Kickoff Time
+
+: 2026-11-22 11:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether Churriana Vega&#x27;s disciplined compact block can withstand Melilla&#x27;s fast-starting attacking trio while coping with two left-flank injuries and an early-morning flight to North Africa.
+
+📊 1. Melilla Attacking Structure vs Churriana Vega Defensive Counter
+
+⚔️ Head-to-Head History: First Recent Competitive Meeting Across Shifting Divisions
+
+No competitive head-to-head matches between Melilla and Churriana Vega have occurred in recent seasons, as Melilla dropped down into Group 9 of the Tercera División RFEF for the 2026–27 campaign while Churriana Vega established itself within the division.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+N/A
+
+N/A
+
+No recent competitive meetings
+
+N/A
+
+N/A
+
+📈 Team Form &amp; Tactical Style Breakdown: Fast-Starting Home Control vs Compact Road Attrition
+
+Home Team (Melilla):
+
+Under head coach Miguel Rivera, Melilla lead Group 9 with 26 points from 11 matches (8 wins, 2 draws, 1 loss; 19 goals scored and 7 conceded), averaging 1.73 goals scored and 0.64 conceded per league outing. While the automated recent-results feed logs only their 2:0 away victory over Almería II on November 15 alongside 2023 Copa del Rey fixtures, verified current-season league records confirm an unbeaten five-match home run at the Estadio Municipal Álvarez Claro (4 wins, 1 draw) without a single goal conceded: 3:0 over Huétor Vega, consecutive 2:0 victories against Málaga Juniors, San Pedro, and Cantoria, and a 0:0 stalemate with Recreativo Granada.
+
+Melilla&#x27;s decisive tactical trait is an aggressive opening quarter-hour that immediately pins opponents inside their defensive third.
+
+Against Almería II, Adrián Nágera (10th minute) and Robson William, known as Robinho (13th minute), struck inside 14 minutes through high pressing and rapid transition finishes, mirroring Alberto&#x27;s 14th-minute opener against Cantoria and Ussama&#x27;s 13th-minute strike in a 2:2 draw at Atlético Malagueño. With goalkeeper Miguel de la Osa protected by defenders Isma Armenteros, Antonio Poo, and Alejandro Marcos, Melilla kept clean sheets in 6 of their 11 league matches (54.5%) and scored in 9 of 11 (81.8%).
+
+Their primary vulnerability appears only on the road, where all 7 conceded league goals occurred, whereas home defensive containment remains unbroken.
+
+Away Team (Churriana Vega):
+
+Vicente García&#x27;s side sit ninth on 15 points (4 wins, 3 draws, 4 losses; 15 goals for and 11 against), posting a 1.36 goals-scored average and 1.00 goals-conceded average across 11 rounds. Away from El Frascuelo, Churriana Vega hold a 1-win, 2-draw, 2-loss record with 5 goals scored and 5 conceded across five road trips, highlighted by a 3:2 victory at Atlético Porcuna and stalemates at Atlético Malagueño (1:1) and Almería B (0:0), alongside narrow defeats at Torre del Mar (0:1) and Alhaurino (1:2).
+
+Recently, Churriana Vega have shifted toward a lower-scoring, containment-first structure, recording three clean sheets in their last four matches while conceding just once.
+
+That stretch includes back-to-back 0:0 draws against Recreativo Granada and Almería B, a 2:0 home victory over Atlético Marbella Paraíso sealed by forwards Aarón and Miguel Peinado, and a 0:1 home loss to Motril on November 15 decided by a 14th-minute set-piece goal. Across the full 11-match campaign, Churriana Vega failed to score in 4 matches (36.4%)—three of which arrived in their last four outings—and kept clean sheets in 4 of 11 (36.4%).
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261122-melilla-vs-churriana-vega/)
