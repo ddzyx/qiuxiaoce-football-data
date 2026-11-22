@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494809,
+    "matchup": "Sarpsborg 08 FF vs Lillestrom",
+    "home_team": "Sarpsborg 08 FF",
+    "away_team": "Lillestrom",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-22 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-sarpsborg-08-ff-vs-lillestrom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sarpsborg 08 FF vs Lillestrom: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1494809",
+      "league": "Eliteserien",
+      "matchup": "Sarpsborg 08 FF vs Lillestrom",
+      "matchTime": "2026-11-22 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project fourth-placed Lillestrom to avoid defeat at Sarpsborg Stadion, led by an away victory built on finishing efficiency and second-half control.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Lillestrom hold superior finishing conversion, 10 set-piece goals, and a 69.2% away unbeaten record while Sarpsborg still score in 84.6% of home matches (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes: Combined 3.49 xG per match and defensive absences on both sides favour a 1:2 away win (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Containment: Lillestrom's 69.2% away Under 2.5 trend caps scoring if Sarpsborg's big-chance waste persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494809",
+      "league": "Eliteserien",
+      "homeTeam": "Sarpsborg 08 FF",
+      "awayTeam": "Lillestrom",
+      "match_time": "18:15",
+      "match_highlight": "Fourth-placed Lillestrom visit depleted Sarpsborg defense in high-xG clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494809,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Lillestrom's 1:2 away-win script via superior finishing and set pieces alongside a 1:1 draw, as a single away call would understate Sarpsborg's 84.6% home scoring rate and Ranger's fitness doubt."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides exceed 1.70 xG and xGA per match with 2.85 total lambda and Niyukuri suspended, supporting three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sarpsborg score in 84.6% of home games while keeping just 15.4% clean sheets, meeting a Lillestrom defense missing Garnas."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Sarpsborg's home scoring floor meets a 75.7% big-chance waste rate, favouring a clinical 1:2 away win with 1:1 covering tighter containment."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 1:2 primary script and 2.85 lambda total, while two goals cover Lillestrom's 69.2% away Under 2.5 rate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Lillestrom draw 46.2% of away first halves before converting 66.7% into away wins, with Draw-Draw covering the 1:1 containment branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 14:20:45 UTC"
+}
