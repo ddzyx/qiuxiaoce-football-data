@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1613415,
+    "matchup": "Cayón vs Castro",
+    "home_team": "Cayón",
+    "away_team": "Castro",
+    "league": "Tercera División RFEF - Group 3",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-cay-n-vs-castro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cayón vs Castro Tactical Breakdown & Match Analysis: Defensive Solidity Against New-Coach Reset",
+    "meta": {
+      "matchId": "1613415",
+      "league": "Tercera División RFEF - Group 3",
+      "matchup": "Cayón vs Castro",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project a disciplined Cayón Home Win built on their 0.45 goals-conceded-per-match defensive foundation and Under 2.5 shutout profile.",
+    "possibilityAssessment": [
+      "Cayón Home Win via controlled territorial dominance and defensive shutout (Confidence: High, Value: Moderate)",
+      "Under 2.5 Goals and BTTS: No anchored by a 2.18 combined lambda and eight Cayón clean sheets in 11 matches (Confidence: High, Value: High)",
+      "Draw-Win half-time/full-time progression if Castro hold level before tiring after the hour mark (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1613415",
+      "league": "Tercera División RFEF - Group 3",
+      "homeTeam": "Cayón",
+      "awayTeam": "Castro",
+      "match_time": "11:00",
+      "match_highlight": "Can Cayón's 0.45 goals-conceded defense lock down new-coach Castro?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1613415,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Cayón's 1.46 goal expectancy, eight clean sheets in 11 rounds, and Castro's four-match losing slide support a single Home Win via 1:0 or 2:0."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.18 combined lambda, Cayón's 1.18 scoring rate, and four straight Under 2.5 head-to-head meetings align behind 62.8% Under 2.5 probability."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Cayón's 0.45 goals-conceded rate and eight clean sheets in 11 matches project to shut out a Castro attack blanked in two of its last three games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "1:0 (16.5% density) reflects Cayón's four 1:0 league wins this season, while 2:0 (12.0%) captures late second-half gaps in Castro's backline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.9% probability) and 1 goal (24.6% probability) form the Poisson modal peaks matching a controlled 2:0 or 1:0 home win."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects three 0:0 half-times in the last four derbies before late Castro concessions, while Win-Win covers an early Cayón breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:01:24 UTC"
+}
