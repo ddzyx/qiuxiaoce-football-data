@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1598082,
+    "matchup": "Chiangrai United vs Lamphun Warrior",
+    "home_team": "Chiangrai United",
+    "away_team": "Lamphun Warrior",
+    "league": "Thai League 1",
+    "kickoff_utc": "2026-11-22 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-chiangrai-united-vs-lamphun-warrior/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chiangrai United vs Lamphun Warrior Prediction & Match Analysis: Can Home Grit Halt Road Surge?",
+    "meta": {
+      "matchId": "1598082",
+      "league": "Thai League 1",
+      "matchup": "Chiangrai United vs Lamphun Warrior",
+      "matchTime": "2026-11-22 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is projected with Away Win leading as Lamphun Warrior's superior scoring rate and recent clean-sheet surge outweigh Chiangrai United's low-output home attack.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Lamphun's 1.50 goals-per-game average and 46.6% Poisson win share alongside H2H draw history (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by 54.1% Poisson probability and four consecutive Under 2.5 head-to-head meetings (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No anchored by Lamphun's three clean sheets in four outings against Chiangrai's 0.67 home goals-per-game output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1598082",
+      "league": "Thai League 1",
+      "homeTeam": "Chiangrai United",
+      "awayTeam": "Lamphun Warrior",
+      "match_time": "11:30",
+      "match_highlight": "Resurgent Lamphun road defense tests low-scoring Chiangrai survival bid.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1598082,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 0:1 away shutout script driven by Lamphun's road efficiency and the 1:1 stalemate branch where a single away win call would overlook consecutive H2H draws and opposing home market pricing."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.51 combined lambda (54.1% Under 2.5), Chiangrai's 0.86 goals per game, and four consecutive Under 2.5 head-to-head finishes point toward a tight total."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Lamphun's three clean sheets in their last four league fixtures and Chiangrai's 0.67 home scoring rate support at least one shutout."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 (11.9%) captures Lamphun's disciplined away edge against Chiangrai's 14.3% clean-sheet rate, while 1:1 (12.5%) reflects the hosts' set-piece equalizer route."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson distribution at 25.6%, with 1 goal (20.4%) representing the tightest Under 2.5 shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half points toward a level interval before either Lamphun break through late for 0:1 (Draw-Loss) or both sides stay locked level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 07:08:57 UTC"
+}
