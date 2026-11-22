@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551146,
+    "matchup": "Botev Vratsa vs CSKA 1948",
+    "home_team": "Botev Vratsa",
+    "away_team": "CSKA 1948",
+    "league": "First League",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-botev-vratsa-vs-cska-1948/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Botev Vratsa vs CSKA 1948 Prediction & Match Analysis: Can Away Firepower Breach Vratsa's Home Block?",
+    "meta": {
+      "matchId": "1551146",
+      "league": "First League",
+      "matchup": "Botev Vratsa vs CSKA 1948",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects Draw / Away Win with CSKA 1948 favoured to prevail 1:2 after a tight opening half, alongside Over 2.5 goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Primary Direction: Draw / Away Win led by CSKA 1948 victory with Draw retained for road containment risk (Confidence: Moderate, Value: High)",
+      "Total Goals & BTTS: Over 2.5 goals and BTTS Yes backed by 3.00 lambda total and zero away clean sheets for CSKA 1948 (Confidence: Moderate, Value: High)",
+      "Secondary Branch: 1:1 Draw and 2 total goals covering prolonged home low-block resistance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551146",
+      "league": "First League",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "CSKA 1948",
+      "match_time": "11:00",
+      "match_highlight": "Suspended Emerson tests CSKA 1948's zero away clean-sheet record in Vratsa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551146,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "CSKA 1948's 2.36 goals per match support a 1:2 away win, while their 0% away clean-sheet rate and Emerson's suspension warrant retaining the 1:1 draw script over a single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda total and CSKA 1948's high-scoring attack against a 1.71-conceding host support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "CSKA 1948's 87.0% scoring expectancy and 0% away clean-sheet rate across six road games align with both sides scoring."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects CSKA 1948's scoring edge minus a clean sheet, while 1:1 covers Botev Vratsa's home containment."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals share the top 22.4% Poisson density bands across the 1:2 primary and 1:1 secondary scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Four of the last five meetings were 0:0 at half-time, making a level interval before an away breakthrough or stalemate most plausible."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:09:39 UTC"
+}
