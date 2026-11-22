@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1572437,
+    "matchup": "Náxara vs Ebro",
+    "home_team": "Náxara",
+    "away_team": "Ebro",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-n-xara-vs-ebro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Náxara vs Ebro Tactical Breakdown & Match Analysis: Can La Salera Blunt Ebro's Attack?",
+    "meta": {
+      "matchId": "1572437",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Náxara vs Ebro",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CD Ebro project as deserved away winners behind a 1.91 goals-per-game attack facing a Náxara defense conceding 1.70 goals per league match.",
+    "possibilityAssessment": [
+      "Away Win via superior multi-player scoring depth (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes in a 1:2 away win driven by Ebro's open road form (Confidence: Moderate, Value: Moderate)",
+      "0:2 away clean-sheet branch if Náxara's 0.50 goals-per-game offense stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572437",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Náxara",
+      "awayTeam": "Ebro",
+      "match_time": "11:00",
+      "match_highlight": "Ebro's 1.91 goals-per-game attack tests Náxara's porous home defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572437,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Ebro's 1.80 away goal expectancy and 8 goals in two November matches outweigh Náxara's 0.50 goals-per-game output in a projected 1:2 or 0:2 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.64 combined lambda and four consecutive 3+ goal league fixtures for Ebro support Over 2.5 despite Náxara's low scoring baseline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ebro conceded 6 goals across their last three verified away trips while Náxara hold a 56.8 percent Poisson probability of scoring at La Salera."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Ebro's open away scoring-and-conceding rhythm, while 0:2 covers the shutout branch if Náxara replicate their recent 0:2 home loss to Manresa."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 1:2 Over 2.5 script, while 2 goals aligns with the 24.9 percent Poisson peak and 0:2 shutout alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Ebro's strong first-half scoring form favors leading at the break and winning, with Draw-Loss covering a tight opening half before second-half separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 03:38:49 UTC"
+}
