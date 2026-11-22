@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1510505,
+    "matchup": "Paju Citizen vs Cheonan City",
+    "home_team": "Paju Citizen",
+    "away_team": "Cheonan City",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-22 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-paju-citizen-vs-cheonan-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Paju Citizen vs Cheonan City Tactical Breakdown & Probabilistic Modeling: Away Form vs Home Stalemates",
+    "meta": {
+      "matchId": "1510505",
+      "league": "K League 2",
+      "matchup": "Paju Citizen vs Cheonan City",
+      "matchTime": "2026-11-22 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cheonan City hold the stronger scoring and form profile to avoid defeat in a tight contest centered on 1:1 and 1:2.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both the primary 1:1 stalemate and Cheonan City's late-game attacking edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 aligns with a 2.42 combined lambda and Paju Citizen's 73.3% home Under 2.5 rate (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes reflects Cheonan City's 0% away clean-sheet record and 80.0% road scoring rate across 15 trips (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510505",
+      "league": "K League 2",
+      "homeTeam": "Paju Citizen",
+      "awayTeam": "Cheonan City",
+      "match_time": "07:30",
+      "match_highlight": "Cheonan seek first away clean sheet against draw-prone Paju",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510505,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored by 1:1 and 1:2 scripts, as Cheonan's stronger form offsets their 0% away clean-sheet record and prevents an outright single-outcome call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.42 combined lambda, a 56.4% Poisson Under 2.5 baseline, and Paju's 11 of 15 home matches finishing below 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cheonan have scored in 12 of 15 away games while conceding in all 15, directly supporting traded goals against Paju's 20.0% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.0% and matches Paju's three straight home draws, while 1:2 covers a second-half visiting breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals is the modal 26.0% Poisson outcome matching 1:1, with 3 goals (21.0%) covering the secondary 1:2 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Paju draw 66.7% of home first halves and have 0 wins from 10 level home intervals, splitting second-half outcomes between Draw-Draw and Draw-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:01:35 UTC"
+}
