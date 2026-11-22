@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1617702,
+    "matchup": "Illueca vs Fraga",
+    "home_team": "Illueca",
+    "away_team": "Fraga",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-illueca-vs-fraga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Illueca vs Fraga Tactical Breakdown & Probabilistic Modeling: Can Home Form Halt the Visitors?",
+    "meta": {
+      "matchId": "1617702",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Illueca vs Fraga",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Statistical goal modeling and defensive containment metrics favor Draw / Away Win alongside Under 2.5 goals in a tight 0:1 or 1:1 contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both the visitors' 40.5% win projection and the 27.8% stalemate branch (Confidence: Low, Value: Moderate)",
+      "Under 2.5 goals aligns with the 2.36 combined lambda and 58.0% Poisson distribution below three goals (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 scoreline covers the 13.1% modal Poisson branch if Illueca's home attack breaches Fraga once (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617702",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Illueca",
+      "awayTeam": "Fraga",
+      "match_time": "11:00",
+      "match_highlight": "Fraga's 1.00 GA/game defense faces Illueca's resilient Papa Luna home attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1617702,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "The 0:1 primary and 1:1 secondary projections require covering both Fraga's defensive edge and Illueca's home stalemate path, as a single Away Win leaves excessive draw exposure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.36 combined lambda, 58.0% Under 2.5 Poisson share, and Fraga's 1.00 goals-for and goals-against averages point to a low-scoring contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Fraga's 1.00 goals-conceded-per-match discipline and 52.3% Poisson BTTS No lean support a narrow shutout path matching the 0:1 primary scoreline."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Fraga's 1.27 attacking lambda exploiting Illueca's 1.55 concession rate with a clean sheet, while 1:1 covers the 13.1% modal draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.3%) and one goal (22.3%) represent the two highest-probability outcomes in the Poisson matrix under a 2.36 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A balanced first half at Papa Luna is projected to break toward Fraga late (Draw-Loss) or remain level across 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:17:36 UTC"
+}
