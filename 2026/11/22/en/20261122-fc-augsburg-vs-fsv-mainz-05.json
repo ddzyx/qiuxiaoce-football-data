@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575224,
+    "matchup": "FC Augsburg vs FSV Mainz 05",
+    "home_team": "FC Augsburg",
+    "away_team": "FSV Mainz 05",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-22 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-fc-augsburg-vs-fsv-mainz-05/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Augsburg vs FSV Mainz 05 Tactical Breakdown & Match Analysis: Injury Cracks vs Expected Goals (xG)",
+    "meta": {
+      "matchId": "1575224",
+      "league": "Bundesliga",
+      "matchup": "FC Augsburg vs FSV Mainz 05",
+      "matchTime": "2026-11-22 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FSV Mainz 05 are projected to avoid defeat at WWK Arena with a slight edge to claim a high-scoring road win over injury-depleted FC Augsburg.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Mainz's 1.68 vs 2.56 xGA edge against Augsburg's four confirmed defensive/midfield absentees, balanced by Augsburg's 80% home unbeaten record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes backed by a 4.28 combined lambda, 80.0% Poisson Over 2.5 expectancy, and Augsburg's 0.0% failed-to-score rate (Confidence: High, Value: Moderate)",
+      "Goal-Fest (5+ Goals) or 2:2 stalemate contingency triggered by both sides exceeding 1.50 xG and xGA per match with no conservative points cushion (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575224",
+      "league": "Bundesliga",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "FSV Mainz 05",
+      "match_time": "14:30",
+      "match_highlight": "Depleted Augsburg backline faces Mainz's attack in high-scoring WWK Arena clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575224,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Mainz victory against Augsburg's injured defense alongside a 2:2 draw given Mainz's 2.11 goals conceded per match and Augsburg's three home draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.28 combined lambda, 80.0% Poisson Over 2.5 projection, and Over 2.5 landing in 8 of 9 Augsburg and 7 of 9 Mainz Bundesliga games."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Augsburg have scored in all 9 league matches with only 1 clean sheet (11.1%), while Mainz scored in all 4 away fixtures and conceded 2.11 goals per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Mainz's 0.88 xGA advantage exploiting four Augsburg defensive/midfield absences; 2:2 captures the modal 7.3% Poisson stalemate if Mainz's backline leaks."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "4 goals (19.4%) and 3 goals (18.1%) hold the top two aggregate probability shares under the 4.28 lambda Poisson goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss reflects a tight first half before Augsburg's thin defense fades; Win-Draw captures Augsburg's 60% home HT lead rate and 66.7% home lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:50:46 UTC"
+}
