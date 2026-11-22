@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647588,
+    "matchup": "Sanjoanense vs Academica",
+    "home_team": "Sanjoanense",
+    "away_team": "Academica",
+    "league": "Taça de Portugal",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-sanjoanense-vs-academica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sanjoanense vs Academica Prediction & Match Analysis: Can Cup Giant-Killers Hold Briosa?",
+    "meta": {
+      "matchId": "1647588",
+      "league": "Taça de Portugal",
+      "matchup": "Sanjoanense vs Academica",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Académica's two-division quality edge and eight-goal set-piece threat support a Draw / Away Win 90-minute call anchored to Under 2.5 and BTTS: No.",
+    "possibilityAssessment": [
+      "Draw / Away Win 90-minute trajectory led by a narrow Académica victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 60.9% Poisson baseline and tight recent cup defenses (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw HT/FT stalemate if Sanjoanense repeat their low-block home containment through 90 minutes (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647588",
+      "league": "Taça de Portugal",
+      "homeTeam": "Sanjoanense",
+      "awayTeam": "Academica",
+      "match_time": "11:00",
+      "match_highlight": "Fourth-tier cup giant-killers test Académica's set-piece edge in tight tie.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647588,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow Académica breakthrough (0:1) alongside a home low-block stalemate (1:1), as unconfirmed cup lineups and Sanjoanense's home shutout of Nacional make a single Away Win call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.25 combined goal lambda (60.9% Under 2.5 baseline), Sanjoanense's 1.00 goals-conceded rate, and Académica's 0.86 decayed recent goals-conceded average."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Académica's second-tier defensive structure (0.86 decayed goals against) should contain fourth-tier open-play scoring in a cautious 0:1 primary script."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Académica's tier and dead-ball superiority breaking a compact host late, while 1:1 covers the top raw Poisson scoreline if Sanjoanense strike once at home."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 and 2 goals capture 50.4% of the raw Poisson distribution and align directly with both the 0:1 primary and 1:1 secondary scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs favor disciplined opening halves before Académica's deeper bench chases a late winner (Draw-Loss) or settles into a 90-minute deadlock (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:43:29 UTC"
+}
