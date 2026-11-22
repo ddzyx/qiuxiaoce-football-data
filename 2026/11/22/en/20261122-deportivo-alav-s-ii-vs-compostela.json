@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1572129,
+    "matchup": "Deportivo Alavés II vs Compostela",
+    "home_team": "Deportivo Alavés II",
+    "away_team": "Compostela",
+    "league": "Segunda División RFEF - Group 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-deportivo-alav-s-ii-vs-compostela/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Deportivo Alavés II vs Compostela Prediction & Match Analysis: Can Depleted Visitors Contain Pinillos?",
+    "meta": {
+      "matchId": "1572129",
+      "league": "Segunda División RFEF - Group 1",
+      "matchup": "Deportivo Alavés II vs Compostela",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Deportivo Alavés II hold a clear attacking-versus-defensive structural advantage at Ibaia and are projected to secure a full-time Home Win against a depleted Compostela lineup.",
+    "possibilityAssessment": [
+      "Home Win behind Deportivo Alavés II's 2.18 goals-per-match firepower exploiting four confirmed visiting absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals driven by a 2.78 combined lambda and Alavés II's 3.45 total-goal match average (Confidence: Moderate, Value: Moderate)",
+      "2:0 clean-sheet home win branch if Compostela's finishing struggles from the Ourense CF loss persist in a deep block (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572129",
+      "league": "Segunda División RFEF - Group 1",
+      "homeTeam": "Deportivo Alavés II",
+      "awayTeam": "Compostela",
+      "match_time": "11:00",
+      "match_highlight": "Group 1 top scorer Pinillos targets Compostela's injury-hit backline at Ibaia.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572129,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 2:1 primary convergence where Group 1's leading 2.18 goals-per-match attack faces three confirmed Compostela defensive absentees."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Aligned with a 2.78 combined lambda, 52.6% Poisson Over 2.5 baseline, and Alavés II averaging 3.45 total goals per league match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 55.7% Poisson BTTS baseline, 70.8% away scoring expectancy, and Alavés II conceding 1.27 goals per match without a clean sheet in three straight home games."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Alavés II striking twice against a reshaped defense while conceding on transition, whereas 2:0 covers a visiting finishing blank."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the 2:1 primary script, while two goals align with the 24.0% Poisson modal total and 2:0 shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects Compostela's early containment before Alavés II pull away late, while Win-Win covers an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:57:47 UTC"
+}
