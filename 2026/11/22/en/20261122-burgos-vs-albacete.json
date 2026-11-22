@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570026,
+    "matchup": "Burgos vs Albacete",
+    "home_team": "Burgos",
+    "away_team": "Albacete",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-22 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-burgos-vs-albacete/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Burgos vs Albacete Prediction & Match Analysis: Can Home Solidity Halt Streak? — xG Preview",
+    "meta": {
+      "matchId": "1570026",
+      "league": "Segunda División",
+      "matchup": "Burgos vs Albacete",
+      "matchTime": "2026-11-22 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Burgos Win / Draw is the primary projected direction, anchored by a 2:1 home victory with Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Burgos's 5-2-1 El Plantío record, 1.47 xG vs Albacete's 1.74 xGA, and 2:1 / 1:1 scoreline convergence (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes backed by 2.67 lambda total, 57.1% season Over 2.5 rates for both clubs, and 0.0% away clean sheets for Albacete (Confidence: Moderate, Value: Moderate)",
+      "Draw-Win and Draw-Draw HT/FT progression reflecting Burgos's 62.5% home half-time draw rate and second-half stamina edge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570026",
+      "league": "Segunda División",
+      "homeTeam": "Burgos",
+      "awayTeam": "Albacete",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Burgos seeks home control against Albacete's five-match winning momentum.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570026,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Burgos breakthrough driven by 1.47 xG against 1.74 xGA and a 1:1 draw branch because Jon Karrikaburu and Brais Martínez are out against five-win Albacete."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.67 combined lambda, 57.1% Over 2.5 rates for both teams, and Albacete's 1.74 xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Burgos scores in 87.5% of home league matches while keeping just 25.0% home clean sheets, facing an Albacete side with 0.0% away clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Burgos's narrow one-goal home winning pattern, while 1:1 captures the highest Poisson density if finishing stalls without Karrikaburu."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the primary 2:1 script and 2.67 lambda total, with 2 goals covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Burgos has drawn the first half in 62.5% of home matches before accelerating late against tired visitors, with Draw-Draw covering a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 15:13:41 UTC"
+}
