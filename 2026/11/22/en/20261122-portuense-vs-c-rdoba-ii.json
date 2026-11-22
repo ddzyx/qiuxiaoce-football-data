@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615561,
+    "matchup": "Portuense vs Córdoba II",
+    "home_team": "Portuense",
+    "away_team": "Córdoba II",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-portuense-vs-c-rdoba-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portuense vs Córdoba II Prediction & Preview: Can Home Attack Break Tristán's Resurgent Defense?",
+    "meta": {
+      "matchId": "1615561",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Portuense vs Córdoba II",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Portuense hold the clear statistical and venue advantage to avoid defeat against Córdoba II in a controlled, under-2.5-goal fixture.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Portuense's 74.9% Poisson unbeaten baseline and Córdoba II's 0W-1D-3L away record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.53 combined lambda and 53.6% Poisson under probability (Confidence: Moderate, Value: High)",
+      "BTTS: No driven by Portuense's 0.91 goals conceded per game and Córdoba II failing to score in two of four verified road trips (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615561",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Portuense",
+      "awayTeam": "Córdoba II",
+      "match_time": "11:00",
+      "match_highlight": "Portuense's home attack tests Córdoba II's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615561,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Portuense's leading 2:0 home-win script and the 1:1 stalemate fork, as back-to-back Portuense draws and Córdoba II's November tightening make a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson expectancy of 2.53 total goals (53.6% Under 2.5) aligns with Portuense's 0.91 conceded average and Córdoba II's three-goal tally across four verified away games."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Portuense average under a goal conceded per match while Córdoba II failed to score in half of their verified away trips despite recent home clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Portuense's 1.73 goals-per-game output against Córdoba II's nine away goals conceded, while 1:1 captures the highest-density Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.5%) and 1 goal (20.2%) represent the core under-2.5 Poisson density matching 2:0, 1:1, and a tight 1:0 home win."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Córdoba II's compact November defensive setup can hold Portuense level at half-time before either conceding late (Draw-Win) or preserving a second-half stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 05:01:53 UTC"
+}
