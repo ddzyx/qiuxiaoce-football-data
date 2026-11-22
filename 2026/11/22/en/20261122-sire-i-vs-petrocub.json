@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630265,
+    "matchup": "Sireți vs Petrocub",
+    "home_team": "Sireți",
+    "away_team": "Petrocub",
+    "league": "Super Liga",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-sire-i-vs-petrocub/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sireți vs Petrocub Tactical Breakdown & Probabilistic Modeling: Can Low Block Hold Out Without Covali?",
+    "meta": {
+      "matchId": "1630265",
+      "league": "Super Liga",
+      "matchup": "Sireți vs Petrocub",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Petrocub's 1.89 goals-per-match attack and 0.89 goals-conceded defence justify backing an Away Win over Covali-less Sireți, anchored around a controlled 0:2 victory.",
+    "possibilityAssessment": [
+      "Primary Away Win thesis driven by Petrocub's +1.11 goals-per-game attacking gap and Covali's defensive suspension (Confidence: Moderate, Value: Moderate)",
+      "Secondary Under 2.5 Goals angle supported by the 52.3% Poisson baseline and Sireți's 0.78 home-blocked scoring floor (Confidence: Moderate, Value: Moderate)",
+      "Contingency 1:2 Away Win branch accounting for Ovidiu David's midfield suspension permitting a single Sireți transition goal (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630265",
+      "league": "Super Liga",
+      "homeTeam": "Sireți",
+      "awayTeam": "Petrocub",
+      "match_time": "11:00",
+      "match_highlight": "Covali's defensive suspension tests Sireți's home low block against Petrocub.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630265,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Petrocub's 1.89 goals-per-match firepower and 0.89 conceded average should break down a Sireți defence missing suspended regular Nichita Covali for a 0:2 or 1:2 away win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "With lambda_total at 2.58, Poisson Under 2.5 at 52.3%, and Sireți scoring just 0.78 goals per game, a 0:2 victory fits better than an open shootout."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Sireți's 0.78 goals-per-match output faces Petrocub's 0.89 conceded rate and 43.6% Poisson clean-sheet projection, favoring a visitor shutout."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:2"
+        ],
+        "comment": "0:2 reflects Petrocub's superior attacking depth against a depleted home backline, while 1:2 covers a single Borovschi counter exploiting David's suspension."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals lead the Poisson distribution at 25.2% via a 0:2 shutout, while three goals follow at 21.7% if Sireți grab a consolation in a 1:2 loss."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Sireți's deep low block and Petrocub's post-break rhythm point to a level half-time before a second-half away breakthrough, with an early away strike as the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:29:22 UTC"
+}
