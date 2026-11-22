@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636991,
+    "matchup": "Anagennisi Karditsas vs Kallithea",
+    "home_team": "Anagennisi Karditsas",
+    "away_team": "Kallithea",
+    "league": "Super League 2",
+    "kickoff_utc": "2026-11-22 10:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-anagennisi-karditsas-vs-kallithea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Anagennisi Karditsas vs Kallithea Tactical Breakdown & Probabilistic Modeling: Mendieta Ban Impact",
+    "meta": {
+      "matchId": "1636991",
+      "league": "Super League 2",
+      "matchup": "Anagennisi Karditsas vs Kallithea",
+      "matchTime": "2026-11-22 10:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kallithea hold the clear structural edge to avoid defeat and claim a narrow road win in a low-scoring Round 12 contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Kallithea's 0.64 goals-conceded rate and Karditsa's compact home structure (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 1.83 combined lambda and a 72.3% baseline low-scoring distribution (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: No driven by Kallithea's defensive discipline and Karditsa's 0.73 goals-per-game output without suspended Mendieta (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636991",
+      "league": "Super League 2",
+      "homeTeam": "Anagennisi Karditsas",
+      "awayTeam": "Kallithea",
+      "match_time": "10:30",
+      "match_highlight": "Suspended captain Mendieta leaves Karditsa blunt against Kallithea's tight defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636991,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 0:1 Kallithea breakthrough and a 0:0 stalemate, as the visitors' modest road scoring keeps a single call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.83 combined lambda, 72.3% Poisson baseline, and six of Kallithea's last seven league games ending under 2.5 point to tight scoring."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kallithea concede just 0.64 goals per match while Karditsa lose joint top scorer Mendieta from a 0.73 goals-per-game attack."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "The top two baseline Poisson scores reflect Kallithea's clean-sheet edge either breaking through late or being held to a goalless draw."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One-goal and two-goal outcomes capture over 56% of the baseline distribution in a fixture shaped by defensive structure."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a level first half before Kallithea either find a second-half winner or Karditsa's low block holds out."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:57:31 UTC"
+}
