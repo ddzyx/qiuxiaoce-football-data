@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570032,
+    "matchup": "Girona vs Eibar",
+    "home_team": "Girona",
+    "away_team": "Eibar",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-22 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-girona-vs-eibar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Girona vs Eibar Tactical Breakdown & Probabilistic Modeling: Full-Back Absences Tilt Montilivi",
+    "meta": {
+      "matchId": "1570032",
+      "league": "Segunda División",
+      "matchup": "Girona vs Eibar",
+      "matchTime": "2026-11-22 17:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Draw / Away Win represents the optimal direction as Eibar's 1.49 xG/match attack exploits Girona's confirmed full-back absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win leading with Eibar victory (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS: Yes driven by mutual left-back depletion (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Draw-Loss or Draw-Draw as Eibar accelerate after half-time (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570032",
+      "league": "Segunda División",
+      "homeTeam": "Girona",
+      "awayTeam": "Eibar",
+      "match_time": "17:30",
+      "match_highlight": "Girona full-back absences test Montilivi control against Eibar's attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1570032,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Eibar's 1:2 second-half transition victory against Girona's depleted flanks alongside a 1:1 stalemate, as a single call ignores either Eibar's 66.7% away win rate or Girona's 75.0% home unbeaten record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.74 combined lambda, 2.94 combined xG per match, Eibar's 66.7% away Over 2.5 rate, and starting left-back absences on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Eibar have scored in 12 of 13 league games (1.49 xG/match) while Girona regain Asprilla and Vanat against a 1.44 xGA defense missing both natural left-backs."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Both scorelines reflect mutual flank vulnerability, led by Eibar's late-scoring edge for 1:2 with 1:1 as the high-density stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "A 2.74 lambda_total and depleted wide defenses push 3 goals marginally ahead of the 2-goal Poisson peak."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Girona have never trailed at half-time at home while Eibar score 54.5% of their goals after the break, pointing to a level first half before a second-half decision or 1:1 hold."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 14:16:47 UTC"
+}
