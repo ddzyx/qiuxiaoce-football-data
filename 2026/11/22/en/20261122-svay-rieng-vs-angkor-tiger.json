@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1610663,
+    "matchup": "Svay Rieng vs Angkor Tiger",
+    "home_team": "Svay Rieng",
+    "away_team": "Angkor Tiger",
+    "league": "C-League",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-svay-rieng-vs-angkor-tiger/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Svay Rieng vs Angkor Tiger Prediction & Match Analysis: Fatigue vs Firepower — Scoreline Preview",
+    "meta": {
+      "matchId": "1610663",
+      "league": "C-League",
+      "matchup": "Svay Rieng vs Angkor Tiger",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Retain Home Win / Draw with Svay Rieng favored in a match projected for Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 coverage on Home Win / Draw balances Svay Rieng's class advantage with post-continental recovery risk (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes align with a 3.18 combined goal expectancy and clean-sheet fragility (Confidence: Moderate, Value: High)",
+      "A 1:1 second-half fatigue stalemate remains the chief counter-script if Angkor Tiger contain early home pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1610663",
+      "league": "C-League",
+      "homeTeam": "Svay Rieng",
+      "awayTeam": "Angkor Tiger",
+      "match_time": "11:00",
+      "match_highlight": "Unbeaten Svay Rieng firepower faces rested Angkor Tiger defense after 71-hour turnaround.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1610663,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the 2:1 home-win firepower script and the 1:1 fatigue-induced stalemate where a single call overlooks Svay Rieng's 71-hour turnaround."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.18 goal expectancy (61.6% Over 2.5) and Svay Rieng clearing 2.5 goals in four of five tracked league matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 62.1% Poisson BTTS expectancy, 84.1% and 73.8% single-side scoring projections, and home clean sheets in only two of five league outings."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Svay Rieng's multi-scorer superiority conceding on transition, while 1:1 captures the top Poisson density if rest asymmetry slows the hosts."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.3%) and two goals (21.0%) lead the Poisson total-goals distribution alongside the 2:1 and 1:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Matches Svay Rieng's exact five-match league half-time/full-time split of three Win-Win victories and two Draw-Draw stalemates."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 03:52:47 UTC"
+}
