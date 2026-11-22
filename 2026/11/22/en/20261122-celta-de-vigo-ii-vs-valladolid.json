@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570028,
+    "matchup": "Celta de Vigo II vs Valladolid",
+    "home_team": "Celta de Vigo II",
+    "away_team": "Valladolid",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-22 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-celta-de-vigo-ii-vs-valladolid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celta de Vigo II vs Valladolid Prediction & Match Analysis: Can Balaídos Hosts Halt Early Pressure?",
+    "meta": {
+      "matchId": "1570028",
+      "league": "Segunda División",
+      "matchup": "Celta de Vigo II vs Valladolid",
+      "matchTime": "2026-11-22 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Valladolid holds the primary edge on midfield playmaking and recovery time, yet Celta de Vigo II's home scoring reliability and the visitors' winless road clean-sheet record warrant Draw / Away Win alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Valladolid's 55.9 MF-OTI playmaking edge and +54h rest advantage against Celta II's five-match winless slide (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals supported by a 3.15 combined lambda, 61.0% Poisson Over 2.5 rate, and zero venue clean sheets for both clubs (Confidence: Moderate, Value: High)",
+      "BTTS: Yes driven by Celta II's 85.7% home BTTS rate and Valladolid's 71.4% away BTTS rate amid defensive absences on both sides (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570028",
+      "league": "Segunda División",
+      "homeTeam": "Celta de Vigo II",
+      "awayTeam": "Valladolid",
+      "match_time": "17:30",
+      "match_highlight": "Front-loaded Valladolid midfield meets Celta II's porous yet high-scoring home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570028,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 away win from Valladolid's superior midfield quality and rest and the 1:1 draw branch driven by Valladolid's 14.3% away win rate and Celta II's home resilience, avoiding a single away call on a one-win road side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.15 combined lambda (61.0% Over 2.5 Poisson baseline), Celta II's 71.4% home Over 2.5 rate, and zero venue clean sheets for either side."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides carry 0.0% clean-sheet rates in tonight's home/away split (Celta II 85.7% home BTTS; Valladolid 71.4% away BTTS) with primary scorers Álvaro Marín and Adrián Arnuncio active."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Valladolid's 1.72 away lambda and midfield edge over a leaking host backline, while 1:1 mirrors the modal Poisson scoreline if finishing waste caps the visitors."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.3% Poisson probability) aligns with the 1:2 projection and 3.15 lambda_total, with two goals (21.3%) hedging the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Valladolid scores 71.4% of away goals in the first half against a host that is 0-for-6 when trailing at the break (Loss-Loss), while a level half favors Draw-Draw given Valladolid's 0-for-4 away record after HT draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 14:00:54 UTC"
+}
