@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558681,
+    "matchup": "SK Beveren vs Gent",
+    "home_team": "SK Beveren",
+    "away_team": "Gent",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-22 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-sk-beveren-vs-gent/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SK Beveren vs Gent Prediction & Match Analysis: Can Post-Bakens Hosts Breach Gent's 0.82 xGA Wall?",
+    "meta": {
+      "matchId": "1558681",
+      "league": "Jupiler Pro League",
+      "matchup": "SK Beveren vs Gent",
+      "matchTime": "2026-11-22 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Gent (Away Win) to capitalize on SK Beveren's defensive fragility and suspended left-back in a projected 1:2 road victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Away Win driven by Gent's 1.41 xG attack targeting Beveren's 1.93 xGA defense (Confidence: Moderate, Value: High)",
+      "Totals & Scoring Angle: Over 2.5 and BTTS Yes as Burgess's absence opens a home goal route for Lokesa (Confidence: Moderate, Value: Moderate)",
+      "Controlled Shutout Branch: Gent 0:2 win if Beveren's doubtful attackers fail to fire against De Mil's compact block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558681",
+      "league": "Jupiler Pro League",
+      "homeTeam": "SK Beveren",
+      "awayTeam": "Gent",
+      "match_time": "12:30",
+      "match_highlight": "Burgess-less Gent attack Beveren's 1.93 xGA backline missing suspended Janssens.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558681,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Gent's +1.10 lambda edge, 81.8% win rate, and flank mismatch against suspended Christophe Janssens support a projected 1:2 away win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.82 lambda total, Beveren's 72.7% Over 2.5 rate, and defensive absences on both sides favor clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Gent's 85.9% scoring expectancy meets Beveren's 100% home scoring rate against a Gent defense missing Christian Burgess."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Gent's superior finishing against a leaky host alongside one home reply, while 0:2 covers a Gent shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Poisson density concentrates around 2 and 3 goals (46.0% combined), with personnel absences tipping 3 goals as primary."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Gent have led at half-time in 60% of away league games (Loss-Loss), while Beveren's 60% home HT draw rate supports Draw-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:39:40 UTC"
+}
