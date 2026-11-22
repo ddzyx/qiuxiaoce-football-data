@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492464,
+    "matchup": "RB Bragantino vs Vasco DA Gama",
+    "home_team": "RB Bragantino",
+    "away_team": "Vasco DA Gama",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-rb-bragantino-vs-vasco-da-gama/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling RB Bragantino vs Vasco da Gama: Expected Goals (xG), Key Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1492464",
+      "league": "Serie A",
+      "matchup": "RB Bragantino vs Vasco DA Gama",
+      "matchTime": "2026-11-22 22:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Both 47-point rivals project to score in a tight contest where Vasco da Gama's superior expected-goal prevention and late-scoring surge support Draw / Away Win via a primary 1:1 stalemate or 1:2 road victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by 1:1 draw and 1:2 away breakthrough (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals with BTTS: Yes driven by two porous defenses and high big-chance waste rates (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Win-Draw as Bragantino's early home press meets Vasco's second-half recovery pattern (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Win-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492464",
+      "league": "Serie A",
+      "homeTeam": "RB Bragantino",
+      "awayTeam": "Vasco DA Gama",
+      "match_time": "22:30",
+      "match_highlight": "Two 47-point rivals clash as home early control meets late pressure.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492464,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the primary 1:1 draw and secondary 1:2 away win because RB Bragantino's home scoring floor offsets their key absences while Vasco's superior xGA and second-half surge prevent a confident single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson totals favor Under 2.5 (51.1% on 2.63 lambda_total), supported by high big-chance waste rates (71.1% home, 63.4% away) and key attacking absences on a 72-hour turnaround."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses struggle for shutouts (19.4% home clean sheets, 12.5% away road clean sheets) against top-two Serie A shot volumes, lifting BTTS probability to 53.4%."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix (12.4%) as home early control meets away second-half resilience, while 1:2 captures Vasco's 0.25 xGA/match edge if hosts fade late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (24.9%) and 3 goals (21.9%) lead the Poisson total-goals distribution, aligning directly with the 1:1 primary and 1:2 secondary match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Win-Draw pairs Bragantino's 46.7% home HT lead rate with their 45.5% overall lead-erosion rate and Vasco's 80% away HT-deficit recovery, while Draw-Loss covers a level interval before Vasco pull clear late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 15:29:06 UTC"
+}
