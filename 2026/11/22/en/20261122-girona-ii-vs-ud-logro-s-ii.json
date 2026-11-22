@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1572436,
+    "matchup": "Girona II vs UD Logroñés II",
+    "home_team": "Girona II",
+    "away_team": "UD Logroñés II",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-girona-ii-vs-ud-logro-s-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Girona II vs UD Logroñés II Tactical Breakdown & Probabilistic Modeling: Vidreres Form vs Leaky Defense",
+    "meta": {
+      "matchId": "1572436",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Girona II vs UD Logroñés II",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Girona II holds a decisive two-way goal-expectancy and recent home-form edge to defeat UD Logroñés II in regulation time at Vidreres.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Girona II Home Win backed by 2.00 goals scored per match against 1.64 away goals conceded (Confidence: Moderate, Value: Moderate)",
+      "Totals Angle: Over 2.5 Goals driven by 2.86 combined lambda and five Over 2.5 outcomes in UD Logroñés II's last six verified matches (Confidence: Moderate, Value: Moderate)",
+      "Shutout Contingency: Girona II 2:0 Clean-Sheet Win reflecting five home/away shutouts across the hosts' last six verified league outings (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572436",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Girona II",
+      "awayTeam": "UD Logroñés II",
+      "match_time": "11:00",
+      "match_highlight": "Girona II's Vidreres firepower tests UD Logroñés II's fragile road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572436,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 2:1 primary projection as Girona II's 2.00 goals-per-match attack exploits a defense conceding 1.64 goals per match."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.86 combined goal lambda and 54.5% Poisson Over 2.5 probability align with UD Logroñés II's 3.67-goal recent match average."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "UD Logroñés II's 64.7% Poisson scoring probability and five scoring performances in six recent games counter Girona II's recent shutout streak."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects the primary Over 2.5 home-win convergence, while 2:0 captures the clean-sheet control alternative."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the 2:1 primary script and Over 2.5 call, while 2 goals covers the 23.4% modal Poisson bucket under a 2:0 home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Girona II's fast home starts favor Win-Win, with Draw-Win covering a patient second-half breakthrough if UD Logroñés II holds early."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 03:05:24 UTC"
+}
