@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550206,
+    "matchup": "Sassuolo vs Genoa",
+    "home_team": "Sassuolo",
+    "away_team": "Genoa",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-sassuolo-vs-genoa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sassuolo vs Genoa: Expected Goals, Midfield Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1550206",
+      "league": "Serie A",
+      "matchup": "Sassuolo vs Genoa",
+      "matchTime": "2026-11-22 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Genoa are projected to avoid defeat in a competitive, goal-producing contest shaped by Sassuolo's defensive absences and Roberto D'Aversa's tactical debut.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures both Genoa's structural superiority and Sassuolo's new-manager home resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes align with Sassuolo's zero-clean-sheet record and 100% home scoring floor (Confidence: Moderate, Value: High)",
+      "1:1 Draw hedge covers D'Aversa's potential defensive tightening against Genoa's 0.92 xG/match attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550206",
+      "league": "Serie A",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Genoa",
+      "match_time": "14:00",
+      "match_highlight": "D'Aversa's debut meets Genoa's 4-match winning H2H streak",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550206,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Genoa victory and the secondary 1:1 D'Aversa containment draw, as Genoa's 0.92 xG attack makes a single away-win call overly narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.27 combined lambda, Sassuolo's 81.8% Over 2.5 season rate, and nine of ten H2H meetings clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sassuolo have scored in all five home games while keeping zero clean sheets in 11 matches, matching Bet365's 1.70 BTTS Yes lean."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 mirrors four straight 2:1 H2H wins for Genoa against a depleted host defense, while 1:1 covers D'Aversa's tactical tightening."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads the Poisson total distribution at 22.1%, with 2 goals (20.3%) reflecting the low-block containment alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Genoa's 72.7% first-half goal share and 4-for-4 HT lead conversion, while Draw-Draw covers Sassuolo's 80% home HT-draw tendency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:39:11 UTC"
+}
