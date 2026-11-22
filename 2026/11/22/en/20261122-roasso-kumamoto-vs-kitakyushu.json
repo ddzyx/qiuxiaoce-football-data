@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1555815,
+    "matchup": "Roasso Kumamoto vs Kitakyushu",
+    "home_team": "Roasso Kumamoto",
+    "away_team": "Kitakyushu",
+    "league": "J3 League",
+    "kickoff_utc": "2026-11-22 04:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-roasso-kumamoto-vs-kitakyushu/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Roasso Kumamoto vs Kitakyushu Tactical Breakdown & Probabilistic Modeling: Set-Piece Edge vs Leaky Defense",
+    "meta": {
+      "matchId": "1555815",
+      "league": "J3 League",
+      "matchup": "Roasso Kumamoto vs Kitakyushu",
+      "matchTime": "2026-11-22 04:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Roasso Kumamoto's 0.88 goals-conceded-per-game baseline and 7-to-1 set-piece edge support Home Win / Draw against a Kitakyushu side without a clean sheet in six sampled matches, with both teams projected to score.",
+    "possibilityAssessment": [
+      "Roasso Kumamoto hold the primary win route via set-piece conversion and Kitakyushu's 1.59 goals conceded per J3 match, while Draw covers Kumamoto's midfield absences and three-match conceding slide (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes align with Kitakyushu's 1.47 goals-per-game attack, zero clean sheets in six sampled matches, and Kumamoto's recent November open-game trend (Confidence: Moderate, Value: High)",
+      "A 1:1 stalemate remains the primary downside hedge if doubtful creator Koya Fujii sits out and Kumamoto prioritize first-half defensive caution (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1555815",
+      "league": "J3 League",
+      "homeTeam": "Roasso Kumamoto",
+      "awayTeam": "Kitakyushu",
+      "match_time": "04:00",
+      "match_highlight": "Kumamoto's 7-goal set-piece threat faces Kitakyushu's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1555815,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Kumamoto win driven by set-piece superiority alongside a 1:1 draw given Kumamoto's confirmed absences and recent conceding run, whereas a single Home Win would ignore Kitakyushu's 1.47 goals-per-game floor."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Kitakyushu's 83.3% Over 2.5 rate in the six-match sample, 3.06 average match goals in J3, and Kumamoto's recent three-match streak of conceding two or more."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kitakyushu kept zero clean sheets across six sampled games while scoring 1.47 per J3 match, and Kumamoto's depleted backline conceded seven times across three November league fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Kumamoto's superior goal difference and set-piece edge against a porous visitor, while 1:1 mirrors the 12.6% Poisson modal outcome if Kumamoto's midfield absences blunt their attack."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the 2:1 primary script driven by Kitakyushu's high-event matches, while 2 goals covers the tight 1:1 draw branch supported by the 25.3% Poisson baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams average under 43% first-half goal share and drew at the interval in at least half their sampled games, projecting a level half before Kumamoto either pull away or share the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 00:07:13 UTC"
+}
