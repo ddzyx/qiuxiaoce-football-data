@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550199,
+    "matchup": "Bologna vs Udinese",
+    "home_team": "Bologna",
+    "away_team": "Udinese",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-bologna-vs-udinese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Bologna vs Udinese: Expected Goals, Wing-Back Absences & Match Analysis",
+    "meta": {
+      "matchId": "1550199",
+      "league": "Serie A",
+      "matchup": "Bologna vs Udinese",
+      "matchTime": "2026-11-22 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bologna hold a decisive attacking and preventive baseline edge against bottom-placed Udinese, projecting a Home Win / Draw outcome led by a 2:1 home victory with Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Bologna's 1.66 xG attack vs Udinese's 2.21 xGA defense, tempered by home flank absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes supported by 3.04 combined lambda and 80% venue-specific BTTS rates (Confidence: Moderate, Value: High)",
+      "Draw-Draw 1:1 containment contingency if Paolo Zanetti's compact 3-5-2 limits Bologna's reshuffled wide supply (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550199",
+      "league": "Serie A",
+      "homeTeam": "Bologna",
+      "awayTeam": "Udinese",
+      "match_time": "14:00",
+      "match_highlight": "Bologna's four-win momentum confronts defensive flank absences against Zanetti's Udinese.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550199,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Bologna's 1.66 xG vs Udinese's 2.21 xGA drives the leading 2:1 home script, while Miranda and Holm's confirmed absences plus a 1W-2D-2L home record justify retaining the 1:1 draw branch rather than a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.04 (58.6% Over 2.5) and Udinese's 2.21 xGA per game (80% away Over 2.5) support at least three goals despite even 1.91 market pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bologna have zero clean sheets in five home matches with both starting full-backs out, while Udinese have one shutout in 11 games and lose Bertola, matching both sides' 80% venue BTTS rates."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Bologna's recent winning pattern and second-half scoring surge against Udinese's porous defense, while 1:1 carries the highest Poisson density (10.5%) if Bologna's wing-back absences blunt chance conversion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4% Poisson density) and two goals (22.1%) lead the distribution and align cleanly with the projected 2:1 and 1:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Udinese are level at half-time in 80% of away fixtures before fading in three of five second halves, while Bologna score 68.8% of their goals after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:35:24 UTC"
+}
