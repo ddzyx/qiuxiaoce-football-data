@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576238,
+    "matchup": "Karlsruher SC vs VfL Osnabrück",
+    "home_team": "Karlsruher SC",
+    "away_team": "VfL Osnabrück",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-22 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-karlsruher-sc-vs-vfl-osnabruck/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Karlsruher SC vs VfL Osnabrück Prediction & Match Analysis: Osnabrück xG vs KSC Defense — Preview",
+    "meta": {
+      "matchId": "1576238",
+      "league": "2. Bundesliga",
+      "matchup": "Karlsruher SC vs VfL Osnabrück",
+      "matchTime": "2026-11-22 12:30 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "VfL Osnabrück are projected to avoid defeat in an open, multi-goal contest where their superior 1.73 xG per match challenges a Karlsruher SC side missing two forwards.",
+    "possibilityAssessment": [
+      "VfL Osnabrück win 1:2 via superior transition chance creation against KSC's 2.18 goals-conceded defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals and BTTS Yes driven by 3.23 combined lambda and twin 18.2% clean-sheet rates (Confidence: High, Value: Moderate)",
+      "High-scoring 2:2 draw if Marvin Wanitzek sparks an early home lead before Osnabrück recover late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576238",
+      "league": "2. Bundesliga",
+      "homeTeam": "Karlsruher SC",
+      "awayTeam": "VfL Osnabrück",
+      "match_time": "12:30",
+      "match_highlight": "Osnabrück's 1.73 xG attack tests Karlsruhe's 24-goal defense without Broschinski.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1576238,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on the 1:2 and 2:2 projections, covering Osnabrück's 43.3% Poisson win edge and second-half draw resilience rather than forcing a single call amid finishing variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.23 combined goal expectancy, 83.3% home Over 2.5 frequency for KSC, and twin ~1.80 xGA defensive profiles."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 63.9% Poisson BTTS probability, identical 18.2% clean-sheet rates, and 77.7%/82.3% single-side scoring expectations."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Osnabrück's xG advantage over depleted KSC forward depth, while 2:2 covers Wanitzek's home spark against an open visitor backline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Reflects the 22.2% peak at 3 goals and 17.9% secondary density at 4 goals around a 3.23 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Loss-Loss reflects KSC's 50% home half-time deficit rate and 0% home recovery, while Win-Draw captures KSC's fast home starts met by Osnabrück's 40% deficit-recovery rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:02:56 UTC"
+}
