@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576234,
+    "matchup": "Energie Cottbus vs Hertha BSC",
+    "home_team": "Energie Cottbus",
+    "away_team": "Hertha BSC",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-22 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-energie-cottbus-vs-hertha-bsc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Energie Cottbus vs Hertha BSC Prediction & Match Analysis: Can Hosts Contain Brekalo? — Scoreline Preview",
+    "meta": {
+      "matchId": "1576234",
+      "league": "2. Bundesliga",
+      "matchup": "Energie Cottbus vs Hertha BSC",
+      "matchTime": "2026-11-22 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Unbeaten league leaders Hertha BSC project for an Away Win in an Over 2.5, BTTS-Yes contest anchored by a 1:2 primary scoreline.",
+    "possibilityAssessment": [
+      "Away Win via second-half attacking acceleration against a 2.14 xGA host defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals supported by a 3.27 statistical lambda total and high-shot tempo (Confidence: High, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Cottbus's 5-for-5 home scoring record and set-piece threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576234",
+      "league": "2. Bundesliga",
+      "homeTeam": "Energie Cottbus",
+      "awayTeam": "Hertha BSC",
+      "match_time": "12:30",
+      "match_highlight": "League leaders Hertha BSC test Cottbus's winless home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576234,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Hertha BSC's 2.26 xG per game, 83.3% away win rate, and 85.7% HT-draw conversion rate support a 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.27 combined lambda total, 63.5% Poisson Over 2.5 probability, and Cottbus's 2.14 xGA per match point cleanly above 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cottbus have scored in 100% of home league matches (1.48 xG/pg overall) while failing to keep a single home clean sheet against Hertha's 2.26 xG attack."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 tops the Poisson matrix at 9.7% and fits Cottbus's narrow home losses, while 1:3 (6.6%) reflects Hertha's 50% away win-by-2+ margin rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (22.1%) and four (18.1%) goals represent the primary Poisson buckets matching a 3.27 total expectancy and 1:2 / 1:3 game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Hertha have drawn 66.7% of away first halves before converting 6 of 7 HT draws overall into wins, with early away control (Loss-Loss) the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:43:44 UTC"
+}
