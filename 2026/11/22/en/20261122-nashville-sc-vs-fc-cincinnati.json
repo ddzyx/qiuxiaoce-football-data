@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651119,
+    "matchup": "Nashville SC vs FC Cincinnati",
+    "home_team": "Nashville SC",
+    "away_team": "FC Cincinnati",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-22 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-nashville-sc-vs-fc-cincinnati/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nashville SC vs FC Cincinnati Tactical Breakdown & Probabilistic Modeling: Rest Disparity & Transition Risks",
+    "meta": {
+      "matchId": "1651119",
+      "league": "Major League Soccer",
+      "matchup": "Nashville SC vs FC Cincinnati",
+      "matchTime": "2026-11-22 21:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nashville SC should capitalize on a 292-hour rest advantage and an unbeaten Geodis Park record to secure a regulation-time victory over a defensively vulnerable FC Cincinnati.",
+    "possibilityAssessment": [
+      "Home Win backed by Nashville SC's 14W-2D-0L home record, fresh legs, and Cincinnati's center-back absences (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 3.50 combined lambda and both clubs clearing 2.5 goals in over 75% of venue-split matches (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes driven by Evander's transition creation against Nashville's 1.25 xGA per game (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651119",
+      "league": "Major League Soccer",
+      "homeTeam": "Nashville SC",
+      "awayTeam": "FC Cincinnati",
+      "match_time": "21:00",
+      "match_highlight": "Unbeaten hosts test Cincinnati's depleted defense after a 68-hour turnaround.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651119,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Nashville SC's 2:1 and 3:1 scoreline projections reflect their 14W-2D-0L home dominance and massive recovery edge over a tiring FC Cincinnati side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.50 combined expected-goal lambda and 75%+ venue Over 2.5 rates for both teams point strongly toward at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cincinnati's 1.81 xG per match and 76.5% away BTTS rate challenge a Nashville defense allowing 1.25 xGA per game despite their overall strength."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 captures Evander creating one reply before Nashville prevail, while 3:1 covers late fatigue pulling Cincinnati's backline apart."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Poisson goal density peaks at 3 goals (21.6%) and 4 goals (18.9%), matching an open home victory."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Nashville converted all nine home half-time leads into wins and turned four of five home interval draws into victories."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 15:17:19 UTC"
+}
