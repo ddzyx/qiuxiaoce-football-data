@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1617701,
+    "matchup": "CD Sietamo vs Robres",
+    "home_team": "CD Sietamo",
+    "away_team": "Robres",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-cd-sietamo-vs-robres/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "CD Sietamo vs Robres Prediction & Match Analysis: Can Hosts Crack Robres's Compact Block?",
+    "meta": {
+      "matchId": "1617701",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "CD Sietamo vs Robres",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "CD Sietamo is projected to avoid defeat in a high-scoring Huesca derby favoring a 2:1 home edge alongside a 1:1 draw contingency.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw driven by Sietamo's 1.68 vs 1.31 Poisson goal edge balanced against Robres's recent unbeaten resilience (Confidence: Low, Value: Moderate)",
+      "Total Goals & BTTS Angle: Over 2.5 Goals and Both Teams To Score (Yes) supported by 2.99 combined lambda and porous defensive records (Confidence: Moderate, Value: Moderate)",
+      "Draw Hedge Script: 1:1 stalemate triggered if Robres replicates its compact away blueprint against a Petit-affected attack (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617701",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "CD Sietamo",
+      "awayTeam": "Robres",
+      "match_time": "11:00",
+      "match_highlight": "Sietamo's attack faces Petit red-card uncertainty against unbeaten-in-six Robres.",
+      "ai_confidence": "Low",
+      "fixtureId": 1617701,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Sietamo's primary 2:1 attacking edge while retaining the 1:1 draw script given Robres's six-match unbeaten run and unverified Petit availability."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.99 combined goal expectancy, 57.5% Poisson Over 2.5 projection, and 2.00 goals conceded per game by Robres."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks hold strong scoring floors (81.4% home, 73.0% away) against defenses averaging 1.45 and 2.00 goals conceded per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Sietamo's superior 1.68 goal expectancy over Robres's 1.31, while 1:1 captures Robres's compact away draw tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2.99 lambda total and 2:1 primary scoreline, while 2 goals covers the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Robres's compact first-half road structure favors a level interval before Sietamo breaks through late or settles for a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:13:14 UTC"
+}
