@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1553232,
+    "matchup": "Raków Częstochowa vs Widzew Łódź",
+    "home_team": "Raków Częstochowa",
+    "away_team": "Widzew Łódź",
+    "league": "Ekstraklasa",
+    "kickoff_utc": "2026-11-22 11:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-rakow-czestochowa-vs-widzew-d/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Raków Częstochowa vs Widzew Łódź: Expected Goals (xG), Midfield Gaps & Match Analysis",
+    "meta": {
+      "matchId": "1553232",
+      "league": "Ekstraklasa",
+      "matchup": "Raków Częstochowa vs Widzew Łódź",
+      "matchTime": "2026-11-22 11:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Raków Częstochowa to win or draw in a high-scoring Round 15 encounter clearing Over 2.5 goals with both teams on the scoresheet.",
+    "possibilityAssessment": [
+      "Raków Częstochowa holds the second-half tempo and midfield playmaking edge needed for a narrow home victory or open scoring draw (Confidence: Moderate, Value: High)",
+      "Combined 3.25 expected goals and Raków's 7-for-7 home Over 2.5 profile point strongly toward 3 or 4 total match goals (Confidence: Moderate, Value: High)",
+      "Raków's 0.0% season clean-sheet rate against Widzew's eight set-piece goals sustains Both Teams To Score: Yes across all leading scripts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1553232",
+      "league": "Ekstraklasa",
+      "homeTeam": "Raków Częstochowa",
+      "awayTeam": "Widzew Łódź",
+      "match_time": "11:15",
+      "match_highlight": "Raków's second-half surge tests Widzew's set-piece edge and draw streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1553232,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Raków's 2:1 home attacking breakthrough and the 2:2 draw path created by Widzew's eight league draws, since a single home win omits Raków's zero-clean-sheet exposure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.32 shared lambda_total, 3.25 combined xG, and Raków's 100.0% home Over 2.5 rate across seven league matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Raków has scored in all seven home matches while keeping zero clean sheets in 14 games, meeting Widzew's eight-goal set-piece threat and 1.85 xGA defense."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Raków's superior xG and midfield OTI edge; 2:2 captures Widzew's set-piece scoring and high away draw frequency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns directly with the 3.32 lambda_total baseline and the primary 2:1 and secondary 2:2 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Widzew draws 66.7% of away first halves and Raków scores 73.9% of match goals after the break, making a level interval followed by a home surge or stalemate the two core forks."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:51:21 UTC"
+}
