@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615253,
+    "matchup": "Mancha Real vs Málaga II",
+    "home_team": "Mancha Real",
+    "away_team": "Málaga II",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-mancha-real-vs-m-laga-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mancha Real vs Málaga II Tactical Breakdown & Modeling: Away Firepower vs Home Resilience",
+    "meta": {
+      "matchId": "1615253",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Mancha Real vs Málaga II",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Málaga II's superior scoring output makes Away Win the leading outcome inside a Draw / Away Win framework alongside Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Málaga II's 1.68 goal expectancy against home draw resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligned with a 2.59 combined lambda and low-scoring home trends (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes 1:1 stalemate hedge if home scoring form exploits visiting defensive call-ups (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615253",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Mancha Real",
+      "awayTeam": "Málaga II",
+      "match_time": "11:00",
+      "match_highlight": "Málaga II's 1.91 goals per game test Mancha Real's home draws.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615253,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Málaga II's 55.5% Poisson win edge as primary alongside the Draw to cover Mancha Real's four-in-five home stalemate record and visiting first-team call-ups."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.59 total lambda, 52.1% Under 2.5 probability, and 13 of 22 combined league matches finishing with two goals or fewer."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Supported by a 51.4% Poisson BTTS No rate, Mancha Real's six scoreless league matches, and Málaga II's 40.3% projected clean-sheet probability."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 12.6% for a controlled away shutout, while 1:1 (11.5%) captures Mancha Real's home scoring and drawing pattern."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.2%) and 1 goal (19.4%) represent the primary Under 2.5 scoring band across tight 0:1, 0:2, and 1:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Mancha Real's compact early shape points to a level half-time before either Málaga II's bench forces a 0:1 breakthrough or the stalemate holds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:45:43 UTC"
+}
