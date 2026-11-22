@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1551045,
+    "matchup": "Guadalajara Chivas vs Cruz Azul",
+    "home_team": "Guadalajara Chivas",
+    "away_team": "Cruz Azul",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-22 23:07:00",
+    "source_url": "https://xgmind.com/matches/20261122-guadalajara-chivas-vs-cruz-azul/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guadalajara Chivas vs Cruz Azul Prediction & Match Analysis: Can Chivas Breach La Máquina? — xG Preview",
+    "meta": {
+      "matchId": "1551045",
+      "league": "Liga MX",
+      "matchup": "Guadalajara Chivas vs Cruz Azul",
+      "matchTime": "2026-11-22 23:07 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Guadalajara Chivas are projected to avoid defeat against Cruz Azul in a high-tempo Matchday 17 clash favoring Over 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "Guadalajara Chivas double chance (Home Win / Draw) anchored by 1.07 xGA home structure and top-seed urgency (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by a 3.24 lambda total and Cruz Azul's 87.5% away Over 2.5 rate (Confidence: Moderate, Value: High)",
+      "Both Teams To Score (Yes) backed by 80.2% single-side scoring projections and zero Cruz Azul away clean sheets (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1551045",
+      "league": "Liga MX",
+      "homeTeam": "Guadalajara Chivas",
+      "awayTeam": "Cruz Azul",
+      "match_time": "23:07",
+      "match_highlight": "Chivas chase top seed against Cruz Azul's leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1551045,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Chivas home breakthrough for top seed and a 1:1 stalemate if Cruz Azul protect first place, as a single call ignores Cruz Azul's 1.95 xG attack."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.24 combined lambda, Cruz Azul's 2.31 goals scored per game, and 7 of 8 Cruz Azul away matches clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cruz Azul have zero clean sheets in eight away matches while averaging 1.95 xG, giving both sides clear scoring routes."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges Chivas's 1.52 xG home edge against Cruz Azul's 1.62 road goals conceded, with 1:1 covering the tight containment branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the top two Poisson goal counts (22.2% for 3 goals, 20.6% for 2 goals) across the 2:1 and 1:1 scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Reflects a cagey first half before Chivas accelerate late, or an early home lead pegged back by Cruz Azul's 2.31 GF/g attack."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 15:33:12 UTC"
+}
