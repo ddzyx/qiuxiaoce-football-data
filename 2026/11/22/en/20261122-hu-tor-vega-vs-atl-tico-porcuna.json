@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615251,
+    "matchup": "Huétor Vega vs Atlético Porcuna",
+    "home_team": "Huétor Vega",
+    "away_team": "Atlético Porcuna",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-hu-tor-vega-vs-atl-tico-porcuna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Huétor Vega vs Atlético Porcuna Tactical Breakdown & Probabilistic Modeling: Wide Absences Test Home Edge",
+    "meta": {
+      "matchId": "1615251",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Huétor Vega vs Atlético Porcuna",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Huétor Vega is projected to claim a narrow home victory or share the points against an equally ranked Atlético Porcuna side.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Huétor Vega's 1.54 home lambda and Dani Salvatierra's return (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 2.95 combined lambda and both clubs conceding over 1.6 goals per game (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) supported by 78.6% home and 75.6% away Poisson scoring expectations (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615251",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Huétor Vega",
+      "awayTeam": "Atlético Porcuna",
+      "match_time": "11:00",
+      "match_highlight": "Salvatierra returns while missing home wingers test Porcuna's leaky defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615251,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough against Porcuna's 1.82 GA/match defense and the 1:1 stalemate script if missing home wingers blunt flank creation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined Poisson expectancy of 2.95 goals (56.6% Over 2.5) aligns with both teams conceding 1.64 and 1.82 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "High scoring probabilities (78.6% home, 75.6% away) meet low clean-sheet projections (24.4% and 21.4%) across both fragile defenses."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects the aggregated home edge and Over 2.5 expectancy, while 1:1 captures the highest single-cell Poisson draw density (11.4%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) matches the primary 2:1 script, with 2 goals (22.8%) protecting the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Missing home wingers point to a level first half before Huétor Vega either breaks through late (Draw-Win) or settles for a draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:41:50 UTC"
+}
