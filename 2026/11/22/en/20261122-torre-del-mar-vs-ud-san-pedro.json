@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615257,
+    "matchup": "Torre del Mar vs UD San Pedro",
+    "home_team": "Torre del Mar",
+    "away_team": "UD San Pedro",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-torre-del-mar-vs-ud-san-pedro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Torre del Mar vs UD San Pedro Tactical Breakdown: Can Home Defense Hold Off Bodipo's Attack?",
+    "meta": {
+      "matchId": "1615257",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Torre del Mar vs UD San Pedro",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win is projected in a restrained, Under 2.5 contest anchored by 0:1 and 1:1 scorelines.",
+    "possibilityAssessment": [
+      "Draw / Away Win pairs UD San Pedro's superior 1.36 goals-per-game output against their 1W-4L away fragility (Confidence: Low, Value: Moderate)",
+      "Under 2.5 reflects a low 2.27 combined goal expectancy and Torre del Mar's 0.82 goals-per-game home ceiling (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No captures Torre del Mar's repeated home scoring blanks and 54.0% Poisson clean-sheet bias (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615257",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Torre del Mar",
+      "awayTeam": "UD San Pedro",
+      "match_time": "11:00",
+      "match_highlight": "San Pedro's away leaks meet Torre del Mar's blunt home attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1615257,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers UD San Pedro's 0:1 attacking edge while retaining the 1:1 draw script given their 1W-4L road record and unverified matchday squads."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.27 combined goal lambda (60.4% Poisson Under 2.5) and Torre del Mar's 0.82 goals scored per match."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Torre del Mar's 0.82 seasonal scoring rate and recent home blanks align with the 54.0% Poisson BTTS No projection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects San Pedro's higher attacking efficiency over a low-scoring host, while 1:1 covers their persistent road concessions."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.6%) and one goal (23.5%) represent the top two outcomes in the Poisson total-goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts project a cautious level first half before either San Pedro find a second-half winner or the sides share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:53:35 UTC"
+}
