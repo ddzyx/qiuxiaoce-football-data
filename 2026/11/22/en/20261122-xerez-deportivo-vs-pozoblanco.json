@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615564,
+    "matchup": "Xerez Deportivo vs Pozoblanco",
+    "home_team": "Xerez Deportivo",
+    "away_team": "Pozoblanco",
+    "league": "Tercera División RFEF - Group 10",
+    "kickoff_utc": "2026-11-22 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-xerez-deportivo-vs-pozoblanco/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Xerez Deportivo vs Pozoblanco Tactical Breakdown & Probabilistic Modeling: Chapin Return vs Scoring Run",
+    "meta": {
+      "matchId": "1615564",
+      "league": "Tercera División RFEF - Group 10",
+      "matchup": "Xerez Deportivo vs Pozoblanco",
+      "matchTime": "2026-11-22 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Home Win / Draw alongside Under 2.5 and BTTS: Yes as Xerez Deportivo return to Chapin against scoring yet winless Pozoblanco.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers Xerez Deportivo's tighter defensive control and Pozoblanco's frequent stalemates (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with the 52.3% Poisson threshold and Xerez Deportivo's recent 1:0 and 0:0 matches (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes reflects Pozoblanco's seven-game scoring streak against a host with modest 28.1% clean-sheet projection (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615564",
+      "league": "Tercera División RFEF - Group 10",
+      "homeTeam": "Xerez Deportivo",
+      "awayTeam": "Pozoblanco",
+      "match_time": "11:30",
+      "match_highlight": "Xerez return to Chapin against scoring yet winless Pozoblanco.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615564,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers both a 1:1 stalemate—the top Poisson scoreline—and a 2:1 Xerez win, since a single Home Win leaves Pozoblanco's four draws in six games unprotected."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Under 2.5 holds 52.3% Poisson probability as Xerez average 1.27 goals scored and 1.09 conceded across 11 matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "BTTS Yes (52.5%) reflects Pozoblanco's seven-game scoring streak and 1.45 goals per game meeting a 27.0% visiting clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.6%, while 2:1 captures Xerez Deportivo edging a three-goal script against a leaky defense."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.2%) and 3 goals (21.7%) represent the two highest-density totals around the 2.58 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a patient second-half Xerez breakthrough, while Win-Draw covers an early Chapin lead pegged back to 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 09:43:00 UTC"
+}
