@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1617703,
+    "matchup": "Cuarte vs Binéfar",
+    "home_team": "Cuarte",
+    "away_team": "Binéfar",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-cuarte-vs-bin-far/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cuarte vs Binéfar Prediction & Match Analysis: Can Chus Herrero's Attack Crack a Tightening Visitor?",
+    "meta": {
+      "matchId": "1617703",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Cuarte vs Binéfar",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cuarte's superior 11-match goal differential and second-half scoring surge support a Home Win / Draw projection led by a 2:1 home victory with 1:1 as the primary draw alternative.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Cuarte's +8 goal difference and 69.0% combined Poisson win-or-draw baseline against Binéfar's five-draw league profile (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.05 combined lambda expectancy and Binéfar's 1.55 goals conceded per match across 11 rounds (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes supported by both clubs averaging over 1.60 goals per game and single-side Poisson scoring projections above 74% (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617703",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Cuarte",
+      "awayTeam": "Binéfar",
+      "match_time": "11:00",
+      "match_highlight": "Cuarte's second-half firepower tests Binéfar's three-match unbeaten November streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617703,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Cuarte's primary 2:1 second-half breakthrough and the 1:1 draw script, as high draw rates for both clubs make a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.05 combined lambda total, a 58.8% Poisson Over 2.5 probability, and Binéfar conceding 1.55 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams average above 1.60 goals scored per match and project over 74% single-side scoring probability against sub-41% clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Balances Cuarte's 1.82 vs 1.09 per-match edge for a 2:1 win against the 10.9% modal 1:1 scoreline seen in Cuarte's last two home H2Hs."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson total-goal buckets at 22.4% and 22.0%, aligning directly with the 2:1 and 1:1 projected scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Cuarte's 33.3% first-half goal share and Binéfar's compact starts before diverging on whether Cuarte break through after half-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:21:02 UTC"
+}
