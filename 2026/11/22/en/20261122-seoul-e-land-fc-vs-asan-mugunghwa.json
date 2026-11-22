@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1510506,
+    "matchup": "Seoul E-Land FC vs Asan Mugunghwa",
+    "home_team": "Seoul E-Land FC",
+    "away_team": "Asan Mugunghwa",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-22 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-seoul-e-land-fc-vs-asan-mugunghwa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Seoul E-Land FC vs Asan Mugunghwa Prediction & Match Analysis: Can Asan's Defense Hold?",
+    "meta": {
+      "matchId": "1510506",
+      "league": "K League 2",
+      "matchup": "Seoul E-Land FC vs Asan Mugunghwa",
+      "matchTime": "2026-11-22 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Seoul E-Land FC to win or draw at Mokdong Stadium behind superior home scoring and set-piece output, while respecting Asan Mugunghwa's five-match unbeaten defensive streak.",
+    "possibilityAssessment": [
+      "Primary 1X2 projection: Home Win / Draw, led by Seoul E-Land FC's 64.3% home win rate against a touchline-suspended Asan bench with Draw covering home clean-sheet fragility (Confidence: Moderate, Value: Moderate)",
+      "Total goals and scoring exchange: Over 2.5 and BTTS Yes driven by Seoul E-Land's 78.6% home Over 2.5 and BTTS rate (Confidence: Moderate, Value: High)",
+      "Secondary stalemate contingency: 1:1 Draw reflecting Asan Mugunghwa's 40.0% away draw rate and 0.66 decayed goals conceded over five games (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510506",
+      "league": "K League 2",
+      "homeTeam": "Seoul E-Land FC",
+      "awayTeam": "Asan Mugunghwa",
+      "match_time": "07:30",
+      "match_highlight": "Seoul E-Land chase automatic promotion against coach-less Asan Mugunghwa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510506,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 home-win script driven by Seoul's 64.3% home win rate and set-piece edge alongside a 1:1 draw script given Seoul's 14.3% home clean-sheet rate and Asan's five-match unbeaten run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.84 combined goal expectancy (54.0% Poisson Over 2.5) and Seoul E-Land clearing 2.5 goals in 11 of 14 home matches (78.6%)."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with Seoul's 92.9% home scoring rate and 14.3% home clean-sheet rate alongside a 57.3% Poisson BTTS projection and recent Asan transition scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Seoul's one-goal home winning frequency and porous defense, while 1:1 captures the Poisson modal stalemate if Asan sustains its road discipline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the primary 2:1 projection and Round 33 scoring urgency, with two goals representing the 1:1 Poisson modal fallback."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Asan draws 60.0% of away first halves before Seoul's second-half acceleration converts 83.3% of home HT draws into wins, with Draw-Draw covering road containment."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 01:05:30 UTC"
+}
