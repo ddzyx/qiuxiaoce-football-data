@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552230,
+    "matchup": "Sparta Rotterdam vs AZ Alkmaar",
+    "home_team": "Sparta Rotterdam",
+    "away_team": "AZ Alkmaar",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-22 13:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-sparta-rotterdam-vs-az-alkmaar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sparta Rotterdam vs AZ Alkmaar: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552230",
+      "league": "Eredivisie",
+      "matchup": "Sparta Rotterdam vs AZ Alkmaar",
+      "matchTime": "2026-11-22 13:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Draw / Away Win alongside Over 2.5 Goals and BTTS Yes as AZ Alkmaar's superior xG firepower meets an injury-hit Sparta backline while leaving room for a high-scoring stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes (Confidence: High, Value: High)",
+      "2:2 High-Scoring Draw Contingency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552230",
+      "league": "Eredivisie",
+      "homeTeam": "Sparta Rotterdam",
+      "awayTeam": "AZ Alkmaar",
+      "match_time": "13:30",
+      "match_highlight": "Depleted defenses clash as AZ's 2.36 xG meets Sparta's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552230,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers AZ Alkmaar's primary 1:2 winning projection driven by superior xG and second-half conversion while accounting for a 2:2 draw given AZ's defensive absences and big-chance wastefulness, as a single away call understates Sparta's 2.02 xG home threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.75 combined goal lambda, 72.3% Poisson Over 2.5 expectation, and Sparta's 91.7% Over 2.5 Eredivisie rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sparta have 0% clean sheets in 12 league games while scoring 2.02 xG per match against an AZ defense keeping just 16.7% clean sheets away without Lewis Schouten."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 is the modal Poisson outcome matching AZ's offensive edge over backup keeper Filip Bednarek, while 2:2 captures Sparta's home scoring threat against AZ's absences."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (20.7%) and four (19.4%) goals lead the Poisson goal-count distribution under a 3.75 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "AZ's low 27.3% away first-half goal share and recent 0:0 H2H half-times point to a level interval before AZ's 75% draw-to-win surge or a shared second-half stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:40:26 UTC"
+}
