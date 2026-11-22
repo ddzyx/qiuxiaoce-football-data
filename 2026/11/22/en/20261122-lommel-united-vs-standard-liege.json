@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558687,
+    "matchup": "Lommel United vs Standard Liege",
+    "home_team": "Lommel United",
+    "away_team": "Standard Liege",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-22 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-lommel-united-vs-standard-liege/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lommel United vs Standard Liege Tactical Breakdown: Can Standard's Attack Overcome Absences?",
+    "meta": {
+      "matchId": "1558687",
+      "league": "Jupiler Pro League",
+      "matchup": "Lommel United vs Standard Liege",
+      "matchTime": "2026-11-22 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With identical 1.41 goal lambdas colliding against Standard Liege's Confirmed Out defensive absences and 100% away scoring streak, backing Lommel United or Draw via a 2:1 primary / 1:1 secondary script balances home second-half superiority with road attacking resilience.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Lommel United hold a +113-hour rest edge and face a Standard backline missing Marlon Fossey and Josué Homawoo, while the Draw protects against Standard's 5/5 away scoring floor (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 & BTTS: Yes — Combined 2.82 lambda and Standard's 5/5 away Over 2.5 and BTTS record support a 2:1 multi-goal contest (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Tight 1:1 Stalemate — Lommel's 4/5 home Under 2.5 tendency and Standard's 68.8% big-chance waste rate could cap scoring at two goals (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558687",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Lommel United",
+      "awayTeam": "Standard Liege",
+      "match_time": "18:15",
+      "match_highlight": "Standard's depleted away defense tests Lommel's rested second-half surge.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558687,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Lommel's 2:1 second-half victory against Standard's injury-hit backline and the 1:1 draw driven by Standard's unbroken away scoring streak, avoiding a fragile single call on symmetric 1.41 lambdas."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.82 combined lambda (53.5% Over 2.5 Poisson baseline), Standard's 5/5 away Over 2.5 streak, and Confirmed Out absences of Fossey and Homawoo."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Standard have scored in all 5 away league matches while keeping zero road clean sheets, creating mutual scoring paths alongside the 57.1% Poisson BTTS baseline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Lommel's second-half breakthrough against a depleted road defense, while 1:1 represents the 11.9% modal Poisson draw if home caution limits total output."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary scoreline and Standard's 100% away Over 2.5 record, with 2 goals covering the 23.7% Poisson modal 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs score just 33.3% of league goals before half-time and Lommel convert 60.0% of half-time draws into wins, making a level interval followed by a 2:1 win or 1:1 draw most consistent."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 14:25:24 UTC"
+}
