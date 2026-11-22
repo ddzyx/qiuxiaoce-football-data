@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492460,
+    "matchup": "Atletico Paranaense vs Remo",
+    "home_team": "Atletico Paranaense",
+    "away_team": "Remo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-atletico-paranaense-vs-remo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Atletico Paranaense vs Remo: Expected Goals (xG), Absences & Match Analysis",
+    "meta": {
+      "matchId": "1492460",
+      "league": "Serie A",
+      "matchup": "Atletico Paranaense vs Remo",
+      "matchTime": "2026-11-22 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Atletico Paranaense on Home Win / Draw in a controlled, low-scoring home script led by 2:0 with Under 2.5 goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Home Win / Draw behind Atletico Paranaense's 7W-4D-3L home record and Remo's 73.3% away loss rate, with Draw retained for finishing variance (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle (Value): Under 2.5 Goals driven by Kevin Viveros's suspension, 57.1% home Under 2.5 rate, and Remo's 53.3% away failed-to-score profile (Confidence: Moderate, Value: High)",
+      "Contingency Angle (Hedge / Upset): BTTS: No supported by returning home center-backs Dantas and Arthur Dias against a travel-fatigued Remo side missing Leonel Picco (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492460",
+      "league": "Serie A",
+      "homeTeam": "Atletico Paranaense",
+      "awayTeam": "Remo",
+      "match_time": "19:00",
+      "match_highlight": "Returning home defenders test travel-fatigued Remo while Viveros serves suspension.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492460,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a controlled 2:0 home breakthrough against travel-weary Remo alongside a 1:1 stalemate if Viveros's absence stalls finishing, as a single Home Win ignores the hosts' five-match winless slump."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Atletico Paranaense's 57.1% home Under 2.5 rate, Kevin Viveros's suspension, and Remo's 53.3% away failed-to-score rate cap total goal expectations."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Returning center-backs Dantas and Arthur Dias strengthen a 35.7% home clean-sheet unit against a Remo attack blanked in 8 of 15 away games and missing Leonel Picco."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects late space created by Remo's must-win relegation push, while 1:1 covers home finishing waste without Viveros."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson distribution (24.1%) and matches both 2:0 and 1:1, with 1 goal capturing a tight 1:0 attrition grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Atletico Paranaense are level at half-time in 57.1% of home games before breaking through late in 50% of those stalemates, with Draw-Draw covering persistent finishing frustration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 14:35:03 UTC"
+}
