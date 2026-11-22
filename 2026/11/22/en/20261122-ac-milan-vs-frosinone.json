@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550197,
+    "matchup": "AC Milan vs Frosinone",
+    "home_team": "AC Milan",
+    "away_team": "Frosinone",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-ac-milan-vs-frosinone/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AC Milan vs Frosinone Prediction & Match Analysis: Can Depleted Defense Hold Frosinone's xG?",
+    "meta": {
+      "matchId": "1550197",
+      "league": "Serie A",
+      "matchup": "AC Milan vs Frosinone",
+      "matchTime": "2026-11-22 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "AC Milan's 100% Serie A scoring record and San Siro fast-start profile should overcome Frosinone's 2.03 xGA defense, though centre-back absences warrant retaining the draw in an open, high-scoring contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Milan's San Siro superiority and Frosinone's missing top scorer Raimondo, balanced against Milan's depleted central defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by 3.41 combined lambda and Frosinone's 20.09 shots against 2.03 xGA defensive exposure (Confidence: High, Value: High)",
+      "Both Teams To Score (Yes) driven by Milan's 27.3% clean-sheet rate without Tomori and Gabbia facing Calo and Kvernadze (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550197",
+      "league": "Serie A",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Frosinone",
+      "match_time": "17:00",
+      "match_highlight": "Milan's 100% scoring floor meets Frosinone's 2.03 xGA defensive fragility.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550197,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 2:1 Milan victory driven by Frosinone's 2.03 xGA and Raimondo's absence alongside the 2:2 draw branch caused by Milan missing Tomori and Gabbia."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.41 lambda, Milan's 80% home Over 2.5 rate, and Bet365's 1.36 quote strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Milan have scored in all 11 league matches while keeping just 27.3% clean sheets, meeting a 1.85 xG Frosinone attack."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Milan's class edge against a porous defense, while 2:2 captures second-half exposure without Tomori and Gabbia."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the two peak outcomes inside the Over 2.5 distribution around a 3.41 lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Milan's 80% home half-time lead rate meets Frosinone's 60% away half-time deficit rate, with late defensive fatigue creating the Win-Draw fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:11:16 UTC"
+}
