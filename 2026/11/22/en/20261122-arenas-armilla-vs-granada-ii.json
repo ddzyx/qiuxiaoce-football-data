@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1615250,
+    "matchup": "Arenas Armilla vs Granada II",
+    "home_team": "Arenas Armilla",
+    "away_team": "Granada II",
+    "league": "Tercera División RFEF - Group 9",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-arenas-armilla-vs-granada-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arenas Armilla vs Granada II Tactical Breakdown & Probabilistic Modeling: Unbeaten Hosts Test Reserve Wall",
+    "meta": {
+      "matchId": "1615250",
+      "league": "Tercera División RFEF - Group 9",
+      "matchup": "Arenas Armilla vs Granada II",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Arenas Armilla on the Home Win / Draw double-result trajectory in a disciplined, sub-2.5-goal provincial derby.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by 1.19 vs 0.91 goal-expectancy balance (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals centered on 2 or 1 total goals (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No supported by 58.4% Poisson shutout projection (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1615250",
+      "league": "Tercera División RFEF - Group 9",
+      "homeTeam": "Arenas Armilla",
+      "awayTeam": "Granada II",
+      "match_time": "11:00",
+      "match_highlight": "Unbeaten Arenas Armilla attack tests Granada II's tight 0.64 conceded defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1615250,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:0 home breakthrough and the 1:1 stalemate, as a single win call underweights Arenas Armilla's 45.5% draw rate against a 0.64-GA defense."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.10 combined Poisson lambda (65.0% Under 2.5) and both teams' sub-1.0 goals-conceded averages."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by a 58.4% Poisson BTTS-No projection as Granada II's 1.00-goal attack meets an unbeaten host conceding 0.82 per match."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top two Poisson scorelines (14.6% and 13.3%), pairing a narrow home shutout with a shared-points stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Captures the 52.7% combined Poisson density across 1-goal and 2-goal scripts in a compact tactical contest."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects an organized scoreless first half before either a second-half home breakthrough or a sustained full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 04:38:18 UTC"
+}
