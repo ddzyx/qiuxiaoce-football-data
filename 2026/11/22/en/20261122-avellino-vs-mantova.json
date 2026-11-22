@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601605,
+    "matchup": "Avellino vs Mantova",
+    "home_team": "Avellino",
+    "away_team": "Mantova",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-22 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-avellino-vs-mantova/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Avellino vs Mantova Prediction & Match Analysis: Can Depleted Hosts Hold Unbeaten Visitors?",
+    "meta": {
+      "matchId": "1601605",
+      "league": "Serie B",
+      "matchup": "Avellino vs Mantova",
+      "matchTime": "2026-11-22 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Probabilistic modeling and squad availability converge on a competitive stalemate or narrow away victory (Draw / Away Win) in a low-total contest where both sides find the net.",
+    "possibilityAssessment": [
+      "Primary Result Direction — Draw / Away Win leaning toward a 1:1 stalemate, supported by balanced 2.41 combined expected goals and Mantova's unbeaten away resilience (Confidence: Moderate, Value: High)",
+      "Total Goals & BTTS — Under 2.5 paired with Both Teams To Score (Yes), reflecting 63.6% season Under 2.5 rates alongside 80% away BTTS frequency for Mantova (Confidence: Moderate, Value: High)",
+      "Alternative Match Script — 1:2 away win and Loss-Loss transition if Mantova capitalizes early on host defensive disruption (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601605",
+      "league": "Serie B",
+      "homeTeam": "Avellino",
+      "awayTeam": "Mantova",
+      "match_time": "14:00",
+      "match_highlight": "Mantova's unbeaten road attack tests Avellino's depleted goalkeeping and defensive spine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601605,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the modal 1:1 draw and a 1:2 Mantova road win because five verified host absences neutralize home advantage while neither defense reliably keeps clean sheets."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.41 combined lambda, 56.7% Poisson Under probability, 63.6% season Under 2.5 rates for both teams, and Bet365's 1.85 Under pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Mantova have scored in all 5 away games (80% road BTTS) against an Avellino side missing GK Iannarilli and CB Simic, while Avellino have scored in 10 of 11 against Mantova's 1.42 xGA."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 is the top Poisson density (13.0%) matching Avellino's recent stalemate pattern, while 1:2 captures Mantova capitalizing on host defensive absences."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the 26.1% Poisson mode around 1:1, with three goals covering the secondary 1:2 away-win branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Draw reflects two 0:0 half-time H2H precedents and Avellino's 100% draw retention from level intervals, while Loss-Loss covers Mantova's 80% away half-time lead rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:44:20 UTC"
+}
