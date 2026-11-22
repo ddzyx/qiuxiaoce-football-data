@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1572439,
+    "matchup": "Reddis vs Olot",
+    "home_team": "Reddis",
+    "away_team": "Olot",
+    "league": "Segunda División RFEF - Group 2",
+    "kickoff_utc": "2026-11-22 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-reddis-vs-olot/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Reddis vs Olot Tactical Breakdown & Probabilistic Modeling: Cup Fatigue vs Squad Absences",
+    "meta": {
+      "matchId": "1572439",
+      "league": "Segunda División RFEF - Group 2",
+      "matchup": "Reddis vs Olot",
+      "matchTime": "2026-11-22 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Olot's superior away efficiency and fresher league legs favor a Draw / Away Win outcome in a compressed, low-scoring Under 2.5 and BTTS: No contest.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Olot's 3W-1D-1L road record and rotated midweek schedule give them the upper hand late, though four confirmed absences keep a stalemate live (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No: Supported by a 2.27 standings-derived lambda total, 60.4% Poisson Under 2.5 expectation, and four straight low-scoring head-to-head shutouts (Confidence: Moderate, Value: High)",
+      "Second-Half Breakthrough Hedge: Reddis's 88-hour turnaround from 120 Copa del Rey minutes leaves them vulnerable to a late 0:1 concession after a tight opening hour (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1572439",
+      "league": "Segunda División RFEF - Group 2",
+      "homeTeam": "Reddis",
+      "awayTeam": "Olot",
+      "match_time": "11:30",
+      "match_highlight": "Fatigued Reddis host injury-hit Olot in a tight tactical battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1572439,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 away win driven by Olot's fresher starters and a 0:0 draw caused by their four confirmed absences and Reddis's compact home structure, whereas a single Away Win leaves too little margin for Olot's recent scoring drought."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.27 total lambda (60.4% Under 2.5 baseline), Reddis's 72.7% season Under 2.5 rate, Olot's five Under 2.5s in their last six league games, and four consecutive Under 2.5 meetings."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Reddis average just 0.80 home goals per league match against an Olot defense with four clean sheets in five games, while Olot failed to score in three of their last five league outings without Mario Rodríguez and Gil Muntadas."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Projects either a late 0:1 away breakthrough against tired Copa del Rey legs or a 0:0 stalemate if Olot's depleted attack fails to unlock Reddis's compact home block."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "A single decisive strike leads the compressed goal distribution ahead of a two-goal branch, consistent with recent 1:0 league wins and historical H2H margins."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reddis's early organization and Olot's depleted attack point toward a level first half, leaving the decisive fork between a late Olot winner and a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:59:47 UTC"
+}
