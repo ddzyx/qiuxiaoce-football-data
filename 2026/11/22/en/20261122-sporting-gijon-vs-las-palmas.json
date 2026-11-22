@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570031,
+    "matchup": "Sporting Gijon vs Las Palmas",
+    "home_team": "Sporting Gijon",
+    "away_team": "Las Palmas",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-22 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-sporting-gijon-vs-las-palmas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sporting Gijon vs Las Palmas: Expected Goals, Lineup Crisis & Match Analysis",
+    "meta": {
+      "matchId": "1570031",
+      "league": "Segunda División",
+      "matchup": "Sporting Gijon vs Las Palmas",
+      "matchTime": "2026-11-22 15:15 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Sporting Gijon's eight-player absence crisis shifts the balance toward Draw / Away Win in a tight Under 2.5 contest where both depleted back lines concede.",
+    "possibilityAssessment": [
+      "Draw / Away Win holds the highest risk-adjusted support as Las Palmas's intact playmakers exploit a Sporting spine missing Corredera, Otero, and Sarco (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with the 50.8% Poisson lean, 1.80 market pricing, and Sporting's depleted attacking depth (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) reflects 28.6% venue clean-sheet rates and key defensive absences on both teams (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570031",
+      "league": "Segunda División",
+      "homeTeam": "Sporting Gijon",
+      "awayTeam": "Las Palmas",
+      "match_time": "15:15",
+      "match_highlight": "Depleted Sporting Gijon face Las Palmas's intact attack at El Molinón.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1570031,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 1:1 stalemate and 1:2 away win because Sporting miss eight key players while Las Palmas's 1.55 xGA allowance prevents a single away selection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a modest 2.64 total lambda, Sporting's 57.1% Under 2.5 rate, and severe attacking absences limiting scoring ceiling."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs post 28.6% venue clean-sheet rates and miss key defensive or holding personnel while maintaining credible scoring routes."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads as the Poisson mode (12.4%) matching Under 2.5 and BTTS Yes, while 1:2 covers Las Palmas's strong second-half away scoring threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (24.9%) and 3 goals (21.9%) represent the two highest-probability Poisson totals aligned with the 1:1 and 1:2 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "A tight first half reflects Sporting's depleted build-up and Las Palmas's 63.6% second-half away scoring split before either holding at 1:1 or breaking for 1:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 12:54:16 UTC"
+}
