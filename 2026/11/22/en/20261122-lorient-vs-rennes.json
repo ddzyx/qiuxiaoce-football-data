@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552821,
+    "matchup": "Lorient vs Rennes",
+    "home_team": "Lorient",
+    "away_team": "Rennes",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-22 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261122-lorient-vs-rennes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Lorient vs Rennes: Expected Goals, Touré Absence & Match Intelligence",
+    "meta": {
+      "matchId": "1552821",
+      "league": "Ligue 1",
+      "matchup": "Lorient vs Rennes",
+      "matchTime": "2026-11-22 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lorient avoids defeat via a narrow 2:1 win or 1:1 draw as Rennes' 2.34 xGA road vulnerability offsets Isaak Touré's absence.",
+    "possibilityAssessment": [
+      "Lorient Home Win / Draw driven by 1.12 xGA defensive structure vs Rennes' zero away clean sheets (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes anchored by Rennes' 2.14 xG attack and mutual defensive openings (Confidence: Moderate, Value: Moderate)",
+      "1:1 Score-Draw contingency if Lorient's 83.3% big-chance waste rate limits attacking output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552821",
+      "league": "Ligue 1",
+      "homeTeam": "Lorient",
+      "awayTeam": "Rennes",
+      "match_time": "16:15",
+      "match_highlight": "Touré's absence tests Lorient's compact backline against Rennes' high-xG attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552821,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Lorient's 2:1 home-win script against Rennes' 2.34 xGA road defense and the 1:1 draw branch because Touré's absence plus Lorient's finishing waste make a single call narrower than the balanced Poisson split."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.95 combined lambda, Rennes' 90% Over 2.5 rate (2.14 xG, 2.34 xGA), and Lorient missing key center-back Souleymane Isaak Touré."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Rennes scores 2.10 goals per game while conceding 2.34 xGA with zero away clean sheets, and Touré's absence compromises Lorient's shutout structure."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Lorient exploiting Rennes' leaky road defense while conceding without Touré, with 1:1 covering Lorient's high big-chance waste rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the primary 2:1 open-exchange projection, while two goals cover the tighter 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Lorient draws 60% of first halves before striking late for Draw-Win, while Win-Draw covers Lorient leading early against slow-starting Rennes before conceding to late bench impact."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:59:24 UTC"
+}
