@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649568,
+    "matchup": "Instituto Cordoba vs Huracan",
+    "home_team": "Instituto Cordoba",
+    "away_team": "Huracan",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-23 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-instituto-cordoba-vs-huracan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Instituto Cordoba vs Huracan Prediction & Match Analysis: Can Huracan Break 0.59 xGA? — xG Preview",
+    "meta": {
+      "matchId": "1649568",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Instituto Cordoba vs Huracan",
+      "matchTime": "2026-11-23 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Instituto Cordoba's restored 0.59 xGA per match defensive core holds the structural upper hand over Huracan's low-output road attack in a tight, low-scoring knockout tie.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Instituto's 85.7% home unbeaten rate and Huracan's 46.7% away blank rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.10 lambda total and Huracan's 80.0% away Under 2.5 trend (Confidence: High, Value: Moderate)",
+      "1:1 draw contingency driven by Instituto's 33.3% home lead-not-won rate against Huracan's transition counters (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649568",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Instituto Cordoba",
+      "awayTeam": "Huracan",
+      "match_time": "01:00",
+      "match_highlight": "Restored Instituto defense meets Huracan's 46.7% away scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649568,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 home win driven by Instituto's 0.59 xGA prevention alongside a 1:1 draw script given Huracan's 40.0% away clean-sheet resilience and Instituto's high chance waste."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.10 lambda total (65.0% Poisson Under 2.5), low combined xG averages, and Huracan's 80.0% away Under 2.5 frequency."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by Instituto's 0.59 xGA per match against a Huracan attack averaging 0.77 xG per game that failed to score in 46.7% of away league fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Instituto's 50.0% one-goal home win rate and defensive containment, while 1:1 covers Huracan snatching a late equalizer if Instituto wastes big chances."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Reflects the tightest Poisson density around one-goal and two-goal regulation scripts under single-elimination caution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides draw half-time over 50% of the time with low first-half goal shares before Instituto either breaks through late (71.4% home Draw-Win conversion) or Huracan holds for 90 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 16:10:28 UTC"
+}
