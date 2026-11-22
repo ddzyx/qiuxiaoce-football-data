@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557472,
+    "matchup": "Hull City vs Brighton",
+    "home_team": "Hull City",
+    "away_team": "Brighton",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-22 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-hull-city-vs-brighton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Hull City vs Brighton: Expected Goals (xG), Midfield Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1557472",
+      "league": "Premier League",
+      "matchup": "Hull City vs Brighton",
+      "matchTime": "2026-11-22 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brighton is projected to earn an Away Win over Hull City in a competitive, goal-producing contest shaped by superior visiting chance creation.",
+    "possibilityAssessment": [
+      "Away Win for Brighton driven by superior attacking metrics and second-half finishing strength (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.75 total lambda and 1.46-1.47 xGA across both defenses (Confidence: Moderate, Value: Moderate)",
+      "Secondary 0:2 clean-sheet away victory branch if Hull City's 53.3% big-chance waste rate stalls home transitions (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557472",
+      "league": "Premier League",
+      "homeTeam": "Hull City",
+      "awayTeam": "Brighton",
+      "match_time": "14:00",
+      "match_highlight": "Brighton's 2.13 xG firepower tests Hull's unbeaten home block and depleted midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557472,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Brighton's 2.13 xG output and +241 Elo edge project a 1:2 away win against Hull City's injury-hit midfield."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.75 lambda total, Brighton's 2.60 goals per game, and ~1.46 xGA on both sides align with market backing for Over 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Brighton's 1.46 xGA per match exposes their clean-sheet run to a Hull side that has scored in 4 of 5 home league games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Brighton's second-half dominance alongside Hull's home scoring threat, while 0:2 covers the visiting shutout branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 1:2 expectation near the 2.75 lambda, while 2 goals aligns with the 24.2% modal Poisson count and 0:2 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Brighton's 72.7% second-half away goal share favors Draw-Loss after early home resistance, with Loss-Loss covering fast away control."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:47:07 UTC"
+}
