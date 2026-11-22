@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1571217,
+    "matchup": "Alcorcon vs Algeciras",
+    "home_team": "Alcorcon",
+    "away_team": "Algeciras",
+    "league": "Primera División RFEF - Group 2",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-alcorcon-vs-algeciras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Alcorcon vs Algeciras Tactical Breakdown & Probabilistic Modeling: Transition Vulnerability Test",
+    "meta": {
+      "matchId": "1571217",
+      "league": "Primera División RFEF - Group 2",
+      "matchup": "Alcorcon vs Algeciras",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Alcorcon's strong Santo Domingo scoring output and Algeciras's porous away defense favor a narrow home victory in a competitive, goal-producing contest, with the draw retained as secondary protection.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes supported by 3.08 combined lambda and mutual clean-sheet fragility (Confidence: Moderate, Value: Moderate)",
+      "1:1 tactical stalemate if Colunga's midfield trio successfully slows tempo (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1571217",
+      "league": "Primera División RFEF - Group 2",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Algeciras",
+      "match_time": "11:00",
+      "match_highlight": "Unbeaten Alcorcon attack tests Algeciras's leaky road defense at Santo Domingo.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1571217,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains the leading 2:1 home-win script alongside the 1:1 draw branch because Alcorcon's 50% season draw rate and Algeciras's 1.50 road scoring floor make a single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.08 combined lambda (59.4% Poisson Over 2.5), Alcorcon's 2.17 home goals per game, and Algeciras's 2.17 goals conceded per away match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 60.8% Poisson BTTS projection, Alcorcon's 82.6% scoring expectancy, and Algeciras's 73.6% scoring expectancy against a home defense averaging 1.17 conceded per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Alcorcon's Santo Domingo attacking edge against Algeciras's away defensive leakage while respecting Algeciras's road scoring floor, with 1:1 covering the tightest draw script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (21.8%) lead the Poisson total-goal distribution around the 3.08 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Algeciras's compact three-man midfield projects a level interval before Alcorcon's second-half acceleration either forces a 2:1 win or stalls into a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:49:32 UTC"
+}
