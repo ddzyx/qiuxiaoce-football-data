@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570455,
+    "matchup": "Barcelona vs Villarreal",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-22 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-barcelona-vs-villarreal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Barcelona vs Villarreal Prediction & Match Analysis: Can High-Line Visitors Contain Yamal? — xG Preview",
+    "meta": {
+      "matchId": "1570455",
+      "league": "La Liga",
+      "matchup": "Barcelona vs Villarreal",
+      "matchTime": "2026-11-22 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barcelona hold a decisive attacking and territorial edge at Spotify Camp Nou to claim an ordinary Home Win in an open, multi-goal contest where Villarreal still carry enough transition threat to score.",
+    "possibilityAssessment": [
+      "Home Win — Barcelona's 3.30 xG/match attack with Yamal, Raphinha, Fermín, and Olmo exploits a high-line Villarreal defense carrying a 0.0% away clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes — Combined 3.87 goal lambda, 91.7% Barcelona Over 2.5 rate, and absences to Rodri and Christensen point to goals at both ends in a 3:1 or 2:1 script (Confidence: High, Value: Moderate)",
+      "Villarreal 1-Goal Margin Resistance (2:1) — Villarreal's five single-goal league defeats and Barcelona's midweek Baku travel could moderate the winning margin to a single goal (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570455",
+      "league": "La Liga",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Villarreal",
+      "match_time": "13:00",
+      "match_highlight": "Barcelona's 3.30 xG attack tests Villarreal's bold high defensive line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570455,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Barcelona's 3.30 xG firepower and 83.3% 2+ goal win rate outweigh defensive absences against a 0% away clean-sheet Villarreal side, projecting a 3:1 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.87 goal lambda, Barcelona's 91.7% Over 2.5 rate, and Villarreal's 2.02 xG/match high-line approach strongly support three or more total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Villarreal's 2.02 xG attack faces a Barcelona defense with a 33.3% clean-sheet rate missing Rodri and Christensen, while Barcelona have scored in 100% of league matches."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 captures Barcelona's multi-goal home superiority alongside a Villarreal transition reply, while 2:1 covers Villarreal's consistent one-goal defeat margin."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Poisson total-goal density concentrates sharply on 3 goals (20.2%) and 4 goals (19.5%) around a 3.87 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Barcelona have led at half-time in 83.3% of home league matches with zero dropped leads (Win-Win), while Villarreal's 66.7% HT draw rate makes a second-half breakthrough (Draw-Win) the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 10:31:24 UTC"
+}
