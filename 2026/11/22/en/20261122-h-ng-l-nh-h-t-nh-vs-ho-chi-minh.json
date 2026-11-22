@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1633940,
+    "matchup": "Hồng Lĩnh Hà Tĩnh vs Ho Chi Minh",
+    "home_team": "Hồng Lĩnh Hà Tĩnh",
+    "away_team": "Ho Chi Minh",
+    "league": "V.League 1",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-h-ng-l-nh-h-t-nh-vs-ho-chi-minh/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hồng Lĩnh Hà Tĩnh vs Ho Chi Minh Prediction & Match Analysis: Fresh Hosts Test Diles' Block",
+    "meta": {
+      "matchId": "1633940",
+      "league": "V.League 1",
+      "matchup": "Hồng Lĩnh Hà Tĩnh vs Ho Chi Minh",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling favors a low-scoring Home Win / Draw and Under 2.5 projection as rested Hồng Lĩnh Hà Tĩnh test a compact Ho Chi Minh side returning 96 hours after continental action.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by equal 1.15 goal lambdas and the hosts' 16-day recovery edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals backed by 59.6% Poisson probability and four consecutive low-scoring head-to-head meetings (Confidence: Moderate, Value: High)",
+      "BTTS: No supported by 53.3% Poisson expectancy and Ho Chi Minh's 0.86 goals-conceded-per-game defensive organization (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1633940",
+      "league": "V.League 1",
+      "homeTeam": "Hồng Lĩnh Hà Tĩnh",
+      "awayTeam": "Ho Chi Minh",
+      "match_time": "11:00",
+      "match_highlight": "Rested Hà Tĩnh attack tests Diles' tired road block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1633940,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the 1:0 rested-host victory and 1:1 tactical stalemate scripts because equal 1.15 lambdas and Ho Chi Minh's 0.86 GA/gm defense make a single outcome call unnecessarily fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.30 combined lambda, 59.6% Poisson Under 2.5 share, five of Ho Chi Minh's last six league games under 2.5, and four straight sub-2.5 head-to-head results."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Reflects Ho Chi Minh's 0.86 GA/gm structure, Patrik Lê Giang's clean-sheet form against Buriram, and the visitors' three-goal output across four away league matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Balances a narrow 1:0 home win driven by second-half freshness against the 1:1 modal Poisson scoreline (13.3%) if Ho Chi Minh exploit Hà Tĩnh's 1.29 GA/gm vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Captures the top two Poisson total-goal densities at 26.5% and 23.1%, covering both the 1:1 deadlock and 1:0 narrow victory."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a level, low-event opening half before Ho Chi Minh's 96-hour fatigue decides whether Hà Tĩnh break through late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:39:18 UTC"
+}
