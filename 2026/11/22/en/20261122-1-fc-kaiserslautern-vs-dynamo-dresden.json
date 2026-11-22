@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576237,
+    "matchup": "1. FC Kaiserslautern vs Dynamo Dresden",
+    "home_team": "1. FC Kaiserslautern",
+    "away_team": "Dynamo Dresden",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-22 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-1-fc-kaiserslautern-vs-dynamo-dresden/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Kaiserslautern vs Dynamo Dresden Prediction & Match Analysis: Clean-Sheet Steel Meets Away Fragility",
+    "meta": {
+      "matchId": "1576237",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Kaiserslautern vs Dynamo Dresden",
+      "matchTime": "2026-11-22 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Side with 1. FC Kaiserslautern to avoid defeat (Home Win / Draw) in a tight, under-2.5-goal contest anchored by home defensive structure and away defensive absences.",
+    "possibilityAssessment": [
+      "Home Win / Draw driven by Kaiserslautern's intact back three and Dresden's winless away record, tempered by Ritter and Prtajin's absences (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 supported by a 2.36 total lambda, 58.0% Poisson probability, and Kaiserslautern's seven Under 2.5 results in 11 league matches (Confidence: Moderate, Value: High)",
+      "BTTS: No backed by Kaiserslautern's four clean sheets in five home fixtures and missing home attacking spine (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576237",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Kaiserslautern",
+      "awayTeam": "Dynamo Dresden",
+      "match_time": "12:30",
+      "match_highlight": "Depleted Kaiserslautern attack tests winless Dresden's patched-up away defence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576237,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 home grind over winless away travellers missing three defenders and a 1:1 stalemate if Ritter and Prtajin's absences blunt home finishing."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.36 total lambda, 58.0% Poisson projection, Kaiserslautern's 0.64 conceded average, and key home attacking absences."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kaiserslautern have kept clean sheets in 8 of 11 league matches (4 of 5 at home) while failing to score in 5 of 11, favoring at least one shutout."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Co-leaders in the Poisson matrix at 12.8% each, reflecting a narrow home shutout victory or a single-goal stalemate if Dresden test FCK's 1.54 xGA."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two aggregate probabilities in the Poisson distribution (26.3% and 22.3%), aligning directly with 1:0, 2:0, and 1:1 game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Kaiserslautern score 70% of their goals after half-time and hold a 15-day rest edge against an away side that has collapsed on every road lead, making a level interval followed by a home breakthrough or stalemate most plausible."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 11:48:15 UTC"
+}
