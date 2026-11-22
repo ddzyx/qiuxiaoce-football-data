@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1617704,
+    "matchup": "Ejea vs Huesca II",
+    "home_team": "Ejea",
+    "away_team": "Huesca II",
+    "league": "Tercera División RFEF - Group 17",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-ejea-vs-huesca-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ejea vs Huesca II Prediction & Match Analysis: Can Ejea Crack Huesca II's Defense? — Preview",
+    "meta": {
+      "matchId": "1617704",
+      "league": "Tercera División RFEF - Group 17",
+      "matchup": "Ejea vs Huesca II",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home resilience at Municipal de Luchán gives Ejea the slight edge against Huesca II's 0.64 goals-conceded-per-game defense in a tight encounter suited to Home Win / Draw and Under 2.5.",
+    "possibilityAssessment": [
+      "Ejea Win or Draw driven by home attacking output and Huesca II's draw-heavy defensive discipline (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals anchored by 2.41 combined lambda and Huesca II's 0.64 GA/pg containment (Confidence: Moderate, Value: Moderate)",
+      "2:1 home breakthrough if second-half pressure cracks Huesca II's block after a tight opening half (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1617704",
+      "league": "Tercera División RFEF - Group 17",
+      "homeTeam": "Ejea",
+      "awayTeam": "Huesca II",
+      "match_time": "11:00",
+      "match_highlight": "Ejea's 1.82 goals/game attack tests Huesca II's 0.64 GA/game wall.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1617704,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Ejea's 1.82 goals-per-game home firepower supports a narrow 2:1 win, while Huesca II's 0.64 GA/game defense and five league draws keep 1:1 too live for a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.41 combined lambda and Huesca II's 0.64 goals-conceded-per-game record push total scoring expectancy to a 56.7% Under 2.5 lean."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ejea's 1.82 GF/pg offense meets their own 1.27 GA/pg vulnerability, giving both attacks (~70% Poisson scoring probability each) a clear route onto the scoresheet."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 is the modal Poisson outcome at 13.0% given Huesca II's defensive structure, with 2:1 covering a late home breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals holds the highest Poisson share at 26.1%, with three goals (21.0%) covering the secondary 2:1 branch if the second half opens."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Huesca II's compact defense favors a level first half before Ejea either accelerate late for a home win or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:25:06 UTC"
+}
