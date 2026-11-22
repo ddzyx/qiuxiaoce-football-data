@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1565530,
+    "matchup": "Dynamo Kyiv vs Obolon'-Brovar",
+    "home_team": "Dynamo Kyiv",
+    "away_team": "Obolon'-Brovar",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-22 11:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-dynamo-kyiv-vs-obolon-brovar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dynamo Kyiv vs Obolon'-Brovar Prediction & Match Analysis: Can Low-Scoring Visitors Break Through?",
+    "meta": {
+      "matchId": "1565530",
+      "league": "Premier League",
+      "matchup": "Dynamo Kyiv vs Obolon'-Brovar",
+      "matchTime": "2026-11-22 11:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dynamo Kyiv's 1.45-to-0.45 league scoring superiority and 264-point Elo advantage point toward a controlled clean-sheet home victory.",
+    "possibilityAssessment": [
+      "Home Win — Dynamo Kyiv combine superior squad depth, set-piece threat, and 0.82 goals conceded per match against Obolon'-Brovar's 1.64 road-vulnerable concession rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals & BTTS: No — Combined standings lambda of 2.18 and Obolon'-Brovar's 0.45 goals-per-match output concentrate probability on a 1:0 or 2:0 home shutout (Confidence: Moderate, Value: High)",
+      "1:0 / 2:0 Margin Band — Accounts for Dynamo Kyiv's 58.3% big-chance missed ratio and patience required to break a compact five-draw visitor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1565530",
+      "league": "Premier League",
+      "homeTeam": "Dynamo Kyiv",
+      "awayTeam": "Obolon'-Brovar",
+      "match_time": "11:00",
+      "match_highlight": "Dynamo Kyiv seek clinical finishing against Obolon's league-worst attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1565530,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A single Home Win reflects Dynamo Kyiv's 1.45-to-0.45 league scoring gap and 59.1% Poisson win projection, supported by 1:0 and 2:0 shutout scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Total goal expectancy of 2.18 (62.8% Under 2.5 baseline) aligns with Obolon'-Brovar's five-goal season output and Dynamo's 58.3% big-chance waste rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Obolon'-Brovar average 0.45 goals per match (47.3% Poisson scoring chance) against Dynamo Kyiv's 0.82 goals conceded per game and 52.7% clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "1:0 (17.4%) and 2:0 (13.4%) are the top Poisson densities, balancing Dynamo's territorial control with Obolon'-Brovar's low scoring floor."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.9%) and 1 goal (24.6%) lead the Poisson total-goal distribution under a projected low-scoring home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Dynamo Kyiv drew half-time in 3 of 4 tracked league matches (28.6% first-half goal share) before winning late, with Win-Win covering an early breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 02:13:44 UTC"
+}
