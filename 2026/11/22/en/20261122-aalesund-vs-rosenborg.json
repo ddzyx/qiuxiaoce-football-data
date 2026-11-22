@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494804,
+    "matchup": "Aalesund vs Rosenborg",
+    "home_team": "Aalesund",
+    "away_team": "Rosenborg",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-22 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-aalesund-vs-rosenborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Aalesund vs Rosenborg Prediction & Match Analysis: Can Hosts Contain Chiakha? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1494804",
+      "league": "Eliteserien",
+      "matchup": "Aalesund vs Rosenborg",
+      "matchTime": "2026-11-22 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rosenborg are projected to earn an away victory in an open, both-teams-to-score contest driven by their superior attacking quality and Aalesund's 2.34 xGA per match allowance.",
+    "possibilityAssessment": [
+      "Away Win — Rosenborg's intact central spine and 1.96 xG/match exploit Aalesund's porous backline (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Combined 3.65 expected-goal lambda and 76.9% home Over 2.5 frequency point to 3+ goals (Confidence: High, Value: Moderate)",
+      "BTTS Yes — Aalesund's 13-match home scoring streak sustains a clear consolation route despite defeat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494804",
+      "league": "Eliteserien",
+      "homeTeam": "Aalesund",
+      "awayTeam": "Rosenborg",
+      "match_time": "16:00",
+      "match_highlight": "Aalesund home scoring streak meets Rosenborg firepower and 2.34 xGA leaks.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494804,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Rosenborg's 1.96 xG/match and four-game winning surge project to outscore Aalesund's leaky defense in a 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.65 combined goal lambda and Aalesund's 2.34 xGA/match align with the 70.6% Poisson Over 2.5 expectation."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aalesund have scored in all 13 home league games while keeping just one clean sheet in 25, matching the 68.4% BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Aalesund's home goal floor pairs with Rosenborg's multi-goal away winning profile to center projections on 1:2 and 1:3."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.1%) and four goals (19.2%) lead the Poisson total distribution under open relegation-battle game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Aalesund's 53.8% home half-time draw rate and Rosenborg's second-half away acceleration favor Draw-Loss, with an early visitors' lead producing Loss-Loss."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 13:10:02 UTC"
+}
