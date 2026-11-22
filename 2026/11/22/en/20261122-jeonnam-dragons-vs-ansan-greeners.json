@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1510504,
+    "matchup": "Jeonnam Dragons vs Ansan Greeners",
+    "home_team": "Jeonnam Dragons",
+    "away_team": "Ansan Greeners",
+    "league": "K League 2",
+    "kickoff_utc": "2026-11-22 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261122-jeonnam-dragons-vs-ansan-greeners/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Jeonnam Dragons vs Ansan Greeners Prediction & Match Analysis: Valdivia vs Leaky Defense in Finale",
+    "meta": {
+      "matchId": "1510504",
+      "league": "K League 2",
+      "matchup": "Jeonnam Dragons vs Ansan Greeners",
+      "matchTime": "2026-11-22 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jeonnam Dragons Win or Draw paired with Over 2.5 Goals and BTTS Yes reflects the hosts' home attacking efficiency against two vulnerable defenses.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Jeonnam Dragons' 2:1 projection (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.04 combined lambda and sub-14% clean-sheet rates (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by >77% single-side scoring expectations (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1510504",
+      "league": "K League 2",
+      "homeTeam": "Jeonnam Dragons",
+      "awayTeam": "Ansan Greeners",
+      "match_time": "05:00",
+      "match_highlight": "Valdivia leads Jeonnam's home attack against Ansan's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1510504,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Jeonnam's home unbeaten rate and superior finishing support a 2:1 home win while their leaky defense requires covering a 1:1 draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda of 3.04 and sub-14% clean-sheet rates for both teams point toward at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks top 77% single-side scoring expectancy against defenses conceding 1.83 and 1.90 goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Jeonnam's sharper big-chance efficiency at Gwangyang, while 1:1 captures the Poisson modal draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4%) and two goals (22.1%) lead the Poisson total-goals distribution across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Tight first halves favor a Draw-Win home breakthrough, with Win-Draw covering Jeonnam's 60% home half-time lead drop rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 00:22:22 UTC"
+}
