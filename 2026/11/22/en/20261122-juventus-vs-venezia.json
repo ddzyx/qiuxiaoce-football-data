@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550201,
+    "matchup": "Juventus vs Venezia",
+    "home_team": "Juventus",
+    "away_team": "Venezia",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-22 11:30:00",
+    "source_url": "https://xgmind.com/matches/20261122-juventus-vs-venezia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Juventus vs Venezia: Expected Goals, Midfield Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1550201",
+      "league": "Serie A",
+      "matchup": "Juventus vs Venezia",
+      "matchTime": "2026-11-22 11:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juventus are projected to secure a controlled home victory over relegation-threatened Venezia, led by a 2:0 Under 2.5 and BTTS No baseline.",
+    "possibilityAssessment": [
+      "Home Win — Juventus leverage home defensive control and set-piece edge against winless-away Venezia (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals — Juventus 80% home Under 2.5 rate and depleted attacks counter Bet365 Over pricing (Confidence: Moderate, Value: High)",
+      "Juventus 2:1 Contingency — Venezia vertical breaks test Locatelli-less midfield without overturning home edge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550201",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "Venezia",
+      "match_time": "11:30",
+      "match_highlight": "Juventus home defensive control meets Venezia away transition struggle in Turin.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550201,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by our 2:0 primary projection, Juventus's 0.72 xGA/game home structure and 60% home two-goal win rate overwhelm Venezia's 0-0-5 away record despite Juve's midfield absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.55 combined lambda (53.1% Poisson Under 2.5), Juventus's 80.0% home Under 2.5 rate, and missing attackers on both sides."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Juventus's 0.72 xGA/game home defense and 60.0% home clean-sheet rate face a Venezia side blanking in 60.0% of away games without Toma Bašić and Andrea Adorante."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 matches Juventus's exact 2-goal home winning pattern and clean-sheet floor, while 2:1 covers a transition goal past Juventus's depleted midfield."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.4%) and 3 goals (21.6%) represent the two highest-density Poisson total-goal outcomes around the 2.55 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects Juventus's 60.0% home half-time draw rate and second-half acceleration, while Win-Win covers Venezia's 80.0% away half-time trailing rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-22 06:54:58 UTC"
+}
