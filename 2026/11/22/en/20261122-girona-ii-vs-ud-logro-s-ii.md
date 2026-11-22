@@ -1,0 +1,83 @@
+# Girona II vs UD Logroñés II Tactical Breakdown & Probabilistic Modeling: Vidreres Form vs Leaky Defense
+
+> **Competition**: Segunda División RFEF - Group 2
+> **Kickoff**: 2026-11-22 11:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the heart of this Segunda División RFEF Group 2 encounter lies a sharp divergence in trajectory between two reserve outfits meeting in Round 12 at the Camp Municipal de Vidreres. Third-placed Girona II enters Sunday&#x27;s 11:00 UTC kickoff with 22 points from 11 matches and five victories across its last six verified league outings, while 13th-placed UD Logroñés II travels from La Rioja with 10 points and a pressing need to arrest a leaky defensive run. The central tactical question is whether UD Logroñés II&#x27;s transition outlets and set-piece persistence can pierce a resurgent Catalan backline that has registered five clean sheets in six games, or whether Girona II&#x27;s two-goal-per-match attack will overwhelm the visitors on artificial turf. XG Mind AI synthesizes standings-derived goal lambdas, Poisson probability distributions, and verified squad intelligence to map the most coherent match scripts and scoreline expectations.
+
+📌 Girona II vs UD Logroñés II: Match Intelligence Brief
+
+Fixture ID
+
+: 1572436
+
+Matchup
+
+: Girona II vs UD Logroñés II
+
+Competition
+
+: Segunda División RFEF - Group 2, Group 2 - 12
+
+Kickoff Time
+
+: 2026-11-22 11:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether Girona II&#x27;s rejuvenated home attack led by Ricard Artero can exploit UD Logroñés II&#x27;s 1.64 goals-conceded-per-match defense before the visitors find a set-piece or transition opening.
+
+📊 1. Girona II Attacking Structure vs UD Logroñés II Defensive Counter
+
+⚔️ Head-to-Head History: No Recent Competitive Meetings Recorded
+
+No competitive head-to-head meetings between Girona II and UD Logroñés II have occurred in recent seasons in the supplied match records.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+N/A
+
+Segunda División RFEF - Group 2
+
+No recent competitive meetings recorded
+
+N/A
+
+N/A
+
+📈 Team Form &amp; Tactical Style Breakdown: Vertical Home Control vs Fragile Road Resistance
+
+Home Team (Girona II):
+
+Under head coach Ángel Donato and assistant Álex Granell, a heavily rejuvenated Girona II side has climbed to third place in Group 2 with 22 points from 11 league matches (7W-1D-3L, 22 goals scored, 12 conceded). Recent verified form across October and November reflects rapid tactical maturation: after beating CD Ebro 1-0 away and narrowly falling 1-0 at Terrassa FC, Girona II strung together four consecutive league victories with four straight clean sheets—sweeping aside Náxara CD 3-0 and UE Olot 4-0 at the Camp Municipal de Vidreres alongside 1-0 road wins at CF Calamocha and FC Barcelona Atlètic.
+
+Girona II pairs a 2.00 goals-per-match seasonal scoring rate with a tightened backline that has conceded just one goal across its last six verified league outings.
+
+Midfielder Ricard Artero has emerged as the decisive attacking catalyst, scoring twice in the 4-0 derby win over UE Olot and netting the 54th-minute winner at Barcelona Atlètic, while Juan Arango, Àlex Cantarell, and penalty-taker Javi González provide vertical thrust behind a cohesive defensive unit featuring Biel Carreras, Anartz Segurola, and Antonio Salguero. Although seasonal clean-sheet rates in the JSON feed cover only one match, the broader six-match verified sample confirms strong defensive discipline alongside a clear capacity to accelerate early at Vidreres.
+
+Away Team (UD Logroñés II):
+
+Coached by long-serving manager Yayo Urzay, UD Logroñés II—also competing as UD Logroñés Promesas—sits 13th in Group 2 with 10 points from 11 matches (2W-4D-5L, 11 goals scored, 18 conceded). Across six verified October and November league fixtures, the Riojan reserve side recorded just one win—a 2-1 home victory over UD Barbastro—alongside defeats to UE Olot (2-4), Terrassa FC (0-3), and RCD Espanyol B (1-3), plus battling draws away at Utebo FC (1-1) and at home against Peña Sport FC (2-2).
+
+While UD Logroñés II averages a respectable 1.00 goal per match and scored in five of its last six verified games, defensive containment remains its chronic weakness at 1.64 goals conceded per match.
+
+Forward Raúl Bello and center-back Eder Larrea supplied the goals in the 2-2 draw against Peña Sport, with Prince Chinedu and Samuel Lallana offering additional transition and midfield energy, and recent addition Mariano Beunza reinforcing squad depth. Because the supplied scoring profile covers only two matches (both draws with goals at both ends), full-season rates are unquantified in the feed, yet verified results show a side that conceded in all six recent outings and allowed two or more goals in four of them.
+
+🔍 Core Statistical Comparison: Girona II Holds Clear Two-Way Scoring and Defensive Margin
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261122-girona-ii-vs-ud-logro-s-ii/)
