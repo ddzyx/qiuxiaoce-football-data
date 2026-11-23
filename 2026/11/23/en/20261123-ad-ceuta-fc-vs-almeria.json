@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570029,
+    "matchup": "AD Ceuta FC vs Almeria",
+    "home_team": "AD Ceuta FC",
+    "away_team": "Almeria",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-23 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261123-ad-ceuta-fc-vs-almeria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "AD Ceuta FC vs Almeria Prediction & Match Analysis: Can Lobera Fix Ceuta's xG Gap? — Scoreline Preview",
+    "meta": {
+      "matchId": "1570029",
+      "league": "Segunda División",
+      "matchup": "AD Ceuta FC vs Almeria",
+      "matchTime": "2026-11-23 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Almeria is projected to claim an away victory at Estadio Municipal Alfonso Murube, led by a 1:2 scoreline scenario backed by superior finishing efficiency.",
+    "possibilityAssessment": [
+      "Almeria Away Win backed by 1.86 goals per game, +123 Elo edge, and Ceuta's 0.0% clean-sheet record (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes supported by 2.83 combined lambda, Ceuta's 1.51 xG output, and Jorge Pulido's late defensive absence (Confidence: Moderate, Value: Moderate)",
+      "Almeria 0:2 clean-sheet control branch if Ceuta's 70.0% big-chance waste rate extends against Almeria's 1.15 xGA structure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570029",
+      "league": "Segunda División",
+      "homeTeam": "AD Ceuta FC",
+      "awayTeam": "Almeria",
+      "match_time": "19:30",
+      "match_highlight": "Almeria's clinical attack tests Ceuta's 0% clean-sheet defense despite Pulido absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570029,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Almeria's 1.86 goals per game and healthy front line should overpower a winless-clean-sheet Ceuta defense toward a 1:2 or 0:2 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.83 expected goals, Ceuta's 2.29 goals conceded per game, and Almeria's center-back absences support at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ceuta's 1.51 xG and five set-piece goals gain an opening against a Pulido-less Almeria defense while Almeria reliably scores twice."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Almeria's attacking edge alongside Ceuta's set-piece threat without Pulido, while 0:2 covers Ceuta's ongoing finishing drought."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals anchors the primary 1:2 script above the 2.83 lambda total, with two goals carrying the top Poisson single-integer density (23.6%)."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Almeria leads at half-time in 57.1% of matches while Ceuta trails 64.3%, making Loss-Loss primary and a tighter Draw-Loss second-half breakthrough secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 07:38:46 UTC"
+}
