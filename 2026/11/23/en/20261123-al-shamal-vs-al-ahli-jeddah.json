@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629977,
+    "matchup": "Al Shamal vs Al-Ahli Jeddah",
+    "home_team": "Al Shamal",
+    "away_team": "Al-Ahli Jeddah",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-23 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-al-shamal-vs-al-ahli-jeddah/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Shamal vs Al-Ahli Jeddah Tactical Breakdown & Match Analysis: Mahrez Tests Champions' Edge",
+    "meta": {
+      "matchId": "1629977",
+      "league": "AFC Champions League Elite",
+      "matchup": "Al Shamal vs Al-Ahli Jeddah",
+      "matchTime": "2026-11-23 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Ahli Jeddah carry the stronger attacking ceiling to edge a tight contest, while Draw remains formally covered given their 61.1% big-chance waste rate and Al Shamal's home resilience.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by an Al-Ahli Jeddah second-half breakthrough with Draw protection against home containment (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals anchored by a 2.00 combined lambda and both clubs' 0.75 goals-conceded averages in ACL Elite (Confidence: High, Value: Moderate)",
+      "1:1 Draw or 0:0 stalemate variance if Riyad Mahrez disrupts Al-Ahli on a short 70-hour turnaround (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629977",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Al Shamal",
+      "awayTeam": "Al-Ahli Jeddah",
+      "match_time": "16:00",
+      "match_highlight": "Riyad Mahrez faces former club Al-Ahli Jeddah in tight tactical clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629977,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al-Ahli Jeddah's superior firepower in a projected 0:1 win alongside a 1:1 draw script driven by Al Shamal's home resistance and Al-Ahli's 61.1% big-chance waste rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.00 combined lambda (67.7% Poisson Under 2.5) and both teams conceding just 0.75 goals per match in ACL Elite play."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Poisson BTTS No stands at 60.6% as Al Shamal carry a 50.0% continental failed-to-score rate against an Al-Ahli defense with a 41.5% clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 leads the Poisson matrix at 15.2% via Al-Ahli's second-half quality, while 1:1 covers Al Shamal's ability to score at home."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "One-goal and two-goal totals tie atop the Poisson distribution at 27.1% each under conservative continental game states."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Al Shamal have been level at half-time in all four ACL Elite games, framing a tight first half before Al-Ahli either break through or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 04:14:09 UTC"
+}
