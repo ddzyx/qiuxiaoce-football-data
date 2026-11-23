@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550203,
+    "matchup": "Monza vs Fiorentina",
+    "home_team": "Monza",
+    "away_team": "Fiorentina",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-23 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261123-monza-vs-fiorentina/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Monza vs Fiorentina: Expected Goals (xG), Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1550203",
+      "league": "Serie A",
+      "matchup": "Monza vs Fiorentina",
+      "matchTime": "2026-11-23 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fiorentina's superior midfield creativity and recent unbeaten scoring surge position them to edge or share points in an open, high-scoring Serie A contest at Stadio Brianteo.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Fiorentina's attacking edge with high-scoring draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes driven by 3.82 combined lambda and mutual defensive porosity (Confidence: High, Value: Moderate)",
+      "1:2 / 2:2 Scoreline Convergence reflecting second-half Fiorentina pressure and Varela's transition threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550203",
+      "league": "Serie A",
+      "homeTeam": "Monza",
+      "awayTeam": "Fiorentina",
+      "match_time": "19:45",
+      "match_highlight": "Zero-clean-sheet Fiorentina face injury-hit Monza in an open relegation battle.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550203,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Fiorentina victory driven by midfield superiority alongside a 2:2 draw given Fiorentina's 0% clean-sheet rate, avoiding a single away call that ignores defensive injuries."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.82 lambda, 73.4% Poisson Over 2.5 density, and 81.8%/90.9% seasonal Over 2.5 rates strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Fiorentina have zero clean sheets in 11 matches without Pongracic, while Monza have conceded 25 goals and face Mastantuono and Njie."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Both scores capture mutual scoring against porous backlines while differing on whether Fiorentina's second-half quality forces a late winner."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (20.4% Poisson) and four goals (19.5%) dominate the baseline distribution and match both projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Reflects both sides' heavy second-half goal bias for a level break followed by an away win, plus Fiorentina's tendency to recover half-time deficits into draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 08:08:05 UTC"
+}
