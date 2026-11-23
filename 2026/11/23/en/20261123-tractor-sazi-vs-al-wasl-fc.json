@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629978,
+    "matchup": "Tractor Sazi vs Al-Wasl FC",
+    "home_team": "Tractor Sazi",
+    "away_team": "Al-Wasl FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-23 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-tractor-sazi-vs-al-wasl-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tractor Sazi vs Al-Wasl FC Tactical Breakdown & Probabilistic Modeling: Neutral-Venue Transition Clash",
+    "meta": {
+      "matchId": "1629978",
+      "league": "AFC Champions League Elite",
+      "matchup": "Tractor Sazi vs Al-Wasl FC",
+      "matchTime": "2026-11-23 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Wasl FC's superior attacking efficiency and active multi-competition rhythm position them to avoid defeat in a high-scoring encounter against Tractor Sazi on neutral ground in Muscat.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Draw / Away Win, led by Al-Wasl FC's 2.00 continental goals-per-game attack with the draw covered against late second-half fatigue (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Alignment: Over 2.5 goals and Both Teams To Score (Yes), supported by a 3.33 combined lambda and Al-Wasl's 100% continental BTTS rate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoreline Branch: A 2:2 high-scoring draw if Tractor Sazi's 21-day rest surplus drives late pressure against Al-Wasl's porous continental backline (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629978",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Tractor Sazi",
+      "awayTeam": "Al-Wasl FC",
+      "match_time": "16:00",
+      "match_highlight": "Al-Wasl's high-scoring attack tests Tractor's neutral-ground resolve.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629978,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al-Wasl FC's superior 2.00 goals-per-game finishing in a 1:2 away win alongside the 2:2 draw branch driven by Al-Wasl's 2.67 continental goals conceded per match, as Tractor's 66.7% big-chance waste makes a single call weaker."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.33 combined lambda, a 64.7% Poisson Over 2.5 projection, and Al-Wasl FC's 3-for-3 Over 2.5 record in AFC Champions League Elite play."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson scoring probabilities exceed 80% for both sides (81.9% home, 80.2% away), matching Al-Wasl FC's 0.0% continental clean-sheet rate and 100% BTTS trend."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 (8.0% Poisson density) captures Al-Wasl FC's sharper finishing edging a second-half Tractor goal, while 2:2 (6.9%) covers Tractor's late-game resilience against tired legs."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.0%) and 4 goals (18.3%) anchor the upper-middle Poisson total distribution and align cleanly with Over 2.5 and both projected scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Tractor Sazi's 0.0% first-half goal share and 2-for-2 home halftime draws point to a level opening 45 minutes before Al-Wasl's attacking depth decides or shares the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 04:17:45 UTC"
+}
