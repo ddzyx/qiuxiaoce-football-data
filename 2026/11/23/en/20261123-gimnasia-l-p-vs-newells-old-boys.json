@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649567,
+    "matchup": "Gimnasia L.P. vs Newells Old Boys",
+    "home_team": "Gimnasia L.P.",
+    "away_team": "Newells Old Boys",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-23 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-gimnasia-l-p-vs-newells-old-boys/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gimnasia L.P. vs Newells Old Boys: Expected Goals (xG), Lineup Returns & Match Analysis",
+    "meta": {
+      "matchId": "1649567",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Gimnasia L.P. vs Newells Old Boys",
+      "matchTime": "2026-11-23 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gimnasia L.P. hold the superior regulation-time floor via Home Win / Draw in an Under 2.5 Round of 16 clash shaped by Newell's defensive containment and weak road scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw 1X2 direction driven by Gimnasia's 92.9% home scoring rate and +64 Elo edge balanced against Newell's 43.8% draw rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.40 combined lambda, 57.0% Poisson probability, and Newell's 64.5% under-2.5 league record (Confidence: High, Value: Moderate)",
+      "1:1 Draw contingency hedging Gimnasia's 1.64 xGA per game against a rested Newell's side bolstered by Cóccaro's return (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649567",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Gimnasia L.P.",
+      "awayTeam": "Newells Old Boys",
+      "match_time": "20:00",
+      "match_highlight": "Gimnasia's 1.72 xG attack tests Newell's returning backline at El Bosque.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649567,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Gimnasia victory built on superior xG creation alongside a 1:1 knockout stalemate against Newell's 0.64 xGA block, as neither side's profile isolates a single 90-minute outcome cleanly."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.40 lambda, 57.0% Poisson under expectancy, Newell's 0.75 xG per game, and knockout caution suppress total scoring."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Newell's failed to score in 46.7% of away matches on 0.75 xG per game, giving Gimnasia a solid shutout route at home."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Gimnasia's home scoring consistency against Newell's low xG road output, while 1:1 captures the modal Poisson draw risk."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two Poisson goal counts (26.1% and 21.8%) align with tight one-goal or level knockout scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Newell's 23.3% first-half goal share and 51.6% HT draw rate point to a level interval before Gimnasia break through or settle for penalties."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 08:21:40 UTC"
+}
