@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494341,
+    "matchup": "Hammarby FF vs IFK Goteborg",
+    "home_team": "Hammarby FF",
+    "away_team": "IFK Goteborg",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-hammarby-ff-vs-ifk-goteborg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Hammarby FF vs IFK Goteborg: Expected Goals (xG), Squad Absences & Match Analysis",
+    "meta": {
+      "matchId": "1494341",
+      "league": "Allsvenskan",
+      "matchup": "Hammarby FF vs IFK Goteborg",
+      "matchTime": "2026-11-23 18:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Hammarby FF are projected to secure a decisive regulation-time victory at 3Arena by exploiting a clear class, fitness, and title-urgency gap over a depleted IFK Goteborg side.",
+    "possibilityAssessment": [
+      "Home Win — Hammarby's intact front line, 69.2% home half-time lead rate, and 76.9% two-goal-plus home win rate dominate a depleted Goteborg spine (Confidence: High, Value: Moderate)",
+      "Over 2.5 Goals — Driven by Hammarby's 2.17 xG/game and 61.5% home Over 2.5 rate against a visiting backline missing Bager and Erlingmark (Confidence: High, Value: Moderate)",
+      "BTTS: No — Goteborg's three-match scoreless run, 38.5% away failed-to-score rate, and absence of Heintz and Larsson align with market pricing favouring a home shutout (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494341",
+      "league": "Allsvenskan",
+      "homeTeam": "Hammarby FF",
+      "awayTeam": "IFK Goteborg",
+      "match_time": "18:00",
+      "match_highlight": "Title-chasing Hammarby attack meets suspension-hit Goteborg defense",
+      "ai_confidence": "High",
+      "fixtureId": 1494341,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Hammarby's 2.17 xG output, five-match winning run, and full attacking availability decisively outclass an injury- and suspension-hit IFK Goteborg."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.94 seasonal lambda total, Hammarby's 61.5% home Over 2.5 rate, and Goteborg's 1.64 goals conceded per match support three or more goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Hammarby's 53.8% home clean-sheet rate and Goteborg's three-game scoreless streak without Heintz and Larsson favour a single-sided scoring profile."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "3:1"
+        ],
+        "comment": "Hammarby's six home wins by 3+ goals and Goteborg's four 3+ goal away losses anchor 3:0, with 3:1 covering a late set-piece consolation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Personnel-adjusted expectancy pushes scoring density into the 3-to-4 goal range driven by sustained home box pressure."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Hammarby's 69.2% home half-time lead rate supports Win-Win, while Draw-Win covers early compact visiting resistance before second-half acceleration."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 06:08:40 UTC"
+}
