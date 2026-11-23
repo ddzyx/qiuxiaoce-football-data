@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557469,
+    "matchup": "Brentford vs Everton",
+    "home_team": "Brentford",
+    "away_team": "Everton",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-23 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-brentford-vs-everton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brentford vs Everton Prediction & Match Analysis: Can Depleted Bees Halt Barry? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1557469",
+      "league": "Premier League",
+      "matchup": "Brentford vs Everton",
+      "matchTime": "2026-11-23 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Everton to avoid defeat via Draw / Away Win alongside BTTS: Yes and Under 2.5, anchored on a 1:1 primary and 1:2 secondary projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Everton's 80% away unbeaten profile against a Brentford side missing Igor Thiago and Nathan Collins (Confidence: Moderate, Value: High)",
+      "Under 2.5 aligns with the 2.45 combined lambda and Everton's four Under 2.5 results in five road fixtures (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes reflects Brentford's 100% home scoring run meeting Everton's 5.00 shots on target per match against a weakened home back line (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557469",
+      "league": "Premier League",
+      "homeTeam": "Brentford",
+      "awayTeam": "Everton",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Brentford face red-hot Thierno Barry without suspended Thiago and injured Collins.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557469,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on 1:1 and 1:2 scripts, Draw / Away Win covers both Everton's road stalemate habit and a late second-half away win, whereas a single call would omit one of two well-supported outcomes."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.45 combined lambda, Everton's 80% away Under 2.5 rate, and Igor Thiago's suspension support two total goals over an open goal-fest."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Brentford have scored in all five home league games, while Everton's 1.38 xG per match meets a Collins-less defense conceding 1.48 xGA."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 12.9% given Gtech draw history, with 1:2 capturing Everton's second-half surge against injured home defenders."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson count at 25.9%, with three goals covering a late 1:2 Everton breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Everton have scored zero first-half goals in five away matches, pointing to a level interval before either a 1:1 stalemate or a second-half Everton winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 08:12:12 UTC"
+}
