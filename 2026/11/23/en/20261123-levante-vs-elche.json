@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570457,
+    "matchup": "Levante vs Elche",
+    "home_team": "Levante",
+    "away_team": "Elche",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-23 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-levante-vs-elche/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Levante vs Elche: Expected Goals (xG), Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1570457",
+      "league": "La Liga",
+      "matchup": "Levante vs Elche",
+      "matchTime": "2026-11-23 20:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Quantitative expectancy and venue-split defensive metrics support Elche avoiding defeat (Draw / Away Win) in a high-tempo contest projected for Over 2.5 goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win anchored by 61.4% Poisson X2 mass and Elche's 5-in-6 away unbeaten record (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Over 2.5 Goals and BTTS: Yes supported by 2.96 combined lambda and 3.68 combined xGA/match (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 1:1 Scoreline hedge covering the 11.3% modal Poisson cell if 60.9% big-chance waste caps finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570457",
+      "league": "La Liga",
+      "homeTeam": "Levante",
+      "awayTeam": "Elche",
+      "match_time": "20:00",
+      "match_highlight": "Levante's zero home clean sheets test Elche's resilient away attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1570457,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both an Elche 1:2 away victory and a 1:1 draw because Elche hold 61.4% combined Poisson probability and superior xGA, while a single Away Win call ignores both sides' 60.9% chance-waste rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.96 combined lambda, 56.8% Poisson Over 2.5 probability, 3.68 combined xGA per match, and four of five Levante home games clearing 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Driven by Levante's zero clean sheets in five home fixtures (1.99 xGA/match) and Elche scoring in five of six away outings against a 1.69 xGA defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Elche's edge in forward threat and defensive prevention in an open exchange, while 1:1 covers the 11.3% modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2.96 lambda and Over 2.5 projection, with 2 goals covering the tight 22.7% Poisson runner-up branch if conversion lags."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Levante trailing at half-time in 60% of home games and Elche's 100% away win conversion from half-time leads, while Draw-Draw covers Elche's 2-for-2 away half-time draw holds."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 08:18:13 UTC"
+}
