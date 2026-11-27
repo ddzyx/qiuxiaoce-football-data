@@ -145,5 +145,15 @@
         "spread": -1,
         "ai_level": "中",
         "ai_risk_flag": "clear"
+    },
+    "result": {
+        "half_score": "1-1",
+        "actual_score": "3-1",
+        "score_hit": false,
+        "goals_hit": true,
+        "htft_hit": false,
+        "direction_hit": false,
+        "is_correct": true,
+        "is_wrong": false
     }
 }
